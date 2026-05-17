@@ -634,6 +634,10 @@ els.markCheckedButton.addEventListener("click", () => {
 render();
 loadFeed().then((loaded) => {
   if (loaded) render();
+  // The initial loadFeed reads from the <script src="feed.js?v=N"> global, which
+  // iOS/Safari and PWAs may serve from disk cache on cold open. Force an immediate
+  // cache-busted fetch so the user never sees stale data for more than a beat.
+  checkForNewData();
 });
 
 // --- Auto-refresh: re-load feed.js periodically and re-render only when generatedAt changes.
@@ -697,6 +701,15 @@ document.addEventListener("visibilitychange", () => {
     checkForNewData();
     startAutoRefresh();
   }
+});
+
+// pageshow fires on cold load AND when iOS/Safari restores a tab or standalone
+// app from the back-forward cache. Belt-and-suspenders against stale data on
+// PWA cold open (Add to Home Screen on iOS, where visibilitychange isn't always
+// reliable on first launch).
+window.addEventListener("pageshow", (event) => {
+  // event.persisted = true means restored from bfcache, where the page didn't re-init.
+  if (event.persisted) checkForNewData();
 });
 
 if (!document.hidden) startAutoRefresh();
