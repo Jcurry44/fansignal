@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FanSignal — Buffalo sports, all in one place</title>
+    <link rel="stylesheet" href="./styles.css?v=7">
+    <script src="./feed.js?v=7" defer></script>
+    <script src="./app.js?v=7" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <div>
+            <h1>FanSignal</h1>
+            <p>Buffalo sports, all in one place</p>
+          </div>
+        </div>
+        <div class="top-actions" aria-label="Feed actions">
+          <span class="demo-chip" title="Sample data — live ingestion arrives in Days 4–8">Sample data</span>
+          <span class="last-checked-chip" id="lastCheckedLabel">Never checked</span>
+          <button class="ghost-button" id="markCheckedButton" type="button" title="Mark current feed as checked">
+            <span class="button-icon" aria-hidden="true">&check;</span>
+            Checked
+          </button>
+        </div>
+      </header>
+
+      <section class="game-strip" id="gameStrip" aria-label="Buffalo games"></section>
+
+      <nav class="team-tabs" id="teamTabs" aria-label="Filter by team"></nav>
+
+      <nav class="source-pills" id="sourcePills" aria-label="Filter by source"></nav>
+
+      <main>
+        <section class="top-story" id="topStory" aria-label="Top story"></section>
+
+        <section class="team-columns" id="teamColumns" aria-label="Buffalo news by team"></section>
+
+        <div class="empty-state" id="emptyState">
+          <strong>Nothing new yet</strong>
+          <span>Try another team tab, or check back soon.</span>
+        </div>
+      </main>
+
+      <footer class="footnote">
+        <span>FanSignal pulls only from trusted Buffalo beats. No politics. No ads. No discourse.</span>
+        <span class="footnote-hint">Auto-refresh: data reloads every minute. Background updates: run <code>setup-autostart.bat</code> once. Manual: double-click <code>refresh.bat</code>.</span>
+      </footer>
+    </div>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>

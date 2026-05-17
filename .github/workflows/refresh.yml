@@ -1,0 +1,45 @@
+name: Refresh FanSignal feed
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub free tier may delay 5–15 min during high load,
+    # so effective frequency is ~15–30 min. Plenty fresh for a sports news app.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: # allows manual trigger from the Actions tab
+  push:
+    branches: [main] # also refresh on every code push so a deploy doesn't ship stale data
+
+permissions:
+  contents: write # required to commit the regenerated feed back to the repo
+
+concurrency:
+  group: feed-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run ingestion
+        run: node ingest.js
+
+      - name: Commit refreshed feed
+        run: |
+          git config user.name "fansignal-bot"
+          git config user.email "fansignal-bot@users.noreply.github.com"
+          git add feed.js feed.json
+          if git diff --cached --quiet; then
+            echo "No feed changes — nothing to commit."
+          else
+            git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

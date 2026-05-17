@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+.npm/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Local autostart artifacts (don't sync these to other machines)
+# Note: refresh.bat, watch.bat, watch-silent.vbs ARE checked in — they're
+# part of the local-dev workflow. Only true local state goes here.

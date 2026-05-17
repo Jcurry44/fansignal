@@ -1,0 +1,16 @@
+{
+  "name": "fansignal",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Buffalo sports, all in one place.",
+  "scripts": {
+    "refresh": "node ingest.js",
+    "watch": "node ingest.js --watch 10",
+    "ingest": "node ingest.js",
+    "serve": "npx --yes http-server -p 8080 -c-1 --silent"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
