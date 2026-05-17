@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T21:53:31.188Z",
+  "generatedAt": "2026-05-17T21:57:20.319Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -175,17 +175,6 @@
     }
   ],
   "stories": [
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48795716/usmnt-christian-pulisic-returns-injury-ac-milan-victory-world-cup",
-      "team": "usmnt",
-      "title": "Pulisic makes return from injury in AC Milan win",
-      "summary": "Christian Pulisic came on as a second-half substitute to help Milan to a crucial 2-1 win at Genoa on Sunday.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T21:53:18.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48795716/usmnt-christian-pulisic-returns-injury-ac-milan-victory-world-cup"
-    },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020-named-ahl-rookie-of-the-year-extended-2-years-3-35m-aav.2857538/",
       "team": "sabres",
@@ -330,17 +319,6 @@
       "link": "https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups",
-      "team": "sabres",
-      "title": "Stanley Cup playoffs daily: Sabres-Canadiens serie...",
-      "summary": "The Hurricanes are still waiting to find out their next opponent. Get caught up on everything here.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T18:39:51.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134233/buffalo-bills-2026-home-game-ticket-resale-prices-are-currently-insane",
       "team": "bills",
       "title": "Buffalo Bills 2026 home-game ticket resale prices are currently insane",
@@ -427,28 +405,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-17T15:04:05.000Z",
       "link": "https://forums.hfboards.com/threads/maxim-strbak-rd-sioux-falls-ushl-selection-45oa-2023-signed.2933259/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48792712/goaltender-change-sparks-buffalo-sabres-rally-game-6",
-      "team": "sabres",
-      "title": "Goalie change fuels rally as Sabres force Game 7",
-      "summary": "Ukko-Pekka Luukkonen made 18 saves after starter Alex Lyon stopped only one of the four shots he faced, and the Sabres roared back to defeat the Canadiens 8-3 to force a Game 7 in this Eastern Conference semifinal series.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T14:57:49.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48792712/goaltender-change-sparks-buffalo-sabres-rally-game-6"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48778962/quinn-hughes-willing-talk-offseason-extension-wild",
-      "team": "sabres",
-      "title": "Hughes 'definitely open' to extension with Wild",
-      "summary": "Eligible to sign a contract extension July 1, star defenseman Quinn Hughes says he is \"definitely open\" to reaching a deal to remain with the Wild.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T14:57:49.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48778962/quinn-hughes-willing-talk-offseason-extension-wild"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/ecsf-game-6-1a-buffalo-sabres-vs-3a-montreal-canadiens-at-8-pm-et-on-abc-sn-cbc-tvas-and-wgr-canadiens-lead-3-2.3030343/",
@@ -878,17 +834,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-15T10:00:01Z",
       "link": "https://www.espn.com/nfl/story/_/id/48768770/buffalo-bills-takeaways-rookie-minicamp-first-field-action-skyler-bell"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48752501/who-usmnt-dog-xdawg-quantify-that",
-      "team": "usmnt",
-      "title": "Who on the USMNT 'has that dog in them'? xDAWG can...",
-      "summary": "The USMNT has been accused of lacking its once-trademark fight in recent seasons. If only there were a metric that could help quantify grit.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T09:19:28.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48752501/who-usmnt-dog-xdawg-quantify-that"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-blow-leads-in-loss-to-canadiens-on-brink-of-elimination-owen-power-briefly-leaves-game-injured/",
