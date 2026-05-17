@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T20:55:12.232Z",
+  "generatedAt": "2026-05-17T21:08:59.353Z",
   "sources": [
     {
       "id": "bills-official",
@@ -33,8 +33,8 @@
       "id": "reddit-bills",
       "label": "r/buffalobills",
       "team": "bills",
-      "itemCount": 20,
-      "error": null
+      "itemCount": 0,
+      "error": "HTTP 403"
     },
     {
       "id": "espn-sabres",
@@ -75,15 +75,15 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
       "id": "reddit-sabres",
       "label": "r/sabres",
       "team": "sabres",
-      "itemCount": 20,
-      "error": null
+      "itemCount": 0,
+      "error": "HTTP 403"
     },
     {
       "id": "bandits-official",
@@ -128,50 +128,6 @@
   ],
   "stories": [
     {
-      "id": "reddit-sabres::1tfyo7o",
-      "team": "sabres",
-      "title": "Snake bitten knows snake bitten",
-      "summary": "My favorite pic from the game. This was Jack Quinn, after scoring his first playoff goal -- finally -- this post-season. Quinn went right to Alex Tuch and they both hugged.\n\nThat was just awesome. Quinn's been snake bitten the whole playoff",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T19:08:04.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfyo7o/snake_bitten_knows_snake_bitten/"
-    },
-    {
-      "id": "reddit-bills::1tfxyw2",
-      "team": "bills",
-      "title": "Spotted at Tipsy Beach Bar in Anegada British Virgin Islands.",
-      "summary": "Stop by and say hi to Bills super fan owners Ann and Andrew. ",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T18:42:43.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tfxyw2/spotted_at_tipsy_beach_bar_in_anegada_british/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups",
-      "team": "sabres",
-      "title": "Stanley Cup playoffs daily: Sabres-Canadiens serie...",
-      "summary": "The Hurricanes are still waiting to find out their next opponent. Get caught up on everything here.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T18:39:51.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
-    },
-    {
-      "id": "reddit-sabres::1tfxowo",
-      "team": "sabres",
-      "title": "Zach Metsa is now",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T18:32:43.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfxowo/zach_metsa_is_now/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134233/buffalo-bills-2026-home-game-ticket-resale-prices-are-currently-insane",
       "team": "bills",
       "title": "Buffalo Bills 2026 home-game ticket resale prices are currently insane",
@@ -194,28 +150,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
     },
     {
-      "id": "reddit-bills::1tfx323",
-      "team": "bills",
-      "title": "My Custom “One Buffalo” Bills/Sabres Josh Allen Jersey! 🍻",
-      "summary": "Game 7 Fit ☑️\n\nThis project took \\*months\\* to piece together, including hand-drawing all the fonts &amp; logos, but the ends justified the means 🦬 ⚔️ 🥅",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T18:10:42.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tfx323/my_custom_one_buffalo_billssabres_josh_allen/"
-    },
-    {
-      "id": "reddit-sabres::1tfwrt5",
-      "team": "sabres",
-      "title": "Return of the Beer Sabre",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T17:59:32.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfwrt5/return_of_the_beer_sabre/"
-    },
-    {
       "id": "espn-sabres::44686270",
       "team": "sabres",
       "title": "Stanley Cup odds: Canadiens-Sabres head to Game 7, Hurricanes odds-on favorites in the East",
@@ -227,204 +161,6 @@
       "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
     },
     {
-      "id": "reddit-sabres::1tfvayj",
-      "team": "sabres",
-      "title": "B-B-B-Benny is a rat!",
-      "summary": "\\*cue piano\\*  \nBENNY! BENNY! BENNY! BENNY IS A RAT!\n\nContinue ad nauseam…or at least the number of times Benny has gotten an end of game misconduct lol.\n\nThat tune has stuck in my head.\n\nGame 7, Sabres by a billion. Benny hatty",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T17:05:40.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfvayj/bbbbenny_is_a_rat/"
-    },
-    {
-      "id": "reddit-sabres::1tfv4pm",
-      "team": "sabres",
-      "title": "Got real quiet in Montreal.",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T16:59:30.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfv4pm/got_real_quiet_in_montreal/"
-    },
-    {
-      "id": "reddit-sabres::1tftq7g",
-      "team": "sabres",
-      "title": "Rasmus Dahlin is the first Defensemen in NHL history",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T16:06:51.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tftq7g/rasmus_dahlin_is_the_first_defensemen_in_nhl/"
-    },
-    {
-      "id": "reddit-sabres::1tfst36",
-      "team": "sabres",
-      "title": "[Jack Han] Konsta Helenius has been a difference maker for BUF. O... 5v5 on ice: 3-1 goals, 26-19 chances, 66% ×G. His ability to control the middle has been noticeable.",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T15:33:25.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfst36/jack_han_konsta_helenius_has_been_a_difference/"
-    },
-    {
-      "id": "reddit-bills::1tfshr6",
-      "team": "bills",
-      "title": "I got my cup  its already my favorite",
-      "summary": "I plan on using it  until  the end of time lol",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T15:21:40.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tfshr6/i_got_my_cup_its_already_my_favorite/"
-    },
-    {
-      "id": "reddit-sabres::1tfs8hl",
-      "team": "sabres",
-      "title": "Arguably their best game of the playoffs without any of their trade deadline acquisitions in the lineup.",
-      "summary": "Furthermore, after Lyon was pulled, only Doan and Timmins have been with the organization for less than a year.",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T15:12:05.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfs8hl/arguably_their_best_game_of_the_playoffs_without/"
-    },
-    {
-      "id": "reddit-sabres::1tfrwn9",
-      "team": "sabres",
-      "title": "[Brian Koziol] Dahlin says Power is such a key part of the team in all situations, says there was a lot of character from him knowing he's dealing with something physically.",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T15:00:00.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfrwn9/brian_koziol_dahlin_says_power_is_such_a_key_part/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48792712/goaltender-change-sparks-buffalo-sabres-rally-game-6",
-      "team": "sabres",
-      "title": "Goalie change fuels rally as Sabres force Game 7",
-      "summary": "Ukko-Pekka Luukkonen made 18 saves after starter Alex Lyon stopped only one of the four shots he faced, and the Sabres roared back to defeat the Canadiens 8-3 to force a Game 7 in this Eastern Conference semifinal series.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T14:57:49.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48792712/goaltender-change-sparks-buffalo-sabres-rally-game-6"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48778962/quinn-hughes-willing-talk-offseason-extension-wild",
-      "team": "sabres",
-      "title": "Hughes 'definitely open' to extension with Wild",
-      "summary": "Eligible to sign a contract extension July 1, star defenseman Quinn Hughes says he is \"definitely open\" to reaching a deal to remain with the Wild.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T14:57:49.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48778962/quinn-hughes-willing-talk-offseason-extension-wild"
-    },
-    {
-      "id": "reddit-sabres::1tfrtgb",
-      "team": "sabres",
-      "title": "Highlight: KBC chanting the Ole chant at the watch party",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T14:56:39.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfrtgb/highlight_kbc_chanting_the_ole_chant_at_the_watch/"
-    },
-    {
-      "id": "reddit-bills::1tfrhke",
-      "team": "bills",
-      "title": "Can anyone identify who signed this ball?",
-      "summary": "I'm not exactly sure when this is from, which family member had this autographed, or where it was autographed. Maybe training camp. It's at least 5-10 years old I'd guess.",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T14:43:54.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tfrhke/can_anyone_identify_who_signed_this_ball/"
-    },
-    {
-      "id": "reddit-sabres::1tfqhge",
-      "team": "sabres",
-      "title": "Captain Big Balls Dahls",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T14:04:46.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfqhge/captain_big_balls_dahls/"
-    },
-    {
-      "id": "reddit-bills::1tfqdhq",
-      "team": "bills",
-      "title": "Josh Allen has the highest passer rating in a single playoffs in NFL history (149.0)",
-      "summary": "Did some research after playing the game and it was in 2021 through 2 games:\n\nAFC Wild Card, W 47-17 vs. NE: 21/25, 308yds, 5TD\n\nAFC Divisional Round, L 36-42 @ KC: 27/37, 329yds, 4TD",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T14:00:40.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tfqdhq/josh_allen_has_the_highest_passer_rating_in_a/"
-    },
-    {
-      "id": "reddit-sabres::1tfqdh0",
-      "team": "sabres",
-      "title": "Lil SeBenson!",
-      "summary": "\"He does being a mini horse, and he does it better than anyone else!\"",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T14:00:39.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfqdh0/lil_sebenson/"
-    },
-    {
-      "id": "reddit-sabres::1tfpzff",
-      "team": "sabres",
-      "title": "JFG",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T13:45:13.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfpzff/jfg/"
-    },
-    {
-      "id": "reddit-sabres::1tfpfvf",
-      "team": "sabres",
-      "title": "As a Bills fan caught up in the Playoff hype:",
-      "summary": "Last time the Sabres were playing like this was my senior year of high school and I am almost 40 now. Feels good to be back. ",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T13:22:59.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfpfvf/as_a_bills_fan_caught_up_in_the_playoff_hype/"
-    },
-    {
-      "id": "reddit-sabres::1tfp0gm",
-      "team": "sabres",
-      "title": "🤝",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T13:05:16.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfp0gm/_/"
-    },
-    {
-      "id": "reddit-sabres::1tfojv7",
-      "team": "sabres",
-      "title": "RASMUS DAHLICIOUS TIES DEREK ROY &amp; JOHN TUCKER FOR MOST POINTS IN A SINGLE PLAYOFF GAME!",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T12:45:19.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfojv7/rasmus_dahlicious_ties_derek_roy_john_tucker_for/"
-    },
-    {
       "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/sunday-overreactions-wild-need-clarity-from-hughes-as-soon-as-possible/",
       "team": "sabres",
       "title": "Sunday Overreactions: Wild need clarity from Hughes as soon as possible",
@@ -434,39 +170,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-17T12:13:38.000Z",
       "link": "https://www.sportsnet.ca/nhl/article/sunday-overreactions-wild-need-clarity-from-hughes-as-soon-as-possible/"
-    },
-    {
-      "id": "reddit-sabres::1tfnmzq",
-      "team": "sabres",
-      "title": "Coaching Master Class",
-      "summary": "Looking to turn the tables back on your opponent during playoff hockey? Look no further than Professor Lindy Ruff.\n\nDefense: The biggest confirmed change was inserting rookie defenseman Zach Metsa and scratching veteran Luke Schenn.\n\nForwar",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T12:04:07.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfnmzq/coaching_master_class/"
-    },
-    {
-      "id": "reddit-bills::1tfnfq9",
-      "team": "bills",
-      "title": "Show me your framed jerseys!",
-      "summary": "",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T11:55:04.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tfnfq9/show_me_your_framed_jerseys/"
-    },
-    {
-      "id": "reddit-bills::1tfhm1n",
-      "team": "bills",
-      "title": "Found while I was out delivering mail in Oklahoma as I'm too a fellow fan",
-      "summary": "Looked to be painted on a rock slab right next to a Oklahoma Sooners rock slab ",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T06:37:19.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tfhm1n/found_while_i_was_out_delivering_mail_in_oklahoma/"
     },
     {
       "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/chaos-in-the-crease-doesnt-phase-sabres-as-they-prepare-for-game-7-in-buffalo/",
@@ -546,17 +249,6 @@
       "link": "https://www.diebytheblade.com/sabres-8-3-canadiens-fight-game-7-at-home-recap-reaction/"
     },
     {
-      "id": "reddit-sabres::1tfdcaq",
-      "team": "sabres",
-      "title": "Game 7 Baby, LFG!",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T02:58:06.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfdcaq/game_7_baby_lfg/"
-    },
-    {
       "id": "espn-sabres::48485622",
       "team": "sabres",
       "title": "Stanley Cup playoffs 2026: Bracket, schedule, scores, news",
@@ -579,17 +271,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook"
     },
     {
-      "id": "reddit-sabres::1tfbups",
-      "team": "sabres",
-      "title": "Ruff after getting Helenius in the lineup.",
-      "summary": "",
-      "source": "r/sabres",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T01:46:12.000Z",
-      "link": "https://www.reddit.com/r/sabres/comments/1tfbups/ruff_after_getting_helenius_in_the_lineup/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-change-lineup-mix-up-lines-for-game-6-against-canadiens/",
       "team": "sabres",
       "title": "Sabres change lineup, mix up lines for Game 6 against Canadiens",
@@ -599,17 +280,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-17T00:09:23.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-change-lineup-mix-up-lines-for-game-6-against-canadiens/"
-    },
-    {
-      "id": "reddit-bills::1tf9kzo",
-      "team": "bills",
-      "title": "Found in the wild in Alabama.... with a Georgia plate ha!",
-      "summary": "Was walking into a random restaurant and parked next to this fan...love seeing the Mafia everywhere ",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-16T23:59:43.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tf9kzo/found_in_the_wild_in_alabama_with_a_georgia_plate/"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/nhl/news/sabres-canadiens-odds-prediction-line-start-time-2026-nhl-playoff-picks-game-6-best-bets/",
@@ -689,28 +359,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/134122/bills-news-thoughts-predictions-on-buffalos-schedule"
     },
     {
-      "id": "reddit-bills::1tev0g8",
-      "team": "bills",
-      "title": "Bills vs Raiders",
-      "summary": "So I am a Bills fan who lives in Las Vegas. Super excited for the game in October. My wife and I would like to go. What’s the best site to buy tickets on? I checked out Ticketmaster and StubHub. Cheapest I can find is about $450 each. Any s",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-16T14:20:19.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tev0g8/bills_vs_raiders/"
-    },
-    {
-      "id": "reddit-bills::1tepdni",
-      "team": "bills",
-      "title": "Still have one of Stefon Diggs’ cleat. A kid was crying over the other pair but I couldn’t give him both. It was from game November 14, 2021.",
-      "summary": "",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-16T10:00:58.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tepdni/still_have_one_of_stefon_diggs_cleat_a_kid_was/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/lindy-ruff-wants-to-ease-pressure-on-sabres-as-they-face-elimination-buffalo-needs-more-from-alex-tuch/",
       "team": "sabres",
       "title": "Lindy Ruff wants to ease pressure on Sabres as they face elimination; Buffalo needs more from Alex Tuch,",
@@ -720,17 +368,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-16T05:32:23.000Z",
       "link": "https://www.buffalohockeybeat.com/lindy-ruff-wants-to-ease-pressure-on-sabres-as-they-face-elimination-buffalo-needs-more-from-alex-tuch/"
-    },
-    {
-      "id": "reddit-bills::1tegk5j",
-      "team": "bills",
-      "title": "Petition the NFL to move the Ravens game a day back to play on Halloween so we’ll play on every holiday between Columbus Day/Canadian Thanksgiving and Christmas",
-      "summary": "I just realized the Monday night game in LA is also a holiday game. So we play Columbus Day/Canadian Thanksgiving, and Christmas. Move that Ravens game to the day before and we could play Halloween too! \n\nWe definitely are the Holiday Bills",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-16T02:19:33.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tegk5j/petition_the_nfl_to_move_the_ravens_game_a_day/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-schedule/134223/power-ranking-buffalo-bills-2026-road-trips-for-fans",
@@ -744,17 +381,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-schedule/134223/power-ranking-buffalo-bills-2026-road-trips-for-fans"
     },
     {
-      "id": "reddit-bills::1tearfs",
-      "team": "bills",
-      "title": "[Hasan] 2026 NFL Net Rest Differential",
-      "summary": "2nd place woo hoo",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T22:06:43.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tearfs/hasan_2026_nfl_net_rest_differential/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/134155/buffalo-bills-nfl-schedule-release-2026",
       "team": "bills",
       "title": "Buffalo Bills NFL schedule release 2026",
@@ -764,50 +390,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-15T19:59:24.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/134155/buffalo-bills-nfl-schedule-release-2026"
-    },
-    {
-      "id": "reddit-bills::1te3upg",
-      "team": "bills",
-      "title": "A Brazilian fan traveling to Buffalo 🇧🇷🦬",
-      "summary": "Hey Bills Mafia!\n\nI’m a Bills fan from Brazil and I’m planning a trip to Buffalo this season to watch the primetime game against the Kansas City Chiefs on Nov 26 at the new stadium. Honestly, this could end up being one of the biggest games",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T17:53:54.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1te3upg/a_brazilian_fan_traveling_to_buffalo/"
-    },
-    {
-      "id": "reddit-bills::1te2n3g",
-      "team": "bills",
-      "title": "[Highlight] Bills fullback Carwell Gardner makes armbar hurricanrana tackle (Sept. 12, 1993)",
-      "summary": "",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T17:12:08.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1te2n3g/highlight_bills_fullback_carwell_gardner_makes/"
-    },
-    {
-      "id": "reddit-bills::1te2kxa",
-      "team": "bills",
-      "title": "All 2026 NFL games sorted from most to least expensive (Lions at Bills #1 at $630, Jaguars at Titans cheapest at $21)",
-      "summary": "New stadium bringing football to all of us /s",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T17:10:04.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1te2kxa/all_2026_nfl_games_sorted_from_most_to_least/"
-    },
-    {
-      "id": "reddit-bills::1te1scn",
-      "team": "bills",
-      "title": "FYI if you bought seats from the old stadium and paid shipping",
-      "summary": "Hi everyone,\n\nI saw a few folks commenting about this on a post a week or two ago, asking about how they would be notified when their seats were ready to ship.\n\nI can happily say I have received my seats! However, I had no emails about it n",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T16:41:52.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1te1scn/fyi_if_you_bought_seats_from_the_old_stadium_and/"
     },
     {
       "id": "espn-bills::47809892",
@@ -830,17 +412,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-15T15:53:09.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-owen-power-feeling-pretty-good-after-injury/"
-    },
-    {
-      "id": "reddit-bills::1tdv8db",
-      "team": "bills",
-      "title": "Justice for Sal!",
-      "summary": "Bills should be ashamed of themselves for this move. They are getting plenty of heat on social media for this and deservedly so. Even more of a terrible look when you consider that he’s quite literally on a bills cruise right now with a bun",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T12:42:37.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tdv8db/justice_for_sal/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-new-flagship-radio-station-and-broadcast-team-additions-for-2026-season",
@@ -909,17 +480,6 @@
       "link": "https://www.buffalohockeybeat.com/after-trade-long-stretch-sitting-out-as-scratch-luke-schenn-adds-to-sabres-playoff-run-just-steady-eddie/"
     },
     {
-      "id": "reddit-bills::1tdlbbl",
-      "team": "bills",
-      "title": "Chrysalis",
-      "summary": "",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T04:13:26.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tdlbbl/chrysalis/"
-    },
-    {
       "id": "espn-bills::48774719",
       "team": "bills",
       "title": "Bills schedule released for 2026 season",
@@ -986,17 +546,6 @@
       "link": "https://www.buffalobills.com/news/top-8-things-to-know-about-the-bills-2026-schedule"
     },
     {
-      "id": "reddit-bills::1tdez4e",
-      "team": "bills",
-      "title": "2026 Schedule!!",
-      "summary": "",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-14T23:31:10.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tdez4e/2026_schedule/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/holiday-spotlight-bills-slated-for-thanksgiving-and-christmas-matchups",
       "team": "bills",
       "title": "Holiday Spotlight! Bills slated for Thanksgiving and Christmas matchups",
@@ -1006,17 +555,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-14T23:30:00.000Z",
       "link": "https://www.buffalobills.com/news/holiday-spotlight-bills-slated-for-thanksgiving-and-christmas-matchups"
-    },
-    {
-      "id": "reddit-bills::1tdd9vi",
-      "team": "bills",
-      "title": "Thanks Google really cool",
-      "summary": "",
-      "source": "r/buffalobills",
-      "sourceType": "reddit",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-14T22:21:34.000Z",
-      "link": "https://www.reddit.com/r/buffalobills/comments/1tdd9vi/thanks_google_really_cool/"
     },
     {
       "id": "espn-sabres::48761019",
