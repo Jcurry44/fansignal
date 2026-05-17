@@ -3,10 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Force the browser to revalidate this HTML on every load. Critical for iOS
+         standalone-app (Add to Home Screen) so it picks up new feed.js / code
+         versions instead of serving an indefinitely-cached version. -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <title>FanSignal — Buffalo sports, all in one place</title>
-    <link rel="stylesheet" href="./styles.css?v=11">
-    <script src="./feed.js?v=11" defer></script>
-    <script src="./app.js?v=11" defer></script>
+    <link rel="stylesheet" href="./styles.css?v=12">
+    <script src="./feed.js?v=12" defer></script>
+    <script src="./app.js?v=12" defer></script>
   </head>
   <body>
     <div class="app-shell">
