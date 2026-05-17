@@ -10,13 +10,80 @@ import { fileURLToPath } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = path.join(__dirname, "feed.json");
 
-const UA = "FanSignal/0.1 (open-source Buffalo sports aggregator)";
+// Reddit specifically asks for UAs in this format: <platform>:<app-id>:<version> (by /u/<username>)
+// We honor that. Non-Reddit hosts don't care.
+const UA = "web:fansignal:v0.2 (by /u/Jcurry44)";
 const FETCH_TIMEOUT_MS = 12000;
+
+// Reddit OAuth — when REDDIT_CLIENT_ID + REDDIT_CLIENT_SECRET are set, we authenticate.
+// Reddit blocks cloud IP ranges (GitHub Actions, AWS, etc.) for unauthenticated requests.
+// Locally on residential IPs the unauthenticated endpoint still works, so creds are optional.
+const REDDIT_CLIENT_ID = process.env.REDDIT_CLIENT_ID || "";
+const REDDIT_CLIENT_SECRET = process.env.REDDIT_CLIENT_SECRET || "";
+let REDDIT_TOKEN_CACHE = null; // { token, expiresAt }
+
+async function getRedditToken() {
+  if (!REDDIT_CLIENT_ID || !REDDIT_CLIENT_SECRET) return null;
+  if (REDDIT_TOKEN_CACHE && REDDIT_TOKEN_CACHE.expiresAt > Date.now() + 60_000) {
+    return REDDIT_TOKEN_CACHE.token;
+  }
+  const basic = Buffer.from(`${REDDIT_CLIENT_ID}:${REDDIT_CLIENT_SECRET}`).toString("base64");
+  const controller = new AbortController();
+  const t = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+  try {
+    const res = await fetch("https://www.reddit.com/api/v1/access_token", {
+      method: "POST",
+      headers: {
+        Authorization: `Basic ${basic}`,
+        "Content-Type": "application/x-www-form-urlencoded",
+        "User-Agent": UA,
+      },
+      body: "grant_type=client_credentials",
+      signal: controller.signal,
+    });
+    if (!res.ok) throw new Error(`Reddit OAuth HTTP ${res.status}`);
+    const data = await res.json();
+    REDDIT_TOKEN_CACHE = {
+      token: data.access_token,
+      expiresAt: Date.now() + (data.expires_in || 3600) * 1000,
+    };
+    return REDDIT_TOKEN_CACHE.token;
+  } finally {
+    clearTimeout(t);
+  }
+}
+
+async function fetchRedditUrl(url) {
+  const token = await getRedditToken();
+  if (!token) {
+    // Fall back to unauthenticated. Works on residential IPs (local laptop).
+    return fetchWithTimeout(url);
+  }
+  // When authenticated, swap host to oauth.reddit.com — required for bearer tokens.
+  const oauthUrl = url.replace(/^https:\/\/www\.reddit\.com/, "https://oauth.reddit.com");
+  const controller = new AbortController();
+  const t = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+  try {
+    const res = await fetch(oauthUrl, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        "User-Agent": UA,
+      },
+      signal: controller.signal,
+      redirect: "follow",
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.text();
+  } finally {
+    clearTimeout(t);
+  }
+}
 const REDDIT_MIN_SCORE = 3;
 const PER_SOURCE_LIMIT = 20;
 
 const SABRES_KEYWORDS = /buffalo|sabres|tage thompson|dahlin|peterka|byram|tuch|cozens|levi|granato|ruff|lyon|benson|quinn|mityukov|helenius/i;
 const BILLS_KEYWORDS = /buffalo|bills|josh allen|mcdermott|von miller|cook|knox|kincaid|diggs|kindley|samuel|cooper|coleman|bishop|dorsey|brady|reign|highmark/i;
+const USMNT_KEYWORDS = /usmnt|us men's national|united states national|u\.s\. men's|pulisic|mckennie|tim weah|tyler adams|antonee robinson|musah|reyna|balogun|pepi|aaronson|sergi[ñn]o dest|matt turner|chris richards|pochettino|berhalter|stars and stripes|copa america|gold cup|nations league|concacaf/i;
 
 const SOURCES = [
   // ---------- Bills ----------
@@ -60,6 +127,14 @@ const SOURCES = [
     team: "bills",
     kind: "reddit",
     url: "https://www.reddit.com/r/buffalobills/hot.json?limit=30",
+  },
+  {
+    id: "twobillsdrive",
+    label: "TwoBillsDrive",
+    sourceType: "forum",
+    team: "bills",
+    kind: "rss",
+    url: "https://www.twobillsdrive.com/community/forum/1-the-stadium-wall.xml",
   },
 
   // ---------- Sabres ----------
@@ -121,6 +196,50 @@ const SOURCES = [
     team: "sabres",
     kind: "reddit",
     url: "https://www.reddit.com/r/sabres/hot.json?limit=30",
+  },
+  {
+    id: "hfboards-sabres",
+    label: "HFBoards",
+    sourceType: "forum",
+    team: "sabres",
+    kind: "rss",
+    url: "https://forums.hfboards.com/forums/buffalo-sabres.18/index.rss",
+  },
+
+  // ---------- USMNT ----------
+  {
+    id: "stars-and-stripes",
+    label: "Stars and Stripes FC",
+    sourceType: "blog",
+    team: "usmnt",
+    kind: "rss",
+    url: "https://www.starsandstripesfc.com/rss/current.xml",
+  },
+  {
+    id: "espn-soccer-usmnt",
+    label: "ESPN Soccer",
+    sourceType: "league",
+    team: "usmnt",
+    kind: "rss",
+    url: "https://www.espn.com/espn/rss/soccer/news",
+    rssFilter: (item) => USMNT_KEYWORDS.test(`${item.title} ${item.summary}`),
+  },
+  {
+    id: "cbs-soccer-usmnt",
+    label: "CBS Sports",
+    sourceType: "league",
+    team: "usmnt",
+    kind: "rss",
+    url: "https://www.cbssports.com/rss/headlines/soccer/",
+    rssFilter: (item) => USMNT_KEYWORDS.test(`${item.title} ${item.summary}`),
+  },
+  {
+    id: "reddit-ussoccer",
+    label: "r/ussoccer",
+    sourceType: "reddit",
+    team: "usmnt",
+    kind: "reddit",
+    url: "https://www.reddit.com/r/ussoccer/hot.json?limit=30",
   },
 
   // ---------- Bandits ----------
@@ -318,7 +437,9 @@ function parseReddit(json, source) {
 
 async function ingestSource(source) {
   try {
-    const body = await fetchWithTimeout(source.url);
+    const body = source.kind === "reddit"
+      ? await fetchRedditUrl(source.url)
+      : await fetchWithTimeout(source.url);
     let items = [];
     if (source.kind === "rss") {
       items = parseRss(body, source);
@@ -511,12 +632,79 @@ async function fetchEspnGame(teamKey, sportPath, teamId) {
   }
 }
 
+async function fetchUsmntGame() {
+  try {
+    // ESPN soccer endpoint covers USMNT across all competitions (friendlies, Nations
+    // League, Gold Cup, World Cup qualifiers, etc.). Score format is nested.
+    const body = await fetchWithTimeout("https://site.api.espn.com/apis/site/v2/sports/soccer/all/teams/660/schedule");
+    const data = JSON.parse(body);
+    const events = (data.events || []).map((e) => ({ ...e, _ts: Date.parse(e.date) }));
+    if (!events.length) return null;
+    const now = Date.now();
+    const sorted = [...events].sort((a, b) => a._ts - b._ts);
+    const future = sorted.find((e) => e._ts > now);
+    const past = [...sorted].reverse().find((e) => e._ts <= now);
+    const featured = future || past;
+    if (!featured) return null;
+
+    const comp = featured.competitions?.[0];
+    const competitors = comp?.competitors || [];
+    const us = competitors.find((c) => String(c.team?.id) === "660");
+    const them = competitors.find((c) => String(c.team?.id) !== "660");
+    if (!us || !them) return null;
+
+    // ESPN soccer wraps scores in a value/displayValue object instead of a string.
+    const getScore = (c) => {
+      if (typeof c.score === "number") return c.score;
+      if (typeof c.score === "string") return parseInt(c.score, 10);
+      if (c.score && typeof c.score.value === "number") return c.score.value;
+      return null;
+    };
+    const usScore = getScore(us);
+    const themScore = getScore(them);
+    const isHome = us.homeAway === "home";
+    const oppName = them.team?.abbreviation || them.team?.shortDisplayName || them.team?.displayName || "?";
+    const status = comp?.status?.type?.state || featured.status?.type?.state;
+    const t = new Date(featured.date);
+    const day = t.toLocaleString("en-US", { weekday: "short", timeZone: "America/New_York" });
+    const time = t.toLocaleString("en-US", { hour: "numeric", minute: "2-digit", timeZone: "America/New_York" });
+
+    if (status === "in") {
+      return {
+        team: "usmnt",
+        state: "live",
+        headline: `${usScore ?? 0} - ${themScore ?? 0}`,
+        detail: `${isHome ? "vs" : "at"} ${oppName}`,
+      };
+    }
+    if (status === "post" && usScore != null && themScore != null) {
+      const result = usScore > themScore ? "W" : usScore < themScore ? "L" : "D";
+      return {
+        team: "usmnt",
+        state: "final",
+        headline: `Final · ${result} ${usScore}-${themScore}`,
+        detail: `${isHome ? "vs" : "at"} ${oppName}`,
+      };
+    }
+    return {
+      team: "usmnt",
+      state: "upcoming",
+      headline: `${day} ${time}`,
+      detail: `${isHome ? "vs" : "at"} ${oppName}`,
+    };
+  } catch (err) {
+    console.warn(`  ! usmnt game fetch failed: ${err.message}`);
+    return null;
+  }
+}
+
 async function fetchGames() {
   console.log("[FanSignal] Fetching live game data...");
-  const [sabres, bills, bisons] = await Promise.all([
+  const [sabres, bills, bisons, usmnt] = await Promise.all([
     fetchNhlSabresGames(),
     fetchEspnGame("bills", "football/nfl", 2),
     fetchEspnGame("bisons", "baseball/mlb", 14),
+    fetchUsmntGame(),
   ]);
   // Bandits don't have an ESPN team schedule endpoint; leave a static "Season over"
   // until/unless we find a better source. Their official feed told us the season just ended.
@@ -526,7 +714,7 @@ async function fetchGames() {
     headline: "Season over",
     detail: "1st round vs GA",
   };
-  const games = [bills, sabres, bandits, bisons].filter(Boolean);
+  const games = [bills, sabres, bandits, bisons, usmnt].filter(Boolean);
   console.log(`  fetched ${games.length} games`);
   return games;
 }

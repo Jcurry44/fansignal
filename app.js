@@ -5,6 +5,7 @@ const TEAMS = [
   { id: "sabres", label: "Buffalo Sabres", short: "Sabres", league: "NHL", color: "#002654", accent: "#fcb514" },
   { id: "bandits", label: "Buffalo Bandits", short: "Bandits", league: "NLL", color: "#ed6a2e", accent: "#24303c" },
   { id: "bisons", label: "Buffalo Bisons", short: "Bisons", league: "AAA", color: "#c8102e", accent: "#1d2d5c" },
+  { id: "usmnt", label: "USMNT", short: "USMNT", league: "Soccer", color: "#002868", accent: "#bf0a30" },
 ];
 
 const SOURCES = {
@@ -12,24 +13,27 @@ const SOURCES = {
   team: { label: "Team site" },
   league: { label: "League" },
   blog: { label: "Blog" },
+  forum: { label: "Fan forum" },
   paper: { label: "Buffalo News" },
   radio: { label: "WGR 550" },
   athletic: { label: "The Athletic" },
-  reddit: { label: "Community" },
+  reddit: { label: "Reddit" },
 };
 
-// Source-type filter pills shown under team tabs. Order matters (rendered left-to-right).
+// Source filter pills shown under team tabs. Each pill can cover one or more
+// underlying sourceType values. Order matters (rendered left-to-right).
 const SOURCE_FILTERS = [
-  { id: "team", label: "Official", description: "Team sites (Bills.com, Bandits.com)" },
-  { id: "league", label: "National", description: "ESPN, Sportsnet, CBS" },
-  { id: "blog", label: "Blogs", description: "Die By The Blade, Buffalo Rumblings, Buffalo Hockey Beat" },
-  { id: "reddit", label: "Reddit", description: "r/buffalobills, r/sabres" },
+  { id: "official", label: "Official", types: ["team"], description: "Team sites (Bills.com, Bandits.com)" },
+  { id: "national", label: "National", types: ["league"], description: "ESPN, Sportsnet, CBS" },
+  { id: "blogs", label: "Blogs", types: ["blog"], description: "Die By The Blade, Buffalo Rumblings, Buffalo Hockey Beat" },
+  { id: "community", label: "Community", types: ["reddit", "forum"], description: "r/buffalobills, r/sabres, HFBoards" },
 ];
-const ALL_SOURCE_TYPES = SOURCE_FILTERS.map((f) => f.id);
+const ALL_SOURCE_TYPES = [...new Set(SOURCE_FILTERS.flatMap((f) => f.types))];
 
 const DEFAULT_PREFS = {
   activeTeam: "all",
-  activeSourceTypes: ["team", "league", "blog", "reddit"], // all on by default
+  // We persist sourceType IDs (not pill IDs) so saved prefs survive pill-grouping changes.
+  activeSourceTypes: ["team", "league", "blog", "reddit", "forum"], // all on by default
   lastCheckedAt: new Date(Date.now() - 1000 * 60 * 60 * 8).toISOString(),
 };
 
@@ -242,6 +246,12 @@ const SAMPLE_GAMES = [
     headline: "Final · W 5-4 (10)",
     detail: "vs SWB · Walk-off",
   },
+  {
+    team: "usmnt",
+    state: "offday",
+    headline: "Off window",
+    detail: "Next FIFA window: June",
+  },
 ];
 
 const els = {
@@ -415,14 +425,16 @@ function renderSourcePills() {
   const counts = teamScoped.reduce((acc, s) => ((acc[s.sourceType] = (acc[s.sourceType] || 0) + 1), acc), {});
   const active = new Set(activeSourceTypes());
   els.sourcePills.innerHTML = SOURCE_FILTERS.map((f) => {
-    const count = counts[f.id] || 0;
-    const on = active.has(f.id);
+    // Pill count = sum of underlying sourceType counts.
+    const pillCount = f.types.reduce((sum, t) => sum + (counts[t] || 0), 0);
+    // Pill is "on" if at least one of its underlying types is active.
+    const on = f.types.some((t) => active.has(t));
     return `
       <button class="source-pill ${on ? "active" : ""}" type="button"
-              data-source-type="${f.id}" title="${escapeHtml(f.description)}"
+              data-pill="${f.id}" title="${escapeHtml(f.description)}"
               aria-pressed="${on ? "true" : "false"}">
         <span>${escapeHtml(f.label)}</span>
-        <strong>${count}</strong>
+        <strong>${pillCount}</strong>
       </button>
     `;
   }).join("");
@@ -498,7 +510,7 @@ function renderTeamColumns(stories) {
 
   let columnsHtml = "";
   if (prefs.activeTeam === "all") {
-    const order = ["bills", "sabres", "bandits", "bisons"];
+    const order = ["bills", "sabres", "bandits", "bisons", "usmnt"];
     columnsHtml = order.map((teamId) => {
       const team = teamById(teamId);
       const teamStories = remaining.filter((story) => story.team === teamId).slice(0, 6);
@@ -583,12 +595,19 @@ els.teamTabs.addEventListener("click", (event) => {
 
 if (els.sourcePills) {
   els.sourcePills.addEventListener("click", (event) => {
-    const button = event.target.closest("[data-source-type]");
+    const button = event.target.closest("[data-pill]");
     if (!button) return;
-    const id = button.dataset.sourceType;
+    const pill = SOURCE_FILTERS.find((f) => f.id === button.dataset.pill);
+    if (!pill) return;
     const current = new Set(activeSourceTypes());
-    if (current.has(id)) current.delete(id);
-    else current.add(id);
+    // If any underlying type is currently on, the pill is "on" — turn them all off.
+    // Otherwise turn them all on.
+    const pillIsOn = pill.types.some((t) => current.has(t));
+    if (pillIsOn) {
+      pill.types.forEach((t) => current.delete(t));
+    } else {
+      pill.types.forEach((t) => current.add(t));
+    }
     // If user deselected everything, treat that as "all on" so they aren't stuck on an empty page.
     prefs.activeSourceTypes = current.size ? [...current] : [...ALL_SOURCE_TYPES];
     savePrefs();
