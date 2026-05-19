@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T10:50:01.919Z",
+  "generatedAt": "2026-05-19T18:19:34.128Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 7,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,15 +176,26 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265456-jaxon-smith-njigba-nfl-defensive-player-of-the-year/",
+      "team": "bills",
+      "title": "Jaxon Smith-Njigba - NFL Defensive Player of the Year",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T18:03:42.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265456-jaxon-smith-njigba-nfl-defensive-player-of-the-year/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locker-clean-out-days-tues-5-19-wed-5-20-2026-thank-you-sabres.3030482/",
       "team": "sabres",
-      "title": "The Good, the Bad, and the Ugly - Broken Hearted. Sabres 2 - Canadiens 3 (OT)",
+      "title": "Locker Clean Out Days (Tues 5/19 & Wed 5/20/2026) - Thank you, Sabres",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-19T10:47:25.000Z",
-      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/"
+      "publishedAt": "2026-05-19T17:58:37.000Z",
+      "link": "https://forums.hfboards.com/threads/locker-clean-out-days-tues-5-19-wed-5-20-2026-thank-you-sabres.3030482/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread.2964683/",
@@ -194,19 +205,316 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-19T10:46:06.000Z",
+      "publishedAt": "2026-05-19T17:57:59.000Z",
       "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread.2964683/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition.3007913/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/",
       "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition",
+      "title": "The Good, the Bad, and the Ugly - Broken Hearted. Sabres 2 - Canadiens 3 (OT)",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-19T10:35:28.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition.3007913/"
+      "publishedAt": "2026-05-19T17:56:15.000Z",
+      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-25-26-injury-thread-carrick-danforth-kulich-ostlund-kozak.3012404/",
+      "team": "sabres",
+      "title": "The 25-26 Injury Thread: Carrick, Danforth, Kulich, Ostlund, Kozak",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:53:22.000Z",
+      "link": "https://forums.hfboards.com/threads/the-25-26-injury-thread-carrick-danforth-kulich-ostlund-kozak.3012404/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
+      "team": "sabres",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:52:29.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-2025-2026-sabres-roster-discussion-thread.3020108/",
+      "team": "sabres",
+      "title": "The New and Improved 2025-2026 Sabres Roster Discussion Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:49:41.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-2025-2026-sabres-roster-discussion-thread.3020108/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
+      "team": "sabres",
+      "title": "Locked on Sabres Podcast",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:35:49.000Z",
+      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:32:49.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-sign-g-devon-levi-to-a-3-year-elc.2921293/",
+      "team": "sabres",
+      "title": "Sabres sign G Devon Levi to a 3 year ELC",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:30:27.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-sign-g-devon-levi-to-a-3-year-elc.2921293/"
+    },
+    {
+      "id": "espn-sabres::44686270",
+      "team": "sabres",
+      "title": "Stanley Cup odds: Avalanche, Hurricanes favored in conference finals",
+      "summary": "The Colorado Avalanche, Carolina Hurricanes and Vegas Golden Knights remain the Stanley Cup favorites.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:29:44Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:08:57.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134376/joe-brady-buffalo-bills-seemingly-wanted-to-avoid-troubling-nfl-trend-internal-promotion",
+      "team": "bills",
+      "title": "By hiring Joe Brady, Buffalo Bills seemingly wanted to avoid troubling NFL trend",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:02:26.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/134376/joe-brady-buffalo-bills-seemingly-wanted-to-avoid-troubling-nfl-trend-internal-promotion"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134400/buffalo-bills-fascinating-undrafted-free-agent-yale-safety",
+      "team": "bills",
+      "title": "This Buffalo Bills young, former UDFA is fascinating",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T17:00:39.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134400/buffalo-bills-fascinating-undrafted-free-agent-yale-safety"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024-assigned-2-6-2026.2969984/",
+      "team": "sabres",
+      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024 - Assigned 2/6/2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T16:52:45.000Z",
+      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024-assigned-2-6-2026.2969984/"
+    },
+    {
+      "id": "espn-bills::48387060",
+      "team": "bills",
+      "title": "NFL offseason 2026: OTA, minicamp dates for all 32 teams",
+      "summary": "Here are dates for the NFL offseason workouts in 2026, with mandatory minicamps starting in June.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T16:50:55Z",
+      "link": "https://www.espn.com/nfl/story/_/id/48387060/nfl-offseason-2026-every-32-team-otas-minicamp-key-dates"
+    },
+    {
+      "id": "espn-sabres::48816548",
+      "team": "sabres",
+      "title": "2026 Stanley Cup playoffs: Hurricanes-Canadiens conference finals preview",
+      "summary": "Who will represent the East in the Stanley Cup Final? Get set with key stats, schedule and more.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T16:44:39Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48816548/2026-nhl-playoffs-stanley-cup-hurricanes-canadiens-eastern-conference-finals-preview-schedule-stats"
+    },
+    {
+      "id": "espn-bills::39395382",
+      "team": "bills",
+      "title": "What is the oldest NFL stadium? Soldier to SoFi in age",
+      "summary": "Many different characteristics make NFL stadiums unique. Age is a hot topic among fans. Here's how stadiums stack up from oldest to newest.",
+      "source": "ESPN · Alex Kennedy",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T16:33:41Z",
+      "link": "https://www.espn.com/nfl/story/_/id/39395382/what-oldest-nfl-stadium-soldier-sofi-age"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
+      "team": "sabres",
+      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T16:32:32.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/how-has-sabres-cinderella-season-changed-their-outlook-for-the-future/",
+      "team": "sabres",
+      "title": "How has Sabres’ Cinderella season changed their outlook for the future?",
+      "summary": "Elliotte Friedman joins the FAN Hockey Show to discuss how the Buffalo Sabres look after a Game 7 loss to the Montreal Canadiens, and why their surge to the playoffs this season has given them some big decisions to make for the future.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T16:29:57.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/how-has-sabres-cinderella-season-changed-their-outlook-for-the-future/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265454-brady-presser-prior-to-otas-today/",
+      "team": "bills",
+      "title": "Brady presser prior to OTAs today",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T16:24:56.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265454-brady-presser-prior-to-otas-today/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265453-otas-519/",
+      "team": "bills",
+      "title": "OTAs 5/19",
+      "summary": "First day of media availability is today. Joe Brady's press conference will be starting shortly.\n\n\n\n\t \n\n\n\n\tHere's the full OTA schedule:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tIf it's like previous years the media will be present at one practice each week.\n\n\n\n\t \n\n\n\n\tFootball is (kind of) back!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T16:10:05.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265453-otas-519/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/schenn-and-stanley-to-buffalo-for-bryson-rosen-and-bufs-2027-2nd-rounder-4th-in-2026.3024401/",
+      "team": "sabres",
+      "title": "Schenn and Stanley to Buffalo for Bryson, Rosen, and Buf's 2027 2nd rounder, 4th in 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T15:23:37.000Z",
+      "link": "https://forums.hfboards.com/threads/schenn-and-stanley-to-buffalo-for-bryson-rosen-and-bufs-2027-2nd-rounder-4th-in-2026.3024401/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-social-admin-settling-all-family-business-day.3027584/",
+      "team": "sabres",
+      "title": "Sabres Social Admin - Settling All Family Business Day",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T15:04:41.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-social-admin-settling-all-family-business-day.3027584/"
+    },
+    {
+      "id": "espn-sabres::48816583",
+      "team": "sabres",
+      "title": "Why Kevin Weekes gives Hurricanes edge in East final",
+      "summary": "Kevin Weekes predicts the Hurricanes will defeat the Canadiens in the Eastern Conference finals.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T14:26:48Z",
+      "link": "https://www.espn.com/video/clip/_/id/48816583/why-kevin-weekes-gives-hurricanes-edge-east-final"
+    },
+    {
+      "id": "cbs-nhl::https://www.cbssports.com/nhl/news/stanley-cup-playoffs-2026-round-2-winners-losers-mitch-marner-alex-tuch/",
+      "team": "sabres",
+      "title": "2026 Stanley Cup Playoffs Round 2 winners and losers: Mitch Marner dominates, Alex Tuch disappears",
+      "summary": "These are the players and teams that stood out -- for better or worse -- in the second round",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T14:23:01.000Z",
+      "link": "https://www.cbssports.com/nhl/news/stanley-cup-playoffs-2026-round-2-winners-losers-mitch-marner-alex-tuch/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-fire-kevyn-adams-jarmo-kekalainen-named-general-manager-press-conference-tues-12-16-at-10-30-am.3018661/",
+      "team": "sabres",
+      "title": "Sabres Fire Kevyn Adams; Jarmo Kekalainen Named General Manager (Press Conference Tues 12.16 at 10:30 AM)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T13:50:57.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-fire-kevyn-adams-jarmo-kekalainen-named-general-manager-press-conference-tues-12-16-at-10-30-am.3018661/"
+    },
+    {
+      "id": "espn-sabres::48526483",
+      "team": "sabres",
+      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
+      "summary": "It's Avalanche-Golden Knights and Hurricanes-Canadiens for the right to play in the Cup Final. Get caught up on everything here.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T13:42:39Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T12:36:06.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ecsf-game-6-1a-buffalo-sabres-vs-3a-montreal-canadiens-at-8-pm-et-on-abc-sn-cbc-tvas-and-wgr-canadiens-lead-3-2.3030343/",
+      "team": "sabres",
+      "title": "ECSF Game 6 - 1A Buffalo Sabres vs. 3A Montreal Canadiens at 8 PM ET on ABC, SN, CBC, TVAS, and WGR; Canadiens Lead 3-2",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T11:25:57.000Z",
+      "link": "https://forums.hfboards.com/threads/ecsf-game-6-1a-buffalo-sabres-vs-3a-montreal-canadiens-at-8-pm-et-on-abc-sn-cbc-tvas-and-wgr-canadiens-lead-3-2.3030343/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/equipment-stories-from-the-sabres%E2%80%99-locker-room.3025984/",
+      "team": "sabres",
+      "title": "Equipment stories from the Sabres’ locker room",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T11:23:25.000Z",
+      "link": "https://forums.hfboards.com/threads/equipment-stories-from-the-sabres%E2%80%99-locker-room.3025984/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/rasmus-dahlin-part-4-norris-and-masterton-finalist.2857541/",
@@ -220,13 +528,24 @@
       "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-norris-and-masterton-finalist.2857541/"
     },
     {
+      "id": "espn-sabres::48485622",
+      "team": "sabres",
+      "title": "Stanley Cup playoffs 2026: Bracket, schedule, scores, news",
+      "summary": "From the first round all the way through the Stanley Cup Final, ESPN has you covered this NHL postseason.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T09:58:52Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48485622/nhl-playoffs-2026-stanley-cup-bracket-schedule-teams-players-preview"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/heartbreak-sabres-beaten-in-game-7-overtime-by-canadiens/",
       "team": "sabres",
       "title": "Heartbreak – Sabres beaten in Game 7 overtime by Canadiens",
       "summary": "Score: Canadiens 3 | Sabres 2 (OT)\n\n\n\nShots: MTR 25 | BUF 39\n\n\n\nBuffalo Sabres Goals:\n\n\n\n\nGreenway (Samuelsson, Malenstyn)\n\n\n\nDahlin (Power, McLeod)\n\n\n\n\nMontreal Canadiens Goals:\n\n\n\n\nDanault (Guhle, Texier)\n\n\n\nBolduc (Suzuki, Hutson)\n\n\n\nNewhook (Carrier)\n\n\n\n\nFinal Thoughts\n\n\n\nThis is a tough one to swallow. After a brutal start, Buffalo took control of the game. The 4th line had a great shift to get them on the board, and Dahlin buried a nifty feed from Power to equalize the game. They were generating most of the chances and it felt like they it was just a matter of time until they grabbed the lead. They thought they had before a play was ruled dead before the puck crossed the line. Once the game went into overtime, the game reset and became an even battle. Montreal had most of the chances off the hop, but Buffalo countered with some great opportunities of their own. Poor decision making at the offensive blue line ultimately led to the series clinching goal for Montreal on Newhook’s wrist shot. As much as this sucks, this team has a lot to be proud of. They dug themselves out of the early hole by chipping away and battling back. They were right there, and the future is extremely bright as long as they don’t remain complacent. A wild ride ends with heartbreak, but this is a team Sabres fans can be proud of.",
       "source": "Die By The Blade",
       "sourceType": "blog",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "publishedAt": "2026-05-19T09:22:48.000Z",
       "link": "https://www.diebytheblade.com/heartbreak-sabres-beaten-in-game-7-overtime-by-canadiens/"
     },
@@ -242,72 +561,6 @@
       "link": "https://forums.hfboards.com/threads/playoff-round-2-discussion-montreal-vs-buffalo-adams-division-flashback-series-montreal-wins-4-3.3029397/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48807084/usmnt-tyler-adams-andoni-iraola-taken-bournemouth-new-heights",
-      "team": "usmnt",
-      "title": "USMNT's Adams: Iraola transformed Bournemouth",
-      "summary": "AFC Bournemouth and United States national team midfielder Tyler Adams said he'll miss manager Andoni Iraola when he departs at the end of the Premier League season.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T08:39:12.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48807084/usmnt-tyler-adams-andoni-iraola-taken-bournemouth-new-heights"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48802080/ranked-top-50-usmnt-players-world-cup-based-club-form",
-      "team": "usmnt",
-      "title": "Top 50 USMNT players, ranked by club form: A new No. 1 tops Americans before World Cup",
-      "summary": "Who are the 50 best Americans that should be selected for the World Cup roster? We look at club form and rank them as the USMNT Player Performance Index returns.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T08:23:17.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48802080/ranked-top-50-usmnt-players-world-cup-based-club-form"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48813012/fans-laud-buffalo-sabres-breakthrough-season-game-7",
-      "team": "sabres",
-      "title": "Defeated Sabres proud of franchise's 'giant step'",
-      "summary": "Though their renaissance season ended with an emotional 3-2 overtime loss to the Montreal Canadiens in Game 7, the Buffalo Sabres skated off the ice Monday to a standing ovation after a historic campaign that saw the end of a 14-season playoff drought.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T06:59:46.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48813012/fans-laud-buffalo-sabres-breakthrough-season-game-7"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48778962/quinn-hughes-willing-talk-offseason-extension-wild",
-      "team": "sabres",
-      "title": "Hughes 'definitely open' to extension with Wild",
-      "summary": "Eligible to sign a contract extension July 1, star defenseman Quinn Hughes says he is \"definitely open\" to reaching a deal to remain with the Wild.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T06:59:46.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48778962/quinn-hughes-willing-talk-offseason-extension-wild"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-2025-2026-sabres-roster-discussion-thread.3020108/",
-      "team": "sabres",
-      "title": "The New and Improved 2025-2026 Sabres Roster Discussion Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T06:28:50.000Z",
-      "link": "https://forums.hfboards.com/threads/the-new-and-improved-2025-2026-sabres-roster-discussion-thread.3020108/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/why-pain-of-game-7-defeat-wont-define-best-sabres-season-in-19-years/",
-      "team": "sabres",
-      "title": "Why pain of Game 7 defeat won’t define best Sabres season in 19 years",
-      "summary": "Pain can hit in such different ways, you wonder why we lump it all under the same umbrella.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T06:00:40.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/why-pain-of-game-7-defeat-wont-define-best-sabres-season-in-19-years/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/memorable-sabres-season-ends-with-ot-loss-to-canadiens-in-game-7-it-hurts/",
       "team": "sabres",
       "title": "Memorable Sabres season ends with OT loss to Canadiens in Game 7: ‘It hurts’",
@@ -319,171 +572,6 @@
       "link": "https://www.buffalohockeybeat.com/memorable-sabres-season-ends-with-ot-loss-to-canadiens-in-game-7-it-hurts/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ecsf-game-7-3a-montreal-canadiens-vs-1a-buffalo-sabres-at-7-30-pm-et-on-espn-cbc-sn-tvas-and-wgr-series-tied-3-3.3030417/",
-      "team": "sabres",
-      "title": "ECSF Game 7 - 3A Montreal Canadiens vs. 1A Buffalo Sabres at 7:30 PM ET on ESPN CBC, SN, TVAS, and WGR; Series Tied 3-3",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T05:18:56.000Z",
-      "link": "https://forums.hfboards.com/threads/ecsf-game-7-3a-montreal-canadiens-vs-1a-buffalo-sabres-at-7-30-pm-et-on-espn-cbc-sn-tvas-and-wgr-series-tied-3-3.3030417/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/schenn-and-stanley-to-buffalo-for-bryson-rosen-and-bufs-2027-2nd-rounder-4th-in-2026.3024401/",
-      "team": "sabres",
-      "title": "Schenn and Stanley to Buffalo for Bryson, Rosen, and Buf's 2027 2nd rounder, 4th in 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T05:01:38.000Z",
-      "link": "https://forums.hfboards.com/threads/schenn-and-stanley-to-buffalo-for-bryson-rosen-and-bufs-2027-2nd-rounder-4th-in-2026.3024401/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ukko-pekka-luukkonen-2017-54th.2361843/",
-      "team": "sabres",
-      "title": "Ukko-Pekka Luukkonen (2017, 54th)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T04:44:29.000Z",
-      "link": "https://forums.hfboards.com/threads/ukko-pekka-luukkonen-2017-54th.2361843/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/why-dobes-was-difference-maker-in-canadiens-game-7-win-over-sabres/",
-      "team": "sabres",
-      "title": "Why Dobes was difference-maker in Canadiens’ Game 7 win over Sabres",
-      "summary": "David Amber and Elliotte Friedman discuss how Alex Newhook and Jakub Dobes helped the Montreal Canadiens defeat the Sabres in Game 7, why good times are still ahead for Buffalo, and what lies ahead in the Carolina Hurricanes.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T04:16:14.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/why-dobes-was-difference-maker-in-canadiens-game-7-win-over-sabres/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/it-took-everything-we-had-suzuki-after-hard-fought-series-with-sabres/",
-      "team": "sabres",
-      "title": "‘It took everything we had’: Suzuki after hard-fought series with Sabres",
-      "summary": "Montreal Canadiens forwards Nick Suzuki and Alex Newhook spoke after their Game 7 win over the Buffalo Sabres, describing how emotional and physically demanding the series was.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T04:13:50.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/it-took-everything-we-had-suzuki-after-hard-fought-series-with-sabres/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-fire-kevyn-adams-jarmo-kekalainen-named-general-manager-press-conference-tues-12-16-at-10-30-am.3018661/",
-      "team": "sabres",
-      "title": "Sabres Fire Kevyn Adams; Jarmo Kekalainen Named General Manager (Press Conference Tues 12.16 at 10:30 AM)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T04:07:32.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-fire-kevyn-adams-jarmo-kekalainen-named-general-manager-press-conference-tues-12-16-at-10-30-am.3018661/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/tage-thompson-2.2640469/",
-      "team": "sabres",
-      "title": "Tage Thompson 2",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T04:04:01.000Z",
-      "link": "https://forums.hfboards.com/threads/tage-thompson-2.2640469/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
-      "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester (AHL) and TBD (ECHL)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T03:52:48.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/it-doesnt-define-our-season-ruff-on-sabres-season-despite-game-7-loss/",
-      "team": "sabres",
-      "title": "‘It doesn’t define our season’: Ruff on Sabres’ season despite Game 7 loss",
-      "summary": "Buffalo Sabres head coach Lindy Ruff said that despite the Game 7 loss against the Montreal Canadiens, he is proud of what the team accomplished this past season.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T03:52:21.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/it-doesnt-define-our-season-ruff-on-sabres-season-despite-game-7-loss/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/it-sucks-sabres-luukkonen-reflects-on-loss-to-canadiens/",
-      "team": "sabres",
-      "title": "‘It sucks’: Sabres’ Luukkonen reflects on loss to Canadiens",
-      "summary": "Buffalo Sabres goaltender Ukko-Pekka Luukkonen reflects on the team’s season ending after a Game 7 loss to the Montreal Canadiens in the second round of the Stanley Cup Playoffs.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T03:49:38.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/it-sucks-sabres-luukkonen-reflects-on-loss-to-canadiens/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/giving-me-fire-canadiens-dobes-thanks-sabres-fans-for-chanting-his-name/",
-      "team": "sabres",
-      "title": "‘Giving me fire’: Canadiens’ Dobes thanks Sabres fans for chanting his name",
-      "summary": "Montreal Canadiens goaltender Jakub Dobes says he was fueled by the Sabres fans chanting his name inside the KeyBank Center during their Game 7 victory and explains how he was able to get across the finish line to win the series.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T03:36:48.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/giving-me-fire-canadiens-dobes-thanks-sabres-fans-for-chanting-his-name/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/were-never-out-matheson-on-canadiens-resilient-game-7-win/",
-      "team": "sabres",
-      "title": "‘We’re never out’: Matheson on Canadiens’ resilient Game 7 win",
-      "summary": "Montreal Canadiens defenceman Mike Matheson speaks with Sportsnet’s Kyle Bukauskas about his team’s ability to fight off pressure in Game 7 against the Buffalo Sabres and shares what it means to advance to the Eastern Conference Final.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T03:32:41.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/were-never-out-matheson-on-canadiens-resilient-game-7-win/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-25-26-injury-thread-carrick-danforth-kulich-ostlund-kozak.3012404/",
-      "team": "sabres",
-      "title": "The 25-26 Injury Thread: Carrick, Danforth, Kulich, Ostlund, Kozak",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T03:29:18.000Z",
-      "link": "https://forums.hfboards.com/threads/the-25-26-injury-thread-carrick-danforth-kulich-ostlund-kozak.3012404/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T03:22:09.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-norris-center-acquired-from-ottawa-senators.2989945/",
-      "team": "sabres",
-      "title": "Josh Norris, Center, Acquired from Ottawa Senators",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T03:13:46.000Z",
-      "link": "https://forums.hfboards.com/threads/josh-norris-center-acquired-from-ottawa-senators.2989945/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265447-bills-schedule-for-your-calendar/",
       "team": "bills",
       "title": "Bills schedule for your calendar",
@@ -493,28 +581,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-19T01:35:56.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265447-bills-schedule-for-your-calendar/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rochester-americans-and-jacksonville-icemen-talk-2025-26-amerks-lose-2-1-to-marlies-in-ahl-play-in-round.3005701/",
-      "team": "sabres",
-      "title": "Rochester Americans and Jacksonville Icemen Talk 2025-26: Amerks lose 2-1 to Marlies in AHL Play-in Round",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-18T23:09:02.000Z",
-      "link": "https://forums.hfboards.com/threads/rochester-americans-and-jacksonville-icemen-talk-2025-26-amerks-lose-2-1-to-marlies-in-ahl-play-in-round.3005701/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-block-party-at-canalside-info-all-home-playoff-games-alternative-partys-tailgates.3028323/",
-      "team": "sabres",
-      "title": "Sabres Block Party At Canalside Info [All Home Playoff Games] & Alternative Party's / Tailgates",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-18T22:58:22.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-block-party-at-canalside-info-all-home-playoff-games-alternative-partys-tailgates.3028323/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-depth-offers-options-to-change-lineup-tage-thompson-back-at-wing/",
@@ -570,17 +636,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-18T18:31:17.000Z",
       "link": "https://www.buffalohockeybeat.com/after-pulling-alex-lyon-lindy-ruff-gave-sabres-goalie-words-of-encouragement/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-first-sample-crest-for-the-50th.3030438/",
-      "team": "sabres",
-      "title": "Sabres First Sample Crest For The 50th",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-18T18:23:41.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-first-sample-crest-for-the-50th.3030438/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-7-preview-open-thread-sabres-vs-canadiens/",
@@ -660,17 +715,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265443-taron-johnson-not-attending-voluntary-workouts-with-raiders/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-18T15:04:11.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134349/buffalo-bills-dj-moore-target-projection-pass-catching-group-and-dj-moore-target-projection-2026-james-cook-khalil-shakir",
       "team": "bills",
       "title": "Buffalo Bills pass-catching group and DJ Moore target projection for 2026",
@@ -702,17 +746,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-18T13:40:57.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/43587/usmnt-midweek-viewing-guide-adams-vs-man-city"
-    },
-    {
-      "id": "espn-sabres::48526483",
-      "team": "sabres",
-      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
-      "summary": "The final game of Round 2 is upon us, with Carolina awaiting the winner. Plus, updated playoff stats.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-18T10:07:56Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/for-sabres-game-7-against-canadiens-will-be-special-were-the-better-team/",
@@ -759,17 +792,6 @@
       "link": "https://www.cbssports.com/soccer/news/chris-richards-injury-usmnt-defender-crystal-palace/"
     },
     {
-      "id": "espn-sabres::44686270",
-      "team": "sabres",
-      "title": "Stanley Cup odds: Canadiens-Sabres head to Game 7, Hurricanes odds-on favorites in the East",
-      "summary": "The Colorado Avalanche, Carolina Hurricanes and Vegas Golden Knights remain the Stanley Cup favorites.",
-      "source": "ESPN · Doug Greenberg",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T17:24:37Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/rasmus-dahlin-sabres-rally-from-early-deficit-to-stun-canadiens-force-game-7-our-captain-steps-up/",
       "team": "sabres",
       "title": "Rasmus Dahlin, Sabres rally from early deficit to stun Canadiens, force Game 7: ‘Our captain steps up’",
@@ -790,17 +812,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-17T03:16:37.000Z",
       "link": "https://www.diebytheblade.com/sabres-8-3-canadiens-fight-game-7-at-home-recap-reaction/"
-    },
-    {
-      "id": "espn-sabres::48485622",
-      "team": "sabres",
-      "title": "Stanley Cup playoffs 2026: Bracket, schedule, scores, news",
-      "summary": "From the first round all the way through the Stanley Cup Final, ESPN has you covered this NHL postseason.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T02:57:37Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48485622/nhl-playoffs-2026-stanley-cup-bracket-schedule-teams-players-preview"
     },
     {
       "id": "espn-bills::47911726",
@@ -913,17 +924,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/134122/bills-news-thoughts-predictions-on-buffalos-schedule"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265437-nate-odomes-nominated-for-georgia-hs-hall-of-fame/",
-      "team": "bills",
-      "title": "Nate Odomes nominated for Georgia HS Hall of Fame",
-      "summary": "Nate Odomes was one of my favorite lesser-known stars of the 90s Bills. He had a knack for big plays at the biggest times, was always around the ball downfield, and he was a 2nd team All-Pro. In 1993, he led the NFL with 9 interceptions for us. \n\n\n\n\t \n\n\n\n\tI think about him sometimes as he is not part of the famous crew (Thurman, Andre, Bruce, Jim, Tasker) that gets together at the Hall of Fame and Super Bowl, but he, like so many guys, was a warrior who was a huge part of those Bills. \n\n\n\n\t \n\n\n\n\thttps://www.ledger-enquirer.com/sports/high-school/article315753947.html\n\n\n\n\t \n\n\n\n\tCongratulations, Nate!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-16T07:46:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265437-nate-odomes-nominated-for-georgia-hs-hall-of-fame/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/lindy-ruff-wants-to-ease-pressure-on-sabres-as-they-face-elimination-buffalo-needs-more-from-alex-tuch/",
       "team": "sabres",
       "title": "Lindy Ruff wants to ease pressure on Sabres as they face elimination; Buffalo needs more from Alex Tuch,",
@@ -944,17 +944,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-16T00:39:17.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265436-deone-walker-interview/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-schedule/134223/power-ranking-buffalo-bills-2026-road-trips-for-fans",
-      "team": "bills",
-      "title": "Power ranking Buffalo Bills 2026 road trips for fans",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T23:56:42.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-schedule/134223/power-ranking-buffalo-bills-2026-road-trips-for-fans"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/43702/usmnt-weekend-viewing-guide-synchronized-activity",
@@ -1001,28 +990,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-owen-power-feeling-pretty-good-after-injury/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-schedule/134216/buffalo-bills-2026-schedule-10-initial-takeaways-primetime-josh-allen",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 schedule: 10 initial takeaways",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T14:03:00.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-schedule/134216/buffalo-bills-2026-schedule-10-initial-takeaways-primetime-josh-allen"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265432-97-rock-announced-as-bills-flagship-radio-station/",
-      "team": "bills",
-      "title": "97 Rock announced as Bills flagship radio station",
-      "summary": "https://www.wgrz.com/mobile/article/sports/nfl/bills/97-rock-is-now-the-official-flagship-radio-station-for-bills/71-1fad558a-459f-40ca-8fa6-8b25fcb9d5de",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T12:54:33.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265432-97-rock-announced-as-bills-flagship-radio-station/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-new-flagship-radio-station-and-broadcast-team-additions-for-2026-season",
       "team": "bills",
       "title": "Buffalo Bills announce new flagship radio station and broadcast team additions for 2026 season",
@@ -1065,28 +1032,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-15T02:28:20.000Z",
       "link": "https://www.diebytheblade.com/sabres-collapse-montreal-canadiens-lose-on-home-ice-again-6-3/"
-    },
-    {
-      "id": "espn-bills::48704131",
-      "team": "bills",
-      "title": "2026 NFL schedule release: Tracking all 32 teams and predictions",
-      "summary": "Seahawks vs. Patriots will open a season that features nine international games. Full schedules, bold predictions and analyses are here.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T02:16:57Z",
-      "link": "https://www.espn.com/nfl/story/_/page/nflschedulerelease-48704131/2026-nfl-schedule-release-all-32-game-predictions-takeaways"
-    },
-    {
-      "id": "espn-bills::48432180",
-      "team": "bills",
-      "title": "2026 NFL schedule release: Odds for every Week 1 game, other highlights",
-      "summary": "Spreads, moneylines and totals for each Week 1 game in the NFL, plus other highlighted matchups.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-15T00:59:36Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/48432180/2026-nfl-schedule-release-season-week-1-games-betting-odds-spreads-lines-highlights"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/top-8-things-to-know-about-the-bills-2026-schedule",
@@ -1342,6 +1287,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/265414-your-mount-rushmore-of-your-favorite-teams-era-included/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265410-sal-cappaccio-replaced-on-bills-broadcastsreplaced-by-a-familiar-voice/",
+      "team": "bills",
+      "title": "Sal Cappaccio replaced on Bills broadcasts..replaced by a familiar voice",
+      "summary": "Per Tim Graham\n\n\n\n\t \n\n\n\n\thttps://www.msn.com/en-us/money/general/report-bills-oust-longtime-reporter-after-new-broadcast-deal/ar-AA233oxstly, \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tPer Graham’s report, the new plan would keep play-by-play man Chris Brown and booth analyst Eric Wood in their roles, while legendary Bills player Steve Tasker would step in as the team’s new sideline reporter. That would presumably leave current sideline reporter Sal Capaccio out of a job",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-13T04:18:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265410-sal-cappaccio-replaced-on-bills-broadcastsreplaced-by-a-familiar-voice/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/adversity-spurs-greatness/",
       "team": "sabres",
       "title": "Adversity Spurs Greatness | Sabres prevail to level series against Canadiens",
@@ -1430,17 +1386,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt/43665/world-cup-roster-prediction"
     },
     {
-      "id": "espn-sabres::48743578",
-      "team": "sabres",
-      "title": "How Taylor Hall found his MVP form again with the Hurricanes",
-      "summary": "The No. 1 pick (2010) and Hart Trophy winner (2018) is a critical player for the Canes, who have yet to lose this postseason.",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-12T09:59:42Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48743578/2026-nhl-playoffs-stanley-cup-taylor-hall-mvp-carolina-hurricanes"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-to-host-detroit-lions-in-2026-home-opener-at-highmark-stadium",
       "team": "bills",
       "title": "Buffalo Bills to host Detroit Lions in 2026 home opener at Highmark Stadium",
@@ -1461,17 +1406,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-11T20:42:34.000Z",
       "link": "https://www.starsandstripesfc.com/soccer/43653/johnny-cardoso-likely-to-miss-world-cup-due-to-ankle-surgery"
-    },
-    {
-      "id": "espn-sabres::48742978",
-      "team": "sabres",
-      "title": "P.K. Subban: Good luck finding any flaws in the Hurricanes' game",
-      "summary": "P.K. Subban joins Pat McAfee and evaluates the Hurricanes' playoff run so far.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-11T19:03:45Z",
-      "link": "https://www.espn.com/video/clip/_/id/48742978/good-luck-finding-flaws-hurricanes-game"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-johnny-cardoso-injury-mauricio-pochettinos-world-cup-may/",
@@ -1617,17 +1551,6 @@
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-76ers-vs-knicks-canadiens-vs-sabres-and-more/"
     },
     {
-      "id": "cbs-nhl::https://www.cbssports.com/betting/news/canadiens-vs-sabres-game-1-picks-buffalo-should-capitalize-in-first-conference-semifinal-game-in-19-years/",
-      "team": "sabres",
-      "title": "Canadiens vs. Sabres Game 1 picks: Buffalo should capitalize in first conference semifinal game in 19 years",
-      "summary": "Buffalo hosts Montreal in Game 1 of their East semifinal on Wednesday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-06T12:58:28.000Z",
-      "link": "https://www.cbssports.com/betting/news/canadiens-vs-sabres-game-1-picks-buffalo-should-capitalize-in-first-conference-semifinal-game-in-19-years/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265350-so-at-what-point-do-we-start-taking-this-prediction-from-2018-seriously/",
       "team": "bills",
       "title": "So, at what point do we start taking this prediction from 2018 seriously?",
@@ -1637,17 +1560,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-02T12:54:43.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265350-so-at-what-point-do-we-start-taking-this-prediction-from-2018-seriously/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/",
-      "team": "bills",
-      "title": "Vrabel and Russini cheating on their spouses together ? Rumor",
-      "summary": "Will the NFL investigate adultery - gate?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-04-08T01:53:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265027-anybody-planning-on-going-to-the-bills-game-in-vegas-this-year/",
@@ -1670,17 +1582,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-01-28T18:07:48.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/264343-sal-capaccio-not-on-board-with-brady-hire%E2%80%A6/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/255720-diggs-drama/",
-      "team": "bills",
-      "title": "Diggs' Drama",
-      "summary": "A thread for our former master of histrionics, who doesn't need a new thread every time he gets his drama queen on.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2024-08-10T03:03:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
