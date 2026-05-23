@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T15:46:50.576Z",
+  "generatedAt": "2026-05-23T19:58:05.281Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Sat 3:07 PM",
+      "headline": "Sun 12:15 PM",
       "detail": "vs PIT"
     },
     {
@@ -176,6 +176,105 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T19:25:29.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T19:23:09.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/",
+      "team": "sabres",
+      "title": "LeBrun: Kevyn Adams Sit Down Article 5-21-26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T19:19:50.000Z",
+      "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-roster-mauricio-pochettino-26-man-squad/",
+      "team": "usmnt",
+      "title": "When will USMNT World Cup roster be revealed? Mauricio Pochettino set to announce final 26-man squad",
+      "summary": "Mauricio Pochettino is set to reveal his 26-man roster in a star-studded New York City event before the Americans begin World Cup prep",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T19:05:02.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-roster-mauricio-pochettino-26-man-squad/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43790/usmnt-world-cup-roster-reportedly-revealed-as-major-decisions-made",
+      "team": "usmnt",
+      "title": "USMNT World Cup roster reportedly revealed as major decisions made",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T19:04:52.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/43790/usmnt-world-cup-roster-reportedly-revealed-as-major-decisions-made"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/",
+      "team": "sabres",
+      "title": "The 26-27 Injury Thread: Off-Season Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T18:17:14.000Z",
+      "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/"
+    },
+    {
+      "id": "espn-sabres::44686270",
+      "team": "sabres",
+      "title": "Stanley Cup odds: Golden Knights rocket up odds boards as Avs fade; Canes the favorite",
+      "summary": "The Hurricanes are the Stanley Cup favorites, with the Golden Knights behind and the Avs now last on the odds board.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T17:58:43Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134396/91-buffalo-bills-players-in-91-days-cb-maxwell-hairston",
+      "team": "bills",
+      "title": "91 Buffalo Bills players in 91 days: CB Maxwell Hairston",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T17:51:27.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134396/91-buffalo-bills-players-in-91-days-cb-maxwell-hairston"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/133301/buffalo-beskar-part-4-chasing-problems",
+      "team": "bills",
+      "title": "Buffalo Beskar, Part 4: Chasing problems",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T17:36:48.000Z",
+      "link": "https://www.buffalorumblings.com/general/133301/buffalo-beskar-part-4-chasing-problems"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
       "team": "sabres",
       "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
@@ -183,7 +282,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-23T15:24:28.000Z",
+      "publishedAt": "2026-05-23T17:08:08.000Z",
       "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
     },
     {
@@ -194,7 +293,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-23T15:13:33.000Z",
+      "publishedAt": "2026-05-23T16:43:23.000Z",
       "link": "https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/"
     },
     {
@@ -209,17 +308,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push",
-      "team": "usmnt",
-      "title": "👕Pulisic, AC Milan debut new kit for UCL push",
-      "summary": "With United States star Christian Pulisic front and centre, Serie A giants AC Milan have unveiled their new home kit for the 2026-27 season.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T14:52:32.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -229,28 +317,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-23T14:36:14.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T14:24:43.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
-      "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T14:24:36.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
     },
     {
       "id": "espn-sabres::48485622",
@@ -275,15 +341,15 @@
       "link": "https://www.espn.com/video/clip/_/id/48843345/canadiens-mix-lot-talent"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad",
-      "team": "usmnt",
-      "title": "USMNT 2026 World Cup Big Board 7.0: Who will make ...",
-      "summary": "Mauricio Pochettino will announce his USMNT World Cup squad Tuesday. Who will be on it? Jeff Carlisle makes his predictions in big board 7.0.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/",
+      "team": "sabres",
+      "title": "Sabres’ Jarmo Kekalainen, Lindy Ruff established strong relationship before new contract",
+      "summary": "BUFFALO – Jarmo Kekalainen established a strong relationship with coach Lindy Ruff long before the Sabres promoted him to general manager.\nFollowing his arrival one year ago as a senior advisor to former GM Kevyn Adams, Kekalainen spent every day with the Sabres, even participating in coaches meetings.\nIn their early days together, two hockey lifers developed mutual respect for each other.\n\n“He was part of our group, he asked questions,” Ruff said Wednesday in ... Read the full article \nThe post Sabres’ Jarmo Kekalainen, Lindy Ruff established strong relationship before new contract first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-05-23T06:21:26.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad"
+      "publishedAt": "2026-05-23T05:34:43.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/"
     },
     {
       "id": "espn-bills::48849826",
@@ -363,17 +429,6 @@
       "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/",
-      "team": "sabres",
-      "title": "Sabres’ Jarmo Kekalainen, Lindy Ruff established strong relationship before new contract",
-      "summary": "BUFFALO – Jarmo Kekalainen established a strong relationship with coach Lindy Ruff long before the Sabres promoted him to general manager.\nFollowing his arrival one year ago as a senior advisor to former GM Kevyn Adams, Kekalainen spent every day with the Sabres, even participating in coaches meetings.\nIn their early days together, two hockey lifers developed mutual respect for each other.\n\n“He was part of our group, he asked questions,” Ruff said Wednesday in ... Read the full article \nThe post Sabres’ Jarmo Kekalainen, Lindy Ruff established strong relationship before new contract first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T21:34:43.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265478-american-airlines-adds-flights-for-some-bills-road-games/",
       "team": "bills",
       "title": "American Airlines adds flights for some Bills road games",
@@ -394,17 +449,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-22T20:04:55.000Z",
       "link": "https://forums.hfboards.com/threads/bowen-byram-lhd-4th-oa-2019-trade-with-avs-3-6-2024-re-signs-2-years-6-25m-aav.2959517/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/",
-      "team": "sabres",
-      "title": "LeBrun: Kevyn Adams Sit Down Article 5-21-26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T19:26:53.000Z",
-      "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-college-hockey-talk.2399315/",
@@ -438,17 +482,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-22T16:49:01.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-sign-jason-zucker-1-year-5m-aav-re-signed-2-years-4-75-m-aav.2970555/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/",
-      "team": "sabres",
-      "title": "The 26-27 Injury Thread: Off-Season Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T16:30:38.000Z",
-      "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/43750/usmnt-weekend-viewing-guide-zombie-champo",
@@ -570,17 +603,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-22T05:01:59.000Z",
       "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
-    },
-    {
-      "id": "espn-sabres::48837793",
-      "team": "sabres",
-      "title": "Canadiens-Hurricanes Game 1 takeaways, grades, early look at Game 2",
-      "summary": "Game 1 was a dominant showing for the Habs. Here's what it all means, with a look ahead to the rest of the series.",
-      "source": "ESPN · Ryan Clark",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T04:00:27Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48837793/2026-nhl-playoffs-stanley-cup-eastern-conference-finals-game-1-grades-hurricanes-canadiens"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/",
@@ -836,28 +858,6 @@
       "link": "https://www.diebytheblade.com/jedi-council-playoff-edition-2/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134471/buffalo-bills-optimistic-about-michael-hoechts-rehab-progress",
-      "team": "bills",
-      "title": "Buffalo Bills fans should feel optimistic about Michael Hoecht’s progress",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-20T12:08:34.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/134471/buffalo-bills-optimistic-about-michael-hoechts-rehab-progress"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/134367/bills-news-embattled-wr-keon-coleman-knows-the-pressure-to-perform-is-on",
-      "team": "bills",
-      "title": "Bills news: Embattled WR Keon Coleman knows the pressure to perform is on",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-20T12:02:47.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/134367/bills-news-embattled-wr-keon-coleman-knows-the-pressure-to-perform-is-on"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-special-season-sabres-understand-success-isnt-guaranteed-next-year/",
       "team": "sabres",
       "title": "After special season, Sabres understand success isn’t guaranteed next year",
@@ -1109,17 +1109,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-18T13:40:57.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/43587/usmnt-midweek-viewing-guide-adams-vs-man-city"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/chris-richards-injury-usmnt-defender-crystal-palace/",
-      "team": "usmnt",
-      "title": "Chris Richards injury: USMNT star hurts ankle less than a month before 2026 World Cup",
-      "summary": "The American defender was hurt in Crystal Palace's 2-2 draw with Brentford on Sunday, and his coach, Oliver Glasner, moved to ease fears after the match",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-17T18:08:32.000Z",
-      "link": "https://www.cbssports.com/soccer/news/chris-richards-injury-usmnt-defender-crystal-palace/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-8-3-canadiens-fight-game-7-at-home-recap-reaction/",
@@ -1494,17 +1483,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-12T13:16:57.000Z",
       "link": "https://www.cbssports.com/betting/news/sabres-vs-canadiens-nhl-game-4-montreal-has-found-offensive-rhythm-eyes-commanding-3-1-series-lead-tuesday/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43665/world-cup-roster-prediction",
-      "team": "usmnt",
-      "title": "Who will Mauricio Pochettino pick for the USMNT World Cup roster?",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-12T12:59:50.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/43665/world-cup-roster-prediction"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-to-host-detroit-lions-in-2026-home-opener-at-highmark-stadium",
