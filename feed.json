@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T19:58:05.281Z",
+  "generatedAt": "2026-05-23T23:14:12.612Z",
   "sources": [
     {
       "id": "bills-official",
@@ -75,7 +75,7 @@
       "id": "cbs-nhl",
       "label": "CBS Sports",
       "team": "sabres",
-      "itemCount": 11,
+      "itemCount": 10,
       "error": null
     },
     {
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 5,
+      "itemCount": 6,
       "error": null
     },
     {
@@ -176,15 +176,26 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
-      "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push",
+      "team": "usmnt",
+      "title": "👕Pulisic, AC Milan debut new kit for UCL push",
+      "summary": "With United States star Christian Pulisic front and centre, Serie A giants AC Milan have unveiled their new home kit for the 2026-27 season.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-05-23T19:25:29.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+      "publishedAt": "2026-05-23T23:52:02.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48854192/usa-2026-world-cup-roster-gio-reyna-diego-luna-zendejas",
+      "team": "usmnt",
+      "title": "Sources: Reyna in as U.S. selects World Cup roster...",
+      "summary": "USMNT coach Mauricio Pochettino has selected his 26-man roster for the upcoming World Cup, with Gio Reyna among those included, sources confirmed to ESPN.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T23:34:13.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48854192/usa-2026-world-cup-roster-gio-reyna-diego-luna-zendejas"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
@@ -194,7 +205,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-23T19:23:09.000Z",
+      "publishedAt": "2026-05-23T23:00:51.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
     },
     {
@@ -205,8 +216,41 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-23T19:19:50.000Z",
+      "publishedAt": "2026-05-23T22:08:39.000Z",
       "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-world-cup-gio-reyna/",
+      "team": "usmnt",
+      "title": "Why did Mauricio Pochettino reportedly risk a USMNT World Cup spot on Gio Reyna?",
+      "summary": "After the drama of 2022, a matured Gio Reyna is ready to accept any role to help the USMNT succeed on soccer's biggest stage",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T20:50:17.000Z",
+      "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-world-cup-gio-reyna/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
+      "team": "sabres",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T20:06:46.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T19:25:29.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-roster-mauricio-pochettino-26-man-squad/",
@@ -220,17 +264,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-roster-mauricio-pochettino-26-man-squad/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43790/usmnt-world-cup-roster-reportedly-revealed-as-major-decisions-made",
-      "team": "usmnt",
-      "title": "USMNT World Cup roster reportedly revealed as major decisions made",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T19:04:52.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/43790/usmnt-world-cup-roster-reportedly-revealed-as-major-decisions-made"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/",
       "team": "sabres",
       "title": "The 26-27 Injury Thread: Off-Season Edition",
@@ -240,39 +273,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-23T18:17:14.000Z",
       "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/"
-    },
-    {
-      "id": "espn-sabres::44686270",
-      "team": "sabres",
-      "title": "Stanley Cup odds: Golden Knights rocket up odds boards as Avs fade; Canes the favorite",
-      "summary": "The Hurricanes are the Stanley Cup favorites, with the Golden Knights behind and the Avs now last on the odds board.",
-      "source": "ESPN · Doug Greenberg",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T17:58:43Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134396/91-buffalo-bills-players-in-91-days-cb-maxwell-hairston",
-      "team": "bills",
-      "title": "91 Buffalo Bills players in 91 days: CB Maxwell Hairston",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T17:51:27.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134396/91-buffalo-bills-players-in-91-days-cb-maxwell-hairston"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/133301/buffalo-beskar-part-4-chasing-problems",
-      "team": "bills",
-      "title": "Buffalo Beskar, Part 4: Chasing problems",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T17:36:48.000Z",
-      "link": "https://www.buffalorumblings.com/general/133301/buffalo-beskar-part-4-chasing-problems"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
@@ -297,17 +297,6 @@
       "link": "https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/"
     },
     {
-      "id": "espn-sabres::48526483",
-      "team": "sabres",
-      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
-      "summary": "It was all Canadiens in Game 1. Plus, highlights from Avs-Golden Knights Game 2 and updated playoff stats.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T14:55:57Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -330,6 +319,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/48485622/nhl-playoffs-2026-stanley-cup-bracket-schedule-teams-players-preview"
     },
     {
+      "id": "espn-sabres::48526483",
+      "team": "sabres",
+      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
+      "summary": "It was all Canadiens in Game 1. Plus, highlights from Avs-Golden Knights Game 2 and updated playoff stats.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T10:55:04Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
+    },
+    {
       "id": "espn-sabres::48843345",
       "team": "sabres",
       "title": "P.K. Subban: Canadiens have a mix of a lot of talent",
@@ -339,6 +339,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-23T10:46:25Z",
       "link": "https://www.espn.com/video/clip/_/id/48843345/canadiens-mix-lot-talent"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad",
+      "team": "usmnt",
+      "title": "USMNT 2026 World Cup Big Board 7.0: Who will make ...",
+      "summary": "Mauricio Pochettino will announce his USMNT World Cup squad Tuesday. Who will be on it? Jeff Carlisle makes his predictions in big board 7.0.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T06:21:26.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/",
@@ -605,6 +616,17 @@
       "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
     },
     {
+      "id": "espn-sabres::48837793",
+      "team": "sabres",
+      "title": "Canadiens-Hurricanes Game 1 takeaways, grades, early look at Game 2",
+      "summary": "Game 1 was a dominant showing for the Habs. Here's what it all means, with a look ahead to the rest of the series.",
+      "source": "ESPN · Ryan Clark",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-22T04:00:27Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48837793/2026-nhl-playoffs-stanley-cup-eastern-conference-finals-game-1-grades-hurricanes-canadiens"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/",
       "team": "sabres",
       "title": "Zach Benson, LW/C, Wenatchee (WHL), Signed ELC- 2023, 13th Overall",
@@ -616,17 +638,6 @@
       "link": "https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/43717/how-far-does-mauricio-pochettino-need-to-take-the-usmnt-for-the-world-cup-to-be-a-success",
-      "team": "usmnt",
-      "title": "How far does Mauricio Pochettino need to take the USMNT for the World Cup to be a success?",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T00:47:52.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/43717/how-far-does-mauricio-pochettino-need-to-take-the-usmnt-for-the-world-cup-to-be-a-success"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265470-are-we-sleeping-on-landon-jackson/",
       "team": "bills",
       "title": "Are we sleeping on Landon Jackson?",
@@ -636,17 +647,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-21T21:13:09.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265470-are-we-sleeping-on-landon-jackson/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/playoff-round-2-discussion-montreal-vs-buffalo-adams-division-flashback-series-montreal-wins-4-3.3029397/",
-      "team": "sabres",
-      "title": "Playoff Round 2 Discussion - Montreal vs Buffalo, Adams Division Flashback Series, Montreal wins 4-3",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-21T20:38:29.000Z",
-      "link": "https://forums.hfboards.com/threads/playoff-round-2-discussion-montreal-vs-buffalo-adams-division-flashback-series-montreal-wins-4-3.3029397/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/134509/buffalo-bills-53-man-roster-prediction-otas-edition",
@@ -856,6 +856,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-20T13:00:00.000Z",
       "link": "https://www.diebytheblade.com/jedi-council-playoff-edition-2/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134471/buffalo-bills-optimistic-about-michael-hoechts-rehab-progress",
+      "team": "bills",
+      "title": "Buffalo Bills fans should feel optimistic about Michael Hoecht’s progress",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-20T12:08:34.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/134471/buffalo-bills-optimistic-about-michael-hoechts-rehab-progress"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/134367/bills-news-embattled-wr-keon-coleman-knows-the-pressure-to-perform-is-on",
+      "team": "bills",
+      "title": "Bills news: Embattled WR Keon Coleman knows the pressure to perform is on",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-20T12:02:47.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/134367/bills-news-embattled-wr-keon-coleman-knows-the-pressure-to-perform-is-on"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-special-season-sabres-understand-success-isnt-guaranteed-next-year/",
@@ -1485,6 +1507,17 @@
       "link": "https://www.cbssports.com/betting/news/sabres-vs-canadiens-nhl-game-4-montreal-has-found-offensive-rhythm-eyes-commanding-3-1-series-lead-tuesday/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43665/world-cup-roster-prediction",
+      "team": "usmnt",
+      "title": "Who will Mauricio Pochettino pick for the USMNT World Cup roster?",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-12T12:59:50.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/43665/world-cup-roster-prediction"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-to-host-detroit-lions-in-2026-home-opener-at-highmark-stadium",
       "team": "bills",
       "title": "Buffalo Bills to host Detroit Lions in 2026 home opener at Highmark Stadium",
@@ -1496,6 +1529,17 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-to-host-detroit-lions-in-2026-home-opener-at-highmark-stadium"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/soccer/43653/johnny-cardoso-likely-to-miss-world-cup-due-to-ankle-surgery",
+      "team": "usmnt",
+      "title": "Johnny Cardoso likely to miss World Cup due to ankle surgery",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-11T20:42:34.000Z",
+      "link": "https://www.starsandstripesfc.com/soccer/43653/johnny-cardoso-likely-to-miss-world-cup-due-to-ankle-surgery"
+    },
+    {
       "id": "cbs-nhl::https://www.cbssports.com/nhl/news/sabres-canadiens-odds-prediction-time-2026-nhl-playoff-picks-game-3-best-bets/",
       "team": "sabres",
       "title": "Sabres vs. Canadiens odds, prediction, time: 2026 NHL playoff picks, Game 3 best bets from proven model",
@@ -1505,17 +1549,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-10T21:46:11.000Z",
       "link": "https://www.cbssports.com/nhl/news/sabres-canadiens-odds-prediction-time-2026-nhl-playoff-picks-game-3-best-bets/"
-    },
-    {
-      "id": "cbs-nhl::https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-timberwolves-spurs-canadiens-sabres-mlb-sunday/",
-      "team": "sabres",
-      "title": "Use DraftKings promo code for $100 bonus bets by targeting Timberwolves-Spurs, Canadiens-Sabres, MLB Sunday",
-      "summary": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for NBA, MLB and NHL betting on Sunday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-10T20:10:42.000Z",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-timberwolves-spurs-canadiens-sabres-mlb-sunday/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm/",
