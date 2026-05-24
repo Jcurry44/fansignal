@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T19:56:56.141Z",
+  "generatedAt": "2026-05-24T23:43:19.652Z",
   "sources": [
     {
       "id": "bills-official",
@@ -75,7 +75,7 @@
       "id": "cbs-nhl",
       "label": "CBS Sports",
       "team": "sabres",
-      "itemCount": 10,
+      "itemCount": 9,
       "error": null
     },
     {
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 6,
+      "itemCount": 5,
       "error": null
     },
     {
@@ -176,6 +176,138 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48864945/fabregas-guides-como-first-ucl-milan-pulisic-out",
+      "team": "usmnt",
+      "title": "Fabregas guides Como to UCL; Milan, Pulisic out",
+      "summary": "An improbable end to the Serie A season unfolded on Sunday as Cesc Fabregas and Como won to book a spot in the Champions League next season, while AC Milan were beaten at home to fall out of the top four.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-25T00:16:11.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48864945/fabregas-guides-como-first-ucl-milan-pulisic-out"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push",
+      "team": "usmnt",
+      "title": "👕Pulisic, AC Milan debut new kit for UCL push",
+      "summary": "With United States star Christian Pulisic front and centre, Serie A giants AC Milan have unveiled their new home kit for the 2026-27 season.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-25T00:16:11.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T23:29:21.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T23:28:36.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
+      "team": "sabres",
+      "title": "All Purpose Goaltending Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T23:04:53.000Z",
+      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/",
+      "team": "sabres",
+      "title": "\"Hometown Remix\" (Reverse Retro 2.0 Moneygrab) 2026-27 Sweater Leak?",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T23:00:58.000Z",
+      "link": "https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T22:37:06.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T21:47:08.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
+      "team": "sabres",
+      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T20:53:17.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
+      "team": "sabres",
+      "title": "How are they doing now? (Former Sabres Players) Top 100 pics/stories",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T20:21:22.000Z",
+      "link": "https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/",
+      "team": "sabres",
+      "title": "Melvin Novotny, LW, 195th overall; Heading to Muskegon (USHL) and then UMass in '26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T19:45:04.000Z",
+      "link": "https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/"
+    },
+    {
+      "id": "espn-sabres::48859586",
+      "team": "sabres",
+      "title": "Hurricanes, Canadiens take 1-1 series in the Eastern Conference Final to Canada for Monday's Game 3",
+      "summary": "— Rod Brind'Amour didn't see a need to juggle his lineup or massively adjust the scheme after an ugly first period cost the Carolina Hurricanes any chance to win their Eastern Conference Final opener.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T19:36:01Z",
+      "link": "http://www.espn.com/nhl/preview?gameId=401873385"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -187,39 +319,6 @@
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/",
-      "team": "sabres",
-      "title": "\"Hometown Remix\" (Reverse Retro 2.0 Moneygrab) 2026-27 Sweater Leak?",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T19:01:18.000Z",
-      "link": "https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
-      "team": "sabres",
-      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T18:54:14.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T18:32:32.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
-    },
-    {
       "id": "espn-sabres::44686270",
       "team": "sabres",
       "title": "Stanley Cup odds: Golden Knights rocket up odds boards as Avs fade; Canes the favorite",
@@ -229,17 +328,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-24T18:31:43Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/",
-      "team": "sabres",
-      "title": "Melvin Novotny, LW, 195th overall; Heading to Muskegon (USHL) and then UMass in '26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T17:54:51.000Z",
-      "link": "https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/"
     },
     {
       "id": "espn-sabres::48857997",
@@ -306,28 +394,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-24T12:56:24Z",
       "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
-      "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T11:35:01.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
-    },
-    {
-      "id": "espn-sabres::48859586",
-      "team": "sabres",
-      "title": "Canadiens, Hurricanes square off with series tied 1-1",
-      "summary": "Carolina Hurricanes (53-22-7, in the Metropolitan Division) vs. Montreal Canadiens (48-24-10, in the Atlantic Division)",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T08:12:01Z",
-      "link": "http://www.espn.com/nhl/preview?gameId=401873385"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43790/usmnt-world-cup-roster-reportedly-revealed-as-major-decisions-made",
@@ -429,6 +495,17 @@
       "link": "https://www.buffalorumblings.com/general/133301/buffalo-beskar-part-4-chasing-problems"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad",
+      "team": "usmnt",
+      "title": "USMNT 2026 World Cup Big Board 7.0: Who will make ...",
+      "summary": "Mauricio Pochettino will announce his USMNT World Cup squad Tuesday. Who will be on it? Jeff Carlisle makes his predictions in big board 7.0.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T06:21:26.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/",
       "team": "sabres",
       "title": "Sabres’ Jarmo Kekalainen, Lindy Ruff established strong relationship before new contract",
@@ -495,17 +572,6 @@
       "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T22:42:10.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265478-american-airlines-adds-flights-for-some-bills-road-games/",
       "team": "bills",
       "title": "American Airlines adds flights for some Bills road games",
@@ -539,28 +605,6 @@
       "link": "https://forums.hfboards.com/threads/general-college-hockey-talk.2399315/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alan-pergament-bills-sabres-leaving-wgr-am-as-flagship-station-to-sell-and-produce-own-games-wgr-news-and-discussion-thread.3022538/",
-      "team": "sabres",
-      "title": "Alan Pergament: Bills, Sabres leaving WGR-AM as flagship station to sell and produce own games (WGR News and Discussion Thread)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T17:05:06.000Z",
-      "link": "https://forums.hfboards.com/threads/alan-pergament-bills-sabres-leaving-wgr-am-as-flagship-station-to-sell-and-produce-own-games-wgr-news-and-discussion-thread.3022538/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-sign-jason-zucker-1-year-5m-aav-re-signed-2-years-4-75-m-aav.2970555/",
-      "team": "sabres",
-      "title": "Sabres Sign Jason Zucker, 1 year, $5M AAV; re-signed 2 years, $4.75 M AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T16:49:01.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-sign-jason-zucker-1-year-5m-aav-re-signed-2-years-4-75-m-aav.2970555/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/43750/usmnt-weekend-viewing-guide-zombie-champo",
       "team": "usmnt",
       "title": "USMNT weekend viewing guide: Zombie Champo",
@@ -592,17 +636,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-22T14:23:32.000Z",
       "link": "https://www.cbssports.com/soccer/news/tim-weah-world-cup-usmnt-marseille/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T12:16:33.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265474-gm-joe-schoen-extended-by-giants/",
@@ -1089,17 +1122,6 @@
       "link": "https://www.cbssports.com/betting/news/canadiens-vs-sabres-nhl-picks-monday-who-has-the-edge-in-first-ever-game-7-between-the-franchises/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-roster-prediction-projecting-usmnt-world-cup-roster-mauricio-pochettino/",
-      "team": "usmnt",
-      "title": "World Cup roster prediction: Projecting USMNT World Cup roster ahead of Mauricio Pochettino's final decision",
-      "summary": "Mauricio Pochettino faces tough decisions ahead of the May 26 roster reveal as injuries and form issues complicate the final 26-man World Cup squad",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-18T15:19:38.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-roster-prediction-projecting-usmnt-world-cup-roster-mauricio-pochettino/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265443-taron-johnson-not-attending-voluntary-workouts-with-raiders/",
       "team": "bills",
       "title": "Taron Johnson not attending Voluntary workouts with Raiders",
@@ -1494,17 +1516,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-11T22:59:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-to-host-detroit-lions-in-2026-home-opener-at-highmark-stadium"
-    },
-    {
-      "id": "cbs-nhl::https://www.cbssports.com/nhl/news/sabres-canadiens-odds-prediction-time-2026-nhl-playoff-picks-game-3-best-bets/",
-      "team": "sabres",
-      "title": "Sabres vs. Canadiens odds, prediction, time: 2026 NHL playoff picks, Game 3 best bets from proven model",
-      "summary": "SportsLine's model reveals its Montreal Canadiens vs. Buffalo Sabres picks for their 2026 Stanley Cup playoff Game 3 matchup on Sunday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-10T21:46:11.000Z",
-      "link": "https://www.cbssports.com/nhl/news/sabres-canadiens-odds-prediction-time-2026-nhl-playoff-picks-game-3-best-bets/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265384-johnny-manziel-to-fight-social-media-star-in-vegas/",
