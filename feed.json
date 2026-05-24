@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T15:50:48.570Z",
+  "generatedAt": "2026-05-24T19:56:56.141Z",
   "sources": [
     {
       "id": "bills-official",
@@ -75,7 +75,7 @@
       "id": "cbs-nhl",
       "label": "CBS Sports",
       "team": "sabres",
-      "itemCount": 9,
+      "itemCount": 10,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -164,8 +164,8 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Sun 12:15 PM",
-      "detail": "vs PIT"
+      "headline": "Mon 7:07 PM",
+      "detail": "vs MIA"
     },
     {
       "team": "usmnt",
@@ -176,28 +176,6 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48854192/usa-2026-world-cup-roster-gio-reyna-diego-luna-zendejas",
-      "team": "usmnt",
-      "title": "Sources: Reyna in as U.S. picks World Cup roster",
-      "summary": "USMNT coach Mauricio Pochettino has selected his 26-man roster for the upcoming World Cup, with Gio Reyna among those included, sources confirmed to ESPN.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T16:42:33.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48854192/usa-2026-world-cup-roster-gio-reyna-diego-luna-zendejas"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push",
-      "team": "usmnt",
-      "title": "👕Pulisic, AC Milan debut new kit for UCL push",
-      "summary": "With United States star Christian Pulisic front and centre, Serie A giants AC Milan have unveiled their new home kit for the 2026-27 season.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T16:42:33.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -205,8 +183,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-24T15:35:18.000Z",
+      "publishedAt": "2026-05-24T19:12:56.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/",
+      "team": "sabres",
+      "title": "\"Hometown Remix\" (Reverse Retro 2.0 Moneygrab) 2026-27 Sweater Leak?",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T19:01:18.000Z",
+      "link": "https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
+      "team": "sabres",
+      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T18:54:14.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
@@ -216,8 +216,74 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-24T15:29:05.000Z",
+      "publishedAt": "2026-05-24T18:32:32.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+    },
+    {
+      "id": "espn-sabres::44686270",
+      "team": "sabres",
+      "title": "Stanley Cup odds: Golden Knights rocket up odds boards as Avs fade; Canes the favorite",
+      "summary": "The Hurricanes are the Stanley Cup favorites, with the Golden Knights just behind on the odds board.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T18:31:43Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/",
+      "team": "sabres",
+      "title": "Melvin Novotny, LW, 195th overall; Heading to Muskegon (USHL) and then UMass in '26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T17:54:51.000Z",
+      "link": "https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/"
+    },
+    {
+      "id": "espn-sabres::48857997",
+      "team": "sabres",
+      "title": "Nikolaj Ehlers scores OT winner as Hurricanes tie series",
+      "summary": "Nikolaj Ehlers, in his first season with the Hurricanes, got loose up the center of the ice and shot a puck past Jakub Dobes at 3:29 of overtime to lift Carolina past the Canadiens 3-2 and level the Eastern Conference finals at 1-1.",
+      "source": "ESPN · Kristen Shilton",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T17:49:19Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48857997/nikolaj-ehlers-scores-ot-winner-hurricanes-tie-series"
+    },
+    {
+      "id": "espn-sabres::48857448",
+      "team": "sabres",
+      "title": "Hurricanes-Canadiens Game 2 takeaways, grades, early look at Game 3",
+      "summary": "The Eastern Conference finals are tied at 1-1 heading to Montreal. Here's what it all means, with a look ahead to the rest of the series.",
+      "source": "ESPN · Greg Wyshynski",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T17:29:55Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48857448/2026-nhl-playoffs-stanley-cup-eastern-conference-finals-game-2-grades-hurricanes-canadiens"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-keeping-colten-ellis-sabres-open-to-using-three-goalies-again-it-worked/",
+      "team": "sabres",
+      "title": "After keeping Colten Ellis, Sabres open to using three goalies again: ‘It worked’",
+      "summary": "BUFFALO – It felt like goalie Colten Ellis’ stay here would be brief. Perhaps after filling the backup role for a couple of weeks as Ukko-Pekka Luukkonen recovered from an injury, the Sabres would place the rookie back on waivers or trade him.\nBut Ellis looked sharp in his first NHL action and fit in well, giving the Sabres extra depth at a critical position and the ability to try different things.\nShortly after Luukkonen ... Read the full article \nThe post After keeping Colten Ellis, Sabres open to using three goalies again: ‘It worked’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T16:26:43.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-keeping-colten-ellis-sabres-open-to-using-three-goalies-again-it-worked/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/",
+      "team": "sabres",
+      "title": "LeBrun: Kevyn Adams Sit Down Article 5-21-26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T15:51:03.000Z",
+      "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/",
@@ -229,28 +295,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-24T15:11:37.000Z",
       "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/"
-    },
-    {
-      "id": "espn-sabres::48857997",
-      "team": "sabres",
-      "title": "Nikolaj Ehlers scores OT winner as Hurricanes tie series",
-      "summary": "Nikolaj Ehlers, in his first season with the Hurricanes, got loose up the center of the ice and shot a puck past Jakub Dobes at 3:29 of overtime to lift Carolina past the Canadiens 3-2 and level the Eastern Conference finals at 1-1.",
-      "source": "ESPN · Kristen Shilton",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T14:24:05Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48857997/nikolaj-ehlers-scores-ot-winner-hurricanes-tie-series"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/",
-      "team": "sabres",
-      "title": "LeBrun: Kevyn Adams Sit Down Article 5-21-26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T14:20:07.000Z",
-      "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
     },
     {
       "id": "espn-sabres::48526483",
@@ -275,17 +319,6 @@
       "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/",
-      "team": "sabres",
-      "title": "\"Hometown Remix\" (Reverse Retro 2.0 Moneygrab) 2026-27 Sweater Leak?",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T11:32:30.000Z",
-      "link": "https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/"
-    },
-    {
       "id": "espn-sabres::48859586",
       "team": "sabres",
       "title": "Canadiens, Hurricanes square off with series tied 1-1",
@@ -297,17 +330,6 @@
       "link": "http://www.espn.com/nhl/preview?gameId=401873385"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/",
-      "team": "sabres",
-      "title": "Melvin Novotny, LW, 195th overall; Heading to Muskegon (USHL) and then UMass in '26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T06:28:22.000Z",
-      "link": "https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43790/usmnt-world-cup-roster-reportedly-revealed-as-major-decisions-made",
       "team": "usmnt",
       "title": "USMNT World Cup roster reportedly revealed as major decisions made",
@@ -317,28 +339,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-24T04:05:24.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/43790/usmnt-world-cup-roster-reportedly-revealed-as-major-decisions-made"
-    },
-    {
-      "id": "espn-sabres::48857448",
-      "team": "sabres",
-      "title": "Hurricanes-Canadiens Game 2 takeaways, grades, early look at Game 3",
-      "summary": "The Eastern Conference finals are tied at 1-1 heading to Montreal. Here's what it all means, with a look ahead to the rest of the series.",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T03:33:43Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48857448/2026-nhl-playoffs-stanley-cup-eastern-conference-finals-game-2-grades-hurricanes-canadiens"
-    },
-    {
-      "id": "espn-sabres::48485622",
-      "team": "sabres",
-      "title": "Stanley Cup playoffs 2026: Bracket, schedule, scores, news",
-      "summary": "From the first round all the way through the Stanley Cup Final, ESPN has you covered this NHL postseason.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T02:43:32Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48485622/nhl-playoffs-2026-stanley-cup-bracket-schedule-teams-players-preview"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
@@ -427,28 +427,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-23T17:36:48.000Z",
       "link": "https://www.buffalorumblings.com/general/133301/buffalo-beskar-part-4-chasing-problems"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
-      "team": "sabres",
-      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T17:08:08.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad",
-      "team": "usmnt",
-      "title": "USMNT 2026 World Cup Big Board 7.0: Who will make ...",
-      "summary": "Mauricio Pochettino will announce his USMNT World Cup squad Tuesday. Who will be on it? Jeff Carlisle makes his predictions in big board 7.0.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T06:21:26.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/",
@@ -858,6 +836,17 @@
       "link": "https://www.buffalohockeybeat.com/following-special-season-sabres-sign-lindy-ruff-to-contract-extension/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265461-josh-is-smarter-than-a-lot-of-people-realize/",
+      "team": "bills",
+      "title": "Josh is smarter than a lot of people realize",
+      "summary": "https://www.ncsasports.org/football-recruiting/california/firebaugh/firebaugh-high-school2/joshua-allen7\n\t \n\n\n\n\t \n\n\n\n\tPer that he had a 3.8 GPA in high school and took AP Calculus",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-20T16:47:38.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265461-josh-is-smarter-than-a-lot-of-people-realize/"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/hot-takes/43722/should-christian-pulisic-move-from-ac-milan-after-the-world-cup",
       "team": "usmnt",
       "title": "Should Christian Pulisic move from AC Milan after the World Cup?",
@@ -1054,17 +1043,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-19T05:28:45.000Z",
       "link": "https://www.buffalohockeybeat.com/memorable-sabres-season-ends-with-ot-loss-to-canadiens-in-game-7-it-hurts/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-depth-offers-options-to-change-lineup-tage-thompson-back-at-wing/",
-      "team": "sabres",
-      "title": "Sabres’ depth offers options to change lineup; Tage Thompson back at wing",
-      "summary": "BUFFALO – The Sabres find strength in numbers, as in they boast some of the NHL’s best depth, giving them intriguing choices to construct their lineup and tailor it to their opponent.\nTo wit: in Saturday’s come-from-behind 8-3 win in Montreal, rookie defenseman Zach Metsa made his debut, becoming the 27th player to skate for the Sabres in the Stanley Cup Playoffs.\nAfter sitting out the first 11 games as a healthy scratch, Metsa also ... Read the full article \nThe post Sabres’ depth offers options to change lineup; Tage Thompson back at wing first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-18T22:05:34.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-depth-offers-options-to-change-lineup-tage-thompson-back-at-wing/"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/nhl/news/canadiens-sabres-odds-betting-line-prediction-time-2026-nhl-playoff-picks-game-7-best-bets/",
@@ -1518,6 +1496,17 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-to-host-detroit-lions-in-2026-home-opener-at-highmark-stadium"
     },
     {
+      "id": "cbs-nhl::https://www.cbssports.com/nhl/news/sabres-canadiens-odds-prediction-time-2026-nhl-playoff-picks-game-3-best-bets/",
+      "team": "sabres",
+      "title": "Sabres vs. Canadiens odds, prediction, time: 2026 NHL playoff picks, Game 3 best bets from proven model",
+      "summary": "SportsLine's model reveals its Montreal Canadiens vs. Buffalo Sabres picks for their 2026 Stanley Cup playoff Game 3 matchup on Sunday",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-10T21:46:11.000Z",
+      "link": "https://www.cbssports.com/nhl/news/sabres-canadiens-odds-prediction-time-2026-nhl-playoff-picks-game-3-best-bets/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265384-johnny-manziel-to-fight-social-media-star-in-vegas/",
       "team": "bills",
       "title": "Johnny Manziel to fight \"social media star\" in Vegas",
@@ -1527,17 +1516,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-08T19:59:56.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265384-johnny-manziel-to-fight-social-media-star-in-vegas/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm/",
-      "team": "bills",
-      "title": "Vikings want to interview Terrance Gray for GM",
-      "summary": "Sorry if this was posted elsewhere. Tom Pelissaro reported it earlier today that I saw. \n\t \n\n\n\n\tBefore anyone asks, if hired as GM, the Bills would receive a compensatory 3rd round selection in each of the next 2 drafts.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-06T13:32:35.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265350-so-at-what-point-do-we-start-taking-this-prediction-from-2018-seriously/",
