@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T12:00:57.190Z",
+  "generatedAt": "2026-05-24T15:50:48.570Z",
   "sources": [
     {
       "id": "bills-official",
@@ -75,7 +75,7 @@
       "id": "cbs-nhl",
       "label": "CBS Sports",
       "team": "sabres",
-      "itemCount": 11,
+      "itemCount": 9,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -176,6 +176,94 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48854192/usa-2026-world-cup-roster-gio-reyna-diego-luna-zendejas",
+      "team": "usmnt",
+      "title": "Sources: Reyna in as U.S. picks World Cup roster",
+      "summary": "USMNT coach Mauricio Pochettino has selected his 26-man roster for the upcoming World Cup, with Gio Reyna among those included, sources confirmed to ESPN.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T16:42:33.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48854192/usa-2026-world-cup-roster-gio-reyna-diego-luna-zendejas"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push",
+      "team": "usmnt",
+      "title": "👕Pulisic, AC Milan debut new kit for UCL push",
+      "summary": "With United States star Christian Pulisic front and centre, Serie A giants AC Milan have unveiled their new home kit for the 2026-27 season.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T16:42:33.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48842212/christian-pulisic-ac-milan-debut-new-2026-27-home-kit-champions-league-push"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T15:35:18.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T15:29:05.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/",
+      "team": "sabres",
+      "title": "The Good, the Bad, and the Ugly - Broken Hearted. Sabres 2 - Canadiens 3 (OT)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T15:11:37.000Z",
+      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/"
+    },
+    {
+      "id": "espn-sabres::48857997",
+      "team": "sabres",
+      "title": "Nikolaj Ehlers scores OT winner as Hurricanes tie series",
+      "summary": "Nikolaj Ehlers, in his first season with the Hurricanes, got loose up the center of the ice and shot a puck past Jakub Dobes at 3:29 of overtime to lift Carolina past the Canadiens 3-2 and level the Eastern Conference finals at 1-1.",
+      "source": "ESPN · Kristen Shilton",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T14:24:05Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48857997/nikolaj-ehlers-scores-ot-winner-hurricanes-tie-series"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/",
+      "team": "sabres",
+      "title": "LeBrun: Kevyn Adams Sit Down Article 5-21-26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T14:20:07.000Z",
+      "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
+    },
+    {
+      "id": "espn-sabres::48526483",
+      "team": "sabres",
+      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
+      "summary": "Colorado faces an 0-2 deficit to Vegas. Plus, highlights from Hurricanes-Canadiens Game 2 and updated playoff stats.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T12:56:24Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
       "team": "sabres",
       "title": "The 2026 Around the NHL Playoff Thread",
@@ -196,28 +284,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-24T11:32:30.000Z",
       "link": "https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/"
-    },
-    {
-      "id": "espn-sabres::48526483",
-      "team": "sabres",
-      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
-      "summary": "Colorado faces an 0-2 deficit to Vegas. Plus, highlights from Hurricanes-Canadiens Game 2 and updated playoff stats.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T11:30:48Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T11:22:04.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
     },
     {
       "id": "espn-sabres::48859586",
@@ -242,17 +308,6 @@
       "link": "https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/"
     },
     {
-      "id": "espn-sabres::48857997",
-      "team": "sabres",
-      "title": "Nikolaj Ehlers scores OT winner as Hurricanes tie series",
-      "summary": "Nikolaj Ehlers, in his first season with the Hurricanes, got loose up the center of the ice and shot a puck past Jakub Dobes at 3:29 of overtime to lift Carolina past the Montreal Canadiens 3-2 on Saturday, leveling the Eastern Conference finals at 1-1.",
-      "source": "ESPN · Kristen Shilton",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T05:29:34Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48857997/nikolaj-ehlers-scores-ot-winner-hurricanes-tie-series"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43790/usmnt-world-cup-roster-reportedly-revealed-as-major-decisions-made",
       "team": "usmnt",
       "title": "USMNT World Cup roster reportedly revealed as major decisions made",
@@ -275,17 +330,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48857448/2026-nhl-playoffs-stanley-cup-eastern-conference-finals-game-2-grades-hurricanes-canadiens"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T02:51:13.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
       "id": "espn-sabres::48485622",
       "team": "sabres",
       "title": "Stanley Cup playoffs 2026: Bracket, schedule, scores, news",
@@ -295,17 +339,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-24T02:43:32Z",
       "link": "https://www.espn.com/nhl/story/_/id/48485622/nhl-playoffs-2026-stanley-cup-bracket-schedule-teams-players-preview"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/",
-      "team": "sabres",
-      "title": "LeBrun: Kevyn Adams Sit Down Article 5-21-26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-24T02:20:25.000Z",
-      "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
@@ -407,6 +440,17 @@
       "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad",
+      "team": "usmnt",
+      "title": "USMNT 2026 World Cup Big Board 7.0: Who will make ...",
+      "summary": "Mauricio Pochettino will announce his USMNT World Cup squad Tuesday. Who will be on it? Jeff Carlisle makes his predictions in big board 7.0.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-23T06:21:26.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/",
       "team": "sabres",
       "title": "Sabres’ Jarmo Kekalainen, Lindy Ruff established strong relationship before new contract",
@@ -482,17 +526,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-22T22:42:10.000Z",
       "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/",
-      "team": "sabres",
-      "title": "The Good, the Bad, and the Ugly - Broken Hearted. Sabres 2 - Canadiens 3 (OT)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T21:50:03.000Z",
-      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265478-american-airlines-adds-flights-for-some-bills-road-games/",
@@ -737,17 +770,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134505/buffalo-bills-cb-christian-benford-fit-man-coverage-jim-leonhard"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265465-throwback-thursday-game-1-1986-season-the-savior-arrives/",
-      "team": "bills",
-      "title": "Throwback Thursday Game 1, 1986 season The Savior Arrives",
-      "summary": "Wallowing in back to back 2-14 seasons with no hope in sight, a beam of light broke the gloomy skies in WNY as the USFL folded and all their players became eligible to play in the NFL. Kent Hull, Tremaine Johnson and others and others suddenly joined the team after the final preseason game -including wonderkid QB Jim Kelly. For a franchise with an under performing roster, coaching staff and penny pinching owner, came the announcement the dark ages of Bills football were gone as ‘GOD’ arrived to save us all. We didn’t win the opener, but everyone knew we would soon be great!\n\n\n\n\tENJOY!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-21T09:34:15.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265465-throwback-thursday-game-1-1986-season-the-savior-arrives/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/alex-tuch-loves-playing-for-buffalo-but-can-the-sabres-re-sign-him-to-a-long-term-contract/",
       "team": "sabres",
       "title": "Alex Tuch loves playing for Buffalo, but can the Sabres re-sign him to a long-term contract?",
@@ -968,17 +990,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-week-6-girls-flag-football-coaches-of-the-week"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265456-jaxon-smith-njigba-nfl-defensive-player-of-the-year/",
-      "team": "bills",
-      "title": "Jaxon Smith-Njigba - NFL Defensive Player of the Year",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T18:03:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265456-jaxon-smith-njigba-nfl-defensive-player-of-the-year/"
-    },
-    {
       "id": "espn-bills::48387060",
       "team": "bills",
       "title": "NFL offseason 2026: OTA, minicamp dates for all 32 teams",
@@ -1001,15 +1012,15 @@
       "link": "https://www.espn.com/nfl/story/_/id/39395382/what-oldest-nfl-stadium-soldier-sofi-age"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265453-otas-519/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265454-brady-allen-pressers-prior-after-to-otas-today/",
       "team": "bills",
-      "title": "OTAs 5/19",
-      "summary": "First day of media availability is today. Joe Brady's press conference will be starting shortly.\n\n\n\n\t \n\n\n\n\tHere's the full OTA schedule:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tIf it's like previous years the media will be present at one practice each week.\n\n\n\n\t \n\n\n\n\tFootball is (kind of) back!!",
+      "title": "Brady & Allen pressers prior & after to OTAs today",
+      "summary": "",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-19T16:10:05.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265453-otas-519/"
+      "publishedAt": "2026-05-19T16:24:56.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265454-brady-allen-pressers-prior-after-to-otas-today/"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/nhl/news/stanley-cup-playoffs-2026-round-2-winners-losers-mitch-marner-alex-tuch/",
@@ -1419,17 +1430,6 @@
       "link": "https://bandits.com/bandits-fall-behind-early-in-regular-season-finale-loss-to-oshawa/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265410-sal-cappaccio-replaced-on-bills-broadcastsreplaced-by-a-familiar-voice/",
-      "team": "bills",
-      "title": "Sal Cappaccio replaced on Bills broadcasts..replaced by a familiar voice",
-      "summary": "Per Tim Graham\n\n\n\n\t \n\n\n\n\thttps://www.msn.com/en-us/money/general/report-bills-oust-longtime-reporter-after-new-broadcast-deal/ar-AA233oxstly, \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tPer Graham’s report, the new plan would keep play-by-play man Chris Brown and booth analyst Eric Wood in their roles, while legendary Bills player Steve Tasker would step in as the team’s new sideline reporter. That would presumably leave current sideline reporter Sal Capaccio out of a job",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-13T04:18:53.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265410-sal-cappaccio-replaced-on-bills-broadcastsreplaced-by-a-familiar-voice/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/adversity-spurs-greatness/",
       "team": "sabres",
       "title": "Adversity Spurs Greatness | Sabres prevail to level series against Canadiens",
@@ -1518,26 +1518,15 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-to-host-detroit-lions-in-2026-home-opener-at-highmark-stadium"
     },
     {
-      "id": "cbs-nhl::https://www.cbssports.com/nhl/news/sabres-canadiens-odds-prediction-time-2026-nhl-playoff-picks-game-3-best-bets/",
-      "team": "sabres",
-      "title": "Sabres vs. Canadiens odds, prediction, time: 2026 NHL playoff picks, Game 3 best bets from proven model",
-      "summary": "SportsLine's model reveals its Montreal Canadiens vs. Buffalo Sabres picks for their 2026 Stanley Cup playoff Game 3 matchup on Sunday",
-      "source": "CBS Sports",
-      "sourceType": "league",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265384-johnny-manziel-to-fight-social-media-star-in-vegas/",
+      "team": "bills",
+      "title": "Johnny Manziel to fight \"social media star\" in Vegas",
+      "summary": "Manziel's trajectory since being drafted in the 1st round of the NFL draft in 2014 is a very sad one.\n\n\n\n\t \n\n\n\n\tTo recount (from Wiki):\n\n\n\n\t \n\n\n\n\t\n\t\tOn August 22, 2014, Manziel was fined $12,000 by the NFL for a hand gesture (flipping the bird) that he made in a preseason loss to the Washington Redskins.\n\t\n\t\n\t\t\n\t\t\tManziel was ruled out for the Browns' 2014 regular season finale against the Baltimore Ravens. Manziel's work ethic and commitment were questioned by over 20 sources within the Browns. An anonymous player even called Manziel's rookie season a \"100 percent joke.\"\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn February 4, 2015, Manziel entered a treatment program for unspecified reasons.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn May 30, Manziel was involved in an incident with a heckler at the AT&T Byron Nelson golf tournament. The heckler had been continually asking for an autograph, to the point that Manziel became fed up and threw a water bottle at the man. The water bottle missed the heckler. Security and police were called, but no criminal charges were filed.\n\t\t\n\t\n\t\n\t\t\n\t\t\tIn October 2015, Manziel was pulled over by a policeman after fighting in his car with his then-girlfriend, Colleen Crowley. Although no charges were made, Manziel admitted to having had some alcoholic drinks earlier that afternoon.\n\t\t\n\t\n\t\n\t\t\n\t\t\tManziel was announced as the starting quarterback for the rest of the 2015 season on November 17, however, he was demoted to third-string quarterback behind McCown and Austin Davis after videos surfaced of him partying in Texas over the bye week.\n\t\t\n\t\n\t\n\t\t\n\t\t\tManziel sat out the last game of the 2015 season with a concussion with reports circulating that he was in Las Vegas instead of in Cleveland with the team that weekend. The team confirmed that Manziel missed a scheduled check-in on the morning of the last game of the season. Sports Illustrated's Peter King also added that the Browns are \"so done with Manziel\" and that he \"wants to go to Dallas.\"\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn January 6, 2016, Manziel's marketing agency, LRMR, announced that it would no longer work with Manziel.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn February 5, 2016, the Dallas Police Department announced that they were opening a criminal investigation with a claim of domestic violence involving his ex-girlfriend, Colleen Crowley. Dallas police had originally closed the case, but re-opened it with allegations stemming from an altercation on January 30, 2016, at a downtown Dallas hotel. According to Crowley, Manziel forced her into a car, pulled her by the hair, and threatened to kill both her and himself.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn February 5, Manziel's agent, Erik Burkhardt, announced that he would no longer represent Manziel.\n\t\t\n\t\n\t\n\t\t\n\t\t\tIn early February 2016, NFL Network's Ian Rappaport and ESPN's Pat McManamon reported that the Browns planned to cut ties with Manziel as soon as the league's fiscal 2016 began. The Browns released a statement saying that Manziel's continued disregard of their \"expectations for our players on and off the field\" had undermined the Browns' reputation, and that they intended to address his status \"as soon as permitted by league rules\". Manziel was released by the Browns on March 11, 2016.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn April 19, 2016, after just two months of representing him, agent Drew Rosenhaus terminated Manziel as a client, marking the first time in Rosenhaus' 27-year career he terminated his relationship with an NFL player.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn the same day, Nike ended its sponsorship with Manziel.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn April 24, Manziel was indicted by a Dallas grand jury on misdemeanor assault charges for the January 30, 2016, incident.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn June 24, 2016, Manziel's attorney, Bob Hinton, accidentally sent a lengthy text message to the AP relating to Manziel's defense in his domestic violence case. In the message, Hinton expressed concerns about Manziel's ability to stay clean, saying that he was given a receipt that suggests Manziel spent around $1,000 at The Gas Pipe, a drug paraphernalia store.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn June 30, 2016, he was suspended for the first four games of the 2016 season for violating the NFL's substance abuse policy. On September 5, Manziel returned to his alma mater to take classes.\n\t\t\n\t\n\t\n\t\t\n\t\t\tAfter a year out of football, Manziel had a workout in Buffalo, New York, with the Tiger-Cats, during which he was \"put through a series of physical and medical tests\" from August 23 to 24, 2017. He did not initially sign with the team. On September 2, Manziel's representatives requested a contract offer from the Tiger-Cats. According to CFL rules, the Tiger-Cats then had 10 days to offer Manziel a contract, trade his rights or relinquish his rights...However, the CFL later extended the 10-day window so that the league could \"facilitate a process of evaluation for the player\". Manziel also had a meeting with CFL commissioner Randy Ambrosie in September. On September 27, the CFL announced that Manziel would not be allowed to sign with any CFL team for the 2017 season but would be able to sign with a team for the 2018 season if he met \"certain conditions\".\n\t\t\n\t\n\t\n\t\t\n\t\t\tIn December 2017 Manziel was approved to play in the CFL. He was offered a contract by the Hamilton Tiger-Cats but his returned agent Erik Burkhardt asked that they offer his client a \"fair deal\" and that failure to do so would result in Manziel turning his attention to \"several other professional options\".  Burkhardt insisted that Manziel be paid in the same realm as Tiger-Cats' quarterback Zach Collaros was the previous season; i.e., in the range of $500,000 to $550,000. Subsequently the Tiger-Cats released a statement on February 14 implying they had broken off negotiations with Manziel. The same day, Manziel agreed to play in The Spring League, a non-paying developmental league, for the 2018 season.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn May 19, 2018, Manziel and the Tiger-Cats announced that they had agreed to a two-year contract.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn July 22, 2018 after spending the first six weeks on Hamilton's bench without playing, as backup to Jeremiah Masoli, the Tiger-Cats traded Manziel and offensive linemen Tony Washington and Landon Rice to the Montreal Alouettes for defensive lineman Jamaal Westerman, wide receiver Chris Williams, and Montreal's 2020 and 2021 first-round draft picks.\n\t\t\n\t\n\t\n\t\t\n\t\t\tEntering the 2019 season Manziel was slated to compete with Pipkin and Vernon Adams for the starting role but on February 27 it was revealed that the Alouettes released him on orders from the CFL after league officials determined that he had \"contravened\" the terms of his CFL contract. The CFL also barred him from signing with any other CFL team. Manziel had previously revealed that as part of his agreement with the league, he was required to see a doctor, attend weekly sessions with a therapist, and submit to weekly lithium tests. According to veteran CFL journalist Justin Dunk, the league decided to cut ties with Manziel after he missed a number of mandatory meetings.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn March 16, 2019, Manziel signed an agreement to join the Alliance of American Football. Under the league's regional allocation process, the San Antonio Commanders had the first opportunity to sign him via his Texas A&M connections, but the Commanders elected to waive his rights. As a result, he was assigned to the 1–5 Memphis Express through the waiver system, as the Express needed a quarterback to replace the injured Zach Mettenberger and the struggling Christian Hackenberg.\n\t\t\n\t\n\t\n\t\t\n\t\t\tManziel made his debut against the Birmingham Iron on March 24, playing three drives in the second and third quarters as a backup to Brandon Silvers. He completed three of five passes for 48 yards, along with running for 20 yards as the Express won 31–25. The next week, in a March 30 game against the Orlando Apollos, Manziel was removed from the game due to a concussion suffered while attempting to make a tackle after throwing an interception.Three days later, the AAF suspended football operations, ending the 2019 season.\n\t\t\n\t\n\t\n\t\t\n\t\t\tWhen asked by TMZ in September 2020 about potentially playing in the XFL, Manziel announced his retirement, stating: \"I think football is a little bit behind me ... Football for me is not at the forefront of my mind.\" He did not completely rule out coming out of retirement, praising incoming co-owner Dwayne Johnson and stating \"Listen, anything 'The Rock' touches is gonna be gold as always.\"\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn December 30, 2020, Manziel signed with Fan Controlled Football (FCF), an indoor American football league. He was assigned to the Zappers, a team co-owned by his friend Bob Menery. In a February 2021 USA Today interview, Manziel stated he joined the league out of boredom, and expressed disinterest in playing any more professional football in the future.\n\t\t\n\t\n\t\n\t\t\n\t\t\tManziel played sparingly for the Zappers and missed the week 3 game due to a dental emergency. He was pulled from the semifinal playoff matchup (a game that featured him reuniting with former Browns teammate Josh Gordon) for poor performance.\n\t\t\n\n\t\t\n\t\t\tOn March 25, 2022, Manziel announced he would return to FCF for a second season, noting that he will serve as a player-coach for the 2022 season and that the FCF did not pressure him to be the face of the league.\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tSince his playing career has ended, Manziel has stated that he's been diagnosed with bipolar disorder. He's also had numerous concussions from football to go along with his well-documented problems with drugs.\n\n\n\n\t \n\n\n\n\tNow he's signed up for a celebrity boxing match against a \"social media star\", Bob Menery in Las Vegas. The fight's being promoted by Brand Risk, the company which promoted fights involving Le'Veon Bell and others.\n\n\n\n\t \n\n\n\n\tSaid his father of him to ESPN in 2016, \"He's a druggie. It's not a secret that he's a druggie. Hopefully, he doesn't die before he comes to his senses. I mean, I hate to say it, but I hope he goes to jail. I mean, that would be the best place for him. I'm doing my job, and I'm going to move on. If I have to bury him, I'll bury him.\"\n\n\n\n\t \n\n\n\n\tI'm a believer in personal responsibility but I also know firsthand that success is often dependent on the love, support, encouragement, and help you receive from others.\n\n\n\n\t \n\n\n\n\tI read stories like this and it makes me wonder about him but also those around him.\n\n\n\n\t \n\n\n\n\tI also realize that some people simply can't be helped.\n\n\n\n\t \n\n\n\n\tI wonder if recovery and redemption are even remotely possible.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-10T21:46:11.000Z",
-      "link": "https://www.cbssports.com/nhl/news/sabres-canadiens-odds-prediction-time-2026-nhl-playoff-picks-game-3-best-bets/"
-    },
-    {
-      "id": "cbs-nhl::https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-timberwolves-spurs-canadiens-sabres-mlb-sunday/",
-      "team": "sabres",
-      "title": "Use DraftKings promo code for $100 bonus bets by targeting Timberwolves-Spurs, Canadiens-Sabres, MLB Sunday",
-      "summary": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for NBA, MLB and NHL betting on Sunday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-10T20:10:42.000Z",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-timberwolves-spurs-canadiens-sabres-mlb-sunday/"
+      "publishedAt": "2026-05-08T19:59:56.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265384-johnny-manziel-to-fight-social-media-star-in-vegas/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm/",
@@ -1549,6 +1538,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-06T13:32:35.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265350-so-at-what-point-do-we-start-taking-this-prediction-from-2018-seriously/",
+      "team": "bills",
+      "title": "So, at what point do we start taking this prediction from 2018 seriously?",
+      "summary": "Posted 8 years ago and the Sabres are on fire in 2026.\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tFor those who don’t know, Braylon is a reporter for WBEN.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-02T12:54:43.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265350-so-at-what-point-do-we-start-taking-this-prediction-from-2018-seriously/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265142-concepcion-visits-with-bills/",
+      "team": "bills",
+      "title": "Concepcion visits with Bills.",
+      "summary": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kc-concepcion-visiting-with-bills-on-friday\n\t \n\n\n\n\tPossible at 26.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-04-10T23:21:39.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265142-concepcion-visits-with-bills/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265027-anybody-planning-on-going-to-the-bills-game-in-vegas-this-year/",
