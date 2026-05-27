@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T23:43:55.052Z",
+  "generatedAt": "2026-05-27T12:32:56.746Z",
   "sources": [
     {
       "id": "bills-official",
@@ -75,7 +75,7 @@
       "id": "cbs-nhl",
       "label": "CBS Sports",
       "team": "sabres",
-      "itemCount": 6,
+      "itemCount": 7,
       "error": null
     },
     {
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 6,
+      "itemCount": 8,
       "error": null
     },
     {
@@ -183,8 +183,140 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-26T23:41:41.000Z",
+      "publishedAt": "2026-05-27T12:19:21.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
+      "team": "sabres",
+      "title": "General lacrosse thread presented by your local lax goalie dad",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T12:17:13.000Z",
+      "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-roster-winners-and-losers-alex-zendejas-usa-soccer/",
+      "team": "usmnt",
+      "title": "USMNT World Cup roster winners and losers: Alex Zendejas earns his spot, but depth a massive concern",
+      "summary": "Mauricio Pochettino's roster features massive breakthroughs for Alex Zendejas and Alex Freeman, but his unconventional notification method left some feeling the sting",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T12:13:35.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-roster-winners-and-losers-alex-zendejas-usa-soccer/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/inside-usmnts-bizarre-world-cup-roster-announcement-mauricio-pochettino/",
+      "team": "usmnt",
+      "title": "Inside USMNT's bizarre World Cup roster announcements and the backlash Mauricio Pochettino called 'bulls---'",
+      "summary": "USMNT head coach Mauricio Pochettino finalized his World Cup roster on Tuesday, but how he let the team know has drawn backlash",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T12:13:30.000Z",
+      "link": "https://www.cbssports.com/soccer/news/inside-usmnts-bizarre-world-cup-roster-announcement-mauricio-pochettino/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T12:02:50.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T11:40:42.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
+      "team": "sabres",
+      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T11:26:12.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134613/buffalo-bills-real-joe-brady-after-sean-mcdermott-era-josh-allen-dj-moore-james-cook",
+      "team": "bills",
+      "title": "The Sean McDermott era is over: Now we get to see the real Joe Brady",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T11:23:37.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/134613/buffalo-bills-real-joe-brady-after-sean-mcdermott-era-josh-allen-dj-moore-james-cook"
+    },
+    {
+      "id": "espn-bills::48816864",
+      "team": "bills",
+      "title": "NFL trade offers for Coleman, Kmet, Richardson, Thibodeaux",
+      "summary": "We proposed trade offers for Keon Coleman, Cole Kmet, Anthony Richardson Sr. and Kayvon Thibodeaux. Could any of them be on the move?",
+      "source": "ESPN · Courtney Cronin, Jeremy Fowler, Alaina Getzenberg, Dan Graziano, Stephen Holder, Jordan Raanan, Ben Solak and Seth Walder",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T10:19:55Z",
+      "link": "https://www.espn.com/nfl/story/_/id/48816864/2026-nfl-offseason-trade-offers-best-deals-coleman-kmet-richardson-thibodeaux"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T07:14:23.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/",
+      "team": "sabres",
+      "title": "General Discussion of Prospects",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T04:07:41.000Z",
+      "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/",
+      "team": "sabres",
+      "title": "General Sabres Media Info & Coverage",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T03:25:04.000Z",
+      "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/full-usmnt-world-cup-roster-2026/",
+      "team": "usmnt",
+      "title": "Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out",
+      "summary": "Mauricio Pochettino has made his final selections for the 2026 World Cup, leaving out some notable names while loading up on defensive depth",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T02:56:06.000Z",
+      "link": "https://www.cbssports.com/soccer/news/full-usmnt-world-cup-roster-2026/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134604/91-buffalo-bills-players-in-91-days-safety-wande-owens",
@@ -209,26 +341,15 @@
       "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265495-josh-jacobs-arrested-booked-on-5-charges/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265495-josh-jacobs-arrested-booked-on-5-charges-domestic-violence/",
       "team": "bills",
-      "title": "Josh Jacobs arrested booked on 5 charges",
+      "title": "Josh Jacobs arrested booked on 5 charges - domestic violence",
       "summary": "",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-05-26T22:57:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265495-josh-jacobs-arrested-booked-on-5-charges/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-26T22:51:27.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
+      "link": "https://www.twobillsdrive.com/community/topic/265495-josh-jacobs-arrested-booked-on-5-charges-domestic-violence/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265494-josh-allen-%E2%80%9Cthe-man-from-laramie%E2%80%9D/",
@@ -286,17 +407,6 @@
       "link": "https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-express-belief-in-michael-kesselring-weve-seen-the-potential/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
-      "team": "sabres",
-      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-26T21:18:40.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134643/buffalo-bills-dc-jim-leonhard-expects-to-unleash-disruptive-ed-oliver",
       "team": "bills",
       "title": "Buffalo Bills DC Jim Leonhard expects to unleash “disruptive” Ed Oliver",
@@ -328,28 +438,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-26T19:20:35.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-week-7-girls-flag-football-coaches-of-the-week"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-26T18:42:27.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
-      "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-26T18:41:22.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
@@ -427,17 +515,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-26T15:50:54.000Z",
       "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/",
-      "team": "sabres",
-      "title": "General Discussion of Prospects",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-26T15:50:25.000Z",
-      "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
     },
     {
       "id": "espn-sabres::48526483",
@@ -737,28 +814,6 @@
       "link": "https://www.espn.com/video/clip/_/id/48849826/inside-bills-otas-coach-joe-brady"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/was-this-year-a-fluke.3030518/",
-      "team": "sabres",
-      "title": "Was this year a fluke?",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T05:00:07.000Z",
-      "link": "https://forums.hfboards.com/threads/was-this-year-a-fluke.3030518/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
-      "team": "sabres",
-      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T02:28:57.000Z",
-      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265480-dalton-kincaid-is-a-top-5-te/",
       "team": "bills",
       "title": "Dalton Kincaid is a top 5 TE",
@@ -913,17 +968,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265467-how-will-new-stadium-sell-out/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134505/buffalo-bills-cb-christian-benford-fit-man-coverage-jim-leonhard",
-      "team": "bills",
-      "title": "Is Christian Benford a good fit to play more man coverage?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-21T14:06:08.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134505/buffalo-bills-cb-christian-benford-fit-man-coverage-jim-leonhard"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/alex-tuch-loves-playing-for-buffalo-but-can-the-sabres-re-sign-him-to-a-long-term-contract/",
       "team": "sabres",
       "title": "Alex Tuch loves playing for Buffalo, but can the Sabres re-sign him to a long-term contract?",
@@ -1067,17 +1111,6 @@
       "link": "https://www.buffalobills.com/news/ota-notebook-hc-joe-brady-excited-about-where-the-team-s-at-wr-keon-coleman-shares-focused-approach"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/how-mls-cup-champion-dejan-joveljic-uses-chess-to-dominate-sporting-kc/",
-      "team": "usmnt",
-      "title": "How MLS Cup champion Dejan Joveljic uses chess to dominate defenders for Sporting KC",
-      "summary": "The Sporting KC striker is the highest-rated soccer player on Chess.com and now joins Christian Pulisic with his very own bot for fans to challenge",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-20T00:00:11.000Z",
-      "link": "https://www.cbssports.com/soccer/news/how-mls-cup-champion-dejan-joveljic-uses-chess-to-dominate-sporting-kc/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265458-keon-coleman-last-season-was-%E2%80%9Cass%E2%80%9D-it%E2%80%99s-a-make-or-break-season-for-me/",
       "team": "bills",
       "title": "Keon Coleman: Last season was “ass”. It’s a make or break season for me",
@@ -1109,17 +1142,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-19T19:00:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-week-6-girls-flag-football-coaches-of-the-week"
-    },
-    {
-      "id": "espn-bills::39395382",
-      "team": "bills",
-      "title": "What is the oldest NFL stadium? Soldier to SoFi in age",
-      "summary": "Many different characteristics make NFL stadiums unique. Age is a hot topic among fans. Here's how stadiums stack up from oldest to newest.",
-      "source": "ESPN · Alex Kennedy",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-19T16:33:41Z",
-      "link": "https://www.espn.com/nfl/story/_/id/39395382/what-oldest-nfl-stadium-soldier-sofi-age"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/nhl/news/stanley-cup-playoffs-2026-round-2-winners-losers-mitch-marner-alex-tuch/",
@@ -1329,6 +1351,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-14T23:30:00.000Z",
       "link": "https://www.buffalobills.com/news/holiday-spotlight-bills-slated-for-thanksgiving-and-christmas-matchups"
+    },
+    {
+      "id": "cbs-nhl::https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-sabres-vs-canadiens-golden-knights-vs-ducks-mlb-and-more/",
+      "team": "sabres",
+      "title": "Today's top games to watch, best bets, odds: Sabres vs. Canadiens, Golden Knights vs. Ducks, MLB and more",
+      "summary": "Find best bets and props for the biggest games in sports on Thursday from the SportsLine Projection Model and top CBS Sports experts",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-14T19:30:41.000Z",
+      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-sabres-vs-canadiens-golden-knights-vs-ducks-mlb-and-more/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-5-preview-open-thread-sabres-vs-canadiens/",
