@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T20:34:08.308Z",
+  "generatedAt": "2026-05-28T00:16:18.692Z",
   "sources": [
     {
       "id": "bills-official",
@@ -61,8 +61,8 @@
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "fetch failed"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "sportsnet-nhl",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -176,15 +176,26 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48892457/usa-chris-richards-conference-league-final-crystal-palace",
+      "team": "usmnt",
+      "title": "USMNT's Richards on bench for Conf. League final",
+      "summary": "USMNT defender Chris Richards was an unused substitute as Crystal Palace won the UEFA Conference League final against Rayo Vallecano on Wednesday.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-28T00:40:34.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48892457/usa-chris-richards-conference-league-final-crystal-palace"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
       "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-27T20:27:52.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
+      "publishedAt": "2026-05-28T00:13:34.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
@@ -194,19 +205,85 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-27T20:21:12.000Z",
+      "publishedAt": "2026-05-28T00:01:43.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-ilb-demetrius-flannigan-fowles-to-one-year-deal",
-      "team": "bills",
-      "title": "Bills sign ILB Demetrius Flannigan-Fowles to one-year deal",
-      "summary": "The Bills added depth to their LB room on Wednesday and released a WR.",
-      "source": "Bills.com",
-      "sourceType": "team",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-27T20:14:20.000Z",
-      "link": "https://www.buffalobills.com/news/bills-sign-ilb-demetrius-flannigan-fowles-to-one-year-deal"
+      "publishedAt": "2026-05-27T23:59:36.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
+      "team": "sabres",
+      "title": "All Purpose Goaltending Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T23:55:47.000Z",
+      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T23:35:34.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134643/buffalo-bills-dc-jim-leonhard-expects-to-unleash-disruptive-ed-oliver",
+      "team": "bills",
+      "title": "Buffalo Bills DC Jim Leonhard expects to unleash “disruptive” Ed Oliver",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T22:13:37.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/134643/buffalo-bills-dc-jim-leonhard-expects-to-unleash-disruptive-ed-oliver"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/",
+      "team": "sabres",
+      "title": "LeBrun: Kevyn Adams Sit Down Article 5-21-26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T21:47:04.000Z",
+      "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/134704/buffalo-bills-sign-ilb-demetrius-flannigan-fowles",
+      "team": "bills",
+      "title": "Buffalo Bills sign ILB Demetrius Flannigan-Fowles",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-05-27T21:36:20.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/134704/buffalo-bills-sign-ilb-demetrius-flannigan-fowles"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T20:37:41.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265498-special-teams-our-hidden-achilles-heel/",
@@ -220,17 +297,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265498-special-teams-our-hidden-achilles-heel/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
-      "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-27T19:36:15.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
-    },
-    {
       "id": "espn-sabres::48892322",
       "team": "sabres",
       "title": "What P.K. Subban hasn't seen from Canadiens this postseason",
@@ -242,6 +308,17 @@
       "link": "https://www.espn.com/video/clip/_/id/48892322/what-pk-subban-seen-canadiens-postseason"
     },
     {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48882611/buzz-auston-matthews-connor-mcdavid-quinn-hughes-other-big-name-players",
+      "team": "sabres",
+      "title": "Heard around the postseason: Latest on Matthews, M...",
+      "summary": "Could there be big changes in Toronto? What's going on in Minnesota with Quinn Hughes? We check in on all the latest buzz around the NHL with the postseason winding down.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T17:04:34.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48882611/buzz-auston-matthews-connor-mcdavid-quinn-hughes-other-big-name-players"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134697/keon-coleman-trade-offers-buffalo-bills-hypothetical-espn-panel",
       "team": "bills",
       "title": "ESPN panel provides hypothetical Keon Coleman trade offers",
@@ -251,17 +328,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-27T16:36:29.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/134697/keon-coleman-trade-offers-buffalo-bills-hypothetical-espn-panel"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-27T16:14:42.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188.3007913/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265497-whos-the-bills-goat-kicker/",
@@ -319,17 +385,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt/43853/triple-espresso-returns-as-uswnt-roster-named"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/",
-      "team": "sabres",
-      "title": "LeBrun: Kevyn Adams Sit Down Article 5-21-26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-27T15:09:42.000Z",
-      "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
-    },
-    {
       "id": "espn-sabres::44686270",
       "team": "sabres",
       "title": "Stanley Cup odds: Carolina Hurricanes odds-on favorites over Vegas Golden Knights to win Final",
@@ -363,6 +418,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134484/91-buffalo-bills-players-in-91-days-guard-bruno-fina"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48882849/usmnt-final-world-cup-roster-pochettino-taking-risks",
+      "team": "usmnt",
+      "title": "USMNT's final World Cup roster is classic Pochetti...",
+      "summary": "USMNT coach Mauricio Pochettino stayed true to himself, but his risks in the midfield could have a domino effect at the World Cup.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T14:26:36.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48882849/usmnt-final-world-cup-roster-pochettino-taking-risks"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134638/examining-buffalo-bills-financial-health-in-2026-and-beyond",
       "team": "bills",
       "title": "Examining Buffalo Bills financial health in 2026 and beyond",
@@ -383,17 +449,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-27T14:00:36.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/43847/usmnt-world-cup-roster-officially-revealed"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
-      "team": "sabres",
-      "title": "All Purpose Goaltending Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-27T12:55:51.000Z",
-      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/134586/buffalo-bills-news-jim-leonhards-new-defense-preview",
@@ -572,15 +627,15 @@
       "link": "https://www.buffalobills.com/news/bills-otas-jim-leonhard-defines-his-defensive-terminology-year-2-players-aim-to-take-a-jump"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/134643/buffalo-bills-dc-jim-leonhard-expects-to-unleash-disruptive-ed-oliver",
-      "team": "bills",
-      "title": "Buffalo Bills DC Jim Leonhard expects to unleash “disruptive” Ed Oliver",
-      "summary": "",
-      "source": "Buffalo Rumblings",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-express-belief-in-michael-kesselring-weve-seen-the-potential/",
+      "team": "sabres",
+      "title": "Following injury-plagued year, Sabres express belief in Michael Kesselring: ‘We’ve seen the potential’",
+      "summary": "“Honestly, I think it’s been pretty good for me, and whenever the next opportunity comes, I’ll be probably the most ready I’ve been all year.” – Michael Kesselring on March 25 prior to sitting out his sixth straight game as a healthy scratch\nBUFFALO – As he morphed into a spare part down the stretch, Sabres defenseman Michael Kesselring tried to make the most of a difficult situation.\nIf the arrival of defensemen Logan ... Read the full article \nThe post Following injury-plagued year, Sabres express belief in Michael Kesselring: ‘We’ve seen the potential’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-05-26T19:50:30.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/134643/buffalo-bills-dc-jim-leonhard-expects-to-unleash-disruptive-ed-oliver"
+      "publishedAt": "2026-05-26T21:38:53.000Z",
+      "link": "https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-express-belief-in-michael-kesselring-weve-seen-the-potential/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-world-cup-gio-reyna/",
@@ -803,6 +858,17 @@
       "link": "https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-keeping-colten-ellis-sabres-open-to-using-three-goalies-again-it-worked/",
+      "team": "sabres",
+      "title": "After keeping Colten Ellis, Sabres open to using three goalies again: ‘It worked’",
+      "summary": "BUFFALO – It felt like goalie Colten Ellis’ stay here would be brief. Perhaps after filling the backup role for a couple of weeks as Ukko-Pekka Luukkonen recovered from an injury, the Sabres would place the rookie back on waivers or trade him.\nBut Ellis looked sharp in his first NHL action and fit in well, giving the Sabres extra depth at a critical position and the ability to try different things.\nShortly after Luukkonen ... Read the full article \nThe post After keeping Colten Ellis, Sabres open to using three goalies again: ‘It worked’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T16:26:43.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-keeping-colten-ellis-sabres-open-to-using-three-goalies-again-it-worked/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-broken-hearted-sabres-2-canadiens-3-ot.3030451/",
       "team": "sabres",
       "title": "The Good, the Bad, and the Ugly - Broken Hearted. Sabres 2 - Canadiens 3 (OT)",
@@ -823,17 +889,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-24T04:05:24.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/43790/usmnt-world-cup-roster-reportedly-revealed-as-major-decisions-made"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
-      "team": "sabres",
-      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T20:06:46.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-roster-mauricio-pochettino-26-man-squad/",
@@ -858,15 +913,15 @@
       "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134396/91-buffalo-bills-players-in-91-days-cb-maxwell-hairston",
-      "team": "bills",
-      "title": "91 Buffalo Bills players in 91 days: CB Maxwell Hairston",
-      "summary": "",
-      "source": "Buffalo Rumblings",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/",
+      "team": "sabres",
+      "title": "Sabres’ Jarmo Kekalainen, Lindy Ruff established strong relationship before new contract",
+      "summary": "BUFFALO – Jarmo Kekalainen established a strong relationship with coach Lindy Ruff long before the Sabres promoted him to general manager.\nFollowing his arrival one year ago as a senior advisor to former GM Kevyn Adams, Kekalainen spent every day with the Sabres, even participating in coaches meetings.\nIn their early days together, two hockey lifers developed mutual respect for each other.\n\n“He was part of our group, he asked questions,” Ruff said Wednesday in ... Read the full article \nThe post Sabres’ Jarmo Kekalainen, Lindy Ruff established strong relationship before new contract first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-05-23T17:51:27.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134396/91-buffalo-bills-players-in-91-days-cb-maxwell-hairston"
+      "publishedAt": "2026-05-23T05:34:43.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/"
     },
     {
       "id": "espn-bills::48849826",
@@ -924,6 +979,17 @@
       "link": "https://www.cbssports.com/soccer/news/tim-weah-world-cup-usmnt-marseille/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/end-of-season-injury-updates-on-owen-power-tage-thompson-sam-carrick-justin-danforth-and-other-sabres/",
+      "team": "sabres",
+      "title": "End-of-season injury updates on Owen Power, Tage Thompson, Sam Carrick, Justin Danforth and other Sabres",
+      "summary": "BUFFALO – When Owen Power crashed feet first into the boards last Thursday, it appeared the Sabres might lose the stud defenseman for the rest of their second-round series against the Montreal Canadiens.\nPower briefly left Game 5 before returning to the bench and testing the injury during breaks. Late in the contest, he played two shifts.\nHe kept gutting out the injury in the Sabres’ final two games of the Stanley Cup Playoffs. In Monday’s ... Read the full article \nThe post End-of-season injury updates on Owen Power, Tage Thompson, Sam Carrick, Justin Danforth and other Sabres first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-22T05:49:46.000Z",
+      "link": "https://www.buffalohockeybeat.com/end-of-season-injury-updates-on-owen-power-tage-thompson-sam-carrick-justin-danforth-and-other-sabres/"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/43717/how-far-does-mauricio-pochettino-need-to-take-the-usmnt-for-the-world-cup-to-be-a-success",
       "team": "usmnt",
       "title": "How far does Mauricio Pochettino need to take the USMNT for the World Cup to be a success?",
@@ -979,6 +1045,28 @@
       "link": "https://www.twobillsdrive.com/community/topic/265467-how-will-new-stadium-sell-out/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/alex-tuch-loves-playing-for-buffalo-but-can-the-sabres-re-sign-him-to-a-long-term-contract/",
+      "team": "sabres",
+      "title": "Alex Tuch loves playing for Buffalo, but can the Sabres re-sign him to a long-term contract?",
+      "summary": "BUFFALO – As the Sabres took their place among the NHL’s heavyweights this season, their success bled into winger Alex Tuch’s family life.\nTuch said his oldest son, Tripp, “is just obsessed with hockey.”\nSo Tuch and his wife, Kylie, found a mini rink for Tripp’s playroom, where he puts on his roller blades, hears his father introduce him as “No. 89 for the Buffalo Sabres, Trippy Tuch” and skates a couple of laps with ... Read the full article \nThe post Alex Tuch loves playing for Buffalo, but can the Sabres re-sign him to a long-term contract? first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-21T05:54:49.000Z",
+      "link": "https://www.buffalohockeybeat.com/alex-tuch-loves-playing-for-buffalo-but-can-the-sabres-re-sign-him-to-a-long-term-contract/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/coach-lindy-ruff-believed-sabres-would-win-game-7-get-crack-at-hurricanes/",
+      "team": "sabres",
+      "title": "Coach Lindy Ruff believed Sabres would win Game 7, get crack at Hurricanes",
+      "summary": "BUFFALO – Before Lindy Ruff could accept a two-year contract extension from the Sabres, he had to consult with someone he called his assistant coach – his wife, Gaye.\nThe wife of an NHL coach has many duties, including being a sounding board when her husband returns home on those difficult nights.\nGaye has been doing it since 1997, when Ruff, 66, began his first stint with the Sabres.\n“She’s the one that I would ... Read the full article \nThe post Coach Lindy Ruff believed Sabres would win Game 7, get crack at Hurricanes first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-21T05:05:14.000Z",
+      "link": "https://www.buffalohockeybeat.com/coach-lindy-ruff-believed-sabres-would-win-game-7-get-crack-at-hurricanes/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-sign-lindy-ruff-to-two-year-extension-2027-28/",
       "team": "sabres",
       "title": "Buffalo Sabres sign Lindy Ruff to two-year extension",
@@ -999,6 +1087,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-20T19:45:01.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/43730/usa-soccercast-episode-187-predicting-the-usmnt-world-cup-roster"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-special-season-sabres-sign-lindy-ruff-to-contract-extension/",
+      "team": "sabres",
+      "title": "Following special season, Sabres sign Lindy Ruff to contract extension",
+      "summary": "BUFFALO – Following a breakout 109-point season, the Sabres have signed coach Lindy Ruff to a two-year contract extension, the team announced this afternoon.\nThe Sabres just enjoyed one of the most memorable seasons in franchise history, ending their NHL-record 14-year postseason drought, winning the Atlantic Division and defeating the Boston Bruins in the opening round of the Stanley Cup Playoffs.\nThe Montreal Canadiens eliminated the Sabres on Monday in Game 7 of their second-round ... Read the full article \nThe post Following special season, Sabres sign Lindy Ruff to contract extension first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-20T18:23:07.000Z",
+      "link": "https://www.buffalohockeybeat.com/following-special-season-sabres-sign-lindy-ruff-to-contract-extension/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/hot-takes/43722/should-christian-pulisic-move-from-ac-milan-after-the-world-cup",
@@ -1034,6 +1133,28 @@
       "link": "https://www.diebytheblade.com/jedi-council-playoff-edition-2/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-special-season-sabres-understand-success-isnt-guaranteed-next-year/",
+      "team": "sabres",
+      "title": "After special season, Sabres understand success isn’t guaranteed next year",
+      "summary": "BUFFALO – The Sabres boast one of the NHL’s deepest, most talented and youngest rosters.\nOn paper at least, they look poised to enjoy success in the coming years following a breakout season in which they ended their NHL-record 14-year playoff drought, won the Atlantic Division and came within one goal of reaching the Eastern Conference final.\n“Just because you have success one year doesn’t mean that it guarantees that it translates to the next ... Read the full article \nThe post After special season, Sabres understand success isn’t guaranteed next year first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-20T05:26:29.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-special-season-sabres-understand-success-isnt-guaranteed-next-year/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/whistle-costs-beck-malenstyn-sabres-go-ahead-goal-a-chaotic-sequence/",
+      "team": "sabres",
+      "title": "Whistle costs Beck Malenstyn, Sabres go-ahead goal: ‘A chaotic sequence’",
+      "summary": "BUFFALO – With Monday’s Game 7 tied halfway through the third period, Sabres defenseman Bowen Byram landed a shot from the point on Jakub Dobes that winger Jordan Greenway quickly poked through the goalie’s pads.\nAs the puck moved toward the goal line, referee Wes McCauley blew his whistle just before Sabres winger Beck Malenstyn knocked it into the net, raised his arms in celebration and the crowd erupted.\nThe goal did not count, and ... Read the full article \nThe post Whistle costs Beck Malenstyn, Sabres go-ahead goal: ‘A chaotic sequence’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-20T05:01:18.000Z",
+      "link": "https://www.buffalohockeybeat.com/whistle-costs-beck-malenstyn-sabres-go-ahead-goal-a-chaotic-sequence/"
+    },
+    {
       "id": "espn-bills::48819175",
       "team": "bills",
       "title": "Bills' Keon Coleman says this year is 'make or break' for him",
@@ -1065,6 +1186,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-19T21:56:16.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265458-keon-coleman-last-season-was-%E2%80%9Cass%E2%80%9D-it%E2%80%99s-a-make-or-break-season-for-me/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jiri-kulich-says-he-can-play-next-season-after-having-blood-clot-removed/",
+      "team": "sabres",
+      "title": "Sabres’ Jiri Kulich says he can play next season after having blood clot removed",
+      "summary": "BUFFALO – As the months passed and he remained sidelined by a blood clot, Sabres center Jiri Kulich said he kept asking himself if he would be able to play hockey again.\n“It was kind of a roller coaster,” he said this afternoon during his end-of-season media availability in KeyBank Center.\nThen two months ago, Kulich, 22, said he underwent a procedure at the Mayo Clinic in Rochester, Minnesota, to have the entire clot removed.... Read the full article \nThe post Sabres’ Jiri Kulich says he can play next season after having blood clot removed first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T19:18:43.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-jiri-kulich-says-he-can-play-next-season-after-having-blood-clot-removed/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-week-6-girls-flag-football-coaches-of-the-week",
