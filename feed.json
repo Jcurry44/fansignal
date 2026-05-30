@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T18:48:35.858Z",
+  "generatedAt": "2026-05-30T22:33:40.167Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 11,
+      "itemCount": 12,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Sat 4:05 PM",
+      "headline": "Sun 12:15 PM",
       "detail": "at BAL"
     },
     {
@@ -176,48 +176,26 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48919916/tim-ream-named-captain-usmnt-2026-world-cup",
+      "team": "usmnt",
+      "title": "Ream named USMNT captain for 2026 World Cup",
+      "summary": "U.S. men's national team manager Mauricio Pochettino has named defender Tim Ream as captain for the USMNT during the 2026 World Cup.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T18:48:27.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+      "publishedAt": "2026-05-30T23:25:43.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48919916/tim-ream-named-captain-usmnt-2026-world-cup"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265513-sabres-lost-canadiens-lost-bills-looking-right-at-you/",
-      "team": "bills",
-      "title": "Sabres lost, Canadiens lost, Bills (looking right at you)",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48905910/goal-usmnt-pre-world-cup-friendlies",
+      "team": "usmnt",
+      "title": "🤔 Why is USMNT playing right before World Cup?",
+      "summary": "Before the USMNT starts the World Cup, the Americans will play two friendlies: Why add meaningless games to their busy summer?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T18:47:47.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265513-sabres-lost-canadiens-lost-bills-looking-right-at-you/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
-      "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T18:47:17.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
-      "team": "sabres",
-      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T18:41:35.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
+      "publishedAt": "2026-05-30T23:25:43.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48905910/goal-usmnt-pre-world-cup-friendlies"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/rw-jake-richard-170th-overall-2022-nhl-draft-5-28-26-signs-2-year-elc.2891480/",
@@ -227,8 +205,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T18:39:06.000Z",
+      "publishedAt": "2026-05-30T21:52:48.000Z",
       "link": "https://forums.hfboards.com/threads/rw-jake-richard-170th-overall-2022-nhl-draft-5-28-26-signs-2-year-elc.2891480/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-30T21:42:35.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
+      "team": "sabres",
+      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-30T21:35:59.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
@@ -238,8 +238,52 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T16:54:07.000Z",
+      "publishedAt": "2026-05-30T21:21:31.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-burning-questions-can-tyler-adams-stay-healthy-can-chris-richards-get-healthy-and-more/",
+      "team": "usmnt",
+      "title": "USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more",
+      "summary": "Mauricio Pochettino has selected his roster, but a thin midfield and an out-of-form Christian Pulisic leave the manager with several glaring questions to answer before the tournament kicks off",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-30T20:15:08.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-burning-questions-can-tyler-adams-stay-healthy-can-chris-richards-get-healthy-and-more/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-30T19:36:53.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265514-new-stadium-new-year-new-bills/",
+      "team": "bills",
+      "title": "New Stadium, New Year, New Bills",
+      "summary": "What is your game plan for the opener? (if not attending)\n\n\n\n\t \n\n\n\n\tFor me, air fryer wings with sauce I picked up from 911 Tavern (which is my fav now). Also going to do some pasta, garlic bread and a few other goodies.\n\n\n\n\t \n\n\n\n\tThe gentleman beside us at the opener last year mentioned Adolfs & Sonny Reds which we will do at some point. We’ll get there eventually.\n\n\n\n\t \n\n\n\n\tGive me your plans for the opener with Detroit. \n\n\n\n\t \n\n\n\n\tIt’s got to be good!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-30T19:09:23.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265514-new-stadium-new-year-new-bills/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/chris-richards-to-miss-usmnts-pre-world-cup-friendly-vs-senegal-with-ankle-injury/",
+      "team": "usmnt",
+      "title": "Chris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury",
+      "summary": "Mauricio Pochettino revealed that the team will \"reevaluate\" Richards next week as he continues to rehab the ankle he injured with Crystal Palace",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-30T18:47:34.000Z",
+      "link": "https://www.cbssports.com/soccer/news/chris-richards-to-miss-usmnts-pre-world-cup-friendly-vs-senegal-with-ankle-injury/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -304,7 +348,7 @@
       "source": "ESPN · Doug Greenberg",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T14:34:37Z",
+      "publishedAt": "2026-05-30T14:43:39Z",
       "link": "https://www.espn.com/nhl/story/_/id/48919156/hurricanes-favored-golden-knights-stanley-cup-final"
     },
     {
@@ -781,6 +825,17 @@
       "link": "https://www.buffalobills.com/news/it-s-always-a-good-thing-bills-take-part-in-third-annual-full-team-community-takeover"
     },
     {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48882611/buzz-auston-matthews-connor-mcdavid-quinn-hughes-other-big-name-players",
+      "team": "sabres",
+      "title": "Heard around the postseason: Latest on Matthews, M...",
+      "summary": "Could there be big changes in Toronto? What's going on in Minnesota with Quinn Hughes? We check in on all the latest buzz around the NHL with the postseason winding down.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-28T15:44:21.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48882611/buzz-auston-matthews-connor-mcdavid-quinn-hughes-other-big-name-players"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265505-which-former-bill-are-we-going-to-miss-the-most/",
       "team": "bills",
       "title": "Which Former Bill Are We Going to Miss The Most",
@@ -867,17 +922,6 @@
       "sourceCount": 2,
       "publishedAt": "2026-05-27T21:36:20.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/134704/buffalo-bills-sign-ilb-demetrius-flannigan-fowles"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265498-special-teams-our-hidden-achilles-heel/",
-      "team": "bills",
-      "title": "Special Teams: Our hidden Achille's heel",
-      "summary": "So,\n\n\n\n\t \n\n\n\n\twe all know the offense has been great, but the WR was cheeks last year.  We also know the D forced teams not to pass allowing very little (least in nfl) passing production, was god awful vs the run, and has been bad on 3rd downs for a few years now.  We also know it's the worst ever in playoff losses.  \n\n\n\n\t\n\tWell, our HC who was a D guy got fired, and our OC was made HC, so it's pretty clear what the front office thought of their performance.\n\n\n\n\t \n\n\n\n\tWhat seems to not get mentioned as much here are the special teams.  Our special teams have been shockingly bad for years.  In particular in games where they were or could have been the deciding factor.  The kick off in the 13 seconds game was insane, we had been kicking it to the 2-6 yard line in the middle and forcing a run back fairly well all season, that woulda ate at least 5 if not more seconds, or put them wayyyy back if they kneeled it in the field of play.  We lost that game (denver?) which lead to dorsey being fired by letting them kick another FG after missing the first one.  We lost that OT opener at the jets to a punt TD in overtime.  Missed FG hosting KC at home, the list goes on and on.\n\n\n\n\t \n\n\n\n\tLast season our cumulative EPA was -38.65.  That's over 2 points a game.  It was consistently bad.  We drafted a punter, and Bass is coming back (not that this inspires much confidence, but at least it's another chance to improve kicking).  We had 4 ok/good special teams games all season.  Best was loss at ATL, with +5.75 epa, second was 4.15 at NE which was a huge comeback win, the other two were losses at houston and miami.  We had many terrible ones, but mostly vs trash teams who we were strong favorites against, with the exception being hosting philly late.  we had a back up back up kicker in, who missed a fricking extra point, but the kick/punt coverage differential is what killed us, we had a -8.13 EPA that game.  It cost us the game.  I don't know that we were the worst in the nfl, but we are a top flight team and good special teams might have won us the division last season, so it made a big difference.  seattle won the chance to whip new england in the bowl over the rams because the rams decided special teams don't matter (they lost a game to philly which basically cost them their division on a special teams blunder, and they lost the nfc chip game at seattle because the forgot how to field a punt).\n\n\n\n\t \n\n\n\n\tWe were consistently bad on special teams, it often didn't matter because we were so dominant on O in so many games.  This shows sloppy bad play.  More than anything, special teams comes down to coaching and preparation.  kicker and punter talent matters, but even more so coverage comes down to lining up and executing, and having the depth of your team be athletes.  I think we have drafted enough young defensive guys to round out the special teams roster enough to be at least a zero, as opposed to a negative nearly 40 on the season. \n\n\n\n\t \n\n\n\n\tin 2024 we were less ass with a -13.47 on the season, but our blocked punt cost us what woulda been a huge road win at the rams.  the special teams played decently in the playoffs, actually did well vs baltimore.\n\n\n\n\t \n\n\n\n\tin 2023 when mcd decided to fire dorsey, but kept smiley and didn't fire him until after 2024, we were -46.97.  i haven't checked but i think it must have been the worst in the nfl.  pushing a FG a game lost in EPA on fricking special teams.  we had some insanely bad performances in games we didn't lose (-6.7 and -9.12 vs the giants and chargers respectively, who sucked and we beat), but the special teams cost us the road opener vs the jets, at new england, hosting denver, and the overtime heart breaker loss to philly (-9.18 in a 3 point loss).  we won 11 games that season, if our special teams only lost us 2 games that woulda been 13 wins and the 1 seed, a bye week for our insanely injured D to heal up, and instead of hosting KC in round 2 it woulda been a weaker opponent.  they were even worse in the playoffs!!  it didn't matter vs the picket lead stillers because they were terrible and mopped them, but it was -4.08 hosting KC, with a lovely missed FG and the masterpiece damar hamlin fake punt attempt.\n\n\n\n\t \n\n\n\n\tA big signal to me showing if brady is a more capable HC than McD was will be how the special teams perform.  he's been given a chance to rebuild the entire coaching staff in his image, and certainly had a hand in player selection/retention.  Our special teams have cost us the 1 seed at least twice by my calculations, and even with our putrid d performance in big playoff games, have cost us from advancing in those games.  the joy of it is that it's a much lesser part of the team, so it should be an easier fix for our new coaches/players.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-27T19:58:43.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265498-special-teams-our-hidden-achilles-heel/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/letter-grades-for-the-players-2025-26-season-part-1-of-2/",
@@ -1078,17 +1122,6 @@
       "link": "https://www.buffalohockeybeat.com/after-keeping-colten-ellis-sabres-open-to-using-three-goalies-again-it-worked/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-roster-mauricio-pochettino-26-man-squad/",
-      "team": "usmnt",
-      "title": "When will USMNT World Cup roster be revealed? Mauricio Pochettino set to announce final 26-man squad",
-      "summary": "Mauricio Pochettino is set to reveal his 26-man roster in a star-studded New York City event before the Americans begin World Cup prep",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T19:05:02.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-roster-mauricio-pochettino-26-man-squad/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/",
       "team": "sabres",
       "title": "Sabres’ Jarmo Kekalainen, Lindy Ruff established strong relationship before new contract",
@@ -1098,17 +1131,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-23T05:34:43.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/"
-    },
-    {
-      "id": "espn-bills::48849826",
-      "team": "bills",
-      "title": "Inside Bills OTAs under coach Joe Brady",
-      "summary": "Alaina Getzenberg reports on how Bills OTAs are different with new coach Joe Brady at the helm.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T05:16:36Z",
-      "link": "https://www.espn.com/video/clip/_/id/48849826/inside-bills-otas-coach-joe-brady"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265480-dalton-kincaid-is-a-top-5-te/",
@@ -1131,6 +1153,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-22T05:49:46.000Z",
       "link": "https://www.buffalohockeybeat.com/end-of-season-injury-updates-on-owen-power-tage-thompson-sam-carrick-justin-danforth-and-other-sabres/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265470-are-we-sleeping-on-landon-jackson/",
+      "team": "bills",
+      "title": "Are we sleeping on Landon Jackson?",
+      "summary": "A lot of reports coming out this week that he's been working his ass off and came to OTAs looking like a new player:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t\n\n\n\n\t\n\n\n\n\tHe'll probably have more of a rotational role as a 4i so I don't know how big of an impact he can realistically have this season, but is it possible we have something here? He certainly had his fans in the pre-draft process, he just never had a chance last year to make something of himself.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-21T21:13:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265470-are-we-sleeping-on-landon-jackson/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265469-super-bowl-in-nashville/",
@@ -1197,6 +1230,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-20T18:23:07.000Z",
       "link": "https://www.buffalohockeybeat.com/following-special-season-sabres-sign-lindy-ruff-to-contract-extension/"
+    },
+    {
+      "id": "espn-bills::48761066",
+      "team": "bills",
+      "title": "When NFL owners get involved with football decisions, results are mixed",
+      "summary": "Some owners like Jeffrey Lurie and Clark Hunt helped land franchise quarterbacks, while others -- like Jimmy Haslam -- were less fortunate.",
+      "source": "ESPN · Jamison Hensley",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-20T14:34:39Z",
+      "link": "https://www.espn.com/nfl/story/_/id/48761066/nfl-owners-haslam-eagles-lurie-jerry-jones-cowboys-bears-mccaskey"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/jedi-council-playoff-edition-2/",
@@ -1441,6 +1485,17 @@
       "link": "https://bandits.com/bandits-fall-behind-early-in-regular-season-finale-loss-to-oshawa/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm/",
+      "team": "bills",
+      "title": "Vikings want to interview Terrance Gray for GM",
+      "summary": "Sorry if this was posted elsewhere. Tom Pelissaro reported it earlier today that I saw. \n\t \n\n\n\n\tBefore anyone asks, if hired as GM, the Bills would receive a compensatory 3rd round selection in each of the next 2 drafts.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-06T13:32:35.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264984-pats-may-have-post-june-1-trade-for-aj-brown-worked-out-twit-rumor/",
       "team": "bills",
       "title": "Pats may have post June 1 trade for AJ Brown worked out (Twit rumor)",
@@ -1483,17 +1538,6 @@
       "sourceCount": 1,
       "publishedAt": "2025-08-27T20:20:35.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/261123-rashee-rice-accepts-six-game-suspension-to-start-the-season/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/252071-her-name-was-hilda/",
-      "team": "bills",
-      "title": "Her name was Hilda",
-      "summary": "But on game day she was transformed into Buffalo Bilda. She never missed a Bills game in her lifetime and would celebrate by barking incessantly with every great play. The day after the Dolphins game she unexpectedly died at 8 years and 7 months. Afterward the Bills season began circling the drain until...\n\n\n\n\t\n\n\n\n\tI took delivery of Bernard the Buffalo on December 1st and they haven't lost a game since. Go Bills",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2024-01-02T17:48:30.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/252071-her-name-was-hilda/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
