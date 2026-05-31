@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T15:03:21.375Z",
+  "generatedAt": "2026-05-31T19:50:58.058Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -164,8 +164,8 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Sun 12:15 PM",
-      "detail": "at BAL"
+      "headline": "Tue 7:15 PM",
+      "detail": "at ATL"
     },
     {
       "team": "usmnt",
@@ -176,15 +176,70 @@
   ],
   "stories": [
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265518-a-peak-offseason-thread-looking-back-at-the-jp-losman-era/",
-      "team": "bills",
-      "title": "A Peak Offseason Thread:  Looking back at the JP Losman era",
-      "summary": "Some of the recent posts on here(The JK v.s. Josh Allen thread, the most polarizing Bill etc) have me thinking back to when the Bills drafted JP Losman.  \n\n\n\n\tIt's funny to me because what we are getting from Josh Allen feels like what we were supposed to be getting from the JP Losman experience.  I have vivid memories of when Losman was drafted people making comparisons to Jim Kelly and Brett Favre.  He was supposed to have this certain swagger.  He was a 1st Round pick we traded up for.  Then it just never happened.\n\n\n\n\t \n\n\n\n\tWhat were your honest thoughts when he was drafted?  Did you expect him to become a franchise QB?  Were you skeptical from the beginning?\n\n\n\n\t \n\n\n\n\tI remember being intrigued by the draft pick and wanted to buy in so bad with all of the Kelly and Favre comparisons but for me it just never really matched up.  He seemed like a good guy but I never really saw that swagger and when he played it just seemed like he couldn't put it together.  He had a cannon for an arm(maybe the 2nd strongest arm in franchise history after Allen?) and was a pretty good athlete although he was nowhere near the running QB Allen is.  I also had heard through the Grapevine that he was someone who didn't eat, sleep and breath football.  Had a friend I trust who had a friend that was acquainted with Losman who said Losman would say \"football is just his job\"\n\n\n\n\tWhen I heard that it made me question where the Kelly and Favre comparisons came from.  The other interesting bullet point to Losman is if the Bills don't pull the trigger on drafting him do we end up taking Aaron Rodgers the following year?  Talk about the franchise history being completely rewritten.",
-      "source": "TwoBillsDrive",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48904066/pre-world-cup-friendly-live-updates-united-states-mens-national-team-vs-senegal",
+      "team": "usmnt",
+      "title": "Pre-World Cup friendly live updates: USMNT vs. Sen...",
+      "summary": "Enjoy all the live updates from Sunday's match between the United States and Senegal as both teams continue to prepare for the World Cup.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T20:08:50.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48904066/pre-world-cup-friendly-live-updates-united-states-mens-national-team-vs-senegal"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48905910/goal-usmnt-pre-world-cup-friendlies",
+      "team": "usmnt",
+      "title": "Why is the USMNT playing meaningless friendlies ri...",
+      "summary": "Before the World Cup, the Americans will play two friendlies: Why add meaningless games?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T20:08:50.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48905910/goal-usmnt-pre-world-cup-friendlies"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
+      "team": "sabres",
+      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
+      "summary": "",
+      "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-31T14:32:22.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265518-a-peak-offseason-thread-looking-back-at-the-jp-losman-era/"
+      "publishedAt": "2026-05-31T19:19:15.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/",
+      "team": "sabres",
+      "title": "Poll: Which Roster Players Do You Want Back",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T19:16:13.000Z",
+      "link": "https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T19:04:16.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T18:52:19.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
@@ -194,8 +249,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-31T14:27:58.000Z",
+      "publishedAt": "2026-05-31T17:53:44.000Z",
       "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T15:31:08.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265518-a-peak-offseason-thread-looking-back-at-the-jp-losman-era/",
+      "team": "bills",
+      "title": "A Peak Offseason Thread:  Looking back at the JP Losman era",
+      "summary": "Some of the recent posts on here(The JK v.s. Josh Allen thread, the most polarizing Bill etc) have me thinking back to when the Bills drafted JP Losman.  \n\n\n\n\tIt's funny to me because what we are getting from Josh Allen feels like what we were supposed to be getting from the JP Losman experience.  I have vivid memories of when Losman was drafted people making comparisons to Jim Kelly and Brett Favre.  He was supposed to have this certain swagger.  He was a 1st Round pick we traded up for.  Then it just never happened.\n\n\n\n\t \n\n\n\n\tWhat were your honest thoughts when he was drafted?  Did you expect him to become a franchise QB?  Were you skeptical from the beginning?\n\n\n\n\t \n\n\n\n\tI remember being intrigued by the draft pick and wanted to buy in so bad with all of the Kelly and Favre comparisons but for me it just never really matched up.  He seemed like a good guy but I never really saw that swagger and when he played it just seemed like he couldn't put it together.  He had a cannon for an arm(maybe the 2nd strongest arm in franchise history after Allen?) and was a pretty good athlete although he was nowhere near the running QB Allen is.  I also had heard through the Grapevine that he was someone who didn't eat, sleep and breath football.  Had a friend I trust who had a friend that was acquainted with Losman who said Losman would say \"football is just his job\"\n\n\n\n\tWhen I heard that it made me question where the Kelly and Favre comparisons came from.  The other interesting bullet point to Losman is if the Bills don't pull the trigger on drafting him do we end up taking Aaron Rodgers the following year?  Talk about the franchise history being completely rewritten.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T14:32:22.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265518-a-peak-offseason-thread-looking-back-at-the-jp-losman-era/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
@@ -209,17 +286,6 @@
       "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/134804/buffalo-bills-will-travel-internationally-again-in-2027",
-      "team": "bills",
-      "title": "Buffalo Bills will travel internationally again in 2027",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-31T14:23:37.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/134804/buffalo-bills-will-travel-internationally-again-in-2027"
-    },
-    {
       "id": "espn-sabres::48917000",
       "team": "sabres",
       "title": "SVP commends John Buccigross for predicting Stanley Cup Final matchup",
@@ -229,17 +295,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-31T14:21:13Z",
       "link": "https://www.espn.com/video/clip/_/id/48917000/svp-commends-john-buccigross-predicting-stanley-cup-final-matchup"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-31T14:19:33.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/",
@@ -306,39 +361,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-31T02:48:45.000Z",
       "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-31T02:13:57.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-31T01:17:28.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
-      "team": "sabres",
-      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T23:13:39.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/rw-jake-richard-170th-overall-2022-nhl-draft-5-28-26-signs-2-year-elc.2891480/",
@@ -429,17 +451,6 @@
       "link": "https://forums.hfboards.com/threads/lebrun-kevyn-adams-sit-down-article-5-21-26.3030598/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43949/usa-vs-senegal-2026-friendly-time-tv-schedule-streaming-and-lineups",
-      "team": "usmnt",
-      "title": "USA vs. Senegal, 2026 Friendly: Time, TV schedule, streaming and lineups",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T15:09:47.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/43949/usa-vs-senegal-2026-friendly-time-tv-schedule-streaming-and-lineups"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43942/tim-ream-to-captain-usmnt-at-world-cup",
       "team": "usmnt",
       "title": "Tim Ream to captain USMNT at World Cup",
@@ -449,17 +460,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-30T14:49:12.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/43942/tim-ream-to-captain-usmnt-at-world-cup"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/43930/2026-world-cup-group-c-preview",
-      "team": "usmnt",
-      "title": "2026 World Cup: Group C Preview",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T14:18:05.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/43930/2026-world-cup-group-c-preview"
     },
     {
       "id": "espn-sabres::48526483",
@@ -638,17 +638,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265510-is-mcd-the-most-polarizing-figure-in-bills-history/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/",
-      "team": "sabres",
-      "title": "Poll: Which Roster Players Do You Want Back",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-29T18:14:54.000Z",
-      "link": "https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43819/the-usmnt-have-a-chance-to-inspire-a-nation-at-the-world-cup",
       "team": "usmnt",
       "title": "The USMNT have a chance to inspire a nation at the World Cup",
@@ -781,6 +770,28 @@
       "link": "https://www.buffalohockeybeat.com/sabres-sign-prospect-jake-richard-to-entry-level-contract/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/copa-america/43910/2026-world-cup-group-a-preview",
+      "team": "usmnt",
+      "title": "2026 World Cup: Group A Preview",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-29T03:58:59.000Z",
+      "link": "https://www.starsandstripesfc.com/copa-america/43910/2026-world-cup-group-a-preview"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/43755/usa-vs-senegal-2026-usmnt-friendly-scouting-senegal",
+      "team": "usmnt",
+      "title": "USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-29T03:28:55.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/43755/usa-vs-senegal-2026-usmnt-friendly-scouting-senegal"
+    },
+    {
       "id": "espn-bills::48905550",
       "team": "bills",
       "title": "Bills' defensive changes like 'going through a breakup'",
@@ -847,6 +858,17 @@
       "link": "https://www.buffalobills.com/news/it-s-always-a-good-thing-bills-take-part-in-third-annual-full-team-community-takeover"
     },
     {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48882611/buzz-auston-matthews-connor-mcdavid-quinn-hughes-other-big-name-players",
+      "team": "sabres",
+      "title": "Heard around the postseason: Latest on Matthews, M...",
+      "summary": "Could there be big changes in Toronto? What's going on in Minnesota with Quinn Hughes? We check in on all the latest buzz around the NHL with the postseason winding down.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-28T15:44:21.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48882611/buzz-auston-matthews-connor-mcdavid-quinn-hughes-other-big-name-players"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265505-which-former-bill-are-we-going-to-miss-the-most/",
       "team": "bills",
       "title": "Which Former Bill Are We Going to Miss The Most",
@@ -889,6 +911,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-28T15:07:55.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134722/josh-allen-buffalo-bills-interception-luck-study-pff"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/134680/bills-news-which-defensive-players-have-stood-out-so-far-during-otas",
+      "team": "bills",
+      "title": "Bills news: Which defensive players have stood out so far during OTAs?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-28T12:11:26.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/134680/bills-news-which-defensive-players-have-stood-out-so-far-during-otas"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265504-expectations-for-skyler/",
