@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T22:33:40.167Z",
+  "generatedAt": "2026-05-31T09:37:53.375Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,26 +176,114 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48919916/tim-ream-named-captain-usmnt-2026-world-cup",
-      "team": "usmnt",
-      "title": "Ream named USMNT captain for 2026 World Cup",
-      "summary": "U.S. men's national team manager Mauricio Pochettino has named defender Tim Ream as captain for the USMNT during the 2026 World Cup.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188 (Draft is June 26 and 27)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T23:25:43.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48919916/tim-ream-named-captain-usmnt-2026-world-cup"
+      "publishedAt": "2026-05-31T08:29:29.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48905910/goal-usmnt-pre-world-cup-friendlies",
-      "team": "usmnt",
-      "title": "🤔 Why is USMNT playing right before World Cup?",
-      "summary": "Before the USMNT starts the World Cup, the Americans will play two friendlies: Why add meaningless games to their busy summer?",
-      "source": "ESPN Soccer",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T07:19:53.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/",
+      "team": "bills",
+      "title": "Should OJ Simpson be on the new stadiums Wall of Fame?",
+      "summary": "This was Brought up on WGR a few times this last month. Thought I would do my own Poll. For me its a hard no. The dude was my hero growing up.. that being said.. yea.. uh no.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T05:19:46.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T02:59:17.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/",
+      "team": "sabres",
+      "title": "Lindy Ruff and Coaching Thread (Lindy signs extension thru the end of 27/28)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T02:48:45.000Z",
+      "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T02:13:57.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T01:17:28.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
+      "team": "sabres",
+      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T00:45:13.000Z",
+      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
+      "team": "sabres",
+      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-30T23:13:39.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
+    },
+    {
+      "id": "espn-sabres::48917000",
+      "team": "sabres",
+      "title": "SVP glazes John Buccigross for predicting Stanley Cup Final matchup",
+      "summary": "SVP glazes John Buccigross for predicting Stanley Cup Final matchup",
+      "source": "ESPN",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T23:25:43.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48905910/goal-usmnt-pre-world-cup-friendlies"
+      "publishedAt": "2026-05-30T22:11:28Z",
+      "link": "https://www.espn.com/video/clip/_/id/48917000/svp-glazes-john-buccigross-predicting-stanley-cup-final-matchup"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/rw-jake-richard-170th-overall-2022-nhl-draft-5-28-26-signs-2-year-elc.2891480/",
@@ -209,39 +297,6 @@
       "link": "https://forums.hfboards.com/threads/rw-jake-richard-170th-overall-2022-nhl-draft-5-28-26-signs-2-year-elc.2891480/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T21:42:35.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/",
-      "team": "sabres",
-      "title": "2026 World Championships - Maxim Strbak, Konsta Helenius",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T21:35:59.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-world-championships-maxim-strbak-konsta-helenius.3030497/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T21:21:31.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-burning-questions-can-tyler-adams-stay-healthy-can-chris-richards-get-healthy-and-more/",
       "team": "usmnt",
       "title": "USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more",
@@ -253,26 +308,15 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-burning-questions-can-tyler-adams-stay-healthy-can-chris-richards-get-healthy-and-more/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
-      "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T19:36:53.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265514-new-stadium-new-year-new-bills/",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/134796/buffalo-bills-assistant-gm-terrance-gray-not-picked-as-vikings-gm",
       "team": "bills",
-      "title": "New Stadium, New Year, New Bills",
-      "summary": "What is your game plan for the opener? (if not attending)\n\n\n\n\t \n\n\n\n\tFor me, air fryer wings with sauce I picked up from 911 Tavern (which is my fav now). Also going to do some pasta, garlic bread and a few other goodies.\n\n\n\n\t \n\n\n\n\tThe gentleman beside us at the opener last year mentioned Adolfs & Sonny Reds which we will do at some point. We’ll get there eventually.\n\n\n\n\t \n\n\n\n\tGive me your plans for the opener with Detroit. \n\n\n\n\t \n\n\n\n\tIt’s got to be good!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "title": "Buffalo Bills assistant GM Terrance Gray not picked as Vikings GM",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T19:09:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265514-new-stadium-new-year-new-bills/"
+      "publishedAt": "2026-05-30T19:07:54.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/134796/buffalo-bills-assistant-gm-terrance-gray-not-picked-as-vikings-gm"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/chris-richards-to-miss-usmnts-pre-world-cup-friendly-vs-senegal-with-ankle-injury/",
@@ -286,15 +330,15 @@
       "link": "https://www.cbssports.com/soccer/news/chris-richards-to-miss-usmnts-pre-world-cup-friendly-vs-senegal-with-ankle-injury/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "id": "espn-sabres::44686270",
       "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "title": "Stanley Cup odds: Hurricanes the favorite over Golden Knights to take home the Cup",
+      "summary": "The Stanley Cup Final is set, with the Carolina Hurricanes entering as favorites over the Vegas Golden Knights.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T16:31:18.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+      "publishedAt": "2026-05-30T16:49:23Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134794/joe-brady-led-buffalo-bills-show-biggest-departure-from-sean-mcdermott-with-bills-red-label",
@@ -352,17 +396,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48919156/hurricanes-favored-golden-knights-stanley-cup-final"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/",
-      "team": "sabres",
-      "title": "Lindy Ruff and Coaching Thread (Lindy signs extension thru the end of 27/28)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T13:43:49.000Z",
-      "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
-    },
-    {
       "id": "espn-sabres::48526483",
       "team": "sabres",
       "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
@@ -385,17 +418,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48916977/canes-andersen-plays-heavy-heart-lemieux-death"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188 (Draft is June 26 and 27)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T11:41:14.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/tage-thompson-2.2640469/",
       "team": "sabres",
       "title": "Tage Thompson 2",
@@ -407,15 +429,15 @@
       "link": "https://forums.hfboards.com/threads/tage-thompson-2.2640469/"
     },
     {
-      "id": "espn-sabres::48917000",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/by-scoring-and-agitating-in-postseason-sabres-zach-benson-grabbed-attention-of-nhl-a-true-core-piece/",
       "team": "sabres",
-      "title": "SVP glazes John Buccigross for predicting Stanley Cup Final matchup",
-      "summary": "SVP glazes John Buccigross for predicting Stanley Cup Final matchup",
-      "source": "ESPN",
-      "sourceType": "league",
+      "title": "By scoring and agitating in postseason, Sabres’ Zach Benson grabbed attention of NHL: ‘A true core piece’",
+      "summary": "BUFFALO – Long before he gave the Boston Bruins and Montreal Canadiens fits in the Stanley Cup Playoffs, Zach Benson’s high-octane game rankled opponents.\nThe diminutive winger’s ultra-aggressive style helped him crack the NHL at just 18 and later establish himself as one of the Sabres’ most valuable forwards.\n“I’ve kind of played like this forever,” Benson said last week in KeyBank Center. “I’ve kind of always played with that edge.”\n\nBenson, however, had never ... Read the full article \nThe post By scoring and agitating in postseason, Sabres’ Zach Benson grabbed attention of NHL: ‘A true core piece’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-05-30T05:06:14Z",
-      "link": "https://www.espn.com/video/clip/_/id/48917000/svp-glazes-john-buccigross-predicting-stanley-cup-final-matchup"
+      "publishedAt": "2026-05-30T05:01:47.000Z",
+      "link": "https://www.buffalohockeybeat.com/by-scoring-and-agitating-in-postseason-sabres-zach-benson-grabbed-attention-of-nhl-a-true-core-piece/"
     },
     {
       "id": "espn-sabres::48915496",
@@ -427,17 +449,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-30T03:52:28Z",
       "link": "https://www.espn.com/nhl/story/_/id/48915496/2026-nhl-playoffs-stanley-cup-eastern-conference-finals-game-5-grades-hurricanes-canadiens"
-    },
-    {
-      "id": "espn-sabres::48912313",
-      "team": "sabres",
-      "title": "Early look at 2026 Stanley Cup Final: Golden Knights-Hurricanes",
-      "summary": "Who will win the championship? The series begins Tuesday on ABC, but here's a head start on all the intel you need to know.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-30T03:25:34Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48912313/2026-nhl-playoffs-stanley-cup-final-matchup-preview-vegas-golden-knights-carolina-hurricanes"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
@@ -504,17 +515,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-29T23:50:14.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/by-scoring-and-agitating-in-postseason-sabres-zach-benson-grabbed-attention-of-nhl-a-true-core-piece/",
-      "team": "sabres",
-      "title": "By scoring and agitating in postseason, Sabres’ Zach Benson grabbed attention of NHL: ‘A true core piece’",
-      "summary": "BUFFALO – Long before he gave the Boston Bruins and Montreal Canadiens fits in the Stanley Cup Playoffs, Zach Benson’s high-octane game rankled opponents.\nThe diminutive winger’s ultra-aggressive style helped him crack the NHL at just 18 and later establish himself as one of the Sabres’ most valuable forwards.\n“I’ve kind of played like this forever,” Benson said last week in KeyBank Center. “I’ve kind of always played with that edge.”\n\nBenson, however, had never ... Read the full article \nThe post By scoring and agitating in postseason, Sabres’ Zach Benson grabbed attention of NHL: ‘A true core piece’ first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-29T21:01:47.000Z",
-      "link": "https://www.buffalohockeybeat.com/by-scoring-and-agitating-in-postseason-sabres-zach-benson-grabbed-attention-of-nhl-a-true-core-piece/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
@@ -647,17 +647,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-29T17:13:25.000Z",
       "link": "https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
-      "team": "sabres",
-      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-29T16:35:43.000Z",
-      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/betting/news/world-cup-2026-odds-futures-mexico-aiming-to-restore-its-soccer-standing-with-deep-tournament-run/",
@@ -825,17 +814,6 @@
       "link": "https://www.buffalobills.com/news/it-s-always-a-good-thing-bills-take-part-in-third-annual-full-team-community-takeover"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48882611/buzz-auston-matthews-connor-mcdavid-quinn-hughes-other-big-name-players",
-      "team": "sabres",
-      "title": "Heard around the postseason: Latest on Matthews, M...",
-      "summary": "Could there be big changes in Toronto? What's going on in Minnesota with Quinn Hughes? We check in on all the latest buzz around the NHL with the postseason winding down.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-28T15:44:21.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48882611/buzz-auston-matthews-connor-mcdavid-quinn-hughes-other-big-name-players"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265505-which-former-bill-are-we-going-to-miss-the-most/",
       "team": "bills",
       "title": "Which Former Bill Are We Going to Miss The Most",
@@ -913,15 +891,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/265501-dark-horse-picks-for-the-year/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/134704/buffalo-bills-sign-ilb-demetrius-flannigan-fowles",
+      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-ilb-demetrius-flannigan-fowles-to-one-year-deal",
       "team": "bills",
-      "title": "Buffalo Bills sign ILB Demetrius Flannigan-Fowles",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 2,
-      "publishedAt": "2026-05-27T21:36:20.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/134704/buffalo-bills-sign-ilb-demetrius-flannigan-fowles"
+      "title": "Bills sign ILB Demetrius Flannigan-Fowles to one-year deal",
+      "summary": "The Bills added depth to their LB room on Wednesday and released a WR.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T20:14:20.000Z",
+      "link": "https://www.buffalobills.com/news/bills-sign-ilb-demetrius-flannigan-fowles-to-one-year-deal"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/letter-grades-for-the-players-2025-26-season-part-1-of-2/",
@@ -1133,17 +1111,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-jarmo-kekalainen-lindy-ruff-established-strong-relationship-before-new-contract/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265480-dalton-kincaid-is-a-top-5-te/",
-      "team": "bills",
-      "title": "Dalton Kincaid is a top 5 TE",
-      "summary": "According to Rob gronkowski",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-23T01:02:51.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265480-dalton-kincaid-is-a-top-5-te/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/end-of-season-injury-updates-on-owen-power-tage-thompson-sam-carrick-justin-danforth-and-other-sabres/",
       "team": "sabres",
       "title": "End-of-season injury updates on Owen Power, Tage Thompson, Sam Carrick, Justin Danforth and other Sabres",
@@ -1164,17 +1131,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-21T21:13:09.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265470-are-we-sleeping-on-landon-jackson/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265469-super-bowl-in-nashville/",
-      "team": "bills",
-      "title": "Super Bowl in Nashville .",
-      "summary": "With the decision put out that the city of Nashville home of the Titans will be putting on the 64th SB game here in their new stadium the partying has already started, they had bands down town & put the city in full party mode in just 1 day .\n\n\n\n\t \n\n\n\n\tThey have talked about how many hotels the city has & will have to accommodate the amount of people that will attend add to that all of the other construction projects that will surround the stadium being built with the shopping centers & housing all down by the river then needing to tear down the not so old stadium there is a lot to get done in 3 years but I think they can pull it off !!\n\n\n\n\t \n\n\n\n\tLooking at the new stadium driving by it on 65/24 south it is huge even compared to the old stadium which is sitting right next to it . It gives a totally different perspective of it's size but the one thing that could be a problem is traffic !\n\n\n\n\t \n\n\n\n\tDown where the stadium is is where all of the interstates feed just south of the stadium, the city of Nashville has needed a up grade where that is concerned, but seeing as many that came to the draft I think it should be fine there are enough ways to get around down town not needing a vehicle & if they put some kind of pedestrian bridge from near second Ave across the river it will directly connect to where the stadium is located & a very short walk .\n\n\n\n\t \n\n\n\n\tThis will be a huge thing for Nashville & I think when this happens this city will put a new standard on what it's like to put on a SB in the fashion that they will do it I'm pretty sure it will be HUGE & a very memorable game for all that watch & attend .\n\n\n\n\t \n\n\n\n\tIt will be 1 hell of a party that's for sure !!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-21T16:55:20.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265469-super-bowl-in-nashville/"
     },
     {
       "id": "espn-bills::48817340",
@@ -1485,15 +1441,26 @@
       "link": "https://bandits.com/bandits-fall-behind-early-in-regular-season-finale-loss-to-oshawa/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265402-bills-home-opener-week-2-tnf-vs-detroit/",
       "team": "bills",
-      "title": "Vikings want to interview Terrance Gray for GM",
+      "title": "Bills home opener week 2 TNF vs Detroit",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-11T23:18:31.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265402-bills-home-opener-week-2-tnf-vs-detroit/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm-update-hire-seattle-assistant-gm-instead/",
+      "team": "bills",
+      "title": "Vikings want to interview Terrance Gray for GM - Update: hire Seattle assistant GM instead",
       "summary": "Sorry if this was posted elsewhere. Tom Pelissaro reported it earlier today that I saw. \n\t \n\n\n\n\tBefore anyone asks, if hired as GM, the Bills would receive a compensatory 3rd round selection in each of the next 2 drafts.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-05-06T13:32:35.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm/"
+      "link": "https://www.twobillsdrive.com/community/topic/265370-vikings-want-to-interview-terrance-gray-for-gm-update-hire-seattle-assistant-gm-instead/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264984-pats-may-have-post-june-1-trade-for-aj-brown-worked-out-twit-rumor/",
@@ -1538,6 +1505,17 @@
       "sourceCount": 1,
       "publishedAt": "2025-08-27T20:20:35.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/261123-rashee-rice-accepts-six-game-suspension-to-start-the-season/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/252071-her-name-was-hilda/",
+      "team": "bills",
+      "title": "Her name was Hilda",
+      "summary": "But on game day she was transformed into Buffalo Bilda. She never missed a Bills game in her lifetime and would celebrate by barking incessantly with every great play. The day after the Dolphins game she unexpectedly died at 8 years and 7 months. Afterward the Bills season began circling the drain until...\n\n\n\n\t\n\n\n\n\tI took delivery of Bernard the Buffalo on December 1st and they haven't lost a game since. Go Bills",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2024-01-02T17:48:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/252071-her-name-was-hilda/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
