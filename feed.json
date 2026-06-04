@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T19:36:54.555Z",
+  "generatedAt": "2026-06-04T23:50:52.774Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -164,8 +164,8 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Thu 7:15 PM",
-      "detail": "at ATL"
+      "headline": "Fri 7:07 PM",
+      "detail": "vs BAL"
     },
     {
       "team": "usmnt",
@@ -176,17 +176,6 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020-named-ahl-rookie-of-the-year-extended-2-years-3-35m-aav.2857538/",
-      "team": "sabres",
-      "title": "Jack Quinn, RW (8th overall, 2020): Named AHL Rookie of the Year; Extended 2 years, $3.35M AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T19:07:24.000Z",
-      "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020-named-ahl-rookie-of-the-year-extended-2-years-3-35m-aav.2857538/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/",
       "team": "sabres",
       "title": "Lindy Ruff and Coaching Thread (Lindy signs extension thru the end of 27/28)",
@@ -194,8 +183,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-04T19:05:15.000Z",
+      "publishedAt": "2026-06-04T23:18:36.000Z",
       "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135042/buffalo-bills-announce-promotions-within-scouting-staff",
+      "team": "bills",
+      "title": "Buffalo Bills announce promotions within scouting staff",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-06-04T23:12:37.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135042/buffalo-bills-announce-promotions-within-scouting-staff"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
@@ -205,7 +205,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-04T19:04:32.000Z",
+      "publishedAt": "2026-06-04T23:11:49.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
     },
     {
@@ -216,19 +216,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-04T19:00:06.000Z",
+      "publishedAt": "2026-06-04T23:11:00.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
       "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
+      "title": "Locked on Sabres Podcast",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-04T18:32:03.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+      "publishedAt": "2026-06-04T22:19:35.000Z",
+      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/",
+      "team": "sabres",
+      "title": "Zach Benson, LW/C, Wenatchee (WHL), Signed ELC- 2023, 13th Overall",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-04T22:16:17.000Z",
+      "link": "https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
@@ -238,8 +249,63 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-04T18:19:36.000Z",
+      "publishedAt": "2026-06-04T22:14:55.000Z",
       "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-04T21:12:27.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
+      "team": "sabres",
+      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-04T20:05:34.000Z",
+      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-04T19:59:55.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "espn-bills::48894110",
+      "team": "bills",
+      "title": "100 days to the 2026 NFL season: Predictions, injuries, more",
+      "summary": "The NFL season is 100 days away. Let's celebrate with 100 things to know, including bold predictions, fantasy sleepers and injury buzz.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-04T19:38:43Z",
+      "link": "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020-named-ahl-rookie-of-the-year-extended-2-years-3-35m-aav.2857538/",
+      "team": "sabres",
+      "title": "Jack Quinn, RW (8th overall, 2020): Named AHL Rookie of the Year; Extended 2 years, $3.35M AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-04T19:33:42.000Z",
+      "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020-named-ahl-rookie-of-the-year-extended-2-years-3-35m-aav.2857538/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265553-wr-watson-paid-in-gb-would-you-have-supported-this/",
@@ -297,17 +363,6 @@
       "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
-      "team": "sabres",
-      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T16:41:38.000Z",
-      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
-    },
-    {
       "id": "espn-sabres::48966613",
       "team": "sabres",
       "title": "Frederik Andersen gets coach's backing as save numbers slide",
@@ -319,6 +374,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/48966613/frederik-andersen-gets-coach-backing-save-numbers-slide"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48963013/transfer-rumors-news-real-madrid-keen-arsenals-calafiori",
+      "team": "usmnt",
+      "title": "Transfer rumors, news: Real Madrid keen on Arsenal...",
+      "summary": "Bayern Munich are eyeing a move to sign PSV and USMNT defender Sergiño Dest. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-04T16:13:02.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48963013/transfer-rumors-news-real-madrid-keen-arsenals-calafiori"
+    },
+    {
       "id": "espn-sabres::48526483",
       "team": "sabres",
       "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
@@ -328,17 +394,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-04T15:18:05Z",
       "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T14:41:00.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44043/2026-world-cup-group-g-preview",
@@ -473,17 +528,6 @@
       "link": "https://forums.hfboards.com/threads/anton-wahlberg-c-lw-malmo-j20-selection-39oa-2023-signed-to-3-year-elc-assigned-2-28-26.2933247/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265549-dean-marlowe-is-back/",
-      "team": "bills",
-      "title": "Dean Marlowe is back",
-      "summary": "... as a coach.\n\n\n\n\t \n\n\n\n\tGood interview by Cover 1 to gain some insight of what he sees the \"new\" players from a Bills coach's viewpoint. Interesting the most impressive young player in his eyes is IGB, saying the guy is already like a pro (I guess it's no joke for someone comes from a national champ program like Ohio State), picking up schemes, answering questions. The Bills just might wind up with 3 quality starting CBs by the end of the season. And I'd imagine he gets non trivial playing time during the season as well, based on match-ups.\n\n\n\n\t \n\n\n\n\tI also like his take on Skyler Bell - \"reminds him of a young Digg\"; many here have been saying the same in terms of cutting and stopping on a dime. His statement of what makes Justin Jefferson so great is \"he makes every route looks like the same\" is spot on.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T01:45:28.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265549-dean-marlowe-is-back/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265548-russell-wilson-retires-does-he-belong-in-canton/",
       "team": "bills",
       "title": "Russell Wilson retires. Does he belong in Canton?",
@@ -504,17 +548,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-03T23:31:21.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265547-the-sporting-news-proposes-massive-billsvikings-tradewould-ya/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
-      "team": "sabres",
-      "title": "Locked on Sabres Podcast",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T23:27:54.000Z",
-      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135003/deone-walker-scared-for-what-ed-oliver-can-do-to-opponents-in-jim-leonhards-scheme",
@@ -836,26 +869,15 @@
       "link": "https://www.espn.com/video/clip/_/id/48953988/dawson-knox-speaks-staying-bills"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
-      "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester (AHL) and TBD (ECHL)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T03:07:22.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265537-travis-clayton-international-player-transitions-from-ot-to-de/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265538-drake-london-gets-paid/",
       "team": "bills",
-      "title": "Travis Clayton (International Player), transitions from OT to DE",
-      "summary": "Not sure if this has been mentioned, but in today’s OTA, there was quite a few clips of Clayton in a Blue Jersey and running with the defensive line.\n\n\n\n\t \n\n\n\n\t6’7” 305, that a big DE which in much needed in a 3-4 scheme. Maybe this can pay dividends.\n\n\n\n\t \n\n\n\n\tThoughts?",
+      "title": "Drake London Gets PAID",
+      "summary": "You know George Pickens is sitting back rubbing his hands together. \n\n\n\n\thttps://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-london-falcons-agree-to-a-four-year-141-million-extension\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThe Falcons have agreed to terms with wide receiver Drake London on a long-term deal.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tAccording to multiple reports, London will sign a four-year, $141 million extension worth up to $150 million. It includes $100 million guaranteed.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-02T22:42:29.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265537-travis-clayton-international-player-transitions-from-ot-to-de/"
+      "publishedAt": "2026-06-02T22:49:32.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265538-drake-london-gets-paid/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-otas-ed-oliver-christian-benford-practice-oc-pete-carmichael-on-offensive-philosophy-of-head-coach-joe-brady",
@@ -867,28 +889,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-02T21:45:56.000Z",
       "link": "https://www.buffalobills.com/news/bills-otas-ed-oliver-christian-benford-practice-oc-pete-carmichael-on-offensive-philosophy-of-head-coach-joe-brady"
-    },
-    {
-      "id": "espn-bills::48894110",
-      "team": "bills",
-      "title": "100 days to the 2026 NFL season: Predictions, injuries, more",
-      "summary": "The NFL season is 100 days away. Let's celebrate with 100 things to know, including bold predictions, fantasy sleepers and injury buzz.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-02T20:18:47Z",
-      "link": "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/134940/buffalo-bills-ot-travis-clayton-working-at-dt-during-otas",
-      "team": "bills",
-      "title": "Buffalo Bills OT Travis Clayton working at DT during OTAs",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-02T19:42:40.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/134940/buffalo-bills-ot-travis-clayton-working-at-dt-during-otas"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/how-usmnts-brenden-aaronson-balanced-intense-world-cup-roster-call-up-and-wedding/",
@@ -933,6 +933,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-02T16:15:01.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265533-otas-62/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265532-out-of-state-season-ticket-holders/",
+      "team": "bills",
+      "title": "Out of State Season Ticket Holders",
+      "summary": "How many games do you go to a year? I’m looking at the schedule and possibly only going to make 4 (and my yearly pilgrimage to Miami). The home Dolphins game is killing me because it’s so close to the Chiefs game. 😫",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-02T14:50:00.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265532-out-of-state-season-ticket-holders/"
     },
     {
       "id": "espn-bills::47809892",
@@ -1001,17 +1012,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/43906/usmnt-midweek-viewing-guide-the-friendliest-week"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265527-myles-garrett-traded-to-rams/",
-      "team": "bills",
-      "title": "Myles Garrett traded to Rams",
-      "summary": "Wow!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-01T17:21:32.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265527-myles-garrett-traded-to-rams/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-wr-mac-dalena-and-release-cb-daryl-porter-jr",
       "team": "bills",
       "title": "Bills sign WR Mac Dalena and release CB Daryl Porter Jr.",
@@ -1067,15 +1067,15 @@
       "link": "https://www.buffalobills.com/news/pride-month-2026-how-to-support-pride-in-western-new-york"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265517-i-cant-wait-til-the-home-opener/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/",
       "team": "bills",
-      "title": "I Can't Wait 'Til The Home Opener!!!!!!!",
-      "summary": "It's been a hectic few weeks and I wasn't sure if I was gonna attend the Opener since it is on a Thursday and it just screws up our usual routine.  After some consideration, I have decided that I didn't wanna miss the first game in the new venue so yup, I'll be there in 109 days for the festivities.  Lookin' forward to seein' y'all then.  \n\n\n\n\t \n\n\n\n\tIT HAS BEGUN!!!",
+      "title": "Should OJ Simpson be on the new stadiums Wall of Fame?",
+      "summary": "This was Brought up on WGR a few times this last month. Thought I would do my own Poll. For me its a hard no. The dude was my hero growing up.. that being said.. yea.. uh no.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-31T11:25:30.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265517-i-cant-wait-til-the-home-opener/"
+      "publishedAt": "2026-05-31T05:19:46.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-burning-questions-can-tyler-adams-stay-healthy-can-chris-richards-get-healthy-and-more/",
@@ -1175,17 +1175,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-25T16:08:46.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265486-who%E2%80%99s-the-bills%E2%80%99-goat-qb-jk-or-ja/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/ota-notebook-hc-joe-brady-excited-about-where-the-team-s-at-wr-keon-coleman-shares-focused-approach",
-      "team": "bills",
-      "title": "Bills OTAs | HC Joe Brady excited about where the team's at + WR Keon Coleman shares focused approach",
-      "summary": "QB Josh Allen talks about how new WR DJ Moore is already fitting in. TE Dalton Kincaid explains why he’s feeling in great shape to start OTAs.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-20T00:21:49.000Z",
-      "link": "https://www.buffalobills.com/news/ota-notebook-hc-joe-brady-excited-about-where-the-team-s-at-wr-keon-coleman-shares-focused-approach"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265458-keon-coleman-last-season-was-%E2%80%9Cass%E2%80%9D-it%E2%80%99s-a-make-or-break-season-for-me/",
@@ -1318,6 +1307,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-04-25T01:05:22.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265259-rnd-2-pick-62-cb-davison-igbinosun-ohio-state/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/255720-diggs-drama/",
+      "team": "bills",
+      "title": "Diggs' Drama",
+      "summary": "A thread for our former master of histrionics, who doesn't need a new thread every time he gets his drama queen on.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2024-08-10T03:03:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
