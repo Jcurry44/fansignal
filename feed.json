@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T18:30:20.429Z",
+  "generatedAt": "2026-06-05T22:45:36.246Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -96,8 +96,8 @@
       "id": "hfboards-sabres",
       "label": "HFBoards",
       "team": "sabres",
-      "itemCount": 20,
-      "error": null
+      "itemCount": 0,
+      "error": "HTTP 403"
     },
     {
       "id": "stars-and-stripes",
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 5,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 14,
+      "itemCount": 15,
       "error": null
     },
     {
@@ -176,81 +176,59 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T18:30:20.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188 (Draft is June 26 and 27)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T18:24:57.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T18:01:21.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "espn-sabres::48976633",
-      "team": "sabres",
-      "title": "Watch Game 3 of the Stanley Cup Final, Saturday: 8 p.m. ET on ESPN/ESPN App",
-      "summary": "Watch Game 3 of the Stanley Cup Final, Saturday: 8 p.m. ET on ESPN/ESPN App",
-      "source": "ESPN",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48976577/usa-world-cup-chris-richards-injury-mauricio-pochettino-germany",
+      "team": "usmnt",
+      "title": "Poch 'annoyed' as Richards out of final U.S. tuneu...",
+      "summary": "United States coach Mauricio Pochettino expressed his frustration after revealing that first-choice center back Chris Richards would miss the team's final friendly before the World Cup with an ankle injury.",
+      "source": "ESPN Soccer",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-05T17:57:06Z",
-      "link": "https://www.espn.com/video/clip/_/id/48976633/8-pm-et-espn-espn-app"
+      "publishedAt": "2026-06-05T23:04:09.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48976577/usa-world-cup-chris-richards-injury-mauricio-pochettino-germany"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
-      "team": "sabres",
-      "title": "All Purpose Goaltending Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48977611/mauricio-pochettino-brenden-aaronson-wedding-world-cup-2026",
+      "team": "usmnt",
+      "title": "Poch: Aaronson's pre-WC wedding a boost for U.S.",
+      "summary": "USMNT coach said midfielder Brenden Aaronson's wedding during the team's pre-World Cup training camp has given a boost to the whole squad, even if it's not something that would have been well received by some past coaches.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-05T17:53:33.000Z",
-      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
+      "publishedAt": "2026-06-05T23:04:09.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48977611/mauricio-pochettino-brenden-aaronson-wedding-world-cup-2026"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/",
-      "team": "sabres",
-      "title": "Lindy Ruff and Coaching Thread (Lindy signs extension thru the end of 27/28)",
-      "summary": "",
-      "source": "HFBoards",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265563-buffalo-bills-madden-27-ratings-released/",
+      "team": "bills",
+      "title": "Buffalo Bills Madden 27 Ratings Released!",
+      "summary": "Buffalo Bills Madden NFL 27 Ratings\n\n\n\n\tQB - #17 Josh Allen - 99\n\n\n\n\tHB - #4 James Cook - 93\n\n\n\n\tLT - #73 Dion Dawkins - 88\n\n\n\n\tLEDG - #50 Gregory Rousseau - 88\n\n\n\n\tWR - #2 D.J. Moore - 85\n\n\n\n\tRT - #79 Spencer Brown - 85\n\n\n\n\tCB - #47 Christian Benford - 83\n\n\n\n\tMIKE - #8 Terrel Bernard - 83\n\n\n\n\tDT - #91 Ed Oliver - 82\n\n\n\n\tWR - #10 Khalil Shakir - 82\n\n\n\n\tC - #66 Connor McGovern - 81\n\n\n\n\tTE - #86 Dalton Kincaid - 81\n\n\n\n\tFS - #24 Cole Bishop - 80\n\n\n\n\tFS - #22 Geno Stone - 79\n\n\n\n\tREDG - #2 Bradley Chubb - 78\n\n\n\n\tCB - #31 Maxwell Hairston - 78\n\n\n\n\tREDG - #51 Mike Danna - 77\n\n\n\n\tLG - #63 Austin Corbett - 76\n\n\n\n\tTE - #88 Dawson Knox - 76\n\n\n\n\tWR - #5 Josh Palmer - 76\n\n\n\n\tP - #19 Mitch Wishnowsky - 76\n\n\n\n\tSS - #35 C.J. Gardner-Johnson - 75\n\n\n\n\tWR - #0 Keon Coleman - 75\n\n\n\n\tC - #79 Lloyd Cushenberry III - 75\n\n\n\n\tREDG - #55 Michael Hoecht - 75\n\n\n\n\tRG - #64 O'Cyrus Torrence - 75\n\n\n\n\tHB - #22 Ray Davis - 75\n\n\n\n\tWILL - #42 Dorian Williams - 74\n\n\n\n\tHB - #26 Ty Johnson - 74\n\n\n\n\tK - #2 Tyler Bass - 74\n\n\n\n\tFS - #3 Damar Hamlin - 73\n\n\n\n\tCB - #20 Dee Alford - 73\n\n\n\n\tREDG - #94 Landon Jackson - 73\n\n\n\n\tDT - #98 T.J. Sanders - 73\n\n\n\n\tWR - #16 Mecole Hardman - 73\n\n\n\n\tDT - #96 Deone Walker - 72\n\n\n\n\tCB - #43 Dorian Strong - 72\n\n\n\n\tWR - #5 Trent Sherfield - 72\n\n\n\n\tLS - #69 Reid Ferguson - 71\n\n\n\n\tDT - #90 DeWayne Carter - 70\n\n\n\n\tSS - #37 Jordan Hancock - 70\n\n\n\n\tLEDG - #56 Javon Solomon - 69\n\n\n\n\tMIKE - #44 Joe Andreessen - 69\n\n\n\n\tDT - #72 Phidarian Mathis - 69\n\n\n\n\tFS - #28 Sam Franklin - 69\n\n\n\n\tWR - #14 Tyrell Shavers - 69\n\n\n\n\tTE - #85 Jackson Hawes - 68\n\n\n\n\tRG - #70 Alec Anderson - 66\n\n\n\n\tC - #62 Sedrick Van Pran-Granger - 66\n\n\n\n\tTE - #84 Shane Zylstra - 66\n\n\n\n\tRT - #77 Chase Lundt - 65\n\n\n\n\tFB - #43 Ben VanSumeren - 64\n\n\n\n\tWILL - #35 Jimmy Ciarlo - 64\n\n\n\n\tLT - #68 Tylan Grable - 63\n\n\n\n\tTE - #83 Keleki Latu - 62\n\n\n\n\tQB - #8 Kyle Allen - 60\n\n\n\n\tQB - #17 Shane Buechele - 52",
+      "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-05T17:51:25.000Z",
-      "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
+      "publishedAt": "2026-06-05T19:44:45.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265563-buffalo-bills-madden-27-ratings-released/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Draft Over.  It is the doldrums of the offseason.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-2026-picks-odds-futures-predictions-usmnt-props-best-bets/",
+      "team": "usmnt",
+      "title": "World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert",
+      "summary": "Jon \"Buckets\" Eimer has locked in his top USMNT prop bets for the 2026 World Cup being hosted by the United States, Canada and Mexico",
+      "source": "CBS Sports",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-05T17:50:43.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
+      "publishedAt": "2026-06-05T19:34:50.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-2026-picks-odds-futures-predictions-usmnt-props-best-bets/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmn-2026-roster-gregg-berhalter-son-sebastian-incredible-usmnt-rise/",
+      "team": "usmnt",
+      "title": "From Qatar spectator to the 2026 roster: Gregg Berhalter reflects on son Sebastian's incredible USMNT rise",
+      "summary": "How a replica trophy from a Qatar market inspired Sebastian Berhalter to make the USMNT roster for the 2026 World Cup under Mauricio Pochettino",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T19:23:38.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmn-2026-roster-gregg-berhalter-son-sebastian-incredible-usmnt-rise/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-chris-richards-trains-world-cup-friendly-germany/",
@@ -264,37 +242,15 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-chris-richards-trains-world-cup-friendly-germany/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
-      "team": "sabres",
-      "title": "Radim Mrtka, RD, (9th OA, 2025); Seattle Thunderbirds (WHL), Assigned to Rochester 4/8/26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T17:47:41.000Z",
-      "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/scouts-analysis-notes-from-draft-combine-interviews/",
-      "team": "sabres",
-      "title": "Scout’s Analysis: Notes from NHL scouting combine interviews",
-      "summary": "Jason Bukala is at the NHL Combine in Buffalo interviewing various prospects over two days for Sportsnet. Today he writes about his takeaways from the first group of players, including Gavin McKenna.",
-      "source": "Sportsnet",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48965570/gregg-berhalter-usmnt-firing-paved-way-son-sebastian-world-cup-dream",
+      "team": "usmnt",
+      "title": "Gregg Berhalter's USMNT firing helped pave the way...",
+      "summary": "Two years after Gregg Berhalter was fired as coach, son Sebastian will play for the USMNT at the World Cup. \"I never could have picked him,\" Gregg said.",
+      "source": "ESPN Soccer",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-05T17:45:58.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/scouts-analysis-notes-from-draft-combine-interviews/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
-      "team": "sabres",
-      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T17:31:30.000Z",
-      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
+      "publishedAt": "2026-06-05T16:40:14.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48965570/gregg-berhalter-usmnt-firing-paved-way-son-sebastian-world-cup-dream"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265562-the-hall-of-very-good-but-not-great/",
@@ -306,28 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-05T16:39:13.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265562-the-hall-of-very-good-but-not-great/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-rfa-2026.2973251/",
-      "team": "sabres",
-      "title": "Ryan Mcleod C 71 Acquired in Trade 2024 Rfa 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T15:17:56.000Z",
-      "link": "https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-rfa-2026.2973251/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
-      "team": "sabres",
-      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T15:17:04.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
     },
     {
       "id": "espn-sabres::44686270",
@@ -350,17 +284,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-05T14:05:29.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265560-joshua-palmer-close-to-returning-to-practice-details-injuryrecovery/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
-      "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T13:20:57.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
@@ -429,17 +352,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48968493/nhl-2026-offseason-trades-rankings-targets-market-draft-picks-contracts"
     },
     {
-      "id": "espn-bills::48958672",
-      "team": "bills",
-      "title": "What Buffalo's fresh-faced team showed at OTAs",
-      "summary": "From position changes to injury updates, we got an initial glimpse into how things could play out for the Bills.",
-      "source": "ESPN · Alaina Getzenberg",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T10:00:16Z",
-      "link": "https://www.espn.com/nfl/story/_/id/48958672/buffalo-bills-oc-carmichael-offense-observations-ota"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-coach-lindy-ruff-was-the-nhls-best-this-season-and-he-was-robbed-of-the-jack-adams-award/",
       "team": "sabres",
       "title": "Sabres coach Lindy Ruff was the NHL’s best this season, and he was robbed of the Jack Adams Award",
@@ -473,6 +385,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/48972230/golden-knights-object-disallowed-goal-vow-bounce-back"
     },
     {
+      "id": "espn-sabres::48971782",
+      "team": "sabres",
+      "title": "TJ Oshie, Dave Jackson break down Vegas' pivotal failed challenge",
+      "summary": "TJ Oshie, Dave Jackson break down Vegas' pivotal failed challenge",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T04:45:59Z",
+      "link": "https://www.espn.com/video/clip/_/id/48971782/tj-oshie-dave-jackson-break-vegas-pivotal-failed-challenge"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/133444/buffalo-bills-mandalorian-costume-design-part-5-side-quest-necessity",
       "team": "bills",
       "title": "Buffalo Bills Mandalorian costume design, Part 5: Side-quest necessity",
@@ -482,6 +405,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-05T03:30:48.000Z",
       "link": "https://www.buffalorumblings.com/general/133444/buffalo-bills-mandalorian-costume-design-part-5-side-quest-necessity"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265557-jim-leonhard-on-eric-wood-podcast/",
+      "team": "bills",
+      "title": "Jim Leonhard on Eric Wood podcast",
+      "summary": "You gotta give it to Eric - he gets A-list guests from Bills perspective.\n\n\n\n\t \n\n\n\n\tI didn't realize that Eric played with Jim in Buffalo. I'd guess Eric was a star whereas Jim was a nobody then.\n\n\n\n\t \n\n\n\n\tAnd as we all guessed, Jim is a Rex Ryan disciple and he admitted it. Rex just lost it when he came to the Bills and lost the drive to work hard any more. It explains that Leonhard is going to be a player-coach in the way of letting them express fully of their views and he's try to guide and leverage their strength. And that matches what we have heard from the OTAs that those defensive players are excited that they are going to do what they do best.\n\n\n\n\t \n\n\n\n\tI also liked Eric asking Jim the question of how to prepare for Allen and Joe Brady as the opponent. Unfortunately he didn't reveal too much there other than the motion and formation stuff. I'm pretty sure Jim spelled the beans on what Denver thought of Allen, especially on maximizing his weakness -- maybe the long ball accuracy is something Jim brought up to Allen as well.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T01:51:04.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265557-jim-leonhard-on-eric-wood-podcast/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265556-chris-simms-2026-qb-rankings-josh-1/",
@@ -495,28 +429,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265556-chris-simms-2026-qb-rankings-josh-1/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/",
-      "team": "sabres",
-      "title": "Zach Benson, LW/C, Wenatchee (WHL), Signed ELC- 2023, 13th Overall",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T01:12:41.000Z",
-      "link": "https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/",
-      "team": "sabres",
-      "title": "General Sabres Media Info & Coverage",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T00:54:31.000Z",
-      "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44096/usa-soccercast-episode-190-recapping-the-senegal-win-but-germany-awaits",
       "team": "usmnt",
       "title": "USA Soccercast, Episode 190: Recapping the Senegal win, but Germany awaits",
@@ -526,6 +438,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-05T00:50:13.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44096/usa-soccercast-episode-190-recapping-the-senegal-win-but-germany-awaits"
+    },
+    {
+      "id": "espn-bills::48958672",
+      "team": "bills",
+      "title": "What Buffalo's fresh-faced team showed at OTAs",
+      "summary": "From position changes to injury updates, we got an initial glimpse into how things could play out for the Bills.",
+      "source": "ESPN · Alaina Getzenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T00:24:11Z",
+      "link": "https://www.espn.com/nfl/story/_/id/48958672/buffalo-bills-oc-carmichael-offense-observations-ota"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135042/buffalo-bills-announce-promotions-within-scouting-staff",
@@ -539,28 +462,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/135042/buffalo-bills-announce-promotions-within-scouting-staff"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
-      "team": "sabres",
-      "title": "Locked on Sabres Podcast",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T22:19:35.000Z",
-      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
-      "team": "sabres",
-      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T20:05:34.000Z",
-      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
-    },
-    {
       "id": "espn-bills::48894110",
       "team": "bills",
       "title": "100 days to the 2026 NFL season: Predictions, injuries, more",
@@ -570,17 +471,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-04T19:38:43Z",
       "link": "https://www.espn.com/nfl/story/_/id/48894110/2026-nfl-season-100-days-nuggets-mvp-predictions-fantasy-rookies"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020-named-ahl-rookie-of-the-year-extended-2-years-3-35m-aav.2857538/",
-      "team": "sabres",
-      "title": "Jack Quinn, RW (8th overall, 2020): Named AHL Rookie of the Year; Extended 2 years, $3.35M AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T19:33:42.000Z",
-      "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020-named-ahl-rookie-of-the-year-extended-2-years-3-35m-aav.2857538/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44083/how-far-will-the-usmnt-go-at-the-world-cup",
@@ -616,26 +506,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/135033/davison-igbinosuns-understanding-of-the-game-most-impressive-to-new-buffalo-bills-coach"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
-      "team": "sabres",
-      "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48893158/how-usmnt-went-italia-90-embarrassment-world-cup-force-1994",
+      "team": "usmnt",
+      "title": "How the USMNT went from embarrassment in Italy to ...",
+      "summary": "A World Cup on home soil looms. The last time America hosted, things were very different.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-04T17:27:39.000Z",
-      "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
-      "team": "sabres",
-      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T17:12:34.000Z",
-      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
+      "publishedAt": "2026-06-04T17:13:38.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48893158/how-usmnt-went-italia-90-embarrassment-world-cup-force-1994"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44069/the-2026-world-cup-will-be-part-of-a-sports-filled-summer",
@@ -748,17 +627,6 @@
       "link": "https://www.starsandstripesfc.com/uswnt-coverage/43966/uswnt-vs-brazil-2026-friendly-scouting-brazil"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/anton-wahlberg-c-lw-malmo-j20-selection-39oa-2023-signed-to-3-year-elc-assigned-2-28-26.2933247/",
-      "team": "sabres",
-      "title": "Anton Wahlberg, C/LW, Malmo (J20) - Selection 39OA, 2023 (Signed to 3 year ELC) - Assigned 2/28/26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T02:52:52.000Z",
-      "link": "https://forums.hfboards.com/threads/anton-wahlberg-c-lw-malmo-j20-selection-39oa-2023-signed-to-3-year-elc-assigned-2-28-26.2933247/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265548-russell-wilson-retires-does-he-belong-in-canton/",
       "team": "bills",
       "title": "Russell Wilson retires. Does he belong in Canton?",
@@ -801,28 +669,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-03T19:34:04.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265545-add-a-good-not-great-player-to-our-current-squad/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/",
-      "team": "sabres",
-      "title": "Poll: Which Roster Players Do You Want Back",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T19:12:01.000Z",
-      "link": "https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-2026-picks-odds-futures-predictions-props-best-bets/",
-      "team": "usmnt",
-      "title": "World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert",
-      "summary": "Jon \"Buckets\" Eimer has locked in his top USMNT prop bets for the 2026 World Cup being hosted by the United States, Canada and Mexico",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T18:58:08.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-2026-picks-odds-futures-predictions-props-best-bets/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-chris-richards-training-individually-injury-status-still-unclear-for-world-cup-opener/",
@@ -931,7 +777,7 @@
       "source": "ESPN · Seth Walder",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-03T14:18:15Z",
+      "publishedAt": "2026-06-03T14:17:14Z",
       "link": "https://www.espn.com/nfl/story/_/id/48845972/2026-nfl-season-football-power-index-projections-super-bowl-chances-simulations"
     },
     {
@@ -1012,28 +858,6 @@
       "link": "https://www.cbssports.com/soccer/news/mls-players-at-2026-world-cup-record-messi-usmnt-what-to-know/"
     },
     {
-      "id": "espn-bills::48387060",
-      "team": "bills",
-      "title": "NFL offseason 2026: OTA, minicamp dates for all 32 teams",
-      "summary": "Here are dates for the NFL offseason workouts in 2026, with mandatory minicamps starting in June.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-02T17:00:53Z",
-      "link": "https://www.espn.com/nfl/story/_/id/48387060/nfl-offseason-2026-every-32-team-otas-minicamp-key-dates"
-    },
-    {
-      "id": "espn-bills::47809892",
-      "team": "bills",
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
-      "source": "ESPN · Doug Greenberg",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-02T14:40:43Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/43997/2026-world-cup-group-e-preview",
       "team": "usmnt",
       "title": "2026 World Cup: Group E Preview",
@@ -1045,6 +869,17 @@
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/43997/2026-world-cup-group-e-preview"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48931409/usmnt-builds-world-cup-momentum-beating-senegal-questions-remain",
+      "team": "usmnt",
+      "title": "USMNT builds World Cup momentum by beating Senegal...",
+      "summary": "Mauricio Pochettino's plans for this team are beginning to come into clearer focus.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-02T09:17:56.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48931409/usmnt-builds-world-cup-momentum-beating-senegal-questions-remain"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-give-up-rights-to-three-unsigned-draft-picks/",
       "team": "sabres",
       "title": "Sabres give up rights to three unsigned draft picks",
@@ -1054,6 +889,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-02T02:27:32.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-give-up-rights-to-three-unsigned-draft-picks/"
+    },
+    {
+      "id": "espn-bills::47809892",
+      "team": "bills",
+      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-01T21:51:13Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265529-aj-brown-to-pats-for-2028-1st-2027-5th/",
@@ -1309,17 +1155,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-week-7-girls-flag-football-coaches-of-the-week"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265486-who%E2%80%99s-the-bills%E2%80%99-goat-qb-jk-or-ja/",
-      "team": "bills",
-      "title": "Who’s the Bills’ GOAT QB? JK or JA",
-      "summary": "Vote and then tell us why.\n\n\n\n\t \n\n\n\n\tShould be fun. Go Bills!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-25T16:08:46.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265486-who%E2%80%99s-the-bills%E2%80%99-goat-qb-jk-or-ja/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-canadiens-player-of-the-series-and-stats-analysis/",
       "team": "sabres",
       "title": "Sabres vs Canadiens: Player of the Series and Stats Analysis",
@@ -1362,6 +1197,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-20T13:00:00.000Z",
       "link": "https://www.diebytheblade.com/jedi-council-playoff-edition-2/"
+    },
+    {
+      "id": "espn-bills::48387060",
+      "team": "bills",
+      "title": "NFL offseason 2026: OTA, minicamp dates for all 32 teams",
+      "summary": "Here are dates for the NFL offseason workouts in 2026, with mandatory minicamps starting in June.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T16:50:55Z",
+      "link": "https://www.espn.com/nfl/story/_/id/48387060/nfl-offseason-2026-every-32-team-otas-minicamp-key-dates"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/heartbreak-sabres-beaten-in-game-7-overtime-by-canadiens/",
@@ -1538,17 +1384,6 @@
       "sourceCount": 1,
       "publishedAt": "2024-08-10T03:03:26.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
-      "team": "bills",
-      "title": "Stadium Construction Discussion (No PSL/Seat selection posts)",
-      "summary": "https://www.buffalobills.com/news/construction-on-new-bills-stadium-to-begin-immediately",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2023-05-04T18:27:11.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/"
     }
   ]
 }
