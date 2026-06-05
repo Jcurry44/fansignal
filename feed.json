@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T23:50:52.774Z",
+  "generatedAt": "2026-06-05T11:51:55.367Z",
   "sources": [
     {
       "id": "bills-official",
@@ -54,14 +54,14 @@
       "id": "die-by-the-blade",
       "label": "Die By The Blade",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 10,
       "error": null
     },
     {
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 10,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,6 +176,105 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T11:46:44.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T11:39:15.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T11:23:29.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "espn-sabres::48526483",
+      "team": "sabres",
+      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
+      "summary": "Each team took one game in the opening pair of contests in Raleigh. Here's how it all went down.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T10:39:08Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
+    },
+    {
+      "id": "espn-bills::48958672",
+      "team": "bills",
+      "title": "What Buffalo's fresh-faced team showed at OTAs",
+      "summary": "From position changes to injury updates, we got an initial glimpse into how things could play out for the Bills.",
+      "source": "ESPN · Alaina Getzenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T10:00:16Z",
+      "link": "https://www.espn.com/nfl/story/_/id/48958672/buffalo-bills-oc-carmichael-offense-observations-ota"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-coach-lindy-ruff-was-the-nhls-best-this-season-and-he-was-robbed-of-the-jack-adams-award/",
+      "team": "sabres",
+      "title": "Sabres coach Lindy Ruff was the NHL’s best this season, and he was robbed of the Jack Adams Award",
+      "summary": "Let’s get this out of the way: Jon Cooper is one hell of a coach, an all-time great. Having won the Stanley Cup twice and taken the Tampa Bay Lightning to the final on two other occasions, he will deservedly be enshrined in the Hockey Hall of Fame someday.\nDespite the absence of stud defenseman Victor Hedman for most of this season, he led the Lightning to 50 wins and 106 points.\nStill, Cooper had ... Read the full article \nThe post Sabres coach Lindy Ruff was the NHL’s best this season, and he was robbed of the Jack Adams Award first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T10:00:16.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-coach-lindy-ruff-was-the-nhls-best-this-season-and-he-was-robbed-of-the-jack-adams-award/"
+    },
+    {
+      "id": "espn-sabres::48972758",
+      "team": "sabres",
+      "title": "Vegas, Carolina meet with series tied 1-1",
+      "summary": "Carolina Hurricanes (53-22-7, in the Metropolitan Division) vs. Vegas Golden Knights (39-26-17, in the Pacific Division)",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T08:11:10Z",
+      "link": "http://www.espn.com/nhl/preview?gameId=401874173"
+    },
+    {
+      "id": "espn-sabres::48972230",
+      "team": "sabres",
+      "title": "Golden Knights object to disallowed goal, vow to bounce back",
+      "summary": "The Golden Knights said they remain confident despite the Hurricanes' stunning rally to win Game 2 of the Stanley Cup Final, which was fueled by a critical failed coach's challenge in the third period.",
+      "source": "ESPN · Greg Wyshynski",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T06:22:48Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48972230/golden-knights-object-disallowed-goal-vow-bounce-back"
+    },
+    {
+      "id": "espn-sabres::48968438",
+      "team": "sabres",
+      "title": "Golden Knights-Hurricanes Game 2 takeaways, grades, questions",
+      "summary": "The series is tied 1-1 heading to Vegas for Game 3. Here's what it all means, with a look ahead to the rest of the series.",
+      "source": "ESPN · Ryan Clark",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T05:08:28Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48968438/2026-nhl-playoffs-stanley-cup-final-game-2-grades-questions-golden-knights-hurricanes"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/",
       "team": "sabres",
       "title": "Lindy Ruff and Coaching Thread (Lindy signs extension thru the end of 27/28)",
@@ -183,8 +282,96 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-04T23:18:36.000Z",
+      "publishedAt": "2026-06-05T05:06:08.000Z",
       "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
+    },
+    {
+      "id": "espn-sabres::48971782",
+      "team": "sabres",
+      "title": "TJ Oshie, Dave Jackson break down Vegas' pivotal failed challenge",
+      "summary": "TJ Oshie, Dave Jackson break down Vegas' pivotal failed challenge",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T04:45:59Z",
+      "link": "https://www.espn.com/video/clip/_/id/48971782/tj-oshie-dave-jackson-break-vegas-pivotal-failed-challenge"
+    },
+    {
+      "id": "espn-sabres::48971647",
+      "team": "sabres",
+      "title": "Jordan Staal tries to make sense of a wild Game 2 win",
+      "summary": "Jordan Staal tries to make sense of a wild Game 2 win",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T04:32:00Z",
+      "link": "https://www.espn.com/video/clip/_/id/48971647/jordan-staal-tries-make-sense-wild-game-2-win"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265557-jim-leonhard-on-eric-wood-podcast/",
+      "team": "bills",
+      "title": "Jim Leonhard on Eric Wood podcast",
+      "summary": "You gotta give it to Eric - he gets A-list guests from Bills perspective.\n\n\n\n\t \n\n\n\n\tI didn't realize that Eric played with Jim in Buffalo. I'd guess Eric was a star whereas Jim was a nobody then.\n\n\n\n\t \n\n\n\n\tAnd as we all guessed, Jim is a Rex Ryan disciple and he admitted it. Rex just lost it when he came to the Bills and lost the drive to work hard any more. It explains that Leonhard is going to be a player-coach in the way of letting them express fully of their views and he's try to guide and leverage their strength. And that matches what we have heard from the OTAs that those defensive players are excited that they are going to do what they do best.\n\n\n\n\t \n\n\n\n\tI also liked Eric asking Jim the question of how to prepare for Allen and Joe Brady as the opponent. Unfortunately he didn't reveal too much there other than the motion and formation stuff. I'm pretty sure Jim spelled the beans on what Denver thought of Allen, especially on maximizing his weakness -- maybe the long ball accuracy is something Jim brought up to Allen as well.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T01:51:04.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265557-jim-leonhard-on-eric-wood-podcast/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265556-chris-simms-2026-qb-rankings-josh-1/",
+      "team": "bills",
+      "title": "Chris Simms 2026 QB Rankings - Josh #1",
+      "summary": "This might be as complimentary as Chris has ever been to Josh - and that is really saying something.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T01:43:10.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265556-chris-simms-2026-qb-rankings-josh-1/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/",
+      "team": "sabres",
+      "title": "Zach Benson, LW/C, Wenatchee (WHL), Signed ELC- 2023, 13th Overall",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T01:12:41.000Z",
+      "link": "https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/",
+      "team": "sabres",
+      "title": "General Sabres Media Info & Coverage",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T00:54:31.000Z",
+      "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44096/usa-soccercast-episode-190-recapping-the-senegal-win-but-germany-awaits",
+      "team": "usmnt",
+      "title": "USA Soccercast, Episode 190: Recapping the Senegal win, but Germany awaits",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T00:50:13.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44096/usa-soccercast-episode-190-recapping-the-senegal-win-but-germany-awaits"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188 (Draft is June 26 and 27)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-05T00:02:24.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135042/buffalo-bills-announce-promotions-within-scouting-staff",
@@ -209,17 +396,6 @@
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-draft-over-it-is-the-doldrums-of-the-offseason.3022940/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T23:11:00.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition.3030608/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
       "team": "sabres",
       "title": "Locked on Sabres Podcast",
@@ -229,17 +405,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-04T22:19:35.000Z",
       "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/",
-      "team": "sabres",
-      "title": "Zach Benson, LW/C, Wenatchee (WHL), Signed ELC- 2023, 13th Overall",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T22:16:17.000Z",
-      "link": "https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
@@ -253,17 +418,6 @@
       "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T21:12:27.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
       "team": "sabres",
       "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
@@ -273,17 +427,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-04T20:05:34.000Z",
       "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
-      "team": "sabres",
-      "title": "The 2026 Around the NHL Playoff Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T19:59:55.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
     },
     {
       "id": "espn-bills::48894110",
@@ -341,17 +484,6 @@
       "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48893158/how-usmnt-went-italia-90-embarrassment-world-cup-force-1994",
-      "team": "usmnt",
-      "title": "How the USMNT went from embarrassment in Italy to ...",
-      "summary": "A World Cup on home soil looms. The last time America hosted, things were very different.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T17:13:38.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48893158/how-usmnt-went-italia-90-embarrassment-world-cup-force-1994"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
       "team": "sabres",
       "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
@@ -361,39 +493,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-04T17:12:34.000Z",
       "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
-    },
-    {
-      "id": "espn-sabres::48966613",
-      "team": "sabres",
-      "title": "Frederik Andersen gets coach's backing as save numbers slide",
-      "summary": "The Hurricanes remain confident in goalie Frederik Andersen despite his numbers declining dramatically over the past six games.",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T16:31:41Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48966613/frederik-andersen-gets-coach-backing-save-numbers-slide"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48963013/transfer-rumors-news-real-madrid-keen-arsenals-calafiori",
-      "team": "usmnt",
-      "title": "Transfer rumors, news: Real Madrid keen on Arsenal...",
-      "summary": "Bayern Munich are eyeing a move to sign PSV and USMNT defender Sergiño Dest. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T16:13:02.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48963013/transfer-rumors-news-real-madrid-keen-arsenals-calafiori"
-    },
-    {
-      "id": "espn-sabres::48526483",
-      "team": "sabres",
-      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
-      "summary": "Here are the top players and trends to know with the Golden Knights up 1-0 on the Hurricanes.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T15:18:05Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44043/2026-world-cup-group-g-preview",
@@ -440,17 +539,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135024/have-josh-allen-led-bills-offenses-struggled-in-crunch-time"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188 (Draft is June 26 and 27)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T13:31:43.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-fifa-world-cup-why-top-contenders-usmnt-could-win-it-all/",
       "team": "usmnt",
       "title": "Who will win the 2026 FIFA World Cup? Why each of the top contenders (and the USMNT?) could win it all",
@@ -471,17 +559,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-04T11:25:47.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134996/91-buffalo-bills-players-in-91-days-guard-dametrius-weatherspoon"
-    },
-    {
-      "id": "espn-sabres::48958057",
-      "team": "sabres",
-      "title": "Hurricanes seek more scoring from top line in Stanley Cup Final",
-      "summary": "The Hurricanes acknowledged they need more scoring production out of their top line in order to win the Stanley Cup.",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T10:20:24Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48958057/hurricanes-seek-more-scoring-top-line-stanley-cup-final"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265551-throwback-thursday-1973-buffalo-bills-season-highlights/",
@@ -559,28 +636,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-03T20:42:05.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135003/deone-walker-scared-for-what-ed-oliver-can-do-to-opponents-in-jim-leonhards-scheme"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265546-deone-walker-interview-from-ota/",
-      "team": "bills",
-      "title": "Deone Walker Interview from OTA",
-      "summary": "Not much changed from what I recall how he talked last year and the Eric Wood podcast earlier this year. But I do feel the young man's confidence, compared to the other guys interviews (Sanders, Jackson, etc.). I think he knew he can play in NFL. What I want to see is how good he can be. Hopefully his ceiling is higher than Jordan Philips who a lot of people compare him to.\n\n\n\n\t \n\n\n\n\tOne interesting tidbit is he mentioned Leonhard wants to rotate guys including positions (1, 3, 4i) so an offensive lineman doesn't always face the same guy. I'm not sure I buy that. There are about 60-70 defensive snaps to be played in a game and the rotation of 6 guys can only do so much. You have to have different technique against the same offensive lineman.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T20:31:57.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265546-deone-walker-interview-from-ota/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/",
-      "team": "sabres",
-      "title": "General Sabres Media Info & Coverage",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T20:20:28.000Z",
-      "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265545-add-a-good-not-great-player-to-our-current-squad/",
@@ -704,15 +759,15 @@
       "link": "https://www.cbssports.com/soccer/news/why-mauricio-pochettinos-fluid-tactics-are-unlocking-a-dangerous-usmnt-attack-after-a-brutal-learning-curve/"
     },
     {
-      "id": "espn-sabres::44686270",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/for-j-p-dumont-jay-mckee-and-other-members-of-2005-06-sabres-sting-of-game-7-loss-to-hurricanes-remains/",
       "team": "sabres",
-      "title": "Stanley Cup odds: Golden Knights the favorite after Game 1 win against Hurricanes",
-      "summary": "The Stanley Cup Final is set, with the Carolina Hurricanes entering as favorites over the Vegas Golden Knights.",
-      "source": "ESPN · Doug Greenberg",
-      "sourceType": "league",
+      "title": "For J.P. Dumont, Jay McKee and other members of 2005-06 Sabres, sting of Game 7 loss to Hurricanes remains",
+      "summary": "To a man, every member of the team walked out of HSBC Arena that night 20 years ago believing the Buffalo Sabres would win Game 7 and earn a trip to the Stanley Cup final.\nWhy wouldn’t players be confident? A tight-knit group that started the season with little or no expectations had come this far, taking the post-lockout NHL by storm.\nWhen the Sabres began losing defensemen at a startling rate – three were ... Read the full article \nThe post For J.P. Dumont, Jay McKee and other members of 2005-06 Sabres, sting of Game 7 loss to Hurricanes remains first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-03T16:40:47Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
+      "publishedAt": "2026-06-03T16:51:47.000Z",
+      "link": "https://www.buffalohockeybeat.com/for-j-p-dumont-jay-mckee-and-other-members-of-2005-06-sabres-sting-of-game-7-loss-to-hurricanes-remains/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/betting/news/world-cup-2026-odds-futures-mexico-aiming-to-restore-its-soccer-standing-with-deep-tournament-run/",
@@ -757,6 +812,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-03T15:38:08.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265541-tbdahot-rollcall/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/jon-cooper-beats-out-sabres-lindy-ruff-and-dan-muse-for-jack-adams-award/",
+      "team": "sabres",
+      "title": "Jon Cooper beats out Sabres’ Lindy Ruff and Dan Muse for Jack Adams Award",
+      "summary": "The Tampa Bay Lightning’s Jon Cooper on Wednesday won the Jack Adams Award as the NHL’s coach of the year, beating out the Buffalo Sabres’ Lindy Ruff and the Pittsburgh Penguins’ Dan Muse.\nCooper, the NHL’s longest-tenured coach, had never won the award. He has led the Lightning to two Stanley Cup championships and two other appearances in the final.\nWith some of his top players absent throughout this season, Cooper, 58, led the Lightning ... Read the full article \nThe post Jon Cooper beats out Sabres’ Lindy Ruff and Dan Muse for Jack Adams Award first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-03T15:37:21.000Z",
+      "link": "https://www.buffalohockeybeat.com/jon-cooper-beats-out-sabres-lindy-ruff-and-dan-muse-for-jack-adams-award/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-earn-heartsafe-workplace-designation",
@@ -814,28 +880,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134906/plays-that-defined-2025-bills-at-jets-week-2"
     },
     {
-      "id": "espn-sabres::45166374",
-      "team": "sabres",
-      "title": "Stanley Cup history: NHL player and team records and stats",
-      "summary": "The Vegas Golden Knights and Carolina Hurricanes face off in the 2026 Stanley Cup Final. Check out NHL championship records and stats now.",
-      "source": "ESPN · Keith Jenkins",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T13:23:25Z",
-      "link": "https://www.espn.com/nhl/story/_/id/45166374/stanley-cup-history-nhl-player-team-records-stats"
-    },
-    {
-      "id": "espn-sabres::47557835",
-      "team": "sabres",
-      "title": "Who has won a Stanley Cup, Olympic gold in the same year?",
-      "summary": "Winning Olympic gold and the Stanley Cup in one year remains one of hockey's rarest feats. Check out who has achieved the honor now.",
-      "source": "ESPN · Keith Jenkins",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T13:21:56Z",
-      "link": "https://www.espn.com/nhl/story/_/id/47557835/what-nhl-players-won-olympic-gold-medal-hockey-stanley-cup"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/",
       "team": "sabres",
       "title": "Sabres Prospects Video Blog, Baker's Bunker, Baker-Fairburn",
@@ -867,6 +911,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-03T06:02:54Z",
       "link": "https://www.espn.com/video/clip/_/id/48953988/dawson-knox-speaks-staying-bills"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-finishes-third-in-norris-trophy-voting/",
+      "team": "sabres",
+      "title": "Sabres captain Rasmus Dahlin finishes third in Norris Trophy voting",
+      "summary": "Buffalo Sabres defenseman Rasmus Dahlin placed third in the Norris Trophy voting, the NHL announced Tuesday, tying him for the highest finish in franchise history with Jim Schoenfeld in 1979-80.\nColumbus Blue Jackets defenseman Zach Werenski won the award for the first time, earning 1,589 points and 113 first-place votes. Colorado Avalanche defenseman Cale Makar finished second, registering 1,191 points and 47 first-place votes.\nDahlin received 657 points and 13 first-place votes.\n\nThe Norris Trophy ... Read the full article \nThe post Sabres captain Rasmus Dahlin finishes third in Norris Trophy voting first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-03T05:54:04.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-finishes-third-in-norris-trophy-voting/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265538-drake-london-gets-paid/",
@@ -935,17 +990,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265533-otas-62/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265532-out-of-state-season-ticket-holders/",
-      "team": "bills",
-      "title": "Out of State Season Ticket Holders",
-      "summary": "How many games do you go to a year? I’m looking at the schedule and possibly only going to make 4 (and my yearly pilgrimage to Miami). The home Dolphins game is killing me because it’s so close to the Chiefs game. 😫",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-02T14:50:00.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265532-out-of-state-season-ticket-holders/"
-    },
-    {
       "id": "espn-bills::47809892",
       "team": "bills",
       "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
@@ -955,17 +999,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-02T14:40:43Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48931409/usmnt-builds-world-cup-momentum-beating-senegal-questions-remain",
-      "team": "usmnt",
-      "title": "USMNT builds World Cup momentum by beating Senegal...",
-      "summary": "Mauricio Pochettino's plans for this team are beginning to come into clearer focus.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-02T14:12:03.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48931409/usmnt-builds-world-cup-momentum-beating-senegal-questions-remain"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43819/the-usmnt-have-a-chance-to-inspire-a-nation-at-the-world-cup",
@@ -979,15 +1012,26 @@
       "link": "https://www.starsandstripesfc.com/usmnt/43819/the-usmnt-have-a-chance-to-inspire-a-nation-at-the-world-cup"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/43763/2026-world-cup-group-d-preview-usmnt-embarks-on-historic-journey",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/43997/2026-world-cup-group-e-preview",
       "team": "usmnt",
-      "title": "2026 World Cup Group D preview: USMNT embarks on historic journey",
+      "title": "2026 World Cup: Group E Preview",
       "summary": "",
       "source": "Stars and Stripes FC",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-02T13:33:14.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/43763/2026-world-cup-group-d-preview-usmnt-embarks-on-historic-journey"
+      "publishedAt": "2026-06-02T13:30:54.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/43997/2026-world-cup-group-e-preview"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-give-up-rights-to-three-unsigned-draft-picks/",
+      "team": "sabres",
+      "title": "Sabres give up rights to three unsigned draft picks",
+      "summary": "Goalie Ryerson Leenders, a prospect the Buffalo Sabres selected in the seventh round in 2024, can re-enter the NHL Draft later this month, according to Puckpedia.com.\nAs an unsigned 2024 draftee who played in the Canadian Hockey League through age 20 and has no college commitment, Leenders, the 219th overall pick, became eligible for the 2026 draft on Monday, according to Puckpedia.com.\nLeenders has spent the past four seasons playing junior in the Ontario ... Read the full article \nThe post Sabres give up rights to three unsigned draft picks first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-02T02:27:32.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-give-up-rights-to-three-unsigned-draft-picks/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265529-aj-brown-to-pats-for-2028-1st-2027-5th/",
@@ -1045,6 +1089,17 @@
       "link": "https://www.cbssports.com/soccer/news/christian-pulisic-breakthrough-usmnt-goal-scoring-performance-into-the-world-cup/"
     },
     {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/2025-26-stanley-cup-final-open-thread-vegas-golden-knights-carolina-hurricanes-schedule/",
+      "team": "sabres",
+      "title": "2025-26 Stanley Cup Final Open Thread",
+      "summary": "The Buffalo Sabres return to the postseason didn’t go all the way to the Stanley Cup Finals like so many of us had hoped it would. \n\n\n\nInstead we have an expected and heavily favored Eastern Conference champions Carolina Hurricanes who have breezed through with a 12-1 record taking on a surprise quantity Vegas Golden Knights who got hot at the right time and then knocked out the overwhelming favorite and Presidents Trophy winners Colorado Avalanche in a sweep. \n\n\n\nSabres fans have reason to dislike both teams and I won’t judge you for assuming hockey season is over. \n\n\n\n2026 Stanley Cup Final schedule\n\n\n\nGame 1: Vegas at Carolina, 8 p.m. ET, Tuesday, June 2 (ABC, SN, CBC, TVAS)\n\n\n\nGame 2: Vegas at Carolina, 8 p.m. ET, Thursday, June 4 (ABC, SN, CBC, TVAS)\n\n\n\nGame 3: Carolina at Vegas, 8 p.m. ET, Saturday, June 6 (ABC, SN, CBC, TVAS)\n\n\n\nGame 4: Carolina at Vegas, 8 p.m. ET, Tuesday, June 9 (ABC, SN, CBC, TVAS)\n\n\n\n*Game 5: Vegas at Carolina, 8 p.m. ET, Thursday, June 11 (ABC, SN, CBC, TVAS)\n\n\n\n*Game 6: Carolina at Vegas, 8 p.m. ET, Sunday, June 14 (ABC, SN, CBC, TVAS)\n\n\n\n*Game 7: Vegas at Carolina, 8 p.m. ET, Wednesday, June 17 (ABC, SN, CBC, TVAS)\n\n\n\n* – If necessary",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-01T14:21:57.000Z",
+      "link": "https://www.diebytheblade.com/2025-26-stanley-cup-final-open-thread-vegas-golden-knights-carolina-hurricanes-schedule/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/how-mauricio-pochettinos-usmnt-vision-was-on-display-world-cup-prep/",
       "team": "usmnt",
       "title": "How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep",
@@ -1065,6 +1120,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-01T13:00:00.000Z",
       "link": "https://www.buffalobills.com/news/pride-month-2026-how-to-support-pride-in-western-new-york"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/letter-grades-for-the-players-2025-26-season-part-2-of-2/",
+      "team": "sabres",
+      "title": "Letter Grades for the Players, 2025-26 Season – Part 2 of 2",
+      "summary": "After Great Team Success, How Do the Sabres Break Down Individually?\n\n\n\nToday we take a look at the individual performances of each player and assign a letter grade accordingly. Each Sabre graded must meet the 20 games played with Buffalo minimum. So no Konsta Helenius or Sam Carrick and several others. These grades are for the regular season only, not playoffs. We will split the eligible players into two randomly listed sections. This is part 2 of 2.\n\n\n\n\nJosh Doan (82-25-27-52 -4) Grade A\n\n\n\n\nOf the many pleasant surprises this season, Josh Doan’s performance stands out. He went from the other player acquired for Peterka to a vital cog in the Sabres’ offensive machine. He set career highs in games played, goals, assists, and points. His relentless forechecking and continuous motor made him a favorite in the locker room and throughout the fanbase.\n\n\n\n\nAlex Tuch (79-33-33-66 +24) Grade B+\n\n\n\n\nThe pending UFA had another quality season for Buffalo. Tuch was effective in all situations and notched his third 30+ goal season in his last four. His 66 points were second among Sabre forwards and is rightfully due for a significant raise. If this was his last season in Buffalo, he was a big reason this team ended the draught though his consistent high-end production.\n\n\n\n\nMattias Samuelsson (78-13-28-41 +41) Grade A+\n\n\n\n\nTalk about a complete 180. Last season, many (including myself) were calling for Samuelsson’s contract to be bought out. His response was to set career highs in just about every statistical category and become one of the best defensive defensemen in the league. He’s shown he belongs on the top pair with Dahlin and should be a fixture there for years to come.\n\n\n\n\nPeyton Krebs (82-12-27-39 +13) Grade B\n\n\n\n\nKrebs has turned into a quality utility man for Buffalo. He played primarily on either the 1st or 4th lines and found success in both roles. In particular, his ability to play well enough with Thompson/Tuch on the first line allowed Buffalo to maintain balanced lines despite injuries to some of their better forwards. Long term, Krebs probably fits best as a bottom 6 forward who can move up in a pinch.  \n\n\n\n\nJosh Norris (44-13-21-34 +11) Grade C+\n\n\n\n\nAnother injury plagued season limited Norris’ impact. At the top of his game, he provides high end speed and skill. However, his lack of availability is a real concern. He has the talent to be a game-changer on a nightly basis, but this season left fans underwhelmed. Hopefully, he can stay healthy long enough to make his mark in the league.\n\n\n\n\nNoah Ostlund (60-11-16-27 +11) Grade A\n\n\n\n\nOstlund earned a full-time role in Buffalo this season and is clearly one of Lindy Ruff’s favorite players. He elevates his linemates and possesses elite playmaking abilities. Beyond his on-ice impact, his unceremonious demotion to Rochester in December seemed to be the straw that broke the camel’s back for Kevyn Adams’ tenure as GM which completely changed the season’s trajectory. Ostlund has staked his claim as a key young player on the roster with tremendous potential for growth.\n\n\n\n\nConor Timmins (39-0-8-8 -8) Grade C\n\n\n\n\nTimmins’ season had a good start before his season was derailed by a broken leg in December. He was able to return a few weeks before the playoffs and continued to contribute, particularly on the penalty kill. He’s effective as a bottom pair defenseman but understandably lost some of his effectiveness post-injury. All-in-all, he met expectations considering his significant injury.\n\n\n\n\nTage Thompson (81-40-41-81 -6) Grade A\n\n\n\n\nThompson had another great season. He led the Sabres in points for the 4th time in 5 years and notched his 3rd 40 goal season in his last 4. He was an offensive force on a nightly basis and seemed to benefit from his move back to center. He had two separate 6 game goal streaks. He’s been the Sabres’ top forward for years and this season was no exception.\n\n\n\n\nTyson Kozak (46-2-4-6 -1) Grade C-\n\n\n\n\nAfter splitting last season between Rochester and Buffalo, Kozak stayed on the NHL roster for the entire season. Injuries hampered what could have been a season he claimed the 4th line center role for himself. Instead, Sam Carrick was acquired at the trade deadline to upgrade the position. This leaves Kozak on the outside looking in without injuries to lineup regulars. When he plays, he shows tremendous speed and is defensively reliable. Unless something changes, his future in Buffalo looks to be a rotational depth forward.\n\n\n\n\nJosh Dunne (34-1-3-4 -7) Grade C\n\n\n\n\nWhen Josh Dunne was signed, most thought he would primarily play in Rochester. Due to injuries, he remained in Buffalo nearly the whole season. He played relatively well on the 4th line but his limitations became more pronounced against faster opponents. He struggled against teams like Montreal and Tampa Bay when the game speed cranked up a notch. He’s a good player to have as injury insurance but lacks effectiveness against top competition.\n\n\n\n\nUkko-Pekka Luukkonen (35 GP 22-9-3, 2.52 GAA .910 SV%, 1 SO) Grade B\n\n\n\n\nUPL had a bounce back season and seemed to benefit from the season-long goaltending rotation. Although he played the least number of games for Buffalo since the 2022-2023 season, he posted a career best GAA and tied his career best save percentage. Consistency has gotten better but continues to be his Achillies heel. He provides the best upside for the current Sabre goalies but the valleys in his game can be tough to watch.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-01T13:00:00.000Z",
+      "link": "https://www.diebytheblade.com/letter-grades-for-the-players-2025-26-season-part-2-of-2/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/watch-sabres-konsta-helenius-finishes-year-by-scoring-golden-goal-for-finland/",
+      "team": "sabres",
+      "title": "Watch: Sabres’ Konsta Helenius finishes year by scoring golden goal for Finland",
+      "summary": "Buffalo Sabres center Konsta Helenius on Sunday capped a breakout season by scoring the golden goal in overtime to clinch the World Championship for Team Finland.\nHelenius, who joined the tournament shortly after the Montreal Canadiens eliminated the Sabres from the Stanley Cup Playoffs, scored 10:42 into the first overtime to give his country a 1-0 win over host Switzerland.\nAfter Helenius, 20, carried the puck from the left corner into the right circle and ... Read the full article \nThe post Watch: Sabres’ Konsta Helenius finishes year by scoring golden goal for Finland first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-01T05:39:41.000Z",
+      "link": "https://www.buffalohockeybeat.com/watch-sabres-konsta-helenius-finishes-year-by-scoring-golden-goal-for-finland/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/",
@@ -1100,6 +1177,39 @@
       "link": "https://www.cbssports.com/soccer/news/chris-richards-to-miss-usmnts-pre-world-cup-friendly-vs-senegal-with-ankle-injury/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/by-scoring-and-agitating-in-postseason-sabres-zach-benson-grabbed-attention-of-nhl-a-true-core-piece/",
+      "team": "sabres",
+      "title": "By scoring and agitating in postseason, Sabres’ Zach Benson grabbed attention of NHL: ‘A true core piece’",
+      "summary": "BUFFALO – Long before he gave the Boston Bruins and Montreal Canadiens fits in the Stanley Cup Playoffs, Zach Benson’s high-octane game rankled opponents.\nThe diminutive winger’s ultra-aggressive style helped him crack the NHL at just 18 and later establish himself as one of the Sabres’ most valuable forwards.\n“I’ve kind of played like this forever,” Benson said last week in KeyBank Center. “I’ve kind of always played with that edge.”\n\nBenson, however, had never ... Read the full article \nThe post By scoring and agitating in postseason, Sabres’ Zach Benson grabbed attention of NHL: ‘A true core piece’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-30T05:01:47.000Z",
+      "link": "https://www.buffalohockeybeat.com/by-scoring-and-agitating-in-postseason-sabres-zach-benson-grabbed-attention-of-nhl-a-true-core-piece/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/2026-nhl-entry-draft-t-mcgees-seven-round-mock/",
+      "team": "sabres",
+      "title": "2026 NHL Entry Draft – T McGee’s Seven Round Mock",
+      "summary": "We’re under a month away from the 2026 NHL Entry Draft, and it’s time to take a peek at some of the players that could fall to the Buffalo Sabres.Here’s a bumper seven-rounder from T McGee for your weekend reading.  \n\n\n\nDBTB – \n\n\n\nA Seven Round Mock Draft?  In this economy?  Actually, I can’t stand that line, so let’s just say it was originally a Five Rounder but with inflation, it’s now Seven.  Not that anyone noticed.  No, all people want to talk about is the Sabres breaking the playoff drought…the Sabres winning a playoff series…almost winning a second one?  Losing in OT in Game 7?  That sounds about right.\n\n\n\nDoesn’t anyone care about the children? \n\n\n\nSeriously though, I appreciate that maybe, maybe, the days of worrying for weeks and months about who the Sabres will draft is past.  As fans, we have bigger fish to fry.  And honestly, I loved every second of the playoff run.  But I, even in the thick of the Montreal series, still followed this Draft class, looking for diamonds in the rough.  Although I’ll be the first to admit, I’m not used to the Sabres drafting in the 20s…so this will take some getting used to!  Nevertheless, I hope some of you will find this snapshot of who might be around there and what the Sabres might do when their name is called to be useful.  \n\n\n\nInterestingly, with Jarmo Kekkalainen in the GM’s seat, we don’t really know how he will approach the Draft.  Sure, we have several years from his tenure in Columbus, but most of his scouting staff is different in BFLO.  Jerry Forton is still at Harborcenter, masterminding the prospect analysis.  And the game is different even from just a few years ago.  We won’t know what Jarmo might do until they announce that the Sabres are on the clock.  What we do know is that he isn’t afraid of making an unorthodox move, or draft choice.  He’s got a bit of a history of doing just that.  It doesn’t go away just because a new team signs your paycheck.    \n\n\n\nThe one thing I think BFLO needs to look at is a high-skill, high-offensive output kind of player.  We know the pipeline is heavy with defensive D-Men (Strbak, Geary, Kleber, Mrtka, Novikov, and Bedkowski) and goalies (Ratzlaff, Levi, Prokhorov, Meloche, and Leenders).  But up front, most of their high-skill guys have graduated (Benson, Ostlund, Kulich) or are in the process of doing so (Helenius, Wahlberg).  Yeah, they have Brodie Ziemer coming but otherwise, right now, they’ve got some late-round surprises and some scrappy candidates who if they’re lucky will contend for a spot in the bottom six.  They need a new guy(s) who can play that high-octane game and who have the upside to score 20 goals (or more!) for them.  I’d also look for some defensively advanced, 2-way forwards that could slot in to the bottom 6, as many successful teams who’ve got their Top 6 locked in are looking for those 3rd and 4th liners as raw, young talent on cheap ELC contracts to relieve the Cap pressure (think Florida with guys like Samoskevich and Vilmanis, and going back away, Lundell).  The Sabres current prospect pool is heavily weighted toward Defense and Goal, so I would not prioritize those positions in this year’s Draft.  They need to reload on creative offensive forwards.        \n\n\n\nSpeaking of their young prospects, changes are afoot.  We’ve already seen Gavin McCarthy and Max Strbak, two promising young D-Men, end their collegiate careers and sign with Rochester.  There could be more coming this Summer…the aforementioned Brodie Ziemer missed the Frozen Four and had his coach receive a pink slip.  Jake Richard, Stivan Sardaryan, and Luke Osburn could also join the Amerks.  And Helenius, Komarov, Levi, Ratzlaff, and Wahlberg need all the help they can get!   \n\n\n\nMeanwhile, Prokhor Poltapov, over in the KHL, has 6P in 10 playoff games for CKSA Moskva, a pretty impressive performance to finish 3rd on the team.  Fast-skating D-Man Noah Laberge has 13P in 12 playoff games for Newfoundland as he continues his breakout season.  Melvin Novotny just keeps piling up numbers for Muskegon in his first season in North America with 14P in 15 playoff games.  He’s facing off in the Clark Cup Final against Sioux City, the team of fellow Sabre draft pick Ashton Schultz.  Unfortunately, his season ended with 6P in 6 games before an injury derailed the rest of his playoff journey.  Meanwhile in the WHL, Radim Mrtka managed 3P in 5 games before being eliminated, then jumped right into the line-up in Rochester where he helped the Amerks take things to 5 games before they, too, were eliminated.  \n\n\n\nIn net big Sammy Meloche took the Huskies of Rouyn-Noranda to the QMJHL finals, finishing with a 2.52 GAA and .905 SV%…and in the OHL, Ryerson Leenders dazzled, doing all he could to prevent Jay McKee’s Brantford team getting upset, with a 2.41 GAA and .906 SV%.  But it was Russian tendy Yevgeni Prokhorov who impressed the most, continuing his outstanding season with a ridiculous 1.92 GAA and a .938 SV% in the MHL playoffs.  Last but not least, forgotten Swedish forward Joel Ratkovic has 14P in 13 games for his Karlskrona club in Swedish Allsvenskan/Ettan.  \n\n\n\nAs far as the Draft itself, it will take place in BFLO this year at the end of June!  So that’s pretty cool.  The Combine is due to begin next week (also in BFLO), so be on the lookout for that.  \n\n\n\nGavin McKenna has, in many ways, retaken his top spot on the Big Board.  His second half was sensational, with 33P in 18 games, he looked more confident and more involved off the puck.  That doesn’t mean Ivar Stenberg is a consolation prize.  He simply plays a different, more complete game than McKenna.  It would not shock me in the least if he went first off the Board to the Leafs.  They’ve got plenty of offense.  Adding a responsible forward with some elite skill wouldn’t be a bad choice.  Defensemen rule the Top Ten, but I think as high as #8 things start to get interesting where team needs start to take precedence over who is ranked higher.  Players like Viggo Bjorck, the Ruck Twins (Liam and Marcus), and dynamic center Wyatt Cullen have made first-round cases, while some players are sliding a bit this late in the year.  Guys like Mathis Preston, Ryan Roobroeck, Ty Lawrence and Luke Schairer have slid in my estimation…some out of the first round entirely, and perhaps even further.  \n\n\n\nJust a reminder: the Sabres only have a scant 4 selections in this year’s Draft.  They haven’t been in that neighborhood since Kevyn Adams’ first year as GM, when he drafted Jack Quinn and JJ Peterka with his top 2 picks.  BFLO moved their 2nd in the Cozens – Norris trade, their 3rd and 6th in the Sam Carrick deal, and a 4th in the Stanley/Schenn trade.  They also used their 7th in the Tanner Pearson deal, I believe.  Anyways, I suppose if they move Tuch, Krebs or Byram they could recoup some or all of those picks, but as of right now, let’s mostly just stay with what they’ve got.  Yes, I cheated a bit…in the interest of getting another pick, I had the Sabres make a deal with Calgary to trade back.  For the sake of argument let’s say there was a player on the Board that the Flames really wanted, and BFLO needed more picks.  Voila!  \n\n\n\nTRADE:  BUF #27 -> CAL #34, #55  \n\n\n\nDec 8, 2025; Calgary, Alberta, CAN; Calgary Flames and Buffalo Sabres players get into a scrum during the third period at Scotiabank Saddledome. Mandatory Credit: Sergei Belski-Imagn Images\n\n\n\nBesides getting the Memorial Cup underway (Chicoutimi, Kitchener, host city Kelowna, and Everett battling it out!) and the USHL engaged in the Clark Cup Final, most league playoffs are wrapped up.  Now it’s on to the Combine and then teams will be putting together their final Big Boards leading up to the big day at the end of June.  You’ll be seeing one more, final Mock Draft and a final Big Board from me before Day One arrives.  \n\n\n\nPS:  Players marked with ** = an over-ager, that is, a player who was not drafted in their first year of eligibility.  They can be one, two or three years over-age, but (unless the CBA has changed) once you get to four years past your original draft year, you become a UDFA.      \n\n\n\nROUND ONE: \n\n\n\n1#1:  TORONTO:  Gavin McKenna, 6’0 C/LW, NCAA \n\n\n\n1#2:  SAN JOSE: Chase Reid, 6’2 RHD, OHL  \n\n\n\n1#3:  VANCOUVER: Alberts Smits, 6’3 LHD, FIN \n\n\n\n1#4:  CHICAGO:  Ivar Stenberg, 6’0 W, SWE \n\n\n\n1#5:  NY RANGERS: Caleb Malhotra, 6’0 C, OHL \n\n\n\n1#6:  CALGARY:  Keaton Verhoeff, 6’5 RHD, NCAA\n\n\n\n1#7:  SEATTLE: Viggo Bjorck, 5’10 C/W, SWE\n\n\n\n1#8:  WINNIPEG:  Carson Carels, 6’1 LHD, WHL\n\n\n\n1#9:  FLORIDA: Daxon Rudolph, 6’1 RHD, WHL \n\n\n\n1#10:  NASHVILLE: Alex Command, 6’1 C, SWE\n\n\n\n1#11:  ST LOUIS:  Ty Lawrence, 6’0 C, NCAA\n\n\n\n1#12:  NEW JERSEY: Oscar Hemming, 6’4 LW, NCAA  \n\n\n\n1#13:  NY ISLANDERS: Malte Gustafsson, 6’4 LHD, SWE \n\n\n\n1#14:  COLUMBUS: Wyatt Cullen, 6’1 C/LW, US NTDP \n\n\n\n1#15:  ST LOUIS (DETROIT):  Ethan Belchetz, 6’5 LW, OHL\n\n\n\n1#16:  WASHINGTON: Nikita Klepov, 6’0 W, OHL \n\n\n\n1#17:  LA KINGS: Mathis Preston, 5’11 C/LW, WHL \n\n\n\n1#18:  WASHINGTON (ANAHEIM):  Ryan Lin, 5’11 RHD, WHL \n\n\n\n1#19:  UTAH: Marcus Ruck, 6’0 C, WHL\n\n\n\n1#20:  SAN JOSE (EDMONTON):  Oliver Suvanto, 6’3 C/W, FIN \n\n\n\n1#21:  PHILADELPHIA: Adam Novotny, 6’1 W, OHL  \n\n\n\n1#22:  PITTSBURGH: Xavier Villaneueve, 5’11 LHD, QMJHL\n\n\n\n1#23:  BOSTON: Ilia Morozov, 6’3 RW, NCAA \n\n\n\n1#24:  VANCOUVER (MINNESOTA): Liam Ruck, 5’11 W, WHL\n\n\n\n1#25:  MONTREAL: Maddox Dagenais, 6’4 C, QMJHL\n\n\n\n1#26:  SEATTLE (TAMPA BAY): Will Hakansson, 6’4 LHD, SWE \n\n\n\n1#27:  CALGARY (BUFFALO): Elton Hermansson, 6’1 W, SWE   \n\n\n\n1#28:  NY RANGERS (DALLAS):  JP Hurlbert, 6’0 W, WHL\n\n\n\n1#29:  CALGARY (VEGAS): Brooks Rogowski, 6’6 C/W, OHL \n\n\n\n1#30:  CAROLINA:  Adam Valentini, 5’11 W, NCAA \n\n\n\n1#31:  ST. LOUIS (NY ISLANDERS/COLORADO): Adam Goljer, 6’3 RHD, SVK \n\n\n\n1#32:  OTTAWA:  Blake Zielinski, 6’1 C, USHL\n\n\n\nROUND TWO:  \n\n\n\n2#1:  VANCOUVER: Tomas Chrenko, 5’11 C, SVK \n\n\n\n2#2:  CHICAGO:  Ben MacBeath, 6’2 LHD, WHL\n\n\n\n2#3:  CALGARY: Jakub Vanacek, 6’2 LHD, WHL\n\n\n\n2#4:  BUFFALO (CALGARY/NASHVILLE/NY RANGERS): Jack Hextall, 6’0 C, USHL  \n\n\n\n2#5:  CHICAGO (TORONTO):  Casey Mutryn, 6’3 C, US NTDP\n\n\n\n2#6:  SEATTLE: Tommy Bleyl, 6’0 RHD, QMJHL \n\n\n\n2#7:  PITTSBURGH (WINNIPEG): Juho Piiparainen, 6’3 RHD, FIN\n\n\n\n2#8:  FLORIDA: Simas Ignatavicius, 6’4 C/W, SWISS \n\n\n\n2#9:  SAN JOSE: Marcus Nordmark, 6’2 RW, SWE \n\n\n\n2#10:  NASHVILLE: Nikita Shcherbakov 6’5 LHD, RUS\n\n\n\n2#11:  COLUMBUS (PITTSBURGH/ST LOUIS): Niklas Aaram-Olsen, 6’1 W, SWE\n\n\n\n2#12:  NEW JERSEY: Luke Schairer, 6’2 RHD, US NTDP \n\n\n\n2#13:  CHICAGO (NY ISLANDERS): Lavr Gashilov, 6’2 C, RUS \n\n\n\n2#14:  LA KINGS (MONTREAL/COLUMBUS): Pierce Mbuyi, 5’11 LW, OHL\n\n\n\n2#15:  DETROIT:  Jaxon Cover, 6’2 LW, OHL \n\n\n\n2#16:  FLORIDA (WASHINGTON): Giorgos Pantelas, 6’2 RHD, WHL\n\n\n\n2#17:  LA KINGS: Yegor Shilov, 6’1 C, QMJHL\n\n\n\n2#18:  ANAHEIM: Chase Herrington, 6’1 LW, WHL\n\n\n\n2#19:  UTAH: Adam Nemec, 6’1 W, OHL \n\n\n\n2#20:  EDMONTON: Samu Alalauri, 6’2 RHD, FIN\n\n\n\n2#21:  PHILADELPHIA: Slava Fedoseyev, 6’1 RHD, RUS \n\n\n\n2#22:  PITTSBURGH: Ryder Cali, 6’2 C, OHL\n\n\n\n2#23:  CALGARY (UTAH/OTTAWA): Ryan Roobroeck, 6’4 C, OHL \n\n\n\n2#24:  BOSTON: Beckham Edwards, 6’1 C, OHL\n\n\n\n2#25:  NASHVILLE (MINNESOTA): Verrti Svensk, 6’1 LHD, FIN\n\n\n\n2#26:  TAMPA BAY: Alex Di Iorio, 6’1 C, OHL \n\n\n\n2#27:  BUFFALO (CALGARY/LAK/OTTAWA/BUFFALO): Gleb Pugachyov, 6’3 LW, RUS\n\n\n\n2#28:  DALLAS:  Victor Plante, 5’9 W, US NTDP \n\n\n\n2#29:  MONTREAL: Lucien Bernat, 6’4 RW, FIN\n\n\n\n2#30:  VEGAS: FORFEITED\n\n\n\n2#31:  NY RANGERS (CAROLINA): Jonah Sivertston, 6’3 RW, WHL \n\n\n\n2#32:  SAN JOSE (COLORADO):  Alex Bilecki, 6’2 LHD, OHL \n\n\n\nROUND THREE: \n\n\n\n3#1:  CALGARY (VANCOUVER): Tobias Trebjal, 6’4 G, USHL\n\n\n\n3#2:  CHICAGO:  Landon Amrheim, 6’5 RW, WHL \n\n\n\n3#3:  NY RANGERS: Landon Nycz, 6’2 LHD, NCAA  \n\n\n\n3#4:  CALGARY:  Mans Gudmansson, 6’2 RHD, SWE \n\n\n\n3#5:  TORONTO: Axel Elofsson, 5’11 RHD, SWE \n\n\n\n3#6:  NASHVILLE (DALLAS/SEATTLE): Tyus Sparks, 6’0 W, WHL \n\n\n\n3#7:  WINNIPEG:  Evan Jardine, 6’0 W, USHL \n\n\n\n3#8:  OTTAWA (FLORIDA): Ben Cossette-Ayotte, 6’1 RHD, QMJHL\n\n\n\n3#9:  ST LOUIS (PITTSBURGH/SAN JOSE): Dimitri Borichev, 6’3 G, RUS\n\n\n\n3#10:  NASHVILLE: Colin Fitzgerald, 6’2 C, OHL\n\n\n\n3#11:  ST LOUIS: Adam Andersson, 6’4 C, SWE \n\n\n\n3#12:  ST LOUIS (NEW JERSEY): Charlie Morrison, 6’3 LHD, QMJHL \n\n\n\n3#13:  NY RANGERS (ISLANDERS): Jakub Floris, 6’3 RHD, FIN \n\n\n\n3#14:  VANCOUVER (COLUMBUS):  Vlad Dravecky 6’1 RHD, OHL\n\n\n\n3#15:  DETROIT:  Max Sokolovsky, 6’8 LHD, OHL \n\n\n\n3#16:  LA KINGS (WASHINGTON): Samuel Eriksson, 6’5 LHD, SWE\n\n\n\n3#17:  NY RANGERS (LA KINGS):  Viktor Fyodorov, 6’0 C, RUS \n\n\n\n3#18:  ANAHEIM:  Jonas Lagerberg-Hoen, 6’2 RW, SWE \n\n\n\n3#19:  UTAH: Ethan MacKenzie, 6’1 LHD, WHL **\n\n\n\n3#20:  EDMONTON: Filip Novak, 6’1 RW, CZE\n\n\n\n3#21:  PHILADELPHIA: Thomas Vandenberg, 5’11 C, OHL\n\n\n\n3#22:  PITTSBURGH: Egor Barabanov, 6’0 C/W, OHL ** \n\n\n\n3#23:  OTTAWA: Jakub Frolo, 6’1 RW, CZE \n\n\n\n3#24:  BOSTON: Theodore Knights, 6’4 LHD, SWE \n\n\n\n3#25:  MINNESOTA: Lars Steiner, 5’10 RW, QMJHL \n\n\n\n3#26:  TAMPA BAY:  Lincoln Kuehne, 6’2 RHD, NCAA \n\n\n\n3#27:  NY RANGERS (BUFFALO): Miles Brosnan, 6’2 RHD, US HS\n\n\n\n3#28:  OTTAWA (LA KINGS/DALLAS): Nikita Ovcharov, 6’2 RW, RUS\n\n\n\n3#29:  VEGAS: Oscar Holmertz, 6’0 C, SWE\n\n\n\n3#30:  MONTREAL: Cooper Williams, 6’0 W, WHL  \n\n\n\n3#31:  UTAH (CAROLINA): Joby Baumuller, 5’11 RW, WHL **\n\n\n\n3#32:  COLUMBUS (COLORADO): Cole Zurawski, 6’0 RW, OHL \n\n\n\nROUND FOUR: \n\n\n\n4#1:  VANCOUVER: Vilho Vanhatalo, 6’3 W, FIN \n\n\n\n4#2:  FLORIDA (CHICAGO):  Yegor Rybkin, 6’7 G, RUS \n\n\n\n4#3:  SEATTLE (COLUMBUS/NY RANGERS): Rudolf Berzkalns, 6’4 LW, USHL\n\n\n\n4#4:  CALGARY:  Julien Maze, 5’10 F, WHL \n\n\n\n4#5:  COLUMBUS (TORONTO): Callum Croskery, 6’0 LHD, OHL\n\n\n\n4#6:  SEATTLE: Brady Knowling, 6’5 G, US NTDP \n\n\n\n4#7:  NEW JERSEY (WINNIPEG):  Mal Gastrin, 6’0 C, SWE \n\n\n\n4#8:  SAN JOSE (FLORIDA): Olivers Murnieks, 6’1 C, QMJHL \n\n\n\n4#9:  CAROLINA (SAN JOSE): Ben Willmot, 6’1 C, OHL ** \n\n\n\n4#10:  NASHVILLE: Michel Orsulak, 6’4 G, WHL ** \n\n\n\n4#11:  ST LOUIS: Wiggo Sorensen, 5’11 C, SWE \n\n\n\n4#12:  MONTREAL (NEW JERSEY):  Bennett Kelley, 6’2 RHD, WHL \n\n\n\n4#13:  NY ISLANDERS: Nils Bartholdsson, 5’11 RW, SWE \n\n\n\n4#14:  OTTAWA (DETROIT/COLUMBUS): Brayden Klimpke, 6’0 LHD, WHL \n\n\n\n4#15:  ANAHEIM (DETROIT):  Samuel Hrenak, 6’4 G, SVK ** \n\n\n\n4#16:  WASHINGTON: Landon Hafele, 6’0 W, USHL \n\n\n\n4#17:  LA KINGS: Marty Psohlavec, 6’5 G, CZE\n\n\n\n4#18:  TORONTO (SEATTLE/ANAHEIM): Beckett Hamilton, 6’0 RW, WHL  \n\n\n\n4#19:  UTAH: Xavier Wendt, 6’2 G, WHL \n\n\n\n4#20:  WINNIPEG (BUFFALO/EDMONTON):  Mike Berchild, 5’9 W, US NTDP \n\n\n\n4#21:  BOSTON (ANAHEIM/PHILADELPHIA): Simon Katolicky, 6’4 W, FIN  \n\n\n\n4#22:  NASHVILLE (PITTSBURGH): Eddy Doyle, 6’3 LHD, QMJHL \n\n\n\n4#23:  CHICAGO (OTTAWA):  Jonas Kemps, 6’6 LHD, USHL \n\n\n\n4#24:  BOSTON: Jan Larys, 6’3 G, QMJHL \n\n\n\n4#25:  MINNESOTA: Noel Pakarinen, 6’2 LW, FIN\n\n\n\n4#26:  BOSTON (TAMPA BAY):  Jacob Xu, 6’2 LHD, OHL \n\n\n\n4#27:  BUFFALO: Tim Runtso, 6’2 RHD, WHL **\n\n\n\n4#28:  NEW JERSEY (DALLAS): Ola Palme, 6’1 LHD, SWE\n\n\n\n4#29:  SAN JOSE (WASHINGTON/VEGAS):  Jan Brabanec, 6’3 W, CZE  \n\n\n\n4#30:  MONTREAL: Axel Brongel-Larsson, 6’1 LHD, SWE\n\n\n\n4#31:  COLORADO (CAROLINA): Alan Shaikhlislamov, 6’2 W, RUS\n\n\n\n4#32:  COLORADO:  Jordan Duguay, 5’11 RW, WHL   \n\n\n\nROUND FIVE: \n\n\n\n5#1:  VANCOUVER: Patrik Plumins, 6’3 G, LTV \n\n\n\n5#2:  UTAH (CHICAGO):  Sean Burick, 6’7 RHD, WHL \n\n\n\n5#3:  NY RANGERS: Jake Gustafson, 6’4 RW, WHL \n\n\n\n5#4:  CALGARY:  Kyle Heger, 6’1 LHD, WHL \n\n\n\n5#5:  TORONTO: Caelen Joudrey, 6’4 W, WHL \n\n\n\n5#6:  TAMPA BAY (SEATTLE): Alexei Vlasov, 5’9 W, QMJHL \n\n\n\n5#7:  WINNIPEG:  Filip Ruzicka, 6’8 G, WHL\n\n\n\n5#8:  FLORIDA: Joe Iginla, 5’10 W, WHL  \n\n\n\n5#9:  MINNESOTA (SAN JOSE): Slava Matyev, 6’5 LHD, RUS\n\n\n\n5#10:  NASHVILLE: Oleg Kulebyakin, 5’11 LW, QMJHL \n\n\n\n5#11:  ST LOUIS: Cole Tuminaro, 6’5 RHD, USHL** \n\n\n\n5#12:  NEW JERSEY:  Parker Trottier, 6’1 LW, US NTDP \n\n\n\n5#13:  NY ISLANDERS: Braidy Wassilyn, 5’11 C, OHL  \n\n\n\n5#14:  COLUMBUS: Bo Damphousse, 6’2 RHD, QMJHL\n\n\n\n5#15:  DETROIT:  Jasper Kuhta, 6’2 LW, OHL ** \n\n\n\n5#16:  WASHINGTON: Max Isaksson, 6’0 C, SWE \n\n\n\n5#17:  LA KINGS: Logan Stuart, 6’1 C, US NTDP \n\n\n\n5#18:  ANAHEIM:  Bode Laylin, 6’0 RHD, USHL  \n\n\n\n5#19:  UTAH: Dayne Buecker, 5’11 C/W, US NTDP\n\n\n\n5#20:  NASHVILLE (EDMONTON):  Emil Jakobsen, 6’4 LHD, NWY \n\n\n\n5#21:  COLORADO (PHILADELPHIA): Parker Snell, 6’2 G, WHL\n\n\n\n5#22:  ST. LOUIS (PITTSBURGH): Noah Kosick, 5’11 C, WHL \n\n\n\n5#23:  OTTAWA:  Harrison Boettinger, 6’2 G, WHL \n\n\n\n5#24:  COLORADO (BOSTON): Sawyer Dingman, 6’5 C, WHL \n\n\n\n5#25:  MINNESOTA: Will Keane, 6’5 G, USHL \n\n\n\n5#26:  TAMPA BAY:  Viggo Tammi, 6’6 G, SWE \n\n\n\n5#27:  BUFFALO: Liam Lefebvre, 6’3 C, QMJHL\n\n\n\n5#28:  DALLAS: Riley Boychuk, 5’10 W, WHL  \n\n\n\n5#29:  VEGAS:  Ludvig Andersson, 5’11 C/RW, SWE \n\n\n\n5#30:  SAN JOSE (MONTREAL): Carter Casey, 6’2 G, WHL\n\n\n\n5#31:  NASHVILLE (CAROLINA): Brody Pepoy, 6’2 RW, OHL \n\n\n\n5#32:  TORONTO (COLORADO):  Cam Dillard, 6’4 RHD, WHL \n\n\n\nROUND SIX: \n\n\n\n6#1:  VANCOUVER: Alexander Ivanov, 6’2 LHD, RUS\n\n\n\n6#2:  NY RANGERS (BUFFALO/CHICAGO):  Cameron Kuzma, 6’2 C, WHL \n\n\n\n6#3:  NY RANGERS: Zig Bratt, 6’0 LHD, SWE \n\n\n\n6#4:  CALGARY: Alex MacLean, 5’11 C, OHL \n\n\n\n6#5:  CAROLINA (TORONTO): Justin Graf, 6’0 LW, USHL** \n\n\n\n6#6:  SEATTLE: Zach Lansard, 5’11 RW, WHL \n\n\n\n6#7:  WINNIPEG:  Rodrick Cernak, 6’3 RHD, SVK\n\n\n\n6#8:  FLORIDA: Teddy Lechner, 6’3 RHD, US HS\n\n\n\n6#9:  TORONTO (SAN JOSE): William Lacelle, 6’2 G, QMJHL  \n\n\n\n6#10:  PITTSBURGH (NASHVILLE): Jayden Kurtz, 6’3 RHD, US HS \n\n\n\n6#11:  ST LOUIS: Rian Chudzinski, 6’1 LW, QMJHL\n\n\n\n6#12:  NEW JERSEY:  JC Lemieux, 6’0 C, OHL \n\n\n\n6#13:  NY ISLANDERS: Kimi Sutter, 6’1 W, SWISS \n\n\n\n6#14:  PHILADELPHIA (COLUMBUS): Carter Stevens, 6’1 C, OHL \n\n\n\n6#15:  DETROIT:  Michel Jakubec, 6’1 W, SVK \n\n\n\n6#16:  VANCOUVER (WASHINGTON): Mans Josbrant, 5’11 W, SWE \n\n\n\n6#17:  LA KINGS:  Cooper Cleaves, 6’4 RHD, NCAA**\n\n\n\n6#18:  ANAHEIM:  Samuel Karsay, 6’1 C/LW, SVK \n\n\n\n6#19:  NASHVILLE (UTAH): Ossi Tukio, 6’1 LHD, FIN\n\n\n\n6#20:  EDMONTON:  Anttoni Uronen, 6’1 W, FIN \n\n\n\n6#21:  SAN JOSE (COLORADO/PHILADELPHIA):  Tomas Galvas, 5’10 LHD, CZE**\n\n\n\n6#22:  COLUMBUS (PITTSBURGH): Cam Chartrand, 6’1 RHD, QMJHL \n\n\n\n6#23:  OTTAWA:  Onni Kalto, 6’2 W, OHL\n\n\n\n6#24:  VANCOUVER (BOSTON): Joe Erickson, 6’5 C, US HS \n\n\n\n6#25:  MINNESOTA: Kaenan Smith, 6’2 G, US NTDP \n\n\n\n6#26:  TAMPA BAY:  Casper Juustovaara, 5’9 C, SWE\n\n\n\n6#27:  BUFFALO: Pavel Denisov, 6’2 LHD, RUS\n\n\n\n6#28:  DALLAS: Alex Kostov, 6’4 RW, OHL**\n\n\n\n6#29:  VEGAS:  Will Sorbrand, 6’3 C, SWE\n\n\n\n6#30:  MONTREAL: Emile Ricard, 6’0 C, QMJHL\n\n\n\n6#31:  CAROLINA: JS Daigneault, 6’3 LHD, USHL\n\n\n\n6#32:  LA KINGS (COLORADO): Tobias Tomik, 6’1 C/W, WHL \n\n\n\nROUND SEVEN:\n\n\n\n7#1:  NY RANGERS (VANCOUVER): Matvei Kotkov, 5’11 F, RUS\n\n\n\n7#2:  CHICAGO:  Krystof Szongoth, 6’1 C, FIN\n\n\n\n7#3: COLORADO (NY RANGERS):  Jacob Vandeven, 6’6 LHD, OHL\n\n\n\n7#4:  DETROIT (CALGARY): Joki Laitenen, 6’0 C, FIN\n\n\n\n7#5:  DALLAS (CAROLINA/TORONTO): Melwin Larsson, 6’3 LW, SWE\n\n\n\n7#6:  SEATTLE: AJ Francisco, 5’11 RW/RD, US NTDP\n\n\n\n7#7:  WINNIPEG:  Dominik Ripa, 5’10 W, CZE\n\n\n\n7#8:  CHICAGO (FLORIDA): Frankie Poletin, 6’2 G, FIN\n\n\n\n7#9:  SAN JOSE: Luke Puchner, 5’11 C, US HS\n\n\n\n7#10: NASHVILLE: Luka Arkko, 6’3 C, FIN\n\n\n\n7#11:  ST LOUIS: Zach Jovanowski, 6’2 G, OHL \n\n\n\n7#12:  SEATTLE (NEW JERSEY):  Nick Koering, 6’5 LHD, USHL\n\n\n\n7#13:  NY ISLANDERS: Cohen Bidgood, 6’0 W, OHL\n\n\n\n7#14:  COLUMBUS: Vlad Poskurin, 6’1 G, RUS\n\n\n\n7#15:  DETROIT:  Yan Melnikov, 5’10 W, RUS\n\n\n\n7#16:  WASHINGTON: Thomas Rousseau, 5’11 LW, QMJHL\n\n\n\n7#17:  LA KINGS: Boris Borin, 5’11 C, BCHL\n\n\n\n7#18:  ANAHEIM:  Brian McFadden, 6’5 RHD, US HS \n\n\n\n7#19:  NASHVILLE (UTAH): Philip Larsson, 6’1 W, SWE\n\n\n\n7#20:  EDMONTON:  Cruz Pavao, 6’0 W, WHL\n\n\n\n7#21:  PHILADELPHIA: Pavel Martinu, 6’5 C, USHL \n\n\n\n7#22:  COLORADO (PITTSBURGH):  Darian Rolsing, 6’6 RHD, WHL\n\n\n\n7#23:  COLORADO (OTTAWA):  Shawn Carrier, 5’10 W, QMJHL **\n\n\n\n7#24:  BOSTON: Fabrice Bouvard, 6’1 LW, SWISS\n\n\n\n7#25:  FLORIDA (MINNESOTA): Flo Houle, 6’1 RW, QMJHL**\n\n\n\n7#26:  TAMPA BAY:  Logan Hawery, 5’10 C/W, OHL \n\n\n\n7#27:  WINNIPEG (BUFFALO): Rasmus Rinne, 5’11 W, FIN\n\n\n\n7#28:  DALLAS: Joe Salandra, 5’10 W, OHL\n\n\n\n7#29:  VEGAS:  Andrei Molgachyov, 5’9 W, WHL\n\n\n\n7#30:  MONTREAL: Nick Bogas, 6’0 LHD, USHL\n\n\n\n7#31:  MONTREAL (CAROLINA): Arseni Illyin, 6’2 W, RUS\n\n\n\n7 #32:  LA KINGS (COLORADO):  Dylan Rozzi, 5’11 LW, QMJHL\n\n\n\n\n\n\n\nSABRES’ HAUL: \n\n\n\n2#4: Jack Hextall, 6’0 C, USHL: \n\n\n\nThe Sabres love high-motor, two-way players who can contribute on both ends (Benson, Helenius, Ostlund, Kulich, Ziemer).  They also love guys who can play down the middle.  Here they get both.  Hextall is an intense competitor with a nice combination of physicality, high-end skill, and a desire to win that should fit in well with the young players in the Sabres’ organization.  The main attribute that makes Hextall so effective is his head.  He has a ton of hockey smarts, which helps him recognize spacing, passing and shooting lanes, and anticipating his opponents’ decisions.  Sees things others don’t.  He plays a bit faster than he actually is, owing to his ability to read where the puck is going and his full commitment to go all out to get there ahead of anyone else.  \n\n\n\nThose same smarts make him more attentive to the finer details of the game, the little things where he excels.  Stick lifts when fighting for puck, taking the right lanes to pressure puck carriers into turnovers, winning face-offs and finding a sliver of open space to get off a shot or a pass against defensive structure – he does it all.  Has a variety of skills that he can use from one possession to the next.  A crafty playmaker who varies his speed to keep defenders off-balance and maximize his options, is agile enough to beat his check to the net front, and once he gets there, he’s got the high-end hands to find and finish, tip or deflect pucks on their way to the goalie.  Pounces on mistakes without hesitation.  No qualms about driving to the net and getting into the scoring areas even while taking a beating in the process.  Versatile.  Can play a high-flying skill game or a grinding, methodical puck possession game, at either wing or center.  \n\n\n\nSkating is very good, although he’s not great.  Can get caught slowing down his pace when things get chaotic, but his pace of play has improved by leaps and bounds as the season went on and is rarely a drawback for Hextall.  A pass-first player, has great vision and feel for the O-zone when the puck is on his stick, and when it isn’t, he goes right to the scoring areas to create trouble for the defense.  In his own end, he works hard and isn’t afraid to lay the body on his check or pin-and-hold the puck carrier until his teammates recover the puck.  Can get a little distracted at times in the D-zone, leaving the middle of the ice to pursue pucks or try to jump passing lanes, but that tendency started to decline as the year went on.  \n\n\n\nHexy put up an impressive 58P in 59 games for Youngstown in the USHL, finishing second among draft-eligibles, and comfortably between Sabre prospects Ryan Rucinski and Mel Novotny, so we know BFLO has seen plenty of him.  He also added 7P in 5 games for gold-medal winning Team USA at the Hlinka tournament last Summer, finishing second on the team.  He reminds me of Ryan Nugent-Hopkins’ game, as a smart, pass-first, two-way forward with a lot of versatility.  Sign me up for that.      \n\n\n\n\n\n\n\n\n\n2#23: Gleb Pugachyov, 6’3 LW, RUS:  \n\n\n\nWhile the Sabres have a certain profile they look for in many of their higher-end prospects, one area they don’t seem to focus on power forwards.  So it’s time to add one of those to the pipeline.  And this kid certainly checks those boxes.  We also know that Jarmo has had good success drafting big Russian forwards (Marchenko, Voronkov, Dolzhenkov, and Chinakov) in the middle rounds during his previous gig, so we’re drawing on that as well.  Pugachyov is a true bull-in-a-china shop player, in the same way that, say, Beck Malenstyn can be.  Extremely physical, loves to hit and invites contact all over the ice.  A true Russian bear.  But there’s plenty more to his game than just blowing guys up.  Has the hands and the head to try things as his game evolves and he grows more comfortable.  \n\n\n\nA rangy 6’3, he plays with a longer stick and has pretty good reach on his own, which makes his ability to possess the puck – especially in transition – very dangerous.  He’s tough to take the puck off.  Really good habits, solid details. Makes a beeline for the net when he doesn’t have the puck, creates massive screens with his width and wingspan, and can carry defenders with him.  Even occasionally “bumps” the goalie when moving from post-to-post.  Has enough ability with his stick to deflect point shots into the back of the net, and his balance and sheer strength let him use his nose for the net to find and score loose pucks around the crease.  \n\n\n\nWhile he doesn’t consistently show his skill level, he does have flashes where you see how much potential he has, dangling through defenders on an end-to-end rush or slipping a beautiful pass between two defenders for a streaking teammate to get a great scoring chance.  Has a quick release on a really hard snapshot.  Skating for Pugachyov is high-end in terms of straight lines.  He can really fly, again like Malenstyn, and builds up a real head of steam.  But his agility needs some work.  Sometimes he goes through guys because he just doesn’t evade opponents as quickly as someone else.  Still, he gets up and down the ice in a flash.  \n\n\n\nFor a young Russian forward, he has good instincts in his own end, seems to recognize patterns and defends the high-danger areas well while winning his share of wall battles even against seasoned pros.  Very good at using his size against opposing forwards around the front of the net, and both his length and strength makes it tough for forwards to get around him.  As with most quality Russian prospects, The Pug bounced up and down from Russian juniors (MHL) to the top of the heap (KHL) at various points this year.  \n\n\n\nHe finished with 24P in 36 games, with 9P in 16 playoff games, for the MHL’s Chaika Nihzny, but also put up 3P in 13 games for the parent club, Torpedo Nihzny, in the KHL…no small feat for a 17-year-old kid.  I think you could get a Kieffer Sherwood-sort of player with enough development window for this guy, a physical powerhouse who becomes more comfortable showing a little offensive flair and the ability to get to the net as he ages.             \n\n\n\n\n\n\n\n\n\n4#30:  Tim Runtso, 6’2 RHD, WHL **:  \n\n\n\nA kid who’s come from off-the-radar to a rising prospect in just 18 months, Runtso went from a Tier II Junior Kings program, to the NAHL, to the WHL in a flash and just keeps improving with each stop.  This season, playing for the Victoria Royals and slotting into the spot vacated by top prospect Keaton Verhoeff (who went to the NCAA), he quickly assumed top pair duties and surprisingly thrived.  Runtso is an offensive-minded blueliner.  He attacks the puck before it gets to the blue line, pinches hard, carries the puck below the circles and if he gets a step, all the way to the crease.  \n\n\n\nExpert at the give-and-go, he manages to free himself up enough to get open into the low slot surprisingly often.  With the puck on his stick, he’s got a lot of craftiness in his game.  Subtle head and shoulder fakes, look-offs, and enough stickhandling to beat his check and attack deeper in the O-zone.  Likewise, in the Neutral, he will carry or pass the puck to create odd-man rushes, and typically puts the puck in the right place at the right time, on the tape.  Has no conscience with the puck, which can be a benefit and a detriment.  Doesn’t have a cannon from the point, but gets pucks through to the goal and can launch a heavy snapshot from the top of the zone, or toe-drag into the middle before ripping an accurate wrister.  \n\n\n\nWhere he needs work is on the defensive end.  Rarely steps up at his own blue line.  Can concede the entry and then finds himself backing up too deep.  As you can see, his transition defense needs plenty of work.  Can be taken outside-in, and beat to the middle, as he doesn’t do enough to kill plays or drive the puck carrier into low-danger areas.  But as a one-v-one defender, his on-puck defense has improved immeasurably over the course of this season.  Which is saying something because his footwork still needs to improve.  He can get pretzeled by an especially talented stickhandler coming down on the rush and left in the dust.  So there’s some work there left to do.  That said, Runtso plays the kind of game that, with some coaching, fits nicely with how the Sabres like to play.  That should be appealing to Jarmo.  \n\n\n\nWas the leading rookie D-Man scorer in the WHL, with 44P in 68 games.  Off to a rising Miami (OH) program next season, where he’ll play with a number of current NHL prospects.  Given the Sabres’ organizational depth on defense, they can be patient with this kid as his game evolves.  And at the end, they could have a John Klingberg-type of player.  Not bad for the 4thround.       \n\n\n\n\n\n\n\n\n\n5#30: Liam Lefebvre, 6’3 C, QMJHL**:  \n\n\n\nAnother over-ager, this big, reliable centerman is a bit of a late bloomer.  Last year at this time, he was playing at a US prep school.  Now he’s centering the 2nd line at the Memorial Cup for Quebec League champion Chicoutimi.  A big boy at 6’3 205#, Lefebvre has some explosive offensive capability and some high-level skating to fall back on.  Has exceptional lateral agility, allowing him to change directions on a dime, slide to evade bodies or defenders and open up passing or shooting lanes.  It also permits him to be a very dangerous puck possession forward, able to slip checks or hold off defenders with his size and reach while he scans the ice for open teammates.  \n\n\n\nAmazingly at his size, he’s slippery and can get lost in transition as he moves easily, but purposefully, to open ice.  Loves to cut to the middle with the puck and break down the defense.  Can get a little overconfident with the puck, over-handling it and getting himself caught on the wrong side of the puck.  This traps him if he turns it over, which he does more frequently than I’d like.  Yet he’s very dangerous with the puck on his stick, distributing quick passes to open teammates or using them as decoys to load up a heavy wrister that he uses everywhere between the dots.  Has tremendous strength and balance.  \n\n\n\nAble to push away smaller defenders, while able to take a hit and hang on to the puck in the process, he’s a bit of a freight train coming down the tracks when he’s really moving with the puck.  Defensively, he’s fairly accomplished.  Not great, but rarely makes the big mistake.  Doesn’t get caught out of position, works hard at keeping opponents out of the scoring areas, and his active stick and reach makes him tough in one-v-one defense.  Really good in puck recovery as well.  As a rookie, started with Rimouski but was traded mid-year to Chicoutimi, where he’s been better than a PPG (30P in 25 games) and has been extremely effective in the playoffs (12P in 20 games) as they won the Quebec League and are now battling for the Memorial Cup.  Off to the University of Vermont next season.  If he hits his ceiling, you’re looking at a big, power-center in the mold of a Tomas Hertl.   \n\n\n\n\n\n\n\n\n\n6#30:  Pavel Denisov, 6’2 LHD, RUS:  \n\n\n\nAs we pointed out before, we know Jarmo likes to pick over the Russian leagues later in the Draft looking for diamonds-in-the-rough.  That’s how he found Vladislav Gavrikov in the 6thround.  Here he goes with someone with a little more offensive punch in Denisov.  A highly mobile, smooth skating defender who thinks defense first, Denisov has a smart two-way game and plays important minutes when the game is on the line for the #2 team in the Russian Junior league.  With a full toolbox, this kid can play the game any way you want.  High-paced chaos, he can get up ice with his skating and attack gaps and seams to break down the defense.  Slow, methodical checking game?  He can gap up, play a heavy game, and get the puck to safety consistently.  A bruising, heavy forechecking game?  He’s mobile enough to escape the forecheck and is more than happy to lay some big hits on the opposition.  \n\n\n\nGood 4-way skating, transitions easily, and can either pass or carry the puck through the Neutral Zone with some authority.  Not a lot of creativity in his game, however.  Offensive game is simple, but effective.  Exits the zone like a mini-Owen Power, with crisp passes always snapped with velocity but easy enough to handle and usually on the tape.  Does a great job of springing transition.  On the other end, textbook transition defending.  Pushes oncoming forwards into low-danger areas, leaves his check to protect the net front, and uses a violent stick to knock pucks out of trouble or disrupt a player trying to dangle him.  \n\n\n\nOne of the youngest players in the Draft Class (missed the cut-off for next year’s Draft by two weeks!), Denisov’s already gotten called up to the VHL, the Russian second tier Men’s League, for 12 games this year and acquitted himself well.  Looked good in Russian juniors, where he put up 16P in 40 games on one of their top teams.  Next year he’s scheduled to start in the VHL.  Denisov isn’t really elite at any one thing, but his game is so composed, versatile and well-rounded, he could develop into just about any sort of defender.  Given the Sabres’ depth at the position, they can be patient with him and see what he becomes.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-29T20:38:41.000Z",
+      "link": "https://www.diebytheblade.com/2026-nhl-entry-draft-t-mcgees-seven-round-mock/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265510-is-mcd-the-most-polarizing-figure-in-bills-history/",
+      "team": "bills",
+      "title": "Is McD the most polarizing figure in Bills history?",
+      "summary": "Despite his name in the title, this is not a McD thread. I felt compelled to post this because of how deeply it was effecting my fandom, to the extent I didn't even understand it. On one hand watching Allen and this great run we have had has been a ton of fun. I've been a fan since the Super Bowl years which is not long enough to see it all, but long enough to see a lot. Posting on this forum a long time, it says 2003 but before that I had another TBD account I lost the log in for so it dates back even further than that. \n\n\n\n\t \n\n\n\n\tFor 20+ years on TBD I have been a very positive poster. The last two years or so, completely negative, almost always at McD. Totally against who I am in normal life. Then over the last few months, outside of a few McD driven thread, basically right back to who I used to be. I even started to wonder myself if I was just turning into a bit of a bitter a-hole? That didn't flush with life where I was still light hearted with most things. But this singular issue was far more consuming then I could have known. Also knowing how many people feel different than I do on this subject, perhaps even some feeling just as strongly about his departure as I did regarding his tenure here.\n\n\n\n\t \n\n\n\n\tI'm trying to think back if anything in this journey as a fan is even close to being as divisive to our fan base as this? The obvious one that comes to mind is Johnson and Flutie. Which I recall feeling much more neutral about, but I don't recall the message boards at the time. I'm also not a Buffalo native, so I don't have a local pulse from that time frame.\n\n\n\n\t \n\n\n\n\tSo the broader question is, is this the most divisive topic you have encountered in your time as a fan? If not, what would you say was? I'm also curious if others felt like me where they had this intensely negative view on a singular aspect of this team and it was sort of hurting them as far as being a fan. Can people relate to what I said, either about McD and how you felt or about another situation in Bills history that maybe felt similar?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-29T18:47:35.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265510-is-mcd-the-most-polarizing-figure-in-bills-history/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/toyota-named-founding-partner-at-highmark-stadium-continues-as-official-automotive-partner-of-the-buffalo-bills",
       "team": "bills",
       "title": "Toyota named Founding Partner at Highmark Stadium, continues as Official Automotive Partner of the Buffalo Bills",
@@ -1111,15 +1221,15 @@
       "link": "https://www.buffalobills.com/news/toyota-named-founding-partner-at-highmark-stadium-continues-as-official-automotive-partner-of-the-buffalo-bills"
     },
     {
-      "id": "espn-bills::48900580",
-      "team": "bills",
-      "title": "Early impressions of Bills defense under Jim Leonhard",
-      "summary": "Jim Leonhard is in his first NFL defensive coordinator role, but spent five years in that position at Wisconsin.",
-      "source": "ESPN · Alaina Getzenberg",
-      "sourceType": "league",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-prospect-jake-richard-to-entry-level-contract/",
+      "team": "sabres",
+      "title": "Sabres sign prospect Jake Richard to entry-level contract",
+      "summary": "The Buffalo Sabres on Thursday signed forward prospect Jake Richard, a sixth-round pick in 2022, to a two-year, entry level-contract.\nRichard, 21, played three seasons at the University of Connecticut, compiling 32 goals, 88 points, a plus-30 rating and 88 penalty minutes in 108 career games.\nThe Jacksonville native enjoyed his best season as a sophomore in 2024-25, registering 15 goals, 43 points and a plus-26 rating in 34 contests and earning NCAA Hockey ... Read the full article \nThe post Sabres sign prospect Jake Richard to entry-level contract first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-05-29T10:00:14Z",
-      "link": "https://www.espn.com/nfl/story/_/id/48900580/early-impressions-buffalo-bills-new-defense-jim-leonhard"
+      "publishedAt": "2026-05-29T05:30:54.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-sign-prospect-jake-richard-to-entry-level-contract/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/it-s-always-a-good-thing-bills-take-part-in-third-annual-full-team-community-takeover",
@@ -1144,6 +1254,17 @@
       "link": "https://www.buffalobills.com/news/bills-sign-ilb-demetrius-flannigan-fowles-to-one-year-deal"
     },
     {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/letter-grades-for-the-players-2025-26-season-part-1-of-2/",
+      "team": "sabres",
+      "title": "Letter Grades for the Players, 2025-26 Season – Part 1 of 2",
+      "summary": "After Great Team Success, How Do the Sabres Break Down Individually?\n\n\n\nToday we take a look at the individual performances of each player and assign a letter grade accordingly. Each Sabre graded must meet the 20 games played with Buffalo minimum. So no Konsta Helenius or Sam Carrick and several others. These grades are for the regular season only, not playoffs. We will split the eligible players into two randomly listed sections. This will be part 1 of 2.\n\n\n\n\nOwen Power (81-8-21-29 +9) Grade B\n\n\n\n\nPower made some strides this season with his defensive game, especially late in the year. (and on into the playoffs) He provided a bit more physicality into the middle pairing and seems to close the gap quicker on his opponent with tighter coverage. His offense fell off to just 29 points but I feel that will bump up again soon as he rounds out his game. Lots to like here as Power continues to grow.\n\n\n\n\nBeck Malenstyn (81-7-7-14 even) Grade B+\n\n\n\n\nMalenstyn had himself an impressive season, being a rock on the 4th line with his heavy hitting game. He provided a strong forecheck and a grinding, shutdown performance while scoring some spectacular goals along the way. I love his effort level every night, especially blocking shots.\n\n\n\n\nJordan Greenway (40-1-5-6 -10) Grade C-\n\n\n\n\nIt’s hard to come down too hard on Greenway, knowing how difficult his season was. His injury really limited his games and performance until late in the season when we saw a healthy, rejuvenated player. His treatments and therapy were substantial. Still, we hoped for much more. Playoff Greenway gives us hope, if he can stay on the right track.\n\n\n\n\nBowen Byram (82-11-31-42 +15) Grade B+\n\n\n\n\nGood stuff all around from Bo this season. He was the only defenseman to play all 82 games and provided a great blend of offense and defense. He was solid and dependable. I sure do hope the Sabres can extend him at a reasonable cost. Unfortunately, Byram seems like his aspirations are beyond what Buffalo can offer.\n\n\n\n\nMichael Kesselring (34-0-2-2 even) Grade D\n\n\n\n\nKesselring had a season to forget, dealing with injury most of the year and never really settling in with the team. He became a forgotten man at the end of the season and that was a shame. I feel Kess still has much to offer and I’m not ready to move on from him like some are. He was supposedly the main piece for Buffalo in the JJ Peterka trade. If we get him going again along with Josh Doan’s early success then the Sabres are in business.\n\n\n\n\nJason Zucker (62-24-21-45 -5) Grade B+\n\n\n\n\nZuck scored 24 goals while missing 20 games, so you can’t complain too much about that. He was an offensively effective middle six player for Buffalo and brought that veteran leadership to the team. At 34 years old now, he could be pushed out by the likes of highly skilled Noah Ostlund and Konsta Helenius soon. Him being dealt would also make room for Buffalo with the tight cap. I still like the player though and I thought he had a strong season.\n\n\n\n\nZach Benson (65-13-30-43- +27) Grade A-\n\n\n\n\nTaz is a major league pest whose reputation is expanding across the NHL, especially after the playoffs. He is a hard working, relentless agitator who is a smooth playmaker and goes to the net to score the dirty goals. His motor is non-stop and he is in everybody’s top three Buffalo Sabres players’ list. A full season next year should see Benny push for 60 points or more and become a fixture on the top line. The sky is the limit for this 21 year old who plays like a grizzled vet.\n\n\n\nApr 15, 2026; Buffalo, New York, USA; Buffalo Sabres left wing Zach Benson (6) scores a goal against Dallas Stars goaltender Jake Oettinger (29) in the second period at KeyBank Center. Mandatory Credit: Mark Konezny-Imagn Images\n\n\n\n\nAlex Lyon (36-20 W-10 L-2.77-.907-3 SH) Grade B+\n\n\n\n\nAll things considered, Alex Lyon was a successful addition to the team. 20 wins with 3 shutouts is nothing to sneeze at. He mostly shared a rotation with UPL but did go off to start several in a row at times. He was a steady presence all year (especially on the road) and a good teammate. It was unfortunate things imploded for him in round 2 after a great showing against Boston.\n\n\n\n\nJack Quinn (82-20-31-51- +4 ) Grade B-\n\n\n\n\nJack set career highs this season in games played, goals, assists and points, yet he left most of us wanting more. I suppose that is because of his many dry spells, as he tends to score in bunches. There IS more talent there to uncork for this young man, he is just on a slow development curve it seems. He needs more consistency in his game. He did make strides in his defense, providing a stronger backcheck.\n\n\n\n\nRyan McLeod (81-14-40-54- +25) Grade B\n\n\n\n\nToothless didn’t score as many goals this year with just 14 but his overall points increased by 1 over last season. He was also the Sabres’ 4th leading scorer in 2025-26, something many fans may not realize. His 54 points, along with his great speed and strong penalty killing make him a valuable commodity. I hope he remains a 3rd line fixture in Buffalo for many years to come.\n\n\n\n\nZach Metsa (43-2-4-6- +16) Grade B\n\n\n\n\nMetsa made a big splash this year as the 27 year old “rookie” who had his own cult following. His performance was near insanity for a while, as the other team just could not score when he was on the ice. This went on for a few months before the magic finally wore off. But Zach made a lasting impression and could serve Buffalo well in a continued bottom-six roll or as the Sabres’ 7th defenseman. He is cool and calm and makes the smart play.\n\n\n\n\nRasmus Dahlin (77-19-55-74- +18) Grade A\n\n\n\n\nRasmus set a career high in points and plus/minus in a season filled with personal trauma that overshadowed his hockey career. He overcame it to the tune of personal bests, a Norris Trophy nomination, (awarded annually to the NHL’s best defenseman) and a return to the playoffs after 14 long years for the Sabres. Not too shabby as his fiance continues her recovery with his support. On the ice, Dahlin still takes too many penalties and still makes the occasional bad turnover but he has matured into one of the best overall defenders in the league.\n\n\n\n​Part 2 will be coming soon.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-27T15:25:21.000Z",
+      "link": "https://www.diebytheblade.com/letter-grades-for-the-players-2025-26-season-part-1-of-2/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-otas-jim-leonhard-defines-his-defensive-terminology-year-2-players-aim-to-take-a-jump",
       "team": "bills",
       "title": "Bills OTAs | Jim Leonhard defines his defensive terminology, Year 2 players aim to take a jump",
@@ -1153,6 +1274,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-26T22:13:09.000Z",
       "link": "https://www.buffalobills.com/news/bills-otas-jim-leonhard-defines-his-defensive-terminology-year-2-players-aim-to-take-a-jump"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-express-belief-in-michael-kesselring-weve-seen-the-potential/",
+      "team": "sabres",
+      "title": "Following injury-plagued year, Sabres express belief in Michael Kesselring: ‘We’ve seen the potential’",
+      "summary": "“Honestly, I think it’s been pretty good for me, and whenever the next opportunity comes, I’ll be probably the most ready I’ve been all year.” – Michael Kesselring on March 25 prior to sitting out his sixth straight game as a healthy scratch\nBUFFALO – As he morphed into a spare part down the stretch, Sabres defenseman Michael Kesselring tried to make the most of a difficult situation.\nIf the arrival of defensemen Logan ... Read the full article \nThe post Following injury-plagued year, Sabres express belief in Michael Kesselring: ‘We’ve seen the potential’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-26T21:38:53.000Z",
+      "link": "https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-express-belief-in-michael-kesselring-weve-seen-the-potential/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-week-7-girls-flag-football-coaches-of-the-week",
@@ -1177,15 +1309,81 @@
       "link": "https://www.twobillsdrive.com/community/topic/265486-who%E2%80%99s-the-bills%E2%80%99-goat-qb-jk-or-ja/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265458-keon-coleman-last-season-was-%E2%80%9Cass%E2%80%9D-it%E2%80%99s-a-make-or-break-season-for-me/",
-      "team": "bills",
-      "title": "Keon Coleman: Last season was “ass”. It’s a make or break season for me",
-      "summary": "Agreed.\n\t\n\thttps://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keon-coleman-its-a-make-or-break-season-for-me",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-canadiens-player-of-the-series-and-stats-analysis/",
+      "team": "sabres",
+      "title": "Sabres vs Canadiens: Player of the Series and Stats Analysis",
+      "summary": "Buffalo’s postseason run ended in heartbreaking fashion with a Game 7 overtime loss\n\n\n\nThis article should have been written and published a few days ago, but I wanted to take the time to step away and process all the feels following the disappointment of the Buffalo Sabres getting knocked out on Monday night. \n\n\n\nThat still hurts. There is no other way to put it. After a grueling, chaotic, and utterly unpredictable seven-game war against the Montreal Canadiens, the Buffalo Sabres’ first playoff run in 15 years came to a crushing end in overtime of Game 7. It’s a bitter pill to swallow for a young team that showed immense heart, especially after fighting back from a 3-2 series deficit with a historic 8-3 blowout in Game 6 to force the winner-take-all finale at KeyBank Center.\n\n\n\nUltimately, the bounces didn’t go Buffalo’s way when it mattered most, and the Canadiens’ opportunistic 5-on-5 play and high-danger finishing proved to be the difference. \n\n\n\nNow that the dust has settled and the heartbreak has slightly numbed, let’s dive into the stats and analytics from the series, and hand out our Sabres Player of the Series honors.\n\n\n\nThe Series by the Numbers (All Situations)\n\n\n\nGoals For / Goals Against: 24 GF / 25 GA Shots Per Game: 29.4 SF / 28.0 SA Power Play: BUF 36.0% (9-for-25), MTL 30.8% (8-for-26)Penalty Kill: BUF 69.2% (18-for-26), MTL 64.0% (16-for-25)Team Save Percentage: BUF .867%, MTL .888%Face-off Percentage: BUF 47.3%, MTL 52.7%\n\n\n\nTop Scorers\n\n\n\nRasmus Dahlin was in incendiary form during this series, scoring freely with ten points in seven games, (three goals and seven assists), though five of those did come in one game. Next was Tage Thompson who added eight points (3G, 5A), which also came in bunches. Josh Doan had seven points, Zach Benson chipped in with six and Mattias Samuelsson had five points.  \n\n\n\nThe Analytics Breakdown: High Danger vs. High Volume\n\n\n\nIf you looked purely at the shot clocks and standard possession metrics, you would have thought the Sabres had the upper hand for long stretches. Buffalo heavily outshot Montreal in Games 5 and 6, controlling 52.1% of the 5-on-5 shot attempts over the course of the seven games. The underlying metric that doomed Buffalo, however, was high-danger chance conversion.\n\n\n\nAccording to NHL EDGE tracking data, the Sabres generated a staggering number of high-danger shots, with their top units constantly driving into the low slot. But Montreal was much more clinical from those premium areas. The Canadiens outscored Buffalo 14-9 from high-danger zones over the series.\n\n\n\nThe major saving grace that kept Buffalo in the fight? The resurrected Power Play. The Sabres were mercurial against Montreal’s penalty kill, operating at a blazing 36.0% clip overall, but those goals came in clumps and not at all when they weren’t getting anything going even strength. The 4-for-4 power-play masterclass in Game 6 was a work of art, but unfortunately they didn’t get power play goals at crucial junctures of the series and when the 5-on-5 scoring dried up in Game 7, Buffalo’s fate was sealed.\n\n\n\nMay 18, 2026; Buffalo, New York, USA; The Montréal Canadiens win in overtime and shake hands with the Buffalo Sabres in game seven of the second round of the 2026 Stanley Cup Playoffs at KeyBank Center. Mandatory Credit: Timothy T. Ludwig-Imagn Images\n\n\n\nKeyBank Center Advantage Evaporates\n\n\n\nPerhaps the most baffling and frustrating trend of the entire series was the total collapse of Buffalo’s home-ice advantage. During the regular season, Lindy Ruff’s squad turned KeyBank Center into a fortress, boasting a 26-10-5 home record—the fourth-best in the entire NHL. When the postseason arrived, that home dominance completely vanished.\n\n\n\nBuffalo won just two of their seven home playoff games across the first two rounds. In front of a raucous, desperate, and starved fan base that packed the arena, the Plaza outside and Canalside nearby, the Sabres looked gripped by the pressure on home ice. They repeatedly surrendered soft early goals at home, played tight in transition, and ultimately dropped Games 2, 5, and the decisive Game 7 on their own ice. For a team that fought all season to win the division and secure home-ice advantage, letting Montreal dictate the terms in Buffalo was the hidden fatal blow of the series.\n\n\n\nThe Crease Conundrum: Volatile Goaltending Cost Buffalo\n\n\n\nYou cannot talk about this series without addressing the goaltending carousel. A team save percentage of .867% in the Stanley Cup Playoffs is nearly impossible to overcome – Utah got .875%, Dallas got .874% and Edmonton had .866% and all went home in six games.  \n\n\n\nBoth Ukko-Pekka Luukkonen and Alex Lyon suffered from severe bouts of inconsistency that repeatedly shifted momentum back to Montreal.\n\n\n\nGame 5: Luukkonen gets pulled after leaking early goals.Game 6: Lyon gets the start, gets chased 10 mins in.Game 7: UPL returns, battles hard, but loses in OT to a saveable shot. \n\n\n\nFor goalies who played more than five games, UPL was a very pedestrian 8th in Goals Saved above Expected (GSAx) with 0.037 per 60 min played, Lyon was 9th with 0.026 while Jakub Dobes was third with 0.721.  \n\n\n\nNeither goaltender was able to lock down the crease or provide that singular, series-defining “robbery” performance when the defense broke down. Luukkonen looked plagued by rebound control issues early in the series, while Lyon—brought in to provide a steady, veteran presence—imploded early in Game 6. UPL showed immense courage by coming back out to battle hard in Game 7, but the cumulative effect of chasing games due to soft, early goals proved to be a weight too heavy for this young roster to carry.\n\n\n\nMay 16, 2026; Montreal, Quebec, CAN;Buffalo Sabres defenseman Owen Power (25) defends the puck against Montreal Canadiens left wing Juraj Slafkovsky (20)  during the first period in game six of the second round of the 2026 Stanley Cup Playoffs at Bell Centre. Mandatory Credit: David Kirouac-Imagn Images\n\n\n\nThe Coming of Age: Owen Power’s Growth\n\n\n\nIf there was a massive silver lining on the blue line aside from Dahlin, it was the definitive growth of Owen Power. Often criticized during the regular season for not using his large frame effectively enough in defensive transitions, Power took a monumental leap forward in this series. He played with an edge we haven’t seen from him before. Power consistently closed gaps quickly, rubbed out Montreal forwards along the wall, and displayed a calming, elite level of poise when breaking the puck out under heavy pressure. His defensive awareness ticked up a big notch, proving that he can handle top-four playoff match-ups without breaking a sweat.\n\n\n\nThe “Future is Bright” Award\n\n\n\nIt takes young players time to adjust to playoff hockey, but Josh Doan looked like he was born to play playoff hockey. Jack Quinn found his footing rapidly late in the series, potting his first two career playoff goals in the Game 6 rout. Meanwhile, 19-year-old Konsta Helenius scored in consecutive games (Games 5 and 6), showing that the stage wasn’t too big for Buffalo’s youth movement. \n\n\n\nThe Disappearing Act: Where Was the Veteran Help?\n\n\n\nWhile the kids and Dahlin dragged this series to seven games, a major reason the Sabres are packing up their lockers today is that several key, established players completely vanished when the postseason intensity ramped up. On the ghost list were:\n\n\n\nAlex Tuch: Expected to be the emotional and physical heartbeat of the top six especially after the Bosto series, Tuch looked uncharacteristically step-slow. He struggled to generate his trademark rush chances, was repeatedly erased along the walls by Montreal’s defensemen, and failed to convert on the few high-danger looks he did receive. Jason Zucker: Brought in specifically for his veteran postseason experience and snarl, Zucker was largely invisible at 5-on-5. Aside from a few standard physical sequences, he failed to provide the depth scoring or the clutch, greasy goals Buffalo desperately needed when the top line was being hard-matched. Ryan McLeod: Tasked with anchoring the third line and locking things down defensively while chipping in transition offense, McLeod struggled heavily. He was consistently on the wrong side of the puck in his own zone, struggled in the face-off dot (contributing to Buffalo’s poor 47.3% series average), and failed to drive play effectively against Montreal’s bottom-six depth. Edmonton fans had warned us that he tends to disappear in the postseason, and we saw it happen live. \n\n\n\nWhen your highest-paid and most experienced depth forwards get neutralized, it forces a young team to play a flawless game—and Buffalo just didn’t have the margin for error.\n\n\n\nMay 12, 2026; Montreal, Quebec, CAN; Buffalo Sabres forward Zach Benson (6) celebrates with teammates including forward Josh Doan (91) after scoring a goal against the Montreal Canadiens during the third period in game four of the second round of the 2026 Stanley Cup Playoffs at Bell Centre. Mandatory Credit: Eric Bolte-Imagn Images\n\n\n\nHonorable Mention – \n\n\n\nZach Benson was absolute dynamite for a guy playing in his first-ever Stanley Cup playoff series. While some of the older forwards struggled under the weight of Montreal’s physical play, Benson’s high-octane motor never stopped running. He was an absolute menace on the forecheck, single-handedly turning over pucks along the boards and generating multiple high-danger scoring chances in the dirty areas of the ice. He showed the kind of playoff grit that will make him a cornerstone of this core for a decade.\n\n\n\nPlayer of the Series – \n\n\n\nWhile there were a few commendable performances, the undisputed Sabres Player of the Series was captain Rasmus Dahlin. When the Sabres were facing elimination ahead of Game 6 at the Bell Centre, Dahlin put the entire franchise on his back. He delivered a historic 5-point performance (1 goal, 4 assists), tying Derek Roy (2006) and John Tucker (1988) for the single-game franchise playoff scoring record.\n\n\n\nThroughout the seven games, Dahlin was the engine. He log-jammed massive minutes, quarterbacked the top power-play unit, and did everything in his power to transition the puck out of danger zones while dealing with relentless forechecking from Juraj Slafkovsky and Nick Suzuki. \n\n\n\nHe finished the series leading the team in scoring and average time on ice. It was a true captain’s performance that proved Dahlin belongs on the biggest stage. And all of this without even talking about the difficult year his fiancee and he endured off the ice. \n\n\n\nMay 18, 2026; Buffalo, New York, USA; Buffalo Sabres defenseman Rasmus Dahlin (26) reacts after losing in overtime against the Montréal Canadiens in game seven of the second round of the 2026 Stanley Cup Playoffs at KeyBank Center. Mandatory Credit: Timothy T. Ludwig-Imagn Images\n\n\n\nFinal Thoughts\n\n\n\nThis loss is going to sting all summer. To return to the Stanley Cup Playoffs after a 15-year drought, capture the imagination of Western New York, force a Game 7, and lose it in sudden-death overtime at home is brutal. But context matters. \n\n\n\nThe Sabres and Canadiens are two of the youngest teams in the league. Buffalo’s roster featured a glaring lack of situational Game 7 experience compared to some of Montreal’s veterans who have been to a Cup Final. The Sabres proved they can score with the best of them and that their special teams are elite. If they can clean up the high-danger defensive lapses, get stabilized goaltending next October, and get their veteran core to show up when it matters, this won’t be a one-off playoff appearance—it will be the beginning of a window opening wide.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-05-19T21:56:16.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265458-keon-coleman-last-season-was-%E2%80%9Cass%E2%80%9D-it%E2%80%99s-a-make-or-break-season-for-me/"
+      "publishedAt": "2026-05-25T12:00:00.000Z",
+      "link": "https://www.diebytheblade.com/sabres-vs-canadiens-player-of-the-series-and-stats-analysis/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-keeping-colten-ellis-sabres-open-to-using-three-goalies-again-it-worked/",
+      "team": "sabres",
+      "title": "After keeping Colten Ellis, Sabres open to using three goalies again: ‘It worked’",
+      "summary": "BUFFALO – It felt like goalie Colten Ellis’ stay here would be brief. Perhaps after filling the backup role for a couple of weeks as Ukko-Pekka Luukkonen recovered from an injury, the Sabres would place the rookie back on waivers or trade him.\nBut Ellis looked sharp in his first NHL action and fit in well, giving the Sabres extra depth at a critical position and the ability to try different things.\nShortly after Luukkonen ... Read the full article \nThe post After keeping Colten Ellis, Sabres open to using three goalies again: ‘It worked’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-24T16:26:43.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-keeping-colten-ellis-sabres-open-to-using-three-goalies-again-it-worked/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-sign-lindy-ruff-to-two-year-extension-2027-28/",
+      "team": "sabres",
+      "title": "Buffalo Sabres sign Lindy Ruff to two-year extension",
+      "summary": "The venerable head coach returns for another couple of years \n\n\n\nJust a couple of days after their heartbreaking exit from the Stanley Cup Playoffs, the Buffalo Sabres announced that head coach Lindy Ruff has signed a two year contract extension that will see him stay in Buffalo through the 2027-28 season.\n\n\n\n\nLINDY’S BACK ⚔️We have signed head coach Lindy Ruff to a two-year contract extension → https://t.co/ofxYXRqHNY#LetsGoBuffalo | #sabrehood pic.twitter.com/eTH98eMsk1&mdash; Buffalo Sabres (@BuffaloSabres) May 20, 2026\n\n\n\n\nThe 66-year-old has called Buffalo home since 1979, when he joined the franchise as a second-round draft pick. He spent a decade with the Sabres as a hard-nosed, two-way player – including a stint as captain – and returned as coach in 1997-98. He began his second stint as Sabres coach prior to the 2024-25 season, and has served the franchise in five different decades of its existence. \n\n\n\nCaptain Rasmus Dahlin on Lindy Ruff – “He is so good at pushing us. That’s the main thing. There’s no time for effing around, you have to be uncomfortable every day. I think that’s what really helped us as a group. We took care of the other stuff, but he made sure he pushed us every day, and I think that brought us a lot of success for sure.”\n\n\n\nPeyton Krebs on the head coach’s influence – “Obviously, Lindy’s been a big part of where I am today, for sure. He allows me just to work my brains out, and I’ll get rewarded. I think that’s the biggest message (when) I come to work every day: ‘Krebsy, do your thing, then you’re gonna get rewarded.’ I just try to have that mindset that, no matter where I’m at, as long as I work hard, good things will happen.”\n\n\n\n\nProud of the work this season. 🤝Watch Lindy Ruff's end-of-season media availability → https://t.co/GhDxG6Fb5w pic.twitter.com/WBNG37LVSz&mdash; Buffalo Sabres (@BuffaloSabres) May 20, 2026\n\n\n\n\n\nThe best is yet to come. Watch GM Jarmo Jarmo Kekäläinen's full presser from today → https://t.co/HSxRa115oo pic.twitter.com/Sgj1BPu48V&mdash; Buffalo Sabres (@BuffaloSabres) May 20, 2026",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-20T20:36:54.000Z",
+      "link": "https://www.diebytheblade.com/buffalo-sabres-sign-lindy-ruff-to-two-year-extension-2027-28/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/jedi-council-playoff-edition-2/",
+      "team": "sabres",
+      "title": "Jedi Council – Playoff Edition",
+      "summary": "Sabres Come Up Short in Hard Fought Series With Montreal\n\n\n\n“I appreciate all the guys. I appreciate everybody, how much they have put into this. As a group, we have put in so much. It sucks even more. We have such a good group of guys here, I think we could have gone further.” – Ukko-Pekka Luukkonen (Sabres.com)\n\n\n\n1. Buffalo’s Playoff Struggles at Home Culminate in Game 7 Loss\n\n\n\nThe Buffalo Sabres had the 4th best home record in the NHL during the 2025-26 season at 26-10-5. Unfortunately, that did not translate well to the team’s first post season in what felt like an eternity. For whatever reason, Buffalo didn’t get the results they wanted at Keybank Center, despite the packed houses and passionate fanbase, inside and outside the arena. The Sabres won just 2 of 7 games on home ice, a particularly troublesome stat when you have “home ice advantage” in the first two rounds. Our boys took care of business on the road, winning 5 of 6, where they played more loose, dictating their game. In their own building, something didn’t jive for the team. Maybe the pressure was too much, maybe the Canadiens are just a damn good team. Montreal did have a 6-2 record against Buffalo over the past two seasons. No matter the reasoning, the woes at Keybank in the playoffs were too much to overcome.\n\n\n\n“It’s tough. It stings.” said forward Tage Thompson. “I thought we played hard all year to get to this point. I don’t think anyone in this room felt like we were done yet.” (Sabres.com) Indeed, TNT. Perhaps if the Habs had the home ice advantage, things would have turned out different. Or if Buffalo drew Tampa Bay (like this guy hoped for) things could have drastically changed for the better. But there is no sense in dwelling on what could have been. It was a hard fought series between two evenly matched teams, somebody had to win. The lasting pain though will be how the Sabres didn’t quite play their best. As a unit and as individuals. Several players took turns at struggling and one in particular came up empty for the whole series.\n\n\n\nMay 18, 2026; Buffalo, New York, USA; Buffalo Sabres center Tage Thompson (72) reacts after losing an overtime game against the Montréal Canadiens in game seven of the second round of the 2026 Stanley Cup Playoffs at KeyBank Center. Mandatory Credit: Timothy T. Ludwig-Imagn Images\n\n\n\n2. Sabres Turnaround Season is a Building Block\n\n\n\n“I told the team it hurts. That pain will go away,” head coach Lindy Ruff said. “But I won’t let this one game define the season we had. I told the players how proud I was of them. The battle that we took into Game 6 in Montreal, and then came back here and gave ourselves every chance to win.” (Sabres.com) The reality now is to learn from this and forge ahead. Buffalo endured a 14 year playoff drought only to go on an absolute heater to win the Atlantic Division title this season. (after wallowing in the depths of the league to start) It was an amazing turnaround that saw the team come a whisker away from the Eastern Conference finals. There are good things going on in Buffalo now, with some good young players starting to make a name for themselves.\n\n\n\nMay 18, 2026; Buffalo, New York, USA; Buffalo Sabres defenseman Rasmus Dahlin (26) celebrates his goal with defenseman Owen Power (25) during the third period against the Montréal Canadiens in game seven of the second round of the 2026 Stanley Cup Playoffs at KeyBank Center. Mandatory Credit: Timothy T. Ludwig-Imagn Images\n\n\n\nWhile Jarmo Kekalainen brought experience to the new GM position and a tone shift for the organization, this is still very much Kevyn Adams team. How Jarmo proceeds this summer with these players will shape next year’s club. If Alex Tuch is still seeking 10 to 11 million per season, (and 7 or 8 years of term) I think he will be moving on, unfortunately. Too much sacrifices to the rest of the team will have to be made to accommodate Tuch’s expense. (not to mention his offensive no-show against the Habs) Zach Benson needs a new deal and it might be wise to lock him up long term, similar to what Josh Doan just got. (seven year, 6.95 million per season) Other teams will be quick to sniff around looking for Benny’s services. Peyton Krebs and others need a new contract too. Signing Tuch to huge money could mean dropping at least 2 current Sabres for cheaper options. Thankfully, a new wave of young players can help offset the cost and that is a distinct posibility to happen. Noah Ostlund, Konsta Helenius and hopefully Jiri Kulich should all be Buffalo Sabres to start the season. Their entry level deals should aid in staying under the cap while Jarmo looks to sign and trade for his final roster. I have a feeling he will be busy and I suspect anywhere from 3 to 5 players from Monday night’s game 7 could be gone.\n\n\n\nMeanwhile, the Buffalo Sabres have nothing to hang their heads over. They really matured this season, learned how to win and overcame some big time adversity. They won a division and nearly broke into the final four for the Cup. Shortcomings reared their ugly heads towards the end and much of that needs to be addressed. There is work to do and decisions to be made. But this core group has a winning formula now and that is a great starting point. Jarmo must iron out the wrinkles and get this team over the hump and closer to elite status, which will be no easy task.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-20T13:00:00.000Z",
+      "link": "https://www.diebytheblade.com/jedi-council-playoff-edition-2/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/heartbreak-sabres-beaten-in-game-7-overtime-by-canadiens/",
+      "team": "sabres",
+      "title": "Heartbreak – Sabres beaten in Game 7 overtime by Canadiens",
+      "summary": "Score: Canadiens 3 | Sabres 2 (OT)\n\n\n\nShots: MTR 25 | BUF 39\n\n\n\nBuffalo Sabres Goals:\n\n\n\n\nGreenway (Samuelsson, Malenstyn)\n\n\n\nDahlin (Power, McLeod)\n\n\n\n\nMontreal Canadiens Goals:\n\n\n\n\nDanault (Guhle, Texier)\n\n\n\nBolduc (Suzuki, Hutson)\n\n\n\nNewhook (Carrier)\n\n\n\n\nFinal Thoughts\n\n\n\nThis is a tough one to swallow. After a brutal start, Buffalo took control of the game. The 4th line had a great shift to get them on the board, and Dahlin buried a nifty feed from Power to equalize the game. They were generating most of the chances and it felt like they it was just a matter of time until they grabbed the lead. They thought they had before a play was ruled dead before the puck crossed the line. Once the game went into overtime, the game reset and became an even battle. Montreal had most of the chances off the hop, but Buffalo countered with some great opportunities of their own. Poor decision making at the offensive blue line ultimately led to the series clinching goal for Montreal on Newhook’s wrist shot. As much as this sucks, this team has a lot to be proud of. They dug themselves out of the early hole by chipping away and battling back. They were right there, and the future is extremely bright as long as they don’t remain complacent. A wild ride ends with heartbreak, but this is a team Sabres fans can be proud of.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-19T09:22:48.000Z",
+      "link": "https://www.diebytheblade.com/heartbreak-sabres-beaten-in-game-7-overtime-by-canadiens/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-7-preview-open-thread-sabres-vs-canadiens/",
+      "team": "sabres",
+      "title": "Game 7 Preview & Open Thread: Sabres vs Canadiens",
+      "summary": "Insane Series to Conclude on Buffalo’s Home Ice\n\n\n\nMontreal Canadiens (7-6) at Buffalo Sabres (7-5)\n\n\n\nPuck Drop: 7:30 PM | Keybank Center | Buffalo, New York\n\n\n\nTV: ESPN\n\n\n\nRadio: WGR 550\n\n\n\nKnow Your Opponent\n\n\n\nMontreal Canadiens\n\n\n\nRecord: 48-24-10 | 106 PTS\n\n\n\nDivision Ranking: 3rd in the Atlantic Division\n\n\n\nLast Game: Lost to the Sabres, 8-3\n\n\n\nPP: 23.5%  | Sabres 20.8%\n\n\n\nPK: 73.6% | Sabres 78.0%\n\n\n\nWhat to Watch\n\n\n\n1. For All the Marbles\n\n\n\nGame 7 in the second round of the NHL playoffs, this is what the Buffalo Sabres are challenged with. The winner of tonight’s contest with Montreal will advance into the FINAL FOUR remaining teams, one of which will hoist sport’s ultimate trophy, the Stanley Cup. Buffalo got here with a remarkable 8-3 victory in the madness that is the Bell Center. Now they are tasked with closing it out. When asked about the final game in this wildly insane series, forward Tage Thompson had this to say; “It’s another game that we get to embrace. I think if you would have asked every guy in here in September if they would have taken being in Game 7 in round two, we all would have signed up for that. So we’re in a great spot. Like I said, now it’s just one game. That’s all that matters.” (from Sabres.com) He’s right, it’s a one game series now to be played on their home ice, where they have stumbled to a 2-4 record so far. (while going 5-1 on the road) Sabres’ fans certainly hope they can course correct things at Keybank Center for the series finale.\n\n\n\nTonight’s winner will play the thumb twiddling Carolina Hurricanes in the Eastern Conference Finals. The undefeated ‘Canes are 8-0, having mowed down the Flyers and Senators in short order. That, along with some wonky NHL scheduling, will see Carolina have nearly two weeks off between rounds. Will that be a huge advantage for the Hurricanes or will the layoff of not playing meaningful games for so long adversely effect them? To be honest, I only care about that if the Sabres advance. So Buffalo must win to find out. \n\n\n\n2. Bangers and Mash\n\n\n\nIn a series/playoffs where Buffalo’s vets have mostly struggled and we have seen the rise of the young talent, it may seen odd to point out the 4th line before game 7. I am doing that in the hopes they can bring the tight checking and the hard hits one more time, at their highest level so far. The Canadiens have scored in bunches mostly, many right after the Sabres just found twine. That needs to stop in this crucial final contest. I’d like to see Beck Malenstyn, Jordan Greenway and (now) Peyton Krebs on the ice every shift after Buffalo scores. Task your defensively responsible, hard working lunch pail grinders to swarm the Habs and keep them in check. Don’t let Montreal turn around and put the pressure right back on the Sabres. This trio can do just that.\n\n\n\nIt would be a huge bonus if the Greenway – Krebs – Malenstyn combo could plot a goal tonight as well. Only Greenway has cashed in on the scoreboard this round. Any additional tallies from Jordan, Peyton or Beck would be gravy for the team. Hopefully, Buffalo will get a contribution from each forward line in this pivotal game. The D can certainly continue to chip in as well.\n\n\n\nMay 6, 2026; Buffalo, New York, USA; Buffalo Sabres left wing Jordan Greenway (12) celebrates his goal with teammates during the second period against the Montréal Canadiens in game one of the second round of the 2026 Stanley Cup Playoffs at KeyBank Center. Mandatory Credit: Timothy T. Ludwig-Imagn Images\n\n\n\n3. Make it Count\n\n\n\nThe Sabres have defied the odds this season and done the seemingly impossible. For many, ending the drought and making a strong playoff showing is more than satisfactory. Being so close now, to the point the fans and players can almost taste it, well…you have to go for gold. Buffalo must lay it all on the line to advance to their first Eastern Conference finals since the 2006-07 season. Worry about Carolina when you get there. The Blue and Gold have the talent, the grit and the fortitude to get it done.\n\n\n\nYou know the Canadiens are going to bring it after the embarrassment they suffered at home. The Sabres must play to their strengths, using their speed and getting pucks to the net while involving the dangerous, mobile defense they have. Buffalo dominated 5 on 5 last game, so stay out of the damn box. Montreal is frighteningly good snapping that puck around and ever threatening to score. If the Sabres can get up a couple goals and lay that relentless forecheck on them, there is no reason this whirlwind season cannot continue. So put on your lucky Sabres jerseys/hats/underoos DBTB community, whatever you got. Rub Rob Ray’s head for luck if you can. (you better be fast though) Say your prayers and take your vitamins and cheer like HELL for our boys. LET’S GO, BUFFALO!\n\n\n\n\n\n\n\nI know many of you are nervous and antsy right now as we await tonight’s game. For a little levity, (no pun intended?) I spotted this fellow in the main photo from above. This was from game one of the series. I can’t help but wonder what his story is. He is obviously a Leafs fan, but does he consider Buffalo his second team to root for? Maybe he crossed the border just to enjoy playoff hockey in person? (especially after Toronto fell into the dumper this year) He seems genuinely excited the Sabres scored and is capturing that memory on his phone. I wish I knew more about his reasoning for attending a Sabres/Canadiens game in a Leafs jersey. Look for him along the glass tonight on TV and ask him for me if you see him in person!\n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres\n\n\n\nForwards:\n\n\n\nBenson – Norris – ThompsonDoan – McLeod – TuchZucker – Helenius – QuinnGreenway – Krebs – Malenstyn\n\n\n\nDefense:\n\n\n\nSamuelsson – DahlinByram – PowerMetsa – Timmins\n\n\n\nGoalies:\n\n\n\nLuukkonen, Lyon\n\n\n\nMontreal Canadiens\n\n\n\nForwards:\n\n\n\nCaufield – Suzuki – SlafkovskyNewhook – Evans – DemidovTexier – Danault – AndersonBolduc – Veleno – Dach\n\n\n\nDefense:\n\n\n\nMatheson – CarrierHutson – GuhleXhekaj – Dobson\n\n\n\nGoalies:\n\n\n\nDobeš, Fowler",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-18T17:56:32.000Z",
+      "link": "https://www.diebytheblade.com/game-7-preview-open-thread-sabres-vs-canadiens/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-8-3-canadiens-fight-game-7-at-home-recap-reaction/",
+      "team": "sabres",
+      "title": "Sabres live to fight Game 7 at home against Canadiens",
+      "summary": "Buffalo roared back playing the kind of road game they have perfected, winning big in Montreal with the series on the line\n\n\n\nBoxscore\n\n\n\nScore: Buffalo Sabres 7-3 Montreal Canadiens\n\n\n\nShots: BUF 36-22 MTL\n\n\n\nBuffalo Sabres Goals: Dahlin 3 (Samuelsson, Benson); Zucker PPG 2 (Norris, Quinn); Benson 5 (Thompson, Byram); Quinn PPG 1 (Dahlin, Thompson); Helenius 2 (Zucker, Dahlin); Quinn PPG 2 (Thompson, Dahlin); Thompson EN 5 (Unassisted); Metsa PPG 1 (McLeod, Dahlin)Montreal Canadiens Goals: Xhekaj 1 (Evan); Demidov PPG 2 (Hutson, Caufield); Evans 2 (Matheson)\n\n\n\nAt The Horn\n\n\n\nThe game could not have gone south as quickly as it did from about thirty seconds in after Rasmus Dahlin put the Sabres in an early lead. Alex Lyon gave up three goals in four minutes, one even strength, one power play and one shorthanded as Montreal roared into a 3-1 lead at the first period. \n\n\n\nBuffalo’s postseason looked dead and buried at that point, but in a bold second period effort they came roaring back with three unanswered goals to take a 5-3 lead, which became 8-3 with another three goal outburst in the final stanza. \n\n\n\nRasmus Dahlin led from the front with a five-point game while the much-maligned Tage Thompson logging a goal and three assists. Jack Quinn broke his goal hoodoo with two on the power play as the Sabres took advantage of Montreal’s indiscipline going 4/6 with the man advantage while holding the hosts to 1/3. \n\n\n\nFinally, kudos to the faceoff men tonight as they won 60.7% of them, making a big difference in possession. \n\n\n\nNow the two teams meet in a winner-takes-all game on Monday night knowing fully well that both teams have played much better on the road.  \n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-05-16: pic.twitter.com/8619YNBRdT&mdash; HockeyStatCards (@hockeystatcards) May 17, 2026",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-17T03:16:37.000Z",
+      "link": "https://www.diebytheblade.com/sabres-8-3-canadiens-fight-game-7-at-home-recap-reaction/"
     },
     {
       "id": "bandits-official::https://bandits.com/smith-de-snoo-headline-bandits-named-to-capelli-sport-all-nll-teams/",
