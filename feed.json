@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T10:43:01.283Z",
+  "generatedAt": "2026-06-09T18:30:27.843Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,37 +176,169 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49002362/united-states-defender-richards-full-participant-monday",
-      "team": "usmnt",
-      "title": "U.S. defender Richards full participant on Monday",
-      "summary": "United States defender Chris Richards was a full participant in Monday's open training session at Great Park ahead of the Americans' opening FIFA World Cup match on Friday.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265576-mandatory-minicamp-69/",
+      "team": "bills",
+      "title": "Mandatory Minicamp 6/9",
+      "summary": "Last practice for media availability until training camp.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-09T10:57:56.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49002362/united-states-defender-richards-full-participant-monday"
+      "publishedAt": "2026-06-09T17:55:20.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265576-mandatory-minicamp-69/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-rumors/135250/should-buffalo-bills-josh-allen-want-stefon-diggs-back",
+      "team": "bills",
+      "title": "Should the Buffalo Bills even want Stefon Diggs back?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T17:34:58.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-rumors/135250/should-buffalo-bills-josh-allen-want-stefon-diggs-back"
     },
     {
       "id": "espn-bills::48957897",
       "team": "bills",
-      "title": "Quarterback questions for 32 NFL teams: Contracts, injuries",
+      "title": "QB questions for all 32 NFL teams: Contracts, injuries, more",
       "summary": "Are Baker Mayfield and Sam Darnold headed for big extensions? Can Bryce Young level up again? When will Fernando Mendoza start?",
       "source": "ESPN · Dan Graziano",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-09T10:12:58Z",
+      "publishedAt": "2026-06-09T17:07:38Z",
       "link": "https://www.espn.com/nfl/story/_/id/48957897/2026-nfl-quarterback-questions-32-teams-battles-contracts-expectations-injuries"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48992935/american-soccer-stigma-usmnt-world-cup-change-it",
-      "team": "usmnt",
-      "title": "American soccer still has a global stigma: Can the...",
-      "summary": "USMNT players past and present open up about the stigma of being an American in soccer ahead of the World Cup.",
-      "source": "ESPN Soccer",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-rumors/135243/dion-dawkins-hints-at-stefon-diggs-reunion-with-buffalo-bills-on-instagram",
+      "team": "bills",
+      "title": "Dion Dawkins hints at Stefon Diggs reunion with Buffalo Bills on Instagram",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T16:46:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-rumors/135243/dion-dawkins-hints-at-stefon-diggs-reunion-with-buffalo-bills-on-instagram"
+    },
+    {
+      "id": "espn-sabres::49010353",
+      "team": "sabres",
+      "title": "Mark Messier: Hurricanes have to win G4 to stay in series",
+      "summary": "Mark Messier: Hurricanes have to win G4 to stay in series",
+      "source": "ESPN",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-09T09:50:18.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48992935/american-soccer-stigma-usmnt-world-cup-change-it"
+      "publishedAt": "2026-06-09T16:21:56Z",
+      "link": "https://www.espn.com/video/clip/_/id/49010353/hurricanes-win-g4-stay-series"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265575-ray-davis-sounds-like-he%E2%80%99s-pushing-his-way-out%E2%80%A6/",
+      "team": "bills",
+      "title": "Ray Davis sounds like he’s pushing his way out…",
+      "summary": "Read the Sporting News article on the front page of the site this morning.  Davis sounds like he’s had enough ceding carries to Cook and Ty.  I thought he looked like he lost burst out of the backfield last year compared to year one, though he looked great as a kick returner.  \n\t \n\n\n\n\tI thought it odd that he was bitter enough to insinuate he wants out.  Thoughts?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T14:18:04.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265575-ray-davis-sounds-like-he%E2%80%99s-pushing-his-way-out%E2%80%A6/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-chris-richards-returns-to-full-training-days-world-cup-paraguay/",
+      "team": "usmnt",
+      "title": "USMNT's Chris Richards returns to full training days before World Cup opener; Tyler Adams doesn't practice",
+      "summary": "Richards trained fully with the group for the first time since camp opened 12 days ago, making his way back from an ankle injury",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T14:02:54.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnts-chris-richards-returns-to-full-training-days-world-cup-paraguay/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-fifa-world-cup-predictions-picking-every-game-england-vs-spain-messi-vs-ronaldo-usmnt/",
+      "team": "usmnt",
+      "title": "2026 FIFA World Cup predictions, picking every game: England vs. Spain; Messi vs. Ronaldo; USMNT end drought",
+      "summary": "The 48-team field produces some incredible matchups in the knockout stages, and the U.S. go on to win their first knockout game at the World Cup since 2002",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T13:02:07.000Z",
+      "link": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-predictions-picking-every-game-england-vs-spain-messi-vs-ronaldo-usmnt/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-2026-picks-odds-lines-predictions-usmnt-props-best-bets-futures/",
+      "team": "usmnt",
+      "title": "World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert",
+      "summary": "Jon \"Buckets\" Eimer has locked in his top USMNT prop bets for the 2026 World Cup being hosted by the United States, Canada and Mexico",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T12:15:38.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-2026-picks-odds-lines-predictions-usmnt-props-best-bets-futures/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135232/buffalo-bills-three-day-mandatory-minicamp-starts-today",
+      "team": "bills",
+      "title": "Buffalo Bills three-day mandatory minicamp starts today",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T11:57:07.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135232/buffalo-bills-three-day-mandatory-minicamp-starts-today"
+    },
+    {
+      "id": "espn-sabres::48526483",
+      "team": "sabres",
+      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
+      "summary": "Can the Canes tie the series at 2-2, or will the Golden Knights take a 3-1 lead?",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T11:53:02Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/134962/plays-that-defined-2025-dolphins-at-bills-week-3",
+      "team": "bills",
+      "title": "Plays That Defined 2025: Dolphins at Bills; Week 3",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T11:10:20.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/134962/plays-that-defined-2025-dolphins-at-bills-week-3"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135214/is-buffalo-bills-defensive-roster-better-than-it-was-one-year-ago",
+      "team": "bills",
+      "title": "Is the Bills defensive roster better than it was one year ago?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T11:06:12.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135214/is-buffalo-bills-defensive-roster-better-than-it-was-one-year-ago"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44220/man-of-the-match-usa-vs-germany-2026-friendly",
+      "team": "usmnt",
+      "title": "Man of the Match: USA vs. Germany, 2026 Friendly",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T07:49:43.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44220/man-of-the-match-usa-vs-germany-2026-friendly"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44123/2026-world-cup-group-l-preview",
+      "team": "usmnt",
+      "title": "2026 World Cup: Group L Preview",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T07:48:55.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44123/2026-world-cup-group-l-preview"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265574-mcd-spotted-at-giants-minicamp/",
@@ -229,28 +361,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-08T22:30:58Z",
       "link": "https://www.espn.com/nhl/story/_/id/49003478/hurricanes-rod-brindamour-not-revealing-game-4-goalie-choice"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-chris-richards-returns-to-full-training-days-world-cup-paraguay/",
-      "team": "usmnt",
-      "title": "USMNT's Chris Richards returns to full training days before World Cup opener; Tyler Adams doesn't practice",
-      "summary": "Richards trained fully with the group for the first time since camp opened 12 days ago, making his way back from an ankle injury",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-08T21:05:24.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnts-chris-richards-returns-to-full-training-days-world-cup-paraguay/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-2026-picks-odds-predictions-usmnt-props-best-bets-futures/",
-      "team": "usmnt",
-      "title": "World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert",
-      "summary": "Jon \"Buckets\" Eimer has locked in his top USMNT prop bets for the 2026 World Cup being hosted by the United States, Canada and Mexico",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-08T19:00:44.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-2026-picks-odds-predictions-usmnt-props-best-bets-futures/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/copa-america/44201/2026-world-cup-group-k-preview",
@@ -286,6 +396,28 @@
       "link": "https://www.espn.com/video/clip/_/id/49001798/shaping-one-best-stanley-cup-finals-ever"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135200/91-buffalo-bills-players-in-91-days-wide-receiver-tyrell-shavers",
+      "team": "bills",
+      "title": "91 Buffalo Bills players in 91 days: wide receiver Tyrell Shavers",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-08T17:49:32.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135200/91-buffalo-bills-players-in-91-days-wide-receiver-tyrell-shavers"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135190/calculating-what-josh-allen-will-need-to-do-to-become-nfls-all-time-rushing-touchdowns-leader",
+      "team": "bills",
+      "title": "Calculating what Josh Allen will need to do to become NFL’s all-time rushing touchdowns leader",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-08T17:48:04.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135190/calculating-what-josh-allen-will-need-to-do-to-become-nfls-all-time-rushing-touchdowns-leader"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265571-is-dj-moore-just-213-lb/",
       "team": "bills",
       "title": "Is DJ Moore just 213 lb?",
@@ -295,6 +427,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-08T16:12:30.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265571-is-dj-moore-just-213-lb/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44212/usa-vs-brazil-2026-friendly-time-tv-schedule-streaming-and-lineups",
+      "team": "usmnt",
+      "title": "USA vs. Brazil, 2026 Friendly: Time, TV schedule, streaming and lineups",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-08T15:36:11.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44212/usa-vs-brazil-2026-friendly-time-tv-schedule-streaming-and-lineups"
     },
     {
       "id": "espn-sabres::48994598",
@@ -363,17 +506,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-depth-chart/135095/91-buffalo-bills-players-in-91-days-defensive-end-kody-huisman"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135168/calculating-what-josh-allen-will-need-to-do-to-become-nfls-all-time-total-touchdown-record-holder",
-      "team": "bills",
-      "title": "Calculating what Josh Allen will need to do to become NFL’s all-time total touchdown record holder",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-08T12:30:41.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135168/calculating-what-josh-allen-will-need-to-do-to-become-nfls-all-time-total-touchdown-record-holder"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265569-the-tyler-bass-convo-and-poll/",
       "team": "bills",
       "title": "The Tyler Bass convo and poll",
@@ -396,17 +528,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48993774/2026-nhl-playoffs-stanley-cup-final-hurricanes-babies-kandre-miller-jalen-chatfield-sean-walker"
     },
     {
-      "id": "espn-sabres::48997732",
-      "team": "sabres",
-      "title": "Vegas brings 2-1 series lead into game 4 against Carolina",
-      "summary": "Carolina Hurricanes (53-22-7, in the Metropolitan Division) vs. Vegas Golden Knights (39-26-17, in the Pacific Division)",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-08T08:12:01Z",
-      "link": "http://www.espn.com/nhl/preview?gameId=401874174"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265568-worst-bills-qb-to-play-in-the-last-30-years/",
       "team": "bills",
       "title": "Worst Bills QB to play in the last 30 years",
@@ -416,28 +537,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-08T00:08:22.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265568-worst-bills-qb-to-play-in-the-last-30-years/"
-    },
-    {
-      "id": "espn-sabres::48995376",
-      "team": "sabres",
-      "title": "As Vegas eyes Game 4, Golden Knights applaud Brayden McNabb",
-      "summary": "Vegas defenseman Brayden McNabb played Game 3 of the Stanley Cup Finals with at least two dozen stitches in his face that forced the Golden Knights veteran to wear a caged helmet for the first time since his youth hockey days in Davidson, Saskatchewan.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-08T00:02:41Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48995376/as-vegas-eyes-game-4-golden-knights-applaud-brayden-mcnabb"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/bills-mafia/135157/dalton-kincaid-dominates-greg-rousseaus-buffalo-bills-charity-softball-game",
-      "team": "bills",
-      "title": "Dalton Kincaid dominates Greg Rousseau’s Buffalo Bills charity softball game",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-07T22:06:32.000Z",
-      "link": "https://www.buffalorumblings.com/bills-mafia/135157/dalton-kincaid-dominates-greg-rousseaus-buffalo-bills-charity-softball-game"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/flashback-gerry-meehan-explains-why-and-how-the-sabres-traded-for-goalie-dominik-hasek/",
@@ -460,61 +559,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-07T19:39:42.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-friendly/44195/usa-vs-germany-2026-friendly-community-player-ratings"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/bills-mafia/135149/greg-rousseau-hosting-charity-softball-game-today-in-rochester",
-      "team": "bills",
-      "title": "Greg Rousseau hosting charity softball game today in Rochester",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-07T16:28:24.000Z",
-      "link": "https://www.buffalorumblings.com/bills-mafia/135149/greg-rousseau-hosting-charity-softball-game-today-in-rochester"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135019/bills-news-what-did-brandon-beane-observe-during-otas",
-      "team": "bills",
-      "title": "Bills news: What did Brandon Beane observe during OTAs?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-07T15:26:39.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135019/bills-news-what-did-brandon-beane-observe-during-otas"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-depth-chart/135098/91-buffalo-bills-players-in-91-days-punter-tommy-doman-jr",
-      "team": "bills",
-      "title": "91 Buffalo Bills players in 91 days: punter Tommy Doman Jr.",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-07T12:52:06.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-depth-chart/135098/91-buffalo-bills-players-in-91-days-punter-tommy-doman-jr"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/135124/predicting-buffalo-bills-target-shares-josh-allens-statistics-in-2026",
-      "team": "bills",
-      "title": "Predicting Buffalo Bills target shares, Josh Allen’s statistics in 2026",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-07T12:48:04.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/135124/predicting-buffalo-bills-target-shares-josh-allens-statistics-in-2026"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48893158/how-usmnt-went-italia-90-embarrassment-world-cup-force-1994",
-      "team": "usmnt",
-      "title": "How the USMNT went from embarrassment in Italy to ...",
-      "summary": "A World Cup on home soil looms. The last time America hosted, things were very different.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-07T09:21:30.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48893158/how-usmnt-went-italia-90-embarrassment-world-cup-force-1994"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/44154/uswnt-loses-to-brazil-in-lively-back-and-forth-battle",
@@ -605,28 +649,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265566-bills-sign-kansas-city-chiefs-wide-receiver-mac-dalena-waive-daryl-porter-jr/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-depth-chart/135086/91-buffalo-bills-players-in-91-days-tight-end-shane-zylstra",
-      "team": "bills",
-      "title": "91 Buffalo Bills players in 91 days: tight end Shane Zylstra",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-06T14:26:23.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-depth-chart/135086/91-buffalo-bills-players-in-91-days-tight-end-shane-zylstra"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/135115/myles-garrett-aiming-to-break-bruce-smiths-sack-record",
-      "team": "bills",
-      "title": "Myles Garrett aiming to break Bruce Smith’s sack record",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-06T13:50:53.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/135115/myles-garrett-aiming-to-break-bruce-smiths-sack-record"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265565-cfl-changes-bring-it-closer-to-the-nfl-game/",
       "team": "bills",
       "title": "CFL changes bring it closer to the NFL game",
@@ -669,17 +691,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-05T18:47:54.000Z",
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44091/2026-world-cup-group-j-preview"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44107/uswnt-vs-brazil-2026-friendly-time-tv-schedule-streaming-and-lineups",
-      "team": "usmnt",
-      "title": "USWNT vs. Brazil, 2026 Friendly: Time, TV schedule, streaming and lineups",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-05T18:37:42.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44107/uswnt-vs-brazil-2026-friendly-time-tv-schedule-streaming-and-lineups"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265562-the-hall-of-very-good-but-not-great/",
@@ -748,17 +759,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-promotions-in-scouting-department"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265553-wr-watson-paid-in-gb-would-you-have-supported-this/",
-      "team": "bills",
-      "title": "WR Watson Paid in GB.  Would you have supported this?",
-      "summary": "While I see what he can do when on the field, staying on the field has been a huge opportunity for him.  I’m curious to see how it was structured and if the Packers gave themselves an out.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-04T17:54:04.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265553-wr-watson-paid-in-gb-would-you-have-supported-this/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-fifa-world-cup-why-top-contenders-usmnt-could-win-it-all/",
       "team": "usmnt",
       "title": "Who will win the 2026 FIFA World Cup? Why each of the top contenders (and the USMNT?) could win it all",
@@ -790,17 +790,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-04T05:04:21.000Z",
       "link": "https://www.buffalohockeybeat.com/jon-cooper-beats-out-sabres-lindy-ruff-and-dan-muse-for-jack-adams-award/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265545-add-a-good-not-great-player-to-our-current-squad/",
-      "team": "bills",
-      "title": "Add a Good Not Great Player to Our Current Squad",
-      "summary": "Excluding Legends, you can bring back any player from the Bills, in his prime with us. But he has to be:\n\n\n\n\t \n\n\n\n\t5 years retired from football (theoretically HOF eligible)\n\n\n\n\t \n\n\n\n\tNot in the Pro Football Hall of Fame \n\n\n\n\t \n\n\n\n\tNot on the Bills wall of Fame. \n\n\n\n\t \n\n\n\n\tMy initial answer was Kyle Williams. But I feel that it's only a matter of time before his name goes up on the wall.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T19:34:04.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265545-add-a-good-not-great-player-to-our-current-squad/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-chris-richards-training-individually-injury-status-still-unclear-for-world-cup-opener/",
@@ -845,17 +834,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-03T16:19:37.000Z",
       "link": "https://www.cbssports.com/betting/news/world-cup-2026-odds-futures-mexico-aiming-to-restore-its-soccer-standing-with-deep-tournament-run/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265541-tbdahot-rollcall/",
-      "team": "bills",
-      "title": "TBDAHOT: Rollcall",
-      "summary": "I understand things may look drastically different this year, but I want to get a sense who’s up for keeping this tradition going!\n\n\n\n\t \n\n\n\n\tPlease let me know if you want to get together for the home opener this year. It doesn’t matter if you’ve gone to 1, 25 or if you have never attended one. Everyone’s welcome! Even if you don’t plan on going inside for the game.\n\n\n\n\t \n\n\n\n\tWith regards to this topic, I do not have any interest in people who are going and plan to het together elsewhere. Enjoy yourself, be safe, but do not talk about it in this topic.\n\n\n\n\t \n\n\n\n\tI don’t want to officially speak for others, but I believe me, Jay Rosen, and Guffalo are definitely carrying on the tradition. \n\n\n\n\t \n\n\n\n\tWho else?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-03T15:38:08.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265541-tbdahot-rollcall/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-earn-heartsafe-workplace-designation",
@@ -913,17 +891,6 @@
       "link": "https://www.cbssports.com/soccer/news/how-usmnts-brenden-aaronson-balanced-intense-world-cup-roster-call-up-and-wedding/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mls-players-at-2026-world-cup-record-messi-usmnt-what-to-know/",
-      "team": "usmnt",
-      "title": "MLS players at 2026 World Cup: League sets record with Lionel Messi, USMNT talent set to play big roles",
-      "summary": "A record 44 MLS players will compete in the 2026 World Cup, highlighting the league’s massive global growth since the tournament was last in North America",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-02T18:03:23.000Z",
-      "link": "https://www.cbssports.com/soccer/news/mls-players-at-2026-world-cup-record-messi-usmnt-what-to-know/"
-    },
-    {
       "id": "espn-bills::47809892",
       "team": "bills",
       "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
@@ -944,6 +911,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-02T02:27:32.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-give-up-rights-to-three-unsigned-draft-picks/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265529-aj-brown-to-pats-for-2028-1st-2027-5th/",
+      "team": "bills",
+      "title": "AJ Brown to Pats for 2028 1st & 2027 5th",
+      "summary": "There it is. I was hoping that it was a 2027 1st round pick going out.  I’m still not scared at all of the Pats.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-01T20:25:49.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265529-aj-brown-to-pats-for-2028-1st-2027-5th/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265527-myles-garrett-traded-to-rams/",
@@ -1120,17 +1098,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-23T01:02:51.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265480-dalton-kincaid-is-a-top-5-te/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265478-american-airlines-adds-flights-for-some-bills-road-games/",
-      "team": "bills",
-      "title": "American Airlines adds flights for some Bills road games",
-      "summary": "If you're heading to Las Vegas, Green Bay or Miami there will be additional nonstop flight options.  \n\n\n\n\t \n\n\n\n\t \n\n\n\n\t“American Airlines is offering expanded flights from Buffalo Niagara International Airport to Las Vegas, Green Bay and Miami during the weekends when the Bills travel to play those opponents.  The airline added round-trip flights to and from Las Vegas on Oct. 16 and 19; Green Bay on Dec. 12 and 14; and Miami on Dec. 31 and Jan. 4.”\n\n\n\n\t \n\n\n\n\thttps://buffalonews.com/news/local/article_a7f67133-97f7-4434-bf11-c6e0d72e18eb.html",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-22T20:24:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265478-american-airlines-adds-flights-for-some-bills-road-games/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-sign-lindy-ruff-to-two-year-extension-2027-28/",
@@ -1318,6 +1285,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-03-05T16:43:38.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/264801-espn-sources-the-chicago-bears-are-finalizing-a-trade-that-would-send-wr-dj-moore-to-the-bills/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264689-new-jersey-jets-new-jersey-giants-and-now-potentially-indiana-bears/",
+      "team": "bills",
+      "title": "New Jersey Jets, New Jersey Giants and now potentially Indiana Bears",
+      "summary": "Its roughly 25-30 miles from downtown Chicago.  I wonder if this increases their fan base?  \n\t \n\n\n\n\tHas anyone been to Soldier Field?  Is it a dump?\n\t \n\n\n\n\thttps://www.nfl.com/news/bears-potential-move-indiana-step-forward-effort-build-stadium-illinois-lingers",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-02-20T02:45:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/264689-new-jersey-jets-new-jersey-giants-and-now-potentially-indiana-bears/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/",
