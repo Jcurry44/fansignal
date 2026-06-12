@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T11:52:21.372Z",
+  "generatedAt": "2026-06-12T18:33:08.533Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -96,8 +96,8 @@
       "id": "hfboards-sabres",
       "label": "HFBoards",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "HTTP 403"
+      "itemCount": 20,
+      "error": null
     },
     {
       "id": "stars-and-stripes",
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 5,
+      "itemCount": 0,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 12,
+      "itemCount": 14,
       "error": null
     },
     {
@@ -176,37 +176,202 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49038874/mauricio-pochettino-usmnst-high-expectations-world-cup",
-      "team": "usmnt",
-      "title": "Berhalter backs USMNT ambition at World Cup",
-      "summary": "Former United States boss Gregg Berhalter is confident Mauricio Pochettino's side can achieve \"big things\" at the World Cup and help football's continued growth in the country.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-12T11:56:57.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49038874/mauricio-pochettino-usmnst-high-expectations-world-cup"
+      "publishedAt": "2026-06-12T18:29:38.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49009288/meet-usmnt-26-players-striving-win-world-cup-home-soil",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-vs-paraguay-world-cup-2026-preview-predictions-watch/",
       "team": "usmnt",
-      "title": "Meet the USMNT: The 26 players striving to win a W...",
-      "summary": "With the U.S. kicking off its World Cup campaign Friday, ESPN introduces you to the 26 players tasked with taking the co-hosts on a deep run.",
-      "source": "ESPN Soccer",
+      "title": "USMNT vs. Paraguay live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
+      "summary": "The Americans kick off their campaign on Friday night, hosting defensive-minded Paraguay, who beat both Argentina and Brazil in qualifying",
+      "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-12T11:55:08.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49009288/meet-usmnt-26-players-striving-win-world-cup-home-soil"
+      "publishedAt": "2026-06-12T18:22:08.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-vs-paraguay-world-cup-2026-preview-predictions-watch/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usa-paraguay-odds-prediction-line-time-2026-world-cup-picks-best-bets/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/",
+      "team": "sabres",
+      "title": "Rasmus Dahlin Part 4 - 2026 Second Team All Star",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T18:09:29.000Z",
+      "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
+      "team": "sabres",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T18:04:00.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-best-bets-folarin-balogun-in-expert-best-bets-for-friday/",
+      "team": "usmnt",
+      "title": "Free 2026 World Cup anytime goalscorer picks, odds, best bets: Folarin Balogun in expert best bets for Friday",
+      "summary": "SportsLine expert Jim Holliman reveals his best World Cup anytime goalscorer prop picks for Friday, June 12",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T18:03:28.000Z",
+      "link": "https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-best-bets-folarin-balogun-in-expert-best-bets-for-friday/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
+      "team": "sabres",
+      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T16:50:33.000Z",
+      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usa-paraguay-odds-prediction-line-start-time-2026-world-cup-picks-best-bets/",
       "team": "usmnt",
       "title": "USMNT vs. Paraguay odds, prediction, time: 2026 World Cup picks, best bets from expert on 31-13 roll",
       "summary": "SportsLine's Jon Eimer reveals his Paraguay vs. USA best bets for World Cup 2026 action on Friday",
       "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-12T10:56:35.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usa-paraguay-odds-prediction-line-time-2026-world-cup-picks-best-bets/"
+      "publishedAt": "2026-06-12T16:28:37.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usa-paraguay-odds-prediction-line-start-time-2026-world-cup-picks-best-bets/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-world-cup-opponents-what-to-know-about-paraguay-australia-and-turkiye/",
+      "team": "usmnt",
+      "title": "Meet USMNT's World Cup opponents: What to know about Paraguay, Australia and Turkiye",
+      "summary": "The U.S. may have gotten a favorable draw, but make no mistake -- this is a tough group across the board and one that will present plenty of challenges",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T16:01:56.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnts-world-cup-opponents-what-to-know-about-paraguay-australia-and-turkiye/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-footy-fix-usmnt-and-canada-kick-off-on-friday-brazil-in-action-saturday-germany-sunday/",
+      "team": "usmnt",
+      "title": "World Cup Footy Fix: USMNT and Canada kick off on Friday, Brazil in action Saturday, Germany Sunday",
+      "summary": "Elsewhere on Golazo Starting XI, USL remains in action during the World Cup",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T15:45:38.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-footy-fix-usmnt-and-canada-kick-off-on-friday-brazil-in-action-saturday-germany-sunday/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-otas-and-minicamp-over-see-yall-for-training-camp-in-6-weeks-or-so.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: OTAs and Minicamp over.  See y'all for training camp in 6 weeks or so.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T15:27:26.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-otas-and-minicamp-over-see-yall-for-training-camp-in-6-weeks-or-so.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
+      "team": "sabres",
+      "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T15:18:31.000Z",
+      "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/",
+      "team": "sabres",
+      "title": "The 2026 Around the NHL Playoff Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T14:30:47.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-around-the-nhl-playoff-thread.3028531/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-sign-these-members-of-their-2026-nfl-draft-class",
+      "team": "bills",
+      "title": "Buffalo Bills sign these members of their 2026 NFL Draft Class",
+      "summary": "Buffalo has now signed their entire 2026 draft class",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T14:00:00.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-sign-these-members-of-their-2026-nfl-draft-class"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-tyler-adams-fitness-canada-striker-jonathan-david/",
+      "team": "usmnt",
+      "title": "Why the USMNT will go as far as Tyler Adams' fitness will allow; In defense of Canada striker, Jonathan David",
+      "summary": "It's the second day of the World Cup and the USMNT and Canada each are looking to get off on the right foot",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T13:14:02.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-tyler-adams-fitness-canada-striker-jonathan-david/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/",
+      "team": "sabres",
+      "title": "Lindy Ruff and Coaching Thread (Lindy signs extension thru the end of 27/28)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T12:14:58.000Z",
+      "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 27, 124, 156, 188 (Draft is June 26 and 27)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T12:12:44.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T12:00:54.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usa-paraguay-odds-picks-prediction-betting-preview-start-time-2026-world-cup-match-friday/",
+      "team": "usmnt",
+      "title": "USA vs. Paraguay odds, picks, prediction, betting preview, start time for 2026 World Cup match on Friday",
+      "summary": "The U.S. Men's National Team begins its World Cup run with a match against Paraguay on June 12, and you can bet Paraguay vs. USA now on FanDuel",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T11:30:44.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usa-paraguay-odds-picks-prediction-betting-preview-start-time-2026-world-cup-match-friday/"
     },
     {
       "id": "espn-bills::49009790",
@@ -242,28 +407,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/49029525/nhl-2026-playoffs-stanley-cup-final-goaltender-tandems-bussi-andersen-hurricanes"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
-      "team": "usmnt",
-      "title": "Transfer rumors, news: Man United eye USMNT's Robi...",
-      "summary": "Manchester United have short-listed Newcastle United's Lewis Hall and Fulham's Antonee Robinson. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T08:48:43.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49010574/snubbed-us-jesse-marsch-marches-canada-world-cup-mission",
-      "team": "usmnt",
-      "title": "Snubbed by the U.S., Jesse Marsch marches Canada i...",
-      "summary": "Jesse Marsch was certain he was going to be the next USMNT manager. He wasn't. Now he's determined to make his mark at this World Cup with Canada.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T08:10:47.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49010574/snubbed-us-jesse-marsch-marches-canada-world-cup-mission"
-    },
-    {
       "id": "espn-sabres::49030230",
       "team": "sabres",
       "title": "Hurricanes-Golden Knights Game 5 takeaways, grades, questions",
@@ -297,15 +440,15 @@
       "link": "https://www.espn.com/nhl/story/_/id/49037223/andrei-svechnikov-sebastian-aho-lead-carolina-win-stanley-cup"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
-      "team": "usmnt",
-      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
-      "summary": "The group stage standings will dictate which teams advance to the knockout round",
-      "source": "CBS Sports",
-      "sourceType": "league",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-college-hockey-talk.2399315/",
+      "team": "sabres",
+      "title": "General College Hockey Talk",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-12T04:26:23.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
+      "publishedAt": "2026-06-12T03:25:20.000Z",
+      "link": "https://forums.hfboards.com/threads/general-college-hockey-talk.2399315/"
     },
     {
       "id": "espn-sabres::49037270",
@@ -317,6 +460,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-12T03:11:27Z",
       "link": "https://www.espn.com/video/clip/_/id/49037270/game-highlights"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
+      "team": "sabres",
+      "title": "Locked on Sabres Podcast",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T03:05:35.000Z",
+      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
     },
     {
       "id": "espn-sabres::48485622",
@@ -339,17 +493,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-12T02:25:01.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-coach-mauricio-pochettino-aims-high-on-eve-of-world-cup-debut/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-vs-paraguay-world-cup-2026-preview-predictions-watch/",
-      "team": "usmnt",
-      "title": "USMNT vs. Paraguay live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
-      "summary": "The Americans kick off their campaign on Friday night, hosting defensive-minded Paraguay, who beat both Argentina and Brazil in qualifying",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T01:11:19.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-vs-paraguay-world-cup-2026-preview-predictions-watch/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-preview-schedule-storylines-pulisic-balogun/",
@@ -418,17 +561,6 @@
       "link": "https://www.cbssports.com/soccer/news/tyler-adams-rides-high-of-new-york-knicks-nba-finals-run-usmnt-world-cup-2026/"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49011258/nhl-2026-draft-scouting-combine-top-prospects-players-testing-interviews-trades",
-      "team": "sabres",
-      "title": "Overheard at the NHL scouting combine: Most impres...",
-      "summary": "The next wave of future NHL players descended on Buffalo for interviews and testing. Here's what we learned.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-11T20:11:52.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49011258/nhl-2026-draft-scouting-combine-top-prospects-players-testing-interviews-trades"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-make-5-roster-moves-as-2026-minicamp-ends",
       "team": "bills",
       "title": "Buffalo Bills make 5 roster moves as 2026 minicamp ends",
@@ -495,17 +627,6 @@
       "link": "https://www.buffalohockeybeat.com/in-1989-rick-dudley-fought-to-bring-a-relatively-unknown-coach-named-john-tortorella-to-the-buffalo-sabres/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44175/usa-v-germany-2026-friendly-what-we-learned",
-      "team": "usmnt",
-      "title": "USA v. Germany, 2026 Friendly; What we Learned",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-11T18:13:08.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44175/usa-v-germany-2026-friendly-what-we-learned"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135055/plays-that-defined-2025-saints-at-bills-week-4",
       "team": "bills",
       "title": "Plays That Defined 2025: Saints at Bills; Week 4",
@@ -515,6 +636,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-11T17:06:22.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135055/plays-that-defined-2025-saints-at-bills-week-4"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rhd-michael-kesselring-acquired-from-uta.3007406/",
+      "team": "sabres",
+      "title": "RHD Michael Kesselring - Acquired from UTA",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-11T17:03:47.000Z",
+      "link": "https://forums.hfboards.com/threads/rhd-michael-kesselring-acquired-from-uta.3007406/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-sign-f-justin-danforth-to-2-year-deal-worth-1-8m-aav.3008420/",
+      "team": "sabres",
+      "title": "Sabres Sign F Justin Danforth to 2-Year Deal Worth $1.8M AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-11T16:36:49.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-sign-f-justin-danforth-to-2-year-deal-worth-1-8m-aav.3008420/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-lines-predictions-usmnt-props-best-bets-soccer-futures/",
@@ -528,17 +671,6 @@
       "link": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-lines-predictions-usmnt-props-best-bets-soccer-futures/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-chris-richards-world-cup-opener-against-paraguay-after-ankle-injury/",
-      "team": "usmnt",
-      "title": "USMNT's Chris Richards says he's ready for World Cup opener against Paraguay after ankle injury",
-      "summary": "The USMNT gets a massive boost ahead of Friday's World Cup opener as the star defender declares himself fit to play after recovering from an ankle injury",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-11T15:51:17.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnts-chris-richards-world-cup-opener-against-paraguay-after-ankle-injury/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-fifa-world-cup-predictions-picking-every-game-england-vs-spain-messi-vs-ronaldo-usmnt/",
       "team": "usmnt",
       "title": "2026 FIFA World Cup predictions, picking every game: England vs. Spain; Messi vs. Ronaldo; USMNT end drought",
@@ -548,6 +680,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-11T15:38:10.000Z",
       "link": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-predictions-picking-every-game-england-vs-spain-messi-vs-ronaldo-usmnt/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
+      "team": "sabres",
+      "title": "General lacrosse thread presented by your local lax goalie dad",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-11T15:25:04.000Z",
+      "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265593-cbs-one-breakout-player-for-each-afc-team/",
@@ -572,15 +715,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/265591-throwback-thursday-bills-at-oilers-wk-3-1989/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49021145/malik-tillman-stylish-photoshoot-flaunt-magazine-earns-ribbing-usmnt-teammates",
-      "team": "usmnt",
-      "title": "Tillman's stylish photo shoot earns him ribbing fr...",
-      "summary": "Malik Tillman isn't the only footballer to have an interest in fashion, but his photo shoot for Flaunt has raised eyebrows in the USMNT dressing room.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
+      "team": "sabres",
+      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-11T09:28:39.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49021145/malik-tillman-stylish-photoshoot-flaunt-magazine-earns-ribbing-usmnt-teammates"
+      "publishedAt": "2026-06-11T09:32:02.000Z",
+      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/terrific-season-with-rochester-amerks-earns-sabres-konsta-helenius-spot-on-ahl-top-prospects-team/",
@@ -682,37 +825,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-community-philanthropy/135338/patricia-allen-fund-surpasses-17-million-for-golisano-childrens-hospital-of-buffalo"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265584-mahomes-first-half-billion-player/",
-      "team": "bills",
-      "title": "Mahomes first half-billion player",
-      "summary": "Crazy",
-      "source": "TwoBillsDrive",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-special-teams-conversation-thread.3013035/",
+      "team": "sabres",
+      "title": "General special teams conversation thread",
+      "summary": "",
+      "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-10T20:52:32.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265584-mahomes-first-half-billion-player/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettinos-usmnt-vibes-tactics-world-cup-success/",
-      "team": "usmnt",
-      "title": "Mauricio Pochettino's big bet: The USMNT boss has preached vibes over tactics as key to World Cup success",
-      "summary": "Pochettino was hired in Sept. 2024 to lead the U.S. team to a game-changing showing in a World Cup on home soil, their campaign beginning on Friday against Paraguay at SoFi Stadium",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-10T18:10:38.000Z",
-      "link": "https://www.cbssports.com/soccer/news/mauricio-pochettinos-usmnt-vibes-tactics-world-cup-success/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44258/2026-world-cup-matchday-1-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 1: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-10T16:28:23.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44258/2026-world-cup-matchday-1-match-thread-and-discussion"
+      "publishedAt": "2026-06-10T18:15:29.000Z",
+      "link": "https://forums.hfboards.com/threads/general-special-teams-conversation-thread.3013035/"
     },
     {
       "id": "espn-bills::48881830",
@@ -770,17 +891,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/135074/bills-news-recapping-day-1-of-mandatory-minicamp"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44224/2026-world-cup-previewing-usa-vs-paraguay-all-gas-no-brakes",
-      "team": "usmnt",
-      "title": "2026 World Cup – Previewing USA vs. Paraguay: All gas no brakes",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-10T12:17:03.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44224/2026-world-cup-previewing-usa-vs-paraguay-all-gas-no-brakes"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135287/buffalo-bills-offensive-line-will-be-tested-against-premier-pass-rushers-in-2026",
       "team": "bills",
       "title": "The Bills offensive line will be tested against premier pass-rushers in 2026",
@@ -790,6 +900,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-10T11:13:33.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135287/buffalo-bills-offensive-line-will-be-tested-against-premier-pass-rushers-in-2026"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
+      "team": "sabres",
+      "title": "All Purpose Goaltending Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-10T11:12:51.000Z",
+      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-finishes-second-in-masterton-trophy-voting-to-gabriel-landeskog/",
@@ -869,6 +990,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/265577-dorian-williams-on-crutches/"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
+      "team": "sabres",
+      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T20:44:25.000Z",
+      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/how-the-bills-are-taking-part-in-buffalo-s-50th-anniversary-juneteenth-celebration",
       "team": "bills",
       "title": "How the Bills are taking part in Buffalo's 50th anniversary Juneteenth Celebration",
@@ -913,6 +1045,39 @@
       "link": "https://www.espn.com/nfl/story/_/id/48957897/2026-nfl-quarterback-questions-32-teams-battles-contracts-expectations-injuries"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL) and TBD (ECHL)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T16:36:35.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265575-ray-davis-sounds-like-he%E2%80%99s-pushing-his-way-out%E2%80%A6/",
+      "team": "bills",
+      "title": "Ray Davis sounds like he’s pushing his way out…",
+      "summary": "Read the Sporting News article on the front page of the site this morning.  Davis sounds like he’s had enough ceding carries to Cook and Ty.  I thought he looked like he lost burst out of the backfield last year compared to year one, though he looked great as a kick returner.  \n\t \n\n\n\n\tI thought it odd that he was bitter enough to insinuate he wants out.  Thoughts?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T14:18:04.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265575-ray-davis-sounds-like-he%E2%80%99s-pushing-his-way-out%E2%80%A6/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44220/man-of-the-match-usa-vs-germany-2026-friendly",
+      "team": "usmnt",
+      "title": "Man of the Match: USA vs. Germany, 2026 Friendly",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T07:49:43.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44220/man-of-the-match-usa-vs-germany-2026-friendly"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44123/2026-world-cup-group-l-preview",
       "team": "usmnt",
       "title": "2026 World Cup: Group L Preview",
@@ -933,6 +1098,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-09T03:20:04.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265574-mcd-spotted-at-giants-minicamp/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/copa-america/44201/2026-world-cup-group-k-preview",
+      "team": "usmnt",
+      "title": "2026 World Cup: Group K Preview",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-08T18:40:56.000Z",
+      "link": "https://www.starsandstripesfc.com/copa-america/44201/2026-world-cup-group-k-preview"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/44214/usmnt-midweek-viewing-guide-final-preparations",
+      "team": "usmnt",
+      "title": "USMNT midweek viewing guide: Final preparations",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-08T18:39:42.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/44214/usmnt-midweek-viewing-guide-final-preparations"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/flashback-gerry-meehan-explains-why-and-how-the-sabres-traded-for-goalie-dominik-hasek/",
@@ -1076,17 +1263,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-01T14:21:57.000Z",
       "link": "https://www.diebytheblade.com/2025-26-stanley-cup-final-open-thread-vegas-golden-knights-carolina-hurricanes-schedule/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/pride-month-2026-how-to-support-pride-in-western-new-york",
-      "team": "bills",
-      "title": "Pride Month 2026 | How to support Pride in Western New York",
-      "summary": "Pride month begins today and here’s how you can show your support in WNY",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-01T13:00:00.000Z",
-      "link": "https://www.buffalobills.com/news/pride-month-2026-how-to-support-pride-in-western-new-york"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/letter-grades-for-the-players-2025-26-season-part-2-of-2/",
