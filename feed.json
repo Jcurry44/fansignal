@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T16:00:08.626Z",
+  "generatedAt": "2026-06-13T20:50:06.612Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 7,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Sat 3:07 PM",
+      "headline": "Sun 1:37 PM",
       "detail": "vs NYY"
     },
     {
@@ -176,26 +176,81 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49045997/christian-pulisic-subbed-half-usmnt-rolling",
-      "team": "usmnt",
-      "title": "Pulisic subbed off at halftime, 'hoping it's nothi...",
-      "summary": "United States winger Christian Pulisic was substituted at halftime of his team's World Cup opener against Paraguay on Friday, with the Americans leading 3-0 at the break.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-13T16:35:44.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49045997/christian-pulisic-subbed-half-usmnt-rolling"
+      "publishedAt": "2026-06-13T20:30:12.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49047212/folarin-balogun-usa-world-cup-2026-goals-paraguay",
-      "team": "usmnt",
-      "title": "Balogun living WC 'dream' as U.S. choice pays off",
-      "summary": "USMNT striker Folarin Balogun, who could have played for England or Nigeria, said his two goals in Friday's 4-1 World Cup victory over Paraguay made for a \"dreamy night.\"",
-      "source": "ESPN Soccer",
+      "id": "espn-sabres::49052550",
+      "team": "sabres",
+      "title": "Vegas Golden Knights rule out William Karlsson for Game 6",
+      "summary": "Center William Karlsson, injured in his team's Game 5 loss on Thursday night, was ruled out by the Vegas Golden Knights on Saturday, a day before the Carolina Hurricanes, up 3-2 in the series, will try to win the Stanley Cup in Game 6 at T-Mobile Arena.",
+      "source": "ESPN · Greg Wyshynski",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-13T16:35:43.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49047212/folarin-balogun-usa-world-cup-2026-goals-paraguay"
+      "publishedAt": "2026-06-13T20:19:51Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49052550/vegas-golden-knights-rule-william-karlsson-game-6"
+    },
+    {
+      "id": "espn-sabres::49052270",
+      "team": "sabres",
+      "title": "Carolina fan chants 'just noise,' says Knights goalie Carter Hart",
+      "summary": "Knights goalie Carter Hart, who is gearing up for Game 6 of the Stanley Cup Final, says chants from Hurricanes fans referencing a 2024 sexual assault charge he was later acquitted of are \"just noise.\"",
+      "source": "ESPN · Greg Wyshynski",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-13T20:19:51Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49052270/carolina-fan-chants-just-noise-says-knights-goalie-carter-hart"
+    },
+    {
+      "id": "espn-sabres::44686270",
+      "team": "sabres",
+      "title": "Stanley Cup odds: Hurricanes favored to win Cup, Staal new fave for Conn Smythe",
+      "summary": "The Carolina Hurricanes are heavy favorites to clinch the second Stanley Cup in team history.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-13T19:19:13Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
+      "team": "sabres",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-13T19:16:14.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/",
+      "team": "sabres",
+      "title": "Sabres re-sign D Bo Byram.  2 years, $6.25M AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-13T19:06:53.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265612-18-years-ago-today-tim-russert/",
+      "team": "bills",
+      "title": "18 years ago today, Tim Russert",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-13T16:57:18.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265612-18-years-ago-today-tim-russert/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265610-what-are-your-receiving-yards-for-top-6-wrs-in-2026/",
@@ -207,17 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-13T15:36:18.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265610-what-are-your-receiving-yards-for-top-6-wrs-in-2026/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
-      "team": "sabres",
-      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T15:26:33.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
@@ -253,50 +297,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135208/91-buffalo-bills-players-in-91-days-safety-damar-hamlin"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49045006/usmnt-player-ratings-balogun-pulisic-team-best-showings-lead-dazzling-world-cup-opener",
-      "team": "usmnt",
-      "title": "USMNT player ratings: Balogun, Pulisic team-best p...",
-      "summary": "In the USMNT's World Cup-opening win, Folarin Balogun and Christian Pulisic share the spotlight as the team's best players.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T14:49:30.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49045006/usmnt-player-ratings-balogun-pulisic-team-best-showings-lead-dazzling-world-cup-opener"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic",
-      "team": "usmnt",
-      "title": "'The kid is insane': Why Balogun is primed to take...",
-      "summary": "Friday's 4-1 blowout of Paraguay showed that the U.S. men's national team has its star. What if it now has its scorer, too?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T14:49:23.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49048048/balogun-makes-usmnt-better-including-star-pulisic"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49046171/var-review-was-mistaken-identity-check-usmnts-win",
-      "team": "usmnt",
-      "title": "VAR review: What was the 'mistaken identity' check...",
-      "summary": "After originally giving USMNT defender Tim Ream a yellow card, the referee was called to the screen and reissued it to Paraguay's Miguel Almirón.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T14:49:09.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49046171/var-review-was-mistaken-identity-check-usmnts-win"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49046778/usmnts-world-cup-opener-was-perfect",
-      "team": "usmnt",
-      "title": "Copy of Four goals and an electric display: USMNT's World ...",
-      "summary": "World Cup co-hosts the United States banished any doubts hanging over the team with a decisive 4-1 victory over Paraguay on Friday.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T14:49:03.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49046778/usmnts-world-cup-opener-was-perfect"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -330,17 +330,6 @@
       "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T14:07:48.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265609-urban-meyer-on-leonhards-wisconsin-defense-3-years-ago/",
       "team": "bills",
       "title": "Urban Meyer on Leonhard's Wisconsin defense (3 years ago)",
@@ -372,17 +361,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-13T12:42:16.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-player-ratings-folarin-balogun-weston-mckennie-christian-pulisic-paraguay/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49047880/transfer-rumors-news-arsenal-shortlist-three-young-wingers",
-      "team": "usmnt",
-      "title": "Transfer rumors, news: Arsenal shortlist three you...",
-      "summary": "Roma have asked for information on AC Milan and USMNT forward Christian Pulisic. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T08:47:06.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49047880/transfer-rumors-news-arsenal-shortlist-three-young-wingers"
     },
     {
       "id": "espn-sabres::49048072",
@@ -627,17 +605,6 @@
       "link": "https://www.espn.com/video/clip/_/id/49042421/watch-stanley-cup-final-game-6-sunday-8-pm-et-abc-espn-app"
     },
     {
-      "id": "espn-sabres::44686270",
-      "team": "sabres",
-      "title": "Stanley Cup odds: Hurricanes favored to win Cup, Staal new fave for Conn Smythe",
-      "summary": "The Carolina Hurricanes are heavy favorites to clinch the second Stanley Cup in team history.",
-      "source": "ESPN · Doug Greenberg",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T18:25:35Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-vs-paraguay-world-cup-2026-preview-predictions-watch/",
       "team": "usmnt",
       "title": "USMNT vs. Paraguay live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
@@ -770,17 +737,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135380/buffalo-bills-best-players-25-years-old-or-younger"
     },
     {
-      "id": "espn-sabres::49029525",
-      "team": "sabres",
-      "title": "Why goalie tandems have taken over the NHL -- even in the playoffs",
-      "summary": "A variety of factors has resulted in the workhorse goaltender becoming an endangered species.",
-      "source": "ESPN · Ryan Clark",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T12:39:07Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49029525/nhl-2026-playoffs-stanley-cup-final-goaltender-tandems-bussi-andersen-hurricanes"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/",
       "team": "sabres",
       "title": "Lindy Ruff and Coaching Thread (Lindy signs extension thru the end of 27/28)",
@@ -801,17 +757,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-12T11:30:44.000Z",
       "link": "https://www.cbssports.com/soccer/news/usa-paraguay-odds-picks-prediction-betting-preview-start-time-2026-world-cup-match-friday/"
-    },
-    {
-      "id": "espn-sabres::48526483",
-      "team": "sabres",
-      "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket",
-      "summary": "Carolina is one win away from winning the Stanley Cup. Get caught up here.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T09:33:18Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups"
     },
     {
       "id": "espn-bills::48950554",
@@ -891,17 +836,6 @@
       "link": "https://www.cbssports.com/soccer/news/the-usmnt-come-of-age-just-in-time-for-a-world-cup/"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49011258/nhl-2026-draft-scouting-combine-top-prospects-players-testing-interviews-trades",
-      "team": "sabres",
-      "title": "Overheard at the NHL scouting combine: Most impres...",
-      "summary": "The next wave of future NHL players descended on Buffalo for interviews and testing. Here's what we learned.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-11T20:11:52.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49011258/nhl-2026-draft-scouting-combine-top-prospects-players-testing-interviews-trades"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-make-5-roster-moves-as-2026-minicamp-ends",
       "team": "bills",
       "title": "Buffalo Bills make 5 roster moves as 2026 minicamp ends",
@@ -933,17 +867,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-11T18:59:30.000Z",
       "link": "https://www.buffalobills.com/news/bills-olb-bradley-chubb-motivated-to-win-games-play-physical-and-train-with-tj-parker-recapping-day-3-of-minicamp"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265596-golfer-mackenzie-hughes/",
-      "team": "bills",
-      "title": "Golfer Mackenzie Hughes",
-      "summary": "Mafia! We are all Mackenzie Hughes fans. \n\t \n\n\n\n\tCannonball!\n\n\n\n\t \n\n\n\n\thttps://www.tsn.ca/video/2026/06/09/hughes-i-can-only-wear-this-bills-logo-within-100-miles-of-buffalo/",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-11T18:32:15.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265596-golfer-mackenzie-hughes/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/in-1989-rick-dudley-fought-to-bring-a-relatively-unknown-coach-named-john-tortorella-to-the-buffalo-sabres/",
@@ -1078,17 +1001,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/135354/a-j-epenesa-signs-with-philadelphia-eagles"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265587-little-coverage-of-tj-parker/",
-      "team": "bills",
-      "title": "Little coverage of TJ Parker",
-      "summary": "I find it a little strange that I hear or read so little about our first draft pick. Daily I hear or read about, Davison Igbinosun,Skyler Bell,Kaleb Elarms-Orr,Jalon Kilgore,and even Toriano Pride Jr., but nothing about TJ Parker. He has been at OTA and is at manditory practice, isn't he?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-10T22:14:57.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265587-little-coverage-of-tj-parker/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265586-eagles-sign-epenesa/",
       "team": "bills",
       "title": "Eagles Sign Epenesa",
@@ -1098,6 +1010,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-10T21:46:47.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265586-eagles-sign-epenesa/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265584-mahomes-first-half-billion-player/",
+      "team": "bills",
+      "title": "Mahomes first half-billion player",
+      "summary": "Crazy",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-10T20:52:32.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265584-mahomes-first-half-billion-player/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-special-teams-conversation-thread.3013035/",
@@ -1155,17 +1078,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/44224/2026-world-cup-previewing-usa-vs-paraguay-all-gas-no-brakes"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
-      "team": "sabres",
-      "title": "All Purpose Goaltending Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-10T11:12:51.000Z",
-      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-finishes-second-in-masterton-trophy-voting-to-gabriel-landeskog/",
       "team": "sabres",
       "title": "Sabres captain Rasmus Dahlin finishes second in Masterton Trophy voting to Gabriel Landeskog",
@@ -1199,6 +1111,17 @@
       "link": "https://www.espn.com/video/clip/_/id/49014240/josh-allen-attends-bills-mandatory-minicamp"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265577-dorian-williams-on-crutches/",
+      "team": "bills",
+      "title": "Dorian Williams on crutches",
+      "summary": "Elarms-Orr szn? DW is going to be behind the 8 ball unless he’s out there soon.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-09T23:12:39.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265577-dorian-williams-on-crutches/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/how-the-bills-are-taking-part-in-buffalo-s-50th-anniversary-juneteenth-celebration",
       "team": "bills",
       "title": "How the Bills are taking part in Buffalo's 50th anniversary Juneteenth Celebration",
@@ -1208,17 +1131,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-09T19:33:04.000Z",
       "link": "https://www.buffalobills.com/news/how-the-bills-are-taking-part-in-buffalo-s-50th-anniversary-juneteenth-celebration"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265576-mandatory-minicamp-69-611/",
-      "team": "bills",
-      "title": "Mandatory Minicamp 6/9-6/11",
-      "summary": "Last practices for media availability until training camp.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-09T17:55:20.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265576-mandatory-minicamp-69-611/"
     },
     {
       "id": "espn-bills::48957897",
