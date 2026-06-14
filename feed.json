@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T20:50:06.612Z",
+  "generatedAt": "2026-06-14T08:56:20.314Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 16,
+      "itemCount": 13,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "espn-sabres::49042473",
+      "team": "sabres",
+      "title": "Watch Stanley Cup Final Game 6 tonight at 8 ET on ABC and ESPN App",
+      "summary": "Watch Stanley Cup Final Game 6 tonight at 8 ET on ABC and ESPN App",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-14T04:44:59Z",
+      "link": "https://www.espn.com/video/clip/_/id/49042473/watch-stanley-cup-final-game-6-tonight-8-et-abc-espn-app"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
+      "team": "usmnt",
+      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
+      "summary": "The group stage standings will dictate which teams advance to the knockout round",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-14T03:05:49.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
       "team": "sabres",
       "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
@@ -183,19 +205,85 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-13T20:30:12.000Z",
+      "publishedAt": "2026-06-14T02:43:56.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
+      "team": "sabres",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-14T02:31:00.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
     },
     {
       "id": "espn-sabres::49052550",
       "team": "sabres",
       "title": "Vegas Golden Knights rule out William Karlsson for Game 6",
-      "summary": "Center William Karlsson, injured in his team's Game 5 loss on Thursday night, was ruled out by the Vegas Golden Knights on Saturday, a day before the Carolina Hurricanes, up 3-2 in the series, will try to win the Stanley Cup in Game 6 at T-Mobile Arena.",
+      "summary": "Center William Karlsson, injured in his team's Game 5 loss Thursday night, was ruled out by the Vegas Golden Knights on Saturday, a day before the Carolina Hurricanes, up 3-2 in the series, will try to win the Stanley Cup in Game 6 at T-Mobile Arena.",
       "source": "ESPN · Greg Wyshynski",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-13T20:19:51Z",
+      "publishedAt": "2026-06-14T01:32:58Z",
       "link": "https://www.espn.com/nhl/story/_/id/49052550/vegas-golden-knights-rule-william-karlsson-game-6"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265614-definitive-proof-cooks-caught-the-ball/",
+      "team": "bills",
+      "title": "Definitive proof Cooks caught the ball",
+      "summary": "Bills got mother*****ed yet again by the refs.  Sabres got mother*****ed again by the refs.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-14T01:20:47.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265614-definitive-proof-cooks-caught-the-ball/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265613-aldon-smith-dead-at-36/",
+      "team": "bills",
+      "title": "Aldon Smith Dead at 36",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-14T00:06:07.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265613-aldon-smith-dead-at-36/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-13T22:57:50.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
+      "team": "sabres",
+      "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-13T22:19:06.000Z",
+      "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/",
+      "team": "sabres",
+      "title": "The 26-27 Injury Thread: Off-Season Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-13T20:57:16.000Z",
+      "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/"
     },
     {
       "id": "espn-sabres::49052270",
@@ -218,17 +306,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-13T19:19:13Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
-      "team": "sabres",
-      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T19:16:14.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/",
@@ -297,17 +374,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135208/91-buffalo-bills-players-in-91-days-safety-damar-hamlin"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T14:24:13.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-usmnt-folarin-balogun/",
       "team": "usmnt",
       "title": "USMNT praise Folarin Balogun after statement win: 'Where do I start without just trying to kiss his ass?'",
@@ -317,17 +383,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-13T14:10:16.000Z",
       "link": "https://www.cbssports.com/soccer/news/world-cup-usmnt-folarin-balogun/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
-      "team": "sabres",
-      "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T14:09:31.000Z",
-      "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265609-urban-meyer-on-leonhards-wisconsin-defense-3-years-ago/",
@@ -416,17 +471,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-13T03:38:57.000Z",
       "link": "https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-rfa-2026.2973251/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
-      "team": "usmnt",
-      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
-      "summary": "The group stage standings will dictate which teams advance to the knockout round",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-13T03:34:49.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44300/the-usmnt-comes-away-with-an-impressive-4-1-win-over-paraguay",
@@ -537,17 +581,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-12T22:04:51.000Z",
       "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/tyler-adams-rides-high-of-new-york-knicks-nba-finals-run-usmnt-world-cup-2026/",
-      "team": "usmnt",
-      "title": "USMNT's Tyler Adams loses his mind over Knicks comeback: 'I blacked out between it all'",
-      "summary": "Adams, who hails from New York, is one of several USMNT players who celebrated the Knicks' win from the team hotel on Wednesday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T21:58:41.000Z",
-      "link": "https://www.cbssports.com/soccer/news/tyler-adams-rides-high-of-new-york-knicks-nba-finals-run-usmnt-world-cup-2026/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/",
@@ -693,17 +726,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-depth-chart/135375/91-buffalo-bills-players-in-91-days-cornerback-kani-walker"
     },
     {
-      "id": "espn-sabres::49040291",
-      "team": "sabres",
-      "title": "Subban: Carolina's offense 'has it all going on' in Stanley Cup Final",
-      "summary": "Subban: Carolina's offense 'has it all going on' in Stanley Cup Final",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T14:35:39Z",
-      "link": "https://www.espn.com/video/clip/_/id/49040291/carolina-offense-all-going-stanley-cup-final"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/hot-takes/42591/e-pluribus-unum-the-team-that-chose-america",
       "team": "usmnt",
       "title": "E Pluribus Unum: The Team That Chose America",
@@ -792,17 +814,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-coach-mauricio-pochettino-aims-high-on-eve-of-world-cup-debut/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-preview-schedule-storylines-pulisic-balogun/",
-      "team": "usmnt",
-      "title": "USMNT World Cup preview: How far can the co-hosts go with all eyes on them?",
-      "summary": "The USMNT's World Cup team is chiefly made up of players who are considered members of a golden generation, each of them now entering their peak years",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T00:29:38.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-preview-schedule-storylines-pulisic-balogun/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135367/the-fascinating-tryout-wide-receiver-at-buffalo-bills-mandatory-minicamp",
       "team": "bills",
       "title": "The fascinating tryout wide receiver at Buffalo Bills mandatory minicamp",
@@ -823,17 +834,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-11T23:15:46.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265601-bills-5-roster-moves-sign-wrs-max-tomczak-and-deven-thompkins/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/the-usmnt-come-of-age-just-in-time-for-a-world-cup/",
-      "team": "usmnt",
-      "title": "The USMNT come of age just in time for a World Cup on home soil, but will it make a difference?",
-      "summary": "The majority of the USMNT's World Cup squad is made up of players who have competed together since they were teens in the youth national team setup",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-11T21:04:40.000Z",
-      "link": "https://www.cbssports.com/soccer/news/the-usmnt-come-of-age-just-in-time-for-a-world-cup/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-make-5-roster-moves-as-2026-minicamp-ends",
@@ -957,17 +957,6 @@
       "link": "https://www.buffalohockeybeat.com/terrific-season-with-rochester-amerks-earns-sabres-konsta-helenius-spot-on-ahl-top-prospects-team/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265588-cj-gardner-johnson-%E2%80%9Ci-got-to-do-better%E2%80%9D/",
-      "team": "bills",
-      "title": "CJ Gardner-Johnson - “I got to do better”",
-      "summary": "🤣🤣🤣\n\n\n\n\t \n\n\n\n\tGo Bills!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-11T04:46:54.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265588-cj-gardner-johnson-%E2%80%9Ci-got-to-do-better%E2%80%9D/"
-    },
-    {
       "id": "espn-bills::49022394",
       "team": "bills",
       "title": "Eagles sign AJ Epenesa months after Browns balked on deal",
@@ -1021,17 +1010,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-10T20:52:32.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265584-mahomes-first-half-billion-player/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-special-teams-conversation-thread.3013035/",
-      "team": "sabres",
-      "title": "General special teams conversation thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-10T18:15:29.000Z",
-      "link": "https://forums.hfboards.com/threads/general-special-teams-conversation-thread.3013035/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44258/2026-world-cup-matchday-1-match-thread-and-discussion",
@@ -1142,17 +1120,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-09T17:07:38Z",
       "link": "https://www.espn.com/nfl/story/_/id/48957897/2026-nfl-quarterback-questions-32-teams-battles-contracts-expectations-injuries"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265575-ray-davis-sounds-like-he%E2%80%99s-pushing-his-way-out%E2%80%A6/",
-      "team": "bills",
-      "title": "Ray Davis sounds like he’s pushing his way out…",
-      "summary": "Read the Sporting News article on the front page of the site this morning.  Davis sounds like he’s had enough ceding carries to Cook and Ty.  I thought he looked like he lost burst out of the backfield last year compared to year one, though he looked great as a kick returner.  \n\t \n\n\n\n\tI thought it odd that he was bitter enough to insinuate he wants out.  Thoughts?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-09T14:18:04.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265575-ray-davis-sounds-like-he%E2%80%99s-pushing-his-way-out%E2%80%A6/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265569-the-tyler-bass-convo-and-poll/",
