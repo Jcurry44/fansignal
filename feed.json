@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T22:54:56.196Z",
+  "generatedAt": "2026-06-17T00:20:22.790Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,15 +176,15 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49085397/berhalter-says-pochettino-taught-usmnt-about",
-      "team": "usmnt",
-      "title": "Berhalter says Poch taught U.S. 'what we're about'...",
-      "summary": "United States midfielder Sebastian Berhalter said that one of the ways manager Mauricio Pochettino has changed the culture within the team is instilling a mindset where they don't \"take s---.\"",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-16T22:48:58.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49085397/berhalter-says-pochettino-taught-usmnt-about"
+      "publishedAt": "2026-06-16T23:56:44.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
@@ -194,30 +194,8 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-16T22:47:28.000Z",
+      "publishedAt": "2026-06-16T23:54:20.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T22:19:22.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
-    },
-    {
-      "id": "espn-bills::48950554",
-      "team": "bills",
-      "title": "2026 NFL minicamp live updates: Latest on Titans' Cam Ward",
-      "summary": "ESPN's NFL Nation shares insights from every minicamp, including the latest on Titans quarterback Cam Ward.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T22:16:46Z",
-      "link": "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-27-124-156-188-draft-is-june-26-and-27.3007913/",
@@ -253,17 +231,6 @@
       "link": "https://forums.hfboards.com/threads/sabres-legend-luke-adam-retires-from-pro-hockey.3031926/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49076822/stats-usmnt-win-vs-paraguay-signal-deep-world-cup-run-possible",
-      "team": "usmnt",
-      "title": "USMNT in World Cup quarterfinals? There's a real c...",
-      "summary": "It's only one game, sure, but the USMNT's win over Paraguay has the underlying stats of a World Cup team destined for a deep run.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T21:18:21.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49076822/stats-usmnt-win-vs-paraguay-signal-deep-world-cup-run-possible"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-sign-d-connor-timmins-2-years-2-2m-aav.3010131/",
       "team": "sabres",
       "title": "Sabres Sign D Connor Timmins.  2 years, $2.2M AAV",
@@ -284,6 +251,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-16T20:10:45.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/135429/2026-nfl-offseason-grades-are-in-for-the-buffalo-bills"
+    },
+    {
+      "id": "espn-bills::48950554",
+      "team": "bills",
+      "title": "2026 NFL minicamp live updates: Latest on Lions' Sam LaPorta",
+      "summary": "ESPN's NFL Nation shares insights from every minicamp, including the latest on the Lions' Sam LaPorta's recovery from back surgery.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-16T19:40:48Z",
+      "link": "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/nikita-novikov-d-188th-overall-2021-%E2%80%9Cloaned%E2%80%9D-to-the-ontario-reign.2836031/",
@@ -715,17 +693,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/135479/next-deal-for-bills-rg-ocyrus-torrence-directly-impacted-by-joe-tippmans-extension"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects",
-      "team": "sabres",
-      "title": "2026 NHL draft order: Picks 1-224 including all 32...",
-      "summary": "Here's a list of the top picks in the event taking place in Buffalo on June 26 and 27.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-15T16:46:27.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/state-of-the-sabres-checklisting-areas-of-concern/",
       "team": "sabres",
       "title": "State of the Sabres, Checklisting Areas of Concern",
@@ -814,17 +781,6 @@
       "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/",
-      "team": "sabres",
-      "title": "The 26-27 Injury Thread: Off-Season Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-15T13:13:50.000Z",
-      "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-off-season-edition.3030570/"
-    },
-    {
       "id": "espn-sabres::40344315",
       "team": "sabres",
       "title": "Which NHL teams have won the most Stanley Cup titles?",
@@ -878,6 +834,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-15T10:47:44.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265619-would-you-take-less-salary-to-win-a-super-bowl/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/",
+      "team": "sabres",
+      "title": "Rasmus Dahlin Part 4 - 2026 Second Team All Star",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-14T23:32:21.000Z",
+      "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/how-folarin-balogun-and-alex-freeman-are-fueling-usmnt-world-cup/",
