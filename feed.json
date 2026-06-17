@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T21:44:58.022Z",
+  "generatedAt": "2026-06-17T23:10:13.216Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Wed 6:45 PM",
+      "headline": "Thu 1:35 PM",
       "detail": "at BOS"
     },
     {
@@ -176,15 +176,48 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49084166/what-gio-reyna-world-cup-wonder-goal-vs-panama-only-beginning-usmnt",
+      "team": "usmnt",
+      "title": "What if Reyna's World Cup wonder goal is only the ...",
+      "summary": "Gio Reyna's goal vs. Paraguay felt like a fitting way to end a frustrating four-year chapter of his career. What if it's only the beginning, though?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-17T21:43:46.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+      "publishedAt": "2026-06-18T00:08:49.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49084166/what-gio-reyna-world-cup-wonder-goal-vs-panama-only-beginning-usmnt"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49076822/stats-usmnt-win-vs-paraguay-signal-deep-world-cup-run-possible",
+      "team": "usmnt",
+      "title": "USMNT in World Cup quarterfinals? There's a real c...",
+      "summary": "null",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T00:08:49.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49076822/stats-usmnt-win-vs-paraguay-signal-deep-world-cup-run-possible"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49098971/usmnt-christian-pulisic-trains-solo-field-race-fit-australia",
+      "team": "usmnt",
+      "title": "Pulisic training solo in race to be fit vs. Austra...",
+      "summary": "United States national team attacker Christian Pulisic continued to train apart from the main group at Wednesday's training session, as he looks to recover from a calf injury he first sustained last week, and aggravated in last Friday's 4-1 over Paraguay.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T00:03:13.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49098971/usmnt-christian-pulisic-trains-solo-field-race-fit-australia"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects",
+      "team": "sabres",
+      "title": "2026 NHL draft order: Picks 1-224 including all 32...",
+      "summary": "Here's a list of the top picks in the event taking place in Buffalo on June 26 and 27.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T23:59:16.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/",
@@ -194,19 +227,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-17T21:43:40.000Z",
+      "publishedAt": "2026-06-17T23:08:07.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
       "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester (AHL) and TBD (ECHL)",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-17T21:43:22.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/"
+      "publishedAt": "2026-06-17T23:05:25.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
@@ -216,8 +249,41 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-17T21:22:03.000Z",
+      "publishedAt": "2026-06-17T22:46:46.000Z",
       "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL) and TBD (ECHL)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T22:42:21.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-signed-though-2028-29-5m-aav.2973251/",
+      "team": "sabres",
+      "title": "Ryan McLeod - C #71 - Acquired in Trade 2024 - Signed Though 2028-29 - $5M AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T22:39:52.000Z",
+      "link": "https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-signed-though-2028-29-5m-aav.2973251/"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49100517/sabres-trade-no-20-draft-pick-send-kesselring-sharks",
+      "team": "sabres",
+      "title": "Sabres send Kesselring to Sharks, land 20th pick",
+      "summary": "The Sharks, who hold the No. 2 pick in next week's NHL draft, sent the No. 20 pick to the Sabres for defenseman Michael Kesselring and the No. 27 pick.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T22:39:38.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49100517/sabres-trade-no-20-draft-pick-send-kesselring-sharks"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
@@ -229,6 +295,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T21:12:20.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/135579/buffalo-billspre-training-camp-53-man-roster-prediction",
+      "team": "bills",
+      "title": "Buffalo Bills pre-training camp 53-man roster prediction",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T21:10:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-roster/135579/buffalo-billspre-training-camp-53-man-roster-prediction"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-trade-kesselring-27th-pick-sharks-20th-pick/",
@@ -253,15 +330,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/265639-highmark-stadium-update/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rhd-michael-kesselring-acquired-from-uta.3007406/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rhd-michael-kesselring-acquired-from-uta-traded-to-san-jose-with-27oa-for-20oa-in-2026.3007406/",
       "team": "sabres",
-      "title": "RHD Michael Kesselring - Acquired from UTA",
+      "title": "RHD Michael Kesselring - Acquired from UTA, Traded to San Jose with 27OA for 20OA in 2026",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-06-17T20:58:02.000Z",
-      "link": "https://forums.hfboards.com/threads/rhd-michael-kesselring-acquired-from-uta.3007406/"
+      "link": "https://forums.hfboards.com/threads/rhd-michael-kesselring-acquired-from-uta-traded-to-san-jose-with-27oa-for-20oa-in-2026.3007406/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -278,7 +355,7 @@
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/",
       "team": "sabres",
       "title": "Following injury-plagued year, Sabres trade Michael Kesselring to Sharks",
-      "summary": "The Buffalo Sabres on Wednesday made their first move this offseason, trading defenseman Michael Kesselring and the 27th overall pick in the NHL Draft on June 26 to the San Jose Sharks in exchange for the 20th selection.\nThe deal was hardly surprising. Kesselring, the Sabres’ biggest acquisition last offseason, experienced a difficult year, suffering a few early-season injuries and later losing his spot in the lineup.\nCounting the Stanley Cup Playoffs, he played just ... Read the full article \nThe post Following injury-plagued year, Sabres trade Michael Kesselring to Sharks first appeared on Buffalo Hockey Beat.",
+      "summary": "Almost a year ago, the Buffalo Sabres made their biggest move of the offseason, acquiring right-shot defenseman Michael Kesselring as the centerpiece of a blockbuster trade with the Utah Mammoth.\nToday, after playing just 34 games last season, Kesselring, 26, is a member of the San Jose Sharks.\nThe Sabres on Wednesday made their first move this offseason, trading Kesselring and the 27th overall pick in the NHL Draft on June 26 in Buffalo to ... Read the full article \nThe post Following injury-plagued year, Sabres trade Michael Kesselring to Sharks first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
@@ -330,6 +407,17 @@
       "link": "https://www.cbssports.com/soccer/news/usmnts-brenden-aaronson-always-ready-to-start-games-as-christian-pulisics-status-remains-uncertain/"
     },
     {
+      "id": "espn-bills::48950554",
+      "team": "bills",
+      "title": "2026 NFL minicamp live updates: Latest on Titans' Cam Ward",
+      "summary": "ESPN's NFL Nation shares insights from every minicamp, including Tua Tagovailoa's impressive display.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T19:27:15Z",
+      "link": "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
       "team": "usmnt",
       "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
@@ -339,6 +427,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T19:14:05.000Z",
       "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135596/nfl-analytics-metric-with-strong-predictive-power-to-pick-the-super-bowl-winner-buffalo-bills",
+      "team": "bills",
+      "title": "NFL analytics: The metric with strong predictive power to pick the Super Bowl winner",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T19:02:16.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135596/nfl-analytics-metric-with-strong-predictive-power-to-pick-the-super-bowl-winner-buffalo-bills"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265637-joe-brady-interview/",
@@ -385,17 +484,6 @@
       "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-signed-though-2028-29-5m-aav.2973251/",
-      "team": "sabres",
-      "title": "Ryan McLeod - C #71 - Acquired in Trade 2024 - Signed Though 2028-29 - $5M AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T14:36:36.000Z",
-      "link": "https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-signed-though-2028-29-5m-aav.2973251/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jersey-patch-partners-stark-tech-away-jerseys-seneca-resorts-casinos-home-jerseys-starting-in-26-27.3029863/",
       "team": "sabres",
       "title": "Jersey patch partners - Stark Tech [Away jerseys] & Seneca Resorts & Casinos [Home jerseys] starting in 26-27",
@@ -429,6 +517,17 @@
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44271/usa-vs-australia-2026-world-cup-scouting-australia"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/24480798/91-buffalo-bills-players-in-91-days-offensive-tackle-chase-lundt",
+      "team": "bills",
+      "title": "91 Buffalo Bills players in 91 days: offensive tackle Chase Lundt",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T13:59:04.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/24480798/91-buffalo-bills-players-in-91-days-offensive-tackle-chase-lundt"
+    },
+    {
       "id": "bandits-official::https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/",
       "team": "bandits",
       "title": "Byrne, Smith among Bandits coaching WNY Underclassmen All-Star Game on June 18",
@@ -438,6 +537,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T13:58:44.000Z",
       "link": "https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135439/bills-news-bradley-chubb-is-hungry-to-lead-buffalo-to-a-championship",
+      "team": "bills",
+      "title": "Bills news: Bradley Chubb is hungry to lead Buffalo to a championship",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T13:58:40.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135439/bills-news-bradley-chubb-is-hungry-to-lead-buffalo-to-a-championship"
     },
     {
       "id": "bandits-official::https://bandits.com/smith-de-snoo-headline-bandits-named-to-capelli-sport-all-nll-teams/",
@@ -561,6 +671,17 @@
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135606/joe-brady-was-devastated-about-sean-mcdermotts-firing-buffalo-bills",
+      "team": "bills",
+      "title": "Joe Brady was “devastated” about Sean McDermott’s firing",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T12:04:59.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135606/joe-brady-was-devastated-about-sean-mcdermotts-firing-buffalo-bills"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/",
       "team": "sabres",
       "title": "Zach Benson, LW/C, Wenatchee (WHL), Signed ELC- 2023, 13th Overall",
@@ -594,15 +715,15 @@
       "link": "https://forums.hfboards.com/threads/tage-thompson-2.2640469/"
     },
     {
-      "id": "espn-bills::48950554",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/135547/buffalo-bills-cole-bishop-is-right-man-at-the-right-time-for-jim-leonhards-defense",
       "team": "bills",
-      "title": "2026 NFL minicamp live updates: Latest on Titans' Cam Ward",
-      "summary": "ESPN's NFL Nation shares insights from every minicamp, including the latest on Titans quarterback Cam Ward.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
+      "title": "Cole Bishop is the right man at the right time for Jim Leonhard’s defense",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-17T01:18:20Z",
-      "link": "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts"
+      "publishedAt": "2026-06-17T00:26:51.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/135547/buffalo-bills-cole-bishop-is-right-man-at-the-right-time-for-jim-leonhards-defense"
     },
     {
       "id": "espn-sabres::49087877",
@@ -770,17 +891,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135475/how-close-have-bills-and-rams-been-the-past-nine-seasons"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135224/plays-that-defined-2025-patriots-at-bills-week-5",
-      "team": "bills",
-      "title": "Plays That Defined 2025: Patriots at Bills; Week 5",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T11:09:54.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135224/plays-that-defined-2025-patriots-at-bills-week-5"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-lose-rochester-amerks-assistant-coach-to-blues/",
       "team": "sabres",
       "title": "Sabres lose Rochester Amerks assistant coach to Blues",
@@ -792,17 +902,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-lose-rochester-amerks-assistant-coach-to-blues/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/135477/91-buffalo-bills-players-in-91-days-quarterback-shane-buechele",
-      "team": "bills",
-      "title": "91 Buffalo Bills players in 91 days: quarterback Shane Buechele",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-15T21:19:34.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/135477/91-buffalo-bills-players-in-91-days-quarterback-shane-buechele"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44317/usa-vs-paraguay-2026-world-cup-what-we-learned",
       "team": "usmnt",
       "title": "USA vs. Paraguay, 2026 World Cup: What we learned",
@@ -812,17 +911,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-15T18:27:40.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/44317/usa-vs-paraguay-2026-world-cup-what-we-learned"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/135479/next-deal-for-bills-rg-ocyrus-torrence-directly-impacted-by-joe-tippmans-extension",
-      "team": "bills",
-      "title": "Next deal for Bills RG O’Cyrus Torrence directly impacted by Joe Tippman’s extension",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-15T17:26:05.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/135479/next-deal-for-bills-rg-ocyrus-torrence-directly-impacted-by-joe-tippmans-extension"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/state-of-the-sabres-checklisting-areas-of-concern/",
@@ -869,17 +957,6 @@
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44339/2026-world-cup-matchday-5-match-thread-and-discussion"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/135457/the-buffalo-bills-have-entered-the-quietest-portion-of-the-2026-nfl-season",
-      "team": "bills",
-      "title": "The Buffalo Bills have entered the quietest portion of the 2026 NFL season",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-15T13:23:38.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/135457/the-buffalo-bills-have-entered-the-quietest-portion-of-the-2026-nfl-season"
-    },
-    {
       "id": "espn-sabres::40344315",
       "team": "sabres",
       "title": "Which NHL teams have won the most Stanley Cup titles?",
@@ -900,17 +977,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-15T12:51:28Z",
       "link": "https://www.espn.com/nhl/story/_/id/47557835/what-nhl-players-won-olympic-gold-medal-hockey-stanley-cup"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/135462/91-buffalo-bills-players-in-91-days-defensive-tackle-zane-durant",
-      "team": "bills",
-      "title": "91 Buffalo Bills players in 91 days: defensive tackle Zane Durant",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-15T12:36:28.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/135462/91-buffalo-bills-players-in-91-days-defensive-tackle-zane-durant"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-6-15/",
@@ -955,17 +1021,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-14T16:11:10Z",
       "link": "https://www.espn.com/nba/story/_/id/49054611/longest-title-droughts-nba-finals-mlb-world-series-nfl-super-bowl-nhl-stanley-cup"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135437/91-buffalo-bills-players-in-91-days-g-nick-broeker",
-      "team": "bills",
-      "title": "91 Buffalo Bills players in 91 days: G Nick Broeker",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-14T16:07:04.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135437/91-buffalo-bills-players-in-91-days-g-nick-broeker"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265615-mcdermotts-fingerprints-were-all-over-the-offense-according-to-tyler-dunne/",
