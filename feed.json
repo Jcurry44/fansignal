@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T14:23:45.332Z",
+  "generatedAt": "2026-06-18T17:42:06.789Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -164,8 +164,8 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Thu 1:35 PM",
-      "detail": "at BOS"
+      "headline": "Fri 2:20 PM",
+      "detail": "at CHC"
     },
     {
       "team": "usmnt",
@@ -176,39 +176,6 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49098971/usmnt-christian-pulisic-trains-solo-field-race-fit-australia",
-      "team": "usmnt",
-      "title": "Pulisic training solo in race to be fit vs. Austra...",
-      "summary": "United States national team attacker Christian Pulisic continued to train apart from the main group at Wednesday's training session, as he looks to recover from a calf injury he first sustained last week, and aggravated in last Friday's 4-1 over Paraguay.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T15:07:50.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49098971/usmnt-christian-pulisic-trains-solo-field-race-fit-australia"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48977192/the-education-usmnt-world-cup-goalkeeper-harvard-grad-matt-freese",
-      "team": "usmnt",
-      "title": "The lifelong education of USMNT goalkeeper (and Ha...",
-      "summary": "The starting USMNT goalkeeper has an economics degree from Harvard. In his remarkable family, that makes him the underachiever.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T14:46:48.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48977192/the-education-usmnt-world-cup-goalkeeper-harvard-grad-matt-freese"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49084166/what-gio-reyna-world-cup-wonder-goal-vs-panama-only-beginning-usmnt",
-      "team": "usmnt",
-      "title": "What if Reyna's World Cup wondergoal is only the b...",
-      "summary": "Gio Reyna's goal vs. Paraguay felt like a fitting way to end a frustrating four-year chapter of his career. What if it's only the beginning, though?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T14:46:48.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49084166/what-gio-reyna-world-cup-wonder-goal-vs-panama-only-beginning-usmnt"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
       "team": "sabres",
       "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
@@ -216,8 +183,118 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-18T14:22:05.000Z",
+      "publishedAt": "2026-06-18T17:39:44.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
+      "team": "sabres",
+      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T17:33:41.000Z",
+      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T17:25:35.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265644-marino-parrino-turner/",
+      "team": "bills",
+      "title": "Marino, Parrino, Turner",
+      "summary": "My apologies in advance to anyone I may have left out.\n\n\n\n\t \n\n\n\n\tI'm an older guy, and I'm not very plugged into the internet in all of its modern forms. For example I'm not a podcast guy. However, recently I've watched a Parrino podcast and a Marino podcast, and I regularly look at stuff on Cover one, and I've developed a new appreciation for the quality of a lot of the coverage about the Bills that is out there. I know I left out some of the print media people who also are good, but I tend to see their work more often.\n\n\n\n\t \n\n\n\n\tI just wanted to say that we're fortunate to have these people who do quality interviews with Bills coaches and players, and who do thoughtful analysis about what's going on with the team.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T17:21:20.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265644-marino-parrino-turner/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T17:17:44.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-signed-though-2028-29-5m-aav.2973251/",
+      "team": "sabres",
+      "title": "Ryan McLeod - C #71 - Acquired in Trade 2024 - Signed Though 2028-29 - $5M AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T17:03:05.000Z",
+      "link": "https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-signed-though-2028-29-5m-aav.2973251/"
+    },
+    {
+      "id": "espn-sabres::49096432",
+      "team": "sabres",
+      "title": "2026 NHL draft: Every team's biggest prospect pipeline need",
+      "summary": "Each club is in a different place in its contention cycle, but these are the positions each should target on June 26-27.",
+      "source": "ESPN · Rachel Kryshak",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T16:53:27Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49096432/2026-nhl-draft-top-prospects-pipeline-team-needs-gaps-players"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/",
+      "team": "sabres",
+      "title": "Sabres acquire 20th pick in the 2026 draft from SJS for Kesselring + 27",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T16:45:01.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/sharks-acquire-gasseau-fourth-round-pick-from-bruins-for-picks/",
+      "team": "sabres",
+      "title": "Sharks acquire Gasseau, fourth-round pick from Bruins for picks",
+      "summary": "A day after making a deal with the Buffalo Sabres, the Sharks traded a fourth (104th overall) and fifth-round pick (157th) in the 2026 draft, in exchange for forward Andre Gasseau and a 2026 fourth (120th).",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T16:24:18.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/sharks-acquire-gasseau-fourth-round-pick-from-bruins-for-picks/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44410/2026-world-cup-matchday-8-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Matchday 8: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T15:53:58.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44410/2026-world-cup-matchday-8-match-thread-and-discussion"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-australia-odds-prediction-time-2026-world-cup-picks-soccer-bets/",
+      "team": "usmnt",
+      "title": "USMNT vs. Australia odds, prediction, time: 2026 World Cup picks, best bets by expert on 18-8 roll",
+      "summary": "SportsLine's Martin Green reveals his Australia vs. USA best bets for their FIFA World Cup 2026 match on Friday",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T15:21:09.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-australia-odds-prediction-time-2026-world-cup-picks-soccer-bets/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -242,39 +319,6 @@
       "link": "https://forums.hfboards.com/threads/rhd-michael-kesselring-acquired-from-uta-traded-to-san-jose-with-27oa-for-20oa-in-2026.3007406/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/",
-      "team": "sabres",
-      "title": "Sabres acquire 20th pick in the 2026 draft from SJS for Kesselring + 27",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T13:58:37.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
-      "team": "sabres",
-      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T13:51:59.000Z",
-      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
-    },
-    {
-      "id": "espn-bills::49096789",
-      "team": "bills",
-      "title": "Final NFL offseason moves for 32 teams: Trades, signings, more",
-      "summary": "The Chiefs sign Deebo Samuel?  The Cardinals trade Josh Sweat? The Buccaneers extend Baker Mayfield? We have one more move for each team to make before the season.",
-      "source": "ESPN · Aaron Schatz",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T13:51:09Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49096789/2026-nfl-offseason-final-moves-trades-signings-extensions-32-teams"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
       "team": "sabres",
       "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
@@ -297,28 +341,6 @@
       "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T13:36:46.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T13:33:59.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/fifa-world-cup-2026-power-rankings-argentina-lionel-messi-france-usmnt/",
       "team": "usmnt",
       "title": "FIFA World Cup 2026 Power Rankings: Argentina surge behind Lionel Messi, France go top, USMNT start strong",
@@ -328,28 +350,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-18T12:45:33.000Z",
       "link": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-power-rankings-argentina-lionel-messi-france-usmnt/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects",
-      "team": "sabres",
-      "title": "2026 draft order: Picks 1-224 including all 32 tea...",
-      "summary": "Here's a list of the top picks in the NHL draft, which will take place in Buffalo on June 26 and 27.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T12:17:10.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49100517/sabres-trade-no-20-draft-pick-send-kesselring-sharks",
-      "team": "sabres",
-      "title": "Sabres send Kesselring to Sharks, land 20th pick",
-      "summary": "The Sharks, who hold the No. 2 pick in next week's NHL draft, sent the No. 20 pick to the Sabres for defenseman Michael Kesselring and the No. 27 pick.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T12:14:13.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49100517/sabres-trade-no-20-draft-pick-send-kesselring-sharks"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-depth-chart/135492/buffalo-bills-2026-scouting-report-inside-linebacker-jimmy-ciarlo",
@@ -374,15 +374,15 @@
       "link": "https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/"
     },
     {
-      "id": "espn-sabres::49096432",
-      "team": "sabres",
-      "title": "2026 NHL draft: Every team's biggest prospect pipeline need",
-      "summary": "Each club is in a different place in its contention cycle, but these are the positions each should target on June 26-27.",
-      "source": "ESPN · Rachel Kryshak",
+      "id": "espn-bills::49096789",
+      "team": "bills",
+      "title": "Final NFL offseason moves for 32 teams: Trades, signings, more",
+      "summary": "The Chiefs sign Deebo Samuel?  The Cardinals trade Josh Sweat? The Buccaneers extend Baker Mayfield? We have one more move for each team to make before the season.",
+      "source": "ESPN · Aaron Schatz",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-18T10:18:26Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49096432/2026-nhl-draft-top-prospects-pipeline-team-needs-gaps-players"
+      "publishedAt": "2026-06-18T10:36:30Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49096789/2026-nfl-offseason-final-moves-trades-signings-extensions-32-teams"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265641-throwback-thursday-bills-at-dolphins-1983-marino%E2%80%99s-1st-ever-start/",
@@ -396,15 +396,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/265641-throwback-thursday-bills-at-dolphins-1983-marino%E2%80%99s-1st-ever-start/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-signed-though-2028-29-5m-aav.2973251/",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/",
       "team": "sabres",
-      "title": "Ryan McLeod - C #71 - Acquired in Trade 2024 - Signed Though 2028-29 - $5M AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "title": "Following injury-plagued year, Sabres trade Michael Kesselring to Sharks",
+      "summary": "Almost a year ago, the Buffalo Sabres made their biggest move of the offseason, acquiring right-shot defenseman Michael Kesselring as the centerpiece of a blockbuster trade with the Utah Mammoth.\nToday, after playing just 34 games last season, Kesselring, 26, is a member of the San Jose Sharks.\nThe Sabres on Wednesday made their first move this offseason, trading Kesselring and the 27th overall pick in the NHL Draft on June 26 in Buffalo to ... Read the full article \nThe post Following injury-plagued year, Sabres trade Michael Kesselring to Sharks first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-18T05:48:35.000Z",
-      "link": "https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-signed-though-2028-29-5m-aav.2973251/"
+      "publishedAt": "2026-06-18T05:48:17.000Z",
+      "link": "https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
@@ -484,17 +484,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265639-highmark-stadium-update/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/",
-      "team": "sabres",
-      "title": "Following injury-plagued year, Sabres trade Michael Kesselring to Sharks",
-      "summary": "Almost a year ago, the Buffalo Sabres made their biggest move of the offseason, acquiring right-shot defenseman Michael Kesselring as the centerpiece of a blockbuster trade with the Utah Mammoth.\nToday, after playing just 34 games last season, Kesselring, 26, is a member of the San Jose Sharks.\nThe Sabres on Wednesday made their first move this offseason, trading Kesselring and the 27th overall pick in the NHL Draft on June 26 in Buffalo to ... Read the full article \nThe post Following injury-plagued year, Sabres trade Michael Kesselring to Sharks first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T20:48:17.000Z",
-      "link": "https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-brenden-aaronson-always-ready-to-start-games-as-christian-pulisics-status-remains-uncertain/",
       "team": "usmnt",
       "title": "USMNT's Brenden Aaronson 'always ready to start games' as Christian Pulisic's status remains uncertain",
@@ -526,17 +515,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T18:26:49.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265637-joe-brady-interview/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-australia-odds-prediction-time-2026-world-cup-picks-bets/",
-      "team": "usmnt",
-      "title": "USMNT vs. Australia odds, prediction, time: 2026 World Cup picks, best bets by expert on 18-8 roll",
-      "summary": "SportsLine's Martin Green reveals his Australia vs. USA best bets for their FIFA World Cup 2026 match on Friday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T18:15:17.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-australia-odds-prediction-time-2026-world-cup-picks-bets/"
     },
     {
       "id": "espn-sabres::49097328",
@@ -1034,17 +1012,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265619-would-you-take-less-salary-to-win-a-super-bowl/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265616-lessons-from-the-knicks/",
-      "team": "bills",
-      "title": "Lessons from the Knicks",
-      "summary": "As everybody is no doubt aware, one of New York State's *other* iconic teams, the NY Knickerbockers, had their most inspiring season and got the chip yesterday. They dominated like no other team in history in the playoffs. Crazy, because they had no player who seemed like a superstar, except Jalen Brunson. I think there are some lessons to be learned from them, and the coaching job Mike Brown did:\n\n\n\n\t \n\n\n\n\t1) One superstar who can carry you in the clutch is huge--theirs was Brunson, ours is Josh, no problem there.\n\n\n\n\t \n\n\n\n\t2) Regular season domination is highly overrated. The Knicks lost 9 of 11 in January. Better to play and learn together, and ebb and flow in preparation for the playoffs. The Knicks got huge contributions from unsung guys who felt trusted. Joe Brady, take note. \n\n\n\n\t \n\n\n\n\t3) A coach who is in tune with his players is major. Mike Brown is a player's coach, he gets them and does not work them into the ground at practice. (It's practice! Practice!) \n\n\n\n\t \n\n\n\n\t4) Lineup changes when players (even starters) aren't doing well can be major. The Spurs were a great team, but Brown switched it up a few times and it revitalized the Knicks. The Bills need to remember that when guys like Joey Bosa or Josh Palmer become liabilities late in the season.\n\n\n\n\t \n\n\n\n\t5) A coaching change can do wonders. The Knicks got good under Tom Thibodeaux. Led them to 50 win seasons and the Eastern Conference finals, but got outcoached in the playoffs. The Knicks fired him and hired Mike Brown, a more intuitive guy, one year ago. The Knicks got over the hump his first year.\n\n\n\n\t \n\n\n\n\t6) Your schemes should help your superstar, not burden them. Here is a quote from Brown, about Jalen Brunson: “It’s my job as a coach to fit whatever scheme we have on both sides of the floor to all of our players, and if you’re a great player, I’ve got to make a little bit more adjustments or I’ve got to give a little bit more than you do. And we finally got to a point where he was comfortable, I was comfortable. … The regular season is about finding your way so you can prepare for this time of the year, and there’s going to be a lot of ups and downs.\" Well, Brunson dominated the playoffs and scored 45 in the game to clinch the title.\n\n\n\n\t \n\n\n\n\tLong story short, the Bills have had a number of problems similar to the Knicks, who figured it out. We gotta hope Brady will unleash the Bills, and especially Josh, like Brown unleashed the Knicks and Brunson. I truly believe this could be the start of a historic run of champ by both teams. LET'S GO!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-14T19:49:32.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265616-lessons-from-the-knicks/"
-    },
-    {
       "id": "espn-bills::49054611",
       "team": "bills",
       "title": "Knicks' victory takes them off the list of longest title droughts",
@@ -1089,17 +1056,6 @@
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44326/2026-world-cup-matchday-4-match-thread-and-discussion"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265614-definitive-proof-cooks-caught-the-ball/",
-      "team": "bills",
-      "title": "Definitive proof Cooks caught the ball",
-      "summary": "Bills got mother*****ed yet again by the refs.  Sabres got mother*****ed again by the refs.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-14T01:20:47.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265614-definitive-proof-cooks-caught-the-ball/"
-    },
-    {
       "id": "espn-bills::49009790",
       "team": "bills",
       "title": "NFL players make World Cup predictions, weigh in on USMNT",
@@ -1120,17 +1076,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-13T05:40:25.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-named-nhl-second-team-all-star-earns-hart-trophy-votes/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44281/2026-world-cup-matchday-3-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 3: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-12T15:55:23.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44281/2026-world-cup-matchday-3-match-thread-and-discussion"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-sign-these-members-of-their-2026-nfl-draft-class",
@@ -1483,6 +1428,17 @@
       "sourceCount": 1,
       "publishedAt": "2025-11-21T23:51:05.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/255720-diggs-drama/",
+      "team": "bills",
+      "title": "Diggs' Drama",
+      "summary": "A thread for our former master of histrionics, who doesn't need a new thread every time he gets his drama queen on.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2024-08-10T03:03:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/248591-former-1st-round-12-pick-henry-ruggs-3-to-10-yrs-prison-for-drunk-driving-fatal-crash/",
