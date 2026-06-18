@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T17:42:06.789Z",
+  "generatedAt": "2026-06-18T19:57:16.304Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -176,6 +176,83 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49109849/usmnt-christian-pulisic-trains-apart-team-again-pochettino-due-address-status",
+      "team": "usmnt",
+      "title": "Pulisic still training solo a day before U.S. game...",
+      "summary": "United States men's national team star Christian Pulisic continued to train separately from the team on Thursday ahead of the U.S.'s World Cup game against Australia.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T20:42:55.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49109849/usmnt-christian-pulisic-trains-apart-team-again-pochettino-due-address-status"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48977192/the-education-usmnt-world-cup-goalkeeper-harvard-grad-matt-freese",
+      "team": "usmnt",
+      "title": "The lifelong education of USMNT goalkeeper (and Ha...",
+      "summary": "The starting USMNT goalkeeper has an economics degree from Harvard. In his remarkable family, that makes him the underachiever.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T20:35:42.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/48977192/the-education-usmnt-world-cup-goalkeeper-harvard-grad-matt-freese"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49084166/what-gio-reyna-world-cup-wonder-goal-vs-panama-only-beginning-usmnt",
+      "team": "usmnt",
+      "title": "What if Reyna's World Cup wondergoal is only the b...",
+      "summary": "Gio Reyna's goal vs. Paraguay felt like a fitting way to end a frustrating four-year chapter of his career.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T20:35:42.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49084166/what-gio-reyna-world-cup-wonder-goal-vs-panama-only-beginning-usmnt"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-team-board-mock-draft.3032052/",
+      "team": "sabres",
+      "title": "2026 Team Board Mock Draft",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T19:50:44.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-team-board-mock-draft.3032052/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265648-this-guy-wants-50k-for-his-home-opener-tickets/",
+      "team": "bills",
+      "title": "This guy wants 50k for his home opener tickets",
+      "summary": "Talk about a pipe dream check out this ad posted on Craigslist\n\n\n\n\t \n\n\n\n\thttps://rochester.craigslist.org/tix/d/rochester-buffalo-bills-vs-detroit-lions/7941814555.html\n\n\n\n\t \n\n\n\n\t50k for 12 total seats lower level and 3 parking passes",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T19:44:39.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265648-this-guy-wants-50k-for-his-home-opener-tickets/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/",
+      "team": "sabres",
+      "title": "Sabres re-sign D Bo Byram.  2 years, $6.25M AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T19:43:17.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/",
+      "team": "sabres",
+      "title": "Sabres acquire 20th pick in the 2026 draft from SJS for Kesselring + 27",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T19:36:46.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
       "team": "sabres",
       "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
@@ -183,8 +260,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-18T17:39:44.000Z",
+      "publishedAt": "2026-06-18T19:35:28.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
+      "team": "usmnt",
+      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
+      "summary": "The group stage standings will dictate which teams advance to the knockout round",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T19:10:41.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
@@ -194,8 +282,107 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-18T17:33:41.000Z",
+      "publishedAt": "2026-06-18T18:57:52.000Z",
       "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265647-happy-birthday-bruce-smith/",
+      "team": "bills",
+      "title": "Happy Birthday Bruce Smith",
+      "summary": "#78 turns 63 today. \n\n\n\n\t \n\n\n\n\thttps://www.msn.com/en-us/sports/nfl/do-buffalo-bills-fans-view-josh-allen-or-bruce-smith-as-best-player-in-team-history/ar-AA25ZxwE?ocid=entnewsntp&pc=U531&cvid=6a343d8b6b1a411da5b7408abf75d128&ei=23",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T18:56:21.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265647-happy-birthday-bruce-smith/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265646-bills-sign-ufl-running-back-ian-wheeler/",
+      "team": "bills",
+      "title": "Bills sign UFL running back Ian Wheeler",
+      "summary": "https://www.buffalobills.com/news/bills-sign-rb-ian-wheeler",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 2,
+      "publishedAt": "2026-06-18T18:52:33.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265646-bills-sign-ufl-running-back-ian-wheeler/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/",
+      "team": "sabres",
+      "title": "Poll: Which Roster Players Do You Want Back",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T18:45:01.000Z",
+      "link": "https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/nhl-announces-selection-order-for-2026-draft/",
+      "team": "sabres",
+      "title": "NHL announces selection order for 2026 Draft",
+      "summary": "The league released the full selection order of this year’s draft on Thursday, which takes place June 26-27 in Buffalo.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T18:42:01.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/nhl-announces-selection-order-for-2026-draft/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265645-get-your-vip-tailgate-tickets-here/",
+      "team": "bills",
+      "title": "Get Your VIP Tailgate Tickets Here!",
+      "summary": "$135 all inclusive food and beverage (top shelf!). \n\t \n\n\n\n\tI think they have underestimated the capacity of Mafia to drink $135 of top shelf booze - hell, bottom shelf booze even. \n\t \n\n\n\n\thttps://bullseyeeventgroup.com/bills-vip-tailgate/announcing-premium-vip-tailgate-experience-buffalo-bills/?fbclid=IwdGRleAShFkdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeMLU96wi5jfqpw6KDBOV8ZTxzMRI5RuTNEOhSfmhUGF0B3IsMkU-yG2jcpQo_aem_VxFrPRaoHtA8Ef6xHL584g",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T18:26:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265645-get-your-vip-tailgate-tickets-here/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T18:23:17.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/",
+      "team": "sabres",
+      "title": "Owen Power, D (1st overall, 2021)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T18:18:53.000Z",
+      "link": "https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T18:14:49.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
+      "team": "sabres",
+      "title": "General lacrosse thread presented by your local lax goalie dad",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T18:11:06.000Z",
+      "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
@@ -205,7 +392,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-18T17:25:35.000Z",
+      "publishedAt": "2026-06-18T18:08:43.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
     },
     {
@@ -218,17 +405,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-18T17:21:20.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265644-marino-parrino-turner/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T17:17:44.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/ryan-mcleod-c-71-acquired-in-trade-2024-signed-though-2028-29-5m-aav.2973251/",
@@ -253,17 +429,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/49096432/2026-nhl-draft-top-prospects-pipeline-team-needs-gaps-players"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/",
-      "team": "sabres",
-      "title": "Sabres acquire 20th pick in the 2026 draft from SJS for Kesselring + 27",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T16:45:01.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/"
-    },
-    {
       "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/sharks-acquire-gasseau-fourth-round-pick-from-bruins-for-picks/",
       "team": "sabres",
       "title": "Sharks acquire Gasseau, fourth-round pick from Bruins for picks",
@@ -275,15 +440,15 @@
       "link": "https://www.sportsnet.ca/nhl/article/sharks-acquire-gasseau-fourth-round-pick-from-bruins-for-picks/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44410/2026-world-cup-matchday-8-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 8: Match thread and discussion",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135641/2026-nfl-season-why-teams-are-not-what-their-record-says-they-are",
+      "team": "bills",
+      "title": "2026 NFL season: Why teams are not what their record says they are",
       "summary": "",
-      "source": "Stars and Stripes FC",
+      "source": "Buffalo Rumblings",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-18T15:53:58.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44410/2026-world-cup-matchday-8-match-thread-and-discussion"
+      "publishedAt": "2026-06-18T16:09:26.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135641/2026-nfl-season-why-teams-are-not-what-their-record-says-they-are"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-australia-odds-prediction-time-2026-world-cup-picks-soccer-bets/",
@@ -319,17 +484,6 @@
       "link": "https://forums.hfboards.com/threads/rhd-michael-kesselring-acquired-from-uta-traded-to-san-jose-with-27oa-for-20oa-in-2026.3007406/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T13:48:56.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
       "team": "sabres",
       "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
@@ -352,6 +506,17 @@
       "link": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-power-rankings-argentina-lionel-messi-france-usmnt/"
     },
     {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects",
+      "team": "sabres",
+      "title": "2026 draft order: Picks 1-224 including all 32 tea...",
+      "summary": "Here's a list of the top picks in the NHL draft, which will take place in Buffalo on June 26 and 27.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-18T12:17:10.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-depth-chart/135492/buffalo-bills-2026-scouting-report-inside-linebacker-jimmy-ciarlo",
       "team": "bills",
       "title": "Buffalo Bills 2026 scouting report: inside linebacker Jimmy Ciarlo",
@@ -361,17 +526,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-18T11:25:00.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-depth-chart/135492/buffalo-bills-2026-scouting-report-inside-linebacker-jimmy-ciarlo"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/",
-      "team": "sabres",
-      "title": "Poll: Which Roster Players Do You Want Back",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T11:24:01.000Z",
-      "link": "https://forums.hfboards.com/threads/poll-which-roster-players-do-you-want-back.3030953/"
     },
     {
       "id": "espn-bills::49096789",
@@ -405,17 +559,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-18T05:48:17.000Z",
       "link": "https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
-      "team": "usmnt",
-      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
-      "summary": "The group stage standings will dictate which teams advance to the knockout round",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T04:01:21.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
@@ -537,17 +680,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T17:31:14.000Z",
       "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44393/2026-world-cup-previewing-usa-vs-australia-pop-quiz-hot-shot",
-      "team": "usmnt",
-      "title": "2026 World Cup: Previewing USA vs. Australia – pop quiz, hot shot",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T15:51:30.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44393/2026-world-cup-previewing-usa-vs-australia-pop-quiz-hot-shot"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jersey-patch-partners-stark-tech-away-jerseys-seneca-resorts-casinos-home-jerseys-starting-in-26-27.3029863/",
@@ -748,17 +880,6 @@
       "link": "https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/tage-thompson-2.2640469/",
-      "team": "sabres",
-      "title": "Tage Thompson 2",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T01:57:37.000Z",
-      "link": "https://forums.hfboards.com/threads/tage-thompson-2.2640469/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/135547/buffalo-bills-cole-bishop-is-right-man-at-the-right-time-for-jim-leonhards-defense",
       "team": "bills",
       "title": "Cole Bishop is the right man at the right time for Jim Leonhard’s defense",
@@ -792,28 +913,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-christian-pulisic-injury-world-cup-australia-near/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-legend-luke-adam-retires-from-pro-hockey.3031926/",
-      "team": "sabres",
-      "title": "Sabres legend Luke Adam retires from pro hockey",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T21:26:21.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-legend-luke-adam-retires-from-pro-hockey.3031926/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-sign-d-connor-timmins-2-years-2-2m-aav.3010131/",
-      "team": "sabres",
-      "title": "Sabres Sign D Connor Timmins.  2 years, $2.2M AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T20:47:32.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-sign-d-connor-timmins-2-years-2-2m-aav.3010131/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/135429/2026-nfl-offseason-grades-are-in-for-the-buffalo-bills",
       "team": "bills",
       "title": "Buffalo Bills 2026 NFL offseason grades",
@@ -823,17 +922,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-16T20:10:45.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/135429/2026-nfl-offseason-grades-are-in-for-the-buffalo-bills"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/nikita-novikov-d-188th-overall-2021-%E2%80%9Cloaned%E2%80%9D-to-the-ontario-reign.2836031/",
-      "team": "sabres",
-      "title": "Nikita Novikov, D (188th overall, 2021) “Loaned” to the Ontario Reign",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T19:05:37.000Z",
-      "link": "https://forums.hfboards.com/threads/nikita-novikov-d-188th-overall-2021-%E2%80%9Cloaned%E2%80%9D-to-the-ontario-reign.2836031/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135554/buffalo-bills-hire-3-to-enhance-fan-experience-more-at-highmark-stadium",
@@ -864,7 +952,7 @@
       "summary": "Tickets, dates and times for Bills Training Camp 2026",
       "source": "Bills.com",
       "sourceType": "team",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "publishedAt": "2026-06-16T16:59:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information"
     },
@@ -1067,6 +1155,17 @@
       "link": "https://www.espn.com/nfl/story/_/id/49009790/nfl-players-world-cup-golden-boot-predictions-france-kylian-mbappe"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44303/usa-vs-paraguay-2026-world-cup-community-player-ratings",
+      "team": "usmnt",
+      "title": "USA vs. Paraguay, 2026 World Cup: Community player ratings",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-13T08:00:25.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44303/usa-vs-paraguay-2026-world-cup-community-player-ratings"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-named-nhl-second-team-all-star-earns-hart-trophy-votes/",
       "team": "sabres",
       "title": "Sabres captain Rasmus Dahlin named NHL Second Team All-Star, earns Hart Trophy votes",
@@ -1076,6 +1175,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-13T05:40:25.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-named-nhl-second-team-all-star-earns-hart-trophy-votes/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44281/2026-world-cup-matchday-3-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Matchday 3: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-12T15:55:23.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44281/2026-world-cup-matchday-3-match-thread-and-discussion"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-sign-these-members-of-their-2026-nfl-draft-class",
@@ -1188,17 +1298,6 @@
       "link": "https://www.buffalobills.com/news/connect-compete-condition-recapping-day-1-of-bills-minicamp"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265577-dorian-williams-on-crutches/",
-      "team": "bills",
-      "title": "Dorian Williams on crutches",
-      "summary": "Elarms-Orr szn? DW is going to be behind the 8 ball unless he’s out there soon.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-09T23:12:39.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265577-dorian-williams-on-crutches/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/how-the-bills-are-taking-part-in-buffalo-s-50th-anniversary-juneteenth-celebration",
       "team": "bills",
       "title": "How the Bills are taking part in Buffalo's 50th anniversary Juneteenth Celebration",
@@ -1274,17 +1373,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-03T14:33:26.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-earn-heartsafe-workplace-designation"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/bills-otas-ed-oliver-christian-benford-practice-oc-pete-carmichael-on-offensive-philosophy-of-head-coach-joe-brady",
-      "team": "bills",
-      "title": "Bills OTAs | Ed Oliver & Christian Benford practice, OC Pete Carmichael on offensive philosophy of head coach Joe Brady",
-      "summary": "Four things to know from Buffalo's final week of organized team activities",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-02T21:45:56.000Z",
-      "link": "https://www.buffalobills.com/news/bills-otas-ed-oliver-christian-benford-practice-oc-pete-carmichael-on-offensive-philosophy-of-head-coach-joe-brady"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/2025-26-stanley-cup-final-open-thread-vegas-golden-knights-carolina-hurricanes-schedule/",
@@ -1364,28 +1452,6 @@
       "link": "https://www.diebytheblade.com/jedi-council-playoff-edition-2/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265313-top-2027-qb-brendan-sorsby-cited-for-gambling/",
-      "team": "bills",
-      "title": "Top 2027 QB Brendan Sorsby cited for Gambling",
-      "summary": "https://www.espn.com/college-football/story/_/id/48608889/texas-tech-qb-brendan-sorsby-enter-gambling-addiction-program-sources-say\n\t \n\n\n\n\tGeez, did nothing illegal to this point  and bet for his team when at Indiana and is now one of the highest paid QBs in college football. \n\t \n\n\n\n\tCould be ineligible by NCAA which mean you could see a high profile QB entering the supplemental draft",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-04-27T17:16:31.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265313-top-2027-qb-brendan-sorsby-cited-for-gambling/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265296-2026-udfa-signings-camp-invites/",
-      "team": "bills",
-      "title": "2026 UDFA Signings & Camp Invites",
-      "summary": "Figured it’s about that time. I’ll update as news starts rolling in.\n\n\n\n\t\n\t \n\n\n\n\tEdited by position, was by signing order previously:\n\n\n\n\t \n\n\n\n\tUDFA SIGNINGS\n\n\n\n\t \n\n\n\n\tJackson Ackler, FB - Wisconsin\n\n\n\n\tDesmond Reid, RB - Pitt\n\n\n\n\tJa'Mori Maclin, WR - Kentucky\n\n\n\n\tMax Tomczak, WR - Youngstown State\n\n\n\n\tGabriel Benyard, WR - Kennesaw State\n\n\n\n\tBruno Fina, OT - Duke\n\n\n\n\tDa’Metrius Weatherspoon, OT - Syracuse\n\n\n\n\tKody Huisman, DT - Virginia Tech\n\n\n\n\tCade Denhoff, DE - Clemson\n\n\n\n\tTheron Gaines, LB - Tennessee Tech\n\n\n\n\tJayden Flaker, LB - Memphis\n\n\n\n\tKani Walker, CB - Arkansas \n\n\n\n\tJordan Dunbar, CB - Missouri State\n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tROOKIE MINICAMP INVITES\n\n\n\n\t\n\tBrady Olson, QB - CCSU\n\tWill Nixon, RB - Syracuse\n\tJosh Beetham, TE - Georgia Tech\n\n\n\n\tJake Overman, TE - Pitt\n\n\n\n\tTunde Fatukasi, OT - Bowling Green\n\n\n\n\tAshton Grable, OL - Florida A&M\n\n\n\n\tTrevor Brock, G - University of Buffalo \n\n\n\n\tJulius Pierce, G - FIU\n\tRyan Linthicum, C - Clemson\n\n\n\n\tPrince Dorbah, DL - Arizona State\n\n\n\n\tMark Langston, LS - Indiana\n\n\n\n\t \n\n\n\n\t \n\n\n\n\t** Jermaine Burton, WR - Cincinnati Bengals (2024 3rd round pick with some character concerns). Talented but troubled, only 24.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tSyracuse.com has a tracker here:\n\n\n\n\thttps://www.syracuse.com/buffalo-bills/2026/04/buffalo-bills-udfa-tracker-2026-reports-rumors-on-who-team-signed-following-nfl-draft.html",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-04-25T22:38:52.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265296-2026-udfa-signings-camp-invites/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265264-round-4our-only-hope/",
       "team": "bills",
       "title": "Round 4...Our only Hope",
@@ -1406,17 +1472,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-04-08T01:53:02.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264729-2026-ufl-thread/",
-      "team": "bills",
-      "title": "2026 UFL thread.",
-      "summary": "1. 60+ yard field goals = 4 points\n\t2.  One foot in bounds = catch\n\t3. Red zone penalties revert to half the distance to the goal. \n\t4. The \"Tush Push\" is eliminated.\n\t5. No punting inside the opponent’s 50-yard line.\n\t6. Overtime: 3 alternating attempts per team from the 5 yard line.\n\t \n\t7. Point aftertouchdown options:\n\t- 1 point – Kick from the 33-yard line\n\t- 2 points – Ball on the 2-yard line\n\t- 3 points – Ball on the 8-yard line\n\n\n\n\t \n\n\n\n\tSeason starts Friday, March 27.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-02-25T00:16:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/264729-2026-ufl-thread/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/",
