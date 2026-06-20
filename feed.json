@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T20:56:17.792Z",
+  "generatedAt": "2026-06-20T22:15:37.527Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -176,6 +176,105 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49119534/var-review-united-states-australia-alex-freeman-usmnt-goal-not-offside",
+      "team": "usmnt",
+      "title": "Why Alex Freeman's USMNT goal wasn't offside",
+      "summary": "Alex Freeman put the United States 2-0 up against Australia after a VAR review. Here's why the goal was correctly ruled onside.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T22:20:23.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49119534/var-review-united-states-australia-alex-freeman-usmnt-goal-not-offside"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T22:12:25.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T21:56:28.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/",
+      "team": "sabres",
+      "title": "Beck Malenstyn (Pending UFA)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T21:41:16.000Z",
+      "link": "https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T21:40:20.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
+      "team": "sabres",
+      "title": "Locked on Sabres Podcast",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T21:28:19.000Z",
+      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
+      "team": "sabres",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T21:24:21.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup",
+      "team": "usmnt",
+      "title": "If there was a time to dream big about the USMNT a...",
+      "summary": "There's something different about this United States team at the 2026 World Cup: The players feel it, and we can all see it. So why not believe?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T21:18:32.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds",
+      "team": "usmnt",
+      "title": "Pulisic sits, but U.S. finds a way vs. Australia t...",
+      "summary": "Even without Christian Pulisic, the USMNT still managed to get its second win of this World Cup.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T21:18:32.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
       "team": "sabres",
       "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
@@ -198,28 +297,6 @@
       "link": "https://forums.hfboards.com/threads/team-board-mock-draft-run-off.3032114/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T20:22:55.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
-      "team": "sabres",
-      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T20:12:24.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-legend-luke-adam-retires-from-pro-hockey.3031926/",
       "team": "sabres",
       "title": "Sabres legend Luke Adam retires from pro hockey",
@@ -231,6 +308,17 @@
       "link": "https://forums.hfboards.com/threads/sabres-legend-luke-adam-retires-from-pro-hockey.3031926/"
     },
     {
+      "id": "espn-sabres::49128131",
+      "team": "sabres",
+      "title": "Hurricanes fans jam downtown Raleigh for Stanley Cup parade",
+      "summary": "Thousands of Hurricanes fans crammed onto sidewalks, gathered around office building windows, even lined up on floor after floor of at least one parking deck to cheer and wave at the team's Stanley Cup championship parade on Saturday.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T19:39:05Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49128131/hurricanes-fans-jam-downtown-raleigh-stanley-cup-parade"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/",
       "team": "sabres",
       "title": "Owen Power, D (1st overall, 2021)",
@@ -240,28 +328,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-20T19:25:22.000Z",
       "link": "https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T18:23:27.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/",
-      "team": "sabres",
-      "title": "Beck Malenstyn (Pending UFA)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T18:00:48.000Z",
-      "link": "https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/",
@@ -317,6 +383,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-20T14:32:47.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects",
+      "team": "sabres",
+      "title": "2026 draft order: Picks 1-224 including all 32 tea...",
+      "summary": "Here's a list of the top picks in the NHL draft, which will take place in Buffalo on June 26 and 27.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T14:26:17.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
@@ -416,17 +493,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-19T23:42:27.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-defeat-australia-advance-2026-world-cup/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T23:37:38.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44483/usa-outlasts-socceroos-to-win-2-0",
@@ -704,17 +770,6 @@
       "link": "https://www.buffalohockeybeat.com/trading-bowen-byram-wouldnt-make-much-sense-for-sabres/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/",
-      "team": "sabres",
-      "title": "Sabres acquire 20th pick in the 2026 draft from SJS for Kesselring + 27",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T01:47:06.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265651-this-josh-allen-guy-is-pretty-good/",
       "team": "bills",
       "title": "This Josh Allen guy is pretty good",
@@ -889,17 +944,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-18T15:53:58.000Z",
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44410/2026-world-cup-matchday-8-match-thread-and-discussion"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265641-throwback-thursday-bills-at-dolphins-1983-marino%E2%80%99s-1st-ever-start/",
-      "team": "bills",
-      "title": "Throwback Thursday Bills at Dolphins 1983 Marino’s 1st ever start",
-      "summary": "The rookie from Pittsburg was fabulous and showed a portent of HOF credentials from the jump! But Fergy went nuclear in this game, passing for career highs in completions, yardage and touchdowns! Joe Cribbs was his typical brilliant self as the game seesawed through nearly 5 quarters! Miami’s lone blemish vs Buffalo at home was a tie with the Bills back in the late 60’s! A point a minute thrilling/nerve wracking game!\n\n\n\n\t \n\n\n\n\tEnjoy!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T10:16:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265641-throwback-thursday-bills-at-dolphins-1983-marino%E2%80%99s-1st-ever-start/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/",
@@ -1133,6 +1177,17 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265628-2026-training-camp-announced-just-seven-practices-open-to-public/",
+      "team": "bills",
+      "title": "2026 Training Camp Announced, Just SEVEN Practices Open To Public",
+      "summary": "The Bills announced their training camp today in Rochester starting Wednesday July 29 and ending Friday August 7. The link below has the details but there are just seven practices open to the public with all practices at 8:30 am:\n\n\n\n\thttps://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information\n\n\n\n\t \n\n\n\n\tIt is hard not to feel as though this may be the start of the end of Fisher & Rochester getting the Bills in a major way for camp. I have a few strong connections that the Bills even with extending the agreement may leave it early and they are looking to move back to Buffalo for the majority of camp sooner then later. Perhaps the Bills still do a long weekend get away at Fisher as the facilities are great for the team and it maintains a presence, but with the majority of teams now staying home for camp, a new stadium, and the Bills no longer needing the regionalization effort they succeeded with this is not a surprising outcome.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-16T14:36:24.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265628-2026-training-camp-announced-just-seven-practices-open-to-public/"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-lose-rochester-amerks-assistant-coach-to-blues/",
       "team": "sabres",
       "title": "Sabres lose Rochester Amerks assistant coach to Blues",
@@ -1153,17 +1208,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-15T16:17:12.000Z",
       "link": "https://www.diebytheblade.com/state-of-the-sabres-checklisting-areas-of-concern/"
-    },
-    {
-      "id": "espn-sabres::49072182",
-      "team": "sabres",
-      "title": "Hurricanes favored to repeat, followed by Avs, Golden Knights",
-      "summary": "The Hurricanes are a leading +700 to win the Stanley Cup for the 2026-27 season, followed by the Avalanche (+800) and Golden Knights (+850). The Oilers (11-1), Panthers (11-1) and Lightning (12-1) make up the next tier of contenders.",
-      "source": "ESPN · Doug Greenberg",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-15T15:36:42Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49072182/hurricanes-favored-repeat-followed-avs-golden-knights"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-6-15/",
