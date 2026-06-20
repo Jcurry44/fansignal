@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T23:49:08.297Z",
+  "generatedAt": "2026-06-20T04:01:45.030Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 5,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 12,
+      "itemCount": 13,
       "error": null
     },
     {
@@ -176,6 +176,138 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds",
+      "team": "usmnt",
+      "title": "Pulisic sits but U.S. finds a way vs. Australia to...",
+      "summary": "The USMNT was without Christian Pulisic on Friday, but it didn't matter: It found a way to beat Australia for its second win of this World Cup.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T04:04:45.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49118816/usmnt-player-ratings-freeman-surprise-hero-7-10-performance-stonewall-australia",
+      "team": "usmnt",
+      "title": "No Pulisic? No problem: Freeman, Adams lead the wa...",
+      "summary": "Strong performances from Tyler Adams and Malik Tillman earned high ratings, but it was Alex Freeman who stood out.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T04:04:45.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49118816/usmnt-player-ratings-freeman-surprise-hero-7-10-performance-stonewall-australia"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49120762/mls-commissioner-don-garber-new-stadium-deal-crucial-keep-whitecaps-vancouver",
+      "team": "usmnt",
+      "title": "Garber: Vancouver needs new stadium to keep team",
+      "summary": "MLS Commissioner Don Garber stated on Friday in Seattle, before attending the USMNT World Cup win against Australia, that the Whitecaps must secure a new stadium deal to remain in Vancouver.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T04:04:35.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49120762/mls-commissioner-don-garber-new-stadium-deal-crucial-keep-whitecaps-vancouver"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49121031/usa-winning-2026-world-cup-chris-richards-zlatan-ibrahimovic",
+      "team": "usmnt",
+      "title": "U.S. winning the WC not 'ridiculous,' Richards say...",
+      "summary": "Zlatan Ibrahimovic was succinct in saying he thinks that the USMNT has a chance to win the World Cup. Chris Richards doesn't think it's a wild idea at all, either.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T04:04:34.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49121031/usa-winning-2026-world-cup-chris-richards-zlatan-ibrahimovic"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T03:43:08.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T03:31:31.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/dahlin-on-humor-me.3032119/",
+      "team": "sabres",
+      "title": "Dahlin on Humor Me",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T03:16:14.000Z",
+      "link": "https://forums.hfboards.com/threads/dahlin-on-humor-me.3032119/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
+      "team": "usmnt",
+      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
+      "summary": "The group stage standings will dictate which teams advance to the knockout round",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T02:44:32.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T02:36:57.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/",
+      "team": "sabres",
+      "title": "Sabres re-sign D Bo Byram.  2 years, $6.25M AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T02:34:26.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL) and TBD (ECHL)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T02:32:46.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/maruicio-pochettinos-usmnt-alex-freeman-ricardo-pepi-long-waited-world-cup-moments/",
+      "team": "usmnt",
+      "title": "Mauricio Pochettino's fresh lens offers USMNT's Alex Freeman, Ricardo Pepi long-waited World Cup moments",
+      "summary": "Freeman scored in the USMNT's 2-0 win over Australia on Friday, while Pepi excelled after coming in for the injured Christian Pulisic",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T01:39:32.000Z",
+      "link": "https://www.cbssports.com/soccer/news/maruicio-pochettinos-usmnt-alex-freeman-ricardo-pepi-long-waited-world-cup-moments/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265653-and-baby-girl-allen%E2%80%99s-name-is%E2%80%A6/",
       "team": "bills",
       "title": "And Baby Girl Allen’s name is…",
@@ -209,48 +341,15 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-defeat-australia-advance-2026-world-cup/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
       "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
+      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-19T23:29:58.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T23:22:03.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T23:19:32.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/",
-      "team": "sabres",
-      "title": "Beck Malenstyn (Pending UFA)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T23:07:31.000Z",
-      "link": "https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/"
+      "publishedAt": "2026-06-19T23:37:38.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/team-board-mock-draft-run-off.3032114/",
@@ -264,15 +363,15 @@
       "link": "https://forums.hfboards.com/threads/team-board-mock-draft-run-off.3032114/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/",
       "team": "sabres",
-      "title": "Sabres re-sign D Bo Byram.  2 years, $6.25M AAV",
+      "title": "Beck Malenstyn (Pending UFA)",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-19T22:20:44.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/"
+      "publishedAt": "2026-06-19T22:40:09.000Z",
+      "link": "https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
@@ -297,26 +396,48 @@
       "link": "https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44483/usa-outlasts-socceroos-to-win-2-0",
       "team": "usmnt",
-      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
-      "summary": "The group stage standings will dictate which teams advance to the knockout round",
-      "source": "CBS Sports",
-      "sourceType": "league",
+      "title": "USA Outlasts Socceroos to win 2-0",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-19T21:44:35.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
+      "publishedAt": "2026-06-19T22:15:47.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44483/usa-outlasts-socceroos-to-win-2-0"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44488/usa-vs-australia-2026-world-cup-community-player-ratings",
+      "team": "usmnt",
+      "title": "USA vs. Australia, 2026 World Cup: Community player ratings",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-19T21:43:06.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+      "publishedAt": "2026-06-19T22:15:16.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44488/usa-vs-australia-2026-world-cup-community-player-ratings"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49119534/var-review-united-states-australia-alex-freeman-usmnt-goal-not-offside",
+      "team": "usmnt",
+      "title": "Why Alex Freeman's USMNT goal wasn't offside",
+      "summary": "Alex Freeman put the United States 2-0 up against Australia after a VAR review. Here's why the goal was correctly ruled onside.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-19T22:13:16.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49119534/var-review-united-states-australia-alex-freeman-usmnt-goal-not-offside"
+    },
+    {
+      "id": "espn-bills::49119911",
+      "team": "bills",
+      "title": "Bills change up practice schedule under Joe Brady",
+      "summary": "Bills change up practice schedule under Joe Brady",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-19T21:52:14Z",
+      "link": "https://www.espn.com/video/clip/_/id/49119911/bills-change-practice-schedule-joe-brady"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-player-ratings-alex-freeman-leads-way-vs-australia-usa-soccer-clinch-knockout-spot/",
@@ -363,17 +484,6 @@
       "link": "https://forums.hfboards.com/threads/expected-buffalo-podcast.2987477/"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/nhl-rumour-roundup-is-bowen-byram-ready-to-move-on-from-sabres/",
-      "team": "sabres",
-      "title": "NHL Rumour Roundup: Is Bowen Byram ready to move on from Sabres?",
-      "summary": "As the trade market continues to heat up in the lead-up to July 1, here’s a look at the latest chatter from the NHL rumour mill.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T18:52:18.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/nhl-rumour-roundup-is-bowen-byram-ready-to-move-on-from-sabres/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/",
       "team": "sabres",
       "title": "Rasmus Dahlin Part 4 - 2026 Second Team All Star",
@@ -394,6 +504,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-19T18:34:03.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/135638/buffalo-bills-2026-scouting-report-defensive-back-tecory-couch",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: defensive back Te’Cory Couch",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-19T18:12:19.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/135638/buffalo-bills-2026-scouting-report-defensive-back-tecory-couch"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135473/bills-news-what-does-former-ufl-mvp-bring-to-buffalos-backfield",
+      "team": "bills",
+      "title": "Bills news: What does former UFL MVP bring to Buffalo’s backfield?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-19T18:08:42.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135473/bills-news-what-does-former-ufl-mvp-bring-to-buffalos-backfield"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-scenarios-usa-soccer-2026-world-cup-australia-group/",
@@ -429,17 +561,6 @@
       "link": "https://www.cbssports.com/soccer/news/usa-australia-prediction-odds-start-time-2026-world-cup-picks-expert-best-bets-props/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
-      "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester (AHL) and TBD (ECHL)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T15:39:32.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-usmnt-take-on-australia-in-huge-world-cup-showdown-can-they-clinch-group-d-on-friday/",
       "team": "usmnt",
       "title": "Footy Fix: USMNT take on Australia in huge World Cup showdown, can they clinch Group D on Friday?",
@@ -460,6 +581,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-19T14:33:24.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "espn-sabres::49110952",
+      "team": "sabres",
+      "title": "Trades we'd like to see during the 2026 NHL offseason",
+      "summary": "The draft (June 26-27) and free agency (July 1) are quickly approaching. Here are a handful of logical swaps that should be made.",
+      "source": "ESPN · Ryan Clark and Kristen Shilton and Greg Wyshynski",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-19T14:24:46Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49110952/nhl-2026-trades-draft-picks-prospects-top-players-contracts"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-team-board-mock-draft.3032052/",
@@ -561,17 +693,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135279/plays-that-defined-2025-bills-at-falcons-week-6"
     },
     {
-      "id": "espn-sabres::49110952",
-      "team": "sabres",
-      "title": "Trades we'd like to see during the 2026 NHL offseason",
-      "summary": "The draft (June 26-27) and free agency (July 1) are quickly approaching. Here are a handful of logical swaps that should be made.",
-      "source": "ESPN · Ryan Clark and Kristen Shilton and Greg Wyshynski",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T10:30:04Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49110952/nhl-2026-trades-draft-picks-prospects-top-players-contracts"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/trading-bowen-byram-wouldnt-make-much-sense-for-sabres/",
       "team": "sabres",
       "title": "Trading Bowen Byram wouldn’t make much sense for Sabres",
@@ -638,15 +759,15 @@
       "link": "https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects",
       "team": "sabres",
-      "title": "Locked on Sabres Podcast",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "title": "2026 draft order: Picks 1-224 including all 32 tea...",
+      "summary": "Here's a list of the top picks in the NHL draft, which will take place in Buffalo on June 26 and 27.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-18T22:05:56.000Z",
-      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
+      "publishedAt": "2026-06-18T22:40:28.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects"
     },
     {
       "id": "espn-bills::48950554",
@@ -825,17 +946,6 @@
       "link": "https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/135579/buffalo-billspre-training-camp-53-man-roster-prediction",
-      "team": "bills",
-      "title": "Buffalo Bills pre-training camp 53-man roster prediction",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T21:10:11.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-roster/135579/buffalo-billspre-training-camp-53-man-roster-prediction"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-trade-kesselring-27th-pick-sharks-20th-pick/",
       "team": "sabres",
       "title": "Sabres trade Kesselring to Sharks to move up seven spots in 2026 Draft",
@@ -911,17 +1021,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T14:09:10.000Z",
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44376/2026-world-cup-matchday-7-match-thread-and-discussion"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44271/usa-vs-australia-2026-world-cup-scouting-australia",
-      "team": "usmnt",
-      "title": "USA vs. Australia, 2026 World Cup: Scouting Australia",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T14:08:27.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44271/usa-vs-australia-2026-world-cup-scouting-australia"
     },
     {
       "id": "bandits-official::https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/",
@@ -1056,17 +1155,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49084401/buffalo-bills-minicamp-learning-left-guard-james-cook"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135606/joe-brady-was-devastated-about-sean-mcdermotts-firing-buffalo-bills",
-      "team": "bills",
-      "title": "Joe Brady was “devastated” about Sean McDermott’s firing",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T12:04:59.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135606/joe-brady-was-devastated-about-sean-mcdermotts-firing-buffalo-bills"
-    },
-    {
       "id": "espn-sabres::49087877",
       "team": "sabres",
       "title": "NHL says 2026 playoffs most-watched on record in U.S.",
@@ -1087,17 +1175,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-16T16:59:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44359/world-cup-reacts-results-who-will-win-the-title-golden-ball",
-      "team": "usmnt",
-      "title": "World Cup Reacts results: Who will win the title, Golden Ball?",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T15:32:42.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44359/world-cup-reacts-results-who-will-win-the-title-golden-ball"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-lose-rochester-amerks-assistant-coach-to-blues/",
@@ -1263,17 +1340,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-11T05:02:19.000Z",
       "link": "https://www.buffalohockeybeat.com/terrific-season-with-rochester-amerks-earns-sabres-konsta-helenius-spot-on-ahl-top-prospects-team/"
-    },
-    {
-      "id": "espn-bills::49022394",
-      "team": "bills",
-      "title": "Eagles sign AJ Epenesa months after Browns balked on deal",
-      "summary": "The Eagles have signed defensive end AJ Epenesa months after the Browns backed out of an agreement to sign him.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-11T04:41:30Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49022394/eagles-sign-aj-epenesa-months-browns-balked-deal"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/james-cook-s-milestone-joshua-palmer-s-motivation-cole-bishop-s-recovery-recapping-day-2-of-bills-minicamp",
