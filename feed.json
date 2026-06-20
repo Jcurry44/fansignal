@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T22:15:37.527Z",
+  "generatedAt": "2026-06-20T23:45:40.891Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,17 +176,6 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49119534/var-review-united-states-australia-alex-freeman-usmnt-goal-not-offside",
-      "team": "usmnt",
-      "title": "Why Alex Freeman's USMNT goal wasn't offside",
-      "summary": "Alex Freeman put the United States 2-0 up against Australia after a VAR review. Here's why the goal was correctly ruled onside.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T22:20:23.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49119534/var-review-united-states-australia-alex-freeman-usmnt-goal-not-offside"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
       "team": "sabres",
       "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
@@ -194,8 +183,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-20T22:12:25.000Z",
+      "publishedAt": "2026-06-20T23:36:07.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
+      "team": "sabres",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T23:26:20.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
+      "team": "usmnt",
+      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
+      "summary": "The group stage standings will dictate which teams advance to the knockout round",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T22:11:21.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
@@ -242,39 +253,6 @@
       "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
-      "team": "sabres",
-      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T21:24:21.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup",
-      "team": "usmnt",
-      "title": "If there was a time to dream big about the USMNT a...",
-      "summary": "There's something different about this United States team at the 2026 World Cup: The players feel it, and we can all see it. So why not believe?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T21:18:32.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds",
-      "team": "usmnt",
-      "title": "Pulisic sits, but U.S. finds a way vs. Australia t...",
-      "summary": "Even without Christian Pulisic, the USMNT still managed to get its second win of this World Cup.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T21:18:32.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
       "team": "sabres",
       "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
@@ -306,17 +284,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-20T19:48:37.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-legend-luke-adam-retires-from-pro-hockey.3031926/"
-    },
-    {
-      "id": "espn-sabres::49128131",
-      "team": "sabres",
-      "title": "Hurricanes fans jam downtown Raleigh for Stanley Cup parade",
-      "summary": "Thousands of Hurricanes fans crammed onto sidewalks, gathered around office building windows, even lined up on floor after floor of at least one parking deck to cheer and wave at the team's Stanley Cup championship parade on Saturday.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T19:39:05Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49128131/hurricanes-fans-jam-downtown-raleigh-stanley-cup-parade"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/",
@@ -352,28 +319,6 @@
       "link": "https://www.espn.com/video/clip/_/id/49127430/nicolas-deslauriers-signs-extension-hurricanes-parade"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135709/josh-allen-hailee-steinfeld-announce-baby-name",
-      "team": "bills",
-      "title": "Josh Allen, Hailee Steinfeld announce baby name",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T17:18:40.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135709/josh-allen-hailee-steinfeld-announce-baby-name"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135481/buffalo-bills-2026-scouting-report-outside-linebacker-andre-jones-jr",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: outside linebacker Andre Jones Jr.",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T17:15:13.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135481/buffalo-bills-2026-scouting-report-outside-linebacker-andre-jones-jr"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/",
       "team": "sabres",
       "title": "Sabres re-sign D Bo Byram.  2 years, $6.25M AAV",
@@ -383,17 +328,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-20T14:32:47.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects",
-      "team": "sabres",
-      "title": "2026 draft order: Picks 1-224 including all 32 tea...",
-      "summary": "Here's a list of the top picks in the NHL draft, which will take place in Buffalo on June 26 and 27.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T14:26:17.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
@@ -416,17 +350,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-20T14:06:37.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
-      "team": "usmnt",
-      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
-      "summary": "The group stage standings will dictate which teams advance to the knockout round",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T05:08:49.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/dahlin-on-humor-me.3032119/",
@@ -583,28 +506,6 @@
       "link": "https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/135638/buffalo-bills-2026-scouting-report-defensive-back-tecory-couch",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: defensive back Te’Cory Couch",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T18:12:19.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/135638/buffalo-bills-2026-scouting-report-defensive-back-tecory-couch"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135473/bills-news-what-does-former-ufl-mvp-bring-to-buffalos-backfield",
-      "team": "bills",
-      "title": "Bills news: What does former UFL MVP bring to Buffalo’s backfield?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T18:08:42.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135473/bills-news-what-does-former-ufl-mvp-bring-to-buffalos-backfield"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-scenarios-usa-soccer-2026-world-cup-australia-group/",
       "team": "usmnt",
       "title": "USMNT scenarios: How USA soccer can advance at 2026 World Cup, win group vs. Australia",
@@ -669,17 +570,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-19T14:16:56.000Z",
       "link": "https://forums.hfboards.com/threads/2026-team-board-mock-draft.3032052/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/135668/buffalo-bills-buffalo-reigns-supreme-as-city-most-deserving-to-win-championship",
-      "team": "bills",
-      "title": "Buffalo reigns supreme as city most deserving to win a championship",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T14:09:35.000Z",
-      "link": "https://www.buffalorumblings.com/general/135668/buffalo-bills-buffalo-reigns-supreme-as-city-most-deserving-to-win-championship"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44460/usa-vs-australia-2026-world-cup-time-tv-schedule-streaming-and-lineups",
@@ -957,6 +847,17 @@
       "link": "https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/135579/buffalo-billspre-training-camp-53-man-roster-prediction",
+      "team": "bills",
+      "title": "Buffalo Bills pre-training camp 53-man roster prediction",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T21:10:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-roster/135579/buffalo-billspre-training-camp-53-man-roster-prediction"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-trade-kesselring-27th-pick-sharks-20th-pick/",
       "team": "sabres",
       "title": "Sabres trade Kesselring to Sharks to move up seven spots in 2026 Draft",
@@ -977,6 +878,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T21:06:47.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265639-highmark-stadium-update/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135596/nfl-analytics-metric-with-strong-predictive-power-to-pick-the-super-bowl-winner-buffalo-bills",
+      "team": "bills",
+      "title": "NFL analytics: The metric with strong predictive power to pick the Super Bowl winner",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T19:02:16.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135596/nfl-analytics-metric-with-strong-predictive-power-to-pick-the-super-bowl-winner-buffalo-bills"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265637-joe-brady-interview/",
@@ -1032,6 +944,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T13:58:44.000Z",
       "link": "https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135439/bills-news-bradley-chubb-is-hungry-to-lead-buffalo-to-a-championship",
+      "team": "bills",
+      "title": "Bills news: Bradley Chubb is hungry to lead Buffalo to a championship",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T13:58:40.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135439/bills-news-bradley-chubb-is-hungry-to-lead-buffalo-to-a-championship"
     },
     {
       "id": "bandits-official::https://bandits.com/smith-de-snoo-headline-bandits-named-to-capelli-sport-all-nll-teams/",
@@ -1144,6 +1067,28 @@
       "link": "https://www.espn.com/nfl/story/_/id/49084401/buffalo-bills-minicamp-learning-left-guard-james-cook"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135606/joe-brady-was-devastated-about-sean-mcdermotts-firing-buffalo-bills",
+      "team": "bills",
+      "title": "Joe Brady was “devastated” about Sean McDermott’s firing",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T12:04:59.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135606/joe-brady-was-devastated-about-sean-mcdermotts-firing-buffalo-bills"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/135547/buffalo-bills-cole-bishop-is-right-man-at-the-right-time-for-jim-leonhards-defense",
+      "team": "bills",
+      "title": "Cole Bishop is the right man at the right time for Jim Leonhard’s defense",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T00:26:51.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/135547/buffalo-bills-cole-bishop-is-right-man-at-the-right-time-for-jim-leonhards-defense"
+    },
+    {
       "id": "espn-sabres::49087877",
       "team": "sabres",
       "title": "NHL says 2026 playoffs most-watched on record in U.S.",
@@ -1208,6 +1153,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-15T16:17:12.000Z",
       "link": "https://www.diebytheblade.com/state-of-the-sabres-checklisting-areas-of-concern/"
+    },
+    {
+      "id": "espn-sabres::49072182",
+      "team": "sabres",
+      "title": "Hurricanes favored to repeat, followed by Avs, Golden Knights",
+      "summary": "The Hurricanes are a leading +700 to win the Stanley Cup for the 2026-27 season, followed by the Avalanche (+800) and Golden Knights (+850). The Oilers (11-1), Panthers (11-1) and Lightning (12-1) make up the next tier of contenders.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-15T15:36:42Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49072182/hurricanes-favored-repeat-followed-avs-golden-knights"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-6-15/",
@@ -1496,17 +1452,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-sign-lindy-ruff-to-two-year-extension-2027-28/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265313-top-2027-qb-brendan-sorsby-cited-for-gambling/",
-      "team": "bills",
-      "title": "Top 2027 QB Brendan Sorsby cited for Gambling",
-      "summary": "https://www.espn.com/college-football/story/_/id/48608889/texas-tech-qb-brendan-sorsby-enter-gambling-addiction-program-sources-say\n\t \n\n\n\n\tGeez, did nothing illegal to this point  and bet for his team when at Indiana and is now one of the highest paid QBs in college football. \n\t \n\n\n\n\tCould be ineligible by NCAA which mean you could see a high profile QB entering the supplemental draft",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-04-27T17:16:31.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265313-top-2027-qb-brendan-sorsby-cited-for-gambling/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265081-josh-and-hailee-have-a-baby-girl/",
       "team": "bills",
       "title": "Josh and Hailee have a baby girl",
@@ -1549,6 +1494,17 @@
       "sourceCount": 1,
       "publishedAt": "2024-08-10T03:03:26.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/248591-former-1st-round-12-pick-henry-ruggs-3-to-10-yrs-prison-for-drunk-driving-fatal-crash/",
+      "team": "bills",
+      "title": "Former 1st round #12 pick Henry Ruggs: 3 to 10 yrs prison for drunk driving fatal crash",
+      "summary": "https://www.espn.com/nfl/story/_/id/38162272/ex-raiders-wr-henry-ruggs-iii-sentenced-3-10-years-fatal-dui\n\n\n\n\t \n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\tRuggs, 24, had been under house arrest with alcohol and location electronic monitoring devices since pleading guilty in May to one count of DUI resulting in death and one count of misdemeanor vehicular manslaughter in the crash that killed Tina Tintor and her dog, Max. On Wednesday, Ruggs read from a statement directed at Tintor's family in which he apologized for his actions.\n\t\t\n\n\t\t\n\t\t\t\"To the parents and family of Ms. Tintor, I sincerely apologize for the pain and suffering,\" Ruggs said.\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tPretty sure Ms Tintor's family don't think 3 years is nearly enough punishment for burning her alive.\n\t\n\tRuggs got what his attorneys asked for:\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\tIn court documents filed before the sentencing hearing, Ruggs' attorneys had asked the judge to keep the duration of their client's prison time to a range of three to 10 years. Chesnoff and Richard Schonfeld said Ruggs \"wishes that he could turn back time and change the outcome of the tragic events of November 2, 2021.\"\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tI'm sure he does, what with being cut from the team and losing his career and all.  But he can't.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2023-08-10T03:59:56.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/248591-former-1st-round-12-pick-henry-ruggs-3-to-10-yrs-prison-for-drunk-driving-fatal-crash/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
