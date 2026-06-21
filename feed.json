@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T04:43:40.037Z",
+  "generatedAt": "2026-06-21T08:48:50.735Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49003063/how-alex-freeman-pro-bowl-dad-green-bay-packers-antonio-freeman-helped-world-cup-dream-usmnt",
+      "team": "usmnt",
+      "title": "How Alex Freeman's Pro Bowl dad helped him live hi...",
+      "summary": "Antonio Freeman taught son Alex what it takes to be a pro. It was his mom and his stepdad, though, who taught the USMNT defender to love soccer.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T08:42:09.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49003063/how-alex-freeman-pro-bowl-dad-green-bay-packers-antonio-freeman-helped-world-cup-dream-usmnt"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265659-happy-father%E2%80%99s-day-to-ja-and-to-all-of-tbd/",
+      "team": "bills",
+      "title": "Happy Father’s Day to JA and to all of TBD",
+      "summary": "From the Dolphins\n\n\n\n\t\n\t \n\n\n\n\t \n\n\n\n\tFrom Hailee with her three “sons” tribute\n\n\n\n\t\n\n\n\n\t \n\n\n\n\tFrom Baby Harper\n\n\n\n\t\n\n\n\n\t \n\n\n\n\tHappy Father’s Day. Go Bills!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T05:53:45.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265659-happy-father%E2%80%99s-day-to-ja-and-to-all-of-tbd/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -183,7 +205,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-21T04:10:46.000Z",
+      "publishedAt": "2026-06-21T05:12:37.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
@@ -242,6 +264,17 @@
       "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/135668/buffalo-bills-buffalo-reigns-supreme-as-city-most-deserving-to-win-championship",
+      "team": "bills",
+      "title": "Buffalo reigns supreme as city most deserving to win a championship",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T23:37:01.000Z",
+      "link": "https://www.buffalorumblings.com/general/135668/buffalo-bills-buffalo-reigns-supreme-as-city-most-deserving-to-win-championship"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
       "team": "sabres",
       "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
@@ -251,6 +284,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-20T23:36:07.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49119534/var-review-united-states-australia-alex-freeman-usmnt-goal-not-offside",
+      "team": "usmnt",
+      "title": "Why Alex Freeman's USMNT goal wasn't offside",
+      "summary": "Alex Freeman put the United States 2-0 up against Australia after a VAR review. Here's why the goal was correctly ruled onside.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T22:20:23.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49119534/var-review-united-states-australia-alex-freeman-usmnt-goal-not-offside"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
@@ -341,6 +385,39 @@
       "link": "https://www.espn.com/video/clip/_/id/49127430/nicolas-deslauriers-signs-extension-hurricanes-parade"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135709/josh-allen-hailee-steinfeld-announce-baby-name",
+      "team": "bills",
+      "title": "Josh Allen, Hailee Steinfeld announce baby name",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T17:18:40.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135709/josh-allen-hailee-steinfeld-announce-baby-name"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135481/buffalo-bills-2026-scouting-report-outside-linebacker-andre-jones-jr",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: outside linebacker Andre Jones Jr.",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T17:15:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135481/buffalo-bills-2026-scouting-report-outside-linebacker-andre-jones-jr"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup",
+      "team": "usmnt",
+      "title": "If there was a time to dream big about about the USMNT at the World Cup, it's now",
+      "summary": "There's something different about this United States team at the 2026 World Cup: The players feel it, and we can all see it. So why not believe?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T15:56:37.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/",
       "team": "sabres",
       "title": "Sabres re-sign D Bo Byram.  2 years, $6.25M AAV",
@@ -350,6 +427,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-20T14:32:47.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects",
+      "team": "sabres",
+      "title": "2026 draft order: Picks 1-224 including all 32 tea...",
+      "summary": "Here's a list of the top picks in the NHL draft, which will take place in Buffalo on June 26 and 27.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-20T14:26:17.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
@@ -603,17 +691,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-19T14:16:56.000Z",
       "link": "https://forums.hfboards.com/threads/2026-team-board-mock-draft.3032052/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/135668/buffalo-bills-buffalo-reigns-supreme-as-city-most-deserving-to-win-championship",
-      "team": "bills",
-      "title": "Buffalo reigns supreme as city most deserving to win a championship",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T14:09:35.000Z",
-      "link": "https://www.buffalorumblings.com/general/135668/buffalo-bills-buffalo-reigns-supreme-as-city-most-deserving-to-win-championship"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44460/usa-vs-australia-2026-world-cup-time-tv-schedule-streaming-and-lineups",
@@ -913,17 +990,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265639-highmark-stadium-update/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135596/nfl-analytics-metric-with-strong-predictive-power-to-pick-the-super-bowl-winner-buffalo-bills",
-      "team": "bills",
-      "title": "NFL analytics: The metric with strong predictive power to pick the Super Bowl winner",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T19:02:16.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135596/nfl-analytics-metric-with-strong-predictive-power-to-pick-the-super-bowl-winner-buffalo-bills"
-    },
-    {
       "id": "espn-sabres::49097328",
       "team": "sabres",
       "title": "How Stanley Cup win for Hurricanes is special for Rod Brind'Amour",
@@ -933,6 +999,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T18:14:11Z",
       "link": "https://www.espn.com/video/clip/_/id/49097328/how-stanley-cup-win-hurricanes-special-rod-brindamour"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44398/2026-world-cup-matchday-10-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Matchday 10: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-17T16:48:49.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44398/2026-world-cup-matchday-10-match-thread-and-discussion"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44393/2026-world-cup-previewing-usa-vs-australia-pop-quiz-hot-shot",
@@ -946,17 +1023,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/44393/2026-world-cup-previewing-usa-vs-australia-pop-quiz-hot-shot"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44376/2026-world-cup-matchday-7-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 7: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T14:09:10.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44376/2026-world-cup-matchday-7-match-thread-and-discussion"
-    },
-    {
       "id": "bandits-official::https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/",
       "team": "bandits",
       "title": "Byrne, Smith among Bandits coaching WNY Underclassmen All-Star Game on June 18",
@@ -966,17 +1032,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T13:58:44.000Z",
       "link": "https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135439/bills-news-bradley-chubb-is-hungry-to-lead-buffalo-to-a-championship",
-      "team": "bills",
-      "title": "Bills news: Bradley Chubb is hungry to lead Buffalo to a championship",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T13:58:40.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135439/bills-news-bradley-chubb-is-hungry-to-lead-buffalo-to-a-championship"
     },
     {
       "id": "bandits-official::https://bandits.com/smith-de-snoo-headline-bandits-named-to-capelli-sport-all-nll-teams/",
@@ -1164,17 +1219,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-15T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-6-15/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265619-would-you-take-less-salary-to-win-a-super-bowl/",
-      "team": "bills",
-      "title": "Would you take less salary to win a Super Bowl?",
-      "summary": "This came up in the Knicks thread, I think it's a good question:\n\n\n\n\t \n\n\n\n\tWhy don't more QBs take a serious pay cut to have a better chance to win a Super Bowl? I would happily earn 40/million a year instead of 60/million if it upped my chances of getting a ring by 35-40%. Lifelong happiness of accomplishing the ultimate. \n\n\n\n\t \n\n\n\n\tThis is probably why I'm not a billionaire (hahaha), but if you have 10 million dollars in the bank, I don't feel like money should be your prime motivating factor. Ultra-wealthy people and their chlidren are not happier than people who make enough to live comfortably, from what I see.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-15T10:47:44.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265619-would-you-take-less-salary-to-win-a-super-bowl/"
     },
     {
       "id": "espn-bills::49054611",
