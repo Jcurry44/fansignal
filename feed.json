@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T17:57:15.826Z",
+  "generatedAt": "2026-06-21T19:56:02.412Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 10,
+      "itemCount": 9,
       "error": null
     },
     {
@@ -163,9 +163,9 @@
     },
     {
       "team": "bisons",
-      "state": "final",
-      "headline": "Final · L [object Object]-[object Object]",
-      "detail": "at CHC"
+      "state": "upcoming",
+      "headline": "Mon 7:07 PM",
+      "detail": "vs HOU"
     },
     {
       "team": "usmnt",
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T19:53:55.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/d-bo-byram.3009404/",
+      "team": "sabres",
+      "title": "D Bo Byram",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T19:52:14.000Z",
+      "link": "https://forums.hfboards.com/threads/d-bo-byram.3009404/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
       "team": "sabres",
       "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
@@ -183,19 +205,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-21T17:52:20.000Z",
+      "publishedAt": "2026-06-21T19:45:07.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson.2933200/",
       "team": "sabres",
-      "title": "Sabres re-sign D Bo Byram.  2 years, $6.25M AAV",
+      "title": "LW Zach Benson",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-21T17:42:41.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/"
+      "publishedAt": "2026-06-21T18:41:40.000Z",
+      "link": "https://forums.hfboards.com/threads/lw-zach-benson.2933200/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
@@ -205,7 +227,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-21T17:37:43.000Z",
+      "publishedAt": "2026-06-21T18:28:49.000Z",
       "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
     },
     {
@@ -218,17 +240,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-21T17:27:58.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265661-underperforming-officials-can-now-be-demoted-to-the-ufl/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-21T17:03:15.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/team-board-mock-draft-run-off.3032114/",
@@ -405,17 +416,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-20T19:25:22.000Z",
       "link": "https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/",
-      "team": "sabres",
-      "title": "Zach Benson, LW/C, Wenatchee (WHL), Signed ELC- 2023, 13th Overall",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T17:53:05.000Z",
-      "link": "https://forums.hfboards.com/threads/zach-benson-lw-c-wenatchee-whl-signed-elc-2023-13th-overall.2933200/"
     },
     {
       "id": "espn-sabres::49127430",
@@ -658,17 +658,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-19T17:55:43.000Z",
       "link": "https://www.cbssports.com/soccer/news/usa-australia-prediction-odds-start-time-2026-world-cup-picks-expert-best-bets-props/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-usmnt-take-on-australia-in-huge-world-cup-showdown-can-they-clinch-group-d-on-friday/",
-      "team": "usmnt",
-      "title": "Footy Fix: USMNT take on Australia in huge World Cup showdown, can they clinch Group D on Friday?",
-      "summary": "Scenarios for USMNT at World Cup ahead of USA's second match",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T15:19:28.000Z",
-      "link": "https://www.cbssports.com/soccer/news/footy-fix-usmnt-take-on-australia-in-huge-world-cup-showdown-can-they-clinch-group-d-on-friday/"
     },
     {
       "id": "espn-sabres::49110952",
