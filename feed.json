@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T14:18:54.124Z",
+  "generatedAt": "2026-06-21T16:15:07.798Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 12,
+      "itemCount": 10,
       "error": null
     },
     {
@@ -163,8 +163,8 @@
     },
     {
       "team": "bisons",
-      "state": "upcoming",
-      "headline": "Sun 2:20 PM",
+      "state": "final",
+      "headline": "Final · L [object Object]-[object Object]",
       "detail": "at CHC"
     },
     {
@@ -175,6 +175,39 @@
     }
   ],
   "stories": [
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/team-board-mock-draft-run-off.3032114/",
+      "team": "sabres",
+      "title": "Team Board Mock Draft Run Off",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T15:48:20.000Z",
+      "link": "https://forums.hfboards.com/threads/team-board-mock-draft-run-off.3032114/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T15:39:53.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
+      "team": "sabres",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T15:08:10.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
+    },
     {
       "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49003063/how-alex-freeman-pro-bowl-dad-green-bay-packers-antonio-freeman-helped-world-cup-dream-usmnt",
       "team": "usmnt",
@@ -187,6 +220,17 @@
       "link": "https://www.espn.com/soccer/story/_/id/49003063/how-alex-freeman-pro-bowl-dad-green-bay-packers-antonio-freeman-helped-world-cup-dream-usmnt"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135481/buffalo-bills-2026-scouting-report-outside-linebacker-andre-jones-jr",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: outside linebacker Andre Jones Jr.",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T14:20:36.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135481/buffalo-bills-2026-scouting-report-outside-linebacker-andre-jones-jr"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135702/buffalo-bills-2026-scouting-report-defensive-back-sam-franklin-jr",
       "team": "bills",
       "title": "Buffalo Bills 2026 scouting report: defensive back Sam Franklin Jr.",
@@ -194,8 +238,19 @@
       "source": "Buffalo Rumblings",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-21T14:15:55.000Z",
+      "publishedAt": "2026-06-21T14:19:56.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135702/buffalo-bills-2026-scouting-report-defensive-back-sam-franklin-jr"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/135718/its-ok-to-be-optimistic-about-keon-coleman-in-2026",
+      "team": "bills",
+      "title": "It’s OK to be optimistic about Keon Coleman in 2026",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T14:19:12.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/135718/its-ok-to-be-optimistic-about-keon-coleman-in-2026"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -207,28 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-21T14:09:08.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
-      "team": "sabres",
-      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-21T13:57:20.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-21T13:38:45.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-legend-luke-adam-retires-from-pro-hockey.3031926/",
@@ -262,17 +295,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-21T12:34:52.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/team-board-mock-draft-run-off.3032114/",
-      "team": "sabres",
-      "title": "Team Board Mock Draft Run Off",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-21T11:45:43.000Z",
-      "link": "https://forums.hfboards.com/threads/team-board-mock-draft-run-off.3032114/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265659-happy-father%E2%80%99s-day-to-ja-and-to-all-of-tbd/",
@@ -405,17 +427,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-20T17:18:40.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/135709/josh-allen-hailee-steinfeld-announce-baby-name"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135481/buffalo-bills-2026-scouting-report-outside-linebacker-andre-jones-jr",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: outside linebacker Andre Jones Jr.",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-20T17:15:13.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135481/buffalo-bills-2026-scouting-report-outside-linebacker-andre-jones-jr"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-re-sign-d-bo-byram-2-years-6-25m-aav.3009404/",
@@ -737,17 +748,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/49096432/2026-nhl-draft-top-prospects-pipeline-team-needs-gaps-players"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-australia-usmnt-ancelotti-brazil/",
-      "team": "usmnt",
-      "title": "World Cup: Who are Australia's most dangerous players vs. USMNT? Can Carlo Ancelotti jump-start Brazil?",
-      "summary": "As Group C and Group D teams play their second games, two of the world's best managers, Mauricio Pochettino and Carlo Ancelotti, face very different tasks",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T13:00:10.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-australia-usmnt-ancelotti-brazil/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/road-to-the-draft-rumors-trades-and-signings/",
       "team": "sabres",
       "title": "Road to the Draft, Rumors, Trades and Signings",
@@ -790,17 +790,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-19T00:27:41.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265651-this-josh-allen-guy-is-pretty-good/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/christian-pulisic-world-cup-injury-update-usmnt-australia/",
-      "team": "usmnt",
-      "title": "Christian Pulisic World Cup injury update: Pochettino says USMNT medical will evaluate before Australia match",
-      "summary": "Pulisic came off at halftime of the U.S. team's win over Paraguay with a calf issue and has not trained since",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T00:02:33.000Z",
-      "link": "https://www.cbssports.com/soccer/news/christian-pulisic-world-cup-injury-update-usmnt-australia/"
     },
     {
       "id": "espn-bills::48950554",
@@ -869,17 +858,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265646-bills-sign-ufl-running-back-ian-wheeler/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265645-get-your-vip-tailgate-tickets-here/",
-      "team": "bills",
-      "title": "Get Your VIP Tailgate Tickets Here!",
-      "summary": "$135 all inclusive food and beverage (top shelf!). \n\t \n\n\n\n\tI think they have underestimated the capacity of Mafia to drink $135 of top shelf booze - hell, bottom shelf booze even. \n\t \n\n\n\n\thttps://bullseyeeventgroup.com/bills-vip-tailgate/announcing-premium-vip-tailgate-experience-buffalo-bills/?fbclid=IwdGRleAShFkdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeMLU96wi5jfqpw6KDBOV8ZTxzMRI5RuTNEOhSfmhUGF0B3IsMkU-yG2jcpQo_aem_VxFrPRaoHtA8Ef6xHL584g",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T18:26:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265645-get-your-vip-tailgate-tickets-here/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44414/world-cup-reacts-which-big-teams-in-trouble-who-will-play-cinderella",
       "team": "usmnt",
       "title": "World Cup Reacts: Which big team’s in trouble, who will play Cinderella?",
@@ -922,17 +900,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-18T16:21:31Z",
       "link": "https://www.espn.com/nfl/story/_/id/49096789/2026-nfl-offseason-final-moves-trades-signings-extensions-32-teams"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135641/2026-nfl-season-why-teams-are-not-what-their-record-says-they-are",
-      "team": "bills",
-      "title": "2026 NFL season: Why teams are not what their record says they are",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T16:09:26.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135641/2026-nfl-season-why-teams-are-not-what-their-record-says-they-are"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44410/2026-world-cup-matchday-8-match-thread-and-discussion",
@@ -1505,6 +1472,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-20T20:36:54.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-sign-lindy-ruff-to-two-year-extension-2027-28/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264729-2026-ufl-thread/",
+      "team": "bills",
+      "title": "2026 UFL thread.",
+      "summary": "1. 60+ yard field goals = 4 points\n\t2.  One foot in bounds = catch\n\t3. Red zone penalties revert to half the distance to the goal. \n\t4. The \"Tush Push\" is eliminated.\n\t5. No punting inside the opponent’s 50-yard line.\n\t6. Overtime: 3 alternating attempts per team from the 5 yard line.\n\t \n\t7. Point aftertouchdown options:\n\t- 1 point – Kick from the 33-yard line\n\t- 2 points – Ball on the 2-yard line\n\t- 3 points – Ball on the 8-yard line\n\n\n\n\t \n\n\n\n\tSeason starts Friday, March 27.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-02-25T00:16:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/264729-2026-ufl-thread/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/261872-time-to-retire-mr-briteside/",
