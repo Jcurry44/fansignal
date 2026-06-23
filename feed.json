@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T23:43:14.271Z",
+  "generatedAt": "2026-06-23T01:48:59.764Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -176,15 +176,15 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49145667/usmnt-riding-good-vibes-christian-pulisic-back-training",
+      "team": "usmnt",
+      "title": "U.S. rides good vibes as Pulisic back in training",
+      "summary": "The good vibes continued for the United States men's national team as Christian Pulisic returned to full training for the first time since June 11, having recovered from an injured left calf.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-22T23:30:35.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
+      "publishedAt": "2026-06-23T02:05:41.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49145667/usmnt-riding-good-vibes-christian-pulisic-back-training"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
@@ -194,8 +194,63 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-22T23:29:06.000Z",
+      "publishedAt": "2026-06-23T01:25:52.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/how-take-me-home-country-roads-became-the-unofficial-usmnt-world-cup-anthem/",
+      "team": "usmnt",
+      "title": "How 'Take Me Home, Country Roads' became the unofficial USMNT World Cup anthem",
+      "summary": "The U.S. fans belted out John Denver's 'Take Me Home, Country Roads' after the team's 2-0 win over Australia, beginning a tradition that is expected to continue for the duration of the USMNT's World Cup journey",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T01:23:40.000Z",
+      "link": "https://www.cbssports.com/soccer/news/how-take-me-home-country-roads-became-the-unofficial-usmnt-world-cup-anthem/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
+      "team": "sabres",
+      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T01:14:14.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 20, 124, 156, 188 (Draft is June 26 and 27)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T00:35:59.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-20-124-156-188-draft-is-june-26-and-27.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T00:28:47.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+    },
+    {
+      "id": "espn-sabres::49147835",
+      "team": "sabres",
+      "title": "Rod Brind'Amour not a part of Hockey Hall of Fame class",
+      "summary": "Hurricanes coach Rod Brind'Amour, 55, who led his club to the Stanley Cup title last week after captaining it to a championship in 2006 as a player, was not elected to the Hockey Hall of Fame on Monday and is not a part of the six-person 2026 class.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T00:06:10Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49147835/rod-brindamour-not-part-hockey-hall-fame-class"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/surfeit-of-goalies-means-sabres-could-trade-devon-levi-this-summer/",
@@ -209,6 +264,17 @@
       "link": "https://www.buffalohockeybeat.com/surfeit-of-goalies-means-sabres-could-trade-devon-levi-this-summer/"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49140112/usmnt-faces-world-cup-dilemma-vs-turkiye-rotate-squad-keep-same-xi",
+      "team": "usmnt",
+      "title": "USMNT's World Cup success brings dilemma: Rotate t...",
+      "summary": "The USMNT has clinched a spot in the World Cup knockouts, so should the team rotate in its final Group D match or stay consistent?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-22T21:58:56.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49140112/usmnt-faces-world-cup-dilemma-vs-turkiye-rotate-squad-keep-same-xi"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -218,17 +284,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-22T21:49:46.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-22T21:36:54.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
@@ -341,6 +396,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/135762/ty-johnson-not-ray-davis-should-be-the-buffalo-bills-rb2-in-2026"
     },
     {
+      "id": "espn-bills::49108128",
+      "team": "bills",
+      "title": "2026 NFL offseason: Biggest surprise players on each team",
+      "summary": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-22T15:48:11Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49108128/nfl-2026-biggest-surprise-players-every-team-offseason"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44421/2026-world-cup-matchday-12-match-thread-and-discussion",
       "team": "usmnt",
       "title": "2026 World Cup, Matchday 12: Match thread and discussion",
@@ -363,17 +429,6 @@
       "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
     },
     {
-      "id": "espn-bills::49108128",
-      "team": "bills",
-      "title": "2026 NFL offseason: Biggest surprise players on each team",
-      "summary": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-22T15:20:56Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49108128/nfl-2026-biggest-surprise-players-every-team-offseason"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/how-to-watch-the-bills-ribbon-cutting-ceremony-at-highmark-stadium",
       "team": "bills",
       "title": "How to watch the Bills ribbon cutting ceremony at Highmark Stadium",
@@ -394,17 +449,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-22T15:11:45.000Z",
       "link": "https://forums.hfboards.com/threads/lw-zach-benson.2933200/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/",
-      "team": "sabres",
-      "title": "Alex Tuch Part Deux, Buffalo Sabres RW",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-22T14:03:07.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/off-season-with-the-sabres-players-2026-summer-shenanigans.3032249/",
@@ -537,6 +581,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-21T23:59:08.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/135680/buffalo-bills-2026-scouting-report-guard-armaj-reed-adams"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects",
+      "team": "sabres",
+      "title": "2026 draft order: Picks 1-224 including all 32 tea...",
+      "summary": "Here's a list of the top picks in the NHL draft, which will take place in Buffalo on June 26 and 27.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-21T21:05:14.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48686497/nhl-draft-2026-order-picks-lottery-top-prospects"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265661-underperforming-officials-can-now-be-demoted-to-the-ufl/",
@@ -691,17 +746,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-19T22:15:16.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44488/usa-vs-australia-2026-world-cup-community-player-ratings"
-    },
-    {
-      "id": "espn-bills::49119911",
-      "team": "bills",
-      "title": "Bills change up practice schedule under Joe Brady",
-      "summary": "Bills change up practice schedule under Joe Brady",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T21:52:14Z",
-      "link": "https://www.espn.com/video/clip/_/id/49119911/bills-change-practice-schedule-joe-brady"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265652-sunday-ticket-veterans-offer/",
@@ -902,15 +946,15 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-trade-kesselring-27th-pick-sharks-20th-pick/"
     },
     {
-      "id": "espn-sabres::49097328",
-      "team": "sabres",
-      "title": "How Stanley Cup win for Hurricanes is special for Rod Brind'Amour",
-      "summary": "How Stanley Cup win for Hurricanes is special for Rod Brind'Amour",
-      "source": "ESPN",
-      "sourceType": "league",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265637-joe-brady-interview/",
+      "team": "bills",
+      "title": "Joe Brady Interview",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-17T18:14:11Z",
-      "link": "https://www.espn.com/video/clip/_/id/49097328/how-stanley-cup-win-hurricanes-special-rod-brindamour"
+      "publishedAt": "2026-06-17T18:26:49.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265637-joe-brady-interview/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44398/2026-world-cup-matchday-10-match-thread-and-discussion",
@@ -1122,15 +1166,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/265615-mcdermotts-fingerprints-were-all-over-the-offense-according-to-tyler-dunne/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265613-aldon-smith-dead-at-36/",
+      "id": "espn-bills::49009790",
       "team": "bills",
-      "title": "Aldon Smith Dead at 36",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "title": "NFL players make World Cup predictions, weigh in on USMNT",
+      "summary": "We asked 29 NFL players to weigh in on who would win the Golden Boot and World Cup and also how the United States would fare.",
+      "source": "ESPN · Rich Cimini",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-14T00:06:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265613-aldon-smith-dead-at-36/"
+      "publishedAt": "2026-06-13T13:05:51Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49009790/nfl-players-world-cup-golden-boot-predictions-france-kylian-mbappe"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-named-nhl-second-team-all-star-earns-hart-trophy-votes/",
