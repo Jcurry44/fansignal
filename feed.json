@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T06:11:19.878Z",
+  "generatedAt": "2026-06-25T09:45:45.365Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 4,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,39 +176,6 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49169086/ac-milan-rejects-nycfc-approach-christian-pulisic",
-      "team": "usmnt",
-      "title": "Sources: Milan rejects NYCFC approach for Pulisic",
-      "summary": "AC Milan have rejected an approach by New York City FC for United States attacker Christian Pulisic, with Milan stating that the player isn't available, sources confirmed to ESPN.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T06:56:41.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49169086/ac-milan-rejects-nycfc-approach-christian-pulisic"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49169923/pochettino-risk-united-states-players-yellows",
-      "team": "usmnt",
-      "title": "Pochettino won't 'risk' USMNT players on yellows",
-      "summary": "United States manager Mauricio Pochettino said his four players on yellow cards won't start Thursday's match against Türkiye to avoid the possibility of being suspended for the round of 32 match on July 1.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T06:56:40.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49169923/pochettino-risk-united-states-players-yellows"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-4-20-45-124-156-188-draft-is-june-26-and-27.3007913/",
-      "team": "sabres",
-      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 4, 20, 45, 124, 156, 188 (Draft is June 26 and 27)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T06:09:34.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-4-20-45-124-156-188-draft-is-june-26-and-27.3007913/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
       "team": "sabres",
       "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
@@ -216,8 +183,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-25T05:43:10.000Z",
+      "publishedAt": "2026-06-25T09:40:18.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
+      "team": "sabres",
+      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-25T09:30:22.000Z",
+      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/who-do-you-guys-want-at-pick-4.3032475/",
@@ -227,8 +205,41 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-25T05:16:01.000Z",
+      "publishedAt": "2026-06-25T09:01:36.000Z",
       "link": "https://forums.hfboards.com/threads/who-do-you-guys-want-at-pick-4.3032475/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-4-20-45-124-156-188-draft-is-june-26-and-27.3007913/",
+      "team": "sabres",
+      "title": "The ONG Memorial Draft Thread - 2026 Edition: Picks 4, 20, 45, 124, 156, 188 (Draft is June 26 and 27)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-25T08:59:54.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ong-memorial-draft-thread-2026-edition-picks-4-20-45-124-156-188-draft-is-june-26-and-27.3007913/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/",
+      "team": "sabres",
+      "title": "Bowen Byram and Jordan Greenway to Chicago for 4th Overall, 45th Overall, Louis Crevier",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-25T07:56:37.000Z",
+      "link": "https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
+      "team": "sabres",
+      "title": "Alex Tuch (signed 8x$10.5M) to Washington for a 3rd Round Pick in 2027 and David Kampf",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-25T06:55:23.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/",
@@ -251,17 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-25T04:17:32.000Z",
       "link": "https://forums.hfboards.com/threads/poll-how-do-feel-about-tuch-leaving.3032468/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
-      "team": "sabres",
-      "title": "Alex Tuch (signed 8x$10.5M) to Washington for a 3rd Round Pick in 2027 and David Kampf",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T03:58:21.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
@@ -330,17 +330,6 @@
       "link": "https://www.buffalohockeybeat.com/after-breakout-stretch-sabres-zach-benson-signs-long-term-contract/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/",
-      "team": "sabres",
-      "title": "Bowen Byram and Jordan Greenway to Chicago for 4th Overall, 45th Overall, Louis Crevier",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T02:07:40.000Z",
-      "link": "https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -372,28 +361,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-25T01:21:43.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-send-alex-tuch-to-capitals-in-sign-and-trade-deal/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49165598/usmnt-folarin-balogun-world-cup-europe-biggest-clubs-taking-notice",
-      "team": "usmnt",
-      "title": "USMNT's Balogun has the World Cup, Europe's bigges...",
-      "summary": "With two goals in two games, Folarin Balogun is among the leading scorers at this World Cup, drawing interest from some of Europe's biggest clubs.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T01:05:59.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49165598/usmnt-folarin-balogun-world-cup-europe-biggest-clubs-taking-notice"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49140112/usmnt-faces-world-cup-dilemma-vs-turkiye-rotate-squad-keep-same-xi",
-      "team": "usmnt",
-      "title": "USMNT's World Cup success brings dilemma: Rotate t...",
-      "summary": "The USMNT has clinched a spot in the knockouts. Should the team stay consistent its final Group D match?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T01:05:59.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49140112/usmnt-faces-world-cup-dilemma-vs-turkiye-rotate-squad-keep-same-xi"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-zach-benson-new-contract-seven-years/",
@@ -429,39 +396,6 @@
       "link": "https://forums.hfboards.com/threads/alex-tuch-part-deux-buffalo-sabres-rw.3002271/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
-      "team": "sabres",
-      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T23:38:51.000Z",
-      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49167461/sources-caps-signing-alex-tuch-extension-sabres-trade",
-      "team": "sabres",
-      "title": "Sources: Caps get Sabres' Tuch, add 8-year deal",
-      "summary": "The Capitals completed a sign-and-trade for Alex Tuch from the Sabres on Wednesday. Tuch signed an eight-year extension with the Capitals averaging $10.5 million a year, and the Sabres got a third-round draft pick in 2026 and forward David Kampf.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T23:10:20.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49167461/sources-caps-signing-alex-tuch-extension-sabres-trade"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49168633/byram-ready-opportunity-blackhawks-no-1-defenseman",
-      "team": "sabres",
-      "title": "Byram: Been preparing for opportunity like this",
-      "summary": "Bowen Byram is stepping in as the Blackhawks' No. 1 defenseman after he was acquired in a trade with the Sabres on Tuesday night.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T23:10:20.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49168633/byram-ready-opportunity-blackhawks-no-1-defenseman"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265676-standing-room-only-tickets/",
       "team": "bills",
       "title": "Standing Room Only Tickets ???",
@@ -495,6 +429,28 @@
       "link": "https://www.sportsnet.ca/nhl/article/byram-says-hes-ready-to-be-no-1-defenceman-for-blackhawks/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/soccer/44499/three-thoughts-after-usa-beats-australia",
+      "team": "usmnt",
+      "title": "Three thoughts after USA beats Australia",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-24T21:47:45.000Z",
+      "link": "https://www.starsandstripesfc.com/soccer/44499/three-thoughts-after-usa-beats-australia"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44591/world-cup-reacts-results-which-team-do-you-want-the-usmnt-to-face-in-the-round-of-32",
+      "team": "usmnt",
+      "title": "World Cup Reacts results: Which team do you want the USMNT to face in the Round of 32?",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-24T21:45:45.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44591/world-cup-reacts-results-which-team-do-you-want-the-usmnt-to-face-in-the-round-of-32"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/",
       "team": "sabres",
       "title": "Beck Malenstyn (Pending UFA)",
@@ -504,6 +460,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-24T21:39:21.000Z",
       "link": "https://forums.hfboards.com/threads/beck-malenstyn-pending-ufa.2970095/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44589/usa-vs-australia-2026-world-cup-man-of-the-match",
+      "team": "usmnt",
+      "title": "USA vs. Australia, 2026 World Cup: Man of the Match",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-24T21:32:18.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44589/usa-vs-australia-2026-world-cup-man-of-the-match"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/",
@@ -526,6 +493,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-24T21:20:50Z",
       "link": "https://www.espn.com/nhl/story/_/id/49145616/2026-nhl-draft-trades-free-agency-picks-prospects-buzz-rumors"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44576/three-clubs-that-should-target-folarin-balogun-after-the-world-cup",
+      "team": "usmnt",
+      "title": "Three clubs that should target Folarin Balogun after the World Cup",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-24T20:54:25.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44576/three-clubs-that-should-target-folarin-balogun-after-the-world-cup"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
@@ -726,6 +704,17 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-turkiye-odds-prediction-time-2026-world-cup-picks-best-bets/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44422/2026-world-cup-matchday-14-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Matchday 14: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-24T14:48:01.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44422/2026-world-cup-matchday-14-match-thread-and-discussion"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-situation-hot-world-cup-start/",
       "team": "usmnt",
       "title": "How Mauricio Pochettino turned USMNT situation that was 'worse than we believed' into hot World Cup start",
@@ -781,6 +770,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135361/plays-that-defined-2025-bills-at-panthers-week-8"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44562/usa-soccercast-episode-193-world-cup-catch-up",
+      "team": "usmnt",
+      "title": "USA Soccercast, Episode 193: World Cup catch up",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-24T05:07:35.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44562/usa-soccercast-episode-193-world-cup-catch-up"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-trade-byram-greenway-chicago-blackhawks-fourth-overall-crevier/",
       "team": "sabres",
       "title": "Sabres Unload Byram and Greenway to Chicago For a Nice Haul",
@@ -790,6 +790,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-24T03:12:41.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-trade-byram-greenway-chicago-blackhawks-fourth-overall-crevier/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44556/world-cup-reacts-which-team-do-you-want-the-usmnt-to-face-in-the-round-of-32",
+      "team": "usmnt",
+      "title": "World Cup Reacts: Which team do you want the USMNT to face in the Round of 32?",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-24T02:55:10.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44556/world-cup-reacts-which-team-do-you-want-the-usmnt-to-face-in-the-round-of-32"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/buffalo-sabres-trade-bowen-byram-to-chicago-blackhawks-in-blockbuster-deal-land-fourth-overall-pick/",
@@ -891,6 +902,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/135829/jim-kelly-reveals-recent-health-scare-at-bills-stadium-ribbon-cutting-ceremony"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44548/2026-world-cup-previewing-usa-vs-turkiye-new-territory",
+      "team": "usmnt",
+      "title": "2026 World Cup: Previewing USA vs. Türkiye – Knowing what comes tomorrow",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T15:59:01.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44548/2026-world-cup-previewing-usa-vs-turkiye-new-territory"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265667-defense-giving-up-big-plays-vs-12-play-drives/",
       "team": "bills",
       "title": "Defense giving up big plays vs 12 play drives",
@@ -946,6 +968,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/49147835/rod-brindamour-not-part-hockey-hall-fame-class"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/world-cup-2026-content/44400/usa-vs-turkiye-2026-world-cup-scouting-turkiye",
+      "team": "usmnt",
+      "title": "USA vs. Türkiye, 2026 World Cup: Scouting Türkiye",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-22T23:31:45.000Z",
+      "link": "https://www.starsandstripesfc.com/world-cup-2026-content/44400/usa-vs-turkiye-2026-world-cup-scouting-turkiye"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265665-police-investigating-assault-claims-against-geno-smith/",
       "team": "bills",
       "title": "Police investigating assault claims against Geno Smith",
@@ -955,6 +988,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-22T16:38:59.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265665-police-investigating-assault-claims-against-geno-smith/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44518/2026-world-cup-matchday-13-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Matchday 13: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-22T16:16:42.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44518/2026-world-cup-matchday-13-match-thread-and-discussion"
     },
     {
       "id": "espn-bills::49108128",
@@ -1034,61 +1078,6 @@
       "link": "https://www.espn.com/video/clip/_/id/49127430/nicolas-deslauriers-signs-extension-hurricanes-parade"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44483/usa-outlasts-socceroos-to-win-2-0",
-      "team": "usmnt",
-      "title": "USA Outlasts Socceroos to win 2-0",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T22:15:47.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44483/usa-outlasts-socceroos-to-win-2-0"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44488/usa-vs-australia-2026-world-cup-community-player-ratings",
-      "team": "usmnt",
-      "title": "USA vs. Australia, 2026 World Cup: Community player ratings",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T22:15:16.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44488/usa-vs-australia-2026-world-cup-community-player-ratings"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44460/usa-vs-australia-2026-world-cup-time-tv-schedule-streaming-and-lineups",
-      "team": "usmnt",
-      "title": "USA vs. Australia, 2026 World Cup: Time, TV schedule, streaming and lineups",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T14:02:41.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44460/usa-vs-australia-2026-world-cup-time-tv-schedule-streaming-and-lineups"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44415/2026-world-cup-matchday-9-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 9: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T13:52:15.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44415/2026-world-cup-matchday-9-match-thread-and-discussion"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44453/best-goals-of-the-first-group-stage-play-through",
-      "team": "usmnt",
-      "title": "Best goals of the first group stage play-through",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-19T13:52:02.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44453/best-goals-of-the-first-group-stage-play-through"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/road-to-the-draft-rumors-trades-and-signings/",
       "team": "sabres",
       "title": "Road to the Draft, Rumors, Trades and Signings",
@@ -1122,17 +1111,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44449/usa-vs-paraguay-2026-world-cup-man-of-the-match",
-      "team": "usmnt",
-      "title": "USA vs. Paraguay, 2026 World Cup: Man of the Match",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T21:20:39.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44449/usa-vs-paraguay-2026-world-cup-man-of-the-match"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265646-bills-sign-ufl-running-back-ian-wheeler/",
       "team": "bills",
       "title": "Bills sign UFL running back Ian Wheeler",
@@ -1142,28 +1120,6 @@
       "sourceCount": 2,
       "publishedAt": "2026-06-18T18:52:33.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265646-bills-sign-ufl-running-back-ian-wheeler/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44414/world-cup-reacts-which-big-teams-in-trouble-who-will-play-cinderella",
-      "team": "usmnt",
-      "title": "World Cup Reacts: Which big team’s in trouble, who will play Cinderella?",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T18:15:52.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44414/world-cup-reacts-which-big-teams-in-trouble-who-will-play-cinderella"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44410/2026-world-cup-matchday-8-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 8: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-18T15:53:58.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44410/2026-world-cup-matchday-8-match-thread-and-discussion"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-injury-plagued-year-sabres-trade-michael-kesselring-to-sharks/",
@@ -1197,28 +1153,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T18:26:49.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265637-joe-brady-interview/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44398/2026-world-cup-matchday-10-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 10: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T16:48:49.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44398/2026-world-cup-matchday-10-match-thread-and-discussion"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44393/2026-world-cup-previewing-usa-vs-australia-pop-quiz-hot-shot",
-      "team": "usmnt",
-      "title": "2026 World Cup: Previewing USA vs. Australia – pop quiz, hot shot",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T15:51:30.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44393/2026-world-cup-previewing-usa-vs-australia-pop-quiz-hot-shot"
     },
     {
       "id": "bandits-official::https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/",
