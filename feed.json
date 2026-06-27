@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T22:37:00.497Z",
+  "generatedAt": "2026-06-27T23:42:40.072Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 6,
+      "itemCount": 5,
       "error": null
     },
     {
@@ -176,15 +176,15 @@
   ],
   "stories": [
     {
-      "id": "espn-sabres::49189811",
-      "team": "sabres",
-      "title": "2026 NHL draft updates: 7-round, 32-team pick tracker",
-      "summary": "The draft is complete. Here's a list of every selection, including detailed analysis for the top 32.",
-      "source": "ESPN · Rachel Kryshak",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
+      "team": "usmnt",
+      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
+      "summary": "The group stage standings will dictate which teams advance to the knockout round",
+      "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-27T21:46:59Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49189811/2026-nhl-draft-pick-tracker-live-updates-analysis-32-teams-7-rounds-scouting-notes"
+      "publishedAt": "2026-06-27T22:59:52.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "espn-sabres::49199248",
@@ -194,8 +194,19 @@
       "source": "ESPN · Ryan Clark and Kristen Shilton and Greg Wyshynski",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-27T21:42:07Z",
+      "publishedAt": "2026-06-27T22:31:35Z",
       "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
+    },
+    {
+      "id": "espn-sabres::49189811",
+      "team": "sabres",
+      "title": "2026 NHL draft updates: 7-round, 32-team pick tracker",
+      "summary": "The draft is complete. Here's a list of every selection, including detailed analysis for the top 32.",
+      "source": "ESPN · Rachel Kryshak",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T21:46:59Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49189811/2026-nhl-draft-pick-tracker-live-updates-analysis-32-teams-7-rounds-scouting-notes"
     },
     {
       "id": "espn-bills::49200181",
@@ -284,17 +295,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-27T12:29:36Z",
       "link": "https://www.espn.com/nhl/story/_/id/49194167/carolina-hurricanes-expect-seth-jarvis-4-6-months"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
-      "team": "usmnt",
-      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
-      "summary": "The group stage standings will dictate which teams advance to the knockout round",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-27T05:06:30.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44576/three-clubs-that-should-target-folarin-balogun-after-the-world-cup",
@@ -438,17 +438,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-26T04:32:23.000Z",
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-player-ratings-sebastian-berhalter-christian-pulisic-shines-off-bench/",
-      "team": "usmnt",
-      "title": "USMNT World Cup Player Ratings: Sebastian Berhalter delivers big time; Christian Pulisic shines off bench",
-      "summary": "Here's how the Americans performed against Turkiye in a last-second 3-2 loss",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T04:31:09.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-player-ratings-sebastian-berhalter-christian-pulisic-shines-off-bench/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44617/last-minute-goal-gives-turkiye-3-2-win-over-usa",
