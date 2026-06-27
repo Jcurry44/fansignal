@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T04:18:02.450Z",
+  "generatedAt": "2026-06-27T07:35:53.026Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 8,
+      "itemCount": 9,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/belgium-potential-usmnt-clash-in-world-cup-round-of-16/",
+      "team": "usmnt",
+      "title": "Belgium tops Group G, sets up potential USMNT clash in World Cup round of 16",
+      "summary": "If the Americans and the Belgians win in the round of 32, they'll face off at a World Cup for the third time in history",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T05:43:44.000Z",
+      "link": "https://www.cbssports.com/soccer/news/belgium-potential-usmnt-clash-in-world-cup-round-of-16/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
+      "team": "usmnt",
+      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
+      "summary": "The group stage standings will dictate which teams advance to the knockout round",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T05:06:30.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
+    },
+    {
       "id": "espn-sabres::49189811",
       "team": "sabres",
       "title": "2026 NHL draft updates: 7-round, 32-team pick tracker",
@@ -207,17 +229,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-27T03:20:13.000Z",
       "link": "https://www.diebytheblade.com/day-one-draft-recap-for-the-sabres/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
-      "team": "usmnt",
-      "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
-      "summary": "The group stage standings will dictate which teams advance to the knockout round",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-27T02:23:48.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-select-daxon-rudolph-fourth-overall-in-nhl-draft-ilia-morozov-taken-with-20th-pick/",
@@ -759,17 +770,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49153923/2026-nfl-contract-extensions-signings-negotiations-all-32-teams"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265674-if-there-was-a-first-song-to-be-played-at-the-new-stadium-what-song-would-you-like-it-to-be/",
-      "team": "bills",
-      "title": "If There Was a First Song to be Played at the New Stadium What Song Would You Like it to Be ?",
-      "summary": "So the Bills will be opening their new home Highmark Stadium this season & I was wondering what song would you all think should be fitting for the very first jam on their brand new Kick A** sound system with the Mafia on hand ? \n\n\n\n\t \n\n\n\n\tOf course one of the all time favorite sayings that is bound to be used is the Marvism \"Where would you rather be than right here - Right now\" So I thought if they could incorporate this song with that Marvism it would be fitting .\n\n\n\n\t \n\n\n\n\tI know we have had other posts in the past of songs that we felt should be played when the team comes on the field & such but this one I would like to keep just a bit different ! Lets keep this one to something to do about a new start, a new home, Starting over, something of that sort . But it's got to rock, no slushy love song type songs  this is the Bills new home so lets start it by blowing the top of the place .\n\n\n\n\t \n\n\n\n\tI love the intro to this song which could be playing in the back ground with the stadium lights doing some cool type of visual thing to match the piano riff while someone was doing a introduction of sorts like \"where else would you rather be than Right here (then BANG the lyrics & fans come in) - RIGHT NOW !!! Jam on !!\n\n\n\n\t \n\n\n\n\tThen of course at the end fire works  all around the canopy !! \n\n\n\n\t \n\n\n\n\tSo give out some ideas as far as the song but remember keep it on the subject of something new as I said in the previous sentence ... \n\n\n\n\t \n\n\n\n\tWhat say you Mafia ???",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T19:30:19.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265674-if-there-was-a-first-song-to-be-played-at-the-new-stadium-what-song-would-you-like-it-to-be/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265673-bills-and-torrence-have-mutual-interest-for-an-extension/",
       "team": "bills",
       "title": "Bills and Torrence have mutual interest for an extension",
@@ -847,17 +847,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-trade-byram-greenway-chicago-blackhawks-fourth-overall-crevier/"
     },
     {
-      "id": "espn-bills::49159547",
-      "team": "bills",
-      "title": "Bills give a look inside new Highmark Stadium",
-      "summary": "Alaina Getzenberg discusses the ribbon-cutting ceremony the Bills hosted at the new Highmark Stadium on Tuesday.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 2,
-      "publishedAt": "2026-06-24T00:48:25Z",
-      "link": "https://www.espn.com/video/clip/_/id/49159547/bills-give-look-new-highmark-stadium"
-    },
-    {
       "id": "espn-bills::49157990",
       "team": "bills",
       "title": "Bills great Jim Kelly says he recently had stroke but feels 'good'",
@@ -867,6 +856,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-23T22:51:52Z",
       "link": "https://www.espn.com/nfl/story/_/id/49157990/bills-great-jim-kelly-says-recently-had-stroke-feels-good"
+    },
+    {
+      "id": "espn-bills::49156845",
+      "team": "bills",
+      "title": "Bills give a look inside new Highmark Stadium at ribbon-cutting ceremony",
+      "summary": "Buffalo's new home features a natural grass field, the world's largest stadium snow-melt system and wind-reducing technology.",
+      "source": "ESPN · Alaina Getzenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T21:58:37Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49156845/buffalo-bills-highmark-stadium-ribbon-cutting-ceremony"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265670-jim-kelly-recovering-from-a-stroke/",
@@ -922,6 +922,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-23T00:06:10Z",
       "link": "https://www.espn.com/nhl/story/_/id/49147835/rod-brindamour-not-part-hockey-hall-fame-class"
+    },
+    {
+      "id": "espn-bills::49108128",
+      "team": "bills",
+      "title": "2026 NFL offseason: Biggest surprise players on each team",
+      "summary": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-22T15:48:11Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49108128/nfl-2026-biggest-surprise-players-every-team-offseason"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/how-to-watch-the-bills-ribbon-cutting-ceremony-at-highmark-stadium",
@@ -1252,6 +1263,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-03-26T14:30:59.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265027-anybody-planning-on-going-to-the-bills-game-in-vegas-this-year/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/",
+      "team": "bills",
+      "title": "REPORT: 49ers to release Aiyuk",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2025-11-21T23:51:05.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
