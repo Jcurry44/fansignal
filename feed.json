@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T22:52:24.205Z",
+  "generatedAt": "2026-06-27T00:11:54.160Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 3,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -96,8 +96,8 @@
       "id": "hfboards-sabres",
       "label": "HFBoards",
       "team": "sabres",
-      "itemCount": 20,
-      "error": null
+      "itemCount": 0,
+      "error": "HTTP 403"
     },
     {
       "id": "stars-and-stripes",
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 5,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Fri 7:07 PM",
+      "headline": "Sat 3:07 PM",
       "detail": "vs TEX"
     },
     {
@@ -176,37 +176,26 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49183528/pochettino-puzzled-media-questions-us-wins-group",
-      "team": "usmnt",
-      "title": "Poch puzzled by 'weird' questions: We 'won group'",
-      "summary": "Mauricio Pochettino was combative and seemingly frustrated with the media during his postgame news conference Thursday night, telling reporters after the United States lost to Türkiye 3-2 that the team still won the group.",
-      "source": "ESPN Soccer",
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/bettman-announces-trades-for-peterka-dorofeyev-at-nhl-draft/",
+      "team": "sabres",
+      "title": "Bettman announces trades for Peterka, Dorofeyev at NHL Draft",
+      "summary": "NHL commissioner Gary Bettman announces two trades at the NHL draft including the Boston Bruins acquiring JJ Peterka from the Utah Mammoth and the Vegas Golden Knights sending Pavel Dorofeyev to the New York Rangers.",
+      "source": "Sportsnet",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-26T23:17:49.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49183528/pochettino-puzzled-media-questions-us-wins-group"
+      "publishedAt": "2026-06-27T00:06:40.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/bettman-announces-trades-for-peterka-dorofeyev-at-nhl-draft/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-select-daxon-rudolph-fourth-overall-in-nhl-draft/",
       "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Throw in All The Oars, We're Trading for Battleships",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T22:52:20.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-throw-in-all-the-oars-were-trading-for-battleships.3030608/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T22:50:54.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+      "title": "Sabres select Daxon Rudolph fourth overall in NHL Draft",
+      "summary": "ORCHARD PARK – The Sabres tonight selected right-shot defenseman Daxon Rudolph fourth overall in the NHL Draft at KeyBank Center in Buffalo.\nThe 6-foot-3, 205-pound Rudolph registered 28 goals, 78 points, 75 penalty minutes and a plus-32 rating in 68 games with the junior Western Hockey League’s Prince Albert Raiders last season.\nRudolph, 18, plans to play at the University of Denver next season.\n\nNHL Central Scouting ranked him fifth among draft-eligible North American skaters.... Read the full article \nThe post Sabres select Daxon Rudolph fourth overall in NHL Draft first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-06-26T23:56:43.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-select-daxon-rudolph-fourth-overall-in-nhl-draft/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/watch-along-party-2026-nhl-draft/",
@@ -220,105 +209,6 @@
       "link": "https://www.diebytheblade.com/watch-along-party-2026-nhl-draft/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-merch-gear-new-old.3026547/",
-      "team": "sabres",
-      "title": "Sabres Merch - Gear,  New & Old",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T22:43:27.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-merch-gear-new-old.3026547/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/olen-zellweger-lhd-rfa-for-anton-wahlberg-and-45oa.3032645/",
-      "team": "sabres",
-      "title": "Olen Zellweger LHD (RFA) for Anton Wahlberg and 45OA",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T22:36:03.000Z",
-      "link": "https://forums.hfboards.com/threads/olen-zellweger-lhd-rfa-for-anton-wahlberg-and-45oa.3032645/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/who-do-you-guys-want-at-pick-4.3032475/",
-      "team": "sabres",
-      "title": "Who do you guys want at pick 4?",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T22:16:40.000Z",
-      "link": "https://forums.hfboards.com/threads/who-do-you-guys-want-at-pick-4.3032475/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49187306/ac-milan-name-new-ceo-amid-christian-pulisic-transfer-approach",
-      "team": "usmnt",
-      "title": "Milan name CEO amid Pulisic transfer approach",
-      "summary": "In a bid to \"bring a winning culture\" back to the club, AC Milan named Massimo Calvelli as CEO, one day after sources told ESPN they rejected an approach from New York City FC for United States attacker Christian Pulisic.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T21:34:00.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49187306/ac-milan-name-new-ceo-amid-christian-pulisic-transfer-approach"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49188769/mauricio-pochettino-positive-talks-new-usmnt-contract-sources",
-      "team": "usmnt",
-      "title": "Sources: Poch in positive talks over USMNT deal",
-      "summary": "United States men's national team coach Mauricio Pochettino and U.S. Soccer have had positive talks about a possible contract extension, sources told ESPN.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T21:33:59.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49188769/mauricio-pochettino-positive-talks-new-usmnt-contract-sources"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/louis-crevier-rhd-acquired-from-chicago.3032399/",
-      "team": "sabres",
-      "title": "Louis Crevier (RHD) acquired from Chicago",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T21:32:06.000Z",
-      "link": "https://forums.hfboards.com/threads/louis-crevier-rhd-acquired-from-chicago.3032399/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/",
-      "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester (AHL) and TBD (ECHL)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T21:31:00.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-and-tbd-echl.3030463/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/alex-tuch-excited-to-join-capitals-after-losing-to-team-in-18-stanley-cup-final/",
-      "team": "sabres",
-      "title": "Alex Tuch excited to join Capitals after losing to team in ’18 Stanley Cup Final",
-      "summary": "",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T21:27:01.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/alex-tuch-excited-to-join-capitals-after-losing-to-team-in-18-stanley-cup-final/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49184846/christian-pulisic-return-vs-turkiye-looks-ready-make-mark-usmnt-world-cup",
-      "team": "usmnt",
-      "title": "Pulisic looks ready to make his mark on USMNT's Wo...",
-      "summary": "Christian Pulisic's experience vs. Türkiye mirrored that of the U.S. team: The beginning was terrific. The ending stunk. And none of it matters nearly as much as what comes next.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T21:18:09.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49184846/christian-pulisic-return-vs-turkiye-looks-ready-make-mark-usmnt-world-cup"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
       "team": "usmnt",
       "title": "World Cup group standings, table, schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
@@ -330,125 +220,37 @@
       "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49189522/sabres-acquire-olen-zellweger-ducks-prospect-draft-pick",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-trade-prospect-and-45th-pick-to-ducks-in-exchange-for-olen-zellweger/",
       "team": "sabres",
-      "title": "Sabres land Ducks' Zellweger for prospect, pick",
-      "summary": "The Buffalo Sabres acquired Olen Zellweger in a trade with the Anaheim Ducks on Friday in return for prospect forward Anton Wahlberg and a second-round pick in Friday's NHL draft.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 2,
-      "publishedAt": "2026-06-26T20:55:10.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49189522/sabres-acquire-olen-zellweger-ducks-prospect-draft-pick"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49167461/sources-caps-signing-alex-tuch-extension-sabres-trade",
-      "team": "sabres",
-      "title": "Sources: Caps get Sabres' Tuch, add 8-year deal",
-      "summary": "The Capitals completed a sign-and-trade for Alex Tuch from the Sabres on Wednesday. Tuch signed an eight-year extension with the Capitals averaging $10.5 million a year, and the Sabres got a third-round draft pick in 2026 and forward David Kampf.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
+      "title": "Sabres trade prospect and 45th pick to Ducks in exchange for Olen Zellweger",
+      "summary": "The Buffalo Sabres this afternoon possibly found their replacement for Bowen Byram through a trade, acquiring left-shot defenseman Olen Zellweger from the Anaheim Ducks in exchange for forward prospect Anton Wahlberg and the 45th overall pick in the NHL Draft.\nThe 5-foot-10, 193-pound Zellweger, 22, is a restricted free agent.\nThe speedy Zellweger compiled seven goals, 22 points, 34 penalty minutes and a plus-4 rating with the Ducks last season, his second full NHL campaign.... Read the full article \nThe post Sabres trade prospect and 45th pick to Ducks in exchange for Olen Zellweger first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-26T20:55:10.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49167461/sources-caps-signing-alex-tuch-extension-sabres-trade"
+      "publishedAt": "2026-06-26T18:55:42.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-trade-prospect-and-45th-pick-to-ducks-in-exchange-for-olen-zellweger/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/off-season-with-the-sabres-players-2026-summer-shenanigans.3032249/",
-      "team": "sabres",
-      "title": "Off-season With The Sabres Players 2026 - Summer Shenanigans",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T20:33:22.000Z",
-      "link": "https://forums.hfboards.com/threads/off-season-with-the-sabres-players-2026-summer-shenanigans.3032249/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
-      "team": "sabres",
-      "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T20:15:11.000Z",
-      "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
-      "team": "sabres",
-      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T20:10:03.000Z",
-      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/olen-zellweger-22-ld-rfa-2026-acquired-via-trade-from-anaheim.3032655/",
-      "team": "sabres",
-      "title": "Olen Zellweger - 22 - LD - RFA 2026 - Acquired via Trade from Anaheim",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T19:57:33.000Z",
-      "link": "https://forums.hfboards.com/threads/olen-zellweger-22-ld-rfa-2026-acquired-via-trade-from-anaheim.3032655/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
-      "team": "sabres",
-      "title": "Alex Tuch (signed 8x$10.5M) to Washington for a 3rd Round Pick in 2027 and David Kampf",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T19:47:44.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49183383/usmnt-heed-world-cup-lessons-learned-loss-turkiye",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44576/three-clubs-that-should-target-folarin-balogun-after-the-world-cup",
       "team": "usmnt",
-      "title": "USMNT must heed World Cup lessons learned in loss ...",
-      "summary": "A late 3-2 defeat to Türkiye will count for little in the grand scheme of things, but USMNT boss Mauricio Pochettino will have learned plenty about his second-string players.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T19:31:06.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49183383/usmnt-heed-world-cup-lessons-learned-loss-turkiye"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/sabres-acquire-defenceman-olen-zellweger-in-swap-with-ducks/",
-      "team": "sabres",
-      "title": "Sabres acquire defenceman Olen Zellweger in swap with Ducks",
+      "title": "Three clubs that should target Folarin Balogun after the World Cup",
       "summary": "",
-      "source": "Sportsnet",
-      "sourceType": "league",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-26T18:44:52.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/sabres-acquire-defenceman-olen-zellweger-in-swap-with-ducks/"
+      "publishedAt": "2026-06-26T18:53:01.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44576/three-clubs-that-should-target-folarin-balogun-after-the-world-cup"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/expected-buffalo-podcast.2987477/",
-      "team": "sabres",
-      "title": "Expected Buffalo Podcast",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension",
+      "team": "usmnt",
+      "title": "Report: U.S. Soccer offers Mauricio Pochettino contract extension.",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-26T18:42:07.000Z",
-      "link": "https://forums.hfboards.com/threads/expected-buffalo-podcast.2987477/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/hard-team-to-play-against-tuch-outlines-what-drew-him-to-capitals/",
-      "team": "sabres",
-      "title": "‘Hard team to play against’: Tuch outlines what drew him to Capitals",
-      "summary": "New Washington Capitals forward Alex Tuch discusses what drew him to the Capitals and why he would be a good fit, saying they were a “hard team to play against” and the organization brought an unmatched level of excitement. Courtesy: Capitals",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T18:28:58.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/hard-team-to-play-against-tuch-outlines-what-drew-him-to-capitals/"
+      "publishedAt": "2026-06-26T18:52:37.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265694-edge-rusher-havoc-creations-statdoes-this-surprise-you/",
@@ -484,17 +286,6 @@
       "link": "https://www.buffalohockeybeat.com/alex-tuch-explains-why-he-left-sabres-for-capitals-in-sign-and-trade-deal-one-of-the-toughest-moments-of-my-life/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
-      "team": "sabres",
-      "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T15:33:15.000Z",
-      "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-usmnt-on-to-world-cup-round-of-32-despite-3-2-loss-next-up-bosnia-and-herzegovina/",
       "team": "usmnt",
       "title": "Footy Fix: USMNT on to World Cup round of 32 despite 3-2 loss: Next up, Bosnia and Herzegovina",
@@ -517,17 +308,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/49165820/2026-nhl-mock-draft-top-prospects-first-round-32-teams-predictions"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/",
-      "team": "sabres",
-      "title": "Sabres Prospects Video Blog, Baker's Bunker, Baker-Fairburn",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T14:39:13.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135902/bills-news-latest-on-potential-extension-for-ocyrus-torrence",
       "team": "bills",
       "title": "Bills news: Latest on potential extension for O’Cyrus Torrence",
@@ -537,17 +317,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-26T14:18:39.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/135902/bills-news-latest-on-potential-extension-for-ocyrus-torrence"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
-      "team": "sabres",
-      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T14:04:07.000Z",
-      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136004/three-buffalo-bills-defenders-who-arent-great-fits-in-jim-leonhards-scheme",
@@ -605,17 +374,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265690-tom-grossi-visits-buffalo-30-in-30-tour/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-things-pegula-2.2846083/",
-      "team": "sabres",
-      "title": "All Things Pegula 2",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T11:28:30.000Z",
-      "link": "https://forums.hfboards.com/threads/all-things-pegula-2.2846083/"
-    },
-    {
       "id": "espn-bills::49166861",
       "team": "bills",
       "title": "Questions about 10 new NFL coordinators entering 2026 season",
@@ -636,17 +394,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-26T08:04:05.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnts-second-string-offers-mixed-bag-turkiye-knockout-stage-round-of-32/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/",
-      "team": "sabres",
-      "title": "Bowen Byram and Jordan Greenway to Chicago for 4th Overall, 45th Overall, Louis Crevier",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T06:59:13.000Z",
-      "link": "https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/select-or-trade-no-4-pick-in-nhl-draft-gives-sabres-interesting-options/",
@@ -671,26 +418,15 @@
       "link": "https://www.buffalohockeybeat.com/sabres-notes-buffalo-being-removed-from-no-trade-lists-jarmo-kekalainen-drafts-best-available-prospect/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
-      "team": "sabres",
-      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Matchday 16: Match thread and discussion",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-26T04:55:32.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/",
-      "team": "sabres",
-      "title": "General Discussion of Prospects",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T04:33:48.000Z",
-      "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
+      "publishedAt": "2026-06-26T04:32:23.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-player-ratings-sebastian-berhalter-christian-pulisic-shines-off-bench/",
@@ -1001,17 +737,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt/44589/usa-vs-australia-2026-world-cup-man-of-the-match"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44576/three-clubs-that-should-target-folarin-balogun-after-the-world-cup",
-      "team": "usmnt",
-      "title": "Three clubs that should target Folarin Balogun after the World Cup",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T20:54:25.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44576/three-clubs-that-should-target-folarin-balogun-after-the-world-cup"
-    },
-    {
       "id": "espn-bills::49153923",
       "team": "bills",
       "title": "2026 NFL contract extension updates for all 32 teams",
@@ -1100,17 +825,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/49154008/2026-nhl-draft-rankings-big-board-prospects-projections-players-mckenna-stenberg-carels"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44422/2026-world-cup-matchday-14-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 14: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T14:48:01.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44422/2026-world-cup-matchday-14-match-thread-and-discussion"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-trade-byram-greenway-chicago-blackhawks-fourth-overall-crevier/",
       "team": "sabres",
       "title": "Sabres Unload Byram and Greenway to Chicago For a Nice Haul",
@@ -1155,17 +869,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49157990/bills-great-jim-kelly-says-recently-had-stroke-feels-good"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/nhl-draft-victor-plante-whose-father-derek-starred-for-sabres-to-carry-on-family-tradition-at-duluth/",
-      "team": "sabres",
-      "title": "NHL Draft: Victor Plante, whose father, Derek, starred for Sabres, to carry on family tradition at Duluth",
-      "summary": "BUFFALO – Call it a perk of carrying on the family tradition. When NHL Draft prospect Victor Plante went on a recruiting visit to the University of Minnesota-Duluth, where his brothers, Max and Zam, star for the Bulldogs, he was promised a shift alongside two of college hockey’s most dynamic scorers.\nVictor, 18, is the youngest of the bunch, meaning he has never been teammates with his brothers.\nTo play even 30 seconds on a ... Read the full article \nThe post NHL Draft: Victor Plante, whose father, Derek, starred for Sabres, to carry on family tradition at Duluth first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-23T21:38:05.000Z",
-      "link": "https://www.buffalohockeybeat.com/nhl-draft-victor-plante-whose-father-derek-starred-for-sabres-to-carry-on-family-tradition-at-duluth/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265670-jim-kelly-recovering-from-a-stroke/",
       "team": "bills",
       "title": "Jim Kelly recovering from a stroke.",
@@ -1186,17 +889,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-23T19:32:01.000Z",
       "link": "https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44548/2026-world-cup-previewing-usa-vs-turkiye-new-territory",
-      "team": "usmnt",
-      "title": "2026 World Cup: Previewing USA vs. Türkiye – Knowing what comes tomorrow",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-23T15:59:01.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44548/2026-world-cup-previewing-usa-vs-turkiye-new-territory"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265667-defense-giving-up-big-plays-vs-12-play-drives/",
