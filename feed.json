@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T12:57:56.784Z",
+  "generatedAt": "2026-06-28T14:52:14.311Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,15 +176,37 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49196528/usmnt-squad-full-leaders-world-cup-knockouts-not-just-captain-ream",
-      "team": "usmnt",
-      "title": "USMNT squad is full of leaders for World Cup knock...",
-      "summary": "A quick look at the USMNT roster reveals it is rife with leaders of different types and temperaments, which is helping the team find success.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136015/buffalo-bills-2026-scouting-report-wide-receiver-deven-thompkins",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: wide receiver Deven Thompkins",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-28T13:30:24.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49196528/usmnt-squad-full-leaders-world-cup-knockouts-not-just-captain-ream"
+      "publishedAt": "2026-06-28T13:43:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136015/buffalo-bills-2026-scouting-report-wide-receiver-deven-thompkins"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/day-two-draft-recap-for-the-sabres/",
+      "team": "sabres",
+      "title": "Day Two Draft Recap For the Sabres",
+      "summary": "Buffalo was significantly quieter on day two of the draft. Due to their various trades, they only picked three times in rounds 2-7. There were over 100 selections between their picks as they selected Morozov at 20th overall and their next pick was at 124th overall. Whether it was intentional or just how the board fell, Buffalo added forward prospects with all three of their selections.\n\n\n\nRound 4 Pick 124 – Olivers Murnieks – Center – 6’1” – (7-13-20 in 31 games in QMJHL)\n\n\n\nMurnieks had a disappointing season offensively due to injuries but is an intriguing prospect. He is a high energy player who projects to be a bottom six forward in the NHL. His defensive reliability and motor set him apart from his peers. The Latvian native is committed to Boston College and plans to join the squad in the Fall. He’s young for his draft class as he turns 18 at the end of July. Between major junior and college, he’ll have plenty of opportunities to grow into a quality pro player.\n\n\n\nRound 5 Pick 156 – Doman Szongoth – Center – 6’1” – (10-18-28 in 44 games in U20 SM-sarja)\n\n\n\nBuffalo continued their run on centerman by selecting Szongoth in the 5th round. He is just the fifth Hungarian drafted by an NHL team. If he were to make the Sabres roster in the future, he would be the first of his countrymen to make their NHL debut. He is a talented two-way center that will need time to grow into his game. He is expected to return to the top junior league in Finland but could jump to the men’s league if he takes an additional step in development.\n\n\n\nRound 6 Pick 188 – Dylan Dumont – Right Wing – 6’0” – (28-16-44 in 62 games in QMJHL)\n\n\n\nDumont is a scoring winger who attacks the center of the ice. He’s another young player for his draft (mid-August birthday) who hit his growth spirts in the last couple of years with room to continue to develop physically. He was his team’s leading goal scorer last year and is expected to be leaned on for goal production again next season. His style of play makes him one to keep an eye on as he rounds out his game.\n\n\n\nDespite the lack of draft capital, Buffalo was able to add to their already impressive stockpile of young talent. Time will tell whether these prospects can make any noise at the NHL level. Fans will get their first look at them at prospect camp in the next few days at Harborcenter.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-28T13:41:07.000Z",
+      "link": "https://www.diebytheblade.com/day-two-draft-recap-for-the-sabres/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136020/bills-news-reacting-to-news-that-o-j-simpson-wont-be-honored-at-new-stadium",
+      "team": "bills",
+      "title": "Bills news: Reacting to news that O.J. Simpson won’t be honored at new stadium",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-28T13:39:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136020/bills-news-reacting-to-news-that-o-j-simpson-wont-be-honored-at-new-stadium"
     },
     {
       "id": "espn-sabres::49199248",
@@ -231,17 +253,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-28T01:07:26.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
-    },
-    {
       "id": "espn-sabres::49189811",
       "team": "sabres",
       "title": "2026 NHL draft updates: 7-round, 32-team pick tracker",
@@ -275,15 +286,15 @@
       "link": "https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44425/2026-world-cup-matchday-17-match-thread-and-discussion",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44638/2026-world-cup-round-of-32-matchday-1-match-thread-and-discussion",
       "team": "usmnt",
-      "title": "2026 World Cup, Matchday 17: Match thread and discussion",
+      "title": "2026 World Cup, Round of 32 Matchday 1: Match thread and discussion",
       "summary": "",
       "source": "Stars and Stripes FC",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-27T19:46:12.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44425/2026-world-cup-matchday-17-match-thread-and-discussion"
+      "publishedAt": "2026-06-27T20:06:42.000Z",
+      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44638/2026-world-cup-round-of-32-matchday-1-match-thread-and-discussion"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/nhl-draft-tracker-sabres-select-olivers-murnieks-doman-szongoth-and-dylan-dumont/",
@@ -306,6 +317,39 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-27T17:46:12.000Z",
       "link": "https://www.buffalohockeybeat.com/trading-for-olen-zellweger-gives-sabres-defenseman-with-qualities-similar-to-bowen-byram/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136046/o-j-simpson-wont-be-honored-at-buffalo-bills-new-highmark-stadium",
+      "team": "bills",
+      "title": "O.J. Simpson won’t be honored at Buffalo Bills new Highmark Stadium",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T17:18:17.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136046/o-j-simpson-wont-be-honored-at-buffalo-bills-new-highmark-stadium"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/136042/espn-ranks-buffalo-bills-near-the-bottom-of-nfl-offensive-playmaker-groups",
+      "team": "bills",
+      "title": "ESPN ranks Buffalo Bills near the bottom of NFL offensive playmaker groups",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T17:04:53.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/136042/espn-ranks-buffalo-bills-near-the-bottom-of-nfl-offensive-playmaker-groups"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136030/buffalo-bills-2026-scouting-report-defensive-back-jordan-dunbar",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: defensive back Jordan Dunbar",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T13:51:18.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136030/buffalo-bills-2026-scouting-report-defensive-back-jordan-dunbar"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/belgium-potential-usmnt-clash-in-world-cup-round-of-16/",
@@ -561,17 +605,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt/44614/usa-vs-turkey-2026-world-cup-community-player-ratings"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135976/why-josh-allen-is-the-best-player-in-the-nfl",
-      "team": "bills",
-      "title": "Why Josh Allen is the best player in the NFL",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T01:15:13.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135976/why-josh-allen-is-the-best-player-in-the-nfl"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135781/buffalo-bills-2026-scouting-report-defensive-end-landon-jackson",
       "team": "bills",
       "title": "Buffalo Bills 2026 scouting report: defensive end Landon Jackson",
@@ -658,28 +691,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-25T13:56:12.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265680-new-wr-coach-for-the-ocoee-advanced-reptilian-solar-beings-florida-hs/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265679-throwback-thursday-bills-vs-dophins-%E2%80%9890-playoffs/",
-      "team": "bills",
-      "title": "Throwback Thursday Bills vs Dophins ‘90 Playoffs",
-      "summary": "Kelly playing after 3 weeks sidelined with a knee injury at the Giants . Frank Reich became a Buffalo legend, leading us to the Division title at home vs these same Dolphins. We had a fantastic season featuring 3 remarkable comebacks in a row. Huge Primetime wins at home as Thurman Thomas led the League in total yards from scrimmage. Andre Reed & James Lofton were spectacular all season and our Defense was intimidating!\n\n\n\n\t \n\n\n\n\tExpectations were high for our 1st ever trip to the Super Bowl but we had to beat Marino and the ‘fish’ again. An all time classic game!\n\n\n\n\t \n\n\n\n\tEnjoy!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T12:44:44.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265679-throwback-thursday-bills-vs-dophins-%E2%80%9890-playoffs/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/135954/buffalo-bills-2026-scouting-report-inside-linebacker-keonta-jenkins",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: inside linebacker Keonta Jenkins",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T11:45:32.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/135954/buffalo-bills-2026-scouting-report-inside-linebacker-keonta-jenkins"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44599/usa-vs-turkiye-2026-world-cup-time-tv-schedule-streaming-and-lineups",
@@ -770,17 +781,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/44591/world-cup-reacts-results-which-team-do-you-want-the-usmnt-to-face-in-the-round-of-32"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44589/usa-vs-australia-2026-world-cup-man-of-the-match",
-      "team": "usmnt",
-      "title": "USA vs. Australia, 2026 World Cup: Man of the Match",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T21:32:18.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44589/usa-vs-australia-2026-world-cup-man-of-the-match"
-    },
-    {
       "id": "espn-bills::49153923",
       "team": "bills",
       "title": "2026 NFL contract extension updates for all 32 teams",
@@ -812,39 +812,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-24T19:17:08.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265673-bills-and-torrence-have-mutual-interest-for-an-extension/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-opinion/135925/what-buffalo-bills-position-group-remains-biggest-concern-in-2026",
-      "team": "bills",
-      "title": "What Buffalo Bills position group remains biggest concern in 2026?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T19:16:58.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-opinion/135925/what-buffalo-bills-position-group-remains-biggest-concern-in-2026"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135898/buffalo-bills-nfl-top-100-will-appear-josh-allen-james-cook",
-      "team": "bills",
-      "title": "Which Buffalo Bills will appear in NFL Top 100?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T18:44:35.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135898/buffalo-bills-nfl-top-100-will-appear-josh-allen-james-cook"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135927/art-inside-buffalo-bills-new-stadium-adds-perfect-contrast-to-teams-home",
-      "team": "bills",
-      "title": "Art inside Buffalo Bills new stadium adds perfect contrast to team’s home",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T16:23:42.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135927/art-inside-buffalo-bills-new-stadium-adds-perfect-contrast-to-teams-home"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-trade-byram-greenway-chicago-blackhawks-fourth-overall-crevier/",
@@ -889,6 +856,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-23T19:32:01.000Z",
       "link": "https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265667-defense-giving-up-big-plays-vs-12-play-drives/",
+      "team": "bills",
+      "title": "Defense giving up big plays vs 12 play drives",
+      "summary": "This topic drives me crazy. \n\t \n\n\n\n\tHeard it addressed on Locked On this morning.\n\n\n\n\t \n\n\n\n\t”Well, you wanted a defense that gets after it, but with that comes giving up big plays.. McDermott’s defense didn’t do that.”  Summarizing a point made by Jerry O.  And he’s not wrong, but… \n\n\n\n\t \n\n\n\n\tOk, cool… What his Defense did was allow teams to bleed clock, wear down our defense, convert third downs and then eventually score.   Thus, shortening games and putting more pressure on Josh Allen to score when he has the ball.  All the while operating in a run-heavy structure to protect the defense, that bleeds the clock, limits his pass attempts and makes him press to do something with it when he drops back.  \n\t \n\n\n\n\tI understand the analytics of it.. and the fact is, drives that have an explosive play in them are far more likely to end in a score than those without them.   Noted. \n\t \n\n\n\n\tHowever, with the new kickoff rules and teams starting so much closer to midfield, I will take a defense that gives up 2-3 more big plays per game, as long as they are creating 6-8+ big plays themselves… turnovers, sacks, tfl’s etc. \n\n\n\n\t \n\n\n\n\tCase in point.  Denver playoff game.  Josh Allen spazzing before half.  Why did he do that?   It’s simple.. he saw an entire playoff half go by where he was almost perfect, but because of a James Cook fumble and the Defense not getting off the field - therefore limiting his drive chances - he was heading into halftime down.   So he pressed, and made it worse.  McDermott’s defensive philosophy affecting Josh Allen in a nutshell. \n\t \n\n\n\n\tThe 3rd down stops and big plays for our Defense have to be there, but as long as they are.. everyone downvote me the first time I whine about a 65 yard explosive given up by our Defense in a Gamethread.  \n\t \n\n\n\n\tBend, don’t break only works when you’re actually bending and not breaking and not affecting your own QB while his counterpart elite QB’s don’t just break your defense when it matters.. they massacre it.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T15:38:20.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265667-defense-giving-up-big-plays-vs-12-play-drives/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/jammerz-one-only-off-season-gmfad/",
@@ -944,17 +922,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-18T18:00:01.000Z",
       "link": "https://www.buffalobills.com/news/bills-sign-rb-ian-wheeler"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-trade-kesselring-27th-pick-sharks-20th-pick/",
-      "team": "sabres",
-      "title": "Sabres trade Kesselring to Sharks to move up seven spots in 2026 Draft",
-      "summary": "The Buffalo Sabres have set the ball rolling on what could be a momentous summer for the franchise by trading away defenseman Michael Kesselring and their 27th-overall pick in the upcoming NHL Draft to San Jose Sharks, and getting back the 20th-overall pick. \n\n\n\nThe Sharks had obtained that pick from the Edmonton Oilers for defenseman Jake Walman in March 2025. \n\n\n\nKesselring only featured in 34 games with the Sabres with injuries limiting his playing time and utility for Buffalo. He was arguably the centerpiece of the trade that brought him and Josh Doan to Western New York from the Utah Mammoth, but was overshadowed in impact by the son of star defenseman forward Shane Doan. He had two assists and averaged 13:24 of ice time.\n\n\n\nThe defenseman was at the end of his two-year extension that he had signed with Utah and was set to be an RFA this summer. \n\n\n\nThe NHL Draft will be held at KeyBank Center on Friday, June 26 and Saturday, June 27, and the Sabres have four picks: Round 1 (20th overall), Round 4, Round 5 & Round 6.",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-17T21:08:48.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-trade-kesselring-27th-pick-sharks-20th-pick/"
     },
     {
       "id": "bandits-official::https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/",
