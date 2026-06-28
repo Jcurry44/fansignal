@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T21:38:56.256Z",
+  "generatedAt": "2026-06-28T22:43:46.362Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,17 +176,6 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49208179/balogun-united-states-finding-another-gear-knockouts",
-      "team": "usmnt",
-      "title": "Balogun: U.S. finding 'another gear' for knockouts...",
-      "summary": "United States forward Folarin Balogun said he can \"feel the difference\" in the atmosphere around the World Cup now that the knockout stage has begun.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-28T22:11:14.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49208179/balogun-united-states-finding-another-gear-knockouts"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265697-if-you-werent-thrilled-about-the-brady-hire-as-hc-do-you-feel-any-better-about-it-now/",
       "team": "bills",
       "title": "If you weren't thrilled about the Brady hire as HC do you feel any better about it now?",
@@ -207,28 +196,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-28T21:18:28.000Z",
       "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49196528/usmnt-squad-full-leaders-world-cup-knockouts-not-just-captain-ream",
-      "team": "usmnt",
-      "title": "USMNT squad is full of leaders for World Cup knock...",
-      "summary": "A quick look at the USMNT roster reveals it is rife with leaders of different types and temperaments, which is helping the team find success.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-28T20:33:29.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49196528/usmnt-squad-full-leaders-world-cup-knockouts-not-just-captain-ream"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-28T19:48:01.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-mauricio-pochettino-offered-contract-extension-2030-world-cup/",
@@ -350,6 +317,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-27T21:09:25Z",
       "link": "https://www.espn.com/nhl/story/_/id/49199974/hurricanes-acquire-rights-defenseman-john-carlson-trade-ducks"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension",
+      "team": "usmnt",
+      "title": "Report: U.S. Soccer offers Mauricio Pochettino contract extension",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T20:47:36.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44638/2026-world-cup-round-of-32-matchday-1-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Round of 32 Matchday 1: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T20:06:42.000Z",
+      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44638/2026-world-cup-round-of-32-matchday-1-match-thread-and-discussion"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/nhl-draft-tracker-sabres-select-olivers-murnieks-doman-szongoth-and-dylan-dumont/",
@@ -515,17 +504,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-26T18:53:01.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44576/three-clubs-that-should-target-folarin-balogun-after-the-world-cup"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension",
-      "team": "usmnt",
-      "title": "Report: U.S. Soccer offers Mauricio Pochettino contract extension.",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T18:52:37.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265694-edge-rusher-havoc-creations-statdoes-this-surprise-you/",
@@ -803,17 +781,6 @@
       "link": "https://www.diebytheblade.com/sabres-trade-alex-tuch-capitals-third-round-draft-pick-contract-signed/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/soccer/44499/three-thoughts-after-usa-beats-australia",
-      "team": "usmnt",
-      "title": "Three thoughts after USA beats Australia",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T21:47:45.000Z",
-      "link": "https://www.starsandstripesfc.com/soccer/44499/three-thoughts-after-usa-beats-australia"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44591/world-cup-reacts-results-which-team-do-you-want-the-usmnt-to-face-in-the-round-of-32",
       "team": "usmnt",
       "title": "World Cup Reacts results: Which team do you want the USMNT to face in the Round of 32?",
@@ -823,17 +790,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-24T21:45:45.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/44591/world-cup-reacts-results-which-team-do-you-want-the-usmnt-to-face-in-the-round-of-32"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44589/usa-vs-australia-2026-world-cup-man-of-the-match",
-      "team": "usmnt",
-      "title": "USA vs. Australia, 2026 World Cup: Man of the Match",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T21:32:18.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44589/usa-vs-australia-2026-world-cup-man-of-the-match"
     },
     {
       "id": "espn-bills::49153923",
