@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:56:54.592Z",
+  "generatedAt": "2026-06-29T22:15:35.516Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 6,
+      "itemCount": 7,
       "error": null
     },
     {
@@ -176,6 +176,61 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/",
+      "team": "sabres",
+      "title": "Beck Malenstyn (Extended, 6 x $2.9167M AAV)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T21:50:07.000Z",
+      "link": "https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
+      "team": "sabres",
+      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T21:42:43.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-extend-qualifying-offers-to-two-players-pass-on-four/",
+      "team": "sabres",
+      "title": "Sabres extend qualifying offers to two players, pass on four",
+      "summary": "The Buffalo Sabres on Monday extended qualifying offers to restricted free agents Peyton Krebs and defenseman Olen Zellweger.\nFour players – defenseman Zac Jones, Nikita Novikov and Isaac Belliveau and winger Olivier Nadeau – did not receive a qualifying offer, making them free agents.\nKrebs, 25, has established himself as one of the Sabres’ most versatile forwards. He’s eligible for arbitration.\n\nThe Sabres acquired Zellweger, 22, on Friday in a trade with the Anaheim Ducks. ... Read the full article \nThe post Sabres extend qualifying offers to two players, pass on four first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T21:41:49.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-extend-qualifying-offers-to-two-players-pass-on-four/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Need to Find New Oars.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T21:38:12.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-tim-ream-bosnia-world-cup-pressure-round-of-32/",
+      "team": "usmnt",
+      "title": "USMNT's Tim Ream on knockout stage match vs. Bosnia: 'I don't really feel too much pressure at this minute'",
+      "summary": "The USMNT will face Bosnia and Herzegovina on Wednesday in the round of 32, a game that marks the start of both teams' knockout journeys",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T21:07:06.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnts-tim-ream-bosnia-world-cup-pressure-round-of-32/"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136033/bills-mafia-define-buffalos-biggest-roster-concern-in-2026",
       "team": "bills",
       "title": "Bills Mafia define Buffalo’s biggest roster concern in 2026",
@@ -185,6 +240,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T20:55:45.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136033/bills-mafia-define-buffalos-biggest-roster-concern-in-2026"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
+      "team": "sabres",
+      "title": "Alex Tuch (signed 8x$10.5M) to Washington for a 3rd Round Pick in 2027 and David Kampf",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T20:49:01.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136097/buffalo-bills-honoring-select-group-of-all-time-greats-inside-new-highmark-stadium",
@@ -207,28 +273,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T20:34:39.000Z",
       "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
-      "team": "sabres",
-      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T20:33:38.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Need to Find New Oars.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T20:30:52.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
@@ -284,17 +328,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T20:08:13.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/",
-      "team": "sabres",
-      "title": "Beck Malenstyn (Extended, 6 x $2.9167M AAV)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T20:02:31.000Z",
-      "link": "https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-prediction-2026-world-cup-round-of-32-picks/",
@@ -374,17 +407,6 @@
       "link": "https://www.buffalorumblings.com/general/133597/every-buffalo-bills-mandalorian-needs-a-blaster"
     },
     {
-      "id": "espn-sabres::49206272",
-      "team": "sabres",
-      "title": "NHL free agency 2026: How all 32 teams can earn an A+",
-      "summary": "With the market set to open July 1, we identify key free agents for each team and what those teams should do.",
-      "source": "ESPN · Ryan Clark and Kristen Shilton",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T17:07:24Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49206272/nhl-free-agency-2026-teams-best-players-contracts-salary-cap-market"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/off-season-with-the-sabres-players-2026-summer-shenanigans.3032249/",
       "team": "sabres",
       "title": "Off-season With The Sabres Players 2026 - Summer Shenanigans",
@@ -429,10 +451,21 @@
       "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
     },
     {
+      "id": "espn-sabres::49206272",
+      "team": "sabres",
+      "title": "NHL free agency 2026: How all 32 teams can earn an A+",
+      "summary": "With the market set to open July 1, we identify key free agents for each team and what those teams should do.",
+      "source": "ESPN · Ryan Clark and Kristen Shilton",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T15:25:55Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49206272/nhl-free-agency-2026-teams-best-players-contracts-salary-cap-market"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-beck-malenstyn-to-six-year-contract/",
       "team": "sabres",
       "title": "Sabres sign Beck Malenstyn to six-year contract",
-      "summary": "The Buffalo Sabres today signed winger Beck Malenstyn, who led the team in hits in each of the last two seasons, to a six-year, $17.5 million contract.\nMalenstyn, 28, could’ve become an unrestricted free agent Wednesday.\nThe 6-foot-3, 209-pound Malenstyn registered 282 hits in 81 games last season, the most by a Sabres player since the NHL began tracking the stat in 2005-06. That total ranked fifth in the league.\n\nHe also recorded 75 ... Read the full article \nThe post Sabres sign Beck Malenstyn to six-year contract first appeared on Buffalo Hockey Beat.",
+      "summary": "The Buffalo Sabres today signed winger Beck Malenstyn, who led the team in hits in each of the last two seasons, to a six-year, $17.5 million contract.\nMalenstyn, 28, could’ve become an unrestricted free agent Wednesday.\nThe contract has a $2.917 million salary cap hit. He will receive a $2.5 million signing bonus in each of the first two seasons, according to Puckpedia.com.\nThe 6-foot-3, 209-pound Malenstyn registered 282 hits in 81 games last ... Read the full article \nThe post Sabres sign Beck Malenstyn to six-year contract first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
@@ -539,17 +572,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265700-%E2%80%98throwback-monday%E2%80%99-the-last-great-afl-team-sb-iv/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-156oa-2026.3032865/",
-      "team": "sabres",
-      "title": "Doman Szongoth, LC, KooKoo U20 - 156OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T12:34:27.000Z",
-      "link": "https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-156oa-2026.3032865/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265699-when-did-the-12th-man-become-obsolete-in-bills-fandom/",
       "team": "bills",
       "title": "When did the 12th Man become obsolete in Bills fandom?",
@@ -619,7 +641,7 @@
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/russian-prospect-prokhor-poltapov-could-join-sabres-next-year/",
       "team": "sabres",
       "title": "Russian prospect Prokhor Poltapov could join Sabres next year",
-      "summary": "ORCHARD PARK – Over the 2021 and 2022 drafts, the Sabres took some big swings by drafting six Russians, including four in the second and third rounds.\nJust one, defenseman Vsevolod Komarov, a strong prospect with the Rochester Americans, finished last season under contract in the organization.\nSo far, zero have played an NHL game. That could, however, change next year.\n\nAssistant general manger Jerry Forton, who’s in charge of amateur scouting, said ... Read the full article \nThe post Russian prospect Prokhor Poltapov could join Sabres next year first appeared on Buffalo Hockey Beat.",
+      "summary": "ORCHARD PARK – Over the 2021 and 2022 drafts, the Sabres took some big swings by drafting six Russians, including four in the second and third rounds.\nJust one, defenseman Vsevolod Komarov, a strong prospect with the Rochester Americans, finished last season under contract in the organization.\nSo far, zero have played an NHL game. That could, however, change next year.\n\nAssistant general manager Jerry Forton, who’s in charge of amateur scouting, said ... Read the full article \nThe post Russian prospect Prokhor Poltapov could join Sabres next year first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
@@ -955,17 +977,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-26T05:30:39.000Z",
       "link": "https://www.buffalohockeybeat.com/select-or-trade-no-4-pick-in-nhl-draft-gives-sabres-interesting-options/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-notes-buffalo-being-removed-from-no-trade-lists-jarmo-kekalainen-drafts-best-available-prospect/",
-      "team": "sabres",
-      "title": "Sabres notes: Buffalo being removed from no-trade lists; Jarmo Kekalainen drafts best available prospect",
-      "summary": "ORCHARD PARK – Winning has a funny way of changing things, doesn’t it?\nIn his dealings this offseason, Sabres general manager Jarmo Kekalainen said a couple of agents told him players have removed Buffalo from their no-trade list.\n“That’s great news for us,” Kekalainen said Wednesday at One Bills Drive, where the Sabres are headquartered for the NHL Draft, which begins Friday with the first round.\n\nThe Sabres, of course, won the Atlantic Division and ... Read the full article \nThe post Sabres notes: Buffalo being removed from no-trade lists; Jarmo Kekalainen drafts best available prospect first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T05:15:38.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-notes-buffalo-being-removed-from-no-trade-lists-jarmo-kekalainen-drafts-best-available-prospect/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion",
