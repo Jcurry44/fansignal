@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T23:52:19.700Z",
+  "generatedAt": "2026-06-29T04:17:09.335Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -175,6 +175,17 @@
     }
   ],
   "stories": [
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/sabres-to-re-sign-winger-beck-malenstyn-to-six-year-18m-deal/",
+      "team": "sabres",
+      "title": "Sabres to re-sign winger Beck Malenstyn to six-year, $18M deal",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T03:31:01.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/sabres-to-re-sign-winger-beck-malenstyn-to-six-year-18m-deal/"
+    },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265698-2026-season-predictions/",
       "team": "bills",
