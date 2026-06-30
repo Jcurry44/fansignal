@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T19:19:29.599Z",
+  "generatedAt": "2026-06-30T21:14:37.721Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -176,15 +176,15 @@
   ],
   "stories": [
     {
-      "id": "espn-sabres::48902854",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/",
       "team": "sabres",
-      "title": "NHL free agency rankings: Tiers of players available on July 1",
-      "summary": "From All-Stars and award winners down to diamonds in the rough, here's who will be available this summer.",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
+      "title": "2026 NHL / Buffalo Sabres Free Agency Piddle July 1st Noon",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T19:17:32Z",
-      "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
+      "publishedAt": "2026-06-30T21:14:02.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
@@ -194,8 +194,107 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T19:16:24.000Z",
+      "publishedAt": "2026-06-30T21:11:14.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout",
+      "team": "sabres",
+      "title": "Sabres hire former antagonist Lucic as pro scout",
+      "summary": "Former NHL player Milan Lucic has gone from being a one-time Buffalo Sabres' antagonist to landing a job as a pro scout, the team announced as part of a series of hirings and promotions on Tuesday.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 2,
+      "publishedAt": "2026-06-30T20:59:22.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract",
+      "team": "sabres",
+      "title": "Sabres re-sign Malenstyn to 6-yr, $17.5 M pact",
+      "summary": "The Buffalo Sabres re-signed checking-line forward Beck Malenstyn to a six-year, $17.5 million contract on Monday, two days before free agency opens.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T20:59:21.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T20:51:28.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T20:46:29.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-lucic-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added-6-30-26.3028546/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Front Office Thread 2 (Lucic-Scout, Roest-Kennedy-Komadoski Promoted, J. Ruutu & Dorsett Development Coaches Added 6-30-26)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T20:15:41.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-lucic-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added-6-30-26.3028546/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
+      "team": "sabres",
+      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T20:01:14.000Z",
+      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49223257/transfer-rumors-news-michael-olise-asks-bayern-munich-meeting-amid-real-madrid-psg",
+      "team": "usmnt",
+      "title": "Transfer rumors, news: Olise asks for Bayern meeti...",
+      "summary": "Folarin Balogun has attracted attention from PSG, Chelsea and Tottenham Hotspur. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T19:25:11.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49223257/transfer-rumors-news-michael-olise-asks-bayern-munich-meeting-amid-real-madrid-psg"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49213271/why-outsiders-believe-usmnt-make-deep-world-cup-run",
+      "team": "usmnt",
+      "title": "Why outsiders believe the USMNT can make a deep Wo...",
+      "summary": "Coaches and analysts assess whether the U.S. has what it takes to become the surprise team of the World Cup.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T19:24:02.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49213271/why-outsiders-believe-usmnt-make-deep-world-cup-run"
+    },
+    {
+      "id": "espn-sabres::48902854",
+      "team": "sabres",
+      "title": "NHL free agency rankings: Tiers of players available on July 1",
+      "summary": "From All-Stars and award winners down to diamonds in the rough, here's who will be available this summer.",
+      "source": "ESPN · Greg Wyshynski",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T19:17:32Z",
+      "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/",
@@ -242,26 +341,15 @@
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
       "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
+      "summary": "Now that all the selections have been made, what stands out the most?",
+      "source": "ESPN NHL",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T19:00:08.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-lucic-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added-6-30-26.3028546/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Front Office Thread 2 (Lucic-Scout, Roest-Kennedy-Komadoski Promoted, J. Ruutu & Dorsett Development Coaches Added 6-30-26)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T18:44:04.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-lucic-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added-6-30-26.3028546/"
+      "publishedAt": "2026-06-30T18:42:44.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
@@ -295,6 +383,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T17:59:44.000Z",
       "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44688/2026-world-cup-previewing-usa-vs-bosnia-herzegovina",
+      "team": "usmnt",
+      "title": "2026 World Cup: Previewing USA vs. Bosnia & Herzegovina – It’s all on the line",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T17:56:33.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44688/2026-world-cup-previewing-usa-vs-bosnia-herzegovina"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -341,15 +440,15 @@
       "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
-      "team": "sabres",
-      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135509/plays-that-defined-2025-buffalo-bills-at-miami-dolphins-week-10",
+      "team": "bills",
+      "title": "Plays That Defined 2025: Buffalo Bills at Miami Dolphins, Week 10",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T16:53:36.000Z",
-      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
+      "publishedAt": "2026-06-30T15:40:49.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135509/plays-that-defined-2025-buffalo-bills-at-miami-dolphins-week-10"
     },
     {
       "id": "espn-bills::49147104",
@@ -374,15 +473,15 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-prediction-time-2026-world-cup-round-of-32-picks/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44685/2026-world-cup-round-of-32-matchday-3-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Round of 32 Matchday 3: Match thread and discussion",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T15:10:56.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+      "publishedAt": "2026-06-30T15:24:38.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44685/2026-world-cup-round-of-32-matchday-3-match-thread-and-discussion"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-announce-six-hires-including-milan-lucic-as-pro-scout/",
@@ -462,6 +561,17 @@
       "link": "https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136037/buffalo-bills-2026-scouting-report-c-og-connor-mcgovern",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: C/OG Connor McGovern",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T12:00:35.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136037/buffalo-bills-2026-scouting-report-c-og-connor-mcgovern"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265707-pretty-cool-dj-moore-story%E2%80%A6/",
       "team": "bills",
       "title": "Pretty cool DJ Moore story…",
@@ -471,6 +581,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T11:12:09.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265707-pretty-cool-dj-moore-story%E2%80%A6/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-extend-qualifying-offers-to-two-players-pass-on-four/",
+      "team": "sabres",
+      "title": "Sabres extend qualifying offers to two players, pass on four",
+      "summary": "The Buffalo Sabres on Monday extended qualifying offers to restricted free agents Peyton Krebs and Olen Zellweger.\nFour players – defenseman Zac Jones, Nikita Novikov and Isaac Belliveau and winger Olivier Nadeau – did not receive a qualifying offer, making them free agents.\nKrebs, 25, has established himself as one of the Sabres’ most versatile forwards. He’s eligible for arbitration.\n\nThe Sabres acquired Zellweger, 22, on Friday in a trade with the Anaheim Ducks. The ... Read the full article \nThe post Sabres extend qualifying offers to two players, pass on four first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T05:41:49.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-extend-qualifying-offers-to-two-players-pass-on-four/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
@@ -484,15 +605,15 @@
       "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st.3033067/",
-      "team": "sabres",
-      "title": "2026 NHL / Buffalo Sabres Free Agency Piddle July 1st",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44677/usa-vs-turkiye-2026-world-cup-man-of-the-match",
+      "team": "usmnt",
+      "title": "USA vs. Türkiye, 2026 World Cup: Man of the Match",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T02:19:50.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st.3033067/"
+      "publishedAt": "2026-06-30T03:25:27.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44677/usa-vs-turkiye-2026-world-cup-man-of-the-match"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/",
@@ -506,17 +627,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-extend-qualifying-offers-to-two-players-pass-on-four/",
-      "team": "sabres",
-      "title": "Sabres extend qualifying offers to two players, pass on four",
-      "summary": "The Buffalo Sabres on Monday extended qualifying offers to restricted free agents Peyton Krebs and defenseman Olen Zellweger.\nFour players – defenseman Zac Jones, Nikita Novikov and Isaac Belliveau and winger Olivier Nadeau – did not receive a qualifying offer, making them free agents.\nKrebs, 25, has established himself as one of the Sabres’ most versatile forwards. He’s eligible for arbitration.\n\nThe Sabres acquired Zellweger, 22, on Friday in a trade with the Anaheim Ducks. ... Read the full article \nThe post Sabres extend qualifying offers to two players, pass on four first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T21:41:49.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-extend-qualifying-offers-to-two-players-pass-on-four/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-tim-ream-bosnia-world-cup-pressure-round-of-32/",
       "team": "usmnt",
       "title": "USMNT's Tim Ream on knockout stage match vs. Bosnia: 'I don't really feel too much pressure at this minute'",
@@ -528,6 +638,28 @@
       "link": "https://www.cbssports.com/soccer/news/usmnts-tim-ream-bosnia-world-cup-pressure-round-of-32/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136033/bills-mafia-define-buffalos-biggest-roster-concern-in-2026",
+      "team": "bills",
+      "title": "Bills Mafia define Buffalo’s biggest roster concern in 2026",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T20:55:45.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136033/bills-mafia-define-buffalos-biggest-roster-concern-in-2026"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136097/buffalo-bills-honoring-select-group-of-all-time-greats-inside-new-highmark-stadium",
+      "team": "bills",
+      "title": "Buffalo Bills honoring select group of all-time greats inside new Highmark Stadium",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T20:43:23.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136097/buffalo-bills-honoring-select-group-of-all-time-greats-inside-new-highmark-stadium"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-leave-their-base-camp-irvine-isolated-from-world-cup-fever/",
       "team": "usmnt",
       "title": "USMNT leave their base camp in Irvine, a pocket of the U.S. isolated from World Cup fever",
@@ -537,6 +669,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T17:24:18.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-leave-their-base-camp-irvine-isolated-from-world-cup-fever/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/133597/every-buffalo-bills-mandalorian-needs-a-blaster",
+      "team": "bills",
+      "title": "Every Buffalo Bills Mandalorian needs a blaster",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T17:19:04.000Z",
+      "link": "https://www.buffalorumblings.com/general/133597/every-buffalo-bills-mandalorian-needs-a-blaster"
     },
     {
       "id": "espn-sabres::49206272",
@@ -603,6 +746,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T13:59:00.000Z",
       "link": "https://www.buffalobills.com/news/seneca-resorts-casinos-signs-on-as-founding-partner-of-highmark-stadium-extends-partnership-with-buffalo-bills"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136062/buffalo-bills-2026-scouting-report-olb-javon-solomon",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: OLB Javon Solomon",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T13:21:25.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136062/buffalo-bills-2026-scouting-report-olb-javon-solomon"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-legacy-10-games-that-changed-u-s-soccer-forever/",
@@ -858,17 +1012,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/136042/espn-ranks-buffalo-bills-near-the-bottom-of-nfl-offensive-playmaker-groups"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136030/buffalo-bills-2026-scouting-report-defensive-back-jordan-dunbar",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: defensive back Jordan Dunbar",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-27T13:51:18.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136030/buffalo-bills-2026-scouting-report-defensive-back-jordan-dunbar"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/2026-nhl-draft-how-to-watch-draft-order-rounds-2-7-open-thread-buffalo-sabres/",
       "team": "sabres",
       "title": "2026 NHL Draft – How To Watch, Draft Order & Rounds 2-7 Open Thread",
@@ -946,39 +1089,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-trade-prospect-and-45th-pick-to-ducks-in-exchange-for-olen-zellweger/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135902/bills-news-latest-on-potential-extension-for-ocyrus-torrence",
-      "team": "bills",
-      "title": "Bills news: Latest on potential extension for O’Cyrus Torrence",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T14:18:39.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135902/bills-news-latest-on-potential-extension-for-ocyrus-torrence"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136004/three-buffalo-bills-defenders-who-arent-great-fits-in-jim-leonhards-scheme",
-      "team": "bills",
-      "title": "Three Buffalo Bills defenders who aren’t great fits in Jim Leonhard’s scheme",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T13:42:15.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136004/three-buffalo-bills-defenders-who-arent-great-fits-in-jim-leonhards-scheme"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135360/plays-that-defined-2025-kansas-city-at-buffalo-bills-week-9",
-      "team": "bills",
-      "title": "Plays That Defined 2025: Kansas City at Buffalo Bills, Week 9",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T12:16:16.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135360/plays-that-defined-2025-kansas-city-at-buffalo-bills-week-9"
-    },
-    {
       "id": "espn-bills::49166861",
       "team": "bills",
       "title": "Questions about 10 new NFL coordinators entering 2026 season",
@@ -1012,28 +1122,6 @@
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44617/last-minute-goal-gives-turkiye-3-2-win-over-usa"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44614/usa-vs-turkey-2026-world-cup-community-player-ratings",
-      "team": "usmnt",
-      "title": "USA vs. Turkey, 2026 World Cup: Community player ratings",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T04:30:31.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44614/usa-vs-turkey-2026-world-cup-community-player-ratings"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135781/buffalo-bills-2026-scouting-report-defensive-end-landon-jackson",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: defensive end Landon Jackson",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T00:51:01.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135781/buffalo-bills-2026-scouting-report-defensive-end-landon-jackson"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265684-the-view-from-patriots-wire/",
       "team": "bills",
       "title": "The View from Patriots Wire",
@@ -1043,17 +1131,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-25T19:39:43.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265684-the-view-from-patriots-wire/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135988/buffalo-bills-and-wivb-tv-are-sticking-together-for-the-foreseeable-future",
-      "team": "bills",
-      "title": "Buffalo Bills and WIVB-TV are sticking together for the foreseeable future.",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T18:24:39.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135988/buffalo-bills-and-wivb-tv-are-sticking-together-for-the-foreseeable-future"
     },
     {
       "id": "espn-bills::49154825",
@@ -1067,17 +1144,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49154825/ranking-nfl-teams-offensive-groups-wr-rb-te-2026-season-best-playmakers"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44423/2026-world-cup-matchday-15-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 15: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T15:53:12.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44423/2026-world-cup-matchday-15-match-thread-and-discussion"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265681-barnwell-ranks-offensive-playmakers-outside-of-qb/",
       "team": "bills",
       "title": "Barnwell ranks offensive playmakers outside of QB",
@@ -1087,17 +1153,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-25T14:06:57.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265681-barnwell-ranks-offensive-playmakers-outside-of-qb/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44599/usa-vs-turkiye-2026-world-cup-time-tv-schedule-streaming-and-lineups",
-      "team": "usmnt",
-      "title": "USA vs. Türkiye, 2026 World Cup: Time, TV schedule, streaming and lineups",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T06:08:04.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44599/usa-vs-turkiye-2026-world-cup-time-tv-schedule-streaming-and-lineups"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/",
