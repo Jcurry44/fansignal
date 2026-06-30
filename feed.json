@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T23:34:18.011Z",
+  "generatedAt": "2026-06-30T01:50:08.911Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 4,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,26 +176,15 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49219089/gregg-berhalter-tears-son-sebastian-scores-world-cup-goal",
-      "team": "usmnt",
-      "title": "Berhalter in tears after son Sebastian's WC goal",
-      "summary": "Chicago Fire manager Gregg Berhalter was brought to tears when thinking about son Sebastian Berhalter's first World Cup goal for the United States men's national team against Türkiye in the final group stage match.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/",
+      "team": "sabres",
+      "title": "Beck Malenstyn (Extended, 6 x $2.9167M AAV)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T00:01:05.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49219089/gregg-berhalter-tears-son-sebastian-scores-world-cup-goal"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49217786/united-states-tim-ream-do-advance-vs-bosnia-herzegovina",
-      "team": "usmnt",
-      "title": "USMNT's Ream: We'll do what we must to advance",
-      "summary": "United States men's national team defender Tim Ream said his side will need to \"expect the unexpected\" in their round of 32 World Cup encounter against Bosnia-Herzegovina on Wednesday.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T00:01:04.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49217786/united-states-tim-ream-do-advance-vs-bosnia-herzegovina"
+      "publishedAt": "2026-06-30T01:31:27.000Z",
+      "link": "https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
@@ -205,52 +194,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-29T23:02:27.000Z",
+      "publishedAt": "2026-06-30T01:28:53.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/adam-kleber-rd-lincoln-ushl-42oa-2024-umd.2969991/",
       "team": "sabres",
-      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
+      "title": "Adam Kleber, RD, Lincoln (USHL) - 42OA, 2024; UMD",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-29T22:56:43.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
-      "team": "sabres",
-      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T22:56:04.000Z",
-      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T22:49:25.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/",
-      "team": "sabres",
-      "title": "Beck Malenstyn (Extended, 6 x $2.9167M AAV)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T22:25:58.000Z",
-      "link": "https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/"
+      "publishedAt": "2026-06-30T01:21:51.000Z",
+      "link": "https://forums.hfboards.com/threads/adam-kleber-rd-lincoln-ushl-42oa-2024-umd.2969991/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st.3033067/",
@@ -260,8 +216,118 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-29T22:15:45.000Z",
+      "publishedAt": "2026-06-30T01:20:28.000Z",
       "link": "https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st.3033067/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/olen-zellweger-lhd-rfa-for-anton-wahlberg-and-45oa.3032645/",
+      "team": "sabres",
+      "title": "Olen Zellweger LHD (RFA) for Anton Wahlberg and 45OA",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T01:13:04.000Z",
+      "link": "https://forums.hfboards.com/threads/olen-zellweger-lhd-rfa-for-anton-wahlberg-and-45oa.3032645/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T01:10:26.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
+      "team": "sabres",
+      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T01:05:12.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265704-new-russini-stuff-bills-related/",
+      "team": "bills",
+      "title": "New Russini stuff - Bills related",
+      "summary": "LOL: https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-dianna-russini-traffic-stop-bodycam-emerges-with-no-facetime-to-any-nfl-coach\n\n\n\n\t \n\n\n\n\t‘After the officer approaches her car, Russini says, “I’m an NFL reporter, and I just broke that Sean McDermott got fired from the Bills. And that I what I was just sending to send [sic], a tweet. I was gonna pull over, because I have to make calls. I know you don’t care, but I just wanted you to know my reason why.”\n\n\n\n\tThe officer says, “Obviously you were on your phone for a while. . . . I understand you’ve got a job.”\n\n\n\n\tThen, Russini says, “You know who I was on the phone with? Brian Daboll. He wants the job.”\n\n\n\n\tNext, she asks the officer if he’s a fan of the Giants or Jets.\n\n\n\n\t“I’m actually — I’m not a fan of either,” the officer says.\n\n\n\n\t“What is your team?” Russini replies.\n\n\n\n\t“I’m a Vikings fan, unfortunately,” he said.\n\n\n\n\tRussini then shows him her phone, and a text exchange with Vikings coach Kevin O’Connell. But she didn’t FaceTime O’Connell. She simply showed the officer her phone.\n\n\n\n\tShe also added, regarding the Vikings, “Their quarterback sucks.”’",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T01:04:39.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265704-new-russini-stuff-bills-related/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/",
+      "team": "sabres",
+      "title": "Sabres acquire 20th pick in the 2026 draft from SJS for Kesselring + 27",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T00:43:30.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
+      "team": "sabres",
+      "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T00:38:16.000Z",
+      "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/",
+      "team": "bills",
+      "title": "Red vs Blue Scrimmage Tickets ???",
+      "summary": "Has anyone heard when these are going to be made available for the season ticket holders yet?  \n\t \n\n\n\n\tAlso, has anyone heard if the season ticket holders don’t want theirs, if they’ll be available to the public?   \n\t \n\n\n\n\tI need one more, as I’m trying to bring my gf.  We already have four from our seasons.   Don’t care where the seat is, as I’ll probably spend the entire time walking around and taking pictures. Just need entry.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T00:37:13.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
+      "team": "sabres",
+      "title": "Alex Tuch (signed 8x$10.5M) to Washington for a 3rd Round Pick in 2027 and David Kampf",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T00:35:16.000Z",
+      "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
+      "team": "sabres",
+      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T00:12:42.000Z",
+      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ilia-morozov-lc-miami-of-ohio-ncaa-20oa-2026.3032676/",
+      "team": "sabres",
+      "title": "Ilia Morozov, LC, Miami of Ohio (NCAA) - 20OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T23:17:19.000Z",
+      "link": "https://forums.hfboards.com/threads/ilia-morozov-lc-miami-of-ohio-ncaa-20oa-2026.3032676/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
@@ -308,28 +374,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136033/bills-mafia-define-buffalos-biggest-roster-concern-in-2026"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract",
-      "team": "sabres",
-      "title": "Sabres re-sign Malenstyn to 6-yr, $17.5 M pact",
-      "summary": "The Buffalo Sabres re-signed checking-line forward Beck Malenstyn to a six-year, $17.5 million contract on Monday, two days before free agency opens.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T20:51:14.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
-      "team": "sabres",
-      "title": "Alex Tuch (signed 8x$10.5M) to Washington for a 3rd Round Pick in 2027 and David Kampf",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T20:49:01.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136097/buffalo-bills-honoring-select-group-of-all-time-greats-inside-new-highmark-stadium",
       "team": "bills",
       "title": "Buffalo Bills honoring select group of all-time greats inside new Highmark Stadium",
@@ -350,28 +394,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T20:30:01.000Z",
       "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ilia-morozov-lc-miami-of-ohio-ncaa-20oa-2026.3032676/",
-      "team": "sabres",
-      "title": "Ilia Morozov, LC, Miami of Ohio (NCAA) - 20OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T20:26:17.000Z",
-      "link": "https://forums.hfboards.com/threads/ilia-morozov-lc-miami-of-ohio-ncaa-20oa-2026.3032676/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/",
-      "team": "sabres",
-      "title": "Sabres acquire 20th pick in the 2026 draft from SJS for Kesselring + 27",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T20:08:13.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-acquire-20th-pick-in-the-2026-draft-from-sjs-for-kesselring-27.3032006/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-prediction-2026-world-cup-round-of-32-picks/",
@@ -451,26 +473,15 @@
       "link": "https://www.buffalorumblings.com/general/133597/every-buffalo-bills-mandalorian-needs-a-blaster"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/espn/story/_/id/49214622/folarin-balogun-leads-nigeria-descent-performers-world-cup-enters-business-end",
-      "team": "usmnt",
-      "title": "Balogun leads Nigeria-descent players in World Cup...",
-      "summary": "Nigeria failed to qualify for the 2026 FIFA World Cup, the first 48-team World Cup, which featured a record 10 African countries. But the nations is being represented by many players from the diaspora.",
-      "source": "ESPN Soccer",
+      "id": "espn-sabres::49206272",
+      "team": "sabres",
+      "title": "NHL free agency 2026: How all 32 teams can earn an A+",
+      "summary": "With the market set to open July 1, we identify key free agents for each team and what those teams should do.",
+      "source": "ESPN · Ryan Clark and Kristen Shilton",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-29T17:13:53.000Z",
-      "link": "https://www.espn.com/espn/story/_/id/49214622/folarin-balogun-leads-nigeria-descent-performers-world-cup-enters-business-end"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49213271/why-outsiders-believe-usmnt-make-deep-world-cup-run",
-      "team": "usmnt",
-      "title": "Why outsiders believe the USMNT can make a deep Wo...",
-      "summary": "After an impressive group stage, ESPN has assembled a panel of coaches and analysts to assess whether the United States has what it takes to become the surprise package of the 2026 FIFA World Cup.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T17:13:52.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49213271/why-outsiders-believe-usmnt-make-deep-world-cup-run"
+      "publishedAt": "2026-06-29T17:07:24Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49206272/nhl-free-agency-2026-teams-best-players-contracts-salary-cap-market"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/off-season-with-the-sabres-players-2026-summer-shenanigans.3032249/",
@@ -495,39 +506,6 @@
       "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/",
-      "team": "sabres",
-      "title": "Dylan Dumont, RW, Drummondville (QMJHL) -188OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T16:11:17.000Z",
-      "link": "https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
-      "team": "sabres",
-      "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T15:35:08.000Z",
-      "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
-    },
-    {
-      "id": "espn-sabres::49206272",
-      "team": "sabres",
-      "title": "NHL free agency 2026: How all 32 teams can earn an A+",
-      "summary": "With the market set to open July 1, we identify key free agents for each team and what those teams should do.",
-      "source": "ESPN · Ryan Clark and Kristen Shilton",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T15:25:55Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49206272/nhl-free-agency-2026-teams-best-players-contracts-salary-cap-market"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-beck-malenstyn-to-six-year-contract/",
       "team": "sabres",
       "title": "Sabres sign Beck Malenstyn to six-year contract",
@@ -548,17 +526,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T15:07:37.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-sign-beck-malenstyn-new-six-year-contract/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T15:02:12.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265701-chris-johnson-battling-als/",
@@ -594,17 +561,6 @@
       "link": "https://www.buffalobills.com/news/seneca-resorts-casinos-signs-on-as-founding-partner-of-highmark-stadium-extends-partnership-with-buffalo-bills"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T13:28:27.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136062/buffalo-bills-2026-scouting-report-olb-javon-solomon",
       "team": "bills",
       "title": "Buffalo Bills 2026 scouting report: OLB Javon Solomon",
@@ -625,17 +581,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T12:54:27.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-legacy-10-games-that-changed-u-s-soccer-forever/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265700-%E2%80%98throwback-monday%E2%80%99-the-last-great-afl-team-sb-iv/",
-      "team": "bills",
-      "title": "‘Throwback Monday’? The last great AFL team SB IV",
-      "summary": "Also the last game ever between the AFL and NFL and the last game the NFL didn’t have player names on their jerseys. What’s remarkable about this particular game is the video had been lost and presumed destroyed for over 6 decades. Only black & white video was available from tv coverage. Then, recently, this lone copy of the color version was found when the facility was sold and the new owners began going through the ‘garbage’ of their new facility!😳\n\t \n\n\n\n\tFor folks of my age, this is a true treasure! -from a Bills perspective, we were a trash team though not as bad as the ‘68 team where we ‘earned’ the 1st overall pick and selected a RB from USC -who shall now remain anonymous..🤦‍♂️\n\n\n\n\tKC vs Minnesota Super Bowl \n\n\n\n\t \n\n\n\n\tHope you enjoy",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T12:46:25.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265700-%E2%80%98throwback-monday%E2%80%99-the-last-great-afl-team-sb-iv/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265699-when-did-the-12th-man-become-obsolete-in-bills-fandom/",
@@ -1001,17 +946,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/135902/bills-news-latest-on-potential-extension-for-ocyrus-torrence"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265692-cj-gardner-johnson-guarantees-2-superbowls-wins-among-other-things-in-the-athletic/",
-      "team": "bills",
-      "title": "C.J. Gardner Johnson guarantees 2 Superbowls wins, among other things, in the Athletic ...",
-      "summary": "A good read:\n\n\n\n\t \n\n\n\n\thttps://www.nytimes.com/athletic/7332227/2026/06/26/cj-gardner-johnson-bills-eagles-bears-lions-texans/\n\n\n\n\t \n\n\n\n\tnote: I could read this w/o an Athletic account, hope it works for all",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T12:47:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265692-cj-gardner-johnson-guarantees-2-superbowls-wins-among-other-things-in-the-athletic/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265691-the-good-old-days-in-the-nfl/",
       "team": "bills",
       "title": "The good old days in the NFL",
@@ -1177,17 +1111,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49153923/2026-nfl-contract-extensions-signings-negotiations-all-32-teams"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265674-if-there-was-a-first-song-to-be-played-at-the-new-stadium-what-song-would-you-like-it-to-be/",
-      "team": "bills",
-      "title": "If There Was a First Song to be Played at the New Stadium What Song Would You Like it to Be ?",
-      "summary": "So the Bills will be opening their new home Highmark Stadium this season & I was wondering what song would you all think should be fitting for the very first jam on their brand new Kick A** sound system with the Mafia on hand ? \n\n\n\n\t \n\n\n\n\tOf course one of the all time favorite sayings that is bound to be used is the Marvism \"Where would you rather be than right here - Right now\" So I thought if they could incorporate this song with that Marvism it would be fitting .\n\n\n\n\t \n\n\n\n\tI know we have had other posts in the past of songs that we felt should be played when the team comes on the field & such but this one I would like to keep just a bit different ! Lets keep this one to something to do about a new start, a new home, Starting over, something of that sort . But it's got to rock, no slushy love song type songs  this is the Bills new home so lets start it by blowing the top of the place .\n\n\n\n\t \n\n\n\n\tI love the intro to this song which could be playing in the back ground with the stadium lights doing some cool type of visual thing to match the piano riff while someone was doing a introduction of sorts like \"where else would you rather be than Right here (then BANG the lyrics & fans come in) - RIGHT NOW !!! Jam on !!\n\n\n\n\t \n\n\n\n\tThen of course at the end fire works  all around the canopy !! \n\n\n\n\t \n\n\n\n\tSo give out some ideas as far as the song but remember keep it on the subject of something new as I said in the previous sentence ... \n\n\n\n\t \n\n\n\n\tWhat say you Mafia ???",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T19:30:19.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265674-if-there-was-a-first-song-to-be-played-at-the-new-stadium-what-song-would-you-like-it-to-be/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265673-bills-and-torrence-have-mutual-interest-for-an-extension/",
       "team": "bills",
       "title": "Bills and Torrence have mutual interest for an extension",
@@ -1219,17 +1142,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-23T22:51:52Z",
       "link": "https://www.espn.com/nfl/story/_/id/49157990/bills-great-jim-kelly-says-recently-had-stroke-feels-good"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265670-jim-kelly-recovering-from-a-stroke/",
-      "team": "bills",
-      "title": "Jim Kelly recovering from a stroke.",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-23T21:12:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265670-jim-kelly-recovering-from-a-stroke/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony",
@@ -1463,6 +1375,17 @@
       "link": "https://www.buffalobills.com/news/james-cook-s-milestone-joshua-palmer-s-motivation-cole-bishop-s-recovery-recapping-day-2-of-bills-minicamp"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265586-eagles-sign-epenesa/",
+      "team": "bills",
+      "title": "Eagles Sign Epenesa",
+      "summary": "Quality signing for this point of the offseason.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-10T21:46:47.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265586-eagles-sign-epenesa/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/connect-compete-condition-recapping-day-1-of-bills-minicamp",
       "team": "bills",
       "title": "'Connect, compete, condition' — Recapping Day 1 of Bills minicamp",
@@ -1505,6 +1428,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-04-08T01:53:02.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265027-anybody-planning-on-going-to-the-bills-game-in-vegas-this-year/",
+      "team": "bills",
+      "title": "Anybody planning on going to the Bills game in Vegas this year?",
+      "summary": "My group is starting to have the discussion.  Personally I am kinda torn if I even want to go.  I have a cousin that lives out there and he was telling me the Strip is just insanely overpriced now(Shocking I know...but he was saying they are really only catering to the elites now). I have been reading alot online about how Vegas has really gone downhill post Covid.  I've also cut back on drinking this past year. The stadium looks kinda cool I guess but it doesn't feel like a bucket list item to me.  Just not sure going out there for the game would be worth the $$$.\n\n\n\n\t \n\n\n\n\tOn the flipside I would hate to miss out on a great time, I've done the Nashville and New Orleans Bills trips and they were so much fun!  But this one just feels different to me I dunno\n\n\n\n\t \n\n\n\n\tAnybody planning on going?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-03-26T14:30:59.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265027-anybody-planning-on-going-to-the-bills-game-in-vegas-this-year/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/",
