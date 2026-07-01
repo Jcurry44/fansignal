@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T23:52:51.197Z",
+  "generatedAt": "2026-07-01T04:13:28.046Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 6,
+      "itemCount": 7,
       "error": null
     },
     {
@@ -176,37 +176,15 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Need to Find New Oars.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt",
+      "team": "usmnt",
+      "title": "Pulisic says he is fit, ready to go for USMNT",
+      "summary": "United States men's national team attacker Christian Pulisic said he is ready to go the distance in the team's World Cup round-of-32 match against Bosnia and Herzegovina on Wednesday, no matter how long the game lasts.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T23:50:15.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-156oa-2026.3032865/",
-      "team": "sabres",
-      "title": "Doman Szongoth, LC, KooKoo U20 - 156OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T23:47:34.000Z",
-      "link": "https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-156oa-2026.3032865/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/",
-      "team": "sabres",
-      "title": "2026 NHL / Buffalo Sabres Free Agency Piddle July 1st Noon",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T23:45:24.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/"
+      "publishedAt": "2026-07-01T05:06:31.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
@@ -216,8 +194,173 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T23:35:51.000Z",
+      "publishedAt": "2026-07-01T04:08:52.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
+      "team": "usmnt",
+      "title": "World Cup schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
+      "summary": "The group stage standings will dictate which teams advance to the knockout round",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T04:08:49.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Front Office Thread 2 (6-30-26: Lucic-Pro Scout, Roest-Kennedy-Komadoski Promoted, J. Ruutu & Dorsett Development Coaches Added)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T04:07:48.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/",
+      "team": "sabres",
+      "title": "2026 NHL / Buffalo Sabres Free Agency Piddle July 1st @ Noon",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T04:05:56.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
+      "team": "sabres",
+      "title": "Locked on Sabres Podcast",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T04:03:49.000Z",
+      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Need to Find New Oars.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T03:59:25.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T03:51:34.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T02:28:17.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/",
+      "team": "sabres",
+      "title": "Beck Malenstyn (Extended, 6 x $2.9167M AAV)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T02:02:03.000Z",
+      "link": "https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
+      "team": "sabres",
+      "title": "Radim Mrtka, RD, (9th OA, 2025); Seattle Thunderbirds (WHL), Assigned to Rochester 4/8/26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T01:56:51.000Z",
+      "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-prediction-start-time-2026-world-cup-round-of-32-picks/",
+      "team": "usmnt",
+      "title": "USMNT vs. Bosnia and Herzegovina odds, prediction: 2026 World Cup Round of 32 picks by expert on 18-8 run",
+      "summary": "SportsLine's Martin Green reveals his USA vs. Bosnia and Herzegovina best bets for their knockout stage match in the FIFA World Cup 2026 on Wednesday",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T01:47:13.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-prediction-start-time-2026-world-cup-round-of-32-picks/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/",
+      "team": "sabres",
+      "title": "General Sabres Media Info & Coverage",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T01:38:01.000Z",
+      "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/weston-mckennie-meets-the-moment-usmnt-world-cup-2026/",
+      "team": "usmnt",
+      "title": "Weston McKennie meets the moment as USMNT come of age at 2026 FIFA World Cup",
+      "summary": "McKennie is the only USMNT player to have started all three games at the World Cup thus far, his importance with the team growing by the day",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T01:28:03.000Z",
+      "link": "https://www.cbssports.com/soccer/news/weston-mckennie-meets-the-moment-usmnt-world-cup-2026/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/",
+      "team": "sabres",
+      "title": "Doman Szongoth, LC, KooKoo U20, heading to Sault Ste. Marie (OHL) - 156OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T01:27:06.000Z",
+      "link": "https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265720-who-are-some-of-your-favorite-players-from-over-the-years/",
+      "team": "bills",
+      "title": "Who are some of your favorite players from over the years???",
+      "summary": "I'm a millennial, so my memory only goes back so far, but I'll start with Lee Evans.. I think that if he played in this offense, in his prime, he would be a perennial 1,000yd + receiver.. He played with with terrible QBs throughout his career.. One of the most explosive WRs I think in franchise history, he was a threat to break one every time.. With Josh he would be making the Pro Bowl every year..\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tNate Clements in my mind was the best CB in Bills history.. Many people throw the term \"shutdown corner\" around but in all actuality it implies to very few players.. Nate Clement was the epitome of a shutdown corner, for the first 5-6 years of his career he was absolutely amazing.. He fell off after he went to San Francisco if I remember, but still, he was pretty much the best corner in the NFL for a solid 5 years straight....\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tOther random players: Jason Peters, Travis Henry, Stevie Johnson, Ryan Fitzpatrick, LeSean McCoy, Ted Washington, Pat Williams, Takeo Spikes, London Fletcher, Devin Singletary and so many more..\n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tWho do you guys got????",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T01:22:58.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265720-who-are-some-of-your-favorite-players-from-over-the-years/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49213271/why-outsiders-believe-usmnt-make-deep-world-cup-run",
+      "team": "usmnt",
+      "title": "Why outsiders believe the USMNT can make a deep Wo...",
+      "summary": "Coaches and analysts assess whether the U.S. has what it takes to become the surprise team of the World Cup.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T01:11:41.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49213271/why-outsiders-believe-usmnt-make-deep-world-cup-run"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
@@ -227,8 +370,74 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T23:25:11.000Z",
+      "publishedAt": "2026-07-01T01:02:11.000Z",
       "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/",
+      "team": "sabres",
+      "title": "Gavin McCarthy, Muskegon (USHL), Boston University; RD - 86OA, 2023; Signs 3 year ELC 3/17/26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T00:59:05.000Z",
+      "link": "https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout",
+      "team": "sabres",
+      "title": "Sabres hire former antagonist Lucic as pro scout",
+      "summary": "Former NHL player Milan Lucic has gone from being a one-time Buffalo Sabres' antagonist to landing a job as a pro scout, the team announced as part of a series of hirings and promotions on Tuesday.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T00:49:38.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract",
+      "team": "sabres",
+      "title": "Sabres re-sign Malenstyn to 6-yr, $17.5 M pact",
+      "summary": "The Buffalo Sabres re-signed checking-line forward Beck Malenstyn to a six-year, $17.5 million contract on Monday, two days before free agency opens.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T00:49:37.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/maxim-strbak-rd-sioux-falls-ushl-selection-45oa-2023-signed.2933259/",
+      "team": "sabres",
+      "title": "Maxim Strbak, RD, Sioux Falls (USHL) - Selection 45OA, 2023; Signed",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T00:48:33.000Z",
+      "link": "https://forums.hfboards.com/threads/maxim-strbak-rd-sioux-falls-ushl-selection-45oa-2023-signed.2933259/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
+      "team": "sabres",
+      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T00:48:07.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265719-stevie-johnson-has-all-that-above-the-shoulders-and-hopefully-keon-catches-some-of-it/",
+      "team": "bills",
+      "title": "Stevie Johnson has all that above the shoulders and hopefully Keon catches some of it",
+      "summary": "A 7th rounder played on terrible teams who got a big 2nd contract. Many believed Stevie is an over-achiever. But it's clear the guy had it above the shoulders. \n\n\n\n\t \n\n\n\n\tOn the other hand, it speaks volume how little Keon has learned thru his first 2 years. Is it the WR coach or it's Keon himself? We are going to see this season. If Keon does improve and become a reliable target for Allen, I think Stevie Johnson will get a lot of new business as a \"mentor.\" Having the knowledge is one thing. Identifying someone's problem is another. Then the ability getting it to the person is often the most difficult part in coaching/mentoring world.\n\n\n\n\t \n\n\n\n\tI'm also surprised to hear his answer on running the ball. Just another proof I think the guy has it above his shoulders.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T00:33:43.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265719-stevie-johnson-has-all-that-above-the-shoulders-and-hopefully-keon-catches-some-of-it/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/",
@@ -253,17 +462,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
-      "team": "sabres",
-      "title": "Radim Mrtka, RD, (9th OA, 2025); Seattle Thunderbirds (WHL), Assigned to Rochester 4/8/26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T23:09:09.000Z",
-      "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-free-agency-begins-trades-look-like-best-way-for-sabres-to-improve/",
       "team": "sabres",
       "title": "As free agency begins, trades look like best way for Sabres to improve",
@@ -278,23 +476,12 @@
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/",
       "team": "bills",
       "title": "Some interesting stats from the Bills 2025 season",
-      "summary": "Allen was nearly perfect when throwing to Jackson Hawes or Dawson Knox\n\n\n\n\t\n\t\n\t\n\t\n\tAllen was at his worst when targeting Keion Coleman or Jordan Palmer\n\t\n\t\n\n\n\n\t\n\t\n\tGoodness gracious, look at the first drive EPA\n\t\n\t\n\n\n\n\t\n\t\n\tIt's specifically Drive 1 that's elite, then Drive 2 is still strong (0.223), then Drive 3 craters to -0.137.\n\t\n\t\n\t\n\tBills got penalized more\n\t\n\t\n\t\n\t\n\t\n\tWe played our best in freezing weather\n\t\n\t\n\t\n\tBills have been middle of the pack in challenge success rate the past 3 years\n\t\n\t\n\t\n\tOur EPA was best in the division on every down except for 1st down\n\t\n\t\n\t\n\tOur team effeciency was one of the best in the NFL from a scatterplot view (unfortunately the Patriots were even better)\n\t\n\t\n\t\n\tBecause Josh Allen is a freak of nature, our probability of scoring a TD barely changes depending where on the field we are\n\t\n\t\n\t\n\tCompare that to the average opponent offense, which like you would expect, has an increase in TD probability as they get closer to the goal\n\t\n\t\n\n\n\n\tSome other standout stuff:\n\t \n\n\n\n\t* Allen was better under center in 2025 ... 0.233 EPA vs 0.205 in shotgun, and only 1 INT vs 11. Similar comp% but way fewer turnovers. Digging deeper, under center is better mainly just because of INTs, not overall passing effieicny. Pass EPA is similar (0.233 vs 0.205), but Allen threw 11 INTs from shotgun and only 1 under center. The shotgun INTs happen at avg 8.4 yards to go, down 4.5 points, mid-game (qtr 2.7). \n\n\n\n\t \n\n\n\n\t* Allen is elite in desperation mode. Down 15+.... 0.321 EPA, 61.5% pass rate, 6 TDs. Allen is genuinely elite in desperation mode. The weird one is Up 4-7: negative EPA (-0.105). In the same vein, 4th quarter explosive passes doubled. 29 plays of 20+ yards in Q4 vs 14-15 in other quarters. Averaging 30.2 yards. \n\n\n\n\t\n\t* We were better when trailing (they play their worst football with a one-score lead) - 0.169 EPA trailing vs 0.062 leading. This has some confounding to it, but pass rate jumps to 53.2% when behind. They played conservative with leads and it hurt them.\n\n\n\n\t\n\t* No-huddle is terrible - negative EPA (-0.051) vs 0.126 in huddle. Only 72 plays so small sample, but not good.\n\n\n\n\t \n\n\n\n\t* Deep passes are the defensive weakness. 41.1% completion allowed on deep balls but 0.430 EPA.\n\n\n\n\tKincaid is the most efficient receiver by a mile - 0.818 EPA, 6.1 YAC, 7 TDs on 61 targets. Shakir has the volume (118 targets) but way lower efficiency (0.125 EPA).\n\n\n\n\t \n\n\n\n\t*3rd down conversion 42.4% vs league 36% \n\t \n\n\n\n\t* Run game: guards > ends > tackles - guard runs most efficient at 0.132 EPA, tackle runs slightly negative.\n\n\n\n\t\n\t\n\n\n\n\t \n\n\n\n\t\n\t\n\tIdea so you can re-create:",
+      "summary": "Allen was nearly perfect when throwing to Jackson Hawes or Dalton Kincaid\n\n\n\n\t\n\t\n\t\n\t\n\tAllen was at his worst when targeting Keion Coleman or Jordan Palmer\n\t\n\t\n\n\n\n\t\n\t\n\tGoodness gracious, look at the first drive EPA\n\t\n\t\n\n\n\n\t\n\t\n\tIt's specifically Drive 1 that's elite, then Drive 2 is still strong (0.223), then Drive 3 craters to -0.137.\n\t\n\t\n\t\n\tBills got penalized more\n\t\n\t\n\t\n\t\n\t\n\tWe played our best in freezing weather\n\t\n\t\n\t\n\tBills have been middle of the pack in challenge success rate the past 3 years\n\t\n\t\n\t\n\tOur EPA was best in the division on every down except for 1st down\n\t\n\t\n\t\n\tOur team effeciency was one of the best in the NFL from a scatterplot view (unfortunately the Patriots were even better)\n\t\n\t\n\t\n\tBecause Josh Allen is a freak of nature, our probability of scoring a TD barely changes depending where on the field we are\n\t\n\t\n\t\n\tCompare that to the average opponent offense, which like you would expect, has an increase in TD probability as they get closer to the goal\n\t\n\t\n\n\n\n\tSome other standout stuff:\n\t \n\n\n\n\t* Allen was better under center in 2025 ... 0.233 EPA vs 0.205 in shotgun, and only 1 INT vs 11. Similar comp% but way fewer turnovers. Digging deeper, under center is better mainly just because of INTs, not overall passing effieicny. Pass EPA is similar (0.233 vs 0.205), but Allen threw 11 INTs from shotgun and only 1 under center. The shotgun INTs happen at avg 8.4 yards to go, down 4.5 points, mid-game (qtr 2.7). \n\n\n\n\t \n\n\n\n\t* Allen is elite in desperation mode. Down 15+.... 0.321 EPA, 61.5% pass rate, 6 TDs. Allen is genuinely elite in desperation mode. The weird one is Up 4-7: negative EPA (-0.105). In the same vein, 4th quarter explosive passes doubled. 29 plays of 20+ yards in Q4 vs 14-15 in other quarters. Averaging 30.2 yards. \n\n\n\n\t\n\t* We were better when trailing (they play their worst football with a one-score lead) - 0.169 EPA trailing vs 0.062 leading. This has some confounding to it, but pass rate jumps to 53.2% when behind. They played conservative with leads and it hurt them.\n\n\n\n\t\n\t* No-huddle is terrible - negative EPA (-0.051) vs 0.126 in huddle. Only 72 plays so small sample, but not good.\n\n\n\n\t \n\n\n\n\t* Deep passes are the defensive weakness. 41.1% completion allowed on deep balls but 0.430 EPA.\n\n\n\n\t \n\n\n\n\t* Kincaid is the most efficient receiver by a mile - 0.818 EPA, 6.1 YAC, 7 TDs on 61 targets. Shakir has the volume (118 targets) but way lower efficiency (0.125 EPA).\n\n\n\n\t \n\n\n\n\t*3rd down conversion 42.4% vs league 36% \n\t \n\n\n\n\t* Run game: guards > ends > tackles - guard runs most efficient at 0.132 EPA, tackle runs slightly negative.\n\n\n\n\t\n\t\n\n\n\n\t \n\n\n\n\t\n\t\n\tIdea so you can re-create:",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-06-30T21:45:17.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Front Office Thread 2 (6-30-26: Lucic-Pro Scout, Roest-Kennedy-Komadoski Promoted, J. Ruutu & Dorsett Development Coaches Added)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T21:39:34.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
@@ -308,17 +495,6 @@
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
-      "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T20:46:29.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/",
       "team": "sabres",
       "title": "Jarmo Kekäläinen Thread: Buffalo Sabres General Manager & Pickleball Extraordinaire",
@@ -328,6 +504,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T20:01:14.000Z",
       "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49223257/transfer-rumors-news-michael-olise-asks-bayern-munich-meeting-amid-real-madrid-psg",
+      "team": "usmnt",
+      "title": "Transfer rumors, news: Olise asks for Bayern meeti...",
+      "summary": "Folarin Balogun has attracted attention from PSG, Chelsea and Tottenham Hotspur. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T19:25:11.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49223257/transfer-rumors-news-michael-olise-asks-bayern-munich-meeting-amid-real-madrid-psg"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/",
@@ -341,15 +528,15 @@
       "link": "https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
       "team": "sabres",
-      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
+      "summary": "Now that all the selections have been made, what stands out the most?",
+      "source": "ESPN NHL",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T19:09:19.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
+      "publishedAt": "2026-06-30T18:42:44.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
@@ -385,28 +572,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/44688/2026-world-cup-previewing-usa-vs-bosnia-herzegovina"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T17:43:41.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/",
-      "team": "sabres",
-      "title": "Beck Malenstyn (Extended, 6 x $2.9167M AAV)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T17:25:26.000Z",
-      "link": "https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135509/plays-that-defined-2025-buffalo-bills-at-miami-dolphins-week-10",
       "team": "bills",
       "title": "Plays That Defined 2025: Buffalo Bills at Miami Dolphins, Week 10",
@@ -427,17 +592,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T15:40:06Z",
       "link": "https://www.espn.com/nfl/story/_/id/49147104/nfl-offseason-grades-2026-free-agency-draft-trades-extensions-coaching-changes"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-prediction-time-2026-world-cup-round-of-32-picks/",
-      "team": "usmnt",
-      "title": "USMNT vs. Bosnia and Herzegovina odds, prediction: 2026 World Cup Round of 32 picks by expert on 18-8 run",
-      "summary": "SportsLine's Martin Green reveals his USA vs. Bosnia and Herzegovina best bets for their knockout stage match in the FIFA World Cup 2026 on Wednesday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T15:35:26.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-prediction-time-2026-world-cup-round-of-32-picks/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44685/2026-world-cup-round-of-32-matchday-3-match-thread-and-discussion",
@@ -495,39 +649,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48968493/nhl-2026-offseason-trades-rankings-targets-market-draft-picks-contracts"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/",
-      "team": "sabres",
-      "title": "General Discussion of Prospects",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T13:58:12.000Z",
-      "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/",
-      "team": "sabres",
-      "title": "Sabres Prospects Video Blog, Baker's Bunker, Baker-Fairburn",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T13:33:14.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/",
-      "team": "sabres",
-      "title": "Ilia Morozov, LC, Miami University (NCAA) - 20OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T12:58:03.000Z",
-      "link": "https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136037/buffalo-bills-2026-scouting-report-c-og-connor-mcgovern",
       "team": "bills",
       "title": "Buffalo Bills 2026 scouting report: C/OG Connor McGovern",
@@ -559,17 +680,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T05:41:49.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-extend-qualifying-offers-to-two-players-pass-on-four/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
-      "team": "sabres",
-      "title": "Locked on Sabres Podcast",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T03:41:34.000Z",
-      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44677/usa-vs-turkiye-2026-world-cup-man-of-the-match",
@@ -682,17 +792,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-sign-beck-malenstyn-new-six-year-contract/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265701-chris-johnson-battling-als/",
-      "team": "bills",
-      "title": "Chris Johnson Battling ALS",
-      "summary": "poor guy that’s awful",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T14:28:13.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265701-chris-johnson-battling-als/"
-    },
-    {
       "id": "espn-bills::49167327",
       "team": "bills",
       "title": "2026 NFL rookie updates: Tracking all first-round draft picks",
@@ -781,17 +880,6 @@
       "link": "https://www.starsandstripesfc.com/world-cup-2026-content/44605/usa-vs-bosnia-and-herzegovina-2026-world-cup-scouting-bosnia-and-herzegovina"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265698-2026-season-predictions/",
-      "team": "bills",
-      "title": "2026 season predictions",
-      "summary": "Bills 12-5 (1st afc east)\n\n\n\n\t \n\n\n\n\tJosh -4400 passing yards (40 TDs)\n\n\n\n\t \n\n\n\n\tJosh- 600 rushing (10 TDs)\n\n\n\n\t \n\n\n\n\tCook- 1250 rushing (9 TDs)\n\n\n\n\t \n\n\n\n\tCook- 500 receiving (6 TDs)\n\n\n\n\t \n\n\n\n\tDJ-  1200 receiving ( 10 TDs)",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-28T23:03:12.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265698-2026-season-predictions/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265697-if-you-werent-thrilled-about-the-brady-hire-as-hc-do-you-feel-any-better-about-it-now/",
       "team": "bills",
       "title": "If you weren't thrilled about the Brady hire as HC do you feel any better about it now?",
@@ -801,17 +889,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-28T21:37:34.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265697-if-you-werent-thrilled-about-the-brady-hire-as-hc-do-you-feel-any-better-about-it-now/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
-      "team": "usmnt",
-      "title": "World Cup schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
-      "summary": "The group stage standings will dictate which teams advance to the knockout round",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-28T21:18:28.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/russian-prospect-prokhor-poltapov-could-join-sabres-next-year/",
@@ -1045,6 +1122,17 @@
       "link": "https://www.diebytheblade.com/watch-along-party-2026-nhl-draft/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265692-cj-gardner-johnson-guarantees-2-superbowls-wins-among-other-things-in-the-athletic/",
+      "team": "bills",
+      "title": "C.J. Gardner Johnson guarantees 2 Superbowls wins, among other things, in the Athletic ...",
+      "summary": "A good read:\n\n\n\n\t \n\n\n\n\thttps://www.nytimes.com/athletic/7332227/2026/06/26/cj-gardner-johnson-bills-eagles-bears-lions-texans/\n\n\n\n\t \n\n\n\n\tnote: I could read this w/o an Athletic account, hope it works for all",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-26T12:47:02.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265692-cj-gardner-johnson-guarantees-2-superbowls-wins-among-other-things-in-the-athletic/"
+    },
+    {
       "id": "espn-bills::49166861",
       "team": "bills",
       "title": "Questions about 10 new NFL coordinators entering 2026 season",
@@ -1208,17 +1296,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-22T15:16:06.000Z",
       "link": "https://www.buffalobills.com/news/how-to-watch-the-bills-ribbon-cutting-ceremony-at-highmark-stadium"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265661-underperforming-officials-can-now-be-demoted-to-the-ufl/",
-      "team": "bills",
-      "title": "Underperforming officials can now be demoted to the UFL",
-      "summary": "I kinda like it. \n\n\n\n\t \n\n\n\n\t-----------------------\n\t\n\t\"The new Collective Bargaining Agreement between the NFL and the NFL Referees Association emphasizes competition. And it carries fresh accountability for those who can’t compete. As mentioned in the ESPN article that takes a close look at the nooks and crannies of the new CBA, underperforming officials can be assigned to the UFL.\"\n\t\n\thttps://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-cba-could-result-in-underperforming-officials-working-ufl-games",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-21T17:27:58.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265661-underperforming-officials-can-now-be-demoted-to-the-ufl/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-rb-ian-wheeler",
