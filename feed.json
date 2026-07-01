@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T16:31:28.141Z",
+  "generatedAt": "2026-07-01T18:31:40.811Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "label": "HFBoards",
       "team": "sabres",
       "itemCount": 0,
-      "error": "This operation was aborted"
+      "error": "HTTP 403"
     },
     {
       "id": "stars-and-stripes",
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 10,
+      "itemCount": 11,
       "error": null
     },
     {
@@ -176,15 +176,136 @@
   ],
   "stories": [
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/hischier-re-signing-among-flurry-of-player-moves-ahead-of-nhl-free-agency/",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-trade-goalie-devon-levi-to-oilers/",
       "team": "sabres",
-      "title": "Hischier re-signing among flurry of player moves ahead of NHL free agency",
-      "summary": "Elliotte Friedman breaks down the flurry of moves around the NHL moments before the start of free agency, including Nico Hischier re-signing in New Jersey, Nick Robertson going from Toronto to Pittsburgh, Bowen Byram’s extension, and more.",
+      "title": "Sabres trade goalie Devon Levi to Oilers",
+      "summary": "BUFFALO – Goalie Devon Levi’s time with the Sabres organization has ended.\nThe Sabres this afternoon traded Levi, 24, and a seventh-round pick in 2028 to the Edmonton Oilers in exchange for a third-round pick in 2028.\nLevi, one a highly touted prospect, fell out of the Sabres’ plans last season when he spent the entire campaign with the Rochester Americans.\n\nFormer Sabres general manager Kevyn Adams, who was fired Dec. 15, acquired Levi ... Read the full article \nThe post Sabres trade goalie Devon Levi to Oilers first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T18:15:50.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-trade-goalie-devon-levi-to-oilers/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/oilers-acquire-devon-levi-seventh-round-pick-from-sabres-for-third-round-pick/",
+      "team": "sabres",
+      "title": "Oilers acquire Devon Levi, seventh-round pick from Sabres for third-round pick",
+      "summary": "The Oilers have acquired Devon Levi from the Buffalo Sabres and a 2028 seventh-round pick from the Buffalo Sabres in exchange for a 2028 third-round pick, the team announced Wednesday.",
       "source": "Sportsnet",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T15:46:20.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/hischier-re-signing-among-flurry-of-player-moves-ahead-of-nhl-free-agency/"
+      "publishedAt": "2026-07-01T18:14:55.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/oilers-acquire-devon-levi-seventh-round-pick-from-sabres-for-third-round-pick/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265727-alternate-uni-unveiling-reportedly-scheduled-for-27-july/",
+      "team": "bills",
+      "title": "Alternate uni unveiling reportedly scheduled for 27 July",
+      "summary": "According to a leaked league schedule\n\n\n\n\t \n\n\n\n\tBills Fans: we want the blue jerseys white pants red  helmet....\n\n\n\n\t \n\n\n\n\tBuffalo Bills: best we can give you is this gray atrocity, which are hand-me-downs from Ralph Wilson's second-favorite team.\n\n\n\n\t\n\tI swear to gawd if it is those ones that 'leaked' last month I'm gonna barf 🤮. I can't see any possible way how it would be a big seller among fans. We are a red, white, and blue team.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T18:14:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265727-alternate-uni-unveiling-reportedly-scheduled-for-27-july/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
+      "team": "usmnt",
+      "title": "World Cup schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
+      "summary": "The group stage standings will dictate which teams advance to the knockout round",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T18:02:17.000Z",
+      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/report-sabres-sign-dennis-gilbert-in-free-agency/",
+      "team": "sabres",
+      "title": "Report: Sabres sign Dennis Gilbert in free agency",
+      "summary": "BUFFALO – The Sabres this afternoon brought back a familiar face in free agency, agreeing to terms with defenseman Dennis Gilbert to a one-year, one-way contract worth $850,000, according to TSN’s Darren Dreger.\nRight now, the Buffalo native likely ranks eighth on the Sabres’ depth chart.\nGilbert, 29, spent most of 2024-25 with the Sabres after signing as a free agent, registering five assists and 50 penalty minutes in 25 games.\n\nThe Sabres traded him ... Read the full article \nThe post Report: Sabres sign Dennis Gilbert in free agency first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T17:57:31.000Z",
+      "link": "https://www.buffalohockeybeat.com/report-sabres-sign-dennis-gilbert-in-free-agency/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/bosnia-esmir-bajraktarevic-former-usmnt-player-world-cup-round-of-32-2026/",
+      "team": "usmnt",
+      "title": "Meet Bosnia's Esmir Bajraktarevic, the former USMNT player who will face his old team in World Cup round of 32",
+      "summary": "Born in Wisconsin, he played for the United States men's national team once in 2024 and is a club teammate of Ricardo Pepi and Sergino Dest at PSV",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T17:28:18.000Z",
+      "link": "https://www.cbssports.com/soccer/news/bosnia-esmir-bajraktarevic-former-usmnt-player-world-cup-round-of-32-2026/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136172/buffalo-bills-leading-nfl-trend-toward-super-heavy-offensive-personnel",
+      "team": "bills",
+      "title": "Buffalo Bills leading NFL trend toward super-heavy offensive personnel",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T17:24:18.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136172/buffalo-bills-leading-nfl-trend-toward-super-heavy-offensive-personnel"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
+      "team": "usmnt",
+      "title": "Transfer rumors, news: USMNT's Pulisic on six-man ...",
+      "summary": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T16:57:30.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-newcomer-olen-zellweger-to-three-year-contract/",
+      "team": "sabres",
+      "title": "Sabres sign newcomer Olen Zellweger to three-year contract",
+      "summary": "BUFFALO – The Sabres this afternoon re-signed restricted free agent defenseman Olen Zellweger to a three-year, $9.3 million contract.\nThe deal has a $3.1 million salary cap hit. The Sabres acquired Zellweger, 22, Friday in a trade with the Anaheim Ducks.\nForward Peyton Krebs is the Sabres’ only remaining restricted free agent.\n\nThe speedy Zellweger compiled seven goals, 22 points, 34 penalty minutes and a plus-4 rating with the Ducks last season, his second full ... Read the full article \nThe post Sabres sign newcomer Olen Zellweger to three-year contract first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T16:50:59.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-sign-newcomer-olen-zellweger-to-three-year-contract/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265726-an-uncertainty-for-the-2026-season-in-highmark-will-the-new-turf-work-out/",
+      "team": "bills",
+      "title": "An uncertainty for the 2026 season in Highmark -- Will the new turf work out?",
+      "summary": "We just don't know what to expect from a turf situation. We can make educated guesses, but that's about it.\n\n\n\n\t \n\n\n\n\tThe field\n\n\n\n\t \n\n\n\n\tIt's an entirely new installation, operated by an inexperienced crew (unless they hired some ringers). I looked at similar fields/climates for comparison:\n\n\n\n\t \n\n\n\n\t\n\t\tPittsburgh: heated field, NFLPA F grade, controversial for being a poor surface in 2025, \"borderline unplayable\" in response, it was reseeded in 2026\n\t\n\t\n\t\tGreen Bay: heated field, C grade, \"slippery and unpredictable\"\n\t\n\t\n\t\tCleveland: heated field, B grade, I couldn't find many comments on it--maybe that is a good reflection\n\t\n\n\n\n\t \n\n\n\n\tIt seems we want to avoid a Pittsburgh type situation. That would be embarrassing after a $2 billion spending spree. I don't know the specifics in Pitt, but Highmark might have an edge due to what sounds like better technology: \"high-tech sub-surface heating and drainage network, UV grow lights, and sub-air ventilation.\" So, we shall see.\n\n\n\n\t \n\n\n\n\tInjuries\n\n\n\n\t \n\n\n\n\tThe common expectation is fewer injuries, or injuries of less severity. It's better on the lower extremities. The concussions are less severe. It seems to me that there would be a decrease in \"non-contact injuries\" which have been the bane of the Bills. A net plus from a competitive stand point.\n\n\n\n\t \n\n\n\n\tThe play\n\n\n\n\t \n\n\n\n\t\n\t\tPassing: Grass requires quarterbacks to plant deeper, as the ground can be softer. Deep passes may take a fraction of a second longer to release due to less stable footing\n\t\n\t\n\t\tRushing, Receiving, Secondary: Breaks won't be as explosive, cuts won't be as crisp, footwork may need adjustment\n\t\n\t\n\t\tKicking: Can be unpredictable; wet weather, divots, and worn-out areas near the hash marks can alter a kicker's plant foot and trajectory. Turf kickers have higher accuracy records. \n\t\n\t\n\t\tThe lines: \"On natural grass, a lineman's first explosive step slightly tears up the turf, which absorbs some of the raw physical impact. Because of this, drive-blocking on dirt or sod requires a slightly wider, lower base to maintain anchor\" It's a technique change. I don't expect professional athletes to have a problem coping with that.\n\t\n\n\n\n\t \n\n\n\n\tIt just seems the game may be just a tad slower. But I don't think that will make a competitive difference either way. After all, the same field conditions apply to both teams.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tOverall... if it doesn't become a mud bowl mess in December/January, life is good.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T16:50:56.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265726-an-uncertainty-for-the-2026-season-in-highmark-will-the-new-turf-work-out/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49229496/riding-high-world-cup-home-soil-now-usmnt",
+      "team": "usmnt",
+      "title": "Riding high at a World Cup on home soil, the time ...",
+      "summary": "The USMNT boasts a world-class coach and star players in their primes. This is its chance to make its mark on world soccer.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T16:49:03.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49229496/riding-high-world-cup-home-soil-now-usmnt"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-to-advance-usa-bosnia-and-herzegovina-predictions-best-bets/",
+      "team": "usmnt",
+      "title": "2026 World Cup picks, odds: USA vs. Bosnia and Herzegovina predictions, best bets by expert on 25-15 run",
+      "summary": "SportsLine's Jon Eimer reveals his USMNT vs. Bosnia and Herzegovina best bets for the FIFA World Cup 2026 match as the Round of 32 continues on Wednesday",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T16:32:16.000Z",
+      "link": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-to-advance-usa-bosnia-and-herzegovina-predictions-best-bets/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/zellweger-signs-with-the-sabres/",
@@ -242,17 +363,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-vs-bosnia-and-herzegovina-live-stream-fifa-world-cup-predictions-lineups/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Round of 32 Matchday 4: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T14:54:13.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/",
       "team": "usmnt",
       "title": "Free 2026 World Cup anytime goalscorer picks, odds: Harry Kane, Christian Pulisic among Wednesday's best bets",
@@ -297,17 +407,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265723-has-anyone-ever-had-a-bad-stubhub-experience/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-usa-bosnia-and-herzegovina-predictions-best-bets/",
-      "team": "usmnt",
-      "title": "2026 World Cup picks, odds: USA vs. Bosnia and Herzegovina predictions, best bets by expert on 25-15 run",
-      "summary": "SportsLine's Jon Eimer reveals his USMNT vs. Bosnia and Herzegovina best bets for the FIFA World Cup 2026 match as the Round of 32 continues on Wednesday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T12:12:08.000Z",
-      "link": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-usa-bosnia-and-herzegovina-predictions-best-bets/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/2026-nhl-free-agency-buffalo-sabres-signings-open-thread/",
       "team": "sabres",
       "title": "2026 NHL Free Agency: Buffalo Sabres signings & Open Thread",
@@ -339,17 +438,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T05:07:11.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-announce-six-hires-including-milan-lucic-as-pro-scout/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
-      "team": "usmnt",
-      "title": "World Cup schedule: Results for USMNT, Argentina, Brazil and the entire 48-team field",
-      "summary": "The group stage standings will dictate which teams advance to the knockout round",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T04:08:49.000Z",
-      "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265720-who-are-some-of-your-favorite-players-from-over-the-years/",
@@ -394,6 +482,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T21:45:17.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
+      "team": "sabres",
+      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
+      "summary": "Now that all the selections have been made, what stands out the most?",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T18:42:44.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
@@ -484,17 +583,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48968493/nhl-2026-offseason-trades-rankings-targets-market-draft-picks-contracts"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44681/usa-vs-bosnia-herzegovina-2026-world-cup-time-tv-schedule-streaming-and-lineups",
-      "team": "usmnt",
-      "title": "USA vs. Bosnia & Herzegovina, 2026 World Cup: Time, TV schedule, streaming and lineups",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T12:43:14.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44681/usa-vs-bosnia-herzegovina-2026-world-cup-time-tv-schedule-streaming-and-lineups"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136037/buffalo-bills-2026-scouting-report-c-og-connor-mcgovern",
       "team": "bills",
       "title": "Buffalo Bills 2026 scouting report: C/OG Connor McGovern",
@@ -537,17 +625,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T03:25:27.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44677/usa-vs-turkiye-2026-world-cup-man-of-the-match"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/",
-      "team": "bills",
-      "title": "Red vs Blue Scrimmage Tickets ???",
-      "summary": "Has anyone heard when these are going to be made available for the season ticket holders yet?  \n\t \n\n\n\n\tAlso, has anyone heard if the season ticket holders don’t want theirs, if they’ll be available to the public?   \n\t \n\n\n\n\tI need one more, as I’m trying to bring my gf.  We already have four from our seasons.   Don’t care where the seat is, as I’ll probably spend the entire time walking around and taking pictures. Just need entry.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T00:37:13.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-tim-ream-bosnia-world-cup-pressure-round-of-32/",
@@ -671,39 +748,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136062/buffalo-bills-2026-scouting-report-olb-javon-solomon"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-legacy-10-games-that-changed-u-s-soccer-forever/",
-      "team": "usmnt",
-      "title": "USMNT's World Cup legacy: 10 pivotal games that changed U.S. Soccer forever",
-      "summary": "From the 'billion-dollar goal' to 'Go, go, USA,' we look back at the matches that defined American soccer",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T12:54:27.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-legacy-10-games-that-changed-u-s-soccer-forever/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265700-%E2%80%98throwback-monday%E2%80%99-the-last-great-afl-team-sb-iv/",
-      "team": "bills",
-      "title": "‘Throwback Monday’? The last great AFL team SB IV",
-      "summary": "Also the last game ever between the AFL and NFL and the last game the NFL didn’t have player names on their jerseys. What’s remarkable about this particular game is the video had been lost and presumed destroyed for over 6 decades. Only black & white video was available from tv coverage. Then, recently, this lone copy of the color version was found when the facility was sold and the new owners began going through the ‘garbage’ of their new facility!😳\n\t \n\n\n\n\tFor folks of my age, this is a true treasure! -from a Bills perspective, we were a trash team though not as bad as the ‘68 team where we ‘earned’ the 1st overall pick and selected a RB from USC -who shall now remain anonymous..🤦‍♂️\n\n\n\n\tKC vs Minnesota Super Bowl \n\n\n\n\t \n\n\n\n\tHope you enjoy",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T12:46:25.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265700-%E2%80%98throwback-monday%E2%80%99-the-last-great-afl-team-sb-iv/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265699-when-did-the-12th-man-become-obsolete-in-bills-fandom/",
-      "team": "bills",
-      "title": "When did the 12th Man become obsolete in Bills fandom?",
-      "summary": "Interesting chat on WGR550 this morning about how not only will OJ not be getting his name in the ring of honor but doesn't sound like the 12th Man is getting one either.  Then they talked about does that even matter and they both agreed no not really.  They went on to talk about how nobody ever refers to Bills fans as the 12th Man anymore and Seattle took that over in the NFL with the 12s.\n\n\n\n\tI would say that's all true, I couldn't tell you the last time I remember anybody bringing up the 12th Man but it is kinda funny when you think about what a big deal that was in the 90s and into the 2000s.\n\n\n\n\t \n\n\n\n\tThe obvious answer to my question is it was replaced by Bills Mafia, I know that.  But did it happen overnight or was it just a thing that was gradually phased out into oblivion. I feel like in the early days of Bills Mafia the 12th Man was also still a thing?  Not sure if Seattle's rise with it's Super Bowl team and all of the hype they got around calling their fans the 12s also stole some of that shine from the Bills 12th Man days.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T12:09:19.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265699-when-did-the-12th-man-become-obsolete-in-bills-fandom/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-6-29/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 6/29",
@@ -724,6 +768,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T00:37:53.000Z",
       "link": "https://www.starsandstripesfc.com/world-cup-2026-content/44605/usa-vs-bosnia-and-herzegovina-2026-world-cup-scouting-bosnia-and-herzegovina"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265697-if-you-werent-thrilled-about-the-brady-hire-as-hc-do-you-feel-any-better-about-it-now/",
+      "team": "bills",
+      "title": "If you weren't thrilled about the Brady hire as HC do you feel any better about it now?",
+      "summary": "Well it was 5 months ago yesterday he was announced as HC.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tWhen he got hired I'll admit my reaction was very negative.  I think off the emotion of the Broncos loss, the messy press conference over the firing of McDermott, and my feeling was at the time the Bills didn't really interview a lot of candidates.  \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tWhile I'm still not sold about the hire my feeling months removed from it all is that I'm willing to roll with him as HC.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-28T21:37:34.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265697-if-you-werent-thrilled-about-the-brady-hire-as-hc-do-you-feel-any-better-about-it-now/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/russian-prospect-prokhor-poltapov-could-join-sabres-next-year/",
@@ -757,17 +812,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-28T13:41:07.000Z",
       "link": "https://www.diebytheblade.com/day-two-draft-recap-for-the-sabres/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136020/bills-news-reacting-to-news-that-o-j-simpson-wont-be-honored-at-new-stadium",
-      "team": "bills",
-      "title": "Bills news: Reacting to news that O.J. Simpson won’t be honored at new stadium",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-28T13:39:13.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136020/bills-news-reacting-to-news-that-o-j-simpson-wont-be-honored-at-new-stadium"
     },
     {
       "id": "espn-sabres::49199248",
@@ -869,28 +913,6 @@
       "link": "https://www.diebytheblade.com/2026-nhl-draft-how-to-watch-draft-order-rounds-2-7-open-thread-buffalo-sabres/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/instead-of-trading-first-rounders-sabres-take-daxon-rudolph-and-ilia-morozov-in-nhl-draft/",
-      "team": "sabres",
-      "title": "Instead of trading first-rounders, Sabres take Daxon Rudolph and Ilia Morozov in NHL Draft",
-      "summary": "ORCHARD PARK – As the first round of Friday’s NHL Draft approached and he held two first-round picks – the fourth and 20th selections – general manager Jarmo Kekalainen informed other teams the Buffalo Sabres had all their options open.\nThey were willing to move up or down, or perhaps trade for established talent.\nTeams coveted the fourth pick the Sabres acquired in Tuesday’s blockbuster trade that sent defenseman Bowen Byram to the Chicago Blackhawks. ... Read the full article \nThe post Instead of trading first-rounders, Sabres take Daxon Rudolph and Ilia Morozov in NHL Draft first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-27T05:58:00.000Z",
-      "link": "https://www.buffalohockeybeat.com/instead-of-trading-first-rounders-sabres-take-daxon-rudolph-and-ilia-morozov-in-nhl-draft/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/alex-tuch-explains-why-he-left-sabres-for-capitals-in-sign-and-trade-deal-one-of-the-toughest-moments-of-my-life/",
-      "team": "sabres",
-      "title": "Alex Tuch explains why he left Sabres for Capitals in sign-and-trade deal: ‘One of the toughest moments of my life’",
-      "summary": "Alex Tuch wants to keep the details of his departure from Buffalo private. The winger just made an agonizing decision, choosing to leave the Sabres in a sign-and-trade deal with the Washington Capitals a week before he could’ve become an unrestricted free agent.\n“It was one of the toughest decisions of my life,” Tuch, who inked an eight-year, $84 million contract, said Friday on a Zoom call.\nBefore the Sabres heated up and roared to ... Read the full article \nThe post Alex Tuch explains why he left Sabres for Capitals in sign-and-trade deal: ‘One of the toughest moments of my life’ first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-27T05:04:24.000Z",
-      "link": "https://www.buffalohockeybeat.com/alex-tuch-explains-why-he-left-sabres-for-capitals-in-sign-and-trade-deal-one-of-the-toughest-moments-of-my-life/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/day-one-draft-recap-for-the-sabres/",
       "team": "sabres",
       "title": "Day One Draft Recap For the Sabres",
@@ -900,17 +922,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-27T03:20:13.000Z",
       "link": "https://www.diebytheblade.com/day-one-draft-recap-for-the-sabres/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-select-daxon-rudolph-fourth-overall-in-nhl-draft-ilia-morozov-taken-with-20th-pick/",
-      "team": "sabres",
-      "title": "Sabres select Daxon Rudolph fourth overall in NHL Draft; Ilia Morozov taken with 20th pick",
-      "summary": "ORCHARD PARK – During the NHL Scouting Combine earlier this month in Buffalo, the Sabres never met with defenseman Daxon Rudolph, the prospect they selected fourth overall tonight in the NHL Draft at KeyBank Center.\nUntil a few days ago, the Sabres owned just one first-round selection, the 20th pick, which they snared as part of the trade that sent defenseman Michael Kesselring to the San Jose Sharks. They began the month with the 27th ... Read the full article \nThe post Sabres select Daxon Rudolph fourth overall in NHL Draft; Ilia Morozov taken with 20th pick first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T23:56:43.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-select-daxon-rudolph-fourth-overall-in-nhl-draft-ilia-morozov-taken-with-20th-pick/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/watch-along-party-2026-nhl-draft/",
@@ -944,6 +955,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-26T10:00:08Z",
       "link": "https://www.espn.com/nfl/story/_/id/49166861/new-nfl-coordinators-offense-defense-questions-2026-season-cowboys-bills-commanders"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Matchday 16: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-26T04:32:23.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44617/last-minute-goal-gives-turkiye-3-2-win-over-usa",
+      "team": "usmnt",
+      "title": "Last-minute goal gives Türkiye 3-2 win over USA",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-26T04:30:49.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44617/last-minute-goal-gives-turkiye-3-2-win-over-usa"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265684-the-view-from-patriots-wire/",
@@ -1032,6 +1065,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-23T19:32:01.000Z",
       "link": "https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265668-nfl-top-100-in-2026-100-85-updated-71/",
+      "team": "bills",
+      "title": "NFL Top 100 in 2026 (100-85 UPDATED 7/1)",
+      "summary": "https://www.nfl.com/news/top-100-players-of-2026-nos-100-91\n\n\n\n\t \n\n\n\n\t100. Cam Jordan, DE, Saints\n\n\n\n\t99. Quenton Nelson, OG, Colts\n\n\n\n\t98. Bryce Young, QB, Panthers\n\n\n\n\t97. Ernest Jones, LB, Seahawks\n\n\n\n\t96. Travis Entienne, RB, Jaguars\n\n\n\n\t95. Demario Davis, OLB, Jets\n\n\n\n\t94. Creed Humphrey, C, Chiefs\n\n\n\n\t93. Carson Schwesinger, LB, Browns\n\n\n\n\t92. Azeez Al-Shaair, LB, Texans\n\n\n\n\t91. Montez Sweat, DE, Bears\n\n\n\n\t90. Derrick Brown, DT, Panthers\n\n\n\n\t89. Kyren Williams, RB, Rams\n\n\n\n\t88. Jack Campbell, LB, Lions\n\n\n\n\t87. Tetairoa McMillan, WR, Panthers\n\n\n\n\t86. Tuli Tuipulotu, LB, Chargers\n\n\n\n\t85. Brock Purdy, QB, 49ers\n\n\n\n\t \n\n\n\n\tBryce Young?!? If I were Nelson or Jordan, I'd be a little PO'ed.\n\n\n\n\t \n\n\n\n\tUpdate 7/1:\n\n\n\n\tIn addition to Bryce Young, seems the Panthers are getting a lot of love with McMillan making the list at 87.\n\n\n\n\tPurdy coming in at 85 is getting a lot of chatter. He definitely belongs above Bryce Young, but do either really belong?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T17:02:27.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265668-nfl-top-100-in-2026-100-85-updated-71/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265667-defense-giving-up-big-plays-vs-12-play-drives/",
@@ -1197,17 +1241,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-16T16:59:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265628-2026-training-camp-announced-just-seven-practices-open-to-public/",
-      "team": "bills",
-      "title": "2026 Training Camp Announced, Just SEVEN Practices Open To Public",
-      "summary": "The Bills announced their training camp today in Rochester starting Wednesday July 29 and ending Friday August 7. The link below has the details but there are just seven practices open to the public with all practices at 8:30 am:\n\n\n\n\thttps://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information\n\n\n\n\t \n\n\n\n\tIt is hard not to feel as though this may be the start of the end of Fisher & Rochester getting the Bills in a major way for camp. I have a few strong connections that the Bills even with extending the agreement may leave it early and they are looking to move back to Buffalo for the majority of camp sooner then later. Perhaps the Bills still do a long weekend get away at Fisher as the facilities are great for the team and it maintains a presence, but with the majority of teams now staying home for camp, a new stadium, and the Bills no longer needing the regionalization effort they succeeded with this is not a surprising outcome.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T14:36:24.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265628-2026-training-camp-announced-just-seven-practices-open-to-public/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-sign-these-members-of-their-2026-nfl-draft-class",
