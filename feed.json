@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T13:56:31.347Z",
+  "generatedAt": "2026-07-01T16:31:28.141Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -96,8 +96,8 @@
       "id": "hfboards-sabres",
       "label": "HFBoards",
       "team": "sabres",
-      "itemCount": 20,
-      "error": null
+      "itemCount": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "stars-and-stripes",
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,81 +176,103 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49229496/riding-high-world-cup-home-soil-now-usmnt",
-      "team": "usmnt",
-      "title": "Riding high at a World Cup on home soil, the time ...",
-      "summary": "The USMNT boasts a world-class coach and star players in their primes. This is its chance to make its mark on world soccer.",
-      "source": "ESPN Soccer",
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/hischier-re-signing-among-flurry-of-player-moves-ahead-of-nhl-free-agency/",
+      "team": "sabres",
+      "title": "Hischier re-signing among flurry of player moves ahead of NHL free agency",
+      "summary": "Elliotte Friedman breaks down the flurry of moves around the NHL moments before the start of free agency, including Nico Hischier re-signing in New Jersey, Nick Robertson going from Toronto to Pittsburgh, Bowen Byram’s extension, and more.",
+      "source": "Sportsnet",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T14:16:39.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49229496/riding-high-world-cup-home-soil-now-usmnt"
+      "publishedAt": "2026-07-01T15:46:20.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/hischier-re-signing-among-flurry-of-player-moves-ahead-of-nhl-free-agency/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt",
+      "id": "die-by-the-blade::https://www.diebytheblade.com/zellweger-signs-with-the-sabres/",
+      "team": "sabres",
+      "title": "Zellweger Signs With the Sabres",
+      "summary": "New Defenseman Inks Three Year Contract With Buffalo\n\n\n\nFormer Anaheim Duck Olen Zellweger has signed a new deal with Buffalo after his trade to Western N.Y. last week on draft day. The 22 year old with three NHL seasons under his belt was a resticted free agent upon arrival. Zellweger’s deal is for three years and about 9 million dollars. (exact numbers to come) He is the top candadate as of now to take Bo Byram’s spot alongside Owen Power.\n\n\n\n\nOlen Zellweger extends in BUF3 years, around $9M for him…nice for both team and player&mdash; Elliotte Friedman (@FriedgeHNIC) July 1, 2026\n\n\n\n\nIn 2022-23, Zellweger was voted the top defender among players in the OHL, QMJHL and WHL combined. He won the Canadian Hockey League Defenseman of the Year. The speedy Olen scored 22 points in 76 games last year for the Ducks and some are now calling him “Byram Lite”. He has a ways to go to fill Bo’s skates but he has all the tools. This feels like a fair deal for both sides as the Sabres figure out what they have with this player.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T15:37:50.000Z",
+      "link": "https://www.diebytheblade.com/zellweger-signs-with-the-sabres/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/weston-mckennie-meets-the-moment-usmnt-world-cup-2026/",
       "team": "usmnt",
-      "title": "Pulisic says he is fit, ready to go for USMNT",
-      "summary": "United States men's national team attacker Christian Pulisic said he is ready to go the distance in the team's World Cup round-of-32 match against Bosnia and Herzegovina on Wednesday, no matter how long the game lasts.",
-      "source": "ESPN Soccer",
+      "title": "Weston McKennie meets the moment as USMNT come of age at 2026 FIFA World Cup",
+      "summary": "McKennie is the only USMNT player to have started all three games at the World Cup thus far, his importance with the team growing by the day",
+      "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T14:13:44.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt"
+      "publishedAt": "2026-07-01T15:02:24.000Z",
+      "link": "https://www.cbssports.com/soccer/news/weston-mckennie-meets-the-moment-usmnt-world-cup-2026/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/",
-      "team": "sabres",
-      "title": "2026 NHL / Buffalo Sabres Free Agency Piddle July 1st @ Noon",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-day-at-the-world-cup-how-dangerous-an-opponent-is-bosnia-does-belgium-or-senegal-loom-in-quarters/",
+      "team": "usmnt",
+      "title": "USMNT day at the World Cup: How dangerous an opponent is Bosnia? Does Belgium or Senegal loom in quarters?",
+      "summary": "Mauricio Pochettino's squad has a golden opportunity to make a deep tournament run as a favorable knockout bracket begins against Bosnia and Herzegovina",
+      "source": "CBS Sports",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:56:06.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/"
+      "publishedAt": "2026-07-01T15:02:20.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-day-at-the-world-cup-how-dangerous-an-opponent-is-bosnia-does-belgium-or-senegal-loom-in-quarters/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-penalty-kicks-mauricio-pochettinos-shootout-world-cup-tie-breaker/",
+      "team": "usmnt",
+      "title": "USMNT penalty kicks plan: How Mauricio Pochettino prepared for World Cup's ultimate shootout tie-breaker",
+      "summary": "Beginning with the round of 32, where the USMNT will face Bosnia and Herzegovina on Wednesday, all World Cup games are win or go home and will be decided on penalty kicks if the score is tied after 120 minutes",
+      "source": "CBS Sports",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:55:46.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+      "publishedAt": "2026-07-01T15:02:15.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-penalty-kicks-mauricio-pochettinos-shootout-world-cup-tie-breaker/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Need to Find New Oars.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-vs-bosnia-and-herzegovina-live-stream-fifa-world-cup-predictions-lineups/",
+      "team": "usmnt",
+      "title": "USMNT vs. Bosnia and Herzegovina live stream: How to watch FIFA World Cup, predictions and lineups",
+      "summary": "With Christian Pulisic fit to start, Mauricio Pochettino's squad looks to snap a 24-year knockout stage drought when it faces Bosnia and Herzegovina in Santa Clara",
+      "source": "CBS Sports",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:52:09.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
+      "publishedAt": "2026-07-01T15:02:10.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-vs-bosnia-and-herzegovina-live-stream-fifa-world-cup-predictions-lineups/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Front Office Thread 2 (6-30-26: Lucic-Pro Scout, Roest-Kennedy-Komadoski Promoted, J. Ruutu & Dorsett Development Coaches Added)",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Round of 32 Matchday 4: Match thread and discussion",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:49:48.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/"
+      "publishedAt": "2026-07-01T14:54:13.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: More Fools And Their Cap Space, Soon Parted",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/",
+      "team": "usmnt",
+      "title": "Free 2026 World Cup anytime goalscorer picks, odds: Harry Kane, Christian Pulisic among Wednesday's best bets",
+      "summary": "Three more knockout games Wednesday mean more stars to look at for World Cup anytime goalscorer picks",
+      "source": "CBS Sports",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:40:09.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+      "publishedAt": "2026-07-01T14:25:19.000Z",
+      "link": "https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136173/buffalo-bills-2026-scouting-report-ls-reid-ferguson",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: LS Reid Ferguson",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T13:52:42.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136173/buffalo-bills-2026-scouting-report-ls-reid-ferguson"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136051/bills-news-expectations-for-buffalos-rookies",
@@ -264,61 +286,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/136051/bills-news-expectations-for-buffalos-rookies"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/don-granato-thread-cbjs-newest-assistant-coach.2831265/",
-      "team": "sabres",
-      "title": "Don Granato Thread - CBJ's Newest Assistant Coach",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:32:29.000Z",
-      "link": "https://forums.hfboards.com/threads/don-granato-thread-cbjs-newest-assistant-coach.2831265/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
-      "team": "sabres",
-      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:29:51.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-penalty-kicks-mauricio-pochettinos-shootout-world-cup-tie-breaker/",
-      "team": "usmnt",
-      "title": "USMNT penalty kicks plan: How Mauricio Pochettino prepared for World Cup's ultimate shootout tie-breaker",
-      "summary": "Beginning with the round of 32, where the USMNT will face Bosnia and Herzegovina on Wednesday, all World Cup games are win or go home and will be decided on penalty kicks if the score is tied after 120 minutes",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:28:41.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-penalty-kicks-mauricio-pochettinos-shootout-world-cup-tie-breaker/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/",
-      "team": "sabres",
-      "title": "Bowen Byram and Jordan Greenway to Chicago for 4th Overall, 45th Overall, Louis Crevier",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:01:04.000Z",
-      "link": "https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-day-at-the-world-cup-how-dangerous-an-opponent-is-bosnia-does-belgium-or-senegal-loom-in-quarters/",
-      "team": "usmnt",
-      "title": "USMNT day at the World Cup: How dangerous an opponent is Bosnia? Does Belgium or Senegal loom in quarters?",
-      "summary": "Mauricio Pochettino's squad has a golden opportunity to make a deep tournament run as a favorable knockout bracket begins against Bosnia and Herzegovina",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T12:52:07.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-day-at-the-world-cup-how-dangerous-an-opponent-is-bosnia-does-belgium-or-senegal-loom-in-quarters/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265723-has-anyone-ever-had-a-bad-stubhub-experience/",
       "team": "bills",
       "title": "Has anyone ever had a bad StubHub experience?",
@@ -330,37 +297,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/265723-has-anyone-ever-had-a-bad-stubhub-experience/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-line-prediction-start-time-2026-world-cup-round-of-32-picks/",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-usa-bosnia-and-herzegovina-predictions-best-bets/",
       "team": "usmnt",
-      "title": "USMNT vs. Bosnia and Herzegovina odds, prediction: 2026 World Cup Round of 32 picks by expert on 12-5 run",
-      "summary": "SportsLine's Martin Green reveals his USA vs. Bosnia and Herzegovina best bets for their knockout stage match in the FIFA World Cup 2026 on Wednesday",
+      "title": "2026 World Cup picks, odds: USA vs. Bosnia and Herzegovina predictions, best bets by expert on 25-15 run",
+      "summary": "SportsLine's Jon Eimer reveals his USMNT vs. Bosnia and Herzegovina best bets for the FIFA World Cup 2026 match as the Round of 32 continues on Wednesday",
       "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T12:36:01.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-line-prediction-start-time-2026-world-cup-round-of-32-picks/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
-      "team": "usmnt",
-      "title": "Transfer rumors, news: USMNT's Pulisic on six-man ...",
-      "summary": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T12:33:39.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T12:14:00.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+      "publishedAt": "2026-07-01T12:12:08.000Z",
+      "link": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-usa-bosnia-and-herzegovina-predictions-best-bets/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/2026-nhl-free-agency-buffalo-sabres-signings-open-thread/",
@@ -374,70 +319,26 @@
       "link": "https://www.diebytheblade.com/2026-nhl-free-agency-buffalo-sabres-signings-open-thread/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/",
-      "team": "usmnt",
-      "title": "Free 2026 World Cup anytime goalscorer picks, odds: Harry Kane, Christian Pulisic among Wednesday's best bets",
-      "summary": "Three more knockout games Wednesday mean more stars to look at for World Cup anytime goalscorer picks",
-      "source": "CBS Sports",
-      "sourceType": "league",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-free-agency-begins-trades-look-like-best-way-for-sabres-to-improve/",
+      "team": "sabres",
+      "title": "As free agency begins, trades look like best way for Sabres to improve",
+      "summary": "BUFFALO – Free agency, with its limited crop of talent and exorbitant asking prices, likely won’t help the Sabres much as general manager Jarmo Kekalainen works to improve a roster that has recently lost two of its best players.\nThe offseason kicks into high gear again today when the market opens at noon.\nWhat could Kekalainen, who’s in his first summer as GM, do to keep the Sabres atop the ultra-competitive Atlantic Division?\n\nHe has ... Read the full article \nThe post As free agency begins, trades look like best way for Sabres to improve first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T11:15:41.000Z",
-      "link": "https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/"
+      "publishedAt": "2026-07-01T05:46:13.000Z",
+      "link": "https://www.buffalohockeybeat.com/as-free-agency-begins-trades-look-like-best-way-for-sabres-to-improve/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-announce-six-hires-including-milan-lucic-as-pro-scout/",
       "team": "sabres",
-      "title": "Ilia Morozov, LC, Miami University (NCAA) - 20OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "title": "Sabres announce six hires, including Milan Lucic as pro scout",
+      "summary": "BUFFALO – Former Boston Bruins winger Milan Lucic, whose ferocious open-ice hit in 2011 concussed goalie Ryan Miller and made him public enemy No. 1 in these parts, has joined the Sabres as a pro scout.\nHis hire was one of six the Sabres announced Tuesday. This is general manager Jarmo Kekalainen’s first offseason running the team.\nLucic, 38, recently retired from playing after spending last season with the Fife Devils, an Elite Ice Hockey ... Read the full article \nThe post Sabres announce six hires, including Milan Lucic as pro scout first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T05:52:57.000Z",
-      "link": "https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout",
-      "team": "sabres",
-      "title": "Sabres hire former antagonist Lucic as pro scout",
-      "summary": "Former NHL player Milan Lucic has gone from being a one-time Buffalo Sabres' antagonist to landing a job as a pro scout, the team announced as part of a series of hirings and promotions on Tuesday.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T05:40:43.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract",
-      "team": "sabres",
-      "title": "Sabres re-sign Malenstyn to 6-yr, $17.5 M pact",
-      "summary": "The Buffalo Sabres re-signed checking-line forward Beck Malenstyn to a six-year, $17.5 million contract on Monday, two days before free agency opens.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T05:40:43.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/",
-      "team": "sabres",
-      "title": "Doman Szongoth, LC, KooKoo U20, heading to Sault Ste. Marie (OHL) - 156OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T04:31:24.000Z",
-      "link": "https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
-      "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T04:14:45.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
+      "publishedAt": "2026-07-01T05:07:11.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-announce-six-hires-including-milan-lucic-as-pro-scout/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
@@ -451,61 +352,6 @@
       "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
-      "team": "sabres",
-      "title": "Locked on Sabres Podcast",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T04:03:49.000Z",
-      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/",
-      "team": "sabres",
-      "title": "Beck Malenstyn (Extended, 6 x $2.9167M AAV)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T02:02:03.000Z",
-      "link": "https://forums.hfboards.com/threads/beck-malenstyn-extended-6-x-2-9167m-aav.2970095/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
-      "team": "sabres",
-      "title": "Radim Mrtka, RD, (9th OA, 2025); Seattle Thunderbirds (WHL), Assigned to Rochester 4/8/26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T01:56:51.000Z",
-      "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/",
-      "team": "sabres",
-      "title": "General Sabres Media Info & Coverage",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T01:38:01.000Z",
-      "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/weston-mckennie-meets-the-moment-usmnt-world-cup-2026/",
-      "team": "usmnt",
-      "title": "Weston McKennie meets the moment as USMNT come of age at 2026 FIFA World Cup",
-      "summary": "McKennie is the only USMNT player to have started all three games at the World Cup thus far, his importance with the team growing by the day",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T01:28:03.000Z",
-      "link": "https://www.cbssports.com/soccer/news/weston-mckennie-meets-the-moment-usmnt-world-cup-2026/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265720-who-are-some-of-your-favorite-players-from-over-the-years/",
       "team": "bills",
       "title": "Who are some of your favorite players from over the years???",
@@ -515,39 +361,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T01:22:58.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265720-who-are-some-of-your-favorite-players-from-over-the-years/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
-      "team": "sabres",
-      "title": "Alex Tuch (signed 8x$10.5M) to Washington for a 3rd Round Pick in 2027 and David Kampf",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T01:02:11.000Z",
-      "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/",
-      "team": "sabres",
-      "title": "Gavin McCarthy, Muskegon (USHL), Boston University; RD - 86OA, 2023; Signs 3 year ELC 3/17/26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T00:59:05.000Z",
-      "link": "https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/maxim-strbak-rd-sioux-falls-ushl-selection-45oa-2023-signed.2933259/",
-      "team": "sabres",
-      "title": "Maxim Strbak, RD, Sioux Falls (USHL) - Selection 45OA, 2023; Signed",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T00:48:33.000Z",
-      "link": "https://forums.hfboards.com/threads/maxim-strbak-rd-sioux-falls-ushl-selection-45oa-2023-signed.2933259/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265719-stevie-johnson-has-all-that-above-the-shoulders-and-hopefully-keon-catches-some-of-it/",
@@ -561,17 +374,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265719-stevie-johnson-has-all-that-above-the-shoulders-and-hopefully-keon-catches-some-of-it/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/",
-      "team": "sabres",
-      "title": "The Second Annual Old Navy Goat Draft Thread, 2027 Edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T23:24:43.000Z",
-      "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
-    },
-    {
       "id": "espn-sabres::48902854",
       "team": "sabres",
       "title": "NHL free agency rankings: Tiers of players available on July 1",
@@ -583,17 +385,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-free-agency-begins-trades-look-like-best-way-for-sabres-to-improve/",
-      "team": "sabres",
-      "title": "As free agency begins, trades look like best way for Sabres to improve",
-      "summary": "BUFFALO – Free agency, with its limited crop of talent and exorbitant asking prices, likely won’t help the Sabres much as general manager Jarmo Kekalainen works to improve a roster that has recently lost two of its best players.\nThe offseason kicks into high gear again Wednesday when the market opens at noon.\nWhat could Kekalainen, who’s in his first summer as GM, do to keep the Sabres atop the ultra-competitive Atlantic Division?\n\nHe has ... Read the full article \nThe post As free agency begins, trades look like best way for Sabres to improve first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T22:46:13.000Z",
-      "link": "https://www.buffalohockeybeat.com/as-free-agency-begins-trades-look-like-best-way-for-sabres-to-improve/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/",
       "team": "bills",
       "title": "Some interesting stats from the Bills 2025 season",
@@ -603,17 +394,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T21:45:17.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T18:42:44.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
@@ -638,17 +418,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/44688/2026-world-cup-previewing-usa-vs-bosnia-herzegovina"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Round of 32 Matchday 4: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T17:54:22.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135509/plays-that-defined-2025-buffalo-bills-at-miami-dolphins-week-10",
       "team": "bills",
       "title": "Plays That Defined 2025: Buffalo Bills at Miami Dolphins, Week 10",
@@ -671,15 +440,15 @@
       "link": "https://www.espn.com/nfl/story/_/id/49147104/nfl-offseason-grades-2026-free-agency-draft-trades-extensions-coaching-changes"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-announce-six-hires-including-milan-lucic-as-pro-scout/",
-      "team": "sabres",
-      "title": "Sabres announce six hires, including Milan Lucic as pro scout",
-      "summary": "BUFFALO – Former Boston Bruins winger Milan Lucic, whose ferocious open-ice hit in 2011 concussed goalie Ryan Miller and made him public enemy No. 1 in these parts, has joined the Sabres as a pro scout.\nHis hire was one of six the Sabres announced Tuesday. This is general manager Jarmo Kekalainen’s first offseason running the team.\nLucic, 38, recently retired from playing after spending last season with the Fife Devils, an Elite Ice Hockey ... Read the full article \nThe post Sabres announce six hires, including Milan Lucic as pro scout first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44685/2026-world-cup-round-of-32-matchday-3-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Round of 32 Matchday 3: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T15:07:11.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-announce-six-hires-including-milan-lucic-as-pro-scout/"
+      "publishedAt": "2026-06-30T15:24:38.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44685/2026-world-cup-round-of-32-matchday-3-match-thread-and-discussion"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265710-one-bills-live-name-check-mystery-person-at-bills-facility/",
@@ -713,6 +482,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T14:04:12Z",
       "link": "https://www.espn.com/nhl/story/_/id/48968493/nhl-2026-offseason-trades-rankings-targets-market-draft-picks-contracts"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44681/usa-vs-bosnia-herzegovina-2026-world-cup-time-tv-schedule-streaming-and-lineups",
+      "team": "usmnt",
+      "title": "USA vs. Bosnia & Herzegovina, 2026 World Cup: Time, TV schedule, streaming and lineups",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T12:43:14.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44681/usa-vs-bosnia-herzegovina-2026-world-cup-time-tv-schedule-streaming-and-lineups"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136037/buffalo-bills-2026-scouting-report-c-og-connor-mcgovern",
@@ -1078,17 +858,6 @@
       "link": "https://www.buffalohockeybeat.com/trading-for-olen-zellweger-gives-sabres-defenseman-with-qualities-similar-to-bowen-byram/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136046/o-j-simpson-wont-be-honored-at-buffalo-bills-new-highmark-stadium",
-      "team": "bills",
-      "title": "O.J. Simpson won’t be honored at Buffalo Bills new Highmark Stadium",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-27T17:18:17.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136046/o-j-simpson-wont-be-honored-at-buffalo-bills-new-highmark-stadium"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/2026-nhl-draft-how-to-watch-draft-order-rounds-2-7-open-thread-buffalo-sabres/",
       "team": "sabres",
       "title": "2026 NHL Draft – How To Watch, Draft Order & Rounds 2-7 Open Thread",
@@ -1177,17 +946,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49166861/new-nfl-coordinators-offense-defense-questions-2026-season-cowboys-bills-commanders"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 16: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T04:32:23.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265684-the-view-from-patriots-wire/",
       "team": "bills",
       "title": "The View from Patriots Wire",
@@ -1208,6 +966,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-25T15:55:32Z",
       "link": "https://www.espn.com/nfl/story/_/id/49154825/ranking-nfl-teams-offensive-groups-wr-rb-te-2026-season-best-playmakers"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/",
+      "team": "bills",
+      "title": "Lions CB Terrion Arnold facing multiple felony charges - potential life in prison",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-25T03:03:59.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-zach-benson-new-contract-seven-years/",
@@ -1252,17 +1021,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-24T19:30:19.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265674-if-there-was-a-first-song-to-be-played-at-the-new-stadium-what-song-would-you-like-it-to-be/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-trade-byram-greenway-chicago-blackhawks-fourth-overall-crevier/",
-      "team": "sabres",
-      "title": "Sabres Unload Byram and Greenway to Chicago For a Nice Haul",
-      "summary": "Buffalo Cashes in With the 4th Overall pick, the 45th pick and Dman Louis Crevier\n\n\n\nBuffalo Sabres general manager Jarmo Kekäläinen cleared out some major league cap space for the team by moving starry-eyed Bowen Byram and 4th liner Jordan Greenway. Bo and his agent have become a headache for the Blue and Gold with his desire to become a number one defender with the salary to match. Greenway’s earnings just didn’t match the production, even though he had some nice attributes.\n\n\n\nThe Sabres are now in possession of the 4th overall pick in this week’s draft. They could grab a top talent in that range who could be a real difference maker soon. Or they might use it as ammunition along with other assets to nab a legit star to add to this roster. Jarmo is about the here and now mostly, so I tend to believe that the pick could be on the move.\n\n\n\n\nLouis Crevier, acquired by BUF, is a defenceman who is 6'8 every time he steps on the ice and likes to shoot the puck. The Hawks played him in really tough matchup minutes last season, and he sure did hit people a lot in those minutes. pic.twitter.com/GZ8BsaJNq4&mdash; JFresh (@JFreshHockey) June 24, 2026\n\n\n\n\nBuffalo also has a 2nd round pick again, getting Chicago’s 45th overall. Some good talent should be available there. Also coming over in the deal is hulking giant defensemen Louis Crevier. The 25 year old is 6’8″ and nearly 230 pounds. He is a decent skater for his size and scored a surprising 7 goals along with 25 points for the Blackhawks last year, his first full season in the league. He is not a Bo replacement but should challenge for a bottom pair spot. \n\n\n\nMar 17, 2026; Chicago, Illinois, USA;  Chicago Blackhawks defenseman Louis Crevier (46) celebrates with center Frank Nazar (91) after scoring a goal against the Minnesota Wild during the first period at United Center. Mandatory Credit: Matt Marton-Imagn Images\n\n\n\nGMJK now has the room and money to really cook. Benson should be signed soon and so could Alex Tuch now. They could make it work. Or Buffalo may sign and trade him for options elsewhere. More to come soon from the Sabres for sure, but a nice job by Jarmo on this one.",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T03:12:41.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-trade-byram-greenway-chicago-blackhawks-fourth-overall-crevier/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony",
@@ -1494,17 +1252,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-10T21:46:47.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265586-eagles-sign-epenesa/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/",
-      "team": "bills",
-      "title": "Should OJ Simpson be on the new stadiums Wall of Fame?",
-      "summary": "This was Brought up on WGR a few times this last month. Thought I would do my own Poll. For me its a hard no. The dude was my hero growing up.. that being said.. yea.. uh no.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-05-31T05:19:46.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265281-rnd-4-pick-125-wr-skyler-bell-uconn/",
