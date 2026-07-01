@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T08:32:59.635Z",
+  "generatedAt": "2026-07-01T11:44:21.468Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -176,15 +176,26 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Front Office Thread 2 (6-30-26: Lucic-Pro Scout, Roest-Kennedy-Komadoski Promoted, J. Ruutu & Dorsett Development Coaches Added)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49229496/riding-high-world-cup-home-soil-now-usmnt",
+      "team": "usmnt",
+      "title": "Riding high at a World Cup on home soil, the time ...",
+      "summary": "The USMNT boasts a world-class coach and star players in their primes. This is its chance to make its mark on world soccer.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T07:45:35.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/"
+      "publishedAt": "2026-07-01T12:36:51.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49229496/riding-high-world-cup-home-soil-now-usmnt"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
+      "team": "usmnt",
+      "title": "Transfer rumors, news: USMNT's Pulisic on six-man ...",
+      "summary": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T12:33:39.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
@@ -194,8 +205,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T07:31:43.000Z",
+      "publishedAt": "2026-07-01T11:41:57.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Front Office Thread 2 (6-30-26: Lucic-Pro Scout, Roest-Kennedy-Komadoski Promoted, J. Ruutu & Dorsett Development Coaches Added)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T11:40:57.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
@@ -205,8 +227,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T07:28:56.000Z",
+      "publishedAt": "2026-07-01T11:39:15.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/",
+      "team": "usmnt",
+      "title": "Free 2026 World Cup anytime goalscorer picks, odds: Harry Kane, Christian Pulisic among Wednesday's best bets",
+      "summary": "Three more knockout games Wednesday mean more stars to look at for World Cup anytime goalscorer picks",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T11:15:41.000Z",
+      "link": "https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/",
+      "team": "sabres",
+      "title": "2026 NHL / Buffalo Sabres Free Agency Piddle July 1st @ Noon",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T08:54:49.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
@@ -229,6 +273,39 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T05:52:57.000Z",
       "link": "https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt",
+      "team": "usmnt",
+      "title": "Pulisic says he is fit, ready to go for USMNT",
+      "summary": "United States men's national team attacker Christian Pulisic said he is ready to go the distance in the team's World Cup round-of-32 match against Bosnia and Herzegovina on Wednesday, no matter how long the game lasts.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T05:50:07.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout",
+      "team": "sabres",
+      "title": "Sabres hire former antagonist Lucic as pro scout",
+      "summary": "Former NHL player Milan Lucic has gone from being a one-time Buffalo Sabres' antagonist to landing a job as a pro scout, the team announced as part of a series of hirings and promotions on Tuesday.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T05:40:43.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract",
+      "team": "sabres",
+      "title": "Sabres re-sign Malenstyn to 6-yr, $17.5 M pact",
+      "summary": "The Buffalo Sabres re-signed checking-line forward Beck Malenstyn to a six-year, $17.5 million contract on Monday, two days before free agency opens.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T05:40:43.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/",
@@ -262,17 +339,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T04:08:49.000Z",
       "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/",
-      "team": "sabres",
-      "title": "2026 NHL / Buffalo Sabres Free Agency Piddle July 1st @ Noon",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T04:05:56.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
@@ -482,6 +548,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T19:14:17.000Z",
       "link": "https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
+      "team": "sabres",
+      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
+      "summary": "Now that all the selections have been made, what stands out the most?",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T18:42:44.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
@@ -847,17 +924,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136015/buffalo-bills-2026-scouting-report-wide-receiver-deven-thompkins"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/did-the-new-world-cup-group-stage-format-work-was-the-48-team-field-a-success-as-knockout-stage-begins/",
-      "team": "usmnt",
-      "title": "Did the new World Cup group stage format work? Was the 48-team field a success as knockout stage begins?",
-      "summary": "While powerhouse nations still dominate, the addition of 16 teams has allowed rising African and CONCACAF sides to prove they belong on the world stage",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-28T14:32:14.000Z",
-      "link": "https://www.cbssports.com/soccer/news/did-the-new-world-cup-group-stage-format-work-was-the-48-team-field-a-success-as-knockout-stage-begins/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/day-two-draft-recap-for-the-sabres/",
       "team": "sabres",
       "title": "Day Two Draft Recap For the Sabres",
@@ -1131,17 +1197,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-25T14:06:57.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265681-barnwell-ranks-offensive-playmakers-outside-of-qb/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/",
-      "team": "bills",
-      "title": "Lions CB Terrion Arnold facing multiple felony charges - potential life in prison",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T03:03:59.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-zach-benson-new-contract-seven-years/",
@@ -1439,6 +1494,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-05-31T05:19:46.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265281-rnd-4-pick-125-wr-skyler-bell-uconn/",
+      "team": "bills",
+      "title": "Rnd 4 - Pick #125: WR Skyler Bell - UConn",
+      "summary": ".",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-04-25T17:21:07.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265281-rnd-4-pick-125-wr-skyler-bell-uconn/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/",
