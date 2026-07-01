@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T18:31:40.811Z",
+  "generatedAt": "2026-07-01T20:29:32.597Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -164,8 +164,8 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Wed 3:07 PM",
-      "detail": "vs NYM"
+      "headline": "Fri 10:10 PM",
+      "detail": "at SEA"
     },
     {
       "team": "usmnt",
@@ -176,26 +176,48 @@
   ],
   "stories": [
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-re-sign-trevor-kuntar-ink-conor-sheary-in-free-agency/",
+      "team": "sabres",
+      "title": "Sabres re-sign Trevor Kuntar, ink Conor Sheary in free agency",
+      "summary": "BUFFALO – The Sabres this afternoon added forward depth in free agency, signing forward Trevor Kuntar to a two-year contract and Conor Sheary and Jason Polin to one-year deals.\nKuntar, 25, enjoyed a breakout year last season, scoring 21 goals for the Rochester Americans and playing his first NHL game.\nThe Williamsville native signed an AHL contract last summer before earning an NHL deal during the season.\n\nSheary, 34, has spent most 11 seasons in ... Read the full article \nThe post Sabres re-sign Trevor Kuntar, ink Conor Sheary in free agency first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T20:29:04.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-re-sign-trevor-kuntar-ink-conor-sheary-in-free-agency/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-line-prediction-start-time-2026-world-cup-round-of-32-picks-soccer-bets/",
+      "team": "usmnt",
+      "title": "USMNT vs. Bosnia and Herzegovina odds, prediction: 2026 World Cup Round of 32 picks by expert on 12-5 run",
+      "summary": "SportsLine's Martin Green reveals his USA vs. Bosnia and Herzegovina best bets for their knockout stage match in the FIFA World Cup 2026 on Wednesday",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T19:56:33.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-line-prediction-start-time-2026-world-cup-round-of-32-picks-soccer-bets/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/oilers-search-for-high-pedigree-goalie-continues-despite-levi-addition/",
+      "team": "sabres",
+      "title": "Oilers’ search for high-pedigree goalie continues despite Levi addition",
+      "summary": "Gene Principe and Mark Spector discuss the Oilers adding goalie Devon Levi and why they expect Edmonton to keep searching for a high-pedigree netminder, and why Darnell Nurse’s status will determine how the Oilers operate in free agency.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T19:43:52.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/oilers-search-for-high-pedigree-goalie-continues-despite-levi-addition/"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-trade-goalie-devon-levi-to-oilers/",
       "team": "sabres",
       "title": "Sabres trade goalie Devon Levi to Oilers",
-      "summary": "BUFFALO – Goalie Devon Levi’s time with the Sabres organization has ended.\nThe Sabres this afternoon traded Levi, 24, and a seventh-round pick in 2028 to the Edmonton Oilers in exchange for a third-round pick in 2028.\nLevi, one a highly touted prospect, fell out of the Sabres’ plans last season when he spent the entire campaign with the Rochester Americans.\n\nFormer Sabres general manager Kevyn Adams, who was fired Dec. 15, acquired Levi ... Read the full article \nThe post Sabres trade goalie Devon Levi to Oilers first appeared on Buffalo Hockey Beat.",
+      "summary": "BUFFALO – Goalie Devon Levi’s time with the Sabres organization has ended.\nThe Sabres this afternoon traded Levi, 24, and a seventh-round pick in 2028 to the Edmonton Oilers in exchange for a third-round pick in 2028.\nThe Oilers have struggled to find a No. 1 goalie, so Levi, who must clear waivers next season before going to the minors, should have a strong opportunity in Edmonton.\nLevi, one a highly touted prospect, fell ... Read the full article \nThe post Sabres trade goalie Devon Levi to Oilers first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
       "publishedAt": "2026-07-01T18:15:50.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-trade-goalie-devon-levi-to-oilers/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/oilers-acquire-devon-levi-seventh-round-pick-from-sabres-for-third-round-pick/",
-      "team": "sabres",
-      "title": "Oilers acquire Devon Levi, seventh-round pick from Sabres for third-round pick",
-      "summary": "The Oilers have acquired Devon Levi from the Buffalo Sabres and a 2028 seventh-round pick from the Buffalo Sabres in exchange for a 2028 third-round pick, the team announced Wednesday.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T18:14:55.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/oilers-acquire-devon-levi-seventh-round-pick-from-sabres-for-third-round-pick/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265727-alternate-uni-unveiling-reportedly-scheduled-for-27-july/",
@@ -220,15 +242,15 @@
       "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/report-sabres-sign-dennis-gilbert-in-free-agency/",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-buffalos-dennis-gilbert-in-free-agency/",
       "team": "sabres",
-      "title": "Report: Sabres sign Dennis Gilbert in free agency",
-      "summary": "BUFFALO – The Sabres this afternoon brought back a familiar face in free agency, agreeing to terms with defenseman Dennis Gilbert to a one-year, one-way contract worth $850,000, according to TSN’s Darren Dreger.\nRight now, the Buffalo native likely ranks eighth on the Sabres’ depth chart.\nGilbert, 29, spent most of 2024-25 with the Sabres after signing as a free agent, registering five assists and 50 penalty minutes in 25 games.\n\nThe Sabres traded him ... Read the full article \nThe post Report: Sabres sign Dennis Gilbert in free agency first appeared on Buffalo Hockey Beat.",
+      "title": "Sabres sign Buffalo’s Dennis Gilbert in free agency",
+      "summary": "BUFFALO – The Sabres this afternoon brought back a familiar face in free agency, signing defenseman Dennis Gilbert to a one-year, one-way contract worth $850,000.\nRight now, the Buffalo native likely ranks eighth on the Sabres’ depth chart.\nGilbert, 29, spent most of 2024-25 with the Sabres after signing as a free agent, registering five assists and 50 penalty minutes in 25 games.\n\nThe Sabres traded him to the Ottawa Senators that season in the ... Read the full article \nThe post Sabres sign Buffalo’s Dennis Gilbert in free agency first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
       "publishedAt": "2026-07-01T17:57:31.000Z",
-      "link": "https://www.buffalohockeybeat.com/report-sabres-sign-dennis-gilbert-in-free-agency/"
+      "link": "https://www.buffalohockeybeat.com/sabres-sign-buffalos-dennis-gilbert-in-free-agency/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/bosnia-esmir-bajraktarevic-former-usmnt-player-world-cup-round-of-32-2026/",
@@ -240,28 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T17:28:18.000Z",
       "link": "https://www.cbssports.com/soccer/news/bosnia-esmir-bajraktarevic-former-usmnt-player-world-cup-round-of-32-2026/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136172/buffalo-bills-leading-nfl-trend-toward-super-heavy-offensive-personnel",
-      "team": "bills",
-      "title": "Buffalo Bills leading NFL trend toward super-heavy offensive personnel",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T17:24:18.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136172/buffalo-bills-leading-nfl-trend-toward-super-heavy-offensive-personnel"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
-      "team": "usmnt",
-      "title": "Transfer rumors, news: USMNT's Pulisic on six-man ...",
-      "summary": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T16:57:30.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-newcomer-olen-zellweger-to-three-year-contract/",
@@ -284,28 +284,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T16:50:56.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265726-an-uncertainty-for-the-2026-season-in-highmark-will-the-new-turf-work-out/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49229496/riding-high-world-cup-home-soil-now-usmnt",
-      "team": "usmnt",
-      "title": "Riding high at a World Cup on home soil, the time ...",
-      "summary": "The USMNT boasts a world-class coach and star players in their primes. This is its chance to make its mark on world soccer.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T16:49:03.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49229496/riding-high-world-cup-home-soil-now-usmnt"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-to-advance-usa-bosnia-and-herzegovina-predictions-best-bets/",
-      "team": "usmnt",
-      "title": "2026 World Cup picks, odds: USA vs. Bosnia and Herzegovina predictions, best bets by expert on 25-15 run",
-      "summary": "SportsLine's Jon Eimer reveals his USMNT vs. Bosnia and Herzegovina best bets for the FIFA World Cup 2026 match as the Round of 32 continues on Wednesday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T16:32:16.000Z",
-      "link": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-to-advance-usa-bosnia-and-herzegovina-predictions-best-bets/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/zellweger-signs-with-the-sabres/",
@@ -363,6 +341,17 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-vs-bosnia-and-herzegovina-live-stream-fifa-world-cup-predictions-lineups/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Round of 32 Matchday 4: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T14:54:13.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/",
       "team": "usmnt",
       "title": "Free 2026 World Cup anytime goalscorer picks, odds: Harry Kane, Christian Pulisic among Wednesday's best bets",
@@ -372,28 +361,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T14:25:19.000Z",
       "link": "https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136173/buffalo-bills-2026-scouting-report-ls-reid-ferguson",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: LS Reid Ferguson",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:52:42.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136173/buffalo-bills-2026-scouting-report-ls-reid-ferguson"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136051/bills-news-expectations-for-buffalos-rookies",
-      "team": "bills",
-      "title": "Bills news: Expectations for Buffalo’s rookies",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:32:55.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136051/bills-news-expectations-for-buffalos-rookies"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265723-has-anyone-ever-had-a-bad-stubhub-experience/",
@@ -484,17 +451,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T18:42:44.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
       "team": "bills",
       "title": "Bills announce 2026 high school girls flag football Coaches of the Year",
@@ -515,17 +471,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T17:56:33.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/44688/2026-world-cup-previewing-usa-vs-bosnia-herzegovina"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135509/plays-that-defined-2025-buffalo-bills-at-miami-dolphins-week-10",
-      "team": "bills",
-      "title": "Plays That Defined 2025: Buffalo Bills at Miami Dolphins, Week 10",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T15:40:49.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135509/plays-that-defined-2025-buffalo-bills-at-miami-dolphins-week-10"
     },
     {
       "id": "espn-bills::49147104",
@@ -583,15 +528,15 @@
       "link": "https://www.espn.com/nhl/story/_/id/48968493/nhl-2026-offseason-trades-rankings-targets-market-draft-picks-contracts"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136037/buffalo-bills-2026-scouting-report-c-og-connor-mcgovern",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: C/OG Connor McGovern",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44681/usa-vs-bosnia-herzegovina-2026-world-cup-time-tv-schedule-streaming-and-lineups",
+      "team": "usmnt",
+      "title": "USA vs. Bosnia & Herzegovina, 2026 World Cup: Time, TV schedule, streaming and lineups",
       "summary": "",
-      "source": "Buffalo Rumblings",
+      "source": "Stars and Stripes FC",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-30T12:00:35.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136037/buffalo-bills-2026-scouting-report-c-og-connor-mcgovern"
+      "publishedAt": "2026-06-30T12:43:14.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44681/usa-vs-bosnia-herzegovina-2026-world-cup-time-tv-schedule-streaming-and-lineups"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265707-pretty-cool-dj-moore-story%E2%80%A6/",
@@ -748,6 +693,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136062/buffalo-bills-2026-scouting-report-olb-javon-solomon"
     },
     {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-legacy-10-games-that-changed-u-s-soccer-forever/",
+      "team": "usmnt",
+      "title": "USMNT's World Cup legacy: 10 pivotal games that changed U.S. Soccer forever",
+      "summary": "From the 'billion-dollar goal' to 'Go, go, USA,' we look back at the matches that defined American soccer",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T12:54:27.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-legacy-10-games-that-changed-u-s-soccer-forever/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-6-29/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 6/29",
@@ -812,6 +768,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-28T13:41:07.000Z",
       "link": "https://www.diebytheblade.com/day-two-draft-recap-for-the-sabres/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136020/bills-news-reacting-to-news-that-o-j-simpson-wont-be-honored-at-new-stadium",
+      "team": "bills",
+      "title": "Bills news: Reacting to news that O.J. Simpson won’t be honored at new stadium",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-28T13:39:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136020/bills-news-reacting-to-news-that-o-j-simpson-wont-be-honored-at-new-stadium"
     },
     {
       "id": "espn-sabres::49199248",
@@ -891,15 +858,37 @@
       "link": "https://www.buffalohockeybeat.com/nhl-draft-tracker-sabres-select-olivers-murnieks-doman-szongoth-and-dylan-dumont/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/trading-for-olen-zellweger-gives-sabres-defenseman-with-qualities-similar-to-bowen-byram/",
-      "team": "sabres",
-      "title": "Trading for Olen Zellweger gives Sabres defenseman with qualities similar to Bowen Byram",
-      "summary": "ORCHARD PARK – In Olen Zellweger, the Buffalo Sabres traded for a defenseman who Jarmo Kekalainen said possesses “a lot of the same qualities” of Bowen Byram.\n“Really good skater, speed, puck play, the ability to move up the ice whether to pass or carry the puck out of the zone,” the general manager said Friday at One Bills Drive hours after trading for Zellweger. “We see a lot of potential in him.”... Read the full article \nThe post Trading for Olen Zellweger gives Sabres defenseman with qualities similar to Bowen Byram first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136046/o-j-simpson-wont-be-honored-at-buffalo-bills-new-highmark-stadium",
+      "team": "bills",
+      "title": "O.J. Simpson won’t be honored at Buffalo Bills new Highmark Stadium",
+      "summary": "",
+      "source": "Buffalo Rumblings",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-06-27T17:46:12.000Z",
-      "link": "https://www.buffalohockeybeat.com/trading-for-olen-zellweger-gives-sabres-defenseman-with-qualities-similar-to-bowen-byram/"
+      "publishedAt": "2026-06-27T17:18:17.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136046/o-j-simpson-wont-be-honored-at-buffalo-bills-new-highmark-stadium"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/136042/espn-ranks-buffalo-bills-near-the-bottom-of-nfl-offensive-playmaker-groups",
+      "team": "bills",
+      "title": "ESPN ranks Buffalo Bills near the bottom of NFL offensive playmaker groups",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T17:04:53.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/136042/espn-ranks-buffalo-bills-near-the-bottom-of-nfl-offensive-playmaker-groups"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136030/buffalo-bills-2026-scouting-report-defensive-back-jordan-dunbar",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: defensive back Jordan Dunbar",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T13:51:18.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136030/buffalo-bills-2026-scouting-report-defensive-back-jordan-dunbar"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/2026-nhl-draft-how-to-watch-draft-order-rounds-2-7-open-thread-buffalo-sabres/",
@@ -935,6 +924,17 @@
       "link": "https://www.diebytheblade.com/watch-along-party-2026-nhl-draft/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/135902/bills-news-latest-on-potential-extension-for-ocyrus-torrence",
+      "team": "bills",
+      "title": "Bills news: Latest on potential extension for O’Cyrus Torrence",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-26T14:18:39.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/135902/bills-news-latest-on-potential-extension-for-ocyrus-torrence"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265692-cj-gardner-johnson-guarantees-2-superbowls-wins-among-other-things-in-the-athletic/",
       "team": "bills",
       "title": "C.J. Gardner Johnson guarantees 2 Superbowls wins, among other things, in the Athletic ...",
@@ -955,28 +955,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-26T10:00:08Z",
       "link": "https://www.espn.com/nfl/story/_/id/49166861/new-nfl-coordinators-offense-defense-questions-2026-season-cowboys-bills-commanders"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Matchday 16: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T04:32:23.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44424/2026-world-cup-matchday-16-match-thread-and-discussion"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44617/last-minute-goal-gives-turkiye-3-2-win-over-usa",
-      "team": "usmnt",
-      "title": "Last-minute goal gives Türkiye 3-2 win over USA",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-26T04:30:49.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44617/last-minute-goal-gives-turkiye-3-2-win-over-usa"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265684-the-view-from-patriots-wire/",
@@ -1287,15 +1265,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/265586-eagles-sign-epenesa/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265281-rnd-4-pick-125-wr-skyler-bell-uconn/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265313-top-2027-qb-brendan-sorsby-cited-for-gambling/",
       "team": "bills",
-      "title": "Rnd 4 - Pick #125: WR Skyler Bell - UConn",
-      "summary": ".",
+      "title": "Top 2027 QB Brendan Sorsby cited for Gambling",
+      "summary": "https://www.espn.com/college-football/story/_/id/48608889/texas-tech-qb-brendan-sorsby-enter-gambling-addiction-program-sources-say\n\t \n\n\n\n\tGeez, did nothing illegal to this point  and bet for his team when at Indiana and is now one of the highest paid QBs in college football. \n\t \n\n\n\n\tCould be ineligible by NCAA which mean you could see a high profile QB entering the supplemental draft",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-04-25T17:21:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265281-rnd-4-pick-125-wr-skyler-bell-uconn/"
+      "publishedAt": "2026-04-27T17:16:31.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265313-top-2027-qb-brendan-sorsby-cited-for-gambling/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/",
