@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T04:13:28.046Z",
+  "generatedAt": "2026-07-01T08:32:59.635Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,15 +176,26 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt",
-      "team": "usmnt",
-      "title": "Pulisic says he is fit, ready to go for USMNT",
-      "summary": "United States men's national team attacker Christian Pulisic said he is ready to go the distance in the team's World Cup round-of-32 match against Bosnia and Herzegovina on Wednesday, no matter how long the game lasts.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Front Office Thread 2 (6-30-26: Lucic-Pro Scout, Roest-Kennedy-Komadoski Promoted, J. Ruutu & Dorsett Development Coaches Added)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T05:06:31.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49229606/christian-pulisic-says-fit-ready-go-distance-usmnt"
+      "publishedAt": "2026-07-01T07:45:35.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
+      "team": "sabres",
+      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Need to Find New Oars.",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T07:31:43.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/",
@@ -194,8 +205,52 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-01T04:08:52.000Z",
+      "publishedAt": "2026-07-01T07:28:56.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-more-fools-and-their-cap-space-soon-parted.3031925/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
+      "team": "sabres",
+      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T07:26:17.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/",
+      "team": "sabres",
+      "title": "Ilia Morozov, LC, Miami University (NCAA) - 20OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T05:52:57.000Z",
+      "link": "https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/",
+      "team": "sabres",
+      "title": "Doman Szongoth, LC, KooKoo U20, heading to Sault Ste. Marie (OHL) - 156OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T04:31:24.000Z",
+      "link": "https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T04:14:45.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
@@ -207,17 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T04:08:49.000Z",
       "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Front Office Thread 2 (6-30-26: Lucic-Pro Scout, Roest-Kennedy-Komadoski Promoted, J. Ruutu & Dorsett Development Coaches Added)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T04:07:48.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-6-30-26-lucic-pro-scout-roest-kennedy-komadoski-promoted-j-ruutu-dorsett-development-coaches-added.3028546/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-nhl-buffalo-sabres-free-agency-piddle-july-1st-noon.3033067/",
@@ -240,28 +284,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T04:03:49.000Z",
       "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/",
-      "team": "sabres",
-      "title": "The 2026-27 Roster Speculation Thread: Summer Edition - Need to Find New Oars.",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T03:59:25.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-roster-speculation-thread-summer-edition-need-to-find-new-oars.3030608/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
-      "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T03:51:34.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -330,17 +352,6 @@
       "link": "https://www.cbssports.com/soccer/news/weston-mckennie-meets-the-moment-usmnt-world-cup-2026/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/",
-      "team": "sabres",
-      "title": "Doman Szongoth, LC, KooKoo U20, heading to Sault Ste. Marie (OHL) - 156OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T01:27:06.000Z",
-      "link": "https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265720-who-are-some-of-your-favorite-players-from-over-the-years/",
       "team": "bills",
       "title": "Who are some of your favorite players from over the years???",
@@ -350,17 +361,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T01:22:58.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265720-who-are-some-of-your-favorite-players-from-over-the-years/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49213271/why-outsiders-believe-usmnt-make-deep-world-cup-run",
-      "team": "usmnt",
-      "title": "Why outsiders believe the USMNT can make a deep Wo...",
-      "summary": "Coaches and analysts assess whether the U.S. has what it takes to become the surprise team of the World Cup.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T01:11:41.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49213271/why-outsiders-believe-usmnt-make-deep-world-cup-run"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
@@ -385,28 +385,6 @@
       "link": "https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout",
-      "team": "sabres",
-      "title": "Sabres hire former antagonist Lucic as pro scout",
-      "summary": "Former NHL player Milan Lucic has gone from being a one-time Buffalo Sabres' antagonist to landing a job as a pro scout, the team announced as part of a series of hirings and promotions on Tuesday.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T00:49:38.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49227647/buffalo-sabres-hire-former-player-milan-lucic-pro-scout"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract",
-      "team": "sabres",
-      "title": "Sabres re-sign Malenstyn to 6-yr, $17.5 M pact",
-      "summary": "The Buffalo Sabres re-signed checking-line forward Beck Malenstyn to a six-year, $17.5 million contract on Monday, two days before free agency opens.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T00:49:37.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49215985/sabres-re-sign-beck-malenstyn-six-year-175-m-contract"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/maxim-strbak-rd-sioux-falls-ushl-selection-45oa-2023-signed.2933259/",
       "team": "sabres",
       "title": "Maxim Strbak, RD, Sioux Falls (USHL) - Selection 45OA, 2023; Signed",
@@ -416,17 +394,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T00:48:33.000Z",
       "link": "https://forums.hfboards.com/threads/maxim-strbak-rd-sioux-falls-ushl-selection-45oa-2023-signed.2933259/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/",
-      "team": "sabres",
-      "title": "2026 Buffalo Sabres Development Camp 6/29 - 7/2 Habourcenter",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T00:48:07.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-buffalo-sabres-development-camp-6-29-7-2-habourcenter.3032433/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265719-stevie-johnson-has-all-that-above-the-shoulders-and-hopefully-keon-catches-some-of-it/",
@@ -506,17 +473,6 @@
       "link": "https://forums.hfboards.com/threads/jarmo-kek%C3%A4l%C3%A4inen-thread-buffalo-sabres-general-manager-pickleball-extraordinaire.3030594/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49223257/transfer-rumors-news-michael-olise-asks-bayern-munich-meeting-amid-real-madrid-psg",
-      "team": "usmnt",
-      "title": "Transfer rumors, news: Olise asks for Bayern meeti...",
-      "summary": "Folarin Balogun has attracted attention from PSG, Chelsea and Tottenham Hotspur. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T19:25:11.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49223257/transfer-rumors-news-michael-olise-asks-bayern-munich-meeting-amid-real-madrid-psg"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/",
       "team": "sabres",
       "title": "Dylan Dumont, RW, Drummondville (QMJHL) -188OA, 2026",
@@ -528,17 +484,6 @@
       "link": "https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T18:42:44.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
       "team": "bills",
       "title": "Bills announce 2026 high school girls flag football Coaches of the Year",
@@ -548,17 +493,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T18:00:01.000Z",
       "link": "https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
-      "team": "sabres",
-      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T17:59:44.000Z",
-      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44688/2026-world-cup-previewing-usa-vs-bosnia-herzegovina",
@@ -1276,6 +1210,17 @@
       "link": "https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265667-defense-giving-up-big-plays-vs-12-play-drives/",
+      "team": "bills",
+      "title": "Defense giving up big plays vs 12 play drives",
+      "summary": "This topic drives me crazy. \n\t \n\n\n\n\tHeard it addressed on Locked On this morning.\n\n\n\n\t \n\n\n\n\t”Well, you wanted a defense that gets after it, but with that comes giving up big plays.. McDermott’s defense didn’t do that.”  Summarizing a point made by Jerry O.  And he’s not wrong, but… \n\n\n\n\t \n\n\n\n\tOk, cool… What his Defense did was allow teams to bleed clock, wear down our defense, convert third downs and then eventually score.   Thus, shortening games and putting more pressure on Josh Allen to score when he has the ball.  All the while operating in a run-heavy structure to protect the defense, that bleeds the clock, limits his pass attempts and makes him press to do something with it when he drops back.  \n\t \n\n\n\n\tI understand the analytics of it.. and the fact is, drives that have an explosive play in them are far more likely to end in a score than those without them.   Noted. \n\t \n\n\n\n\tHowever, with the new kickoff rules and teams starting so much closer to midfield, I will take a defense that gives up 2-3 more big plays per game, as long as they are creating 6-8+ big plays themselves… turnovers, sacks, tfl’s etc. \n\n\n\n\t \n\n\n\n\tCase in point.  Denver playoff game.  Josh Allen spazzing before half.  Why did he do that?   It’s simple.. he saw an entire playoff half go by where he was almost perfect, but because of a James Cook fumble and the Defense not getting off the field - therefore limiting his drive chances - he was heading into halftime down.   So he pressed, and made it worse.  McDermott’s defensive philosophy affecting Josh Allen in a nutshell. \n\t \n\n\n\n\tThe 3rd down stops and big plays for our Defense have to be there, but as long as they are.. everyone downvote me the first time I whine about a 65 yard explosive given up by our Defense in a Gamethread.  \n\t \n\n\n\n\tBend, don’t break only works when you’re actually bending and not breaking and not affecting your own QB while his counterpart elite QB’s don’t just break your defense when it matters.. they massacre it.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T15:38:20.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265667-defense-giving-up-big-plays-vs-12-play-drives/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/jammerz-one-only-off-season-gmfad/",
       "team": "sabres",
       "title": "Jammerz One & Only Off-Season GMFAD",
@@ -1505,17 +1450,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-04-08T01:53:02.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/",
-      "team": "bills",
-      "title": "REPORT: 49ers to release Aiyuk",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2025-11-21T23:51:05.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
