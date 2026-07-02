@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:56:27.284Z",
+  "generatedAt": "2026-07-02T21:16:27.976Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 5,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,48 +176,15 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48953200/usmnt-usa-world-cup-scenarios-bracket-permutations-qualify-betting-odds-projections-predictions",
-      "team": "usmnt",
-      "title": "USMNT World Cup scenarios and path: How far can th...",
-      "summary": "Who will Team USA face in the World Cup knockout rounds? What's the likely path? What are the odds? What do projection models say?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 training camp position battle primer: QB, RB, OL",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-02T19:37:22.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48953200/usmnt-usa-world-cup-scenarios-bracket-permutations-qualify-betting-odds-projections-predictions"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32",
-      "team": "usmnt",
-      "title": "USMNT beats Bosnia for 1st WC KO win since '02",
-      "summary": "The USMNT beat Bosnia-Herzegovina 2-0 in the World Cup round of 32 on Wednesday night for its first knockout win since 2002.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T19:37:12.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources",
-      "team": "usmnt",
-      "title": "Sources: USMNT cannot appeal Balogun red card",
-      "summary": "The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources have told ESPN, and he could face an extended ban.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T19:37:12.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-      "team": "usmnt",
-      "title": "Do Brazil have a plan? One big question for every ...",
-      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win without their suspended star striker, Folarin Balogun?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T19:36:56.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon"
+      "publishedAt": "2026-07-02T19:12:25.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-add-depth-by-signing-forward-for-rochester/",
@@ -229,17 +196,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-02T18:53:31.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-add-depth-by-signing-forward-for-rochester/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 training camp position battle primer: QB, RB, OL",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T18:09:56.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136239/who-will-lead-the-bills-in-sacks-at-2026-seasons-end",
@@ -284,17 +240,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-02T15:08:08.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44706/usa-vs-bosnia-and-herzegovina-2026-world-cup-community-player-ratings"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed",
-      "team": "usmnt",
-      "title": "USMNT shows it can play ugly, which is exactly wha...",
-      "summary": "Play pretty? Fine. Play nasty? No problem. This USMNT has the tools to deal with every situation, which is handy as it faces Belgium next without its top scorer.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T15:00:13.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/folarin-balogun-red-card-suspension-usmnt-appeal-world-cup-round-of-16/",
@@ -757,17 +702,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T21:45:17.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T18:42:44.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
