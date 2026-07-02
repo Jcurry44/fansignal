@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T01:51:43.739Z",
+  "generatedAt": "2026-07-02T06:03:05.813Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 12,
+      "itemCount": 14,
       "error": null
     },
     {
@@ -170,32 +170,43 @@
     {
       "team": "usmnt",
       "state": "final",
-      "headline": "Final · L 2-3",
-      "detail": "at TUR"
+      "headline": "Final · W 2-0",
+      "detail": "vs BIH"
     }
   ],
   "stories": [
     {
-      "id": "espn-sabres::49243575",
-      "team": "sabres",
-      "title": "Frederik Andersen, Edmonton Oilers agree on one-year deal",
-      "summary": "Veteran goaltender Frederik Andersen, 36, who helped the Carolina Hurricanes win three playoff series before giving the starter's net up to Brandon Bussi in the Stanley Cup Final last month, agreed to a one-year deal with the Edmonton Oilers on Wednesday.",
-      "source": "ESPN · Greg Wyshynski",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/folarin-balogun-red-card-suspension-usmnt-appeal-world-cup-round-of-16/",
+      "team": "usmnt",
+      "title": "Folarin Balogun red card suspension: Can USMNT appeal or will striker miss World Cup round of 16 vs. Belgium?",
+      "summary": "Following a 64th minute red card Balogun received an automatic one-game suspension",
+      "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-02T01:22:03Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49243575/frederik-andersen-edmonton-oilers-agree-one-year-deal"
+      "publishedAt": "2026-07-02T03:47:03.000Z",
+      "link": "https://www.cbssports.com/soccer/news/folarin-balogun-red-card-suspension-usmnt-appeal-world-cup-round-of-16/"
     },
     {
-      "id": "espn-bills::49243495",
-      "team": "bills",
-      "title": "Did the Bills do enough at wide receiver this offseason?",
-      "summary": "Alaina Getzenberg discusses the Bills' options for wide receivers in the upcoming 2026 season.",
-      "source": "ESPN",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-refused-to-blink-against-bosnia-world-cup-dreams-alive/",
+      "team": "usmnt",
+      "title": "How the USMNT refused to blink against Bosnia and Herzegovina and kept World Cup dreams alive",
+      "summary": "Despite Folarin Balogun's second-half red card, the USMNT fought through adversity to secure a historic 2-0 win over Bosnia and Herzegovina",
+      "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-02T01:06:45Z",
-      "link": "https://www.espn.com/video/clip/_/id/49243495/did-bills-do-enough-wide-receiver-offseason"
+      "publishedAt": "2026-07-02T03:38:12.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-refused-to-blink-against-bosnia-world-cup-dreams-alive/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-player-ratings-malik-tillman-folarin-balogun-red-card-usa/",
+      "team": "usmnt",
+      "title": "USMNT World Cup Player Ratings: Malik Tillman thrives; Folarin Balogun stars despite red card as USA advance",
+      "summary": "The Americans won their first World Cup knockout stage game in 24 years, and they did it in style on Wednesday night, overcoming a red card to win 2-0",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T02:42:40.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-player-ratings-malik-tillman-folarin-balogun-red-card-usa/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
@@ -715,17 +726,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/136097/buffalo-bills-honoring-select-group-of-all-time-greats-inside-new-highmark-stadium"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-leave-their-base-camp-irvine-isolated-from-world-cup-fever/",
-      "team": "usmnt",
-      "title": "USMNT leave their base camp in Irvine, a pocket of the U.S. isolated from World Cup fever",
-      "summary": "The USMNT have found pristine pitches and peaceful preparation in Southern California, but the suburban bubble of Irvine is missing any real signs of World Cup fever",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T17:24:18.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-leave-their-base-camp-irvine-isolated-from-world-cup-fever/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/133597/every-buffalo-bills-mandalorian-needs-a-blaster",
       "team": "bills",
       "title": "Every Buffalo Bills Mandalorian needs a blaster",
@@ -880,6 +880,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value"
     },
     {
+      "id": "espn-sabres::49189811",
+      "team": "sabres",
+      "title": "2026 NHL draft updates: 7-round, 32-team pick tracker",
+      "summary": "The draft is complete. Here's a list of every selection, including detailed analysis for the top 32.",
+      "source": "ESPN · Rachel Kryshak",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-27T23:33:12Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49189811/2026-nhl-draft-pick-tracker-live-updates-analysis-32-teams-7-rounds-scouting-notes"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension",
       "team": "usmnt",
       "title": "Report: U.S. Soccer offers Mauricio Pochettino contract extension",
@@ -1010,6 +1021,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-24T22:17:28.000Z",
       "link": "https://www.diebytheblade.com/sabres-trade-alex-tuch-capitals-third-round-draft-pick-contract-signed/"
+    },
+    {
+      "id": "espn-bills::49153923",
+      "team": "bills",
+      "title": "2026 NFL contract extension updates for all 32 teams",
+      "summary": "Our reporters have the latest buzz on 32 contract extension candidates -- one from every team -- and their potential new deals.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-24T19:45:07Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49153923/2026-nfl-contract-extensions-signings-negotiations-all-32-teams"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265674-if-there-was-a-first-song-to-be-played-at-the-new-stadium-what-song-would-you-like-it-to-be/",
