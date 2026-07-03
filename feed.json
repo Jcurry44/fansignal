@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T14:51:19.410Z",
+  "generatedAt": "2026-07-03T16:27:41.739Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 5,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,37 +176,48 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44740/2026-world-cup-round-of-32-matchday-6-match-thread-and-discussion",
       "team": "usmnt",
-      "title": "How will the USMNT cope without suspended star str...",
-      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "title": "2026 World Cup, Round of 32 Matchday 6: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-03T15:09:26.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium"
+      "publishedAt": "2026-07-03T14:20:31.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44740/2026-world-cup-round-of-32-matchday-6-match-thread-and-discussion"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed",
-      "team": "usmnt",
-      "title": "USMNT shows it can play ugly, which is exactly wha...",
-      "summary": "Play pretty? Fine. Play nasty? No problem. This USMNT has the tools to deal with every situation, which is handy as it faces Belgium next without its top scorer.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136169/buffalo-bills-2026-scouting-report-dt-dewayne-carter",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report DT DeWayne Carter",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-03T15:09:26.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed"
+      "publishedAt": "2026-07-03T14:11:08.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136169/buffalo-bills-2026-scouting-report-dt-dewayne-carter"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources",
-      "team": "usmnt",
-      "title": "Sources: USMNT cannot appeal Balogun red card",
-      "summary": "The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources have told ESPN, and he could face an extended ban.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 training camp position battle primer: QB, RB, OL",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-03T15:09:04.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources"
+      "publishedAt": "2026-07-03T14:11:03.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/134096/buffalo-beskar-part-7-is-simple-better",
+      "team": "bills",
+      "title": "Buffalo Beskar, Part 7: Is simple, better?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-03T13:46:46.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/134096/buffalo-beskar-part-7-is-simple-better"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/",
@@ -218,17 +229,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-03T13:15:38.000Z",
       "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49252206/messi-balogun-why-two-tackles-sparked-world-cup-outrage",
-      "team": "usmnt",
-      "title": "Messi, Balogun and why two tackles have sparked Wo...",
-      "summary": "U.S. international Folarin Balogun and Argentina's Lionel Messi were at the center of controversy after similar incidents produced opposite outcomes.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-03T08:04:32.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49252206/messi-balogun-why-two-tackles-sparked-world-cup-outrage"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265736-for-those-looking-for-tix-to-bills-home-games/",
@@ -251,28 +251,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-02T21:25:52.000Z",
       "link": "https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-      "team": "usmnt",
-      "title": "Do Brazil have a plan? One big question for every ...",
-      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win without their suspended star striker, Folarin Balogun?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T19:36:56.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 training camp position battle primer: QB, RB, OL",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T19:12:25.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-sidan-mcdonough-to-two-way-contract-matthew-peca-inks-ahl-deal-with-rochester/",
@@ -682,17 +660,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136173/buffalo-bills-2026-scouting-report-ls-reid-ferguson"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136051/bills-news-expectations-for-buffalos-rookies",
-      "team": "bills",
-      "title": "Bills news: Expectations for Buffalo’s rookies",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T13:32:55.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136051/bills-news-expectations-for-buffalos-rookies"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265723-has-anyone-ever-had-a-bad-stubhub-experience/",
       "team": "bills",
       "title": "Has anyone ever had a bad StubHub experience?",
@@ -759,17 +726,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T18:42:44.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
       "team": "bills",
       "title": "Bills announce 2026 high school girls flag football Coaches of the Year",
@@ -790,17 +746,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T17:56:33.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/44688/2026-world-cup-previewing-usa-vs-bosnia-herzegovina"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135509/plays-that-defined-2025-buffalo-bills-at-miami-dolphins-week-10",
-      "team": "bills",
-      "title": "Plays That Defined 2025: Buffalo Bills at Miami Dolphins, Week 10",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T15:40:49.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135509/plays-that-defined-2025-buffalo-bills-at-miami-dolphins-week-10"
     },
     {
       "id": "espn-bills::49147104",
