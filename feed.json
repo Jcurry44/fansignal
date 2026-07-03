@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T03:35:56.081Z",
+  "generatedAt": "2026-07-03T06:50:32.864Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 5,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,28 +176,6 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources",
-      "team": "usmnt",
-      "title": "Sources: USMNT cannot appeal Balogun red card",
-      "summary": "The USMNT has no route to appeal Folarin Balogun's red card against Bosnia and Herzegovina, sources have told ESPN, and he could face an extended ban.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-03T03:57:41.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49248052/usmnt-cannot-appeal-folarin-balogun-red-card-face-extended-world-cup-ban-sources"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49252206/messi-balogun-why-two-tackles-sparked-world-cup-outrage",
-      "team": "usmnt",
-      "title": "Messi, Balogun and why two tackles have sparked Wo...",
-      "summary": "U.S. international Folarin Balogun and Argentina's Lionel Messi were at the center of controversy after similar incidents produced opposite outcomes.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-03T00:33:51.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49252206/messi-balogun-why-two-tackles-sparked-world-cup-outrage"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265736-for-those-looking-for-tix-to-bills-home-games/",
       "team": "bills",
       "title": "For Those Looking for Tix to Bills Home Games...",
@@ -207,17 +185,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-02T22:39:01.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265736-for-those-looking-for-tix-to-bills-home-games/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed",
-      "team": "usmnt",
-      "title": "Copy of USMNT shows it can play ugly, which is exactly wha...",
-      "summary": "Play pretty? Fine. Play nasty? No problem. This USMNT has the tools to deal with every situation, which is handy as it faces Belgium next without its top scorer.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T22:13:44.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49245810/usmnt-shows-play-ugly-world-cup-which-exactly-needs-succeed"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/",
@@ -231,26 +198,15 @@
       "link": "https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/48953200/usmnt-usa-world-cup-scenarios-bracket-permutations-qualify-betting-odds-projections-predictions",
-      "team": "usmnt",
-      "title": "USMNT World Cup scenarios and path: How far can th...",
-      "summary": "Who will Team USA face in the World Cup knockout rounds? What's the likely path? What are the odds? What do projection models say?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 training camp position battle primer: QB, RB, OL",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-02T19:37:22.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/48953200/usmnt-usa-world-cup-scenarios-bracket-permutations-qualify-betting-odds-projections-predictions"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-      "team": "usmnt",
-      "title": "Do Brazil have a plan? One big question for every ...",
-      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win without their suspended star striker, Folarin Balogun?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T19:36:56.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon"
+      "publishedAt": "2026-07-02T19:12:25.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-sidan-mcdonough-to-two-way-contract-matthew-peca-inks-ahl-deal-with-rochester/",
@@ -262,6 +218,50 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-02T18:53:31.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-sign-sidan-mcdonough-to-two-way-contract-matthew-peca-inks-ahl-deal-with-rochester/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136239/who-will-lead-the-bills-in-sacks-at-2026-seasons-end",
+      "team": "bills",
+      "title": "Who will lead the Bills in sacks at 2026 season’s end?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T17:09:26.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136239/who-will-lead-the-bills-in-sacks-at-2026-seasons-end"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136125/josh-allen-is-qb1-in-espns-consensus-2026-fantasy-football-rankings",
+      "team": "bills",
+      "title": "Josh Allen is QB1 in ESPN’s consensus 2026 fantasy football rankings",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T17:06:20.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136125/josh-allen-is-qb1-in-espns-consensus-2026-fantasy-football-rankings"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44712/10-man-usa-gets-round-of-32-win-over-bosnia-and-herzegovina",
+      "team": "usmnt",
+      "title": "10-man USA gets Round of 32 win over Bosnia and Herzegovina",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T16:26:16.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44712/10-man-usa-gets-round-of-32-win-over-bosnia-and-herzegovina"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44706/usa-vs-bosnia-and-herzegovina-2026-world-cup-community-player-ratings",
+      "team": "usmnt",
+      "title": "USA vs. Bosnia and Herzegovina, 2026 World Cup: Community player ratings",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T15:08:08.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44706/usa-vs-bosnia-and-herzegovina-2026-world-cup-community-player-ratings"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/folarin-balogun-red-card-suspension-usmnt-appeal-world-cup-round-of-16/",
@@ -297,6 +297,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/49243575/frederik-andersen-edmonton-oilers-agree-one-year-deal"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136165/buffalo-bills-2026-scouting-report-wr-stephen-gosnell",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: WR Stephen Gosnell",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T12:01:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136165/buffalo-bills-2026-scouting-report-wr-stephen-gosnell"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-make-depth-signings-day-one-free-agency-gilbert-sheary/",
       "team": "sabres",
       "title": "Sabres make depth signings on Day One of Free Agency",
@@ -306,6 +317,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-02T11:56:44.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-make-depth-signings-day-one-free-agency-gilbert-sheary/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136260/dj-moore-keeps-giving-buffalo-bills-fans-reasons-to-embrace-him-before-week-1",
+      "team": "bills",
+      "title": "DJ Moore keeps giving Buffalo Bills fans reasons to embrace him before Week 1",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T11:48:15.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136260/dj-moore-keeps-giving-buffalo-bills-fans-reasons-to-embrace-him-before-week-1"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-trade-away-goalie-devon-levi-to-edmonton-oilers/",
@@ -429,17 +451,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-re-sign-trevor-kuntar-ink-conor-sheary-in-free-agency/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136239/who-will-lead-the-bills-in-sacks-at-2026-seasons-end",
-      "team": "bills",
-      "title": "Who will lead the Bills in sacks at 2026 season’s end?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T19:06:53.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136239/who-will-lead-the-bills-in-sacks-at-2026-seasons-end"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136104/bills-josh-allen-continues-dominating-best-current-nfl-qb-debates",
       "team": "bills",
       "title": "Bills’ Josh Allen continues dominating “best current NFL QB” debates",
@@ -449,6 +460,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T18:54:15.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136104/bills-josh-allen-continues-dominating-best-current-nfl-qb-debates"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44701/2026-world-cup-round-of-32-matchday-5-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Round of 32 Matchday 5: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T18:45:35.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44701/2026-world-cup-round-of-32-matchday-5-match-thread-and-discussion"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-trade-goalie-devon-levi-to-oilers/",
@@ -583,17 +605,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-vs-bosnia-and-herzegovina-live-stream-fifa-world-cup-predictions-lineups/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Round of 32 Matchday 4: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T14:54:13.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44691/2026-world-cup-round-of-32-matchday-4-match-thread-and-discussion"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-harry-kane-christian-pulisic-among-wednesdays-best-bets/",
       "team": "usmnt",
       "title": "Free 2026 World Cup anytime goalscorer picks, odds: Harry Kane, Christian Pulisic among Wednesday's best bets",
@@ -704,28 +715,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/",
-      "team": "bills",
-      "title": "Some interesting stats from the Bills 2025 season",
-      "summary": "Allen was nearly perfect when throwing to Jackson Hawes or Dalton Kincaid\n\n\n\n\t\n\t\n\t\n\t\n\tAllen was at his worst when targeting Keion Coleman or Jordan Palmer\n\t\n\t\n\n\n\n\t\n\t\n\tGoodness gracious, look at the first drive EPA\n\t\n\t\n\n\n\n\t\n\t\n\tIt's specifically Drive 1 that's elite, then Drive 2 is still strong (0.223), then Drive 3 craters to -0.137.\n\t\n\t\n\t\n\tBills got penalized more\n\t\n\t\n\t\n\t\n\t\n\tWe played our best in freezing weather\n\t\n\t\n\t\n\tBills have been middle of the pack in challenge success rate the past 3 years\n\t\n\t\n\t\n\tOur EPA was best in the division on every down except for 1st down\n\t\n\t\n\t\n\tOur team effeciency was one of the best in the NFL from a scatterplot view (unfortunately the Patriots were even better)\n\t\n\t\n\t\n\tBecause Josh Allen is a freak of nature, our probability of scoring a TD barely changes depending where on the field we are\n\t\n\t\n\t\n\tCompare that to the average opponent offense, which like you would expect, has an increase in TD probability as they get closer to the goal\n\t\n\t\n\n\n\n\tSome other standout stuff:\n\t \n\n\n\n\t* Allen was better under center in 2025 ... 0.233 EPA vs 0.205 in shotgun, and only 1 INT vs 11. Similar comp% but way fewer turnovers. Digging deeper, under center is better mainly just because of INTs, not overall passing effieicny. Pass EPA is similar (0.233 vs 0.205), but Allen threw 11 INTs from shotgun and only 1 under center. The shotgun INTs happen at avg 8.4 yards to go, down 4.5 points, mid-game (qtr 2.7). \n\n\n\n\t \n\n\n\n\t* Allen is elite in desperation mode. Down 15+.... 0.321 EPA, 61.5% pass rate, 6 TDs. Allen is genuinely elite in desperation mode. The weird one is Up 4-7: negative EPA (-0.105). In the same vein, 4th quarter explosive passes doubled. 29 plays of 20+ yards in Q4 vs 14-15 in other quarters. Averaging 30.2 yards. \n\n\n\n\t\n\t* We were better when trailing (they play their worst football with a one-score lead) - 0.169 EPA trailing vs 0.062 leading. This has some confounding to it, but pass rate jumps to 53.2% when behind. They played conservative with leads and it hurt them.\n\n\n\n\t\n\t* No-huddle is terrible - negative EPA (-0.051) vs 0.126 in huddle. Only 72 plays so small sample, but not good.\n\n\n\n\t \n\n\n\n\t* Deep passes are the defensive weakness. 41.1% completion allowed on deep balls but 0.430 EPA.\n\n\n\n\t \n\n\n\n\t* Kincaid is the most efficient receiver by a mile - 0.818 EPA, 6.1 YAC, 7 TDs on 61 targets. Shakir has the volume (118 targets) but way lower efficiency (0.125 EPA).\n\n\n\n\t \n\n\n\n\t*3rd down conversion 42.4% vs league 36% \n\t \n\n\n\n\t* Run game: guards > ends > tackles - guard runs most efficient at 0.132 EPA, tackle runs slightly negative.\n\n\n\n\t\n\t\n\n\n\n\t \n\n\n\n\t\n\t\n\tIdea so you can re-create:",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T21:45:17.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T18:42:44.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
       "team": "bills",
       "title": "Bills announce 2026 high school girls flag football Coaches of the Year",
@@ -823,61 +812,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T12:43:14.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44681/usa-vs-bosnia-herzegovina-2026-world-cup-time-tv-schedule-streaming-and-lineups"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136037/buffalo-bills-2026-scouting-report-c-og-connor-mcgovern",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: C/OG Connor McGovern",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T12:00:35.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136037/buffalo-bills-2026-scouting-report-c-og-connor-mcgovern"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44677/usa-vs-turkiye-2026-world-cup-man-of-the-match",
-      "team": "usmnt",
-      "title": "USA vs. Türkiye, 2026 World Cup: Man of the Match",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T03:25:27.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44677/usa-vs-turkiye-2026-world-cup-man-of-the-match"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136033/bills-mafia-define-buffalos-biggest-roster-concern-in-2026",
-      "team": "bills",
-      "title": "Bills Mafia define Buffalo’s biggest roster concern in 2026",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T20:55:45.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136033/bills-mafia-define-buffalos-biggest-roster-concern-in-2026"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136097/buffalo-bills-honoring-select-group-of-all-time-greats-inside-new-highmark-stadium",
-      "team": "bills",
-      "title": "Buffalo Bills honoring select group of all-time greats inside new Highmark Stadium",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T20:43:23.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136097/buffalo-bills-honoring-select-group-of-all-time-greats-inside-new-highmark-stadium"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/133597/every-buffalo-bills-mandalorian-needs-a-blaster",
-      "team": "bills",
-      "title": "Every Buffalo Bills Mandalorian needs a blaster",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T17:19:04.000Z",
-      "link": "https://www.buffalorumblings.com/general/133597/every-buffalo-bills-mandalorian-needs-a-blaster"
     },
     {
       "id": "espn-sabres::49206272",
@@ -1021,17 +955,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-28T02:21:16Z",
       "link": "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension",
-      "team": "usmnt",
-      "title": "Report: U.S. Soccer offers Mauricio Pochettino contract extension",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-27T20:47:36.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44629/report-u-s-soccer-offers-mauricio-pochettino-contract-extension"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44643/2026-world-cup-round-of-32-matchday-2-match-thread-and-discussion",
@@ -1353,15 +1276,26 @@
       "link": "https://www.twobillsdrive.com/community/topic/265384-johnny-manziel-fights-social-media-star-in-vegas/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265051-matt-miller%E2%80%99s-7-round-mock/",
       "team": "bills",
-      "title": "Vrabel and Russini cheating on their spouses together ? Rumor",
-      "summary": "Will the NFL investigate adultery - gate?",
+      "title": "Matt Miller’s 7 Round Mock",
+      "summary": "For my money, Miller is the best in the business. Here’s his latest 7 round mock:\n\n\n\n\t \n\n\n\n\thttps://www.espn.com/nfl/draft2026/story/_/id/48299038/2026-nfl-mock-draft-seven-rounds-257-picks-projections-matt-miller\n\t \n\n\n\n\tBills picks:\n\n\n\n\t26 - Omar Cooper - WR - Indiana\n\n\n\n\t91 - Derrick Moore - Edge - Michigan\n\n\n\n\t126. Devin Moore - CB - Florida\n\n\n\n\t165. Billy Schrauth - G - ND\n\n\n\n\t168. Xavian Sorey Jr. - LB - Arkansas\n\n\n\n\t182. Nadame Tucker - Edge - Western Michigan\n\n\n\n\t220. Dalton Johnson - S - Arizona\n\n\n\n\t \n\n\n\n\tMy biggest takeaway is that the Bills are adding a lot of guys named Moore this offseason.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-04-08T01:53:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
+      "publishedAt": "2026-03-30T13:32:33.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265051-matt-miller%E2%80%99s-7-round-mock/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/",
+      "team": "bills",
+      "title": "REPORT: 49ers to release Aiyuk",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2025-11-21T23:51:05.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/"
     }
   ]
 }
