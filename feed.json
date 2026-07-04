@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T04:52:24.171Z",
+  "generatedAt": "2026-07-04T07:49:40.336Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 4,
       "error": null
     },
     {
@@ -175,6 +175,50 @@
     }
   ],
   "stories": [
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
+      "team": "usmnt",
+      "title": "Can the U.S. win without Balogun? One big question...",
+      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win without their suspended star striker, Folarin Balogun?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T08:05:33.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb",
+      "team": "usmnt",
+      "title": "⚾ Poch latest WC star to throw out first pitch",
+      "summary": "U.S. coach Mauricio Pochettino was the latest soccer star to throw the first pitch at an MLB game this summer. How did he and he fellow footballers do?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T08:02:01.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster",
+      "team": "usmnt",
+      "title": "U.S.'s Balogun on ban: 'Emotional rollercoaster'",
+      "summary": "USMNT forward Folarin Balogun said that he's been on an emotional \"roller coaster\" in the wake of his sending off against Bosnia-Herzegovina on Wednesday, but he intends to \"support the boys\" as the team prepares to play Belgium in the round of 16.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T08:01:34.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
+      "team": "usmnt",
+      "title": "How will the USMNT cope without suspended star str...",
+      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T02:43:28.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium"
+    },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136342/buffalo-bills-2026-return-of-the-blue-red-exclusive-to-season-ticket-holders",
       "team": "bills",
@@ -682,6 +726,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
     },
     {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
+      "team": "sabres",
+      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
+      "summary": "Now that all the selections have been made, what stands out the most?",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T18:42:44.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
       "team": "bills",
       "title": "Bills announce 2026 high school girls flag football Coaches of the Year",
@@ -768,6 +823,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T12:43:14.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44681/usa-vs-bosnia-herzegovina-2026-world-cup-time-tv-schedule-streaming-and-lineups"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/",
+      "team": "bills",
+      "title": "Red vs Blue Scrimmage Tickets ???",
+      "summary": "Has anyone heard when these are going to be made available for the season ticket holders yet?  \n\t \n\n\n\n\tAlso, has anyone heard if the season ticket holders don’t want theirs, if they’ll be available to the public?   \n\t \n\n\n\n\tI need one more, as I’m trying to bring my gf.  We already have four from our seasons.   Don’t care where the seat is, as I’ll probably spend the entire time walking around and taking pictures. Just need entry.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T00:37:13.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/"
     },
     {
       "id": "espn-sabres::49206272",
@@ -988,17 +1054,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-25T03:03:59.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265674-if-there-was-a-first-song-to-be-played-at-the-new-stadium-what-song-would-you-like-it-to-be/",
-      "team": "bills",
-      "title": "If There Was a First Song to be Played at the New Stadium What Song Would You Like it to Be ?",
-      "summary": "So the Bills will be opening their new home Highmark Stadium this season & I was wondering what song would you all think should be fitting for the very first jam on their brand new Kick A** sound system with the Mafia on hand ? \n\n\n\n\t \n\n\n\n\tOf course one of the all time favorite sayings that is bound to be used is the Marvism \"Where would you rather be than right here - Right now\" So I thought if they could incorporate this song with that Marvism it would be fitting .\n\n\n\n\t \n\n\n\n\tI know we have had other posts in the past of songs that we felt should be played when the team comes on the field & such but this one I would like to keep just a bit different ! Lets keep this one to something to do about a new start, a new home, Starting over, something of that sort . But it's got to rock, no slushy love song type songs  this is the Bills new home so lets start it by blowing the top of the place .\n\n\n\n\t \n\n\n\n\tI love the intro to this song which could be playing in the back ground with the stadium lights doing some cool type of visual thing to match the piano riff while someone was doing a introduction of sorts like \"where else would you rather be than Right here (then BANG the lyrics & fans come in) - RIGHT NOW !!! Jam on !!\n\n\n\n\t \n\n\n\n\tThen of course at the end fire works  all around the canopy !! \n\n\n\n\t \n\n\n\n\tSo give out some ideas as far as the song but remember keep it on the subject of something new as I said in the previous sentence ... \n\n\n\n\t \n\n\n\n\tWhat say you Mafia ???",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-24T19:30:19.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265674-if-there-was-a-first-song-to-be-played-at-the-new-stadium-what-song-would-you-like-it-to-be/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony",
