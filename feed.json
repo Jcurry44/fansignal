@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T01:08:46.330Z",
+  "generatedAt": "2026-07-04T04:52:24.171Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 10,
+      "itemCount": 9,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Fri 10:10 PM",
+      "headline": "Sat 4:10 PM",
       "detail": "at SEA"
     },
     {
@@ -175,17 +175,6 @@
     }
   ],
   "stories": [
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster",
-      "team": "usmnt",
-      "title": "U.S.'s Balogun on ban: 'Emotional rollercoaster'",
-      "summary": "USMNT forward Folarin Balogun said that he's been on an emotional \"roller coaster\" in the wake of his sending off against Bosnia-Herzegovina on Wednesday, but he intends to \"support the boys\" as the team prepares to play Belgium in the round of 16.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-04T01:53:16.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster"
-    },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136342/buffalo-bills-2026-return-of-the-blue-red-exclusive-to-season-ticket-holders",
       "team": "bills",
@@ -198,17 +187,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/136342/buffalo-bills-2026-return-of-the-blue-red-exclusive-to-season-ticket-holders"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-      "team": "usmnt",
-      "title": "Can the U.S. win without Balogun? One big question...",
-      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win without their suspended star striker, Folarin Balogun?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-03T21:11:55.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-fifa-one-game-world-cup-red-card-ban/",
       "team": "usmnt",
       "title": "USMNT's Folarin Balogun reacts as FIFA confirms one game World Cup red card ban: 'It's been a rollercoaster'",
@@ -218,17 +196,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-03T19:58:57.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-fifa-one-game-world-cup-red-card-ban/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
-      "team": "usmnt",
-      "title": "How will the USMNT cope without suspended star str...",
-      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-03T19:53:51.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/prospect-prokhor-poltapov-could-be-swiss-army-knife-for-sabres/",
@@ -627,17 +594,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-sign-buffalos-dennis-gilbert-in-free-agency/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/bosnia-esmir-bajraktarevic-former-usmnt-player-world-cup-round-of-32-2026/",
-      "team": "usmnt",
-      "title": "Meet Bosnia's Esmir Bajraktarevic, the former USMNT player who will face his old team in World Cup round of 32",
-      "summary": "Born in Wisconsin, he played for the United States men's national team once in 2024 and is a club teammate of Ricardo Pepi and Sergino Dest at PSV",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T17:28:18.000Z",
-      "link": "https://www.cbssports.com/soccer/news/bosnia-esmir-bajraktarevic-former-usmnt-player-world-cup-round-of-32-2026/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-newcomer-olen-zellweger-to-three-year-contract/",
       "team": "sabres",
       "title": "Sabres sign newcomer Olen Zellweger to three-year contract",
@@ -724,17 +680,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T23:16:55Z",
       "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
-      "team": "sabres",
-      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
-      "summary": "Now that all the selections have been made, what stands out the most?",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T18:42:44.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
@@ -1034,17 +979,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265684-the-view-from-patriots-wire/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265681-barnwell-ranks-offensive-playmakers-outside-of-qb/",
-      "team": "bills",
-      "title": "Barnwell ranks offensive playmakers outside of QB",
-      "summary": "Even as someone that has been down on the group, this feels too low: https://www.espn.com/nfl/story/_/id/49154825/ranking-nfl-teams-offensive-groups-wr-rb-te-2026-season-best-playmakers\n\n\n\n\t \n\n\n\n\tDo with this what you will…",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T14:06:57.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265681-barnwell-ranks-offensive-playmakers-outside-of-qb/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/",
       "team": "bills",
       "title": "Lions CB Terrion Arnold facing multiple felony charges - potential life in prison",
@@ -1318,6 +1252,17 @@
       "sourceCount": 1,
       "publishedAt": "2025-11-21T23:51:05.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
+      "team": "bills",
+      "title": "Stadium Construction Discussion (No PSL/Seat selection posts)",
+      "summary": "https://www.buffalobills.com/news/construction-on-new-bills-stadium-to-begin-immediately",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2023-05-04T18:27:11.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/"
     }
   ]
 }
