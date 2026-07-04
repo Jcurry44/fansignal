@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T14:52:23.432Z",
+  "generatedAt": "2026-07-04T16:06:09.252Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 4,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 8,
+      "itemCount": 5,
       "error": null
     },
     {
@@ -176,6 +176,83 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb",
+      "team": "usmnt",
+      "title": "⚾ Pochettino is latest WC star to throw first pitc...",
+      "summary": "U.S. coach Mauricio Pochettino was the latest soccer star to throw the first pitch at an MLB game this summer. How did he and he fellow footballers do?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T15:32:59.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136323/bills-news-what-is-dj-moores-ceiling-in-buffalos-offense",
+      "team": "bills",
+      "title": "Bills news: What is DJ Moore’s ceiling in Buffalo’s offense?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T15:32:50.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136323/bills-news-what-is-dj-moores-ceiling-in-buffalos-offense"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster",
+      "team": "usmnt",
+      "title": "U.S.'s Balogun on ban: 'Emotional rollercoaster'",
+      "summary": "USMNT forward Folarin Balogun said that he's been on an emotional \"roller coaster\" in the wake of his sending off against Bosnia-Herzegovina on Wednesday, but he intends to \"support the boys\" as the team prepares to play Belgium in the round of 16.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T15:31:23.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/world-cup-2026-content/44723/usa-vs-belgium-2026-world-cup-scouting-belgium",
+      "team": "usmnt",
+      "title": "USA vs. Belgium, 2026 World Cup: Scouting Belgium",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T15:24:19.000Z",
+      "link": "https://www.starsandstripesfc.com/world-cup-2026-content/44723/usa-vs-belgium-2026-world-cup-scouting-belgium"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136316/buffalo-bills-2026-scouting-report-rb-ian-wheeler",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: RB Ian Wheeler",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T14:50:47.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136316/buffalo-bills-2026-scouting-report-rb-ian-wheeler"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
+      "team": "usmnt",
+      "title": "How will the USMNT cope without suspended star str...",
+      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T14:46:28.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
+      "team": "usmnt",
+      "title": "Can the U.S. win without Balogun? One big question...",
+      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T13:57:10.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-add-goalie-depth-for-rochester-by-signing-matt-villalta/",
       "team": "sabres",
       "title": "Sabres add goalie depth for Rochester by signing Matt Villalta",
@@ -207,6 +284,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-04T09:25:04.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265739-happy-4th-of-july-all/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44737/2026-world-cup-round-of-16-matchday-1-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Round of 16 Matchday 1: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T08:19:55.000Z",
+      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44737/2026-world-cup-round-of-16-matchday-1-match-thread-and-discussion"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136342/buffalo-bills-2026-return-of-the-blue-red-exclusive-to-season-ticket-holders",
@@ -350,17 +438,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-02T22:39:01.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265736-for-those-looking-for-tix-to-bills-home-games/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136239/who-will-lead-the-bills-in-sacks-at-2026-seasons-end",
-      "team": "bills",
-      "title": "Who will lead the Bills in sacks at 2026 season’s end?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T17:09:26.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136239/who-will-lead-the-bills-in-sacks-at-2026-seasons-end"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136125/josh-allen-is-qb1-in-espns-consensus-2026-fantasy-football-rankings",
@@ -517,17 +594,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-did-due-diligence-before-hiring-milan-lucic-for-scouting-job/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-player-ratings-malik-tillman-folarin-balogun-red-card-usa/",
-      "team": "usmnt",
-      "title": "USMNT World Cup Player Ratings: Malik Tillman thrives; Folarin Balogun stars despite red card as USA advance",
-      "summary": "The Americans won their first World Cup knockout stage game in 24 years, and they did it in style on Wednesday night, overcoming a red card to win 2-0",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T02:42:40.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-player-ratings-malik-tillman-folarin-balogun-red-card-usa/"
-    },
-    {
       "id": "espn-bills::49243495",
       "team": "bills",
       "title": "Did the Bills do enough at wide receiver this offseason?",
@@ -539,17 +605,6 @@
       "link": "https://www.espn.com/video/clip/_/id/49243495/did-bills-do-enough-wide-receiver-offseason"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-to-advance-usa-vs-bosnia-and-herzegovina-predictions-soccer-best-bets/",
-      "team": "usmnt",
-      "title": "2026 World Cup picks, odds: USA vs. Bosnia and Herzegovina predictions, best bets by expert on 25-15 run",
-      "summary": "SportsLine's Jon Eimer reveals his USMNT vs. Bosnia and Herzegovina best bets for the FIFA World Cup 2026 match as the Round of 32 continues on Wednesday",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T22:45:31.000Z",
-      "link": "https://www.cbssports.com/soccer/news/2026-world-cup-picks-odds-to-advance-usa-vs-bosnia-and-herzegovina-predictions-soccer-best-bets/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-re-sign-trevor-kuntar-ink-conor-sheary-in-free-agency/",
       "team": "sabres",
       "title": "Sabres re-sign Trevor Kuntar, ink Conor Sheary in free agency",
@@ -559,17 +614,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T20:29:04.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-re-sign-trevor-kuntar-ink-conor-sheary-in-free-agency/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136104/bills-josh-allen-continues-dominating-best-current-nfl-qb-debates",
-      "team": "bills",
-      "title": "Bills’ Josh Allen continues dominating “best current NFL QB” debates",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T18:54:15.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136104/bills-josh-allen-continues-dominating-best-current-nfl-qb-debates"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44701/2026-world-cup-round-of-32-matchday-5-match-thread-and-discussion",
@@ -858,17 +902,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-6-29/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/world-cup-2026-content/44605/usa-vs-bosnia-and-herzegovina-2026-world-cup-scouting-bosnia-and-herzegovina",
-      "team": "usmnt",
-      "title": "USA vs. Bosnia and Herzegovina, 2026 World Cup: Scouting Bosnia and Herzegovina",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T00:37:53.000Z",
-      "link": "https://www.starsandstripesfc.com/world-cup-2026-content/44605/usa-vs-bosnia-and-herzegovina-2026-world-cup-scouting-bosnia-and-herzegovina"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265697-if-you-werent-thrilled-about-the-brady-hire-as-hc-do-you-feel-any-better-about-it-now/",
       "team": "bills",
       "title": "If you weren't thrilled about the Brady hire as HC do you feel any better about it now?",
@@ -922,17 +955,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-28T02:21:16Z",
       "link": "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44643/2026-world-cup-round-of-32-matchday-2-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Round of 32 Matchday 2: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-27T20:46:31.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44643/2026-world-cup-round-of-32-matchday-2-match-thread-and-discussion"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/2026-nhl-draft-how-to-watch-draft-order-rounds-2-7-open-thread-buffalo-sabres/",
