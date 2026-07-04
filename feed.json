@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T23:19:03.743Z",
+  "generatedAt": "2026-07-04T01:08:46.330Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -176,6 +176,39 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster",
+      "team": "usmnt",
+      "title": "U.S.'s Balogun on ban: 'Emotional rollercoaster'",
+      "summary": "USMNT forward Folarin Balogun said that he's been on an emotional \"roller coaster\" in the wake of his sending off against Bosnia-Herzegovina on Wednesday, but he intends to \"support the boys\" as the team prepares to play Belgium in the round of 16.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T01:53:16.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49260630/usmnt-folarin-balogun-red-card-ban-belgium-emotional-rollercoaster"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136342/buffalo-bills-2026-return-of-the-blue-red-exclusive-to-season-ticket-holders",
+      "team": "bills",
+      "title": "Buffalo Bills’ “Return of the Blue & Red” now exclusive to season-ticket holders",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-03T21:29:23.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136342/buffalo-bills-2026-return-of-the-blue-red-exclusive-to-season-ticket-holders"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
+      "team": "usmnt",
+      "title": "Can the U.S. win without Balogun? One big question...",
+      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win without their suspended star striker, Folarin Balogun?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-03T21:11:55.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-fifa-one-game-world-cup-red-card-ban/",
       "team": "usmnt",
       "title": "USMNT's Folarin Balogun reacts as FIFA confirms one game World Cup red card ban: 'It's been a rollercoaster'",
@@ -187,10 +220,21 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-fifa-one-game-world-cup-red-card-ban/"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
+      "team": "usmnt",
+      "title": "How will the USMNT cope without suspended star str...",
+      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-03T19:53:51.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/prospect-prokhor-poltapov-could-be-swiss-army-knife-for-sabres/",
       "team": "sabres",
       "title": "Prospect Prokhor Poltapov could be ‘Swiss Army knife’ for Sabres",
-      "summary": "BUFFALO – After his contract in the Kontinental Hockey League expires next year, the Sabres expect prospect Prokhor Poltapov to come to North America and immediately jump into their lineup.\nWhere could the Russian, a winger the Sabres drafted in the second round in 2021, 33rd overall, fit in?\nTim Kennedy, the Sabres’ new director of player development, worked closely with the Poltapov in his previous role as a development coach. He believes the ... Read the full article \nThe post Prospect Prokhor Poltapov could be ‘Swiss Army knife’ for Sabres first appeared on Buffalo Hockey Beat.",
+      "summary": "BUFFALO – After his contract in the Kontinental Hockey League expires next year, the Sabres expect prospect Prokhor Poltapov to come to North America and immediately jump into their lineup.\nWhere could the Russian, a winger the Sabres drafted in the second round in 2021, 33rd overall, fit in?\nTim Kennedy, the Sabres’ new director of player development, worked closely with Poltapov in his previous role as a development coach. He believes the versatile ... Read the full article \nThe post Prospect Prokhor Poltapov could be ‘Swiss Army knife’ for Sabres first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
@@ -218,6 +262,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-03T18:30:47.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/136220/bills-news-outspoken-safety-out-to-prove-hes-not-a-cancer-in-the-locker-room"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44740/2026-world-cup-round-of-32-matchday-6-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Round of 32 Matchday 6: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-03T14:20:31.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44740/2026-world-cup-round-of-32-matchday-6-match-thread-and-discussion"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136169/buffalo-bills-2026-scouting-report-dt-dewayne-carter",
@@ -264,17 +319,6 @@
       "link": "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265736-for-those-looking-for-tix-to-bills-home-games/",
-      "team": "bills",
-      "title": "For Those Looking for Tix to Bills Home Games...",
-      "summary": "Just check in with Ryan Fitzpatrick. He was on the Rich Eisen show, and said he bought the PSL and 4 seats in the New Highmark. He then said except for the home opener, he's not sure what games he will be able to make. He then joked he would give them away to some deserving Bills fan.\n\n\n\n\tWhen Eisen asked him for his AFC prediction, of course he picked the Bills..now for the 4th consecutive year.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T22:39:01.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265736-for-those-looking-for-tix-to-bills-home-games/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/",
       "team": "sabres",
       "title": "After trade, speedy Olen Zellweger sees opportunity with Sabres",
@@ -282,7 +326,7 @@
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-02T21:25:52.000Z",
+      "publishedAt": "2026-07-03T05:25:52.000Z",
       "link": "https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/"
     },
     {
@@ -293,8 +337,19 @@
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-02T18:53:31.000Z",
+      "publishedAt": "2026-07-03T05:04:31.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-sign-sidan-mcdonough-to-two-way-contract-matthew-peca-inks-ahl-deal-with-rochester/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265736-for-those-looking-for-tix-to-bills-home-games/",
+      "team": "bills",
+      "title": "For Those Looking for Tix to Bills Home Games...",
+      "summary": "Just check in with Ryan Fitzpatrick. He was on the Rich Eisen show, and said he bought the PSL and 4 seats in the New Highmark. He then said except for the home opener, he's not sure what games he will be able to make. He then joked he would give them away to some deserving Bills fan.\n\n\n\n\tWhen Eisen asked him for his AFC prediction, of course he picked the Bills..now for the 4th consecutive year.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T22:39:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265736-for-those-looking-for-tix-to-bills-home-games/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136239/who-will-lead-the-bills-in-sacks-at-2026-seasons-end",
@@ -583,17 +638,6 @@
       "link": "https://www.cbssports.com/soccer/news/bosnia-esmir-bajraktarevic-former-usmnt-player-world-cup-round-of-32-2026/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136172/buffalo-bills-leading-nfl-trend-toward-super-heavy-offensive-personnel",
-      "team": "bills",
-      "title": "Buffalo Bills leading NFL trend toward super-heavy offensive personnel",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T17:24:18.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136172/buffalo-bills-leading-nfl-trend-toward-super-heavy-offensive-personnel"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-newcomer-olen-zellweger-to-three-year-contract/",
       "team": "sabres",
       "title": "Sabres sign newcomer Olen Zellweger to three-year contract",
@@ -680,6 +724,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T23:16:55Z",
       "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades",
+      "team": "sabres",
+      "title": "Winners (Sabres!), losers (Golden Knights!) and su...",
+      "summary": "Now that all the selections have been made, what stands out the most?",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T18:42:44.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49199248/2026-nhl-draft-winners-losers-top-prospects-picks-trades"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
@@ -1232,15 +1287,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/265586-eagles-sign-epenesa/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265384-johnny-manziel-fights-social-media-star-in-vegas/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/",
       "team": "bills",
-      "title": "Johnny Manziel fights \"social media star\" in Vegas",
-      "summary": "Manziel's trajectory since being drafted in the 1st round of the NFL draft in 2014 is a very sad one.\n\n\n\n\t \n\n\n\n\tTo recount (from Wiki):\n\n\n\n\t \n\n\n\n\t\n\t\tOn August 22, 2014, Manziel was fined $12,000 by the NFL for a hand gesture (flipping the bird) that he made in a preseason loss to the Washington Redskins.\n\t\n\t\n\t\t\n\t\t\tManziel was ruled out for the Browns' 2014 regular season finale against the Baltimore Ravens. Manziel's work ethic and commitment were questioned by over 20 sources within the Browns. An anonymous player even called Manziel's rookie season a \"100 percent joke.\"\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn February 4, 2015, Manziel entered a treatment program for unspecified reasons.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn May 30, Manziel was involved in an incident with a heckler at the AT&T Byron Nelson golf tournament. The heckler had been continually asking for an autograph, to the point that Manziel became fed up and threw a water bottle at the man. The water bottle missed the heckler. Security and police were called, but no criminal charges were filed.\n\t\t\n\t\n\t\n\t\t\n\t\t\tIn October 2015, Manziel was pulled over by a policeman after fighting in his car with his then-girlfriend, Colleen Crowley. Although no charges were made, Manziel admitted to having had some alcoholic drinks earlier that afternoon.\n\t\t\n\t\n\t\n\t\t\n\t\t\tManziel was announced as the starting quarterback for the rest of the 2015 season on November 17, however, he was demoted to third-string quarterback behind McCown and Austin Davis after videos surfaced of him partying in Texas over the bye week.\n\t\t\n\t\n\t\n\t\t\n\t\t\tManziel sat out the last game of the 2015 season with a concussion with reports circulating that he was in Las Vegas instead of in Cleveland with the team that weekend. The team confirmed that Manziel missed a scheduled check-in on the morning of the last game of the season. Sports Illustrated's Peter King also added that the Browns are \"so done with Manziel\" and that he \"wants to go to Dallas.\"\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn January 6, 2016, Manziel's marketing agency, LRMR, announced that it would no longer work with Manziel.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn February 5, 2016, the Dallas Police Department announced that they were opening a criminal investigation with a claim of domestic violence involving his ex-girlfriend, Colleen Crowley. Dallas police had originally closed the case, but re-opened it with allegations stemming from an altercation on January 30, 2016, at a downtown Dallas hotel. According to Crowley, Manziel forced her into a car, pulled her by the hair, and threatened to kill both her and himself.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn February 5, Manziel's agent, Erik Burkhardt, announced that he would no longer represent Manziel.\n\t\t\n\t\n\t\n\t\t\n\t\t\tIn early February 2016, NFL Network's Ian Rappaport and ESPN's Pat McManamon reported that the Browns planned to cut ties with Manziel as soon as the league's fiscal 2016 began. The Browns released a statement saying that Manziel's continued disregard of their \"expectations for our players on and off the field\" had undermined the Browns' reputation, and that they intended to address his status \"as soon as permitted by league rules\". Manziel was released by the Browns on March 11, 2016.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn April 19, 2016, after just two months of representing him, agent Drew Rosenhaus terminated Manziel as a client, marking the first time in Rosenhaus' 27-year career he terminated his relationship with an NFL player.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn the same day, Nike ended its sponsorship with Manziel.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn April 24, Manziel was indicted by a Dallas grand jury on misdemeanor assault charges for the January 30, 2016, incident.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn June 24, 2016, Manziel's attorney, Bob Hinton, accidentally sent a lengthy text message to the AP relating to Manziel's defense in his domestic violence case. In the message, Hinton expressed concerns about Manziel's ability to stay clean, saying that he was given a receipt that suggests Manziel spent around $1,000 at The Gas Pipe, a drug paraphernalia store.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn June 30, 2016, he was suspended for the first four games of the 2016 season for violating the NFL's substance abuse policy. On September 5, Manziel returned to his alma mater to take classes.\n\t\t\n\t\n\t\n\t\t\n\t\t\tAfter a year out of football, Manziel had a workout in Buffalo, New York, with the Tiger-Cats, during which he was \"put through a series of physical and medical tests\" from August 23 to 24, 2017. He did not initially sign with the team. On September 2, Manziel's representatives requested a contract offer from the Tiger-Cats. According to CFL rules, the Tiger-Cats then had 10 days to offer Manziel a contract, trade his rights or relinquish his rights...However, the CFL later extended the 10-day window so that the league could \"facilitate a process of evaluation for the player\". Manziel also had a meeting with CFL commissioner Randy Ambrosie in September. On September 27, the CFL announced that Manziel would not be allowed to sign with any CFL team for the 2017 season but would be able to sign with a team for the 2018 season if he met \"certain conditions\".\n\t\t\n\t\n\t\n\t\t\n\t\t\tIn December 2017 Manziel was approved to play in the CFL. He was offered a contract by the Hamilton Tiger-Cats but his returned agent Erik Burkhardt asked that they offer his client a \"fair deal\" and that failure to do so would result in Manziel turning his attention to \"several other professional options\".  Burkhardt insisted that Manziel be paid in the same realm as Tiger-Cats' quarterback Zach Collaros was the previous season; i.e., in the range of $500,000 to $550,000. Subsequently the Tiger-Cats released a statement on February 14 implying they had broken off negotiations with Manziel. The same day, Manziel agreed to play in The Spring League, a non-paying developmental league, for the 2018 season.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn May 19, 2018, Manziel and the Tiger-Cats announced that they had agreed to a two-year contract.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn July 22, 2018 after spending the first six weeks on Hamilton's bench without playing, as backup to Jeremiah Masoli, the Tiger-Cats traded Manziel and offensive linemen Tony Washington and Landon Rice to the Montreal Alouettes for defensive lineman Jamaal Westerman, wide receiver Chris Williams, and Montreal's 2020 and 2021 first-round draft picks.\n\t\t\n\t\n\t\n\t\t\n\t\t\tEntering the 2019 season Manziel was slated to compete with Pipkin and Vernon Adams for the starting role but on February 27 it was revealed that the Alouettes released him on orders from the CFL after league officials determined that he had \"contravened\" the terms of his CFL contract. The CFL also barred him from signing with any other CFL team. Manziel had previously revealed that as part of his agreement with the league, he was required to see a doctor, attend weekly sessions with a therapist, and submit to weekly lithium tests. According to veteran CFL journalist Justin Dunk, the league decided to cut ties with Manziel after he missed a number of mandatory meetings.\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn March 16, 2019, Manziel signed an agreement to join the Alliance of American Football. Under the league's regional allocation process, the San Antonio Commanders had the first opportunity to sign him via his Texas A&M connections, but the Commanders elected to waive his rights. As a result, he was assigned to the 1–5 Memphis Express through the waiver system, as the Express needed a quarterback to replace the injured Zach Mettenberger and the struggling Christian Hackenberg.\n\t\t\n\t\n\t\n\t\t\n\t\t\tManziel made his debut against the Birmingham Iron on March 24, playing three drives in the second and third quarters as a backup to Brandon Silvers. He completed three of five passes for 48 yards, along with running for 20 yards as the Express won 31–25. The next week, in a March 30 game against the Orlando Apollos, Manziel was removed from the game due to a concussion suffered while attempting to make a tackle after throwing an interception.Three days later, the AAF suspended football operations, ending the 2019 season.\n\t\t\n\t\n\t\n\t\t\n\t\t\tWhen asked by TMZ in September 2020 about potentially playing in the XFL, Manziel announced his retirement, stating: \"I think football is a little bit behind me ... Football for me is not at the forefront of my mind.\" He did not completely rule out coming out of retirement, praising incoming co-owner Dwayne Johnson and stating \"Listen, anything 'The Rock' touches is gonna be gold as always.\"\n\t\t\n\t\n\t\n\t\t\n\t\t\tOn December 30, 2020, Manziel signed with Fan Controlled Football (FCF), an indoor American football league. He was assigned to the Zappers, a team co-owned by his friend Bob Menery. In a February 2021 USA Today interview, Manziel stated he joined the league out of boredom, and expressed disinterest in playing any more professional football in the future.\n\t\t\n\t\n\t\n\t\t\n\t\t\tManziel played sparingly for the Zappers and missed the week 3 game due to a dental emergency. He was pulled from the semifinal playoff matchup (a game that featured him reuniting with former Browns teammate Josh Gordon) for poor performance.\n\t\t\n\n\t\t\n\t\t\tOn March 25, 2022, Manziel announced he would return to FCF for a second season, noting that he will serve as a player-coach for the 2022 season and that the FCF did not pressure him to be the face of the league.\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tSince his playing career has ended, Manziel has stated that he's been diagnosed with bipolar disorder. He's also had numerous concussions from football to go along with his well-documented problems with drugs.\n\n\n\n\t \n\n\n\n\tNow he's signed up for a celebrity boxing match against a \"social media star\", Bob Menery in Las Vegas. The fight's being promoted by Brand Risk, the company which promoted fights involving Le'Veon Bell and others.\n\n\n\n\t \n\n\n\n\tSaid his father of him to ESPN in 2016, \"He's a druggie. It's not a secret that he's a druggie. Hopefully, he doesn't die before he comes to his senses. I mean, I hate to say it, but I hope he goes to jail. I mean, that would be the best place for him. I'm doing my job, and I'm going to move on. If I have to bury him, I'll bury him.\"\n\n\n\n\t \n\n\n\n\tI'm a believer in personal responsibility but I also know firsthand that success is often dependent on the love, support, encouragement, and help you receive from others.\n\n\n\n\t \n\n\n\n\tI read stories like this and it makes me wonder about him but also those around him.\n\n\n\n\t \n\n\n\n\tI also realize that some people simply can't be helped.\n\n\n\n\t \n\n\n\n\tI wonder if recovery and redemption are even remotely possible.\n\n\n\n\t \n\n\n\n\t5/24/26 UPDATE:\n\n\n\n\t \n\n\n\n\tTo put the last shovel full of dirt on it...\n\n\n\n\t \n\n\n\n\thttps://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/johnny-manziel-beats-bob-menery-in-battle-of-dad-bods\n\n\n\n\t \n\n\n\n\t\"Former Heisman winner and Browns first-rounder Johnny Manziel made his MMA debut on Saturday, against an influencer named Bob Menery. \n\n\n\n\tManziel won easily. Anyone who spent two minutes and sixteen seconds of their lives watching the fight lost.\n\n\n\n\t \n\n\n\n\tIt was, quite frankly, a Battle of Dad Bods. Two guys with limited skills in a fight that looked like something that broke out at the back end of a barbecue where both had consumed too much brisket and too much beer.\n\n\n\n\t \n\n\n\n\tManziel, a former pro athlete who outweighed Menery by (as Menery claimed after the fight) 30 pounds, seemed to stun Menery early with multiple kicks (including one that almost connected to Menery’s face) before taking Menery down and never letting him get up. Manziel eventually wailed away with blows to the head. At one point, Manziel seemed to be on the verge of deploying the time-honored “stop hitting yourself” technique.\n\n\n\n\t \n\n\n\n\tEventually, the referee stepped in and stopped the madness.\n\n\n\n\t \n\n\n\n\t“I need a cigarette,” Manziel said after the fight.\n\n\n\n\t \n\n\n\n\tAfter watching it, I need a Manhattan.\n\n\n\n\t \n\n\n\n\tManziel said his first MMA fight was likely his last one. That’s the best news of all.\"",
+      "title": "Vrabel and Russini cheating on their spouses together ? Rumor",
+      "summary": "Will the NFL investigate adultery - gate?",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-05-08T19:59:56.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265384-johnny-manziel-fights-social-media-star-in-vegas/"
+      "publishedAt": "2026-04-08T01:53:02.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265051-matt-miller%E2%80%99s-7-round-mock/",
