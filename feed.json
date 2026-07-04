@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T22:11:30.345Z",
+  "generatedAt": "2026-07-04T23:14:49.360Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 4,
       "error": null
     },
     {
@@ -176,6 +176,39 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb",
+      "team": "usmnt",
+      "title": "⚾ Pochettino is latest WC star to throw first pitc...",
+      "summary": "U.S. coach Mauricio Pochettino was the latest soccer star to throw the first pitch at an MLB game this summer. How did he and he fellow footballers do?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-05T00:09:50.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49270695/usmnt-true-representation-america-tim-ream",
+      "team": "usmnt",
+      "title": "Ream: USMNT a 'true representation of America'",
+      "summary": "USMNT defender Tim Ream said the diverse background of the players on the USMNT is \"a true representation of what America is.\"",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-05T00:09:49.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49270695/usmnt-true-representation-america-tim-ream"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
+      "team": "usmnt",
+      "title": "Copy of How will the USMNT cope without suspended star str...",
+      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T20:45:31.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136357/bills-mafia-pick-edge-bradley-chubb-to-lead-buffalo-in-sacks-for-2026-season",
       "team": "bills",
       "title": "Bills Mafia pick EDGE Bradley Chubb to lead Buffalo in sacks for 2026 season",
@@ -229,6 +262,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-04T14:50:47.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136316/buffalo-bills-2026-scouting-report-rb-ian-wheeler"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
+      "team": "usmnt",
+      "title": "Can the U.S. win without Balogun? One big question...",
+      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-04T13:57:10.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-add-goalie-depth-for-rochester-by-signing-matt-villalta/",
