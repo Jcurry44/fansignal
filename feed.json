@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T20:35:59.400Z",
+  "generatedAt": "2026-07-05T21:41:57.635Z",
   "sources": [
     {
       "id": "bills-official",
@@ -139,7 +139,7 @@
       "label": "ESPN NLL",
       "team": "bandits",
       "itemCount": 0,
-      "error": "HTTP 504"
+      "error": null
     }
   ],
   "games": [
@@ -164,8 +164,8 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Sun 5:00 PM",
-      "detail": "at SEA"
+      "headline": "Mon 9:45 PM",
+      "detail": "at SF"
     },
     {
       "team": "usmnt",
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-world-cup-suspension-lifted-belgium/",
+      "team": "usmnt",
+      "title": "USMNT react as Folarin Balogun's World Cup suspension lifted: 'I think a lot of us thought it was AI at first'",
+      "summary": "Balogun was originally due to serve a one game ban for Monday's round of 16 game against Belgium after he picked up a red card in the 2-0 win over Bosnia and Herzegovina",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-05T20:45:40.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-world-cup-suspension-lifted-belgium/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/folarin-balogun-usmnt-world-cup-belgium-fifa-lifts-suspension/",
       "team": "usmnt",
       "title": "Folarin Balogun available for USMNT World Cup round of 16 match vs. Belgium: FIFA lifts red card suspension",
@@ -185,28 +196,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-05T20:04:31.000Z",
       "link": "https://www.cbssports.com/soccer/news/folarin-balogun-usmnt-world-cup-belgium-fifa-lifts-suspension/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-world-cup-suspension-lifted-belgium/",
-      "team": "usmnt",
-      "title": "USMNT react as Folarin Balogun's World Cup suspension lifted: 'I think a lot of us thought it was AI at first'",
-      "summary": "Balogun was originally due to serve a one game ban for Monday's round of 16 game against Belgium after he picked up a red card in the 2-0 win over Bosnia and Herzegovina",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-05T19:03:54.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-world-cup-suspension-lifted-belgium/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136382/91-buffalo-bills-2026-scouting-report-ilb-demetrius-flannigan-fowles",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: ILB Demetrius Flannigan-Fowles",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-05T18:07:10.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136382/91-buffalo-bills-2026-scouting-report-ilb-demetrius-flannigan-fowles"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44743/balogun-available-for-belgium-game-says-fifa",
@@ -220,26 +209,15 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/44743/balogun-available-for-belgium-game-says-fifa"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/134565/buffalo-beskar-part-8-plastic-smithing-a-breastplate",
+      "id": "espn-bills::49268113",
       "team": "bills",
-      "title": "Buffalo Beskar, Part 8: Plastic-smithing a breastplate",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
+      "title": "Jeremy Fowler's takeaways from the top-10 NFL RBs",
+      "summary": "Jeremy Fowler's takeaways from the top-10 NFL RBs",
+      "source": "ESPN",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-05T17:46:52.000Z",
-      "link": "https://www.buffalorumblings.com/general/134565/buffalo-beskar-part-8-plastic-smithing-a-breastplate"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/134096/buffalo-beskar-part-7-is-simple-better",
-      "team": "bills",
-      "title": "Buffalo Beskar, Part 7: Is simple, better?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-05T17:33:20.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/134096/buffalo-beskar-part-7-is-simple-better"
+      "publishedAt": "2026-07-05T17:30:18Z",
+      "link": "https://www.espn.com/video/clip/_/id/49268113/jeremy-fowler-takeaways-top-10-nfl-rbs"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265743-marcellus-wiley-arrested/",
@@ -462,6 +440,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136078/buffalo-bills-2026-training-camp-position-battle-primer-qb-rb-ol"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/134096/buffalo-beskar-part-7-is-simple-better",
+      "team": "bills",
+      "title": "Buffalo Beskar, Part 7: Is simple, better?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-03T13:46:46.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/134096/buffalo-beskar-part-7-is-simple-better"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/",
       "team": "sabres",
       "title": "After trade, speedy Olen Zellweger sees opportunity with Sabres",
@@ -482,6 +471,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-03T05:04:31.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-sign-sidan-mcdonough-to-two-way-contract-matthew-peca-inks-ahl-deal-with-rochester/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136125/josh-allen-is-qb1-in-espns-consensus-2026-fantasy-football-rankings",
+      "team": "bills",
+      "title": "Josh Allen is QB1 in ESPN’s consensus 2026 fantasy football rankings",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T17:06:20.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136125/josh-allen-is-qb1-in-espns-consensus-2026-fantasy-football-rankings"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44712/10-man-usa-gets-round-of-32-win-over-bosnia-and-herzegovina",
@@ -515,6 +515,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-02T13:09:21Z",
       "link": "https://www.espn.com/nhl/story/_/id/49243575/frederik-andersen-edmonton-oilers-agree-one-year-deal"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136165/buffalo-bills-2026-scouting-report-wr-stephen-gosnell",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: WR Stephen Gosnell",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T12:01:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136165/buffalo-bills-2026-scouting-report-wr-stephen-gosnell"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-make-depth-signings-day-one-free-agency-gilbert-sheary/",
@@ -955,17 +966,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-25T19:39:43.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265684-the-view-from-patriots-wire/"
-    },
-    {
-      "id": "espn-bills::49154825",
-      "team": "bills",
-      "title": "Ranking WR, TE, RB groups for 2026: Best and worst NFL teams",
-      "summary": "Which teams have the best skill position talent around their QB and offensive line? We stacked all 32 groups of pass catchers and ball carriers from worst to first.",
-      "source": "ESPN · Bill Barnwell",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T15:55:32Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49154825/ranking-nfl-teams-offensive-groups-wr-rb-te-2026-season-best-playmakers"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/",
