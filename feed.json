@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:49:11.728Z",
+  "generatedAt": "2026-07-05T10:17:55.992Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 4,
+      "itemCount": 5,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49271996/where-does-usmnt-rank-great-world-cup-hairstyles",
+      "team": "usmnt",
+      "title": "A key USMNT World Cup perk: An embedded barber, wh...",
+      "summary": "The USMNT's unique hairstyles are turning heads at the World Cup, and it's thanks to their embedded barber who gives them fresh cuts in camp.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-05T10:18:15.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49271996/where-does-usmnt-rank-great-world-cup-hairstyles"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
+      "team": "usmnt",
+      "title": "How will the USMNT cope without suspended star str...",
+      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-05T10:18:14.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium"
+    },
+    {
       "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb",
       "team": "usmnt",
       "title": "⚾ Pochettino is latest WC star to throw first pitc...",
@@ -207,17 +229,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-05T02:33:33.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265740-the-blue-red-scrimmage-at-the-stadium-just-got-switched-to-season-ticket-holders-only-dammit/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
-      "team": "usmnt",
-      "title": "Copy of How will the USMNT cope without suspended star str...",
-      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-04T20:45:31.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136357/bills-mafia-pick-edge-bradley-chubb-to-lead-buffalo-in-sacks-for-2026-season",
