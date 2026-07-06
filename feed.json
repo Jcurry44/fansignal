@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T18:20:28.273Z",
+  "generatedAt": "2026-07-06T20:25:26.482Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -176,6 +176,39 @@
   ],
   "stories": [
     {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-belgium-odds-prediction-time-line-2026-world-cup-round-of-16-picks-best-bets/",
+      "team": "usmnt",
+      "title": "USMNT vs. Belgium odds, prediction, time: 2026 World Cup Round of 16 picks by expert on 18-7 run",
+      "summary": "SportsLine's Martin Green reveals his Belgium vs. USA best bets for their knockout stage match in the FIFA World Cup 2026 on Monday with Folarin Balogun now eligible to play",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-06T19:45:40.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-belgium-odds-prediction-time-line-2026-world-cup-round-of-16-picks-best-bets/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/things-we-think-we-know-oilers-taking-chance-on-three-goalie-system/",
+      "team": "sabres",
+      "title": "Things we think we know: Oilers taking chance on three-goalie system",
+      "summary": "The three-goalie system is evolving, and with Frederik Andersen, Devon Levi and Tristan Jarry now in the fold, the Oilers are going to run with it. Mark Spector has what we (think we) know about the Oilers’ off-season so far.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-06T19:43:23.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/things-we-think-we-know-oilers-taking-chance-on-three-goalie-system/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/fifas-folarin-baloguns-red-card-suspension-usmnt-world-cup/",
+      "team": "usmnt",
+      "title": "FIFA's mismanagement of Folarin Balogun's red card suspension mars USMNT’s big moment, and World Cup at large",
+      "summary": "FIFA's surprise announcement that Balogun would be available for Monday's clash against Belgium despite his red card in the round of 32 has ensured the World Cup would descend into chaos",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-06T18:40:52.000Z",
+      "link": "https://www.cbssports.com/soccer/news/fifas-folarin-baloguns-red-card-suspension-usmnt-world-cup/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-monday-best-bets-include-usmnts-christian-pulisic/",
       "team": "usmnt",
       "title": "Free 2026 World Cup anytime goalscorer picks, odds: Monday best bets include USMNT's Christian Pulisic",
@@ -207,17 +240,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-06T16:56:01.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-world-cup-suspension-belgium-appeal-decision/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usa-belgium-odds-prediction-line-time-2026-world-cup-round-of-16-picks-with-folarin-balogun-playing/",
-      "team": "usmnt",
-      "title": "USA vs. Belgium odds, prediction, time: 2026 World Cup Round of 16 picks via expert on 25-16 roll",
-      "summary": "SportsLine's Jon Eimer reveals his USA vs. Belgium best bets in the FIFA World Cup 2026 Round of 16 on Monday with Folarin Balogun available to play",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-06T16:54:02.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usa-belgium-odds-prediction-line-time-2026-world-cup-round-of-16-picks-with-folarin-balogun-playing/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44779/2026-world-cup-previewing-usa-vs-belgium-the-game-of-their-lives",
@@ -262,6 +284,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-06T15:53:15.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44771/usa-vs-bosnia-and-herzegovina-2026-world-cup-man-of-the-match"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136442/when-did-you-realize-josh-allen-was-the-one",
+      "team": "bills",
+      "title": "When did you realize Josh Allen was the one?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-06T14:13:23.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136442/when-did-you-realize-josh-allen-was-the-one"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136325/bills-news-what-can-cole-bishop-do-for-an-encore",
@@ -473,17 +506,6 @@
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44763/2026-world-cup-round-of-16-matchday-2-match-thread-and-discussion"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265740-the-blue-red-scrimmage-at-the-stadium-just-got-switched-to-season-ticket-holders-only-dammit/",
-      "team": "bills",
-      "title": "The Blue & Red\" scrimmage at the stadium just got switched to season ticket holders only (dammit)",
-      "summary": "Hi, I know I might be subjected to verbal abuse for this, but that's OK. I understand message board culture!🙂\n\n\n\n\t \n\n\n\n\tThe \"Return of the Blue & Red\" scrimmage\" at the stadium just got switched to season ticket holders only. For those who don't know, it was to a be a scrimmage at the new stadium, with free admission and parking! \n\tOk, there is some sense in it being for season ticket holders.\n\tThey did pay big dollars for season tickets. But they get to go to games at the new stadium 10 times. And the state and county coughed up $850 million for it, and have to do all the upkeep, so well all chipped in. But even so, I wouldn't complain.\n\n\n\n\t \n\n\n\n\tEXCEPT that they didn't think of that ahead of time? Why not? \n\n\n\n\t \n\n\n\n\tJust 2-3 weeks ago the game was announced and I saw it. You were supposed to come back, right about now, and sign up for the Bills app. Then when tickets went on offer you could try and get a ticket! Even then I figured it as a gamble but I planned to be sitting there the minute it went live and take my shot. Because I wanted to see the new stadium! \n\n\n\n\tLike I say, I can understand why they would want to favor season ticket holders. \n\tI'm not complaining about that.\n\n\n\n\t\n\tI'm complaining because they gave me a letdown disappointed feeling for no reason other than that they couldn't think 3 weeks ahead of time and just announce it that way?\n\n\n\n\tGrrrr",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-05T02:33:33.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265740-the-blue-red-scrimmage-at-the-stadium-just-got-switched-to-season-ticket-holders-only-dammit/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136357/bills-mafia-pick-edge-bradley-chubb-to-lead-buffalo-in-sacks-for-2026-season",
       "team": "bills",
       "title": "Bills Mafia pick EDGE Bradley Chubb to lead Buffalo in sacks for 2026 season",
@@ -570,17 +592,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-04T05:04:52.000Z",
       "link": "https://www.buffalohockeybeat.com/prospect-prokhor-poltapov-could-be-swiss-army-knife-for-sabres/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136342/buffalo-bills-2026-return-of-the-blue-red-exclusive-to-season-ticket-holders",
-      "team": "bills",
-      "title": "Buffalo Bills’ “Return of the Blue & Red” now exclusive to season-ticket holders",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-03T21:29:23.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136342/buffalo-bills-2026-return-of-the-blue-red-exclusive-to-season-ticket-holders"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44740/2026-world-cup-round-of-32-matchday-6-match-thread-and-discussion",
@@ -878,6 +889,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T15:07:37.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-sign-beck-malenstyn-new-six-year-contract/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265701-chris-johnson-battling-als/",
+      "team": "bills",
+      "title": "Chris Johnson Battling ALS",
+      "summary": "poor guy that’s awful",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T14:28:13.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265701-chris-johnson-battling-als/"
     },
     {
       "id": "espn-bills::49167327",
