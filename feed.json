@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T01:09:25.062Z",
+  "generatedAt": "2026-07-07T05:07:54.287Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 5,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 10,
+      "itemCount": 13,
       "error": null
     },
     {
@@ -164,7 +164,7 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Mon 9:45 PM",
+      "headline": "Tue 9:45 PM",
       "detail": "at SF"
     },
     {
@@ -176,26 +176,48 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49289290/folarin-balogun-named-starting-xi-us-vs-belgium",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit",
       "team": "usmnt",
-      "title": "Balogun named in starting XI for U.S. vs. Belgium",
-      "summary": "Mauricio Pochettino put Folarin Balogun in the starting lineup for the United States in its round-of-16 match with Belgium in the FIFA World Cup on Monday in Seattle.",
+      "title": "Who's to blame for USMNT's World Cup exit? Rating ...",
+      "summary": "This USMNT was supposed to be special, but terrible performances throughout the U.S. roster led to a bitter World Cup exit in the round of 16.",
       "source": "ESPN Soccer",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-07T01:45:04.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49289290/folarin-balogun-named-starting-xi-us-vs-belgium"
+      "publishedAt": "2026-07-07T05:29:39.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49286603/us-president-donald-trump-confirms-asked-fifa-review-balogun-red-card",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium",
       "team": "usmnt",
-      "title": "Trump: I asked Infantino to 'review' Balogun red",
-      "summary": "President Donald Trump said Monday he called FIFA president Gianni Infantino to review the red card given to USMNT striker Folarin Balogun in the team's match against Bosnia-Herzegovina, calling it a \"horrible\" call.",
+      "title": "Poch mum on U.S. future; tells fans to keep faith",
+      "summary": "Mauricio Pochettino would not offer an indication about whether he wants to remain as coach of the United States men's national team following the Americans' exit from the World Cup here on Monday.",
       "source": "ESPN Soccer",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-07T01:45:04.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49286603/us-president-donald-trump-confirms-asked-fifa-review-balogun-red-card"
+      "publishedAt": "2026-07-07T05:24:28.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup",
+      "team": "usmnt",
+      "title": "USMNT's World Cup dream crushed by Belgium",
+      "summary": "Even with Folarin Balogun back up front, the United States men's national team crashed out of the World Cup in the round of 16 again.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T05:23:44.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup",
+      "team": "usmnt",
+      "title": "Pulisic forced off injured for USMNT vs. Belgium",
+      "summary": "Christian Pulisic was forced off with an ankle injury in the second half of the United States' World Cup round of 16 loss  against Belgium.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T05:23:43.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup"
     },
     {
       "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49288020/giuliani-us-involvement-balogun-red-reversal-not-affect-usmnt-legacy",
@@ -205,8 +227,74 @@
       "source": "ESPN Soccer",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-07T01:45:04.000Z",
+      "publishedAt": "2026-07-07T05:23:43.000Z",
       "link": "https://www.espn.com/soccer/story/_/id/49288020/giuliani-us-involvement-balogun-red-reversal-not-affect-usmnt-legacy"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/was-usmnt-2026-world-cup-a-success/",
+      "team": "usmnt",
+      "title": "Was the USMNT's 2026 World Cup a success? Examining what performance means for USA soccer",
+      "summary": "A disappointing 4-1 loss to Belgium in Seattle leaves the host nation with more questions than answers after failing to make a statement on the world stage",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T04:03:06.000Z",
+      "link": "https://www.cbssports.com/soccer/news/was-usmnt-2026-world-cup-a-success/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44792/usa-crashes-out-of-world-cup-with-round-of-16-loss-to-belgium",
+      "team": "usmnt",
+      "title": "USA crashes out of World Cup with Round of 16 loss to Belgium",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T03:27:52.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44792/usa-crashes-out-of-world-cup-with-round-of-16-loss-to-belgium"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44796/usa-vs-belgium-2026-world-cup-community-player-ratings",
+      "team": "usmnt",
+      "title": "USA vs. Belgium, 2026 World Cup: Community player ratings",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T03:27:16.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44796/usa-vs-belgium-2026-world-cup-community-player-ratings"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265757-batavia-party-zone/",
+      "team": "bills",
+      "title": "Batavia Party Zone",
+      "summary": "What say you all about us advocating for a corner of the new stadium to be officially (or unofficially, if we must) recognized as the “Batavia Party Zone”?\n\n\n\n\tWe not too old people remember a time, before the league was whitewashed, when fans could actually tape signs on The Stadium Wall (no pun intended because it’s true) and one of those signs every home game was…”The Batavia Party Zone…” It was unmistakable and existed proudly during every game in OP for about 15-20 years. I’m feeling nostalgic tonight, is anyone else smelling what I’m cooking?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T03:20:20.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265757-batavia-party-zone/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-knocked-out-world-cup-all-goes-wrong-round-of-16-loss-belgium-2026/",
+      "team": "usmnt",
+      "title": "USMNT knocked out of World Cup as all goes wrong in lifeless round of 16 loss to Belgium",
+      "summary": "The USMNT fell flat in a 4-1 round of 16 loss to Belgium, raising major questions about the team's growth and mentality on the world stage",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T02:31:50.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-knocked-out-world-cup-all-goes-wrong-round-of-16-loss-belgium-2026/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-player-ratings-world-cup-dream-ends-nightmare-belgium/",
+      "team": "usmnt",
+      "title": "USMNT Player Ratings: Everybody struggles as World Cup dream ends with nightmare display vs. Belgium",
+      "summary": "The Americans had their worst game of the tournament, and nobody really stood out for the right reasons",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T02:26:42.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-player-ratings-world-cup-dream-ends-nightmare-belgium/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-belgium-world-cup-2026-preview-predictions-watch/",
@@ -638,17 +726,6 @@
       "link": "https://www.buffalohockeybeat.com/prospect-prokhor-poltapov-could-be-swiss-army-knife-for-sabres/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44740/2026-world-cup-round-of-32-matchday-6-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup, Round of 32 Matchday 6: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-03T14:20:31.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44740/2026-world-cup-round-of-32-matchday-6-match-thread-and-discussion"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/",
       "team": "sabres",
       "title": "After trade, speedy Olen Zellweger sees opportunity with Sabres",
@@ -669,17 +746,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-03T05:04:31.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-sign-sidan-mcdonough-to-two-way-contract-matthew-peca-inks-ahl-deal-with-rochester/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44712/10-man-usa-gets-round-of-32-win-over-bosnia-and-herzegovina",
-      "team": "usmnt",
-      "title": "10-man USA gets Round of 32 win over Bosnia and Herzegovina",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-02T16:26:16.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44712/10-man-usa-gets-round-of-32-win-over-bosnia-and-herzegovina"
     },
     {
       "id": "espn-sabres::49243575",
@@ -1274,17 +1340,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-04-08T01:53:02.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265051-matt-miller%E2%80%99s-7-round-mock/",
-      "team": "bills",
-      "title": "Matt Miller’s 7 Round Mock",
-      "summary": "For my money, Miller is the best in the business. Here’s his latest 7 round mock:\n\n\n\n\t \n\n\n\n\thttps://www.espn.com/nfl/draft2026/story/_/id/48299038/2026-nfl-mock-draft-seven-rounds-257-picks-projections-matt-miller\n\t \n\n\n\n\tBills picks:\n\n\n\n\t26 - Omar Cooper - WR - Indiana\n\n\n\n\t91 - Derrick Moore - Edge - Michigan\n\n\n\n\t126. Devin Moore - CB - Florida\n\n\n\n\t165. Billy Schrauth - G - ND\n\n\n\n\t168. Xavian Sorey Jr. - LB - Arkansas\n\n\n\n\t182. Nadame Tucker - Edge - Western Michigan\n\n\n\n\t220. Dalton Johnson - S - Arizona\n\n\n\n\t \n\n\n\n\tMy biggest takeaway is that the Bills are adding a lot of guys named Moore this offseason.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-03-30T13:32:33.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265051-matt-miller%E2%80%99s-7-round-mock/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264671-mahomes-restructures-opens-up-massive-cap-space-for-kc/",
