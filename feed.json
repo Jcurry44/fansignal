@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T11:32:39.364Z",
+  "generatedAt": "2026-07-07T13:53:12.778Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 7,
       "error": null
     },
     {
@@ -176,15 +176,59 @@
   ],
   "stories": [
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/new-usmnt-hit-same-world-cup-stumbling-blocks-in-loss-to-belgium/",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49294799/folarin-balogun-red-card-ban-fifa-usa-usmnt-world-cup",
       "team": "usmnt",
-      "title": "'It feels exactly the same': New USMNT hit same World Cup stumbling blocks in loss to Belgium",
-      "summary": "The USMNT lost 4-1 to Belgium on Monday, their World Cup ending at the round of 16 for the fourth successive trip",
+      "title": "Balogun confirms no involvement in ban U-turn",
+      "summary": "Folarin Balogun accepts the decision to clear him to play for the United States against Belgium on Monday was \"controversial\" but insisted he played no part in the process.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T13:42:59.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49294799/folarin-balogun-red-card-ban-fifa-usa-usmnt-world-cup"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium",
+      "team": "usmnt",
+      "title": "Poch mum on U.S. future; tells fans to keep faith",
+      "summary": "Mauricio Pochettino would not offer an indication about whether he wants to remain as coach of the United States men's national team following the Americans' exit from the World Cup here on Monday.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T13:42:59.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup",
+      "team": "usmnt",
+      "title": "USMNT's World Cup dream crushed by Belgium",
+      "summary": "Even with Folarin Balogun back up front, the United States men's national team crashed out of the World Cup in the round of 16 again.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T13:42:26.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup",
+      "team": "usmnt",
+      "title": "Pulisic forced off injured for USMNT vs. Belgium",
+      "summary": "Christian Pulisic was forced off with an ankle injury in the second half of the United States' World Cup round of 16 loss  against Belgium.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T13:42:25.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-knocked-out-world-cup-all-goes-wrong-round-of-16-loss-belgium-2026/",
+      "team": "usmnt",
+      "title": "USMNT knocked out of World Cup as all goes wrong in lifeless round of 16 loss to Belgium",
+      "summary": "The USMNT fell flat in a 4-1 round of 16 loss to Belgium, raising major questions about the team's growth and mentality on the world stage",
       "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-07T05:04:59.000Z",
-      "link": "https://www.cbssports.com/soccer/news/new-usmnt-hit-same-world-cup-stumbling-blocks-in-loss-to-belgium/"
+      "publishedAt": "2026-07-07T13:23:40.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-knocked-out-world-cup-all-goes-wrong-round-of-16-loss-belgium-2026/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/was-usmnt-2026-world-cup-a-success/",
@@ -194,8 +238,52 @@
       "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-07T04:03:06.000Z",
+      "publishedAt": "2026-07-07T13:23:29.000Z",
       "link": "https://www.cbssports.com/soccer/news/was-usmnt-2026-world-cup-a-success/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/new-usmnt-hit-same-world-cup-stumbling-blocks-in-loss-to-belgium/",
+      "team": "usmnt",
+      "title": "'It feels exactly the same:' New USMNT hit same World Cup stumbling blocks in loss to Belgium",
+      "summary": "The USMNT lost 4-1 to Belgium on Monday, their World Cup ending at the round of 16 for the fourth successive trip",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T13:21:43.000Z",
+      "link": "https://www.cbssports.com/soccer/news/new-usmnt-hit-same-world-cup-stumbling-blocks-in-loss-to-belgium/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49292810/belgium-trolls-united-states-2026-world-cup-victory-round-16",
+      "team": "usmnt",
+      "title": "'Overturn this': Belgium troll U.S. after dominant...",
+      "summary": "Belgium defeated the USMNT 4-1 in the 2026 World Cup round-of-16 match Monday night -- and poked fun at the U.S. afterward.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T10:29:32.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49292810/belgium-trolls-united-states-2026-world-cup-victory-round-16"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49293102/usmnt-dismisses-balogun-noise-2026-fifa-world-cup-exit",
+      "team": "usmnt",
+      "title": "USMNT dismisses Balogun noise in World Cup exit: '...",
+      "summary": "The U.S. men's national team crashed out of the World Cup on Tuesday in a 4-1 loss to Belgium, but players denied that the whirlwind surrounding Folarin Balogun's reversed suspension was a distraction.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T10:29:31.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49293102/usmnt-dismisses-balogun-noise-2026-fifa-world-cup-exit"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49293165/usmnt-look-back-2026-world-cup-missed-opportunity",
+      "team": "usmnt",
+      "title": "USMNT will look back at 2026 World Cup as a missed...",
+      "summary": "It all broke right for the U.S. this tournament: the draw, the injuries, the decisions. And yet America is once again coming to terms with a round-of-16 exit.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T10:01:05.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49293165/usmnt-look-back-2026-world-cup-missed-opportunity"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44792/usa-crashes-out-of-world-cup-with-round-of-16-loss-to-belgium",
@@ -231,17 +319,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265757-batavia-party-zone/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-knocked-out-world-cup-all-goes-wrong-round-of-16-loss-belgium-2026/",
-      "team": "usmnt",
-      "title": "USMNT knocked out of World Cup as all goes wrong in lifeless round of 16 loss to Belgium",
-      "summary": "The USMNT fell flat in a 4-1 round of 16 loss to Belgium, raising major questions about the team's growth and mentality on the world stage",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T02:31:50.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-knocked-out-world-cup-all-goes-wrong-round-of-16-loss-belgium-2026/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-player-ratings-world-cup-dream-ends-nightmare-belgium/",
       "team": "usmnt",
       "title": "USMNT Player Ratings: Everybody struggles as World Cup dream ends with nightmare display vs. Belgium",
@@ -262,6 +339,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-06T23:55:09.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-belgium-world-cup-2026-preview-predictions-watch/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136453/buffalo-bills-2026-scouting-report-wide-receiver-jalen-virgil",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: wide receiver Jalen Virgil",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-06T22:54:05.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136453/buffalo-bills-2026-scouting-report-wide-receiver-jalen-virgil"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/135048/jackson-hawes-dee-alford-skyler-bell-underrated",
@@ -614,17 +702,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-05T04:19:31.000Z",
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44763/2026-world-cup-round-of-16-matchday-2-match-thread-and-discussion"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136357/bills-mafia-pick-edge-bradley-chubb-to-lead-buffalo-in-sacks-for-2026-season",
-      "team": "bills",
-      "title": "Bills Mafia pick EDGE Bradley Chubb to lead Buffalo in sacks for 2026 season",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-04T20:23:42.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136357/bills-mafia-pick-edge-bradley-chubb-to-lead-buffalo-in-sacks-for-2026-season"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/world-cup-2026-content/44723/usa-vs-belgium-2026-world-cup-scouting-belgium",
