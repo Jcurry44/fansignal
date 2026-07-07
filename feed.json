@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T22:12:08.387Z",
+  "generatedAt": "2026-07-07T23:15:41.501Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 15,
+      "itemCount": 16,
       "error": null
     },
     {
@@ -175,6 +175,17 @@
     }
   ],
   "stories": [
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/where-do-usmnt-go-from-here-2026-world-cup/",
+      "team": "usmnt",
+      "title": "Where do USMNT go from here after golden generation lets World Cup moment slip away in cruel fashion",
+      "summary": "The USMNT's World Cup journey on home soil ended on Monday with a 4-1 defeat to Belgium in the round of 16",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T23:04:37.000Z",
+      "link": "https://www.cbssports.com/soccer/news/where-do-usmnt-go-from-here-2026-world-cup/"
+    },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information",
       "team": "bills",
