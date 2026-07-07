@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T05:07:54.287Z",
+  "generatedAt": "2026-07-07T08:43:59.932Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 5,
+      "itemCount": 0,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 13,
+      "itemCount": 14,
       "error": null
     },
     {
@@ -176,59 +176,15 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit",
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/new-usmnt-hit-same-world-cup-stumbling-blocks-in-loss-to-belgium/",
       "team": "usmnt",
-      "title": "Who's to blame for USMNT's World Cup exit? Rating ...",
-      "summary": "This USMNT was supposed to be special, but terrible performances throughout the U.S. roster led to a bitter World Cup exit in the round of 16.",
-      "source": "ESPN Soccer",
+      "title": "'It feels exactly the same': New USMNT hit same World Cup stumbling blocks in loss to Belgium",
+      "summary": "The USMNT lost 4-1 to Belgium on Monday, their World Cup ending at the round of 16 for the fourth successive trip",
+      "source": "CBS Sports",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-07T05:29:39.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium",
-      "team": "usmnt",
-      "title": "Poch mum on U.S. future; tells fans to keep faith",
-      "summary": "Mauricio Pochettino would not offer an indication about whether he wants to remain as coach of the United States men's national team following the Americans' exit from the World Cup here on Monday.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T05:24:28.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup",
-      "team": "usmnt",
-      "title": "USMNT's World Cup dream crushed by Belgium",
-      "summary": "Even with Folarin Balogun back up front, the United States men's national team crashed out of the World Cup in the round of 16 again.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T05:23:44.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup",
-      "team": "usmnt",
-      "title": "Pulisic forced off injured for USMNT vs. Belgium",
-      "summary": "Christian Pulisic was forced off with an ankle injury in the second half of the United States' World Cup round of 16 loss  against Belgium.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T05:23:43.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49288020/giuliani-us-involvement-balogun-red-reversal-not-affect-usmnt-legacy",
-      "team": "usmnt",
-      "title": "Giuliani: FIFA review won't affect USMNT legacy",
-      "summary": "Andrew Giuliani, the head of the White House task force on the World Cup, told ESPN on Monday that he has no concerns at all over FIFA's decision to reduce Folarin Balogun's suspension affecting the legacy or credibility of what the USMNT accomplishes.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T05:23:43.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49288020/giuliani-us-involvement-balogun-red-reversal-not-affect-usmnt-legacy"
+      "publishedAt": "2026-07-07T05:04:59.000Z",
+      "link": "https://www.cbssports.com/soccer/news/new-usmnt-hit-same-world-cup-stumbling-blocks-in-loss-to-belgium/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/was-usmnt-2026-world-cup-a-success/",
@@ -240,28 +196,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-07T04:03:06.000Z",
       "link": "https://www.cbssports.com/soccer/news/was-usmnt-2026-world-cup-a-success/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44792/usa-crashes-out-of-world-cup-with-round-of-16-loss-to-belgium",
-      "team": "usmnt",
-      "title": "USA crashes out of World Cup with Round of 16 loss to Belgium",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T03:27:52.000Z",
-      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44792/usa-crashes-out-of-world-cup-with-round-of-16-loss-to-belgium"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44796/usa-vs-belgium-2026-world-cup-community-player-ratings",
-      "team": "usmnt",
-      "title": "USA vs. Belgium, 2026 World Cup: Community player ratings",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T03:27:16.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44796/usa-vs-belgium-2026-world-cup-community-player-ratings"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265757-batavia-party-zone/",
@@ -726,6 +660,17 @@
       "link": "https://www.buffalohockeybeat.com/prospect-prokhor-poltapov-could-be-swiss-army-knife-for-sabres/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44740/2026-world-cup-round-of-32-matchday-6-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup, Round of 32 Matchday 6: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-03T14:20:31.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44740/2026-world-cup-round-of-32-matchday-6-match-thread-and-discussion"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/",
       "team": "sabres",
       "title": "After trade, speedy Olen Zellweger sees opportunity with Sabres",
@@ -746,6 +691,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-03T05:04:31.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-sign-sidan-mcdonough-to-two-way-contract-matthew-peca-inks-ahl-deal-with-rochester/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44712/10-man-usa-gets-round-of-32-win-over-bosnia-and-herzegovina",
+      "team": "usmnt",
+      "title": "10-man USA gets Round of 32 win over Bosnia and Herzegovina",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-02T16:26:16.000Z",
+      "link": "https://www.starsandstripesfc.com/fifa-world-cup/44712/10-man-usa-gets-round-of-32-win-over-bosnia-and-herzegovina"
     },
     {
       "id": "espn-sabres::49243575",
