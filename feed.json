@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:46:35.171Z",
+  "generatedAt": "2026-07-08T22:10:22.926Z",
   "sources": [
     {
       "id": "bills-official",
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 4,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136564/buffalo-bills-exploring-development-options-around-old-highmark-stadium",
+      "team": "bills",
+      "title": "Buffalo Bills exploring development options around old Highmark Stadium",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T21:36:31.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136564/buffalo-bills-exploring-development-options-around-old-highmark-stadium"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49301831/eu-lawmakers-want-gianni-infantino-investigated-trump-contact",
+      "team": "usmnt",
+      "title": "EU lawmakers eye investigating FIFA's Infantino",
+      "summary": "Dozens of European lawmakers are gathering support to launch an investigation in the European Parliament of FIFA boss Gianni Infantino over his involvement in the decision to permit U.S. striker Folarin Balogun to play despite an earlier red card.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T20:20:24.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49301831/eu-lawmakers-want-gianni-infantino-investigated-trump-contact"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136481/what-buffalo-bills-defense-may-look-like-under-dc-jim-leonhard",
       "team": "bills",
       "title": "What Buffalo Bills’ defense may look like under DC Jim Leonhard",
@@ -185,6 +207,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-08T20:09:13.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136481/what-buffalo-bills-defense-may-look-like-under-dc-jim-leonhard"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49298192/lionel-messi-tim-ream-seb-berhalter-headline-mls-all-star-game-roster",
+      "team": "usmnt",
+      "title": "Messi, Ream, Berhalter headline MLS ASG roster",
+      "summary": "Argentina and Inter Miami CF star Lionel Messi and U.S. players Matt Freese, Max Arfsten, Tim Ream and Sebastian Berhalter were included in MLS' 29-man All-Star Game roster.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T19:47:58.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49298192/lionel-messi-tim-ream-seb-berhalter-headline-mls-all-star-game-roster"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-to-host-return-of-the-blue-red-practice-august-8-open-practice-august-18",
@@ -352,6 +385,17 @@
       "link": "https://www.espn.com/nfl/story/_/id/49145576/ranking-nfl-top-10-running-backs-2026-execs-coaches-scouts"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them",
+      "team": "usmnt",
+      "title": "Let's face it: The USMNT's coach doesn't matter --...",
+      "summary": "U.S. fans expected more out of the USMNT's expensive, famous coach at the World Cup, but there was one problem: the players.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T14:08:57.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136499/buffalo-bills-2026-scouting-report-fullback-jackson-acker",
       "team": "bills",
       "title": "Buffalo Bills 2026 scouting report: fullback Jackson Acker",
@@ -405,6 +449,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-08T13:17:50.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136520/should-buffalo-bills-psl-holders-have-exclusive-access-to-events-at-the-new-highmark-stadium"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49304151/transfer-rumors-news-psg-spurs-chelsea-eye-usmnt-monaco-striker-folarin-balogun",
+      "team": "usmnt",
+      "title": "Transfer rumors, news: PSG, Spurs, Chelsea eye USM...",
+      "summary": "Paris Saint-Germain, Tottenham Hotspur and Chelsea are vying for the signature of USMNT and Monaco striker Folarin Balogun. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T13:14:24.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49304151/transfer-rumors-news-psg-spurs-chelsea-eye-usmnt-monaco-striker-folarin-balogun"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265760-sean-payton-called-a-fake-punt-in-ot-vs-bills-in-divisional-round/",
@@ -724,17 +779,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-06T14:13:23.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136442/when-did-you-realize-josh-allen-was-the-one"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136325/bills-news-what-can-cole-bishop-do-for-an-encore",
-      "team": "bills",
-      "title": "Bills news: What can Cole Bishop do for an encore?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-06T13:32:16.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136325/bills-news-what-can-cole-bishop-do-for-an-encore"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/folarin-balogun-usmnt-face-belgium-after-surprise-ruling-mlb-all-star-rosters-biggest-snubs/",
