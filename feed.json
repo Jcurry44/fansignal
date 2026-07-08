@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:49:23.221Z",
+  "generatedAt": "2026-07-08T14:21:57.238Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,6 +176,61 @@
   ],
   "stories": [
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136499/buffalo-bills-2026-scouting-report-fullback-jackson-acker",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: fullback Jackson Acker",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T13:29:34.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136499/buffalo-bills-2026-scouting-report-fullback-jackson-acker"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-continues-conversations-to-keep-mauricio-pochettino/",
+      "team": "usmnt",
+      "title": "USMNT 'continues conversations' to keep Mauricio Pochettino as head coach after World Cup exit",
+      "summary": "After the round of 16 exit in the World Cup, it remains unclear if Pochettino will ultimately continue as coach of the USMNT",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T13:22:11.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-continues-conversations-to-keep-mauricio-pochettino/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/where-do-usmnt-go-from-here-2026-world-cup/",
+      "team": "usmnt",
+      "title": "Where do USMNT go from here after golden generation lets World Cup moment slip away in cruel fashion",
+      "summary": "The USMNT's World Cup journey on home soil ended on Monday with a 4-1 defeat to Belgium in the round of 16",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T13:21:03.000Z",
+      "link": "https://www.cbssports.com/soccer/news/where-do-usmnt-go-from-here-2026-world-cup/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-2030-world-cup-roster-prediction/",
+      "team": "usmnt",
+      "title": "USMNT 2030 World Cup roster prediction: Who are the 26 players that could lead USA soccer in next edition?",
+      "summary": "It's time to turn the page for the USMNT after the 2026 World Cup elimination and take a look at who could represent the country in 2030",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T13:20:59.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-2030-world-cup-roster-prediction/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136520/should-buffalo-bills-psl-holders-have-exclusive-access-to-events-at-the-new-highmark-stadium",
+      "team": "bills",
+      "title": "Should Buffalo Bills PSL holders have exclusive access to events at the new Highmark Stadium?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-08T13:17:50.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136520/should-buffalo-bills-psl-holders-have-exclusive-access-to-events-at-the-new-highmark-stadium"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265760-sean-payton-called-a-fake-punt-in-ot-vs-bills-in-divisional-round/",
       "team": "bills",
       "title": "sean payton called a fake punt in ot vs bills in divisional round",
@@ -187,39 +242,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265760-sean-payton-called-a-fake-punt-in-ot-vs-bills-in-divisional-round/"
     },
     {
-      "id": "espn-bills::49295229",
-      "team": "bills",
-      "title": "2026 NFL season: Picking breakout candidates for all 32 teams",
-      "summary": "Big year for Luther Burden III? Step forward for Calen Bullock? Opportunity for Nic Scourton to step up? And Ashton Jeanty delivering on expectations in Year 2?",
-      "source": "ESPN · Ben Solak",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-08T10:24:38Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49295229/2026-nfl-season-breakout-candidates-burden-bullock-mclaurin"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-2030-world-cup-roster-prediction/",
-      "team": "usmnt",
-      "title": "USMNT 2030 World Cup roster prediction: Who are the 26 players that could lead USA soccer in next edition?",
-      "summary": "It's time to turn the page for the USMNT after the 2026 World Cup elimination and take a look at who could represent the country in 2030",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-08T00:36:21.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-2030-world-cup-roster-prediction/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/where-do-usmnt-go-from-here-2026-world-cup/",
-      "team": "usmnt",
-      "title": "Where do USMNT go from here after golden generation lets World Cup moment slip away in cruel fashion",
-      "summary": "The USMNT's World Cup journey on home soil ended on Monday with a 4-1 defeat to Belgium in the round of 16",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T23:04:37.000Z",
-      "link": "https://www.cbssports.com/soccer/news/where-do-usmnt-go-from-here-2026-world-cup/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information",
       "team": "bills",
       "title": "Buffalo Bills announce 2026 Training Camp schedule and ticket information",
@@ -229,17 +251,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-07T19:59:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-continues-conversations-to-keep-mauricio-pochettino/",
-      "team": "usmnt",
-      "title": "USMNT 'continues conversations' to keep Mauricio Pochettino as head coach after World Cup exit",
-      "summary": "After the round of 16 exit in the World Cup, it remains unclear if Pochettino will ultimately continue as coach of the USMNT",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T18:45:48.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-continues-conversations-to-keep-mauricio-pochettino/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44809/usmnt-vs-belgium-what-we-learned-same-question-different-generation",
@@ -440,17 +451,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265755-many-bills-starters-still-fas/"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/things-we-think-we-know-oilers-taking-chance-on-three-goalie-system/",
-      "team": "sabres",
-      "title": "Things we think we know: Oilers taking chance on three-goalie system",
-      "summary": "The three-goalie system is evolving, and with Frederik Andersen, Devon Levi and Tristan Jarry now in the fold, the Oilers are going to run with it. Mark Spector has what we (think we) know about the Oilers’ off-season so far.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-06T19:43:23.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/things-we-think-we-know-oilers-taking-chance-on-three-goalie-system/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/fifas-folarin-baloguns-red-card-suspension-usmnt-world-cup/",
       "team": "usmnt",
       "title": "FIFA's mismanagement of Folarin Balogun's red card suspension mars USMNT’s big moment, and World Cup at large",
@@ -614,17 +614,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-06T05:03:57.000Z",
       "link": "https://www.buffalohockeybeat.com/following-career-year-sabres-peyton-krebs-files-for-salary-arbitration/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136413/buffalo-bills-add-open-practice-on-august-18-at-new-highmark-stadium",
-      "team": "bills",
-      "title": "Buffalo Bills add open practice on August 18 at new Highmark Stadium",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-05T23:05:35.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136413/buffalo-bills-add-open-practice-on-august-18-at-new-highmark-stadium"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-world-cup-suspension-lifted-belgium/",
@@ -913,6 +902,17 @@
       "link": "https://www.diebytheblade.com/zellweger-signs-with-the-sabres/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265723-has-anyone-ever-had-a-bad-stubhub-experience/",
+      "team": "bills",
+      "title": "Has anyone ever had a bad StubHub experience?",
+      "summary": "This may or may not be the place for this. In lieu of what is happening with the World Cup tickets, I wanted to share my story. Since its peak offseason I figured I’d open Pandora’s Box.\n\n\n\n\t \n\n\n\n\tSo, I sold my tickets to the Chiefs game last year. A friend invited me to sit with her. I had an extra ticket and so did she, so we decided instead of finding 2 people at the 11th hour, I would just sell mine.\n\t\n\tI listed them late (a day or 2 before the game). I think I asked $1000 for the pair or something like that. My cut was like $896 so whatever that works out to. Before I left for the stadium the morning of the game, I switched to use the “auto upload” feature for the tickets. I figured if they sold, I wouldn’t be around to transmit the tickets. My plan was to just adjust pricing if needed.\n\n\n\n\t \n\n\n\n\tSure enough they sold at the asking price.  I go to the game, everything is fine. The next day, I’m driving home from somewhere and get a push notification from AMEX. My card gets charged $896!! That can’t be right, that’s what I am owed, not the other way around.\n\n\n\n\t \n\n\n\n\tI call StubHub and am on the phone for hours. They said that I never sent the tickets and the person showed up. They refunded that person and charged me. I’m furious. \n\t \n\n\n\n\tThe next day, I called my rep and asked if he could email me the screenshot of when, and where, I transferred the tickets to. He sent it over, and sure enough, it was sent to StubHub that morning. They apparently never loaded them on. They never transferred them to that person. They then charged me for it.\n\n\n\n\t \n\n\n\n\tOver the next few months, I made dozens of calls to StubHub. I provided the documentation straight from the Ticketmaster system at the Bills. After a few months, I got a letter more or less saying, “too bad.” Now I’m even more furious, and helpless. As many of you can probably tell, I’m not quick to let things go. 😂😂\n\n\n\n\t \n\n\n\n\tI have a bunch of friends still in ticketing. My one buddy sent me this attorney that does nothing but sue StubHub. I sent him everything. He has a multi-million dollar class action suit with them now. This World Cup situation will be a nightmare but this is independent of that. \n\t \n\n\n\n\tLast night, I received an email from him, that I am getting my money back, the penalty and interest. I don’t owe the attorney a dime. StubHub acknowledged fault in this case and hundreds of others. I’m so mad that it came to this but feel vindicated. \n\t \n\n\n\n\tNeedless to say, I will never use StubHub again. They didn’t even really ever argue that I was wrong. They pretty much said, “too bad” until this attorney got on it. I am sure that I’m not alone in this but has anyone else ever had a terrible experience with them (or any other ticketing platforms)?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-01T12:40:48.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265723-has-anyone-ever-had-a-bad-stubhub-experience/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/2026-nhl-free-agency-buffalo-sabres-signings-open-thread/",
       "team": "sabres",
       "title": "2026 NHL Free Agency: Buffalo Sabres signings & Open Thread",
@@ -1021,6 +1021,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T15:07:37.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-sign-beck-malenstyn-new-six-year-contract/"
+    },
+    {
+      "id": "espn-bills::49167327",
+      "team": "bills",
+      "title": "2026 NFL rookie updates: Tracking all first-round draft picks",
+      "summary": "Ahead of training camp, our NFL Nation reporters weigh in on how the 2026 draft class has looked.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-29T14:23:35Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49167327/nfl-2026-first-round-draft-picks-impression"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/seneca-resorts-casinos-signs-on-as-founding-partner-of-highmark-stadium-extends-partnership-with-buffalo-bills",
@@ -1263,17 +1274,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-17T13:49:44.000Z",
       "link": "https://bandits.com/bandits-to-open-playoffs-at-georgia-on-saturday-april-25/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265628-2026-training-camp-announced-just-seven-practices-open-to-public/",
-      "team": "bills",
-      "title": "2026 Training Camp Announced, Just SEVEN Practices Open To Public",
-      "summary": "The Bills announced their training camp today in Rochester starting Wednesday July 29 and ending Friday August 7. The link below has the details but there are just seven practices open to the public with all practices at 8:30 am:\n\n\n\n\thttps://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information\n\n\n\n\t \n\n\n\n\tIt is hard not to feel as though this may be the start of the end of Fisher & Rochester getting the Bills in a major way for camp. I have a few strong connections that the Bills even with extending the agreement may leave it early and they are looking to move back to Buffalo for the majority of camp sooner then later. Perhaps the Bills still do a long weekend get away at Fisher as the facilities are great for the team and it maintains a presence, but with the majority of teams now staying home for camp, a new stadium, and the Bills no longer needing the regionalization effort they succeeded with this is not a surprising outcome.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-16T14:36:24.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265628-2026-training-camp-announced-just-seven-practices-open-to-public/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-sign-these-members-of-their-2026-nfl-draft-class",
