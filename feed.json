@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T20:57:32.436Z",
+  "generatedAt": "2026-07-09T22:38:53.946Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,15 +176,15 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49315041/usa-christian-pulisic-suffered-microfracture-belgium-sources",
-      "team": "usmnt",
-      "title": "Sources: Pulisic has microfracture, bone bruise",
-      "summary": "USMNT and AC Milan attacker Christian Pulisic sustained a bone bruise and microfracture in his lower leg and will be sidelined for several weeks, U.S. Soccer confirmed on Thursday.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/136590/josh-sweat-trade-rumor-bills-over-the-top-why-buffalos-pass-rush-still-faces-questions",
+      "team": "bills",
+      "title": "Would Josh Sweat put the Bills over the top? Why Buffalo’s pass rush still faces questions",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-09T21:51:54.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49315041/usa-christian-pulisic-suffered-microfracture-belgium-sources"
+      "publishedAt": "2026-07-09T21:24:03.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/136590/josh-sweat-trade-rumor-bills-over-the-top-why-buffalos-pass-rush-still-faces-questions"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136568/what-buffalo-bills-position-group-carries-most-training-camp-intrigue",
@@ -240,28 +240,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-09T16:30:08.000Z",
       "link": "https://www.cbssports.com/soccer/news/christian-pulisic-usmnt-legacy-injury-world-cup-exit/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis",
-      "team": "usmnt",
-      "title": "Grading the USMNT's World Cup: Did Pochettino, Pul...",
-      "summary": "At this summer's World Cup, the U.S. did its homework, aced the quizzes, and then failed the final exam. How should we grade its World Cup?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-09T16:17:45.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them",
-      "team": "usmnt",
-      "title": "Let's face it: The USMNT's coach doesn't matter --...",
-      "summary": "U.S. fans expected more out of the USMNT's coach at the World Cup, but there was one problem: the players.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-09T16:17:45.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265770-extremely-interesting-athletic-piece-when-players-peak-by-position/",
@@ -361,17 +339,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-09T12:32:52.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136533/what-are-worst-and-best-case-scenarios-for-buffalo-bills-in-2026"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
-      "team": "sabres",
-      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
-      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-09T12:21:33.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136540/buffalo-bills-2026-training-camp-position-battle-primer-wr-and-te",
@@ -592,17 +559,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-08T15:26:26.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44731/should-mauricio-pochettino-continue-as-usmnt-head-coach-for-2030"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136499/buffalo-bills-2026-scouting-report-fullback-jackson-acker",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: fullback Jackson Acker",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-08T13:29:34.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136499/buffalo-bills-2026-scouting-report-fullback-jackson-acker"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-continues-conversations-to-keep-mauricio-pochettino/",
