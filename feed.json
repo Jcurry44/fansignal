@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T23:50:57.895Z",
+  "generatedAt": "2026-07-10T03:38:50.745Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 16,
+      "itemCount": 15,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265776-diggs%E2%80%99-newest-thing/",
+      "team": "bills",
+      "title": "Diggs’ newest thing",
+      "summary": "What in the heck is going on with Stef now? It’s seedier than I want to imagine and sure hope the team steers clear after all the recent discussions here and on X about bringing him back. What in the world?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T02:15:48.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265776-diggs%E2%80%99-newest-thing/"
+    },
+    {
+      "id": "espn-bills::49309306",
+      "team": "bills",
+      "title": "How are Super Bowl-level NFL rosters built at each position?",
+      "summary": "Do teams need first-round QBs to reach the Super Bowl? Is it crucial to spend big on No. 1 receivers and top-tier edge rushers? Let's sort through rosters from the past 15 Super Bowls.",
+      "source": "ESPN · Bill Barnwell",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T00:15:43Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265775-terrel-bernards-horrible-contract-extension/",
       "team": "bills",
       "title": "Terrel Bernard's \"Horrible Contract Extension\"",
@@ -231,17 +253,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/136609/buffalo-bills-fan-discusses-increased-prices-of-going-to-bills-game-at-new-stadium"
     },
     {
-      "id": "espn-bills::49309306",
-      "team": "bills",
-      "title": "How are Super Bowl-level NFL rosters built at each position?",
-      "summary": "Do teams need first-round QBs to reach the Super Bowl? Is it crucial to spend big on No. 1 receivers and top-tier edge rushers? Let's sort through rosters from the past 15 Super Bowls.",
-      "source": "ESPN · Bill Barnwell",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-09T16:39:36Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/christian-pulisic-usmnt-legacy-injury-world-cup-exit/",
       "team": "usmnt",
       "title": "Christian Pulisic's USMNT legacy faces familiar questions after another injury-plagued World Cup exit",
@@ -262,17 +273,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-09T14:53:23.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265770-extremely-interesting-athletic-piece-when-players-peak-by-position/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44833/steve-cherundolo-named-u-s-mens-olympic-head-coach",
-      "team": "usmnt",
-      "title": "Steve Cherundolo named U.S. men’s Olympic head coach",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-09T14:43:51.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44833/steve-cherundolo-named-u-s-mens-olympic-head-coach"
     },
     {
       "id": "espn-bills::49145576",
@@ -405,17 +405,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-08T22:10:53.000Z",
       "link": "https://www.cbssports.com/soccer/news/ranking-top-10-moment-usmnts-2026-world-cup-folarin-balogun/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44830/2026-world-cup-quarterfinals-matchday-1-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup quarterfinals, Matchday 1: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-08T21:06:18.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44830/2026-world-cup-quarterfinals-matchday-1-match-thread-and-discussion"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136481/what-buffalo-bills-defense-may-look-like-under-dc-jim-leonhard",
@@ -825,6 +814,17 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-world-cup-suspension-belgium-appeal-decision/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44779/2026-world-cup-previewing-usa-vs-belgium-the-game-of-their-lives",
+      "team": "usmnt",
+      "title": "2026 World Cup: Previewing USA vs. Belgium – The game of their lives",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-06T16:04:45.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44779/2026-world-cup-previewing-usa-vs-belgium-the-game-of-their-lives"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44780/2026-world-cup-round-of-16-matchday-3-match-thread-and-discussion",
       "team": "usmnt",
       "title": "2026 World Cup, Round of 16 Matchday 3: Match thread and discussion",
@@ -834,17 +834,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-06T16:04:08.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/44780/2026-world-cup-round-of-16-matchday-3-match-thread-and-discussion"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-striker-world-cup-belgium/",
-      "team": "usmnt",
-      "title": "Is USMNT's Folarin Balogun worth all the fuss? Will the striker be a World Cup difference maker vs. Belgium?",
-      "summary": "As the USMNT prepares for a historic clash with Belgium, we look at whether Folarin Balogun is truly worth the unprecedented drama",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-06T16:03:07.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-striker-world-cup-belgium/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44771/usa-vs-bosnia-and-herzegovina-2026-world-cup-man-of-the-match",
@@ -867,6 +856,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-06T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-6/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44773/usa-vs-belgium-2026-world-cup-time-tv-schedule-streaming-and-lineups",
+      "team": "usmnt",
+      "title": "USA vs. Belgium, 2026 World Cup: Time, TV schedule, streaming and lineups",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-06T08:10:01.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44773/usa-vs-belgium-2026-world-cup-time-tv-schedule-streaming-and-lineups"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-career-year-sabres-peyton-krebs-files-for-salary-arbitration/",
@@ -1175,17 +1175,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-29T13:59:00.000Z",
       "link": "https://www.buffalobills.com/news/seneca-resorts-casinos-signs-on-as-founding-partner-of-highmark-stadium-extends-partnership-with-buffalo-bills"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265699-when-did-the-12th-man-become-obsolete-in-bills-fandom/",
-      "team": "bills",
-      "title": "When did the 12th Man become obsolete in Bills fandom?",
-      "summary": "Interesting chat on WGR550 this morning about how not only will OJ not be getting his name in the ring of honor but doesn't sound like the 12th Man is getting one either.  Then they talked about does that even matter and they both agreed no not really.  They went on to talk about how nobody ever refers to Bills fans as the 12th Man anymore and Seattle took that over in the NFL with the 12s.\n\n\n\n\tI would say that's all true, I couldn't tell you the last time I remember anybody bringing up the 12th Man but it is kinda funny when you think about what a big deal that was in the 90s and into the 2000s.\n\n\n\n\t \n\n\n\n\tThe obvious answer to my question is it was replaced by Bills Mafia, I know that.  But did it happen overnight or was it just a thing that was gradually phased out into oblivion. I feel like in the early days of Bills Mafia the 12th Man was also still a thing?  Not sure if Seattle's rise with it's Super Bowl team and all of the hype they got around calling their fans the 12s also stole some of that shine from the Bills 12th Man days.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-29T12:09:19.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265699-when-did-the-12th-man-become-obsolete-in-bills-fandom/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-6-29/",
