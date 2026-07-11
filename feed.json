@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T19:52:30.571Z",
+  "generatedAt": "2026-07-11T20:53:31.633Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -175,6 +175,17 @@
     }
   ],
   "stories": [
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis",
+      "team": "usmnt",
+      "title": "⚽ USMNT World Cup grades: Expectations met?",
+      "summary": "At this summer's World Cup, the U.S. did its homework, aced the quizzes, and then failed the final exam. How should we grade its World Cup?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-11T21:29:29.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis"
+    },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136703/dion-dawkins-earns-honorable-mention-in-espns-top-10-tight-end-rankings",
       "team": "bills",
@@ -306,6 +317,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T17:00:27Z",
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
+      "team": "sabres",
+      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
+      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T15:06:59.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49317008/instead-being-usmnt-biggest-world-cup-star-pulisic-was-biggest-mystery",
+      "team": "usmnt",
+      "title": "USMNT's Pulisic flopped at this World Cup, but does he deserve the blame?",
+      "summary": "In his prime at a World Cup on home soil, this summer was Christian Pulisic's moment, but for a number of reasons, he failed to meet it.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T14:43:17.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49317008/instead-being-usmnt-biggest-world-cup-star-pulisic-was-biggest-mystery"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136674/dalton-kincaid-earns-honorable-mention-in-espns-top-10-tight-end-rankings",
@@ -493,17 +526,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-09T16:30:08.000Z",
       "link": "https://www.cbssports.com/soccer/news/christian-pulisic-usmnt-legacy-injury-world-cup-exit/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265770-extremely-interesting-athletic-piece-when-players-peak-by-position/",
-      "team": "bills",
-      "title": "Extremely interesting Athletic piece: when players peak, by position",
-      "summary": "https://www.nytimes.com/athletic/7426208/2026/07/06/at-what-age-do-nfl-players-in-different-positions-peak/\n\t \n\n\n\n\tLots of surprises here. If history is any guide, we’ve got a lot of prime Josh still in store, and DJ Moore will be in his peak years for a couple more seasons. Lots to chew on and debate here as it applies to the Bills too.\n\n\n\n\t——\n\n\n\n\t \n\n\n\n\t’On defense, the inside of the line is just a different beast. Paul Dehner Jr. explored how DTs are aging better than ever, speaking with the Bengals’ 28-year-old addition Dexter Lawrence, who’s now alongside the 31-year-old Jonathan Allen. They explained why their cohort has been aging so well:\n\n\n\n\t💬 “You don’t lose strength,” Allen said. “That’s the last thing to go. That’s something I’m still able to rely on. And if anything, I feel stronger than ever.”\n\n\n\n\t“It’s (also) an understanding of how offenses work, an anticipation of what they are going to do can help you so much more than a cornerback, where if you don’t have the speed to keep up with a go ball, it’s going to be hard at 35 to keep up with receivers just coming into the league.”’",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-09T14:53:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265770-extremely-interesting-athletic-piece-when-players-peak-by-position/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44833/steve-cherundolo-named-u-s-mens-olympic-head-coach",
@@ -1144,6 +1166,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/265684-the-view-from-patriots-wire/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/",
+      "team": "bills",
+      "title": "Lions CB Terrion Arnold facing multiple felony charges - potential life in prison",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-25T03:03:59.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony",
       "team": "bills",
       "title": "'Impressed by every aspect of it' | Bills officially open Highmark Stadium with ribbon cutting ceremony",
@@ -1188,6 +1221,17 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-sign-these-members-of-their-2026-nfl-draft-class"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/",
+      "team": "bills",
+      "title": "Should OJ Simpson be on the new stadiums Wall of Fame?",
+      "summary": "This was Brought up on WGR a few times this last month. Thought I would do my own Poll. For me its a hard no. The dude was my hero growing up.. that being said.. yea.. uh no.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-05-31T05:19:46.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265516-should-oj-simpson-be-on-the-new-stadiums-wall-of-fame/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265480-dalton-kincaid-is-a-top-5-te/",
       "team": "bills",
       "title": "Dalton Kincaid is a top 5 TE",
@@ -1208,17 +1252,6 @@
       "sourceCount": 1,
       "publishedAt": "2025-11-21T23:51:05.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/262760-report-49ers-to-release-aiyuk/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/255720-diggs-drama/",
-      "team": "bills",
-      "title": "Diggs' Drama",
-      "summary": "A thread for our former master of histrionics, who doesn't need a new thread every time he gets his drama queen on.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2024-08-10T03:03:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
