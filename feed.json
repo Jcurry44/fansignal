@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T08:54:06.844Z",
+  "generatedAt": "2026-07-12T10:36:40.102Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -175,6 +175,28 @@
     }
   ],
   "stories": [
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis",
+      "team": "usmnt",
+      "title": "⚽ USMNT World Cup grades: Expectations met?",
+      "summary": "At this summer's World Cup, the U.S. did its homework, aced the quizzes, and then failed the final exam. How should we grade its World Cup?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-12T11:29:43.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265790-ot-university-at-buffalo/",
+      "team": "bills",
+      "title": "OT: university at Buffalo",
+      "summary": "My daughter might get an opportunity to play soccer at UB.  Can you guys tell me what you think of the campus?  How is campus life?  Is it a ghost town on weekends?  We’re heading up in august but I’d like to get some recon before we go.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-12T09:49:10.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265790-ot-university-at-buffalo/"
+    },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265789-congratulations-to-gable-steveson/",
       "team": "bills",
@@ -275,17 +297,6 @@
       "link": "https://www.starsandstripesfc.com/fifa-world-cup/44838/2026-world-cup-quarterfinals-matchday-3-match-thread-and-discussion"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265783-bills-bucks-this-is-a-question-not-information/",
-      "team": "bills",
-      "title": "Bills bucks (this is a question not information)",
-      "summary": "Has anyone heard if PSL / season ticket holders will get any Bills bucks this year?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T22:17:44.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265783-bills-bucks-this-is-a-question-not-information/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-complete-installation-of-bison-family-statues-at-highmark-stadium-s-family-circle",
       "team": "bills",
       "title": "Buffalo Bills complete installation of bison family statues at Highmark Stadium's Family Circle",
@@ -339,6 +350,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T17:00:27Z",
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
+      "team": "sabres",
+      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
+      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T15:06:59.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49317008/instead-being-usmnt-biggest-world-cup-star-pulisic-was-biggest-mystery",
+      "team": "usmnt",
+      "title": "USMNT's Pulisic flopped at this World Cup, but does he deserve the blame?",
+      "summary": "In his prime at a World Cup on home soil, this summer was Christian Pulisic's moment, but for a number of reasons, he failed to meet it.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T14:43:17.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49317008/instead-being-usmnt-biggest-world-cup-star-pulisic-was-biggest-mystery"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136674/dalton-kincaid-earns-honorable-mention-in-espns-top-10-tight-end-rankings",
