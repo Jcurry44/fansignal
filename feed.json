@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T18:01:51.521Z",
+  "generatedAt": "2026-07-13T19:49:39.636Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -176,15 +176,37 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49350801/new-england-revolution-extend-contract-usmnt-gk-matt-turner-loan-lyon",
-      "team": "usmnt",
-      "title": "Revs re-sign USMNT's Turner on loan from Lyon",
-      "summary": "The New England Revolution announced on Monday that it has extended the loan of United States men's national team goalkeeper Matt Turner from Ligue 1 side Lyon through the end of 2026.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136754/buffalo-bills-carry-plenty-of-roster-intrigue-into-2026-training-camp",
+      "team": "bills",
+      "title": "Buffalo Bills carry plenty of roster intrigue into 2026 training camp",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-13T17:32:26.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49350801/new-england-revolution-extend-contract-usmnt-gk-matt-turner-loan-lyon"
+      "publishedAt": "2026-07-13T19:11:12.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136754/buffalo-bills-carry-plenty-of-roster-intrigue-into-2026-training-camp"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265800-seahawks-sold-for-a-record-96b/",
+      "team": "bills",
+      "title": "Seahawks sold for a record 9.6B",
+      "summary": "https://www.msn.com/en-us/sports/nhl/seattle-seahawks-sold-for-record-9-612-billion-setting-new-benchmark-for-us-sports-franchises/ar-AA27PdvB?ocid=entnewsntp&pc=U531&cvid=6a5536a0f5f54cb8951cf23e7b91fd0c&ei=19",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T19:06:46.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265800-seahawks-sold-for-a-record-96b/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think",
+      "team": "usmnt",
+      "title": "The USMNT 2030 World Cup qualifying journey begins sooner than we think",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T18:41:36.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/peytons-place-krebs-signs-for-four-more-years-in-buffalo/",
@@ -231,6 +253,17 @@
       "link": "https://www.buffalohockeybeat.com/sabres-sign-peyton-krebs-to-four-year-contract-avoid-arbitration/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/44863/usmnt-midweek-viewing-guide-odds-and-ends",
+      "team": "usmnt",
+      "title": "USMNT midweek viewing guide: Odds and ends",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T14:40:32.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/44863/usmnt-midweek-viewing-guide-odds-and-ends"
+    },
+    {
       "id": "espn-bills::49315416",
       "team": "bills",
       "title": "Execs, coaches, scouts rank top NFL quarterbacks for 2026",
@@ -242,6 +275,17 @@
       "link": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44864/uswnt-to-face-spain-in-pair-of-october-friendlies",
+      "team": "usmnt",
+      "title": "USWNT to face Spain in pair of October friendlies",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T14:18:43.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44864/uswnt-to-face-spain-in-pair-of-october-friendlies"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265797-be-the-all-time-bills-gm-make-the-ultimate-bills-team-from-bills-history/",
       "team": "bills",
       "title": "Be the All Time Bills GM & Make the Ultimate Bills Team From Bills History .",
@@ -251,17 +295,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T13:55:16.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265797-be-the-all-time-bills-gm-make-the-ultimate-bills-team-from-bills-history/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years",
-      "team": "usmnt",
-      "title": "Projecting the USMNT 2030 World Cup roster: 30 pla...",
-      "summary": "The tears are barely dry from the USMNT's 2026 World Cup exit, but the page immediately turns to the 2030 World Cup. Here's who could represent the U.S. in four years.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T13:30:44.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136729/bills-news-what-changes-could-be-coming-on-offense",
@@ -339,6 +372,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T11:37:14.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136604/buffalo-bills-2026-scouting-report-center-guard-alec-anderson"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44859/usa-vs-belgium-2026-world-cup-man-of-the-match",
+      "team": "usmnt",
+      "title": "USA vs. Belgium, 2026 World Cup: Man of the Match",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T03:21:37.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44859/usa-vs-belgium-2026-world-cup-man-of-the-match"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136643/joe-brady-must-ace-clock-management-aspect-of-being-buffalo-bills-head-coach",
@@ -528,17 +572,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
-      "team": "sabres",
-      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
-      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T15:06:59.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136674/dalton-kincaid-earns-honorable-mention-in-espns-top-10-tight-end-rankings",
       "team": "bills",
       "title": "Dalton Kincaid earns honorable mention in ESPN’s Top 10 tight end rankings",
@@ -548,17 +581,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T14:12:33.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/136674/dalton-kincaid-earns-honorable-mention-in-espns-top-10-tight-end-rankings"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135730/plays-that-defined-2025-buffalo-bills-at-houston-texans-week-12",
-      "team": "bills",
-      "title": "Plays That Defined 2025: Buffalo Bills at Houston Texans, Week 12",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T13:19:49.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135730/plays-that-defined-2025-buffalo-bills-at-houston-texans-week-12"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion",
@@ -583,17 +605,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265778-josh%E2%80%99s-comments-on-hc-change%E2%80%A6interesting/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think",
-      "team": "usmnt",
-      "title": "The USMNT 2030 World Cup qualifying journey begins sooner than we think",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T05:33:28.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265777-cbs-sports-which-teams-have-best-set-their-qb-up-for-success/",
       "team": "bills",
       "title": "CBS Sports: Which teams have best set their QB up for success.......",
@@ -614,6 +625,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T00:15:43Z",
       "link": "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265775-terrel-bernards-horrible-contract-extension/",
+      "team": "bills",
+      "title": "Terrel Bernard's \"Horrible Contract Extension\"",
+      "summary": "I'm sure many of you listen to Locked On Bills. This week, Joe was lamenting how the Bills are stuck with Terrel Bernard's contract and it's one of Beane's worst.\n\n\n\n\t \n\n\n\n\tSomeone please correct me if I'm wrong, but this is how I read his contract:\n\n\n\n\t \n\n\n\n\t2026: $5.35M Cap Hit\n\n\n\n\t2027: $11.15M Cap Hit\n\n\n\n\t2028: $12M Cap Hit, but he can be released and save $5.5M \n\n\n\n\t \n\n\n\n\tYes, I understand he's often injured. However, he flashed more playmaking potential than Edmunds ($18M/yr with the Bears) ever did.\n\n\n\n\tObviously respected in the locker room to be 1 of 2 team captains and he just turned 27 years old.\n\n\n\n\t$5M this year, $11M next year, and a $6.5M dead cap hit the following year if we want to cut him isn't that bad.\n\n\n\n\t \n\n\n\n\tI'm sick of hearing this is a terrible contract we can't get away from.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-09T23:28:31.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265775-terrel-bernards-horrible-contract-extension/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/t-mcgees-2026-nhl-draft-post-mortem-peek-at-2027/",
@@ -658,17 +680,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-09T12:51:22.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265767-brandin-cooks-remains-in-contact-with-bills-and-wants-to-come-back/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/ranking-top-10-moment-usmnts-2026-world-cup-folarin-balogun/",
-      "team": "usmnt",
-      "title": "Ranking top 10 moments from USMNT's 2026 World Cup from Folarin Balogun red card fiasco to making history",
-      "summary": "From Mauricio Pochettino making history to breakout stars announcing themselves on the world stage, we rank the most memorable moments from the Stars and Stripes' wild tournament run",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-08T22:10:53.000Z",
-      "link": "https://www.cbssports.com/soccer/news/ranking-top-10-moment-usmnts-2026-world-cup-folarin-balogun/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44830/2026-world-cup-quarterfinals-matchday-1-match-thread-and-discussion",
@@ -803,17 +814,6 @@
       "link": "https://bandits.com/gurts-fast-break-shift-to-playoff-mode/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44731/should-mauricio-pochettino-continue-as-usmnt-head-coach-for-2030",
-      "team": "usmnt",
-      "title": "Should Mauricio Pochettino Continue as USMNT Head Coach for 2030?",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-08T15:26:26.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44731/should-mauricio-pochettino-continue-as-usmnt-head-coach-for-2030"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information",
       "team": "bills",
       "title": "Buffalo Bills announce 2026 Training Camp schedule and ticket information",
@@ -823,17 +823,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-07T19:59:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44809/usmnt-vs-belgium-what-we-learned-same-question-different-generation",
-      "team": "usmnt",
-      "title": "USMNT vs. Belgium: What we learned – same question, different generation",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-07T18:31:09.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44809/usmnt-vs-belgium-what-we-learned-same-question-different-generation"
     },
     {
       "id": "espn-sabres::49286665",
@@ -1078,17 +1067,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/48968493/nhl-2026-offseason-trades-rankings-targets-market-draft-picks-contracts"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/",
-      "team": "bills",
-      "title": "Red vs Blue Scrimmage Tickets ???",
-      "summary": "Has anyone heard when these are going to be made available for the season ticket holders yet?  \n\t \n\n\n\n\tAlso, has anyone heard if the season ticket holders don’t want theirs, if they’ll be available to the public?   \n\t \n\n\n\n\tI need one more, as I’m trying to bring my gf.  We already have four from our seasons.   Don’t care where the seat is, as I’ll probably spend the entire time walking around and taking pictures. Just need entry.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-30T00:37:13.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/"
-    },
-    {
       "id": "espn-sabres::49206272",
       "team": "sabres",
       "title": "NHL free agency 2026: How all 32 teams can earn an A+",
@@ -1142,17 +1120,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-28T02:21:16Z",
       "link": "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/",
-      "team": "bills",
-      "title": "Lions CB Terrion Arnold facing multiple felony charges - potential life in prison",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T03:03:59.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/impressed-by-every-aspect-of-it-bills-officially-open-highmark-stadium-with-ribbon-cutting-ceremony",
