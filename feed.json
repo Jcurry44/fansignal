@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T15:24:48.834Z",
+  "generatedAt": "2026-07-14T16:45:50.133Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 4,
       "error": null
     },
     {
@@ -176,6 +176,72 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates",
+      "team": "usmnt",
+      "title": "Balogun: Red card 'controversy' affected USMNT",
+      "summary": "United States striker Folarin Balogun revealed that he predicted President Donald Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy.\"",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T17:19:39.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49356529/folarin-balogun-joins-lebron-james-klutch-sports-agency-breakout-world-cup",
+      "team": "usmnt",
+      "title": "Balogun joins LeBron's agency after breakout WC",
+      "summary": "United States forward Folarin Balogun has signed with LeBron James' agency Klutch Sports following a breakout World Cup that elevated his profile on and off the pitch.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T17:19:39.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49356529/folarin-balogun-joins-lebron-james-klutch-sports-agency-breakout-world-cup"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
+      "team": "usmnt",
+      "title": "The USMNT's struggles at the World Cup can't be fixed by overhauling youth development",
+      "summary": "Everyone thinks they can fix the USMNT. But maybe the U.S. is actually making progress and luck just hasn't been on its side -- what then?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T16:29:22.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal",
+      "team": "sabres",
+      "title": "Sabres sign Krebs to 4-year deal worth $18M",
+      "summary": "Veteran NHL executive John Davidson, who spent 18 seasons as president of the Blues, Blue Jackets and Rangers, has been hired by the Sabres as senior adviser.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T16:26:51.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44902/carli-lloyd-puts-usmnt-world-cup-in-perspective-after-belgium-loss",
+      "team": "usmnt",
+      "title": "Carli Lloyd Puts USMNT World Cup in Perspective After Belgium Loss",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T15:28:44.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44902/carli-lloyd-puts-usmnt-world-cup-in-perspective-after-belgium-loss"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/136777/should-buffalo-bills-be-in-on-these-available-free-agents-stefon-diggs-deebo-samuel",
+      "team": "bills",
+      "title": "Should the Buffalo Bills be in on these available free agents?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T15:16:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-roster/136777/should-buffalo-bills-be-in-on-these-available-free-agents-stefon-diggs-deebo-samuel"
+    },
+    {
       "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/bruins-hire-ex-sabres-gm-kevyn-adams-as-senior-advisor/",
       "team": "sabres",
       "title": "Bruins hire ex-Sabres GM Kevyn Adams as senior advisor",
@@ -187,6 +253,17 @@
       "link": "https://www.sportsnet.ca/nhl/article/bruins-hire-ex-sabres-gm-kevyn-adams-as-senior-advisor/"
     },
     {
+      "id": "espn-bills::39387572",
+      "team": "bills",
+      "title": "Who are the current NFL team owners?",
+      "summary": "NFL team owners carry a variety of reputations in the public eye. Who is in charge of your favorite franchises? Check out this list for more details.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T15:01:39Z",
+      "link": "https://www.espn.com/nfl/story/_/id/39387572/who-current-nfl-team-owners"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44881/france-vs-spain-2026-world-cup-semifinals-match-thread-and-discussion",
       "team": "usmnt",
       "title": "France vs. Spain, 2026 World Cup semifinals: Match thread and discussion",
@@ -196,6 +273,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-14T13:54:57.000Z",
       "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44881/france-vs-spain-2026-world-cup-semifinals-match-thread-and-discussion"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years",
+      "team": "usmnt",
+      "title": "30 players who could represent the USMNT at the 20...",
+      "summary": "The tears are barely dry from the USMNT's 2026 World Cup exit, but the page immediately turns to the 2030 World Cup. Here's who could represent the U.S. in four years.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T13:18:52.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135796/plays-that-defined-2025-buffalo-bills-at-pittsburgh-steelers-week-13",
@@ -295,17 +383,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T19:06:46.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265800-seahawks-sold-for-a-record-96b/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think",
-      "team": "usmnt",
-      "title": "The USMNT 2030 World Cup qualifying journey begins sooner than we think",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T19:00:17.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/peytons-place-krebs-signs-for-four-more-years-in-buffalo/",
@@ -550,17 +627,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt/44850/the-2026-world-cup-stars-stripes-fc-awards-for-the-usmnt"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136494/buffalo-bills-2026-scouting-report-cornerback-dorian-strong",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: cornerback Dorian Strong",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-11T16:13:11.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136494/buffalo-bills-2026-scouting-report-cornerback-dorian-strong"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265788-james-cook-faced-a-light-box-at-the-third-lowest-rate-look-at-some-of-his-stats/",
       "team": "bills",
       "title": "James Cook faced a light box at the third lowest rate - look at some of his stats",
@@ -638,6 +704,17 @@
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
     },
     {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
+      "team": "sabres",
+      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
+      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T15:06:59.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion",
       "team": "usmnt",
       "title": "2026 World Cup quarterfinals, Matchday 2: Match thread and discussion",
@@ -669,17 +746,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T04:01:41.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265777-cbs-sports-which-teams-have-best-set-their-qb-up-for-success/"
-    },
-    {
-      "id": "espn-bills::49309306",
-      "team": "bills",
-      "title": "How are Super Bowl-level NFL rosters built at each position?",
-      "summary": "Do teams need first-round QBs to reach the Super Bowl? Is it crucial to spend big on No. 1 receivers and top-tier edge rushers? Let's sort through rosters from the past 15 Super Bowls.",
-      "source": "ESPN · Bill Barnwell",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T00:15:43Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49309306/2026-nfl-season-super-bowl-roster-building-positions-draft-signings-trades"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265775-terrel-bernards-horrible-contract-extension/",
