@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T13:51:18.855Z",
+  "generatedAt": "2026-07-14T15:24:48.834Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -175,6 +175,28 @@
     }
   ],
   "stories": [
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/bruins-hire-ex-sabres-gm-kevyn-adams-as-senior-advisor/",
+      "team": "sabres",
+      "title": "Bruins hire ex-Sabres GM Kevyn Adams as senior advisor",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T15:16:02.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/bruins-hire-ex-sabres-gm-kevyn-adams-as-senior-advisor/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44881/france-vs-spain-2026-world-cup-semifinals-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "France vs. Spain, 2026 World Cup semifinals: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T13:54:57.000Z",
+      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44881/france-vs-spain-2026-world-cup-semifinals-match-thread-and-discussion"
+    },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135796/plays-that-defined-2025-buffalo-bills-at-pittsburgh-steelers-week-13",
       "team": "bills",
@@ -451,17 +473,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136604/buffalo-bills-2026-scouting-report-center-guard-alec-anderson"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44859/usa-vs-belgium-2026-world-cup-man-of-the-match",
-      "team": "usmnt",
-      "title": "USA vs. Belgium, 2026 World Cup: Man of the Match",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T03:21:37.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44859/usa-vs-belgium-2026-world-cup-man-of-the-match"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136643/joe-brady-must-ace-clock-management-aspect-of-being-buffalo-bills-head-coach",
       "team": "bills",
       "title": "Joe Brady must ace clock-management aspect of being Buffalo Bills head coach",
@@ -605,15 +616,15 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/44846/world-cup-reacts-results-who-are-you-rooting-for-the-rest-of-the-world-cup"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265782-execs-coaches-scouts-rank-qbs-and-pff-ranks-qbs-ja-1-in-both/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265782-execs-coaches-and-scouts-rank-ja-1-other-sources-rank-him-1-as-well/",
       "team": "bills",
-      "title": "Execs, coaches, scouts rank QBs and PFF ranks QBs - JA #1 in both",
-      "summary": "Execs, coaches, scouts rank QBs. This supports what Chris Simms has said - https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts\n\n\n\n\t \n\n\n\n\t\"He's the most singularly unstoppable player at the position when you get his A-game,\" the GM said.\n\t \n\n\n\n\t\"Look who he was throwing to. His wideouts weren't great. But he made it work and brought out their best. He elevates the people around him, clearly.\"\n\n\n\n\t\n\t \n\n\n\n\tPFF ranks QBs as well",
+      "title": "Execs, coaches and scouts rank JA #1; other sources rank him #1 as well",
+      "summary": "Execs, coaches, and scouts https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts\n\n\n\n\t \n\n\n\n\t\"He's the most singularly unstoppable player at the position when you get his A-game,\" the GM said.\n\t \n\n\n\n\t\"Look who he was throwing to. His wideouts weren't great. But he made it work and brought out their best. He elevates the people around him, clearly.\"\n\n\n\n\t\n\t \n\n\n\n\tPFF QB rankings",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-07-10T18:58:19.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265782-execs-coaches-scouts-rank-qbs-and-pff-ranks-qbs-ja-1-in-both/"
+      "link": "https://www.twobillsdrive.com/community/topic/265782-execs-coaches-and-scouts-rank-ja-1-other-sources-rank-him-1-as-well/"
     },
     {
       "id": "espn-bills::49286915",
