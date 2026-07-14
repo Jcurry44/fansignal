@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T23:13:53.607Z",
+  "generatedAt": "2026-07-14T00:09:38.301Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265802-josh-allen-1-qb-according-to-foxbut/",
+      "team": "bills",
+      "title": "Josh Allen #1 QB according to FOX...but...",
+      "summary": "It seems like a back handed compliment.   They had to bring up racial bias that Allen has dealt with, and hey... mahomes might come off his ACL and make them regret picking Allen.\n\n\n\n\t \n\n\n\n\tI have never seen a QB that the media goes out of its way to disparage as Josh.\n\n\n\n\t \n\n\n\n\thttps://www.foxnews.com/outkick-sports/nfl-coaches-executives-say-patrick-mahomes-no-longer-best-quarterback-nfl",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T23:51:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265802-josh-allen-1-qb-according-to-foxbut/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49350801/new-england-revolution-extend-contract-usmnt-gk-matt-turner-loan-lyon",
+      "team": "usmnt",
+      "title": "Revs re-sign USMNT's Turner on loan from Lyon",
+      "summary": "The New England Revolution announced on Monday that it has extended the loan of United States men's national team goalkeeper Matt Turner from Ligue 1 side Lyon through the end of 2026.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T23:23:39.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49350801/new-england-revolution-extend-contract-usmnt-gk-matt-turner-loan-lyon"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/",
       "team": "sabres",
       "title": "Sabres bring in John Davidson as senior advisor; Buffalo makes minor trade",
@@ -185,6 +207,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T22:07:53.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal",
+      "team": "sabres",
+      "title": "Sabres sign Krebs to 4-year deal worth $18M",
+      "summary": "Veteran NHL executive John Davidson, who spent 18 seasons as president of the Blues, Blue Jackets and Rangers, has been hired by the Sabres as senior adviser.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T22:01:34.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136754/buffalo-bills-carry-plenty-of-roster-intrigue-into-2026-training-camp",
+      "team": "bills",
+      "title": "Buffalo Bills carry plenty of roster intrigue into 2026 training camp",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T20:49:28.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136754/buffalo-bills-carry-plenty-of-roster-intrigue-into-2026-training-camp"
     },
     {
       "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/sabres-swap-tyler-kopff-to-capitals-for-zac-funk/",
@@ -270,9 +314,20 @@
       "summary": "The Buffalo Sabres on Monday avoided arbitration with Peyton Krebs, signing the versatile forward to a four-year, $18 million contract.\nKrebs, 25, was the Sabres’ last restricted free agent. He filed for arbitration last week.\nHis $4.5 million salary cap hit is the seventh-highest among Buffalo forwards. He just completed a two-year, $2.9 million contract.\n\nKrebs will receive a $3 million salary and a $2 million signing bonus in the first two years of ... Read the full article \nThe post Sabres sign Peyton Krebs to four-year contract, avoid arbitration first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "publishedAt": "2026-07-13T15:30:33.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-sign-peyton-krebs-to-four-year-contract-avoid-arbitration/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/sabres-peyton-krebs-agree-to-four-year-18-million-contract-extension/",
+      "team": "sabres",
+      "title": "Sabres ink Krebs to four-year extension, hire John Davidson",
+      "summary": "Peyton Krebs won’t be leaving western New York.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T15:02:38.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/sabres-peyton-krebs-agree-to-four-year-18-million-contract-extension/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/44863/usmnt-midweek-viewing-guide-odds-and-ends",
@@ -317,6 +372,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T13:55:16.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265797-be-the-all-time-bills-gm-make-the-ultimate-bills-team-from-bills-history/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years",
+      "team": "usmnt",
+      "title": "Projecting the USMNT 2030 World Cup roster: 30 pla...",
+      "summary": "The tears are barely dry from the USMNT's 2026 World Cup exit, but the page immediately turns to the 2030 World Cup. Here's who could represent the U.S. in four years.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T13:30:44.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136729/bills-news-what-changes-could-be-coming-on-offense",
@@ -528,17 +594,6 @@
       "link": "https://www.buffalohockeybeat.com/in-sixth-rounder-dylan-dumont-sabres-could-have-underrated-prospect/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265785-preseason-playerplayers-from-the-past-you-wanted-to-make-the-roster/",
-      "team": "bills",
-      "title": "Preseason player/players from the past you wanted to make the roster",
-      "summary": "Vince Young, Cardale Jones, Christian Wade, Tyree Jackson",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-11T04:33:58.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265785-preseason-playerplayers-from-the-past-you-wanted-to-make-the-roster/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/fifa-world-cup/44838/2026-world-cup-quarterfinals-matchday-3-match-thread-and-discussion",
       "team": "usmnt",
       "title": "2026 World Cup quarterfinals, Matchday 3: Match thread and discussion",
@@ -594,6 +649,17 @@
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
     },
     {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
+      "team": "sabres",
+      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
+      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T15:06:59.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136674/dalton-kincaid-earns-honorable-mention-in-espns-top-10-tight-end-rankings",
       "team": "bills",
       "title": "Dalton Kincaid earns honorable mention in ESPN’s Top 10 tight end rankings",
@@ -603,17 +669,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T14:12:33.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/136674/dalton-kincaid-earns-honorable-mention-in-espns-top-10-tight-end-rankings"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135730/plays-that-defined-2025-buffalo-bills-at-houston-texans-week-12",
-      "team": "bills",
-      "title": "Plays That Defined 2025: Buffalo Bills at Houston Texans, Week 12",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T13:19:49.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135730/plays-that-defined-2025-buffalo-bills-at-houston-texans-week-12"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion",
