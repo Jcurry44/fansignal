@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T10:17:39.695Z",
+  "generatedAt": "2026-07-14T11:55:07.172Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 4,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,48 +176,26 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49356529/folarin-balogun-joins-lebron-james-klutch-sports-agency-breakout-world-cup",
-      "team": "usmnt",
-      "title": "Balogun joins LeBron's agency after breakout WC",
-      "summary": "United States forward Folarin Balogun has signed with LeBron James' agency Klutch Sports following a breakout World Cup that elevated his profile on and off the pitch.",
-      "source": "ESPN Soccer",
+      "id": "espn-bills::49315416",
+      "team": "bills",
+      "title": "Execs, coaches, scouts rank top NFL quarterbacks for 2026",
+      "summary": "Who are the elite QBs in the NFL right now? Which passer ranks No. 1? And where do multiple top names from the 2024 draft class land on our top-10 list?",
+      "source": "ESPN · Jeremy Fowler",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-14T10:05:20.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49356529/folarin-balogun-joins-lebron-james-klutch-sports-agency-breakout-world-cup"
+      "publishedAt": "2026-07-14T10:12:12Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49350801/new-england-revolution-extend-contract-usmnt-gk-matt-turner-loan-lyon",
-      "team": "usmnt",
-      "title": "Revs re-sign USMNT's Turner on loan from Lyon",
-      "summary": "The New England Revolution announced on Monday that it has extended the loan of United States men's national team goalkeeper Matt Turner from Ligue 1 side Lyon through the end of 2026.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136735/buffalo-bills-2026-scouting-report-wide-receiver-mecole-hardman-jr",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: wide receiver Mecole Hardman Jr.",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-14T10:05:20.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49350801/new-england-revolution-extend-contract-usmnt-gk-matt-turner-loan-lyon"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years",
-      "team": "usmnt",
-      "title": "Projecting the USMNT 2030 World Cup roster: 30 pla...",
-      "summary": "The tears are barely dry from the USMNT's 2026 World Cup exit, but the page immediately turns to the 2030 World Cup. Here's who could represent the U.S. in four years.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-14T08:40:49.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
-      "team": "usmnt",
-      "title": "The USMNT's struggles at the World Cup can't be fi...",
-      "summary": "Everyone thinks they can fix the USMNT. But maybe the U.S. is actually making progress and luck just hasn't been on its side -- what then?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-14T08:40:33.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development"
+      "publishedAt": "2026-07-13T22:21:43.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136735/buffalo-bills-2026-scouting-report-wide-receiver-mecole-hardman-jr"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/",
@@ -229,17 +207,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T22:07:53.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal",
-      "team": "sabres",
-      "title": "Sabres sign Krebs to 4-year deal worth $18M",
-      "summary": "Veteran NHL executive John Davidson, who spent 18 seasons as president of the Blues, Blue Jackets and Rangers, has been hired by the Sabres as senior adviser.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T22:01:34.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136754/buffalo-bills-carry-plenty-of-roster-intrigue-into-2026-training-camp",
@@ -264,6 +231,17 @@
       "link": "https://www.sportsnet.ca/nhl/article/sabres-swap-tyler-kopff-to-capitals-for-zac-funk/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44879/world-cup-reacts-which-fan-base-has-been-the-best",
+      "team": "usmnt",
+      "title": "World Cup Reacts: Which fan base has been the best?",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T19:46:53.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44879/world-cup-reacts-which-fan-base-has-been-the-best"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265800-seahawks-sold-for-a-record-96b/",
       "team": "bills",
       "title": "Seahawks sold for a record 9.6B",
@@ -273,6 +251,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T19:06:46.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265800-seahawks-sold-for-a-record-96b/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think",
+      "team": "usmnt",
+      "title": "The USMNT 2030 World Cup qualifying journey begins sooner than we think",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T19:00:17.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/peytons-place-krebs-signs-for-four-more-years-in-buffalo/",
@@ -339,17 +328,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T14:40:32.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/44863/usmnt-midweek-viewing-guide-odds-and-ends"
-    },
-    {
-      "id": "espn-bills::49315416",
-      "team": "bills",
-      "title": "Execs, coaches, scouts rank top NFL quarterbacks for 2026",
-      "summary": "Who are the elite QBs in the NFL right now? Which passer ranks No. 1? And where do multiple top names from the 2024 draft class land on our top-10 list?",
-      "source": "ESPN · Jeremy Fowler",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T14:34:11Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44864/uswnt-to-face-spain-in-pair-of-october-friendlies",
@@ -638,28 +616,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
-      "team": "sabres",
-      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
-      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T15:06:59.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136674/dalton-kincaid-earns-honorable-mention-in-espns-top-10-tight-end-rankings",
-      "team": "bills",
-      "title": "Dalton Kincaid earns honorable mention in ESPN’s Top 10 tight end rankings",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T14:12:33.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136674/dalton-kincaid-earns-honorable-mention-in-espns-top-10-tight-end-rankings"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion",
       "team": "usmnt",
       "title": "2026 World Cup quarterfinals, Matchday 2: Match thread and discussion",
@@ -680,17 +636,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T10:25:13.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265778-josh%E2%80%99s-comments-on-hc-change%E2%80%A6interesting/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think",
-      "team": "usmnt",
-      "title": "The USMNT 2030 World Cup qualifying journey begins sooner than we think",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T05:33:28.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/44818/the-usmnt-2030-world-cup-qualifying-journey-begins-sooner-than-we-think"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265777-cbs-sports-which-teams-have-best-set-their-qb-up-for-success/",
@@ -757,17 +702,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-09T12:51:22.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265767-brandin-cooks-remains-in-contact-with-bills-and-wants-to-come-back/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44830/2026-world-cup-quarterfinals-matchday-1-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup quarterfinals, Matchday 1: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-08T21:06:18.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44830/2026-world-cup-quarterfinals-matchday-1-match-thread-and-discussion"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-to-host-return-of-the-blue-red-practice-august-8-open-practice-august-18",
