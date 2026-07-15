@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T17:39:30.106Z",
+  "generatedAt": "2026-07-15T18:46:24.096Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -150,12 +150,6 @@
       "detail": "at HOU"
     },
     {
-      "team": "sabres",
-      "state": "final",
-      "headline": "Final · L 2-3",
-      "detail": "vs MTL · Trail 3-4"
-    },
-    {
       "team": "bandits",
       "state": "offday",
       "headline": "Season over",
@@ -176,26 +170,15 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026",
-      "team": "usmnt",
-      "title": "USMNT's World Cup over, Pochettino's contract done...",
-      "summary": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.",
-      "source": "ESPN Soccer",
+      "id": "espn-sabres::49367105",
+      "team": "sabres",
+      "title": "Champion Hurricanes to open the NHL season against Panthers",
+      "summary": "The Hurricanes will raise their second Stanley Cup championship banner Sept. 29 before hosting the Panthers to kick off the NHL season.",
+      "source": "ESPN",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-15T17:59:49.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
-      "team": "usmnt",
-      "title": "Gutting youth soccer in America is not enough to m...",
-      "summary": "Everyone thinks they can fix the USMNT, but maybe it is making progress and luck just hasn't been on its side.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T17:59:49.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development"
+      "publishedAt": "2026-07-15T18:08:38Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49367105/champion-hurricanes-open-nhl-season-panthers"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-game-information/136840/buffalo-bills-announce-new-radio-affiliates-pregame-and-postgame-show-information",
@@ -209,17 +192,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-game-information/136840/buffalo-bills-announce-new-radio-affiliates-pregame-and-postgame-show-information"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal",
-      "team": "sabres",
-      "title": "Sabres sign Krebs to 4-year deal worth $18M",
-      "summary": "Veteran NHL executive John Davidson, who spent 18 seasons as president of the Blues, Blue Jackets and Rangers, has been hired by the Sabres as senior adviser.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T16:52:34.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/folarin-balogun-donald-trump-fifa-distraction-for-usmnt/",
       "team": "usmnt",
       "title": "USMNT's Folarin Balogun admits Donald Trump's FIFA World Cup intervention was, 'a lot of outside noise'",
@@ -229,17 +201,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T16:48:01.000Z",
       "link": "https://www.cbssports.com/soccer/news/folarin-balogun-donald-trump-fifa-distraction-for-usmnt/"
-    },
-    {
-      "id": "espn-sabres::49367105",
-      "team": "sabres",
-      "title": "Champion Hurricanes to open the NHL season against Panthers",
-      "summary": "The Hurricanes will raise their second Stanley Cup championship banner Sept. 29 before hosting the Panthers to kick off the NHL season.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T16:19:33Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49367105/champion-hurricanes-open-nhl-season-panthers"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-open-2026-27-season-oct-1-in-columbus-start-home-schedule-oct-3-versus-chicago/",
@@ -306,17 +267,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T12:59:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-radio-network-announces-23-network-affiliates-beginning-2026-season"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist",
-      "team": "usmnt",
-      "title": "Transfer rumors, news: USMNT striker Balogun on Ju...",
-      "summary": "Juventus are considering a move for AS Monaco and USMNT striker Folarin Balogun. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T09:10:25.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/bruins-hire-former-sabres-gm-kevyn-adams-as-senior-advisor/",
@@ -856,17 +806,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T17:00:27Z",
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
-    },
-    {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
-      "team": "sabres",
-      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
-      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T15:06:59.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
     },
     {
       "id": "espn-bills::49309306",
