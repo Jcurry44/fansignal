@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:30:49.112Z",
+  "generatedAt": "2026-07-15T23:41:40.688Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -170,15 +170,15 @@
   ],
   "stories": [
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal",
-      "team": "sabres",
-      "title": "Sabres sign Krebs to 4-year deal worth $18M",
-      "summary": "Veteran NHL executive John Davidson, who spent 18 seasons as president of the Blues, Blue Jackets and Rangers, has been hired by the Sabres as senior adviser.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265826-interior-map-of-the-new-stadium/",
+      "team": "bills",
+      "title": "Interior map of the new stadium?",
+      "summary": "My Google searches keep getting me section or PSL maps, what I am looking for is an interior map, if possible.  Speecifcally for the 400s. While the exact concessions might not designated yet I'd think the locatoons would.  And more importantly...The bathrooms?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-15T21:51:21.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal"
+      "publishedAt": "2026-07-15T23:11:02.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265826-interior-map-of-the-new-stadium/"
     },
     {
       "id": "espn-sabres::49367105",
@@ -190,28 +190,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T18:08:38Z",
       "link": "https://www.espn.com/nhl/story/_/id/49367105/champion-hurricanes-open-nhl-season-panthers"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026",
-      "team": "usmnt",
-      "title": "USMNT's World Cup over, Pochettino's contract done...",
-      "summary": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T17:59:49.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
-      "team": "usmnt",
-      "title": "Gutting youth soccer in America is not enough to m...",
-      "summary": "Everyone thinks they can fix the USMNT, but maybe it is making progress and luck just hasn't been on its side.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T17:59:49.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-game-information/136840/buffalo-bills-announce-new-radio-affiliates-pregame-and-postgame-show-information",
@@ -269,17 +247,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/136655/bills-news-josh-allen-earns-top-spot-in-qb-rankings"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44888/england-vs-argentina-2026-world-cup-semifinals-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "England vs. Argentina, 2026 World Cup semifinals: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T13:09:52.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44888/england-vs-argentina-2026-world-cup-semifinals-match-thread-and-discussion"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-radio-network-announces-23-network-affiliates-beginning-2026-season",
       "team": "bills",
       "title": "Buffalo Bills Radio Network announces 23 network affiliates beginning 2026 season",
@@ -289,17 +256,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T12:59:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-radio-network-announces-23-network-affiliates-beginning-2026-season"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist",
-      "team": "usmnt",
-      "title": "Transfer rumors, news: USMNT striker Balogun on Ju...",
-      "summary": "Juventus are considering a move for AS Monaco and USMNT striker Folarin Balogun. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T09:10:25.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265820-for-the-80s-kids/",
@@ -764,15 +720,15 @@
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
-      "team": "sabres",
-      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
-      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "2026 World Cup quarterfinals, Matchday 2: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-10T15:06:59.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
+      "publishedAt": "2026-07-10T10:51:12.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion"
     },
     {
       "id": "espn-bills::49309306",
@@ -839,17 +795,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-02T13:09:21Z",
       "link": "https://www.espn.com/nhl/story/_/id/49243575/frederik-andersen-edmonton-oilers-agree-one-year-deal"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265719-stevie-johnson-has-all-that-above-the-shoulders-and-hopefully-keon-catches-some-of-it/",
-      "team": "bills",
-      "title": "Stevie Johnson has all that above the shoulders and hopefully Keon catches some of it",
-      "summary": "A 7th rounder played on terrible teams who got a big 2nd contract. Many believed Stevie is an over-achiever. But it's clear the guy had it above the shoulders. \n\n\n\n\t \n\n\n\n\tOn the other hand, it speaks volume how little Keon has learned thru his first 2 years. Is it the WR coach or it's Keon himself? We are going to see this season. If Keon does improve and become a reliable target for Allen, I think Stevie Johnson will get a lot of new business as a \"mentor.\" Having the knowledge is one thing. Identifying someone's problem is another. Then the ability getting it to the person is often the most difficult part in coaching/mentoring world.\n\n\n\n\t \n\n\n\n\tI'm also surprised to hear his answer on running the ball. Just another proof I think the guy has it above his shoulders.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T00:33:43.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265719-stevie-johnson-has-all-that-above-the-shoulders-and-hopefully-keon-catches-some-of-it/"
     },
     {
       "id": "espn-sabres::48902854",
