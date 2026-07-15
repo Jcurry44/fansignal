@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T12:43:21.229Z",
+  "generatedAt": "2026-07-15T14:28:53.745Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -176,14 +176,25 @@
   ],
   "stories": [
     {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal",
+      "team": "sabres",
+      "title": "Sabres sign Krebs to 4-year deal worth $18M",
+      "summary": "Veteran NHL executive John Davidson, who spent 18 seasons as president of the Blues, Blue Jackets and Rangers, has been hired by the Sabres as senior adviser.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T15:12:36.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal"
+    },
+    {
       "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026",
       "team": "usmnt",
-      "title": "Who should be the USMNT's next coach? Here are 11 ...",
+      "title": "USMNT's World Cup over, Pochettino's contract done...",
       "summary": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.",
       "source": "ESPN Soccer",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-15T12:33:32.000Z",
+      "publishedAt": "2026-07-15T15:00:18.000Z",
       "link": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026"
     },
     {
@@ -194,8 +205,41 @@
       "source": "ESPN Soccer",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-15T12:33:32.000Z",
+      "publishedAt": "2026-07-15T14:54:25.000Z",
       "link": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265821-bills-radio-network-announced/",
+      "team": "bills",
+      "title": "Bills Radio Network announced",
+      "summary": "https://www.buffalobills.com/news/buffalo-bills-radio-network-announces-23-network-affiliates-beginning-2026-season\n\n\n\n\t \n\n\n\n\tI don't have the old network stations memorized. I think Rochester is new with 95.1 instead of WCMF. But I believe the Bills have a New York City station for the first time; ESPN 1050.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T14:20:07.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265821-bills-radio-network-announced/"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart",
+      "team": "usmnt",
+      "title": "Matt Freese: USMNT criticism 'hurts my heart'",
+      "summary": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T13:47:50.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates",
+      "team": "usmnt",
+      "title": "Balogun: Red card 'controversy' affected USMNT",
+      "summary": "United States striker Folarin Balogun revealed that he predicted President Donald Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy.\"",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T13:47:11.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates"
     },
     {
       "id": "espn-bills::49315416",
@@ -205,8 +249,41 @@
       "source": "ESPN · Jeremy Fowler",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-07-15T10:10:37Z",
+      "publishedAt": "2026-07-15T13:36:11Z",
       "link": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136655/bills-news-josh-allen-earns-top-spot-in-qb-rankings",
+      "team": "bills",
+      "title": "Bills news: Josh Allen earns top spot in QB rankings",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T13:30:09.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136655/bills-news-josh-allen-earns-top-spot-in-qb-rankings"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44888/england-vs-argentina-2026-world-cup-semifinals-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "England vs. Argentina, 2026 World Cup semifinals: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T13:09:52.000Z",
+      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44888/england-vs-argentina-2026-world-cup-semifinals-match-thread-and-discussion"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-radio-network-announces-23-network-affiliates-beginning-2026-season",
+      "team": "bills",
+      "title": "Buffalo Bills Radio Network announces 23 network affiliates beginning 2026 season",
+      "summary": "Former Bills Pro Bowl center Mitch Morse to join pregame and postgame coverage",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T12:59:00.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-radio-network-announces-23-network-affiliates-beginning-2026-season"
     },
     {
       "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist",
@@ -229,28 +306,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T04:14:42.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265820-for-the-80s-kids/"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart",
-      "team": "usmnt",
-      "title": "Matt Freese: USMNT criticism 'hurts my heart'",
-      "summary": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T02:34:50.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates",
-      "team": "usmnt",
-      "title": "Balogun: Red card 'controversy' affected USMNT",
-      "summary": "United States striker Folarin Balogun revealed that he predicted President Donald Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy.\"",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T02:34:50.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/pop-quiz-hotshot-2025-26-sabres-edition/",
@@ -440,17 +495,6 @@
       "link": "https://www.cbssports.com/soccer/news/folarin-balogun-donald-trump-fifa-distraction-for-usmnt/"
     },
     {
-      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal",
-      "team": "sabres",
-      "title": "Sabres sign Krebs to 4-year deal worth $18M",
-      "summary": "Veteran NHL executive John Davidson, who spent 18 seasons as president of the Blues, Blue Jackets and Rangers, has been hired by the Sabres as senior adviser.",
-      "source": "ESPN NHL",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-14T16:26:51.000Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44902/carli-lloyd-puts-usmnt-world-cup-in-perspective-after-belgium-loss",
       "team": "usmnt",
       "title": "Carli Lloyd Puts USMNT World Cup in Perspective After Belgium Loss",
@@ -559,17 +603,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T20:49:28.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136754/buffalo-bills-carry-plenty-of-roster-intrigue-into-2026-training-camp"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/sabres-swap-tyler-kopff-to-capitals-for-zac-funk/",
-      "team": "sabres",
-      "title": "Sabres swap Tyler Kopff to Capitals for Zac Funk",
-      "summary": "The Washington Capitals and Buffalo Sabres agreed to swap a pair of minor leaguers.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T20:21:07.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/sabres-swap-tyler-kopff-to-capitals-for-zac-funk/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44879/world-cup-reacts-which-fan-base-has-been-the-best",
@@ -715,17 +748,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-13/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136604/buffalo-bills-2026-scouting-report-center-guard-alec-anderson",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: center/guard Alec Anderson",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T11:37:14.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136604/buffalo-bills-2026-scouting-report-center-guard-alec-anderson"
-    },
-    {
       "id": "espn-bills::49343760",
       "team": "bills",
       "title": "Can Keon Coleman put it all together?",
@@ -856,17 +878,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T15:06:59.000Z",
       "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "2026 World Cup quarterfinals, Matchday 2: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-10T10:51:12.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/t-mcgees-2026-nhl-draft-post-mortem-peek-at-2027/",
@@ -1067,17 +1078,6 @@
       "link": "https://www.diebytheblade.com/2026-nhl-free-agency-buffalo-sabres-signings-open-thread/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265720-who-are-some-of-your-favorite-players-from-over-the-years/",
-      "team": "bills",
-      "title": "Who are some of your favorite players from over the years???",
-      "summary": "I'm a millennial, so my memory only goes back so far, but I'll start with Lee Evans.. I think that if he played in this offense, in his prime, he would be a perennial 1,000yd + receiver.. He played with with terrible QBs throughout his career.. One of the most explosive WRs I think in franchise history, he was a threat to break one every time.. With Josh he would be making the Pro Bowl every year..\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tNate Clements in my mind was the best CB in Bills history.. Many people throw the term \"shutdown corner\" around but in all actuality it implies to very few players.. Nate Clement was the epitome of a shutdown corner, for the first 5-6 years of his career he was absolutely amazing.. He fell off after he went to San Francisco if I remember, but still, he was pretty much the best corner in the NFL for a solid 5 years straight....\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tOther random players: Jason Peters, Travis Henry, Stevie Johnson, Ryan Fitzpatrick, LeSean McCoy, Ted Washington, Pat Williams, Takeo Spikes, London Fletcher, Devin Singletary and so many more..\n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tWho do you guys got????",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-01T01:22:58.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265720-who-are-some-of-your-favorite-players-from-over-the-years/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265719-stevie-johnson-has-all-that-above-the-shoulders-and-hopefully-keon-catches-some-of-it/",
       "team": "bills",
       "title": "Stevie Johnson has all that above the shoulders and hopefully Keon catches some of it",
@@ -1136,7 +1136,7 @@
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265703-red-vs-blue-scrimmage-tickets/",
       "team": "bills",
       "title": "Red vs Blue Scrimmage Tickets ???",
-      "summary": "Has anyone heard when these are going to be made available for the season ticket holders yet?  \n\t \n\n\n\n\tAlso, has anyone heard if the season ticket holders don’t want theirs, if they’ll be available to the public?   \n\t \n\n\n\n\tI need one more, as I’m trying to bring my gf.  We already have four from our seasons.   Don’t care where the seat is, as I’ll probably spend the entire time walking around and taking pictures. Just need entry.",
+      "summary": "Has anyone heard when these are going to be made available for the season ticket holders yet?  \n\t \n\n\n\n\tAlso, has anyone heard if the season ticket holders don’t want theirs, if they’ll be available to the public?",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
@@ -1219,17 +1219,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-22T16:38:59.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265665-police-investigating-assault-claims-against-geno-smith/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/how-to-watch-the-bills-ribbon-cutting-ceremony-at-highmark-stadium",
-      "team": "bills",
-      "title": "How to watch the Bills ribbon cutting ceremony at Highmark Stadium",
-      "summary": "The Bills will provide live stream coverage of the ribbon cutting ceremony beginning at 10 a.m. Tuesday on the team’s official social channels",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-22T15:16:06.000Z",
-      "link": "https://www.buffalobills.com/news/how-to-watch-the-bills-ribbon-cutting-ceremony-at-highmark-stadium"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265541-tbdahot-rollcall/",
