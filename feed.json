@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T11:02:12.626Z",
+  "generatedAt": "2026-07-15T12:43:21.229Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 5,
       "error": null
     },
     {
@@ -176,6 +176,50 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026",
+      "team": "usmnt",
+      "title": "Who should be the USMNT's next coach? Here are 11 ...",
+      "summary": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T12:33:32.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
+      "team": "usmnt",
+      "title": "Gutting youth soccer in America is not enough to m...",
+      "summary": "Everyone thinks they can fix the USMNT. But maybe the U.S. is actually making progress and luck just hasn't been on its side -- what then?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T12:33:32.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development"
+    },
+    {
+      "id": "espn-bills::49315416",
+      "team": "bills",
+      "title": "Execs, coaches, scouts rank top NFL quarterbacks for 2026",
+      "summary": "Who are the elite QBs in the NFL right now? Which passer ranks No. 1? And where do multiple top names from the 2024 draft class land on our top-10 list?",
+      "source": "ESPN · Jeremy Fowler",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T10:10:37Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist",
+      "team": "usmnt",
+      "title": "Transfer rumors, news: USMNT striker Balogun on Ju...",
+      "summary": "Juventus are considering a move for AS Monaco and USMNT striker Folarin Balogun. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T09:10:25.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265820-for-the-80s-kids/",
       "team": "bills",
       "title": "For the 80s kids",
@@ -187,6 +231,28 @@
       "link": "https://www.twobillsdrive.com/community/topic/265820-for-the-80s-kids/"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart",
+      "team": "usmnt",
+      "title": "Matt Freese: USMNT criticism 'hurts my heart'",
+      "summary": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T02:34:50.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates",
+      "team": "usmnt",
+      "title": "Balogun: Red card 'controversy' affected USMNT",
+      "summary": "United States striker Folarin Balogun revealed that he predicted President Donald Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy.\"",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T02:34:50.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/pop-quiz-hotshot-2025-26-sabres-edition/",
       "team": "sabres",
       "title": "Pop Quiz, Hotshot! 2025-26 Sabres Edition",
@@ -196,6 +262,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T02:15:14.000Z",
       "link": "https://www.diebytheblade.com/pop-quiz-hotshot-2025-26-sabres-edition/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136807/buffalo-bills-dj-moore-addition-lead-to-more-unbalanced-offensive-formations-from-bills-2026-joe-brady",
+      "team": "bills",
+      "title": "Will DJ Moore addition lead to more unbalanced offensive formations from Bills in 2026?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T00:50:49.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136807/buffalo-bills-dj-moore-addition-lead-to-more-unbalanced-offensive-formations-from-bills-2026-joe-brady"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136802/buffalo-bills-2026-scouting-report-linebacker-kaleb-elarms-orr",
@@ -363,6 +440,17 @@
       "link": "https://www.cbssports.com/soccer/news/folarin-balogun-donald-trump-fifa-distraction-for-usmnt/"
     },
     {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal",
+      "team": "sabres",
+      "title": "Sabres sign Krebs to 4-year deal worth $18M",
+      "summary": "Veteran NHL executive John Davidson, who spent 18 seasons as president of the Blues, Blue Jackets and Rangers, has been hired by the Sabres as senior adviser.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T16:26:51.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44902/carli-lloyd-puts-usmnt-world-cup-in-perspective-after-belgium-loss",
       "team": "usmnt",
       "title": "Carli Lloyd Puts USMNT World Cup in Perspective After Belgium Loss",
@@ -416,17 +504,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-14T12:20:51.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135796/plays-that-defined-2025-buffalo-bills-at-pittsburgh-steelers-week-13"
-    },
-    {
-      "id": "espn-bills::49315416",
-      "team": "bills",
-      "title": "Execs, coaches, scouts rank top NFL quarterbacks for 2026",
-      "summary": "Who are the elite QBs in the NFL right now? Which passer ranks No. 1? And where do multiple top names from the 2024 draft class land on our top-10 list?",
-      "source": "ESPN · Jeremy Fowler",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-14T10:12:12Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/",
@@ -649,17 +726,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136604/buffalo-bills-2026-scouting-report-center-guard-alec-anderson"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136643/joe-brady-must-ace-clock-management-aspect-of-being-buffalo-bills-head-coach",
-      "team": "bills",
-      "title": "Joe Brady must ace clock-management aspect of being Buffalo Bills head coach",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-12T22:24:29.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136643/joe-brady-must-ace-clock-management-aspect-of-being-buffalo-bills-head-coach"
-    },
-    {
       "id": "espn-bills::49343760",
       "team": "bills",
       "title": "Can Keon Coleman put it all together?",
@@ -779,6 +845,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T17:00:27Z",
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
+      "team": "sabres",
+      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
+      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T15:06:59.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion",
