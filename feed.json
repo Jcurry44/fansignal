@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T06:36:21.015Z",
+  "generatedAt": "2026-07-15T09:00:55.901Z",
   "sources": [
     {
       "id": "bills-official",
@@ -82,7 +82,7 @@
       "id": "espn-nhl-general",
       "label": "ESPN NHL",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 6,
       "error": null
     },
     {
@@ -176,6 +176,39 @@
   ],
   "stories": [
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist",
+      "team": "usmnt",
+      "title": "Transfer rumors, news: USMNT striker Balogun on Ju...",
+      "summary": "Juventus are considering a move for AS Monaco and USMNT striker Folarin Balogun. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T09:10:25.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026",
+      "team": "usmnt",
+      "title": "Who should be the USMNT's next coach? Here are 11 ...",
+      "summary": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches U.S. Soccer could hire.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T08:10:23.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years",
+      "team": "usmnt",
+      "title": "30 players who could represent the USMNT at the 20...",
+      "summary": "The tears are barely dry from the USMNT's 2026 World Cup exit, but the page immediately turns to the 2030 World Cup. Here's who could represent the U.S. in four years.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T08:10:23.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265820-for-the-80s-kids/",
       "team": "bills",
       "title": "For the 80s kids",
@@ -187,6 +220,28 @@
       "link": "https://www.twobillsdrive.com/community/topic/265820-for-the-80s-kids/"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart",
+      "team": "usmnt",
+      "title": "Matt Freese: USMNT criticism 'hurts my heart'",
+      "summary": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T02:34:50.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates",
+      "team": "usmnt",
+      "title": "Balogun: Red card 'controversy' affected USMNT",
+      "summary": "United States striker Folarin Balogun revealed that he predicted President Donald Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy.\"",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T02:34:50.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/pop-quiz-hotshot-2025-26-sabres-edition/",
       "team": "sabres",
       "title": "Pop Quiz, Hotshot! 2025-26 Sabres Edition",
@@ -196,6 +251,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T02:15:14.000Z",
       "link": "https://www.diebytheblade.com/pop-quiz-hotshot-2025-26-sabres-edition/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136809/buffalo-bills-claim-former-jets-wide-receiver",
+      "team": "bills",
+      "title": "Buffalo Bills claim former Jets wide receiver",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T22:09:38.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136809/buffalo-bills-claim-former-jets-wide-receiver"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265815-bills-sign-quentin-skinner/",
@@ -341,6 +407,28 @@
       "link": "https://www.cbssports.com/soccer/news/folarin-balogun-donald-trump-fifa-distraction-for-usmnt/"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
+      "team": "usmnt",
+      "title": "The USMNT's struggles at the World Cup can't be fixed by overhauling youth development",
+      "summary": "Everyone thinks they can fix the USMNT. But maybe the U.S. is actually making progress and luck just hasn't been on its side -- what then?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T16:29:22.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal",
+      "team": "sabres",
+      "title": "Sabres sign Krebs to 4-year deal worth $18M",
+      "summary": "Veteran NHL executive John Davidson, who spent 18 seasons as president of the Blues, Blue Jackets and Rangers, has been hired by the Sabres as senior adviser.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T16:26:51.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49351893/sabres-sign-forward-peyton-krebs-4-year-18m-deal"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44902/carli-lloyd-puts-usmnt-world-cup-in-perspective-after-belgium-loss",
       "team": "usmnt",
       "title": "Carli Lloyd Puts USMNT World Cup in Perspective After Belgium Loss",
@@ -350,6 +438,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-14T15:28:44.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44902/carli-lloyd-puts-usmnt-world-cup-in-perspective-after-belgium-loss"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/136777/should-buffalo-bills-be-in-on-these-available-free-agents-stefon-diggs-deebo-samuel",
+      "team": "bills",
+      "title": "Should the Buffalo Bills be in on these available free agents?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T15:16:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-roster/136777/should-buffalo-bills-be-in-on-these-available-free-agents-stefon-diggs-deebo-samuel"
     },
     {
       "id": "espn-bills::39387572",
@@ -372,6 +471,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-14T13:54:57.000Z",
       "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44881/france-vs-spain-2026-world-cup-semifinals-match-thread-and-discussion"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135796/plays-that-defined-2025-buffalo-bills-at-pittsburgh-steelers-week-13",
+      "team": "bills",
+      "title": "Plays That Defined 2025: Buffalo Bills at Pittsburgh Steelers, Week 13",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T12:20:51.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135796/plays-that-defined-2025-buffalo-bills-at-pittsburgh-steelers-week-13"
     },
     {
       "id": "espn-bills::49315416",
@@ -660,28 +770,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265789-congratulations-to-gable-steveson/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-depth-chart/136683/buffalo-bills-2026-scouting-report-outside-linebacker-t-j-parker",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: outside linebacker T.J. Parker",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-12T01:44:10.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-depth-chart/136683/buffalo-bills-2026-scouting-report-outside-linebacker-t-j-parker"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/136703/dion-dawkins-earns-honorable-mention-in-espns-top-10-offensive-tackle-rankings",
-      "team": "bills",
-      "title": "Dion Dawkins earns honorable mention in ESPN’s Top 10 offensive tackle rankings",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-12T01:41:35.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/136703/dion-dawkins-earns-honorable-mention-in-espns-top-10-offensive-tackle-rankings"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44850/the-2026-world-cup-stars-stripes-fc-awards-for-the-usmnt",
       "team": "usmnt",
       "title": "The 2026 World Cup Stars & Stripes FC awards for the USMNT",
@@ -691,17 +779,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-11T23:06:29.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/44850/the-2026-world-cup-stars-stripes-fc-awards-for-the-usmnt"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136494/buffalo-bills-2026-scouting-report-cornerback-dorian-strong",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: cornerback Dorian Strong",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-11T16:13:11.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136494/buffalo-bills-2026-scouting-report-cornerback-dorian-strong"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265788-james-cook-faced-a-light-box-at-the-third-lowest-rate-look-at-some-of-his-stats/",
@@ -779,6 +856,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-10T17:00:27Z",
       "link": "https://www.espn.com/nfl/story/_/id/49286915/nfl-afc-east-bills-jets-dolphins-patriots-josh-allen-drake-maye-aj-brown-geno-smith-malik-willis"
+    },
+    {
+      "id": "espn-nhl-general::https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav",
+      "team": "sabres",
+      "title": "$15 million? $20 million?!? How Hughes, Makar will...",
+      "summary": "Some observers scoffed at the $12.5 million per year contract that Bowen Byram signed. Just wait.",
+      "source": "ESPN NHL",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-10T15:06:59.000Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49305821/nhl-free-agency-contracts-cale-makar-quinn-hughes-defensemen-market-deals-aav"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44843/2026-world-cup-quarterfinals-matchday-2-match-thread-and-discussion",
