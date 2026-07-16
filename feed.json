@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T16:43:46.298Z",
+  "generatedAt": "2026-07-16T17:55:18.079Z",
   "sources": [
     {
       "id": "bills-official",
@@ -150,6 +150,12 @@
       "detail": "at HOU"
     },
     {
+      "team": "sabres",
+      "state": "upcoming",
+      "headline": "Thu 7:00 PM",
+      "detail": "at CBJ"
+    },
+    {
       "team": "bandits",
       "state": "offday",
       "headline": "Season over",
@@ -169,6 +175,39 @@
     }
   ],
   "stories": [
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265835-sabres-schedule-released-billssabres-weekends/",
+      "team": "bills",
+      "title": "Sabres schedule released (Bills/Sabres weekends)",
+      "summary": "Sep 26 Penguins at Sabres\n\n\n\n\tSep 27 Chargers at Bills\n\n\n\n\t \n\n\n\n\tOct 3 Blackhawks at Sabres\n\n\n\n\tOct 4 Patriots at Bills\n\n\n\n\t \n\n\n\n\tNov 25 Rangers at Sabres\n\n\n\n\tNov 26 Chiefs at Bills\n\n\n\n\tNov 27 Penguins at Sabres\n\n\n\n\t \n\n\n\n\tDec 19 Bears at Bills\n\n\n\n\tDec 20 Kings at Sabres\n\n\n\n\t \n\n\n\n\tJan 9 Carolina at Sabres\n\n\n\n\tJan 10 Jets at Bills",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-16T17:12:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265835-sabres-schedule-released-billssabres-weekends/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136863/buffalo-bills-offense-josh-allen-should-return-to-pass-happy-ways-under-joe-brady",
+      "team": "bills",
+      "title": "Buffalo Bills offense should return to pass-happy ways under Joe Brady",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-16T16:46:35.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136863/buffalo-bills-offense-josh-allen-should-return-to-pass-happy-ways-under-joe-brady"
+    },
+    {
+      "id": "espn-bills::49354774",
+      "team": "bills",
+      "title": "2026 NFL trade tiers: Players worth Round 1 picks by team",
+      "summary": "Which NFL players would be worth one first-rounder in a trade? Two? Seven?! Let's put each team's stars into value tiers, factoring in ability, positions, contracts and age.",
+      "source": "ESPN · Bill Barnwell",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-16T16:02:58Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49354774/2026-nfl-trade-tiers-players-worth-first-round-picks-all-32-teams-contract-value"
+    },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265834-other-bills-recognized-by-execs-coaches-and-scouts/",
       "team": "bills",
@@ -192,17 +231,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265833-bill-barnwell%E2%80%99s-annual-how-many-first-round-picks-would-it-take-article/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136863/buffalo-bills-offense-josh-allen-should-return-to-pass-happy-ways-under-joe-brady",
-      "team": "bills",
-      "title": "Buffalo Bills offense should return to pass-happy ways under Joe Brady",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-16T13:21:35.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136863/buffalo-bills-offense-josh-allen-should-return-to-pass-happy-ways-under-joe-brady"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136817/buffalo-bills-2026-scouting-report-tight-end-dawson-knox",
       "team": "bills",
       "title": "Buffalo Bills 2026 scouting report: tight end Dawson Knox",
@@ -223,17 +251,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-16T10:37:32Z",
       "link": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts"
-    },
-    {
-      "id": "espn-bills::49354774",
-      "team": "bills",
-      "title": "2026 NFL trade tiers: Players worth Round 1 picks by team",
-      "summary": "Which NFL players would be worth one first-rounder in a trade? Two? Seven?! Let's put each team's stars into value tiers, factoring in ability, positions, contracts and age.",
-      "source": "ESPN · Bill Barnwell",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-16T10:29:16Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49354774/2026-nfl-trade-tiers-players-worth-first-round-picks-all-32-teams-contract-value"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265830-throwback-thursday-bills-vs-pats-fitzmagic-is-born/",
@@ -641,17 +658,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T19:46:53.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/44879/world-cup-reacts-which-fan-base-has-been-the-best"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265800-seahawks-sold-for-a-record-96b/",
-      "team": "bills",
-      "title": "Seahawks sold for a record 9.6B",
-      "summary": "https://www.msn.com/en-us/sports/nhl/seattle-seahawks-sold-for-record-9-612-billion-setting-new-benchmark-for-us-sports-franchises/ar-AA27PdvB?ocid=entnewsntp&pc=U531&cvid=6a5536a0f5f54cb8951cf23e7b91fd0c&ei=19",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T19:06:46.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265800-seahawks-sold-for-a-record-96b/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/peytons-place-krebs-signs-for-four-more-years-in-buffalo/",
