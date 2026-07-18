@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T13:51:31.787Z",
+  "generatedAt": "2026-07-18T14:56:52.467Z",
   "sources": [
     {
       "id": "bills-official",
@@ -61,8 +61,8 @@
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 10,
-      "error": null
+      "itemCount": 0,
+      "error": "fetch failed"
     },
     {
       "id": "sportsnet-nhl",
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136910/buffalo-bills-2026-scouting-report-cornerback-toriano-pride-jr",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: cornerback Toriano Pride Jr.",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-18T12:54:32.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136910/buffalo-bills-2026-scouting-report-cornerback-toriano-pride-jr"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265850-former-la-rams-player-and-super-bowl-winner-decides-to-go-full-florida-man/",
       "team": "bills",
       "title": "Former L.A. Rams player and Super Bowl winner decides to go full \"Florida Man\"....",
@@ -251,17 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-17T14:14:24.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136869/buffalo-bills-2026-scouting-report-defensive-back-jordan-hancock"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44955/spain-vs-argentina-2026-world-cup-final-what-to-watch-for",
-      "team": "usmnt",
-      "title": "Spain vs. Argentina, 2026 World Cup Final: What to watch for",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-17T14:07:10.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44955/spain-vs-argentina-2026-world-cup-final-what-to-watch-for"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/give-716-day-2026-raises-more-than-1-8-million-for-wny-charities",
@@ -495,17 +495,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-2026-27-schedule-released-highlights/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/",
-      "team": "sabres",
-      "title": "2026-27 Sabres schedule features early home stand, rugged stretches on road before Christmas",
-      "summary": "An early five-game home stand, two road contests against the Montreal Canadiens in a five-day span in October and a rigorous stretch in which they play 10 of 12 games on the road in late November and early December are among the highlights of the Buffalo Sabres’ 2026-27 schedule the NHL released Thursday.\nThe 84-game schedule – the NHL has added two regular-season contests and cut the preseason from six games to four – means ... Read the full article \nThe post 2026-27 Sabres schedule features early home stand, rugged stretches on road before Christmas first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-16T18:24:01.000Z",
-      "link": "https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136863/buffalo-bills-offense-josh-allen-should-return-to-pass-happy-ways-under-joe-brady",
       "team": "bills",
       "title": "Buffalo Bills offense should return to pass-happy ways under Joe Brady",
@@ -638,17 +627,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136641/buffalo-bills-fantasy-football-sleeper-picks-dalton-kincaid"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-open-2026-27-season-oct-1-in-columbus-start-home-schedule-oct-3-versus-chicago/",
-      "team": "sabres",
-      "title": "Sabres to open 2026-27 season Oct. 1 in Columbus, start home schedule Oct. 3 versus Chicago",
-      "summary": "The Buffalo Sabres will open the 2026-27 season Oct. 1 on the road against the Columbus Blue Jackets and hold their home opener Oct. 3 versus old friend Bowen Byram and the Chicago Blackhawks at KeyBank Center.\nThe NHL this morning announced the home openers for all 32 teams. The rest of the 84-game schedule will be released Thursday.\nThe Sabres, of course, recently traded Byram to Chicago in a blockbuster deal, so the home ... Read the full article \nThe post Sabres to open 2026-27 season Oct. 1 in Columbus, start home schedule Oct. 3 versus Chicago first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T14:58:05.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-to-open-2026-27-season-oct-1-in-columbus-start-home-schedule-oct-3-versus-chicago/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265821-bills-radio-network-announced/",
       "team": "bills",
       "title": "Bills Radio Network announced",
@@ -693,17 +671,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-radio-network-announces-23-network-affiliates-beginning-2026-season"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/bruins-hire-former-sabres-gm-kevyn-adams-as-senior-advisor/",
-      "team": "sabres",
-      "title": "Bruins hire former Sabres GM Kevyn Adams as senior advisor",
-      "summary": "Former Buffalo Sabres general manager Kevyn Adams is back in the NHL.\nThe Boston Bruins on Tuesday named Adams, 51, a senior advisor to GM Don Sweeney.\nThe Sabres fired Adams on Dec. 15, almost halfway through his sixth season as GM, and replaced him with Jarmo Kekalainen, who had been serving as a senior advisor.\n\nWhile Adams never led the Sabres to a postseason berth, the Sabres won the Atlantic Division and ended their ... Read the full article \nThe post Bruins hire former Sabres GM Kevyn Adams as senior advisor first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T05:02:22.000Z",
-      "link": "https://www.buffalohockeybeat.com/bruins-hire-former-sabres-gm-kevyn-adams-as-senior-advisor/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/pop-quiz-hotshot-2025-26-sabres-edition/",
       "team": "sabres",
       "title": "Pop Quiz, Hotshot! 2025-26 Sabres Edition",
@@ -713,17 +680,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T02:15:14.000Z",
       "link": "https://www.diebytheblade.com/pop-quiz-hotshot-2025-26-sabres-edition/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136807/buffalo-bills-dj-moore-addition-lead-to-more-unbalanced-offensive-formations-from-bills-2026-joe-brady",
-      "team": "bills",
-      "title": "Will DJ Moore addition lead to more unbalanced offensive formations from Bills in 2026?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T00:50:49.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136807/buffalo-bills-dj-moore-addition-lead-to-more-unbalanced-offensive-formations-from-bills-2026-joe-brady"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265815-bills-sign-quentin-skinner/",
@@ -779,28 +735,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-14T13:54:57.000Z",
       "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44881/france-vs-spain-2026-world-cup-semifinals-match-thread-and-discussion"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/",
-      "team": "sabres",
-      "title": "Sabres bring in John Davidson as senior advisor; Buffalo makes minor trade",
-      "summary": "The Buffalo Sabres have added to their front office by hiring John Davidson, a popular former goalie and broadcaster who has spent most of the past 20 years working as a president of hockey operations, as a senior advisor, the team announced Monday.\nSabres general manager Jarmo Kekalainen, 60, and Davidson, 73, know each other well, having worked closely together with the Columbus Blue Jackets and St. Louis Blues.\nShortly taking over as president of ... Read the full article \nThe post Sabres bring in John Davidson as senior advisor; Buffalo makes minor trade first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-14T05:07:53.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sign-peyton-krebs-to-four-year-contract-avoid-arbitration/",
-      "team": "sabres",
-      "title": "Sabres sign Peyton Krebs to four-year contract, avoid arbitration",
-      "summary": "The Buffalo Sabres on Monday avoided arbitration with Peyton Krebs, signing the versatile forward to a four-year, $18 million contract.\nKrebs, 25, was the Sabres’ last restricted free agent. He filed for arbitration last week.\nHis $4.5 million salary cap hit is the seventh-highest among Buffalo forwards. He just completed a two-year, $2.9 million contract.\n\nKrebs will receive a $3 million salary and a $2 million signing bonus in the first two years of ... Read the full article \nThe post Sabres sign Peyton Krebs to four-year contract, avoid arbitration first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-14T05:04:33.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-sign-peyton-krebs-to-four-year-contract-avoid-arbitration/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44903/usa-soccercast-episode-194-the-usmnts-ride-is-over-but-it-was-a-blast",
@@ -869,6 +803,17 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/44863/usmnt-midweek-viewing-guide-odds-and-ends"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44864/uswnt-to-face-spain-in-pair-of-october-friendlies",
+      "team": "usmnt",
+      "title": "USWNT to face Spain in pair of October friendlies",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-13T14:18:43.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44864/uswnt-to-face-spain-in-pair-of-october-friendlies"
+    },
+    {
       "id": "espn-bills::49349447",
       "team": "bills",
       "title": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
@@ -900,17 +845,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-13/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/in-sixth-rounder-dylan-dumont-sabres-could-have-underrated-prospect/",
-      "team": "sabres",
-      "title": "In sixth-rounder Dylan Dumont, Sabres could have underrated prospect",
-      "summary": "BUFFALO – In his first days in Drummondville, the Voltigeurs initiated winger Dylan Dumont, a prospect the Sabres recently drafted in the sixth round, by throwing him headfirst into the fray.\nThey wanted Dumont, who possesses a slick skill set, to develop a more complete game as a rookie in the Quebec Maritime Junior Hockey League.\n“Being able to contribute as much away from the puck than with the puck,” former Drummondville coach Sylvain ... Read the full article \nThe post In sixth-rounder Dylan Dumont, Sabres could have underrated prospect first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-11T05:20:58.000Z",
-      "link": "https://www.buffalohockeybeat.com/in-sixth-rounder-dylan-dumont-sabres-could-have-underrated-prospect/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-complete-installation-of-bison-family-statues-at-highmark-stadium-s-family-circle",
@@ -979,28 +913,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-6/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-career-year-sabres-peyton-krebs-files-for-salary-arbitration/",
-      "team": "sabres",
-      "title": "Following career year, Sabres’ Peyton Krebs files for salary arbitration",
-      "summary": "Buffalo Sabres forward Peyton Krebs has filed for salary arbitration, the NHL Players’ Association announced Sunday.\nKrebs, 25, is the Sabres’ only unsigned restricted free agent.\nFiling, of course, doesn’t mean a player will go to arbitration. Negotiations can continue. The sides usually reach a deal before the arbitration hearing.\n\nPlayers who file for arbitration want more than their qualifying offer would pay them.\nFifteen players filed for arbitration, according to the NHLPA.\nThe deadline ... Read the full article \nThe post Following career year, Sabres’ Peyton Krebs files for salary arbitration first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-06T05:03:57.000Z",
-      "link": "https://www.buffalohockeybeat.com/following-career-year-sabres-peyton-krebs-files-for-salary-arbitration/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-add-goalie-depth-for-rochester-by-signing-matt-villalta/",
-      "team": "sabres",
-      "title": "Sabres add goalie depth for Rochester by signing Matt Villalta",
-      "summary": "The Buffalo Sabres on Saturday added goalie depth, signing Matt Villalta to a one-year, two-way contract.\nVillalta, 27, gives the Sabres a veteran netminder for the Rochester Americans. He will likely share the net with prospects Topias Leinonen or Scott Ratzlaff, both of whom spent time in the AHL last season.\nThe 6-foot-3, 190-pound Villalta has spent most of his career in the AHL, compiling 123-83-20 record with a 2.93 goals-against average, a .903 save ... Read the full article \nThe post Sabres add goalie depth for Rochester by signing Matt Villalta first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-05T05:53:35.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-add-goalie-depth-for-rochester-by-signing-matt-villalta/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/t-mcgees-quick-2026-nhl-draft-recap-sabres/",
       "team": "sabres",
       "title": "T McGee’s Quick NHL Draft Recap",
@@ -1010,28 +922,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-04T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/t-mcgees-quick-2026-nhl-draft-recap-sabres/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/prospect-prokhor-poltapov-could-be-swiss-army-knife-for-sabres/",
-      "team": "sabres",
-      "title": "Prospect Prokhor Poltapov could be ‘Swiss Army knife’ for Sabres",
-      "summary": "BUFFALO – After his contract in the Kontinental Hockey League expires next year, the Sabres expect prospect Prokhor Poltapov to come to North America and immediately jump into their lineup.\nWhere could the Russian, a winger the Sabres drafted in the second round in 2021, 33rd overall, fit in?\nTim Kennedy, the Sabres’ new director of player development, worked closely with Poltapov in his previous role as a development coach. He believes the versatile ... Read the full article \nThe post Prospect Prokhor Poltapov could be ‘Swiss Army knife’ for Sabres first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-04T05:04:52.000Z",
-      "link": "https://www.buffalohockeybeat.com/prospect-prokhor-poltapov-could-be-swiss-army-knife-for-sabres/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/",
-      "team": "sabres",
-      "title": "After trade, speedy Olen Zellweger sees opportunity with Sabres",
-      "summary": "When the Stanley Cup Playoffs began in April, Buffalo Sabres newcomer Olen Zellweger found himself watching in the press box as a healthy scratch after enjoying regular duty all season.\nNaturally, Zellweger, a defenseman the Sabres acquired in a trade last Friday with the Anaheim Ducks after dealing Bowen Byram, initially felt frustrated. But he said getting benched taught him some lessons.\nHe started getting back to basics. From his seat high above the ice, ... Read the full article \nThe post After trade, speedy Olen Zellweger sees opportunity with Sabres first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-03T05:25:52.000Z",
-      "link": "https://www.buffalohockeybeat.com/after-trade-speedy-olen-zellweger-sees-opportunity-with-sabres/"
     },
     {
       "id": "espn-sabres::49243575",
@@ -1087,6 +977,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-30T23:16:55Z",
       "link": "https://www.espn.com/nhl/story/_/id/48902854/nhl-2026-free-agency-rankings-tiers-alex-ovechkin-mason-marchment-rasmus-andersson"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/",
+      "team": "bills",
+      "title": "Some interesting stats from the Bills 2025 season",
+      "summary": "Allen was nearly perfect when throwing to Jackson Hawes or Dalton Kincaid\n\n\n\n\t\n\t\n\t\n\t\n\tAllen was at his worst when targeting Keion Coleman or Jordan Palmer\n\t\n\t\n\n\n\n\t\n\t\n\tGoodness gracious, look at the first drive EPA\n\t\n\t\n\n\n\n\t\n\t\n\tIt's specifically Drive 1 that's elite, then Drive 2 is still strong (0.223), then Drive 3 craters to -0.137.\n\t\n\t\n\t\n\tBills got penalized more\n\t\n\t\n\t\n\t\n\t\n\tWe played our best in freezing weather\n\t\n\t\n\t\n\tBills have been middle of the pack in challenge success rate the past 3 years\n\t\n\t\n\t\n\tOur EPA was best in the division on every down except for 1st down\n\t\n\t\n\t\n\tOur team effeciency was one of the best in the NFL from a scatterplot view (unfortunately the Patriots were even better)\n\t\n\t\n\t\n\tBecause Josh Allen is a freak of nature, our probability of scoring a TD barely changes depending where on the field we are\n\t\n\t\n\t\n\tCompare that to the average opponent offense, which like you would expect, has an increase in TD probability as they get closer to the goal\n\t\n\t\n\n\n\n\tSome other standout stuff:\n\t \n\n\n\n\t* Allen was better under center in 2025 ... 0.233 EPA vs 0.205 in shotgun, and only 1 INT vs 11. Similar comp% but way fewer turnovers. Digging deeper, under center is better mainly just because of INTs, not overall passing effieicny. Pass EPA is similar (0.233 vs 0.205), but Allen threw 11 INTs from shotgun and only 1 under center. The shotgun INTs happen at avg 8.4 yards to go, down 4.5 points, mid-game (qtr 2.7). \n\n\n\n\t \n\n\n\n\t* Allen is elite in desperation mode. Down 15+.... 0.321 EPA, 61.5% pass rate, 6 TDs. Allen is genuinely elite in desperation mode. The weird one is Up 4-7: negative EPA (-0.105). In the same vein, 4th quarter explosive passes doubled. 29 plays of 20+ yards in Q4 vs 14-15 in other quarters. Averaging 30.2 yards. \n\n\n\n\t\n\t* We were better when trailing (they play their worst football with a one-score lead) - 0.169 EPA trailing vs 0.062 leading. This has some confounding to it, but pass rate jumps to 53.2% when behind. They played conservative with leads and it hurt them.\n\n\n\n\t\n\t* No-huddle is terrible - negative EPA (-0.051) vs 0.126 in huddle. Only 72 plays so small sample, but not good.\n\n\n\n\t \n\n\n\n\t* Deep passes are the defensive weakness. 41.1% completion allowed on deep balls but 0.430 EPA.\n\n\n\n\t \n\n\n\n\t* Kincaid is the most efficient receiver by a mile - 0.818 EPA, 6.1 YAC, 7 TDs on 61 targets. Shakir has the volume (118 targets) but way lower efficiency (0.125 EPA).\n\n\n\n\t \n\n\n\n\t*3rd down conversion 42.4% vs league 36% \n\t \n\n\n\n\t* Run game: guards > ends > tackles - guard runs most efficient at 0.132 EPA, tackle runs slightly negative.\n\n\n\n\t\n\t\n\n\n\n\t \n\n\n\n\t\n\t\n\tIdea so you can re-create:",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-30T21:45:17.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265716-some-interesting-stats-from-the-bills-2025-season/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-announce-2026-high-school-girls-flag-football-coaches-of-the-year",
@@ -1153,17 +1054,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-03-11T20:26:30.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/264916-chubb-signs-3-year-deal-with-the-bills/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/262424-canisius-hs-has-the-best-player-in-new-york-state/",
-      "team": "bills",
-      "title": "Canisius HS has the best player in New York state",
-      "summary": "https://247sports.com/video/elijah-kimble-canisius-2024-sophomore-season-highlights-13089466/\n\n\n\n\t \n\n\n\n\tEDIT : COMMITTED TO SYRACUSE \n\n\n\n\t \n\n\n\n\tElijah kimble #1 or #2 player in NYS according to all recruiting services \n\n\n\n\t \n\n\n\n\tCurrent rising SR at Canisius HS... A 4 star top 15 ranked running back nationally by ESPN with offers from Ohio State and Michigan and Georgia and basically everybody \n\n\n\n\t \n\n\n\n\tBeen watching in the last 3 years and this kid is showing that big time players can come out of Western New York without transferring to a ohio or Pennsylvania school \n\n\n\n\t \n\n\n\n\tGood luck in the playoffs canisius!\n\n\n\n\t \n\n\n\n\tAnd good luck Elijah!\n\n\n\n\t \n\n\n\n\tBuffalo/Rochester/WNY are starting to churn out consistent D1 players\n\n\n\n\t \n\n\n\n\t: Congratulations on the commitment to Syracuse! He has legitimate NFL Potential",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2025-11-07T20:26:35.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/262424-canisius-hs-has-the-best-player-in-new-york-state/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/255720-diggs-drama/",
