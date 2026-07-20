@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T17:03:15.748Z",
+  "generatedAt": "2026-07-20T19:07:55.249Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -176,6 +176,50 @@
   ],
   "stories": [
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/137009/from-the-feed-would-you-take-the-buffalo-bills-2025-point-differential-for-the-2026-season",
+      "team": "bills",
+      "title": "From The Feed: Would you take the Buffalo Bills 2025 point differential for the 2026 season?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-20T17:57:42.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/137009/from-the-feed-would-you-take-the-buffalo-bills-2025-point-differential-for-the-2026-season"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/bedard-pumped-for-byram-and-other-additions-we-want-to-take-a-big-step/",
+      "team": "sabres",
+      "title": "Bedard pumped for Byram and other additions: ‘We want to take a big step’",
+      "summary": "Newly extended Blackhawks superstar Connor Bedard talks about how excited he is for the new additions to the club, and about the team’s goal to make the playoffs this season and take another big step.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-20T17:38:13.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/bedard-pumped-for-byram-and-other-additions-we-want-to-take-a-big-step/"
+    },
+    {
+      "id": "espn-bills::49391788",
+      "team": "bills",
+      "title": "NFL All-Backup Team: Could a roster of bench players contend?",
+      "summary": "Nick Herbig rushing the passer while Martin Emerson Jr. plays in coverage? DeMario Douglas catching passes from Fernando Mendoza? Let's fill out a full roster of nonstarters.",
+      "source": "ESPN · Bill Barnwell",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-20T16:02:40Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49391788/2026-nfl-season-all-backup-team-rosters-bench-players-barnwell"
+    },
+    {
+      "id": "espn-bills::49410332",
+      "team": "bills",
+      "title": "Has Allen surpassed Mahomes as NFL's best QB? Stephen A. weighs in",
+      "summary": "Has Allen surpassed Mahomes as NFL's best QB? Stephen A. weighs in",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-20T15:35:26Z",
+      "link": "https://www.espn.com/video/clip/_/id/49410332/has-allen-surpassed-mahomes-nfl-best-qb-stephen-weighs-in"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/44871/usmnt-midweek-viewing-guide-back-to-the-grind",
       "team": "usmnt",
       "title": "USMNT midweek viewing guide: Back to the grind",
@@ -185,6 +229,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-20T15:07:46.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/44871/usmnt-midweek-viewing-guide-back-to-the-grind"
+    },
+    {
+      "id": "espn-sabres::49405523",
+      "team": "sabres",
+      "title": "Behind the scenes at the NHL Broadcast Training Camp",
+      "summary": "Who will be the next great hockey player turned analyst? We attended the latest training program in New York to find out.",
+      "source": "ESPN · Greg Wyshynski",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-20T15:04:58Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49405523/nhl-players-broadcast-training-camp-announcers-analysts-tv"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136996/ranking-buffalo-bills-rookies-by-impact-on-2026-season",
@@ -207,17 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-20T14:12:50.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/136922/bills-news-previewing-buffalos-running-backs"
-    },
-    {
-      "id": "espn-bills::49391788",
-      "team": "bills",
-      "title": "NFL All-Backup Team: Could a roster of bench players contend?",
-      "summary": "Nick Herbig rushing the passer while Martin Emerson Jr. plays in coverage? DeMario Douglas catching passes from Fernando Mendoza? Let's fill out a full roster of nonstarters.",
-      "source": "ESPN · Bill Barnwell",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-20T12:51:43Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49391788/2026-nfl-season-all-backup-team-rosters-bench-players-barnwell"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136958/espn-fantasy-experts-have-low-expectations-for-buffalo-bills-wrs",
@@ -262,17 +306,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-20T10:50:35Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/49298602/buffalo-bills-betting-outlook-2026"
-    },
-    {
-      "id": "espn-sabres::49405523",
-      "team": "sabres",
-      "title": "Behind the scenes at the NHL Broadcast Training Camp",
-      "summary": "Who will be the next great hockey player turned analyst? We attended the latest training program in New York to find out.",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-20T10:21:03Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49405523/nhl-players-broadcast-training-camp-announcers-analysts-tv"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265855-dalton-kincaidoverunder-735-receptions-overunder-65-tds/",
@@ -493,17 +526,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-17T13:59:00.000Z",
       "link": "https://www.buffalobills.com/news/give-716-day-2026-raises-more-than-1-8-million-for-wny-charities"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136900/skyler-bell-could-open-up-buffalo-bills-offense-joe-brady",
-      "team": "bills",
-      "title": "Fleet-footed Skyler Bell could open up Buffalo Bills offense",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-17T12:02:16.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136900/skyler-bell-could-open-up-buffalo-bills-offense-joe-brady"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265846-and-so-it-begins-seattle-rookies-report-today/",
@@ -770,17 +792,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-to-open-2026-27-season-oct-1-in-columbus-start-home-schedule-oct-3-versus-chicago/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265821-bills-radio-network-announced/",
-      "team": "bills",
-      "title": "Bills Radio Network announced",
-      "summary": "https://www.buffalobills.com/news/buffalo-bills-radio-network-announces-23-network-affiliates-beginning-2026-season\n\n\n\n\t \n\n\n\n\tI don't have the old network stations memorized. I think Rochester is new with 95.1 instead of WCMF. But I believe the Bills have a New York City station for the first time; ESPN 1050.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-15T14:20:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265821-bills-radio-network-announced/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44888/england-vs-argentina-2026-world-cup-semifinals-match-thread-and-discussion",
       "team": "usmnt",
       "title": "England vs. Argentina, 2026 World Cup semifinals: Match thread and discussion",
@@ -922,17 +933,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T13:55:16.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265797-be-the-all-time-bills-gm-make-the-ultimate-bills-team-from-bills-history/"
-    },
-    {
-      "id": "espn-bills::49349447",
-      "team": "bills",
-      "title": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
-      "summary": "How Josh Allen has surpassed Patrick Mahomes in NFL QB rankings",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T13:03:32Z",
-      "link": "https://www.espn.com/video/clip/_/id/49349447/how-josh-allen-surpassed-patrick-mahomes-nfl-qb-rankings"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-13/",
@@ -1153,6 +1153,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-06-23T17:02:27.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265668-nfl-top-100-in-2026-100-85-updated-71/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265541-tbdahot-rollcall/",
+      "team": "bills",
+      "title": "TBDAHOT: Rollcall",
+      "summary": "I understand things may look drastically different this year, but I want to get a sense who’s up for keeping this tradition going!\n\n\n\n\t \n\n\n\n\tPlease let me know if you want to get together for the home opener this year. It doesn’t matter if you’ve gone to 1, 25 or if you have never attended one. Everyone’s welcome! Even if you don’t plan on going inside for the game.\n\n\n\n\t \n\n\n\n\tWith regards to this topic, I do not have any interest in people who are going and plan to het together elsewhere. Enjoy yourself, be safe, but do not talk about it in this topic.\n\n\n\n\t \n\n\n\n\tI don’t want to officially speak for others, but I believe me, Jay Rosen, and Guffalo are definitely carrying on the tradition. \n\n\n\n\t \n\n\n\n\tWho else?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-03T15:38:08.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265541-tbdahot-rollcall/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264916-chubb-signs-3-year-deal-with-the-bills/",
