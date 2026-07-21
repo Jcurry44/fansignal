@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T16:42:10.816Z",
+  "generatedAt": "2026-07-21T18:00:45.112Z",
   "sources": [
     {
       "id": "bills-official",
@@ -176,10 +176,32 @@
   ],
   "stories": [
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/136179/buffalo-beskar-part-9-im-gonna-need-more-protection",
+      "team": "bills",
+      "title": "Buffalo Beskar, Part 9: I’m gonna need more protection",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-21T17:20:38.000Z",
+      "link": "https://www.buffalorumblings.com/general/136179/buffalo-beskar-part-9-im-gonna-need-more-protection"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-and-sabres-team-up-for-pet-adoption-event-on-july-25",
+      "team": "bills",
+      "title": "Bills and Sabres team up for Pet Adoption Event on July 25",
+      "summary": "More than 25 shelters and rescue organizations from throughout Western New York will be on hand to spotlight homeless pets available for adoption, giving community members a chance to meet a variety of pets at one location.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-21T16:59:14.000Z",
+      "link": "https://www.buffalobills.com/news/bills-and-sabres-team-up-for-pet-adoption-event-on-july-25"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265874-number-of-psl-deposits-still-out-there-this-is-a-question-not-information-the-op-can-add-a/",
       "team": "bills",
       "title": "Number of PSL deposits still out there (this is a question, not information; the OP can add a \"?\")",
-      "summary": "Anyone seen any info on how many unfilled PSL deposits remain?   Trying to get a sense of the number of folks like me trying to get one of those SRO tickets when/if they are offered.   Thanks.",
+      "summary": "Anyone seen any info on how many unfilled PSL deposits remain?   Trying to get a sense of the number of folks like me with deposits out there; needed to get one of those SRO tickets when/if they are offered.   Thanks.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
@@ -196,17 +218,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-21T15:17:35.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-players-named-to-nfl-top-100-players-of-2026"
-    },
-    {
-      "id": "espn-bills::49298602",
-      "team": "bills",
-      "title": "Betting on the Buffalo Bills in 2026: Expect victories to add up",
-      "summary": "Examining the Bills' outlook for 2026, the ways to bet them and our best bet going into the NFL season.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-21T14:53:47Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/49298602/buffalo-bills-betting-outlook-2026"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136941/buffalo-bills-2026-scouting-report-quarterback-kyle-allen",
@@ -251,17 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-21T12:53:01.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137012/first-read-targets-a-metric-to-watch-with-buffalo-bills-with-joe-brady-as-head-coach"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/45009/usmnt-rises-one-spot-to-16th-in-fifa-world-rankings",
-      "team": "usmnt",
-      "title": "USMNT rises one spot to 16th in FIFA world rankings",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-21T01:54:32.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/45009/usmnt-rises-one-spot-to-16th-in-fifa-world-rankings"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265870-non-billswingsniagra-falls-things-to-do-on-a-weekend-trip/",
@@ -363,17 +363,6 @@
       "link": "https://www.espn.com/video/clip/_/id/49410332/has-allen-surpassed-mahomes-nfl-best-qb-stephen-weighs-in"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/44871/usmnt-midweek-viewing-guide-back-to-the-grind",
-      "team": "usmnt",
-      "title": "USMNT midweek viewing guide: Back to the grind",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-20T15:07:46.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/44871/usmnt-midweek-viewing-guide-back-to-the-grind"
-    },
-    {
       "id": "espn-sabres::49405523",
       "team": "sabres",
       "title": "Behind the scenes at the NHL Broadcast Training Camp",
@@ -429,6 +418,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136931/buffalo-bills-2026-scouting-report-wide-receiver-quentin-skinner"
     },
     {
+      "id": "espn-bills::49298602",
+      "team": "bills",
+      "title": "Betting on the Buffalo Bills in 2026: Expect victories to add up",
+      "summary": "Examining the Bills' outlook for 2026, the ways to bet them and our best bet going into the NFL season.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-20T10:50:35Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/49298602/buffalo-bills-betting-outlook-2026"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265855-dalton-kincaidoverunder-735-receptions-overunder-65-tds/",
       "team": "bills",
       "title": "Dalton Kincaid....Over/Under 73.5 receptions, Over/Under 6.5 TD's????",
@@ -482,17 +482,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-19T11:59:11.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265853-people-are-sleeping-on-bills-secondary/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/135968/plays-that-defined-2025-cincinnati-bengals-at-buffalo-bills-week-14",
-      "team": "bills",
-      "title": "Plays That Defined 2025: Cincinnati Bengals at Buffalo Bills, Week 14",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-19T11:45:47.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/135968/plays-that-defined-2025-cincinnati-bengals-at-buffalo-bills-week-14"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265852-fitness-trail-around-new-highmark-stadium/",
@@ -814,6 +803,17 @@
       "link": "https://www.buffalohockeybeat.com/sabres-to-open-2026-27-season-oct-1-in-columbus-start-home-schedule-oct-3-versus-chicago/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44888/england-vs-argentina-2026-world-cup-semifinals-match-thread-and-discussion",
+      "team": "usmnt",
+      "title": "England vs. Argentina, 2026 World Cup semifinals: Match thread and discussion",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T13:09:52.000Z",
+      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44888/england-vs-argentina-2026-world-cup-semifinals-match-thread-and-discussion"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-radio-network-announces-23-network-affiliates-beginning-2026-season",
       "team": "bills",
       "title": "Buffalo Bills Radio Network announces 23 network affiliates beginning 2026 season",
@@ -856,6 +856,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-14T20:59:04.000Z",
       "link": "https://www.buffalobills.com/news/bills-claim-wr-quentin-skinner-off-waivers"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44902/carli-lloyd-puts-usmnt-world-cup-in-perspective-after-belgium-loss",
+      "team": "usmnt",
+      "title": "Carli Lloyd Puts USMNT World Cup in Perspective After Belgium Loss",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T15:28:44.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44902/carli-lloyd-puts-usmnt-world-cup-in-perspective-after-belgium-loss"
     },
     {
       "id": "espn-bills::39387572",
@@ -977,17 +988,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-09T18:37:24.000Z",
       "link": "https://www.diebytheblade.com/t-mcgees-2026-nhl-draft-post-mortem-peek-at-2027/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-to-host-return-of-the-blue-red-practice-august-8-open-practice-august-18",
-      "team": "bills",
-      "title": "Buffalo Bills to host Return of the Blue & Red practice August 8, open practice August 18",
-      "summary": "Bills will host two practices at Highmark Stadium this summer",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-08T19:14:00.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-to-host-return-of-the-blue-red-practice-august-8-open-practice-august-18"
     },
     {
       "id": "espn-sabres::49286665",
