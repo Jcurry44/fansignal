@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:07:11.866Z",
+  "generatedAt": "2026-07-24T18:46:05.653Z",
   "sources": [
     {
       "id": "bills-official",
@@ -96,8 +96,8 @@
       "id": "hfboards-sabres",
       "label": "HFBoards",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "HTTP 403"
+      "itemCount": 20,
+      "error": null
     },
     {
       "id": "stars-and-stripes",
@@ -176,6 +176,94 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265902-romo-arrested-for-dui/",
+      "team": "bills",
+      "title": "Romo arrested for DUI",
+      "summary": "https://www.tmz.com/2026/07/24/tony-romo-arrested-in-milwaukee/\n\n\n\n\t \n\n\n\n\tHere we go, Jim!\n\n\n\n\t \n\n\n\n\tIn all seriousness... hope the guy is okay and makes better choices moving forward.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T18:42:15.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265902-romo-arrested-for-dui/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T17:46:51.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/canucks-cammi-granato-shifting-from-agm-to-senior-amateur-adviser/",
+      "team": "sabres",
+      "title": "Canucks’ Cammi Granato shifting from AGM to senior amateur adviser",
+      "summary": "Cammi Granato is staying with the Vancouver Canucks, but in a new role.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T17:35:14.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/canucks-cammi-granato-shifting-from-agm-to-senior-amateur-adviser/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T17:34:38.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-russian-run-in-21-22-drafts.3034938/",
+      "team": "sabres",
+      "title": "The Russian Run in 21/22 drafts",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T17:26:13.000Z",
+      "link": "https://forums.hfboards.com/threads/the-russian-run-in-21-22-drafts.3034938/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265901-former-viking-anthony-barr-talks-about-his-ja-hurdle/",
+      "team": "bills",
+      "title": "Former Viking Anthony Barr talks about his JA hurdle",
+      "summary": "The first play from JA that hinted at what he could become.\n\n\n\n\t \n\n\n\n\tGreat to hear Anthony Barr’s thoughts.\n\n\n\n\t \n\n\n\n\tLove this play. Go Bills!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T17:18:50.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265901-former-viking-anthony-barr-talks-about-his-ja-hurdle/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-10.3034930/",
+      "team": "sabres",
+      "title": "2026 Prospect Poll #10",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T16:13:10.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-prospect-poll-10.3034930/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T16:04:17.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265898-owners-18-game-regular-season-players-grass-playing-fields/",
       "team": "bills",
       "title": "Owners: 18 game regular season   Players: Grass Playing Fields",
@@ -185,6 +273,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-24T15:41:18.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265898-owners-18-game-regular-season-players-grass-playing-fields/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/matous-kucharcik-c-103rd-overall-2025-miami-of-ohio-2026-27.3007733/",
+      "team": "sabres",
+      "title": "Matous Kucharcik, C, 103rd overall, 2025; Miami of Ohio 2026-27",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T15:25:52.000Z",
+      "link": "https://forums.hfboards.com/threads/matous-kucharcik-c-103rd-overall-2025-miami-of-ohio-2026-27.3007733/"
     },
     {
       "id": "espn-bills::49107696",
@@ -209,6 +308,50 @@
       "link": "https://www.buffalobills.com/news/one-bills-live-radio-show-gets-new-time-slot-beginning-july-27"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137146/how-high-is-the-ceiling-for-buffalo-bills-rookie-class",
+      "team": "bills",
+      "title": "How high is the ceiling for Buffalo Bills rookie class?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T12:52:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137146/how-high-is-the-ceiling-for-buffalo-bills-rookie-class"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137049/buffalo-bills-2026-scouting-report-outside-linebacker-michael-hoecht",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: outside linebacker Michael Hoecht",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T12:34:20.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137049/buffalo-bills-2026-scouting-report-outside-linebacker-michael-hoecht"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/137116/buffalo-rumblings-tailgate-series-inside-the-inaugural-bills-vip-tailgate",
+      "team": "bills",
+      "title": "Buffalo Rumblings Tailgate Series: Inside the inaugural Bills VIP tailgate",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T12:25:31.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/137116/buffalo-rumblings-tailgate-series-inside-the-inaugural-bills-vip-tailgate"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ryerson-leenders-g-mississauga-ohl-219oa-2024.2970240/",
+      "team": "sabres",
+      "title": "Ryerson Leenders, G, Mississauga (OHL) - 219OA, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T12:09:03.000Z",
+      "link": "https://forums.hfboards.com/threads/ryerson-leenders-g-mississauga-ohl-219oa-2024.2970240/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/what-are-the-top-3-training-camp-storylines-for-the-bills-defense",
       "team": "bills",
       "title": "What are the top 3 training camp storylines for the Bills defense?",
@@ -218,6 +361,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-24T12:00:00.000Z",
       "link": "https://www.buffalobills.com/news/what-are-the-top-3-training-camp-storylines-for-the-bills-defense"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
+      "team": "sabres",
+      "title": "General lacrosse thread presented by your local lax goalie dad",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T11:33:45.000Z",
+      "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/da-beauty-league.2515497/",
+      "team": "sabres",
+      "title": "Da Beauty League",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T05:05:22.000Z",
+      "link": "https://forums.hfboards.com/threads/da-beauty-league.2515497/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265897-bills-edge-rushersgroot-chubb-hoecht-parker-solomonoverunder-252-sacks/",
@@ -231,26 +396,26 @@
       "link": "https://www.twobillsdrive.com/community/topic/265897-bills-edge-rushersgroot-chubb-hoecht-parker-solomonoverunder-252-sacks/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/45033/tyler-adams-explains-mauricio-pochettinos-impact-on-usmnt",
-      "team": "usmnt",
-      "title": "Tyler Adams Explains Mauricio Pochettino’s Impact on USMNT",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-9.3034834/",
+      "team": "sabres",
+      "title": "2026 Prospect Poll #9",
       "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-23T22:50:56.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/45033/tyler-adams-explains-mauricio-pochettinos-impact-on-usmnt"
+      "publishedAt": "2026-07-24T00:28:00.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-prospect-poll-9.3034834/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/45030/tyler-adams-hopes-usmnt-world-cup-run-inspires-increased-fan-support",
-      "team": "usmnt",
-      "title": "Tyler Adams Hopes USMNT World Cup Run Inspires Increased Fan Support",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/",
+      "team": "sabres",
+      "title": "Prokhor Poltapov, F (33rd overall, 2021) CSKA (KHL)",
       "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-23T22:50:43.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/45030/tyler-adams-hopes-usmnt-world-cup-run-inspires-increased-fan-support"
+      "publishedAt": "2026-07-23T23:38:25.000Z",
+      "link": "https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265896-qb-pavia-where-does-he-land/",
@@ -295,6 +460,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-23T19:30:31.000Z",
       "link": "https://www.buffalohockeybeat.com/former-sabres-found-new-jobs-as-free-agents-this-summer/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/poll-is-the-buffalo-sabres-current-roster-a-playoff-team-for-the-26-27-season.3033897/",
+      "team": "sabres",
+      "title": "Poll:  Is the Buffalo Sabres current roster a playoff team for the 26-27 season ?",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T19:17:11.000Z",
+      "link": "https://forums.hfboards.com/threads/poll-is-the-buffalo-sabres-current-roster-a-playoff-team-for-the-26-27-season.3033897/"
     },
     {
       "id": "bandits-official::https://bandits.com/bandits-sign-robinson-to-3-year-contract/",
@@ -396,17 +572,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265894-deep-dive-buffalo-bills-previewanalysis-from-a-national-perspective/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45004/usmnt-midfielder-sebastian-berhalter-reportedly-moving-to-middlesborough",
-      "team": "usmnt",
-      "title": "USMNT midfielder Sebastian Berhalter reportedly moving to Middlesborough",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-23T17:59:38.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/45004/usmnt-midfielder-sebastian-berhalter-reportedly-moving-to-middlesborough"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137121/are-you-going-to-buffalo-bills-training-camp-this-summer",
       "team": "bills",
       "title": "Are you going to Buffalo Bills training camp this summer?",
@@ -438,6 +603,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-23T17:08:38.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/137114/parker-brothers-tailgate-menu-for-the-buffalo-bills-2026-season"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-salary-cap-2026-27-season-discussion.3008541/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Salary Cap 2026-27 Season Discussion",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T15:54:14.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-sabres-salary-cap-2026-27-season-discussion.3008541/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-tyler-adams-youth-soccer-accessibility-2026-world-cup/",
@@ -473,17 +649,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49096995/2026-buffalo-bills-training-camp-preview"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/patrick-kane-returns-to-blackhawks-on-two-year-deal/",
-      "team": "sabres",
-      "title": "Patrick Kane returns to Blackhawks on two-year deal",
-      "summary": "The Buffalo, N.Y., native signed a two-year, $16 million contract worth $8 million in average annual value with the Chicago Blackhawks on Thursday, per Sportsnet’s Elliotte Friedman.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-23T12:55:21.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/patrick-kane-returns-to-blackhawks-on-two-year-deal/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/137109/former-buffalo-bills-cornerback-retires",
       "team": "bills",
       "title": "Former Buffalo Bills cornerback retires",
@@ -504,6 +669,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-23T12:32:56.000Z",
       "link": "https://www.diebytheblade.com/jedi-council-12/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
+      "team": "sabres",
+      "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T12:28:54.000Z",
+      "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
+      "team": "sabres",
+      "title": "All Purpose Goaltending Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T11:20:37.000Z",
+      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
     },
     {
       "id": "espn-sabres::49424745",
@@ -528,6 +715,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/265888-anyone-know-when-the-bills%E2%80%99-2025-highlights-film-is-scheduled-to-be-shown/"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-norris-center-acquired-from-ottawa-senators.2989945/",
+      "team": "sabres",
+      "title": "Josh Norris, Center, Acquired from Ottawa Senators",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T02:44:51.000Z",
+      "link": "https://forums.hfboards.com/threads/josh-norris-center-acquired-from-ottawa-senators.2989945/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265887-dj-moore-route-tree-and-success-the-past-two-years/",
       "team": "bills",
       "title": "DJ Moore route tree and success the past two years",
@@ -539,15 +737,26 @@
       "link": "https://www.twobillsdrive.com/community/topic/265887-dj-moore-route-tree-and-success-the-past-two-years/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/44970/ssfc-spotlight-sarah-weber-ups-production-in-second-nwsl-season",
-      "team": "usmnt",
-      "title": "SSFC Spotlight: Sarah Weber ups production in second NWSL season",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
       "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-23T00:47:47.000Z",
-      "link": "https://www.starsandstripesfc.com/uswnt-news/44970/ssfc-spotlight-sarah-weber-ups-production-in-second-nwsl-season"
+      "publishedAt": "2026-07-23T01:16:37.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/top-10-under-25-buffalo-sabres.3034835/",
+      "team": "sabres",
+      "title": "Top 10 under 25 Buffalo Sabres?",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-23T00:29:03.000Z",
+      "link": "https://forums.hfboards.com/threads/top-10-under-25-buffalo-sabres.3034835/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265886-is-brady-going-to-turn-josh-loose/",
@@ -572,6 +781,17 @@
       "link": "https://www.espn.com/nfl/story/_/id/39395382/what-oldest-nfl-stadium-soldier-sofi-age"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-22T15:44:00.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
+    },
+    {
       "id": "espn-bills::49417396",
       "team": "bills",
       "title": "Ranking NFL teams by under-25 talent: Pats, Texans lead list",
@@ -594,17 +814,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/137075/bring-on-your-best-buffalo-bills-tailgating-ideas"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137046/buffalo-bills-2026-scouting-report-wide-receiver-trent-sherfield",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: wide receiver Trent Sherfield",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-22T12:54:57.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137046/buffalo-bills-2026-scouting-report-wide-receiver-trent-sherfield"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/137081/did-brandon-beane-and-the-buffalo-bills-get-ahead-of-the-linebacker-market",
       "team": "bills",
       "title": "Did Brandon Beane and the Buffalo Bills get ahead of the linebacker market?",
@@ -616,15 +825,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/137081/did-brandon-beane-and-the-buffalo-bills-get-ahead-of-the-linebacker-market"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137064/underrated-buffalo-bills-who-can-make-noise-at-2026-training-camp",
-      "team": "bills",
-      "title": "Underrated Buffalo Bills who I expect to make noise at 2026 training camp",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/",
+      "team": "sabres",
+      "title": "General Sabres Media Info & Coverage",
       "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-21T22:02:03.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137064/underrated-buffalo-bills-who-can-make-noise-at-2026-training-camp"
+      "publishedAt": "2026-07-22T00:23:44.000Z",
+      "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
     },
     {
       "id": "espn-sabres::49419342",
@@ -636,17 +845,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-21T20:18:05Z",
       "link": "https://www.espn.com/nhl/story/_/id/49419342/nhl-produce-games-hurricanes-blue-jackets-wild-blues"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/137054/buffalo-bills-left-tackle-dion-dawkins-comes-in-at-no-57-in-nfls-top-100-players-of-2026",
-      "team": "bills",
-      "title": "Buffalo Bills left tackle Dion Dawkins comes in at No. 57 in NFL’s Top 100 Players of 2026",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-21T17:30:48.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/137054/buffalo-bills-left-tackle-dion-dawkins-comes-in-at-no-57-in-nfls-top-100-players-of-2026"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-and-sabres-team-up-for-pet-adoption-event-on-july-25",
@@ -680,6 +878,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-21T14:53:47Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/49298602/buffalo-bills-betting-outlook-2026"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265873-only-8937-people-ahead-of-me-in-the-queue-for-818-practice-tickets/",
+      "team": "bills",
+      "title": "Only 8937 people ahead of me in the queue for 8/18 practice tickets",
+      "summary": "Hurry your ass up and pick your seats, I got to get back to work",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-21T14:06:08.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265873-only-8937-people-ahead-of-me-in-the-queue-for-818-practice-tickets/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/45009/usmnt-rises-one-spot-to-16th-in-fifa-world-rankings",
@@ -847,6 +1056,17 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-video-production-team-nominated-for-eight-new-york-emmy-awards"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/44961/world-cup-reacts-results-which-fan-base-has-been-the-best",
+      "team": "usmnt",
+      "title": "World Cup Reacts results: Which fan base has been the best?",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-17T20:36:09.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/44961/world-cup-reacts-results-which-fan-base-has-been-the-best"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/u-s-soccer-vision-for-future-after-usmnts-rollercoaster-world-cup-run-2026/",
       "team": "usmnt",
       "title": "U.S. Soccer maps out long-term vision after USMNT's roller coaster World Cup run",
@@ -869,6 +1089,17 @@
       "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44941/france-vs-england-2026-world-cup-3rd-place-match-match-thread-and-discussion"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44955/spain-vs-argentina-2026-world-cup-final-what-to-watch-for",
+      "team": "usmnt",
+      "title": "Spain vs. Argentina, 2026 World Cup Final: What to watch for",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-17T14:07:10.000Z",
+      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44955/spain-vs-argentina-2026-world-cup-final-what-to-watch-for"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/give-716-day-2026-raises-more-than-1-8-million-for-wny-charities",
       "team": "bills",
       "title": "Give 716 Day 2026 raises more than $1.8 million for WNY charities",
@@ -878,17 +1109,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-17T13:59:00.000Z",
       "link": "https://www.buffalobills.com/news/give-716-day-2026-raises-more-than-1-8-million-for-wny-charities"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/44944/spain-vs-argentina-2026-world-cup-final-match-thread-and-discussion",
-      "team": "usmnt",
-      "title": "Spain vs. Argentina, 2026 World Cup Final: Match thread and discussion",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-17T13:05:57.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/44944/spain-vs-argentina-2026-world-cup-final-match-thread-and-discussion"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/",
@@ -902,6 +1122,17 @@
       "link": "https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44890/ssfc-spotlight-justin-ellis-demonstrating-early-value-in-mls",
+      "team": "usmnt",
+      "title": "SSFC Spotlight: Justin Ellis demonstrating early value in MLS",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-17T03:22:57.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44890/ssfc-spotlight-justin-ellis-demonstrating-early-value-in-mls"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265839-dion-dawkins-loses-45-pounds/",
       "team": "bills",
       "title": "Dion Dawkins loses 45 pounds",
@@ -911,6 +1142,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-16T23:17:02.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265839-dion-dawkins-loses-45-pounds/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/44926/usa-soccercast-episode-195-seriously-evaluating-the-usmnt-performance",
+      "team": "usmnt",
+      "title": "USA Soccercast, Episode 195: Seriously evaluating the USMNT performance",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-16T22:54:28.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/44926/usa-soccercast-episode-195-seriously-evaluating-the-usmnt-performance"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/u-s-soccer-remains-in-talks-mauricio-pochettino/",
@@ -1142,39 +1384,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-01T18:14:53.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265727-alternate-uni-unveiling-reportedly-scheduled-for-27-july/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265697-if-you-werent-thrilled-about-the-brady-hire-as-hc-do-you-feel-any-better-about-it-now/",
-      "team": "bills",
-      "title": "If you weren't thrilled about the Brady hire as HC do you feel any better about it now?",
-      "summary": "Well it was 5 months ago yesterday he was announced as HC.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tWhen he got hired I'll admit my reaction was very negative.  I think off the emotion of the Broncos loss, the messy press conference over the firing of McDermott, and my feeling was at the time the Bills didn't really interview a lot of candidates.  \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tWhile I'm still not sold about the hire my feeling months removed from it all is that I'm willing to roll with him as HC.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-28T21:37:34.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265697-if-you-werent-thrilled-about-the-brady-hire-as-hc-do-you-feel-any-better-about-it-now/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265668-nfl-top-100-in-2026-100-85-updated-71/",
-      "team": "bills",
-      "title": "NFL Top 100 in 2026 (100-85 UPDATED 7/1)",
-      "summary": "https://www.nfl.com/news/top-100-players-of-2026-nos-100-91\n\n\n\n\t \n\n\n\n\t100. Cam Jordan, DE, Saints\n\n\n\n\t99. Quenton Nelson, OG, Colts\n\n\n\n\t98. Bryce Young, QB, Panthers\n\n\n\n\t97. Ernest Jones, LB, Seahawks\n\n\n\n\t96. Travis Entienne, RB, Jaguars\n\n\n\n\t95. Demario Davis, OLB, Jets\n\n\n\n\t94. Creed Humphrey, C, Chiefs\n\n\n\n\t93. Carson Schwesinger, LB, Browns\n\n\n\n\t92. Azeez Al-Shaair, LB, Texans\n\n\n\n\t91. Montez Sweat, DE, Bears\n\n\n\n\t90. Derrick Brown, DT, Panthers\n\n\n\n\t89. Kyren Williams, RB, Rams\n\n\n\n\t88. Jack Campbell, LB, Lions\n\n\n\n\t87. Tetairoa McMillan, WR, Panthers\n\n\n\n\t86. Tuli Tuipulotu, LB, Chargers\n\n\n\n\t85. Brock Purdy, QB, 49ers\n\n\n\n\t \n\n\n\n\tBryce Young?!? If I were Nelson or Jordan, I'd be a little PO'ed.\n\n\n\n\t \n\n\n\n\tUpdate 7/1:\n\n\n\n\tIn addition to Bryce Young, seems the Panthers are getting a lot of love with McMillan making the list at 87.\n\n\n\n\tPurdy coming in at 85 is getting a lot of chatter. He definitely belongs above Bryce Young, but do either really belong?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-23T17:02:27.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265668-nfl-top-100-in-2026-100-85-updated-71/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264693-bills-re-sign-alec-anderson/",
-      "team": "bills",
-      "title": "Bills re-sign Alec Anderson",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-02-20T19:47:51.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/264693-bills-re-sign-alec-anderson/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/260177-the-tyreek-hill-thread-now-released/",
