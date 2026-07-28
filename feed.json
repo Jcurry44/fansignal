@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T21:39:41.979Z",
+  "generatedAt": "2026-07-28T22:42:21.902Z",
   "sources": [
     {
       "id": "bills-official",
@@ -163,9 +163,9 @@
     },
     {
       "team": "bisons",
-      "state": "upcoming",
-      "headline": "Tue 6:45 PM",
-      "detail": "at WSH"
+      "state": "live",
+      "headline": "[object Object] - [object Object]",
+      "detail": "at WSH · Delayed, Top 1st"
     },
     {
       "team": "usmnt",
@@ -176,15 +176,26 @@
   ],
   "stories": [
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
-      "title": "Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin",
-      "summary": "BUFFALO – University of Wisconsin coach Mike Hastings said he sometimes tells Sabres defense prospect Luke Osburn to take a break and stay off the ice.\nWhile Osburn’s strong work ethic is one of greatest strengths – “The standard he sets for himself is at an elite level,” Hastings told the Times Herald – he occasionally needs to take a step back.\n“He’s a very good self-evaluator,” Hastings said. “He’s one of those few players, ... Read the full article \nThe post Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-28T21:39:04.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/"
+      "publishedAt": "2026-07-28T22:20:32.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/",
+      "team": "sabres",
+      "title": "Doman Szongoth, LC, KooKoo U20, heading to Sault Ste. Marie (OHL) - 156OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-28T22:11:43.000Z",
+      "link": "https://forums.hfboards.com/threads/doman-szongoth-lc-kookoo-u20-heading-to-sault-ste-marie-ohl-156oa-2026.3032865/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
@@ -194,8 +205,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-28T21:37:24.000Z",
+      "publishedAt": "2026-07-28T22:08:14.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
+      "team": "sabres",
+      "title": "Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin",
+      "summary": "BUFFALO – University of Wisconsin coach Mike Hastings said he sometimes tells Sabres defense prospect Luke Osburn to take a break and stay off the ice.\nWhile Osburn’s strong work ethic is one of greatest strengths – “The standard he sets for himself is at an elite level,” Hastings told the Times Herald – he occasionally needs to take a step back.\n“He’s a very good self-evaluator,” Hastings said. “He’s one of those few players, ... Read the full article \nThe post Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-28T21:39:04.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-12.3035093/",
@@ -264,17 +286,6 @@
       "link": "https://www.cbssports.com/soccer/news/cbs-sports-lands-exclusive-english-tv-rights-to-concacaf-champions-cup-through-2030/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-28T19:47:45.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265926-my-season-tickets-aren%E2%80%99t-selling-what-about-yours/",
       "team": "bills",
       "title": "My season tickets aren’t selling. What about yours?",
@@ -297,6 +308,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/265925-jalen-carter-gets-a-boatload-of/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/137392/bills-mafia-should-have-seen-nickel-city-uniform-coming",
+      "team": "bills",
+      "title": "Bills Mafia should have seen “Nickel City” uniform coming",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-28T17:04:59.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/137392/bills-mafia-should-have-seen-nickel-city-uniform-coming"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
       "team": "sabres",
       "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
@@ -306,17 +328,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-28T16:24:50.000Z",
       "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/137392/bills-mafia-should-have-seen-nickel-city-uniform-coming",
-      "team": "bills",
-      "title": "Bills Mafia should have seen “Nickel City” uniform coming",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-28T16:24:42.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/137392/bills-mafia-should-have-seen-nickel-city-uniform-coming"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/hot-takes/45055/the-usmnt-is-as-good-as-parents-can-afford",
@@ -724,17 +735,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-25T23:34:25.000Z",
       "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-russian-run-in-21-22-drafts.3034938/",
-      "team": "sabres",
-      "title": "The Russian Run in 21/22 drafts",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-25T21:18:24.000Z",
-      "link": "https://forums.hfboards.com/threads/the-russian-run-in-21-22-drafts.3034938/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265906-mahomes-fully-cleared-for-tc/",
@@ -1177,17 +1177,6 @@
       "link": "https://www.buffalobills.com/news/bills-debut-new-fitness-trail-surrounding-highmark-stadium"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-video-production-team-nominated-for-eight-new-york-emmy-awards",
-      "team": "bills",
-      "title": "Buffalo Bills Video Production Team nominated for eight New York Emmy® Awards",
-      "summary": "From NFL Draft Embedded, Josh Allen's MVP reaction and inside the construction of Highmark Stadium, the Bills video production team provides Emmy-nominated exclusive access videos",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-17T21:00:00.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-video-production-team-nominated-for-eight-new-york-emmy-awards"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/u-s-soccer-vision-for-future-after-usmnts-rollercoaster-world-cup-run-2026/",
       "team": "usmnt",
       "title": "U.S. Soccer maps out long-term vision after USMNT's roller coaster World Cup run",
@@ -1340,6 +1329,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-09T18:37:24.000Z",
       "link": "https://www.diebytheblade.com/t-mcgees-2026-nhl-draft-post-mortem-peek-at-2027/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 Training Camp schedule",
+      "summary": "Tickets, dates and times for Bills Training Camp 2026",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-07T19:59:00.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-announce-2026-training-camp-schedule-and-ticket-information"
     },
     {
       "id": "espn-sabres::49286665",
