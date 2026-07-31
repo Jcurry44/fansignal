@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T16:24:39.264Z",
+  "generatedAt": "2026-07-31T18:04:16.809Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 4,
+      "itemCount": 5,
       "error": null
     },
     {
@@ -176,15 +176,37 @@
   ],
   "stories": [
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/137417/bills-news-what-to-know-from-training-camp-so-far",
+      "id": "espn-bills::45789518",
       "team": "bills",
-      "title": "Bills news: What to know from training camp so far",
+      "title": "Anatomy of an NFL holdout: What it's like for players, agents, teams",
+      "summary": "Holdouts can be brutal. Here are some notable stories from each side of the bargaining table.",
+      "source": "ESPN · John Keim",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T18:01:44Z",
+      "link": "https://www.espn.com/nfl/story/_/id/45789518/nfl-training-camp-holdouts-trey-hendrickson-terry-mclaurin"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/136200/buffalo-bills-superfans-painting-beskar-tassets-for-mandalorian-armor",
+      "team": "bills",
+      "title": "Buffalo Bills superfans: Painting Beskar tassets for Mandalorian armor",
       "summary": "",
       "source": "Buffalo Rumblings",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-31T16:22:46.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/137417/bills-news-what-to-know-from-training-camp-so-far"
+      "publishedAt": "2026-07-31T17:55:51.000Z",
+      "link": "https://www.buffalorumblings.com/general/136200/buffalo-bills-superfans-painting-beskar-tassets-for-mandalorian-armor"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T17:23:25.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
@@ -194,8 +216,52 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-07-31T16:20:20.000Z",
+      "publishedAt": "2026-07-31T17:21:39.000Z",
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "espn-bills::49464348",
+      "team": "bills",
+      "title": "Every NFL team's best training camp, preseason riser ever",
+      "summary": "Let's look back to when 32 NFL players kick-started their careers with strong performances in training camp and the preseason -- one from each team.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T17:05:31Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49464348/nfl-training-camps-preseason-risers-history-davis-cruz-crosby"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265959-an-interesting-thing-to-keep-an-eye-on-can-brady-fix-yearly-mid-season-swoon/",
+      "team": "bills",
+      "title": "An interesting thing to keep an eye on - Can Brady fix yearly mid season swoon?",
+      "summary": "Something that was a constant issue under McD is the team's apparent loss of focus somewhere in the early middle of the schedule where they suddenly go from whomping teams to losing games they shouldn't and it ends up costing them the #1 seed at the end of the year.\n\n\n\n\t \n\n\n\n\tIt will be interesting to see if Brady is able to keep them mentally focused and not allow them to get overconfident and think they can just show up to games against some lesser teams and win during these stretches.\n\n\n\n\t \n\n\n\n\tI know it's a long season but it gets kind of annoying seeing how good this team is over the course of the last 6-7 years, having the best record in the NFL during that time, an absurd point differential that is 200 points higher than the next closest team, but yet they can never get the #1 seed because this constantly is an issue every single year.\n\n\n\n\t \n\n\n\n\tAt some point you would think McD would have figured out how to get the players attention on this based on how things usually went but for whatever reason he never was.\n\n\n\n\t \n\n\n\n\tWill Brady be able to? That's the thing I'm most interested in finding out this year.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T16:29:39.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265959-an-interesting-thing-to-keep-an-eye-on-can-brady-fix-yearly-mid-season-swoon/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/pressure-mounts-fifa-boss-gianni-infantino-world-cup-plan-uefa-afc-concacaf/",
+      "team": "usmnt",
+      "title": "Pressure mounts on FIFA boss Gianni Infantino: AFC and CONCACAF against plan, UEFA boycott, advisor resigns",
+      "summary": "The soccer world, for the most part, has been united in its rejection of FIFA president Gianni Infantino's controversial proposed plan",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T16:23:17.000Z",
+      "link": "https://www.cbssports.com/soccer/news/pressure-mounts-fifa-boss-gianni-infantino-world-cup-plan-uefa-afc-concacaf/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/137417/bills-news-what-to-know-from-training-camp-so-far",
+      "team": "bills",
+      "title": "Bills news: What to know from training camp so far",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T16:22:46.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/137417/bills-news-what-to-know-from-training-camp-so-far"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/don-granato-thread-cbjs-newest-assistant-coach.2831265/",
@@ -209,17 +275,6 @@
       "link": "https://forums.hfboards.com/threads/don-granato-thread-cbjs-newest-assistant-coach.2831265/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-31T16:03:41.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/msg-streaming-moving-to-dazn.3035165/",
       "team": "sabres",
       "title": "MSG streaming moving to DAZN",
@@ -231,15 +286,15 @@
       "link": "https://forums.hfboards.com/threads/msg-streaming-moving-to-dazn.3035165/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265958-training-camp-st-holder-gift/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265958-training-camp-st-holder-gift-this-is-a-question-not-information-but-i-was-too-lazy-to-type-a/",
       "team": "bills",
-      "title": "Training camp ST holder gift",
+      "title": "Training camp ST holder gift (this is a question, not information, but I was too lazy to type a \"?\")",
       "summary": "Just got the Email to swing by the booth at training camp for my season ticket gift.  For those that have gone what is it?  The Bills are sometimes good with these things, like the woodend cut out of the old stadium and the ST holder coins.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-07-31T15:48:14.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265958-training-camp-st-holder-gift/"
+      "link": "https://www.twobillsdrive.com/community/topic/265958-training-camp-st-holder-gift-this-is-a-question-not-information-but-i-was-too-lazy-to-type-a/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265957-bills-release-wande-owens-sign-cb-dj-miller/",
@@ -308,17 +363,6 @@
       "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
     },
     {
-      "id": "espn-bills::49464348",
-      "team": "bills",
-      "title": "Every NFL team's best training camp, preseason riser ever",
-      "summary": "Let's look back to when 32 NFL players kick-started their careers with strong performances in training camp and the preseason -- one from each team.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-31T14:38:23Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49464348/nfl-training-camps-preseason-risers-history-davis-cruz-crosby"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
       "team": "sabres",
       "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
@@ -372,17 +416,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-31T11:00:07.000Z",
       "link": "https://www.buffalobills.com/news/tyler-bass-is-feeling-like-himself-again-to-start-bills-training-camp"
-    },
-    {
-      "id": "espn-bills::45789518",
-      "team": "bills",
-      "title": "Anatomy of an NFL holdout: What it's like for players, agents, teams",
-      "summary": "Holdouts can be brutal. Here are some notable stories from each side of the bargaining table.",
-      "source": "ESPN · John Keim",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-31T10:05:05Z",
-      "link": "https://www.espn.com/nfl/story/_/id/45789518/nfl-training-camp-holdouts-trey-hendrickson-terry-mclaurin"
     },
     {
       "id": "espn-bills::33189973",
@@ -605,17 +638,6 @@
       "link": "https://forums.hfboards.com/threads/2026-prospects-showcase-september-13-14.3035210/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/137569/tyler-bass-injury-bills-kicker-good-to-go-in-2026-training-camp",
-      "team": "bills",
-      "title": "Tyler Bass injury: Bills kicker good to go in 2026 training camp",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-30T17:27:32.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/137569/tyler-bass-injury-bills-kicker-good-to-go-in-2026-training-camp"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/",
       "team": "sabres",
       "title": "The Second Annual Old Navy Goat Draft Thread, 2027 Edition",
@@ -834,17 +856,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-29T15:11:04.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265934-training-camp-and-other-news-around-the-league/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265930-who%E2%80%99s-the-best-reporter-to-follow-for-tc-updates-on-xthreads/",
-      "team": "bills",
-      "title": "Who’s the best reporter to follow for TC updates on X/Threads?",
-      "summary": "Thoughts?\n\n\n\n\t \n\n\n\n\tLast year I thought the Buffalo Plus trio and Joe Marino (Locked On Bills) did the best YouTube recaps…",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-29T11:37:53.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265930-who%E2%80%99s-the-best-reporter-to-follow-for-tc-updates-on-xthreads/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/",
