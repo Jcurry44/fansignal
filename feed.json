@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T19:08:29.131Z",
+  "generatedAt": "2026-08-04T20:44:04.907Z",
   "sources": [
     {
       "id": "bills-official",
@@ -40,8 +40,8 @@
       "id": "twobillsdrive",
       "label": "TwoBillsDrive",
       "team": "bills",
-      "itemCount": 0,
-      "error": "fetch failed"
+      "itemCount": 20,
+      "error": null
     },
     {
       "id": "espn-sabres",
@@ -176,6 +176,61 @@
   ],
   "stories": [
     {
+      "id": "bills-official::https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-5-of-training-camp-2026",
+      "team": "bills",
+      "title": "What we learned about the Bills on Day 5 of Training Camp 2026",
+      "summary": "Tuesday featured the most snaps of 11-on-11 team reps since the start of camp. Here's what stood out.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T20:26:24.000Z",
+      "link": "https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-5-of-training-camp-2026"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
+      "team": "sabres",
+      "title": "How are they doing now? (Former Sabres Players) Top 100 pics/stories",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T20:11:16.000Z",
+      "link": "https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/",
+      "team": "sabres",
+      "title": "General Discussion of Prospects",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T20:10:28.000Z",
+      "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-training-camp/137816/buffalo-bills-first-fully-padded-training-camp-practice-highlighted-by-multitude-of-fights",
+      "team": "bills",
+      "title": "Buffalo Bills first fully padded training camp practice highlighted by multitude of fights",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T19:51:06.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-training-camp/137816/buffalo-bills-first-fully-padded-training-camp-practice-highlighted-by-multitude-of-fights"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T19:17:53.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137817/bills-mafia-weighs-in-about-buffalos-first-week-of-2026-training-camp",
       "team": "bills",
       "title": "Bills Mafia weighs in about Buffalo’s first week of 2026 training camp",
@@ -187,28 +242,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137817/bills-mafia-weighs-in-about-buffalos-first-week-of-2026-training-camp"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-04T18:49:02.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
-      "team": "sabres",
-      "title": "How are they doing now? (Former Sabres Players) Top 100 pics/stories",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-04T18:33:13.000Z",
-      "link": "https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137836/buffalo-bills-could-still-pull-off-a-trade-for-dt-vita-vea-before-week-1",
       "team": "bills",
       "title": "Buffalo Bills could still pull off a trade for DT Vita Vea before Week 1",
@@ -218,6 +251,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-04T18:22:09.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137836/buffalo-bills-could-still-pull-off-a-trade-for-dt-vita-vea-before-week-1"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45118/usmnt-announces-friendlies-for-september-october-window",
+      "team": "usmnt",
+      "title": "USMNT announces friendlies for September-October window",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T18:21:23.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/45118/usmnt-announces-friendlies-for-september-october-window"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45093/mauricio-pochettino-signs-new-deal-to-continue-as-usmnt-head-coach",
+      "team": "usmnt",
+      "title": "Mauricio Pochettino signs new deal to continue as USMNT head coach",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T18:02:10.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/45093/mauricio-pochettino-signs-new-deal-to-continue-as-usmnt-head-coach"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/inside-the-sabres%E2%80%99-scouting-of-22-draft-class-zach-benson-ostlund-kulich-benson-articles-linked.3035050/",
@@ -264,15 +319,15 @@
       "link": "https://forums.hfboards.com/threads/2026-prospect-poll-15.3035424/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-training-camp/137816/buffalo-bills-first-fully-padded-training-camp-practice-highlighted-by-multitude-of-fights",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265990-will-our-oc-and-dc-be-on-the-sideline/",
       "team": "bills",
-      "title": "Buffalo Bills first fully padded training camp practice highlighted by multitude of fights",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
+      "title": "Will our OC and DC be on the sideline?",
+      "summary": "Does anyone have any insight as to if Leonard or Carmichael like to coach from the booth or the sidelines?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-04T16:41:21.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-training-camp/137816/buffalo-bills-first-fully-padded-training-camp-practice-highlighted-by-multitude-of-fights"
+      "publishedAt": "2026-08-04T17:12:42.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265990-will-our-oc-and-dc-be-on-the-sideline/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137791/buffalo-bills-how-many-targets-will-the-bills-running-backs-have-in-2026-james-cook",
@@ -284,6 +339,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-04T16:39:08.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137791/buffalo-bills-how-many-targets-will-the-bills-running-backs-have-in-2026-james-cook"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265989-z-flowers-4-years-140-million/",
+      "team": "bills",
+      "title": "Z Flowers 4 years 140 million.",
+      "summary": "He makes the same money as Justin Jefferson which is insane . \n\t \n\n\n\n\tThis makes the DJM contract look even better",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T16:26:02.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265989-z-flowers-4-years-140-million/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137810/bijan-robinsons-record-extension-proves-buffalo-bills-got-ahead-of-the-market-with-james-cook",
@@ -308,6 +374,61 @@
       "link": "https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265987-some-week-1-discussion-how-good-is-houstons-defense/",
+      "team": "bills",
+      "title": "Some Week 1 Discussion: How Good is Houston's Defense?",
+      "summary": "Do the Texans have a generational Defense as good as The 2000 Ravens, 02 Buccs, 2013 Seahawks, or 2015 Broncos?\n\n\n\n\t \n\n\n\n\tThose teams all won Super Bowls.  Can Houston ride this Defense to a championship? Obviously it is their Offense that is holding them back and they have done nothing on that side of the ball to make me think they will take any big leaps forward Offensively but if the chips fall the right way is that Defense good enough to take them all the way?\n\n\n\n\t \n\n\n\n\tBuffalo got clobbered by their D in last year's matchup but we have a new weapon in DJ Moore this season and we were dealing with injuries to Dawkins and Brown in last year's matchup. I think we give them a much tougher game this time around but I could see it going either way at this point. Will still be the toughest matchup for our Offense this season",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T15:02:10.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265987-some-week-1-discussion-how-good-is-houstons-defense/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265986-the-athletic-qb-tiers-2-panelists-voted-josh-as-tier-2/",
+      "team": "bills",
+      "title": "The Athletic QB Tiers (2 Panelists Voted Josh as Tier 2)",
+      "summary": "The annual Athletic QB Tiers came out this morning.  Unbelievably, 2 panelists voted Josh as a tier 2 QB!  These 2 panelists must be incredibly spiteful or astonishingly stupid.  How do you not immediately dismiss any contributors to your story that claim Allen is not in the top tier of QBs in the NFL?!  I know it is a paywall article, but here is the link.  https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/ \n\n\n\n\t \n\n\n\n\tHow panelists voted in 2026\n\n\n\n\tTier 1  - 48 votes\n\n\n\n\tTier 2 - 2\n\n\n\n\t \n\n\n\n\tAllen moved one vote closer toward unanimous Tier 1 status and could be the most feared quarterback in the league.\n\n\n\n\t“Josh Allen is unreal,” a defensive coordinator said. “He and Stafford are the two guys I would not want to play the most. Allen’s ability to make plays, be hard to tackle, put the team on his shoulders — when it’s fourth down, he is going to win.”\n\n\n\n\t \n\n\n\n\tOne veteran coach said Allen still has much to learn.\n\n\n\n\t“Josh Allen, with under 30 seconds left in the half, runs for a meaningless 12-yard gain and fumbles and gives up a field goal in a playoff game to go behind two scores against Denver,” this coach said. “Until he quits doing that, you can’t rank him as the top quarterback. That is one of the worst plays I’ve ever seen. Cost them the game.”\n\n\n\n\t \n\n\n\n\tOthers saw the positives.\n\n\n\n\t“The thing that jumped out to me about the playoffs last year was the physicality and the plays the quarterbacks make with their toughness, their size and their strength, particularly as they advance on,” an exec said. “Josh has got that. Obviously, it’s TBD with (new coach) Joe Brady, but one thing that those guys in the top tier do is, when you get off the bus on the road, the other 52 guys think they got a chance.”\n\n\n\n\tAllen led all quarterbacks in rushing yards (579) and rushing touchdowns (14) in 2025.\n\n\n\n\t \n\n\n\n\t“He’s the real deal because he can do it as a dropback quarterback, and they do some run game with him,” another defensive coordinator said. “The way they use him is the way Baltimore has to use Lamar (Jackson) to get the most out of him.”\n\n\n\n\tA GM noted that the Bills have given Allen a strong defense and a strong run game, but not at the same time.\n\n\n\n\t“Josh is a 1 because he is the reason they remain competitive,” this GM said. “He’s so physically talented. But I’m ready to say he’s never gonna win a Super Bowl because their team’s getting worse around him, and I think his style of football is going to start breaking him down physically.”",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T14:52:21.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265986-the-athletic-qb-tiers-2-panelists-voted-josh-as-tier-2/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/45112/jenna-nighswonger-reportedly-transfers-from-arsenal-to-bay-fc",
+      "team": "usmnt",
+      "title": "Jenna Nighswonger reportedly transfers from Arsenal to Bay FC",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T14:37:24.000Z",
+      "link": "https://www.starsandstripesfc.com/uswnt-news/45112/jenna-nighswonger-reportedly-transfers-from-arsenal-to-bay-fc"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265985-bijan-gets-paid/",
+      "team": "bills",
+      "title": "Bijan gets Paid!!!",
+      "summary": "I guess RBs are relevant again.  This is crazy money.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T13:28:55.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265985-bijan-gets-paid/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265984-training-camp-day-5-please-keep-commentary-tc-related/",
+      "team": "bills",
+      "title": "Training Camp - Day 5  (please keep commentary TC-related)",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T12:47:51.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265984-training-camp-day-5-please-keep-commentary-tc-related/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
       "team": "sabres",
       "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
@@ -328,6 +449,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-04T07:05:31Z",
       "link": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265982-oddsmakers-rank-starting-qbs-by-point-spread-value-ja-clear-1/",
+      "team": "bills",
+      "title": "Oddsmakers rank starting QBs by POINT-SPREAD VALUE: JA clear #1",
+      "summary": "His point-spread value is 7.23, which is almost a full point ahead of the next QB!\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\t“‘To me, he's the most talented QB in the league,’ one oddsmaker told me. ‘The durability as well would put him ahead of Mahomes.’\n\n\n\n\t \n\n\n\n\tTo that point, Allen hasn't missed a game since his rookie season, and at 6-foot-5, 237 pounds he is able to punish defensive backs, safeties and even linebackers when he chooses to run the ball. Allen has at least 421 rushing yards in every season of his career and scored 14 rushing TDs (along with 3,668 yards and 25 TDs passing) this past season.\n\n\n\n\t\n\tAs one oddsmaker put it: ‘He is the entire Bills identity right now.’\n\n\n\n\t \n\n\n\n\tNot one, but two oddsmakers had Allen worth nine points more to the spread than his new backup Kyle Allen and Josh Allen was the only QB that all 11 oddsmakers had as worth at least worth six points against the number.”",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T06:27:43.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265982-oddsmakers-rank-starting-qbs-by-point-spread-value-ja-clear-1/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/tage-thompson-2.2640469/",
@@ -462,17 +594,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45087/usmnt-midweek-viewing-guide-leagues-cup"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45093/mauricio-pochettino-signs-new-deal-to-continue-as-usmnt-head-coach",
-      "team": "usmnt",
-      "title": "Mauricio Pochettino signs new deal to continue as USMNT head coach",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-03T13:30:33.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/45093/mauricio-pochettino-signs-new-deal-to-continue-as-usmnt-head-coach"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-head-coach-2030-world-cup/",
       "team": "usmnt",
       "title": "Mauricio Pochettino stays on as USMNT head coach with new deal through the 2030 World Cup",
@@ -482,6 +603,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-03T13:20:19.000Z",
       "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-head-coach-2030-world-cup/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/",
+      "team": "bills",
+      "title": "Is Jim Leonhard actually our prized offseason acquisition",
+      "summary": "Welp, training camp is underway, we are getting our first peek at new rookie players, players returning from injury that limited their contributions last years, Free Agents etc... Is Jim Leonhard actually going to be the one that has the biggest overall impact on this team... more aggressive defense, using personnel better situationally, great teacher, more fun to watch defense instead of the slow death by 1000 passes and runs drives.... or will he struggle because we need personnel change, system continuity, rookie DC needs to learn etc...  I am holding out hope that he will be the guy we talk about at the end of the year that has had the biggest impact...  Who do you feel will be the person acquired in the offseason that we will look back on and say yeah, this guy was the one.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-03T13:02:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/we-re-fortunate-bills-head-coach-joe-brady-provides-injury-update-on-c-j-gardner-johnson",
@@ -504,6 +636,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-03T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-3/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265976-training-camp-%E2%80%94-day-4-83/",
+      "team": "bills",
+      "title": "Training Camp — Day 4 (8/3)",
+      "summary": "May as well get this thing going.\n\n\n\n\t \n\n\n\n\tWill we see the boys in pads today?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-03T11:25:49.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265976-training-camp-%E2%80%94-day-4-83/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265974-happy-birthday-marv-levy-101-years-old/",
+      "team": "bills",
+      "title": "Happy Birthday Marv Levy!!  101 years old!",
+      "summary": "It's amazing to think people were saying he was too old to coach at 70, and that was over 30 years ago!!\n\n\n\n\t \n\n\n\n\tCome on Bills, let's win a Super Bowl while Marv is still with us.\n\n\n\n\t \n\n\n\n\tHooray for Marv\n\n\n\n\tHooray at last\n\n\n\n\tHooray for Marv, he's a horse's a**!!!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-03T06:00:08.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265974-happy-birthday-marv-levy-101-years-old/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-14.3035307/",
@@ -539,6 +693,17 @@
       "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265973-de-clowney-signs-with-texans/",
+      "team": "bills",
+      "title": "DE Clowney signs with Texans",
+      "summary": "Right back where he started.\n\t \n\n\n\n\tI know he’s not what he used to be, but with that defense already, good thing we face the Texans week one.\n\n\n\n\t \n\n\n\n\tHopefully it’ll take the entire Texans defense a few games (at least one 😃) to warm up to what they’re used to being.\n\n\n\n\t \n\n\n\n\tGo Bills!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-02T22:09:39.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265973-de-clowney-signs-with-texans/"
+    },
+    {
       "id": "espn-bills::49509353",
       "team": "bills",
       "title": "Gardner-Johnson pays off $20,000 of Bills staffer's student loans",
@@ -570,6 +735,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-02T06:58:19Z",
       "link": "https://www.espn.com/video/clip/_/id/49510846/bills-dodge-injury-scare"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265968-bills-wwe/",
+      "team": "bills",
+      "title": "Bills & WWE",
+      "summary": "https://x.com/BuffaloBills/status/2083623396198289520/video/1\n\n\n\n\t \n\n\n\n\tStill think Dion at some point will be WWE Champion. Lesser version of The Rock. Big strong guy that can put guys where they need to be put, and has the charisma and is a wonderful promo. He’s such a fan to begin with that I think when he hangs up the cleats he’ll be the world heavyweight champion within a year.\n\n\n\n\t \n\n\n\n\tMight have to face Danhausen tho",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-02T02:01:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265968-bills-wwe/"
     },
     {
       "id": "espn-bills::49505167",
@@ -627,6 +803,17 @@
       "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265963-mcdermott-poking-around-the-rams-practices/",
+      "team": "bills",
+      "title": "McDermott poking around the Rams practices",
+      "summary": "Sean McVay is said to have invited him to view practices. LA is far from a team needing a rebuild as many pundits believe they have the Conference locked up. But there are rumors he’ll sign up in an advisory position.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-01T10:47:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265963-mcdermott-poking-around-the-rams-practices/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-13.3035197/",
       "team": "sabres",
       "title": "2026 Prospect Poll #13",
@@ -682,17 +869,6 @@
       "link": "https://www.cbssports.com/soccer/news/pressure-mounts-fifa-boss-gianni-infantino-world-cup-plan-uefa-afc-concacaf/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/msg-streaming-moving-to-dazn.3035165/",
-      "team": "sabres",
-      "title": "MSG streaming moving to DAZN",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-31T15:51:38.000Z",
-      "link": "https://forums.hfboards.com/threads/msg-streaming-moving-to-dazn.3035165/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/he-means-well-and-loves-football-how-cj-gardner-johnson-is-bringing-his-edge-to-the-bills-defense",
       "team": "bills",
       "title": "'He means well and loves football' | How C.J. Gardner-Johnson is bringing his edge to the Bills defense",
@@ -724,6 +900,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-31T15:29:08.000Z",
       "link": "https://www.buffalobills.com/news/bills-sign-cb-d-j-miller-to-one-year-deal"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265956-cjgj-problem-child/",
+      "team": "bills",
+      "title": "CJGJ = Problem Child?",
+      "summary": "As many of you have, I have been tuned into the offseason/Training Camp and I have to be honest, I am seeing something brewing that makes me feel uneasy.  It's CJ Gardner-Johnson.  When they first signed him, I was like ok, they got a dawg style guy with some talent.  Hey we need some dawgs and this could help our defense.  However, after seeing the constant sh***t talking and now this whole streaming \"thing\" with Brady and then going live after to talk about it.  It's clear to me this guy just doesn't get it.  Almost like some Antonio Brown vibes.  He has had issues with his former teams.  Quite a few teams I might add. \n\n\n\n\t \n\n\n\n\tThere was a certain culture developed here over the past 8-9 years. You heard Jim Leonhard reference it in his presser regarding the level of professionalism that is displayed by the players.  I fully understand if it gets out of control they can just cut him, but I hope this guy doesn't kill the vibes and make training camp unenjoyable for everyone. This can have a ripple effect throughout the team.  He appears to be the exact type of player (attitude and maturity) we have tried to avoid over the last 9 years.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T14:26:02.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265956-cjgj-problem-child/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/uefa-boycott-fifa-competitions-world-cup-gianni-infantino-2026/",
@@ -814,17 +1001,6 @@
       "link": "https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-1-of-training-camp-2026"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/brandon-beane-on-bills-roster-updates-day-1-of-training-camp-2026",
-      "team": "bills",
-      "title": "Brandon Beane on Bills roster updates Day 1 of Training Camp 2026",
-      "summary": "Health updates on Tyrell Shavers, Michael Hoecht and more as Bills camp begins",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-29T19:37:25.000Z",
-      "link": "https://www.buffalobills.com/news/brandon-beane-on-bills-roster-updates-day-1-of-training-camp-2026"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-maurichio-pochettino-new-deal-close-2020-world-cup/",
       "team": "usmnt",
       "title": "Mauricio Pochettino close to signing new USMNT deal through 2030 World Cup, per reports",
@@ -845,6 +1021,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-29T16:54:10.000Z",
       "link": "https://www.starsandstripesfc.com/hot-takes/45071/preview-mauricio-pochettino-vs-the-dreaded-usmnt-plateau"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/",
+      "team": "bills",
+      "title": "Other Training Camps and News Around The League",
+      "summary": "Figured we could have a one-stop-shop for all other news around the league. \n\n\n\n\t \n\n\n\n\tI'll start with this one:\n\n\n\n\t \n\n\n\n\tTua should have retired already.\n\n\n\n\t \n\n\n\n\thttps://www.espn.com/nfl/story/_/id/49479437/tua-tagovailoa-flare-falcons-add-cooper-rush\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tAtlanta Falcons quarterback Tua Tagovailoa is sidelined with what the team considers a \"flare-up\" of an undisclosed injury, according to coach Kevin Stefanski.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThe Falcons did not reveal the nature of Tagovailoa's injury Wednesday, but sources told ESPN's Adam Schefter that the veteran quarterback is dealing with a tight back.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tWith Tagovailoa and Michael Penix Jr. both out, sources told Schefter that the Falcons are signing Cooper Rush to strengthen their suddenly injury-ravaged quarterback room.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-29T15:11:04.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265927-tyler-bass-and-the-yips/",
+      "team": "bills",
+      "title": "Tyler Bass and the yips",
+      "summary": "A lot hinges on this guy this season. Does he make it through TC or does a vet come to the rescue? McDermott isn’t here to protect him and Beane’s gonna need to start being held to account for his darlings.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-28T23:07:02.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265927-tyler-bass-and-the-yips/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
@@ -935,6 +1133,17 @@
       "link": "https://www.diebytheblade.com/voting-open-for-die-by-the-blades-2026-top-25-under-25/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265902-romo-arrested-for-dui/",
+      "team": "bills",
+      "title": "Romo arrested for DUI",
+      "summary": "https://www.tmz.com/2026/07/24/tony-romo-arrested-in-milwaukee/\n\n\n\n\t \n\n\n\n\tHere we go, Jim!\n\n\n\n\t \n\n\n\n\tIn all seriousness... hope the guy is okay and makes better choices moving forward.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T18:42:15.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265902-romo-arrested-for-dui/"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/former-sabres-found-new-jobs-as-free-agents-this-summer/",
       "team": "sabres",
       "title": "Former Sabres found new jobs as free agents this summer",
@@ -955,17 +1164,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-23T22:50:56.000Z",
       "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/45033/tyler-adams-explains-mauricio-pochettinos-impact-on-usmnt"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/45030/tyler-adams-hopes-usmnt-world-cup-run-inspires-increased-fan-support",
-      "team": "usmnt",
-      "title": "Tyler Adams Hopes USMNT World Cup Run Inspires Increased Fan Support",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-23T22:50:43.000Z",
-      "link": "https://www.starsandstripesfc.com/concacaf-gold-cup/45030/tyler-adams-hopes-usmnt-world-cup-run-inspires-increased-fan-support"
     },
     {
       "id": "bandits-official::https://bandits.com/bandits-sign-robinson-to-3-year-contract/",
@@ -1054,17 +1252,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-23T18:20:07.000Z",
       "link": "https://bandits.com/how-a-team-meeting-turned-the-tide-on-the-bandits-season/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45004/usmnt-midfielder-sebastian-berhalter-reportedly-moving-to-middlesborough",
-      "team": "usmnt",
-      "title": "USMNT midfielder Sebastian Berhalter reportedly moving to Middlesborough",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-23T17:59:38.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/45004/usmnt-midfielder-sebastian-berhalter-reportedly-moving-to-middlesborough"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/jedi-council-12/",
@@ -1241,6 +1428,39 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-13T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-13/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/260909-cook-signed%F0%9F%91%80-4-48-30-mil-guaranteed/",
+      "team": "bills",
+      "title": "Cook signed👀 - 4 / 48 / 30 mil guaranteed",
+      "summary": "Most guaranteed $ for a RB in the last 5 years..\n\n\n\n\tDraft Develop Re sign!!!\n\n\n\n\t \n\n\n\n\tI'm very happy with 12 mil per year\n\n\n\n\tFair deal for both sides\n\n\n\n\t \n\n\n\n\tLET JAMES COOK!!!! \n\n\n\n\t \n\n\n\n\tAllen, Benford,  Shakir , Bernard,  Groot and now Cook all got paid this off season! Imo all were very good deals , I love the message and culture this sends to the other guys, that if you produce , we will take care of you",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2025-08-13T11:33:10.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/260909-cook-signed%F0%9F%91%80-4-48-30-mil-guaranteed/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/255720-diggs-drama/",
+      "team": "bills",
+      "title": "Diggs' Drama",
+      "summary": "A thread for our former master of histrionics, who doesn't need a new thread every time he gets his drama queen on.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2024-08-10T03:03:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
+      "team": "bills",
+      "title": "Stadium Construction Discussion (No PSL/Seat selection posts)",
+      "summary": "https://www.buffalobills.com/news/construction-on-new-bills-stadium-to-begin-immediately",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2023-05-04T18:27:11.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/"
     }
   ]
 }
