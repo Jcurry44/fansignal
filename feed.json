@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T15:36:02.042Z",
+  "generatedAt": "2026-08-04T17:22:14.519Z",
   "sources": [
     {
       "id": "bills-official",
@@ -61,8 +61,8 @@
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "fetch failed"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "sportsnet-nhl",
@@ -176,17 +176,6 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-15.3035424/",
-      "team": "sabres",
-      "title": "2026 Prospect Poll #15",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-04T15:26:45.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-prospect-poll-15.3035424/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
       "team": "sabres",
       "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
@@ -194,19 +183,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-04T15:25:40.000Z",
+      "publishedAt": "2026-08-04T17:18:30.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265988-mcdermott-preferred-undersized-old-vets-on-his-complicated-crappy-defense/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-15.3035424/",
+      "team": "sabres",
+      "title": "2026 Prospect Poll #15",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T17:13:55.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-prospect-poll-15.3035424/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265990-will-our-oc-and-dc-be-on-the-sideline/",
       "team": "bills",
-      "title": "McDermott preferred undersized old vets on his complicated crappy defense",
-      "summary": "You can see the difference already this camp. There are fewer injuries and the defense is flying around and being aggressive. \n\n\n\n\t \n\n\n\n\tIs this better Simon?",
+      "title": "Will our OC and DC be on the sideline?",
+      "summary": "Does anyone have any insight as to if Leonard or Carmichael like to coach from the booth or the sidelines?",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-04T15:25:25.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265988-mcdermott-preferred-undersized-old-vets-on-his-complicated-crappy-defense/"
+      "publishedAt": "2026-08-04T17:12:42.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265990-will-our-oc-and-dc-be-on-the-sideline/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
@@ -216,8 +216,74 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-04T15:24:56.000Z",
+      "publishedAt": "2026-08-04T17:09:56.000Z",
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/inside-the-sabres%E2%80%99-scouting-of-22-draft-class-zach-benson-ostlund-kulich-benson-articles-linked.3035050/",
+      "team": "sabres",
+      "title": "Inside the Sabres’ scouting of '22 Draft Class + Zach Benson  (Ostlund, Kulich, & Benson articles linked)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T17:04:54.000Z",
+      "link": "https://forums.hfboards.com/threads/inside-the-sabres%E2%80%99-scouting-of-22-draft-class-zach-benson-ostlund-kulich-benson-articles-linked.3035050/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-training-camp/137816/buffalo-bills-first-fully-padded-training-camp-practice-highlighted-by-multitude-of-fights",
+      "team": "bills",
+      "title": "Buffalo Bills first fully padded training camp practice highlighted by multitude of fights",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T16:41:21.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-training-camp/137816/buffalo-bills-first-fully-padded-training-camp-practice-highlighted-by-multitude-of-fights"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137791/buffalo-bills-how-many-targets-will-the-bills-running-backs-have-in-2026-james-cook",
+      "team": "bills",
+      "title": "How many targets will Buffalo Bills running backs have in 2026?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T16:39:08.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137791/buffalo-bills-how-many-targets-will-the-bills-running-backs-have-in-2026-james-cook"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265989-z-flowers-4-years-140-million/",
+      "team": "bills",
+      "title": "Z Flowers 4 years 140 million.",
+      "summary": "He makes the same money as Justin Jefferson which is insane . \n\t \n\n\n\n\tThis makes the DJM contract look even better",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T16:26:02.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265989-z-flowers-4-years-140-million/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137810/bijan-robinsons-record-extension-proves-buffalo-bills-got-ahead-of-the-market-with-james-cook",
+      "team": "bills",
+      "title": "Bijan Robinson’s record extension proves Buffalo Bills got ahead of the market with James Cook",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T15:34:17.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137810/bijan-robinsons-record-extension-proves-buffalo-bills-got-ahead-of-the-market-with-james-cook"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/",
+      "team": "sabres",
+      "title": "After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers",
+      "summary": "In his early days as a coach, Jay McKee said he visualized success the same way he had as a player. The popular former defenseman, a linchpin on some beloved Buffalo Sabres teams in the late 1990s and early 2000s, wanted to reach the highest level as quickly as possible.\n“As a former athlete … you strive to be at the top level,” said McKee, who played his first NHL game at 18 and secured ... Read the full article \nThe post After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T15:19:03.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265987-some-week-1-discussion-how-good-is-houstons-defense/",
@@ -306,17 +372,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-04T06:27:43.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265982-oddsmakers-rank-starting-qbs-by-point-spread-value-ja-clear-1/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/inside-the-sabres%E2%80%99-scouting-of-22-draft-class-zach-benson-ostlund-kulich-benson-articles-linked.3035050/",
-      "team": "sabres",
-      "title": "Inside the Sabres’ scouting of '22 Draft Class + Zach Benson  (Ostlund, Kulich, & Benson articles linked)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-04T04:41:54.000Z",
-      "link": "https://forums.hfboards.com/threads/inside-the-sabres%E2%80%99-scouting-of-22-draft-class-zach-benson-ostlund-kulich-benson-articles-linked.3035050/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/tage-thompson-2.2640469/",
@@ -627,28 +682,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137453/buffalo-bills-2026-scouting-report-olb-mike-danna"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137733/buffalo-bills-wr-joshua-palmer-could-surprise-in-2026",
-      "team": "bills",
-      "title": "Buffalo Bills WR Joshua Palmer could surprise in 2026",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-02T14:42:49.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137733/buffalo-bills-wr-joshua-palmer-could-surprise-in-2026"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-training-camp/137694/buffalo-bills-rookie-lb-kaleb-elarms-orr-turning-heads-at-training-camp",
-      "team": "bills",
-      "title": "Buffalo Bills rookie LB Kaleb Elarms-Orr turning heads at training camp",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-02T14:32:40.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-training-camp/137694/buffalo-bills-rookie-lb-kaleb-elarms-orr-turning-heads-at-training-camp"
-    },
-    {
       "id": "espn-bills::49510846",
       "team": "bills",
       "title": "Bills dodge injury scare",
@@ -658,17 +691,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-02T06:58:19Z",
       "link": "https://www.espn.com/video/clip/_/id/49510846/bills-dodge-injury-scare"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137356/buffalo-bills-2026-scouting-report-s-jalon-kilgore",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: S Jalon Kilgore",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-02T03:24:18.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137356/buffalo-bills-2026-scouting-report-s-jalon-kilgore"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265968-bills-wwe/",
@@ -726,17 +748,6 @@
       "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265967-pete-carmichael-talks-about-the-rb-room/",
-      "team": "bills",
-      "title": "Pete Carmichael talks about the RB room",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-01T15:07:12.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265967-pete-carmichael-talks-about-the-rb-room/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/",
       "team": "sabres",
       "title": "Alex Tuch (signed 8x$10.5M) to Washington for a 3rd Round Pick in 2027 and David Kampf",
@@ -746,6 +757,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-01T15:00:49.000Z",
       "link": "https://forums.hfboards.com/threads/alex-tuch-signed-8x-10-5m-to-washington-for-a-3rd-round-pick-in-2027-and-david-kampf.3032396/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265963-mcdermott-poking-around-the-rams-practices/",
+      "team": "bills",
+      "title": "McDermott poking around the Rams practices",
+      "summary": "Sean McVay is said to have invited him to view practices. LA is far from a team needing a rebuild as many pundits believe they have the Conference locked up. But there are rumors he’ll sign up in an advisory position.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-01T10:47:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265963-mcdermott-poking-around-the-rams-practices/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-13.3035197/",
@@ -880,6 +902,17 @@
       "link": "https://www.buffalobills.com/news/tyler-bass-is-feeling-like-himself-again-to-start-bills-training-camp"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/",
+      "team": "sabres",
+      "title": "Blue Jackets hire former Sabres coach Don Granato as assistant",
+      "summary": "Former Buffalo Sabres coach Don Granato is back in the NHL.\nThe Columbus Blue Jackets on Thursday named Granato an assistant coach on Rick Bowness’ staff.\nGranato, 58, most recently led Team USA’s entry in the World Championship in the spring, his first head coaching gig since his dismissal from the Sabres following a sixth-place finish in the Atlantic Division in 2023-24.\n\nAfter arriving in Buffalo as an assistant in 2019, he led the Sabres ... Read the full article \nThe post Blue Jackets hire former Sabres coach Don Granato as assistant first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T05:29:38.000Z",
+      "link": "https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-wide-receiver-dante-pettis-to-one-year-deal",
       "team": "bills",
       "title": "Bills sign wide receiver Dante Pettis to one-year deal",
@@ -900,6 +933,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-30T19:47:39.000Z",
       "link": "https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-2-of-training-camp-2026"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/",
+      "team": "sabres",
+      "title": "Sabres to host Prospects Showcase rookie games Sept. 13 and 14",
+      "summary": "The Buffalo Sabres’ annual preseason rookie tournament will have a different look this year.\nThe Sabres announced today they will host a two-game Prospects Showcase against the Boston Bruins on Sept. 13 and 14 at LECOM Harborcenter.\nBeginning in 2015, the Sabres annually hosted the Prospects Challenge, a tournament that featured five or six teams.\n\nTicket information and rosters will be released at a later date.\nThe Sabres will play two games in Boston ahead ... Read the full article \nThe post Sabres to host Prospects Showcase rookie games Sept. 13 and 14 first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-30T16:35:41.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45045/ssfc-spotlight-colton-swan-tearing-through-the-second-division",
@@ -968,15 +1012,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265927-tyler-bass-and-the-yips/",
-      "team": "bills",
-      "title": "Tyler Bass and the yips",
-      "summary": "A lot hinges on this guy this season. Does he make it through TC or does a vet come to the rescue? McDermott isn’t here to protect him and Beane’s gonna need to start being held to account for his darlings.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
+      "team": "sabres",
+      "title": "Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin",
+      "summary": "BUFFALO – University of Wisconsin coach Mike Hastings said he sometimes tells Sabres defense prospect Luke Osburn to take a break and stay off the ice.\nWhile Osburn’s strong work ethic is one of greatest strengths – “The standard he sets for himself is at an elite level,” Hastings told the Times Herald – he occasionally needs to take a step back.\n“He’s a very good self-evaluator,” Hastings said. “He’s one of those few players, ... Read the full article \nThe post Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-07-28T23:07:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265927-tyler-bass-and-the-yips/"
+      "publishedAt": "2026-07-28T21:39:04.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cbs-sports-lands-exclusive-english-tv-rights-to-concacaf-champions-cup-through-2030/",
@@ -1054,6 +1098,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-26T15:10:27.000Z",
       "link": "https://www.diebytheblade.com/voting-open-for-die-by-the-blades-2026-top-25-under-25/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265902-romo-arrested-for-dui/",
+      "team": "bills",
+      "title": "Romo arrested for DUI",
+      "summary": "https://www.tmz.com/2026/07/24/tony-romo-arrested-in-milwaukee/\n\n\n\n\t \n\n\n\n\tHere we go, Jim!\n\n\n\n\t \n\n\n\n\tIn all seriousness... hope the guy is okay and makes better choices moving forward.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T18:42:15.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265902-romo-arrested-for-dui/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/former-sabres-found-new-jobs-as-free-agents-this-summer/",
+      "team": "sabres",
+      "title": "Former Sabres found new jobs as free agents this summer",
+      "summary": "In his sixth pro season, forward Josh Dunne finally stuck in the NHL. Other than a one-game stint with the Rochester Americans in October, he spent all year in Buffalo, playing a career-high 34 games as he established himself as a versatile and rugged presence on the Sabres’ fourth line.\nOn another team, the affable Dunne, 27, might’ve enjoyed more regular duty. But the Sabres possessed depth up front, so he moved in and out ... Read the full article \nThe post Former Sabres found new jobs as free agents this summer first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T05:30:31.000Z",
+      "link": "https://www.buffalohockeybeat.com/former-sabres-found-new-jobs-as-free-agents-this-summer/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/concacaf-gold-cup/45033/tyler-adams-explains-mauricio-pochettinos-impact-on-usmnt",
@@ -1199,6 +1265,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/49419342/nhl-produce-games-hurricanes-blue-jackets-wild-blues"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/if-the-sabres-sign-patrick-kane-would-he-fit-into-their-identity/",
+      "team": "sabres",
+      "title": "If the Sabres sign Patrick Kane, would he fit into their identity?",
+      "summary": "Three weeks after free agency opened and long after the feeding frenzy ended, South Buffalo native Patrick Kane is reportedly considering joining the Sabres or returning to Chicago, where he became an icon while starring for 16 seasons and leading the Blackhawks to three Stanley Cup championships.\nThat info, courtesy of ESPN analyst Chris Chelios, makes sense. Following three seasons and zero playoff appearances with the Detroit Red Wings, Kane, 37, could take a run ... Read the full article \nThe post If the Sabres sign Patrick Kane, would he fit into their identity? first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-20T22:01:16.000Z",
+      "link": "https://www.buffalohockeybeat.com/if-the-sabres-sign-patrick-kane-would-he-fit-into-their-identity/"
+    },
+    {
       "id": "espn-sabres::49405523",
       "team": "sabres",
       "title": "Behind the scenes at the NHL Broadcast Training Camp",
@@ -1219,6 +1296,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-20T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-20/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/",
+      "team": "sabres",
+      "title": "2026-27 Sabres schedule features early home stand, rugged stretches on road before Christmas",
+      "summary": "An early five-game home stand, two road contests against the Montreal Canadiens in a five-day span in October and a rigorous stretch in which they play 10 of 12 games on the road in late November and early December are among the highlights of the Buffalo Sabres’ 2026-27 schedule the NHL released Thursday.\nThe 84-game schedule – the NHL has added two regular-season contests and cut the preseason from six games to four – means ... Read the full article \nThe post 2026-27 Sabres schedule features early home stand, rugged stretches on road before Christmas first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-17T05:24:01.000Z",
+      "link": "https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/"
     },
     {
       "id": "espn-sabres::49368368",
@@ -1254,6 +1342,28 @@
       "link": "https://www.espn.com/nhl/story/_/id/49367105/champion-hurricanes-open-nhl-season-panthers"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-open-2026-27-season-oct-1-in-columbus-start-home-schedule-oct-3-versus-chicago/",
+      "team": "sabres",
+      "title": "Sabres to open 2026-27 season Oct. 1 in Columbus, start home schedule Oct. 3 versus Chicago",
+      "summary": "The Buffalo Sabres will open the 2026-27 season Oct. 1 on the road against the Columbus Blue Jackets and hold their home opener Oct. 3 versus old friend Bowen Byram and the Chicago Blackhawks at KeyBank Center.\nThe NHL this morning announced the home openers for all 32 teams. The rest of the 84-game schedule will be released Thursday.\nThe Sabres, of course, recently traded Byram to Chicago in a blockbuster deal, so the home ... Read the full article \nThe post Sabres to open 2026-27 season Oct. 1 in Columbus, start home schedule Oct. 3 versus Chicago first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T14:58:05.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-to-open-2026-27-season-oct-1-in-columbus-start-home-schedule-oct-3-versus-chicago/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/bruins-hire-former-sabres-gm-kevyn-adams-as-senior-advisor/",
+      "team": "sabres",
+      "title": "Bruins hire former Sabres GM Kevyn Adams as senior advisor",
+      "summary": "Former Buffalo Sabres general manager Kevyn Adams is back in the NHL.\nThe Boston Bruins on Tuesday named Adams, 51, a senior advisor to GM Don Sweeney.\nThe Sabres fired Adams on Dec. 15, almost halfway through his sixth season as GM, and replaced him with Jarmo Kekalainen, who had been serving as a senior advisor.\n\nWhile Adams never led the Sabres to a postseason berth, the Sabres won the Atlantic Division and ended their ... Read the full article \nThe post Bruins hire former Sabres GM Kevyn Adams as senior advisor first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T05:02:22.000Z",
+      "link": "https://www.buffalohockeybeat.com/bruins-hire-former-sabres-gm-kevyn-adams-as-senior-advisor/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/pop-quiz-hotshot-2025-26-sabres-edition/",
       "team": "sabres",
       "title": "Pop Quiz, Hotshot! 2025-26 Sabres Edition",
@@ -1263,6 +1373,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T02:15:14.000Z",
       "link": "https://www.diebytheblade.com/pop-quiz-hotshot-2025-26-sabres-edition/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/",
+      "team": "sabres",
+      "title": "Sabres bring in John Davidson as senior advisor; Buffalo makes minor trade",
+      "summary": "The Buffalo Sabres have added to their front office by hiring John Davidson, a popular former goalie and broadcaster who has spent most of the past 20 years working as a president of hockey operations, as a senior advisor, the team announced Monday.\nSabres general manager Jarmo Kekalainen, 60, and Davidson, 73, know each other well, having worked closely together with the Columbus Blue Jackets and St. Louis Blues.\nShortly taking over as president of ... Read the full article \nThe post Sabres bring in John Davidson as senior advisor; Buffalo makes minor trade first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T05:07:53.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/peytons-place-krebs-signs-for-four-more-years-in-buffalo/",
@@ -1307,17 +1428,6 @@
       "sourceCount": 1,
       "publishedAt": "2025-08-13T11:33:10.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/260909-cook-signed%F0%9F%91%80-4-48-30-mil-guaranteed/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/255720-diggs-drama/",
-      "team": "bills",
-      "title": "Diggs' Drama",
-      "summary": "A thread for our former master of histrionics, who doesn't need a new thread every time he gets his drama queen on.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2024-08-10T03:03:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
