@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T18:02:27.068Z",
+  "generatedAt": "2026-08-07T19:16:08.138Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 8,
+      "itemCount": 9,
       "error": null
     },
     {
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-right-guard-o-cyrus-torrence-to-four-year-extension-through-2030",
+      "team": "bills",
+      "title": "Bills sign right guard O'Cyrus Torrence to four-year extension through 2030",
+      "summary": "The 6-foot-5, 330-pound lineman has played in every regular (54) and postseason (7) game since being drafted by the Bills in the second round of the 2023 NFL Draft.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-07T19:04:22.000Z",
+      "link": "https://www.buffalobills.com/news/bills-sign-right-guard-o-cyrus-torrence-to-four-year-extension-through-2030"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
       "team": "sabres",
       "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
@@ -183,7 +194,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-07T18:00:55.000Z",
+      "publishedAt": "2026-08-07T18:53:59.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
     },
     {
@@ -194,8 +205,41 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-07T17:55:54.000Z",
+      "publishedAt": "2026-08-07T18:46:36.000Z",
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-7-of-training-camp-2026",
+      "team": "bills",
+      "title": "What we learned about the Bills on Day 7 of Training Camp 2026",
+      "summary": "What the Bills accomplished at training camp, looking forward to Return of the Blue & Red + WRs headline practice",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-07T18:31:43.000Z",
+      "link": "https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-7-of-training-camp-2026"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cavan-sullivan-philadelphia-union-resurgence-usmnt/",
+      "team": "usmnt",
+      "title": "Teenager Cavan Sullivan is fueling the Philadelphia Union resurgence, is USMNT next?",
+      "summary": "The 16-year-old star is shining under interim boss Ryan Richter, proving he belongs on Mauricio Pochettino's radar for the USMNT future",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-07T18:19:38.000Z",
+      "link": "https://www.cbssports.com/soccer/news/cavan-sullivan-philadelphia-union-resurgence-usmnt/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-16-20.3035557/",
+      "team": "sabres",
+      "title": "2026 Prospect Poll #16-20",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-07T18:10:38.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-prospect-poll-16-20.3035557/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -218,39 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-07T17:30:59.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/137879/bills-news-recapping-day-6-of-training-camp",
-      "team": "bills",
-      "title": "Bills news: Recapping Day 6 of training camp",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T17:06:32.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/137879/bills-news-recapping-day-6-of-training-camp"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-training-camp/138003/from-the-feed-observations-from-buffalo-bills-last-2026-training-camp-practice",
-      "team": "bills",
-      "title": "From The Feed: Observations from Buffalo Bills last 2026 training camp practice",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T17:03:08.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-training-camp/138003/from-the-feed-observations-from-buffalo-bills-last-2026-training-camp-practice"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-16-20.3035557/",
-      "team": "sabres",
-      "title": "2026 Prospect Poll #16-20",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T16:57:32.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-prospect-poll-16-20.3035557/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
@@ -308,17 +319,6 @@
       "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/137993/next-buffalo-bills-contract-extension-ed-oliver-alec-anderson-dalton-kincaid-cole-bishop",
-      "team": "bills",
-      "title": "Who is the next Buffalo Bills contract extension?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T14:27:44.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-roster/137993/next-buffalo-bills-contract-extension-ed-oliver-alec-anderson-dalton-kincaid-cole-bishop"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-sebastian-berhalter-max-arfsten-middlesbrough/",
       "team": "usmnt",
       "title": "USMNT World Cup players Sebastian Berhalter, Max Arfsten begin next phases of careers at Middlesbrough",
@@ -339,28 +339,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-07T13:32:05.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266016-von-miller-back-to-buffalo/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/137969/ocyrus-torrence-extension-buffalo-bills-dion-dawkins-offensive-line-spending",
-      "team": "bills",
-      "title": "O’Cyrus Torrence extension makes it hard for Bills to keep Dion Dawkins in 2027",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T13:30:18.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/137969/ocyrus-torrence-extension-buffalo-bills-dion-dawkins-offensive-line-spending"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/137980/ocyrus-torrence-contract-extension-what-does-it-mean-for-buffalo-bills-offensive-line-dion-dawkins",
-      "team": "bills",
-      "title": "O’Cyrus Torrence contract extension: What does it mean for the Bills and the offensive line?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T13:16:42.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/137980/ocyrus-torrence-contract-extension-what-does-it-mean-for-buffalo-bills-offensive-line-dion-dawkins"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266014-training-camp-day-7-last-at-sjf/",
@@ -583,6 +561,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266001-2-high-safety-look-is-dominant-in-the-nfl-wondering-about-leonhard/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137801/buffalo-bills-2026-scouting-reports-c-og-austin-corbett",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting reports: C/OG Austin Corbett",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-06T13:29:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137801/buffalo-bills-2026-scouting-reports-c-og-austin-corbett"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
       "team": "sabres",
       "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
@@ -592,17 +581,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-06T13:17:47.000Z",
       "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137905/buffalo-bills-2026-scouting-report-cornerback-d-j-miller",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: cornerback D.J. Miller",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-06T13:12:09.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137905/buffalo-bills-2026-scouting-report-cornerback-d-j-miller"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/137934/buffalo-bills-sign-linebacker-place-a-veteran-on-ir",
@@ -748,6 +726,50 @@
       "link": "https://forums.hfboards.com/threads/da-beauty-league.2515497/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137867/what-will-buffalo-bills-turnover-battle-look-like-in-2026",
+      "team": "bills",
+      "title": "What will Buffalo Bills turnover battle look like in 2026?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-05T14:14:23.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137867/what-will-buffalo-bills-turnover-battle-look-like-in-2026"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/137841/buffalo-bills-release-2026-home-uniform-schedule",
+      "team": "bills",
+      "title": "Buffalo Bills release 2026 home uniform schedule",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-05T13:55:25.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/137841/buffalo-bills-release-2026-home-uniform-schedule"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-training-camp/137826/buffalo-bills-rookie-lb-kaleb-elarms-orr-bringing-veteran-like-play-and-an-edge-to-training-camp",
+      "team": "bills",
+      "title": "Buffalo Bills rookie LB Kaleb Elarms-Orr bringing veteran-like play and an edge to training camp",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-05T13:35:21.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-training-camp/137826/buffalo-bills-rookie-lb-kaleb-elarms-orr-bringing-veteran-like-play-and-an-edge-to-training-camp"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/137564/bills-news-recapping-day-5-of-training-camp",
+      "team": "bills",
+      "title": "Bills news: Recapping Day 5 of training camp",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-05T13:34:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/137564/bills-news-recapping-day-5-of-training-camp"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-2026-home-game-themes-starting-with-inaugural-season-celebration",
       "team": "bills",
       "title": "Buffalo Bills announce 2026 home game themes starting with Inaugural Season celebration",
@@ -757,6 +779,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-05T13:30:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-announce-2026-home-game-themes-starting-with-inaugural-season-celebration"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/137873/buffalo-bills-2026-scouting-report-wide-receiver-dante-pettis",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: wide receiver Dante Pettis",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-05T12:13:43.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137873/buffalo-bills-2026-scouting-report-wide-receiver-dante-pettis"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/2026-top-25-under-25-honorable-mentions-ratzlaff-richard-geary-dumont-funk/",
@@ -902,17 +935,6 @@
       "link": "https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-4-of-training-camp-2026",
-      "team": "bills",
-      "title": "What we learned about the Bills on Day 4 of Training Camp 2026",
-      "summary": "Offense shines in the rain, Bradley Chubb already leading + Dalton Kincaid feeling good about Year 4.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-03T19:20:10.000Z",
-      "link": "https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-4-of-training-camp-2026"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/45087/usmnt-midweek-viewing-guide-leagues-cup",
       "team": "usmnt",
       "title": "USMNT midweek viewing guide: Leagues Cup",
@@ -946,17 +968,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/we-re-fortunate-bills-head-coach-joe-brady-provides-injury-update-on-c-j-gardner-johnson",
-      "team": "bills",
-      "title": "'We're fortunate' | Bills head coach Joe Brady provides injury update on C.J. Gardner-Johnson",
-      "summary": "Brady says the team received good news on the injury to C.J. Gardner-Johnson",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-03T12:35:22.000Z",
-      "link": "https://www.buffalobills.com/news/we-re-fortunate-bills-head-coach-joe-brady-provides-injury-update-on-c-j-gardner-johnson"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-3/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 8/3",
@@ -988,6 +999,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-02T23:36:36.000Z",
       "link": "https://forums.hfboards.com/threads/the-odd-and-ends-hockey-thread.3035345/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265963-mcdermott-poking-around-the-rams-practices/",
+      "team": "bills",
+      "title": "McDermott poking around the Rams practices",
+      "summary": "Sean McVay is said to have invited him to view practices. LA is far from a team needing a rebuild as many pundits believe they have the Conference locked up. But there are rumors he’ll sign up in an advisory position.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-01T10:47:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265963-mcdermott-poking-around-the-rams-practices/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/for-your-viewing-pleasure/",
@@ -1087,17 +1109,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-29T16:54:10.000Z",
       "link": "https://www.starsandstripesfc.com/hot-takes/45071/preview-mauricio-pochettino-vs-the-dreaded-usmnt-plateau"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265927-tyler-bass-and-the-yips/",
-      "team": "bills",
-      "title": "Tyler Bass and the yips",
-      "summary": "A lot hinges on this guy this season. Does he make it through TC or does a vet come to the rescue? McDermott isn’t here to protect him and Beane’s gonna need to start being held to account for his darlings.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-28T23:07:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265927-tyler-bass-and-the-yips/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
