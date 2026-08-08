@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T03:44:10.122Z",
+  "generatedAt": "2026-08-08T04:41:16.635Z",
   "sources": [
     {
       "id": "bills-official",
@@ -62,7 +62,7 @@
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
       "itemCount": 0,
-      "error": "fetch failed"
+      "error": "HTTP 403"
     },
     {
       "id": "sportsnet-nhl",
@@ -175,6 +175,28 @@
     }
   ],
   "stories": [
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266025-red-vs-blue-%E2%80%9Cscrimmage%E2%80%9D-roll-call/",
+      "team": "bills",
+      "title": "Red vs Blue “Scrimmage” (Roll Call?)",
+      "summary": "I know it’s just meant to be a scrimmage, but with it being the first event of the new stadium and only open to STH, I figured we’d have a “game day@ event thread.  \n\t \n\n\n\n\tA few things:\n\n\n\n\t1 - Brady came out and said that this won’t be an actual scrimmage and more of just a practice.  I personally don’t care, as I’ll be just taking in the stadium.  But I do think it’s a little messed up to course correct last minute. \n\t \n\n\n\n\t2 - Gates around the stadium open at 4p, but you can’t get into the actual stadium until 5p.  It looks like they moved all of the vendor tents and stands next to the stadium and behind the security gates.  Not sure why anyone would need an hour for that, but I guess we shall see. \n\t \n\n\n\n\t3 - Fireworks are at 9:20p, but apparently won’t be very visible from inside the stadium \n\n\n\n\t \n\n\n\n\t4 - Anyone tailgating?  Is Hammers doing anything?\n\n\n\n\t\n\tSee you all there!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-08T04:18:40.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266025-red-vs-blue-%E2%80%9Cscrimmage%E2%80%9D-roll-call/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266024-pablo-torre-finds-out-how-we-forgot-about-cte/",
+      "team": "bills",
+      "title": "Pablo Torre Finds Out: how we forgot about CTE",
+      "summary": "A few months ago, Pablo Torres and Domonique Foxworth discussed concussions (CTE). Fascinating discussion about ethical dilemma, etc regarding CTE and football. They talk about how no one seems to care anymore and how people rationalize it away so they can enjoy football. How do you rationalize it? \n\t \n\n\n\n\tBefore you answer, give their show a listen:",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-08T03:57:19.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266024-pablo-torre-finds-out-how-we-forgot-about-cte/"
+    },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
       "team": "sabres",
@@ -660,17 +682,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/137934/buffalo-bills-sign-linebacker-place-a-veteran-on-ir"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266000-training-camp-day-6-please-keep-commentary-tc-related/",
-      "team": "bills",
-      "title": "Training Camp Day 6 - (please keep commentary TC-related)",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-06T12:39:18.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266000-training-camp-day-6-please-keep-commentary-tc-related/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-lb-otis-reese-iv",
       "team": "bills",
       "title": "Bills sign LB Otis Reese IV",
@@ -911,17 +922,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-03T13:20:19.000Z",
       "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-head-coach-2030-world-cup/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/",
-      "team": "bills",
-      "title": "Is Jim Leonhard actually our prized offseason acquisition",
-      "summary": "Welp, training camp is underway, we are getting our first peek at new rookie players, players returning from injury that limited their contributions last years, Free Agents etc... Is Jim Leonhard actually going to be the one that has the biggest overall impact on this team... more aggressive defense, using personnel better situationally, great teacher, more fun to watch defense instead of the slow death by 1000 passes and runs drives.... or will he struggle because we need personnel change, system continuity, rookie DC needs to learn etc...  I am holding out hope that he will be the guy we talk about at the end of the year that has had the biggest impact...  Who do you feel will be the person acquired in the offseason that we will look back on and say yeah, this guy was the one.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-03T13:02:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-14.3035307/",
