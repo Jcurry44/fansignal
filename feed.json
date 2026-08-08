@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:11:52.040Z",
+  "generatedAt": "2026-08-08T03:44:10.122Z",
   "sources": [
     {
       "id": "bills-official",
@@ -62,7 +62,7 @@
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
       "itemCount": 0,
-      "error": "HTTP 403"
+      "error": "fetch failed"
     },
     {
       "id": "sportsnet-nhl",
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-08T03:36:12.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-16-20.3035557/",
+      "team": "sabres",
+      "title": "2026 Prospect Poll #16-20",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-08T03:05:48.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-prospect-poll-16-20.3035557/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
       "team": "sabres",
       "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
@@ -183,8 +205,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-08T01:50:02.000Z",
+      "publishedAt": "2026-08-08T03:02:40.000Z",
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266022-joe-bradys-football-intelligence/",
+      "team": "bills",
+      "title": "Joe Brady's football intelligence",
+      "summary": "There was some discussion in the training camp thread for today about Joe Brady's press conference, and about how he seems to be doing a little better in presenting his thoughts orally.  Earlier in the year, people reacted to his machine-gun style of talking. I did, too. It makes him sound like he isn't smart. Whenever I think that, I remember having heard someone tell a story about Brady and his football brilliance. \n\n\n\n\t \n\n\n\n\tToday I asked Gemini to tell me that story.  Maybe everyone has heard it. If so, I apologize. Here it is:\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThat story centers on a pivotal moment early in Joe Brady’s career while he was a young graduate assistant at Penn State under offensive coordinator Joe Moorhead.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tWhen & Where It Happened\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tIn early 2017, Moorhead took his Penn State offensive staff to New Orleans for a professional development visit with Sean Payton and the New Orleans Saints coaching staff. The trip took place at the Saints’ facility in Metairie, Louisiana.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThe Key People Involved\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tJoe Brady: Then a 27-year-old graduate assistant at Penn State, working largely behind the scenes on film breakdown and opponent analysis.\n\t\t\n\n\t\t\n\t\t\tJoe Moorhead: Penn State’s offensive coordinator, who brought his staff to exchange ideas with the Saints.\n\t\t\n\n\t\t\n\t\t\tSean Payton: Saints Head Coach, known for running one of the most sophisticated offensive systems in the NFL.\n\t\t\n\n\t\t\n\t\t\tPete Carmichael Jr.: Saints Offensive Coordinator.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tWhat Happened in the Meeting\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tMoorhead had introduced a highly successful RPO (run-pass option) and hurry-up spread scheme at Penn State. Payton invited the staff down to study those college concepts, expecting a high-level exchange with Moorhead.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tDuring the chalk talk, the Saints coaches began asking granular, technical questions about specific defensive reads, coverage adjustments, and how the offense handled niche blitz packages. Moorhead handed the whiteboard marker over to Brady, who knew the precise micro-details of the system inside and out.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tBrady took over the presentation, walking the Saints staff through the exact mechanics, film clips, and logic of the system. He detailed how defenders' body language dictated options and explained technical wrinkles that Payton’s staff had not seen mapped out with that level of precision.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThe Impressions Formed\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThe Saints staff were stunned by Brady’s mastery, composure, and technical intelligence for someone of his age and role.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tImmediate Respect: Sean Payton and Pete Carmichael were so blown away by the \"kid graduate assistant\" that Payton immediately kept Brady on his radar.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThe Job Offer: Shortly after that meeting, Payton hired Brady as an offensive assistant for the Saints in 2017. Brady spent two years in New Orleans absorbing Payton's offensive principles—an experience that directly launched him to LSU in 2019 (where he won the Broderick Award and a national championship) and eventually back to the NFL.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThe Narrative: Moorhead later joked in interviews that he went to New Orleans to give a presentation and ended up losing his best assistant because Brady blew everyone in the room away.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\t\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tThe way I heard the story, maybe it was Carmichael who told it, was that while Brady was running the meeting, people on the Saints staff who weren't in the meeting heard some kid was knocking it out of the park, so they joined the meeting. It was by all accounts a stunning performance\n\n\n\n\t \n\n\n\n\tThe guy knows football.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-08T02:56:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266022-joe-bradys-football-intelligence/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/devon-levi-2028-7th-to-edm-for-2028-3rd.3033388/",
@@ -194,7 +227,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-08T00:39:02.000Z",
+      "publishedAt": "2026-08-08T02:35:38.000Z",
       "link": "https://forums.hfboards.com/threads/devon-levi-2028-7th-to-edm-for-2028-3rd.3033388/"
     },
     {
@@ -209,17 +242,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266021-bills-bucks-eta-and-jerseys-of-obscure-players/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-08T00:04:48.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
-    },
-    {
       "id": "espn-bills::49368181",
       "team": "bills",
       "title": "2026 NFL training camp: Latest news, intel for all 32 teams",
@@ -229,17 +251,6 @@
       "sourceCount": 2,
       "publishedAt": "2026-08-07T23:24:40Z",
       "link": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospect-poll-16-20.3035557/",
-      "team": "sabres",
-      "title": "2026 Prospect Poll #16-20",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T22:03:48.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-prospect-poll-16-20.3035557/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/138008/buffalo-bills-brandon-beanes-homegrown-contract-extensions-fared",
@@ -614,17 +625,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-06T14:31:29.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137941/c-j-gardner-johnsons-surprising-return-to-training-camp-practice-huge-for-bills-defensive-versatility"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266001-2-high-safety-look-is-dominant-in-the-nfl-wondering-about-leonhard/",
-      "team": "bills",
-      "title": "2-high safety look is dominant in the NFL; wondering about Leonhard",
-      "summary": "I've gotten the sense that Leonhard is more of a single-high safety schemer than most, but that's just an impression. This piece in The Athletic explains why almost every team plays two-high now -- single-high is a route to disaster given today's QBs and WRs:  https://www.nytimes.com/athletic/7488248/2026/08/06/two-high-safety-trend-nfl-defense/.\n\n\n\n\t \n\n\n\n\t'After the Seattle Seahawks’ Legion of Boom-led era of single-high safety defenses paired with aggressive, attacking fronts, we saw an explosion in the passing game, punctuated by Kansas City Chiefs quarterback Patrick Mahomes throwing 50 touchdown passes in 2018. To combat the spike in passing production, defenses started playing more two-high coverages, meaning they kept two safeties deep before the snap to discourage deep passing. This top-down approach helped reduce explosive pass plays and forced offenses to drive the length of the field with more plays, making it harder to get into the end zone.\n\n\n\n\tOffenses have loaded up on bigger bodies this offseason and seem to be gearing up to focus more on the running game, but can they force defenses to cycle back into putting a safety in the box? After speaking with defensive coaches, the collective answer was, surprisingly, no. Two-high defenses are here to stay. Quarterbacks and receivers are simply too good. \n\n\n\n\t...\n\n\n\n\tTwo-high coverages aren’t immune to deep passes. There are still weaknesses in any coverage, but it makes them harder to find. The top quarterbacks can decipher these coverages after the snap, find the weaknesses and hit deep passes with anticipation, but two-high makes it much more difficult to execute.\n\n\n\n\tCommitting to this style of defense means you have to be comfortable playing with a light box. Even though a defense can rotate into a single-high coverage, the safety is coming from depth and he’s not an immediate part of the run fit. Defenses have to be OK giving up efficient runs on the ground. The theory is that it is very difficult to keep stringing together efficient runs, and offensive coordinators will eventually get impatient.\n\n\n\n\t“If you’re giving up a bunch of explosive runs, obviously you’re going to have to do something, but if they’re getting four or five yards of pop because you’re in split safety and they’re patient enough to do it, I can live with that sometimes,” an AFC defensive play caller said. “I know that it’s not sexy, but the second you go single-high, the explosive passing rate goes ridiculously high.”\n\n\n\n\t...\n\n\n\n\t“If you look at an explosive play as a 15-plus-yard play, whether it’s a run or pass, the percentage of the offense scoring a touchdown if they get an explosive versus the percentage if you don’t give up an explosive is much higher. The likeliness of the offense scoring a touchdown without an explosive is very low,” an NFC defensive coordinator said. “Ninety percent of explosives come from passes. So as long as you don’t give up an explosive, they’re likely not gonna give up a touchdown.”\n\n\n\n\tFrom 2022 to 2025, offenses scored touchdowns on 42.7 percent of drives in which they had at least one play of 15 yards or more. On drives when they didn’t have an explosive, that percentage dropped to 21.8 percent.\n\n\n\n\tIt’s much easier to create an explosive through the passing game than on the ground. Though it’s easier to get efficient runs against two-high, the scheme actually does a better job of containing explosive runs. Big runs happen when defenses crowd the line of scrimmage and the ball carrier gets through the second level. By putting a safety back, the defense strengthens its second-level line of defense, and defensive backs are becoming better at fitting the run and tackling from depth.\n\n\n\n\t“The pace of our fits from depth has gotten better,” an NFC defensive coach said.\n\n\n\n\tThe combination of more repetitions defending the run and an emphasis from scouts on finding good tacklers has improved open-field tackling. In this style of defense, coaches talked about the need to remain disciplined even when teams are having success running the ball. You can’t abandon your defensive philosophy, and if a team is really dominating on the ground, there are schematic levers to pull to try to disrupt the run game.\n\n\n\n\t“When you’re in nickel (five defensive backs) and split-safety coverages versus 12 and 13 personnel (multiple tight ends), you’re gonna give us some 7- and 8-yard runs, and that’s where you got to be comfortable doing that and have the discipline to stay with it,” an AFC head coach said. “Then you have got to have the ability to call a run blitz or do something to kind of get them off schedule. And now, you don’t have the deck in your favor.”\n\n\n\n\tA defense can give up several efficient runs in a row, but if a defensive play caller can create a negative through blitzing or changing the front to confuse the blocking scheme, the defense can get the offense into second-and-long, and then it is right back on track. By scouting and looking at the analytics, defensive coaches can help their light fronts gain an advantage with their calls.'",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-06T13:36:44.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266001-2-high-safety-look-is-dominant-in-the-nfl-wondering-about-leonhard/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
