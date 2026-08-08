@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:52:35.503Z",
+  "generatedAt": "2026-08-08T17:33:19.063Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 9,
+      "itemCount": 8,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-08T17:06:53.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/138034/buffalo-bills-return-of-the-blue-and-red-scrimmage-day-open-thread",
+      "team": "bills",
+      "title": "Return of the Blue and Red Scrimmage Day open thread",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-08T16:53:23.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/138034/buffalo-bills-return-of-the-blue-and-red-scrimmage-day-open-thread"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
       "team": "sabres",
       "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
@@ -185,17 +207,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-08T16:17:08.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
-      "team": "sabres",
-      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-08T16:06:43.000Z",
-      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266029-two-for-the-blue-and-red-tonight-pm-me/",
@@ -693,17 +704,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/137905/buffalo-bills-2026-scouting-report-cornerback-d-j-miller"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/137934/buffalo-bills-sign-linebacker-place-a-veteran-on-ir",
-      "team": "bills",
-      "title": "Buffalo Bills sign linebacker, place a veteran on IR",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-06T12:41:28.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/137934/buffalo-bills-sign-linebacker-place-a-veteran-on-ir"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-lb-otis-reese-iv",
       "team": "bills",
       "title": "Bills sign LB Otis Reese IV",
@@ -1153,17 +1153,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-28T16:07:27.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45012/usmnt-midweek-viewing-guide-we-go-again"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-tyler-adams-youth-soccer-accessibility-2026-world-cup/",
-      "team": "usmnt",
-      "title": "USMNT's Tyler Adams aims to improve youth soccer accessibility, ride wave of 2026 World Cup",
-      "summary": "USMNT star Tyler Adams is part of an effort to build mini-pitches, aiming to make the game accessible for the next generation of American talent",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-28T15:11:34.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnts-tyler-adams-youth-soccer-accessibility-2026-world-cup/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-27/",
