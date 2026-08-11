@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T23:41:23.900Z",
+  "generatedAt": "2026-08-11T00:35:07.111Z",
   "sources": [
     {
       "id": "bills-official",
@@ -61,8 +61,8 @@
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "fetch failed"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "sportsnet-nhl",
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138079/buffalo-bills-fans-cautiously-optimistic-about-team-ahead-of-2026-nfl-preseason",
+      "team": "bills",
+      "title": "Buffalo Bills fans cautiously optimistic about team ahead of 2026 NFL preseason",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-11T00:01:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138079/buffalo-bills-fans-cautiously-optimistic-about-team-ahead-of-2026-nfl-preseason"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266054-anyone-use-nfta-metro-to-go-to-bills-game/",
+      "team": "bills",
+      "title": "Anyone use NFTA-Metro to go to Bills game?",
+      "summary": "Coming to town for Chargers game on 9/27. Looking at options to get from Allentown to Highmark. Has anyone used this service? Thank you. \n\n\n\n\t \n\n\n\n\thttps://metro.nfta.com/getting-around/special-services/game-day-express/chargers-bills-sept27",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-11T00:00:07.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266054-anyone-use-nfta-metro-to-go-to-bills-game/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
       "team": "sabres",
       "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
@@ -183,7 +205,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-10T23:38:53.000Z",
+      "publishedAt": "2026-08-10T23:44:21.000Z",
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
     },
     {
@@ -297,17 +319,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266051-afc-rankings-preseason/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138079/buffalo-bills-fans-cautiously-optimistic-about-team-ahead-of-2026-nfl-preseason",
-      "team": "bills",
-      "title": "Buffalo Bills fans cautiously optimistic about team ahead of 2026 NFL preseason",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-10T20:30:34.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138079/buffalo-bills-fans-cautiously-optimistic-about-team-ahead-of-2026-nfl-preseason"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -372,17 +383,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-10T16:26:08.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/138138/new-highmark-stadium-is-fun-for-skarekrows-of-all-sizes"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266045-new-stadium-section-by-section-reports-reference-guide-for-others/",
-      "team": "bills",
-      "title": "New Stadium section by section reports (reference guide for others)",
-      "summary": "I thought it might be a cool idea to start a thread where season ticket holders or just fans that attend the new stadium for the practices and/or preaseason games report on their section.  This is not a comentary on the staium as a whole or to open up a depate.  Just a report for others on what to expect when going to or potenatially buying tickets.  Things like:\n\n\n\n\t \n\n\n\n\t\n\t\tAmenties close to your section\n\t\n\t\n\t\tDistance to bathrooms\n\t\n\t\n\t\tEscalators\n\t\n\t\n\t\tCool things to check out\n\t\n\t\n\t\tFoood\n\t\n\t\n\t\ttidbits or helpful information\n\t\n\t\n\t\tEtc (really anything you think might be helpful or interesting for others to know)\n\t\n\n\n\n\t \n\n\n\n\tI sit in section 450, last row.  I did not attend the practice over the weekend but will be at the preseason game Saturday and will circle back to post.  (mods, if you think this should be merged please do so, but think this could be a good visable reference for some)\n\n\n\n\t \n\n\n\n\tI envision us stating our section/row and then filling others in on what might be helpful for that location.  Anything and everything.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-10T15:16:35.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266045-new-stadium-section-by-section-reports-reference-guide-for-others/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266044-training-camp-day-9-back-in-op/",
@@ -957,6 +957,17 @@
       "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-contract-extension-usmnt-2030-world-cup/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/",
+      "team": "sabres",
+      "title": "After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers",
+      "summary": "In his early days as a coach, Jay McKee said he visualized success the same way he had as a player. The popular former defenseman, a linchpin on some beloved Buffalo Sabres teams in the late 1990s and early 2000s, wanted to reach the highest level as quickly as possible.\n“As a former athlete … you strive to be at the top level,” said McKee, who played his first NHL game at 18 and secured ... Read the full article \nThe post After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T15:19:03.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/45112/jenna-nighswonger-reportedly-transfers-from-arsenal-to-bay-fc",
       "team": "usmnt",
       "title": "Jenna Nighswonger reportedly transfers from Arsenal to Bay FC",
@@ -1067,6 +1078,28 @@
       "link": "https://www.cbssports.com/soccer/news/uefa-boycott-fifa-competitions-world-cup-gianni-infantino-2026/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/",
+      "team": "sabres",
+      "title": "Blue Jackets hire former Sabres coach Don Granato as assistant",
+      "summary": "Former Buffalo Sabres coach Don Granato is back in the NHL.\nThe Columbus Blue Jackets on Thursday named Granato an assistant coach on Rick Bowness’ staff.\nGranato, 58, most recently led Team USA’s entry in the World Championship in the spring, his first head coaching gig since his dismissal from the Sabres following a sixth-place finish in the Atlantic Division in 2023-24.\n\nAfter arriving in Buffalo as an assistant in 2019, he led the Sabres ... Read the full article \nThe post Blue Jackets hire former Sabres coach Don Granato as assistant first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T05:29:38.000Z",
+      "link": "https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/",
+      "team": "sabres",
+      "title": "Sabres to host Prospects Showcase rookie games Sept. 13 and 14",
+      "summary": "The Buffalo Sabres’ annual preseason rookie tournament will have a different look this year.\nThe Sabres announced today they will host a two-game Prospects Showcase against the Boston Bruins on Sept. 13 and 14 at LECOM Harborcenter.\nBeginning in 2015, the Sabres annually hosted the Prospects Challenge, a tournament that featured five or six teams.\n\nTicket information and rosters will be released at a later date.\nThe Sabres will play two games in Boston ahead ... Read the full article \nThe post Sabres to host Prospects Showcase rookie games Sept. 13 and 14 first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-30T16:35:41.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45045/ssfc-spotlight-colton-swan-tearing-through-the-second-division",
       "team": "usmnt",
       "title": "SSFC Spotlight: Colton Swan tearing through the second division",
@@ -1111,6 +1144,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
+      "team": "sabres",
+      "title": "Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin",
+      "summary": "BUFFALO – University of Wisconsin coach Mike Hastings said he sometimes tells Sabres defense prospect Luke Osburn to take a break and stay off the ice.\nWhile Osburn’s strong work ethic is one of greatest strengths – “The standard he sets for himself is at an elite level,” Hastings told the Times Herald – he occasionally needs to take a step back.\n“He’s a very good self-evaluator,” Hastings said. “He’s one of those few players, ... Read the full article \nThe post Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-28T21:39:04.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/hot-takes/45055/the-usmnt-is-as-good-as-parents-can-afford",
       "team": "usmnt",
       "title": "The USMNT is as good as parents can afford",
@@ -1153,6 +1197,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-26T15:10:27.000Z",
       "link": "https://www.diebytheblade.com/voting-open-for-die-by-the-blades-2026-top-25-under-25/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/former-sabres-found-new-jobs-as-free-agents-this-summer/",
+      "team": "sabres",
+      "title": "Former Sabres found new jobs as free agents this summer",
+      "summary": "In his sixth pro season, forward Josh Dunne finally stuck in the NHL. Other than a one-game stint with the Rochester Americans in October, he spent all year in Buffalo, playing a career-high 34 games as he established himself as a versatile and rugged presence on the Sabres’ fourth line.\nOn another team, the affable Dunne, 27, might’ve enjoyed more regular duty. But the Sabres possessed depth up front, so he moved in and out ... Read the full article \nThe post Former Sabres found new jobs as free agents this summer first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-24T05:30:31.000Z",
+      "link": "https://www.buffalohockeybeat.com/former-sabres-found-new-jobs-as-free-agents-this-summer/"
     },
     {
       "id": "bandits-official::https://bandits.com/bandits-sign-robinson-to-3-year-contract/",
@@ -1276,6 +1331,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/49419342/nhl-produce-games-hurricanes-blue-jackets-wild-blues"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/if-the-sabres-sign-patrick-kane-would-he-fit-into-their-identity/",
+      "team": "sabres",
+      "title": "If the Sabres sign Patrick Kane, would he fit into their identity?",
+      "summary": "Three weeks after free agency opened and long after the feeding frenzy ended, South Buffalo native Patrick Kane is reportedly considering joining the Sabres or returning to Chicago, where he became an icon while starring for 16 seasons and leading the Blackhawks to three Stanley Cup championships.\nThat info, courtesy of ESPN analyst Chris Chelios, makes sense. Following three seasons and zero playoff appearances with the Detroit Red Wings, Kane, 37, could take a run ... Read the full article \nThe post If the Sabres sign Patrick Kane, would he fit into their identity? first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-20T22:01:16.000Z",
+      "link": "https://www.buffalohockeybeat.com/if-the-sabres-sign-patrick-kane-would-he-fit-into-their-identity/"
+    },
+    {
       "id": "espn-sabres::49405523",
       "team": "sabres",
       "title": "Behind the scenes at the NHL Broadcast Training Camp",
@@ -1298,6 +1364,17 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-20/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/",
+      "team": "sabres",
+      "title": "2026-27 Sabres schedule features early home stand, rugged stretches on road before Christmas",
+      "summary": "An early five-game home stand, two road contests against the Montreal Canadiens in a five-day span in October and a rigorous stretch in which they play 10 of 12 games on the road in late November and early December are among the highlights of the Buffalo Sabres’ 2026-27 schedule the NHL released Thursday.\nThe 84-game schedule – the NHL has added two regular-season contests and cut the preseason from six games to four – means ... Read the full article \nThe post 2026-27 Sabres schedule features early home stand, rugged stretches on road before Christmas first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-17T05:24:01.000Z",
+      "link": "https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/"
+    },
+    {
       "id": "espn-sabres::49368368",
       "team": "sabres",
       "title": "Wetzel: Inclusion of owner's family devalues Stanley Cup",
@@ -1318,6 +1395,39 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T18:08:38Z",
       "link": "https://www.espn.com/nhl/story/_/id/49367105/champion-hurricanes-open-nhl-season-panthers"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-open-2026-27-season-oct-1-in-columbus-start-home-schedule-oct-3-versus-chicago/",
+      "team": "sabres",
+      "title": "Sabres to open 2026-27 season Oct. 1 in Columbus, start home schedule Oct. 3 versus Chicago",
+      "summary": "The Buffalo Sabres will open the 2026-27 season Oct. 1 on the road against the Columbus Blue Jackets and hold their home opener Oct. 3 versus old friend Bowen Byram and the Chicago Blackhawks at KeyBank Center.\nThe NHL this morning announced the home openers for all 32 teams. The rest of the 84-game schedule will be released Thursday.\nThe Sabres, of course, recently traded Byram to Chicago in a blockbuster deal, so the home ... Read the full article \nThe post Sabres to open 2026-27 season Oct. 1 in Columbus, start home schedule Oct. 3 versus Chicago first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T14:58:05.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-to-open-2026-27-season-oct-1-in-columbus-start-home-schedule-oct-3-versus-chicago/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/bruins-hire-former-sabres-gm-kevyn-adams-as-senior-advisor/",
+      "team": "sabres",
+      "title": "Bruins hire former Sabres GM Kevyn Adams as senior advisor",
+      "summary": "Former Buffalo Sabres general manager Kevyn Adams is back in the NHL.\nThe Boston Bruins on Tuesday named Adams, 51, a senior advisor to GM Don Sweeney.\nThe Sabres fired Adams on Dec. 15, almost halfway through his sixth season as GM, and replaced him with Jarmo Kekalainen, who had been serving as a senior advisor.\n\nWhile Adams never led the Sabres to a postseason berth, the Sabres won the Atlantic Division and ended their ... Read the full article \nThe post Bruins hire former Sabres GM Kevyn Adams as senior advisor first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-15T05:02:22.000Z",
+      "link": "https://www.buffalohockeybeat.com/bruins-hire-former-sabres-gm-kevyn-adams-as-senior-advisor/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/",
+      "team": "sabres",
+      "title": "Sabres bring in John Davidson as senior advisor; Buffalo makes minor trade",
+      "summary": "The Buffalo Sabres have added to their front office by hiring John Davidson, a popular former goalie and broadcaster who has spent most of the past 20 years working as a president of hockey operations, as a senior advisor, the team announced Monday.\nSabres general manager Jarmo Kekalainen, 60, and Davidson, 73, know each other well, having worked closely together with the Columbus Blue Jackets and St. Louis Blues.\nShortly taking over as president of ... Read the full article \nThe post Sabres bring in John Davidson as senior advisor; Buffalo makes minor trade first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-14T05:07:53.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-bring-in-john-davidson-as-senior-advisor-buffalo-makes-minor-trade/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265548-russell-wilson-retires-does-he-belong-in-canton/",
