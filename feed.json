@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T18:30:29.109Z",
+  "generatedAt": "2026-08-13T19:44:30.986Z",
   "sources": [
     {
       "id": "bills-official",
@@ -164,8 +164,8 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Thu 3:07 PM",
-      "detail": "vs BOS"
+      "headline": "Fri 7:15 PM",
+      "detail": "vs NYY"
     },
     {
       "team": "usmnt",
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "bills-official::https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-11-of-training-camp-2026",
+      "team": "bills",
+      "title": "What we learned about the Bills on Day 11 of Training Camp 2026",
+      "summary": "Joe Brady and Josh Allen's thoughts on the first preseason game of the season, Greg Rousseau's impressive camp and team-wide injury updates",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-13T19:19:00.000Z",
+      "link": "https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-11-of-training-camp-2026"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/chainshot.3035782/",
+      "team": "sabres",
+      "title": "Chainshot!",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-13T19:00:10.000Z",
+      "link": "https://forums.hfboards.com/threads/chainshot.3035782/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
       "team": "sabres",
       "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
@@ -183,8 +205,41 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-13T18:07:39.000Z",
+      "publishedAt": "2026-08-13T18:52:46.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138161/buffalo-bills-2026-scouting-report-running-back-ray-davis",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: running back Ray Davis",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-13T18:51:10.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138161/buffalo-bills-2026-scouting-report-running-back-ray-davis"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-13T18:43:22.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
+    },
+    {
+      "id": "espn-bills::49601678",
+      "team": "bills",
+      "title": "Allen, Bills starters to play Saturday in 1st game at new stadium",
+      "summary": "A new coaching staff and another chance to get accustomed to Buffalo's new stadium led to Bills coach Joe Brady's decision to have Josh Allen and the rest of his healthy starters play in the team's preseason opener.",
+      "source": "ESPN · Alaina Getzenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-13T18:05:09Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49601678/allen-bills-starters-play-saturday-1st-game-new-stadium"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
@@ -198,17 +253,6 @@
       "link": "https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/chainshot.3035782/",
-      "team": "sabres",
-      "title": "Chainshot!",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-13T17:51:26.000Z",
-      "link": "https://forums.hfboards.com/threads/chainshot.3035782/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -218,17 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-13T16:22:13.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-13T15:40:47.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
     },
     {
       "id": "espn-bills::49521144",
@@ -427,17 +460,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-13T00:34:51.000Z",
       "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138161/buffalo-bills-2026-scouting-report-running-back-ray-davis",
-      "team": "bills",
-      "title": "Buffalo Bills 2026 scouting report: running back Ray Davis",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-13T00:30:52.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138161/buffalo-bills-2026-scouting-report-running-back-ray-davis"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/devon-levi-2028-7th-to-edm-for-2028-3rd.3033388/",
@@ -803,17 +825,6 @@
       "link": "https://www.buffalohockeybeat.com/nathan-paetsch-leaves-rochester-for-head-coaching-job-in-youngstown/"
     },
     {
-      "id": "espn-bills::49574464",
-      "team": "bills",
-      "title": "2026 NFL training camp news, buzz, fantasy football updates",
-      "summary": "Here's what we heard on the road at training camp for the 49ers, Bengals, Bills, Browns, Cowboys, Eagles, Jets, Raiders, Ravens, Seahawks and Steelers.",
-      "source": "ESPN · Jeremy Fowler, Dan Graziano and Ben Solak",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-11T15:04:58Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49574464/2026-nfl-training-camp-updates-buzz-notes-news-fantasy-football"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/138057/bills-news-recapping-day-8-at-camp",
       "team": "bills",
       "title": "Bills news: Recapping Day 8 at camp",
@@ -988,17 +999,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-07T18:19:38.000Z",
       "link": "https://www.cbssports.com/soccer/news/cavan-sullivan-philadelphia-union-resurgence-usmnt/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/what-bills-fans-need-to-know-about-the-2026-return-of-the-blue-red-at-highmark-stadium",
-      "team": "bills",
-      "title": "What Bills fans need to know about the 2026 Return of the Blue & Red at Highmark Stadium",
-      "summary": "Game Day timeline, Highmark Stadium gate info, maps, parking and more",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T16:00:21.000Z",
-      "link": "https://www.buffalobills.com/news/what-bills-fans-need-to-know-about-the-2026-return-of-the-blue-red-at-highmark-stadium"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-sebastian-berhalter-max-arfsten-middlesbrough/",
