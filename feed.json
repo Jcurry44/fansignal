@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:23:27.872Z",
+  "generatedAt": "2026-08-15T04:04:21.135Z",
   "sources": [
     {
       "id": "bills-official",
@@ -69,7 +69,7 @@
       "label": "Sportsnet",
       "team": "sabres",
       "itemCount": 0,
-      "error": null
+      "error": "This operation was aborted"
     },
     {
       "id": "cbs-nhl",
@@ -175,6 +175,17 @@
     }
   ],
   "stories": [
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266103-main-logo-end-zones-paint/",
+      "team": "bills",
+      "title": "Main Logo & End Zones Paint",
+      "summary": "perhaps they wait to color until close to regular season?\n\n\n\n\t \n\n\n\n\tI like what the Raiders did.  One endzone black with silver letters and the other silver with black letters.\n\n\n\n\t \n\n\n\n\tone endzone blue & one endzone red would be a perfect match with the seats IMO",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-15T03:58:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266103-main-logo-end-zones-paint/"
+    },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
       "team": "sabres",
@@ -845,17 +856,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-12T16:54:20.000Z",
       "link": "https://www.buffalobills.com/news/highmark-stadium-food-and-beverage-offerings-for-2026-season"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266072-buffalo-bills-games-now-most-expensive-to-attend-in-nfl-study-shows/",
-      "team": "bills",
-      "title": "Buffalo Bills games now most expensive to attend in NFL, study shows",
-      "summary": "The Buffalo Bills now rank as the NFL's most expensive team to watch live, with family game-day costs peaking at over $2,100 (average across NFL: $1,474.55).\n\t\n\t#1 most expensive food cost.\n\t#1 most expensive parking cost.\n\n\n\n\t#8 most expensive soft drink cost.\n\t#10 most expensive beer cost.\n\t\n\t\n\thttps://www.wgrz.com/article/sports/nfl/bills/buffalo-bills-games-are-now-most-expensive-to-attend-in-nfl-study-shows/71-3867558e-36a7-4ada-ba69-f03541eca7c8",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-12T16:41:27.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266072-buffalo-bills-games-now-most-expensive-to-attend-in-nfl-study-shows/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-cb-anthony-kendall-to-one-year-deal",
