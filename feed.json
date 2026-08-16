@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T17:21:39.185Z",
+  "generatedAt": "2026-08-16T17:46:44.526Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 5,
+      "itemCount": 4,
       "error": null
     },
     {
@@ -164,8 +164,8 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Sun 1:37 PM",
-      "detail": "vs NYY"
+      "headline": "Tue 6:40 PM",
+      "detail": "at TB"
     },
     {
       "team": "usmnt",
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-16T17:21:55.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/chainshot.3035782/",
       "team": "sabres",
       "title": "Chainshot!",
@@ -185,17 +196,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-16T16:55:40.000Z",
       "link": "https://forums.hfboards.com/threads/chainshot.3035782/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Training Camp starts July 29",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-16T16:47:11.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/138498/bills-news-recapping-bills-vs-panthers",
@@ -1109,17 +1109,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-04T18:21:23.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/45118/usmnt-announces-friendlies-for-september-october-window"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-contract-extension-usmnt-2030-world-cup/",
-      "team": "usmnt",
-      "title": "Mauricio Pochettino contract extension: How likely is it USMNT boss actually stays through 2030 World Cup?",
-      "summary": "The USMNT manager is locked in through the 2030 World Cup, but navigating a full four-year cycle in Concacaf will test his limits",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-04T17:26:26.000Z",
-      "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-contract-extension-usmnt-2030-world-cup/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/",
