@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T03:50:21.897Z",
+  "generatedAt": "2026-08-16T04:38:31.769Z",
   "sources": [
     {
       "id": "bills-official",
@@ -54,15 +54,15 @@
       "id": "die-by-the-blade",
       "label": "Die By The Blade",
       "team": "sabres",
-      "itemCount": 10,
-      "error": null
+      "itemCount": 0,
+      "error": "HTTP 403"
     },
     {
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 10,
-      "error": null
+      "itemCount": 0,
+      "error": "HTTP 403"
     },
     {
       "id": "sportsnet-nhl",
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-16T03:39:16.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266112-confidence-deone-walker/",
       "team": "bills",
       "title": "Confidence - Deone Walker",
@@ -196,6 +207,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-16T02:38:40.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-training-camp-starts-july-29.3022940/"
+    },
+    {
+      "id": "espn-bills::49600984",
+      "team": "bills",
+      "title": "2026 NFL preseason Week 1: Game takeaways, analysis",
+      "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-16T02:17:52Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266111-oh-no-he-didnt/",
@@ -231,6 +253,17 @@
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
     },
     {
+      "id": "espn-bills::49623174",
+      "team": "bills",
+      "title": "DJ Moore shines in preseason debut",
+      "summary": "Alaina Getzenberg discusses the best performances from the Bills' 29-14 preseason win over the Panthers.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-16T00:44:10Z",
+      "link": "https://www.espn.com/video/clip/_/id/49623174/dj-moore-shines-preseason-debut"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266110-keon-in-a-boot-merge-if-need-be/",
       "team": "bills",
       "title": "Keon in a boot - merge if need be",
@@ -242,15 +275,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/266110-keon-in-a-boot-merge-if-need-be/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/137917/buffalo-bills-roster-by-jersey-number-last-name",
+      "team": "bills",
+      "title": "Buffalo Bills roster by jersey number, last name",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-08-15T22:44:14.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+      "publishedAt": "2026-08-15T23:00:10.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-roster/137917/buffalo-bills-roster-by-jersey-number-last-name"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-panthers-preseason-week-1",
@@ -262,6 +295,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-15T22:36:00.000Z",
       "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-panthers-preseason-week-1"
+    },
+    {
+      "id": "espn-bills::49621171",
+      "team": "bills",
+      "title": "Josh Allen gets comfortable in Bills' new stadium with TD pass in 29-14 preseason win over Panthers",
+      "summary": "— New head coach. New Buffalo Bills stadium.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-15T22:28:28Z",
+      "link": "http://www.espn.com/nfl/recap?gameId=401873282"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138534/josh-allen-keon-coleman-shine-in-buffalo-bills-2026-preseason-debut",
+      "team": "bills",
+      "title": "Josh Allen, Keon Coleman shine in Buffalo Bills 2026 preseason debut",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-15T22:21:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138534/josh-allen-keon-coleman-shine-in-buffalo-bills-2026-preseason-debut"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/definitely-helps-my-confidence-bills-react-to-week-1-preseason-victory-in-first-game-at-highmark-stadium",
@@ -286,17 +341,6 @@
       "link": "https://forums.hfboards.com/threads/2026-27-schedule-home-opener-10-3-vs-chicago.3034496/"
     },
     {
-      "id": "espn-bills::49600984",
-      "team": "bills",
-      "title": "2026 NFL preseason Week 1: Game takeaways, analysis",
-      "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-15T20:37:54Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis"
-    },
-    {
       "id": "espn-bills::49621204",
       "team": "bills",
       "title": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
@@ -306,17 +350,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-15T20:37:47Z",
       "link": "https://www.espn.com/video/clip/_/id/49621204/game-highlights"
-    },
-    {
-      "id": "espn-bills::49621171",
-      "team": "bills",
-      "title": "Josh Allen gets comfortable in Bills' new stadium with TD pass in 29-14 preseason win over Panthers",
-      "summary": "— New Buffalo Bills stadium. Same Josh Allen.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-15T20:29:34Z",
-      "link": "http://www.espn.com/nfl/recap?gameId=401873282"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266107-preseason-game-1-vs-panthers-postgame/",
@@ -341,17 +374,6 @@
       "link": "https://www.buffalobills.com/news/bills-29-panthers-14-final-score-game-highlights-key-stats-preseason-week-1"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138534/josh-allen-keon-coleman-shine-in-buffalo-bills-2026-preseason-debut",
-      "team": "bills",
-      "title": "Josh Allen, Keon Coleman shine in Buffalo Bills 2026 preseason debut",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-15T19:56:43.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138534/josh-allen-keon-coleman-shine-in-buffalo-bills-2026-preseason-debut"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266106-gdt-pre-season-game-1-bills-vs-panthers-august-15-2026-1pm/",
       "team": "bills",
       "title": "GDT Pre-season Game 1 Bills vs Panthers August 15 2026 1pm",
@@ -372,17 +394,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-15T17:07:22.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/138525/buffalo-bills-vs-carolina-panthers-preseason-week-1-fan-discussion"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/137917/buffalo-bills-roster-by-jersey-number-last-name",
-      "team": "bills",
-      "title": "Buffalo Bills roster by jersey number, last name",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-15T16:52:09.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-roster/137917/buffalo-bills-roster-by-jersey-number-last-name"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
@@ -460,17 +471,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-15T11:00:00.000Z",
       "link": "https://www.buffalobills.com/news/where-to-watch-stream-listen-bills-vs-panthers-2026-preseason-week-1"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-21-david-bedkowski/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #21: David Bedkowski",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nDavid Bedkowski\n\n\n\nDrafted: 2025 – 3rd Round (71st Overall)\n\n\n\nSize: 6’6″, 220 lbs\n\n\n\nPosition: Defense\n\n\n\nBorn: December 7th, 2006 – 19 Years Old\n\n\n\n2025-2026 Stats: GP 68 G 5 A 24 PTS 29 / Playoffs GP 7 G 1 A 1 PTS 2, OHL\n\n\n\n2025 T25U25 Ranking: Honorable Mention\n\n\n\nDavid Bedkowski took a positive step in his development this past season. He set OHL career highs in goals, assists, points, and penalty minutes while spending the first half the season as captain of the Owen Sound Attack and finishing with the Ottawa 67’s.\n\n\n\nThe improved offensive production is nice to see, but his bread and butter is his work in the trenches. At roughly 6’6” 220lbs, he’s an imposing force in Major Junior and routinely throws his weight around. Even top OHL prospects have to keep their head on a swivel when he’s out there:\n\n\n\n\nDavid Bedkowski lowered the boom on highly touted draft prospect Adam Novotny last night and got into his sixth scrap of the season (and second since being dealt to Ottawa) as a result. pic.twitter.com/pBXUhdiZw4&mdash; Kris Baker (@SabresProspects) January 31, 2026\n\n\n\n\nHe plays on the edge between hard-nosed and dirty and is no stranger to crossing the line. He had multiple suspensions this past season. He received one game for instigating a fight in October, one game for a hit to the head in January, and two playoff games in April for spearing. Including playoffs, Bedkowski had a whopping 132 penalty minutes in 75 games. While the Sabres could use a bruiser on their blueline, he will need to exercise better judgement to avoid the Department of Player Safety from having his number on speed dial.\n\n\n\n\nSabres RHD prospect David Bedkowski has continued to play on the edge in the OHL playoffs. Two Thursdays ago, Bedkowski received five and a game for this big blindside hit on VAN prospect Kieren Dervin as Ottawa completed the sweep of Kingston: pic.twitter.com/IT6eR6C28D&mdash; Kris Baker (@SabresProspects) April 12, 2026\n\n\n\n\nBedkowski’s has not received an entry level contract from Buffalo to date. He will need to continue to show improvement in Major Junior to prove he deserves to join the Sabres organization. Buffalo will have his rights until June 1st 2027.\n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet\n\n\n\n#24 Topias Leinonen\n\n\n\n#23 Gavin McCarthy\n\n\n\n#22 Luke Osburn\n\n\n\n#21 David Bedkowski",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-15T11:00:00.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-21-david-bedkowski/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266103-main-logo-end-zones-paint/",
@@ -583,17 +583,6 @@
       "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/ex-sabres-star-jeff-skinner-finds-home-overseas-buffalo-adds-to-hockey-staff/",
-      "team": "sabres",
-      "title": "Ex-Sabres star Jeff Skinner finds home overseas; Buffalo adds to hockey staff",
-      "summary": "Winger Jeff Skinner, who will count $6.4 million against the Buffalo Sabres’ salary cap in the upcoming season, has signed a one-year contract with EHC Biel, a team in the Swiss League.\nSkinner, 34, played 32 games for the San Jose Sharks last season, scoring six goals and 13 points before having his one-year contract terminated.\nAfter the Sabres exercised a buyout for final three seasons of his eight-year, $72 million contract following the ... Read the full article \nThe post Ex-Sabres star Jeff Skinner finds home overseas; Buffalo adds to hockey staff first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-14T18:41:58.000Z",
-      "link": "https://www.buffalohockeybeat.com/ex-sabres-star-jeff-skinner-finds-home-overseas-buffalo-adds-to-hockey-staff/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45189/what-to-watch-for-club-vs-country-the-usmnt-goes-back-to-work",
       "team": "usmnt",
       "title": "What to watch for – Club vs. Country: the USMNT goes back to work",
@@ -704,17 +693,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-partner-with-tsn-to-expand-radio-network-to-three-major-canadian-markets"
     },
     {
-      "id": "espn-bills::49434544",
-      "team": "bills",
-      "title": "2026 Buffalo Bills training camp: Latest intel, updates",
-      "summary": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-      "source": "ESPN · Alaina Getzenberg",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-13T19:42:26Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-11-of-training-camp-2026",
       "team": "bills",
       "title": "What we learned about the Bills on Day 11 of Training Camp 2026",
@@ -724,17 +702,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-13T19:19:00.000Z",
       "link": "https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-11-of-training-camp-2026"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-22-luke-osburn/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #22 Luke Osburn",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nLuke Osburn\n\n\n\nDrafted: 2024, BUF (108th overall), 4th round pick\n\n\n\nSize: 6’1″, 189 lbs \n\n\n\nPosition: Defense (shoots left)\n\n\n\nBorn:  9/9/2006 (Age: 19) Plymouth, MI\n\n\n\n2025-2026 stats: GP 32 G 6 A 15 PTS 21, University of Wisconsin\n\n\n\n2025 T25U25 Ranking:  Unranked\n\n\n\nThe Sabres pipeline is filled with young defensemen, and in Luke Osburn they have another one that has offensive talent, work ethic and leadership in buckets. The Badgers showed last season that they were not afraid to put the rookie on ice in key game situations, and Osburn delivered and then some. Trailing 3-1 with 4:47 remaining in the third period of the NCAA regional final, the defenseman stepped up from the point and slammed a goal home from the left circle. Just over thirty seconds later he was on the ice for the game leveler, and then again in the first shift of overtime as they scored the game winner. Wisconsin would lose to the University of Denver in the NCAA championship game, but Osburn has already shown that even at just 19 he can be relied on in pressure situations.\n\n\n\nOsburn scored 10 goals and 41 points in 55 games with the junior Youngstown Phantoms in 2024-25, going on to become the United States Hockey League Defenseman of the Year and on the All Star Team. He then picked up six goals and 21 points in 33 games as a freshman with the Badgers, getting names to the Big 10 All-Rookie Team.\n\n\n\n\n\n\n\n\n\nWisconsin coach Mike Hastings has been full of praise for the youngster: \n\n\n\n“Some people talk about 200 feet, but he’s as comfortable behind our net as he is behind theirs. Those guys are hard to find. It’s hard to put a ceiling on him because of all the intangibles being in place.” \n\n\n\nHis coaches emphasize that he still has to work on his skating, though his lateral movement has improved a lot last season. As one of the leaders on the Badgers roster, this season will go a long way towards defining what kind of player he could eventually become for the Sabres. \n\n\n\nWisconsin assistant coach Nick Oliver called him a rink rat: \n\n\n\n“He’s just wired differently. From the time he wakes up until the time he goes to bed, he’s trying to find any possible way to get better. He’s one of the first ones into the rink most days, he’s one of the last ones to leave most days, and I think as the years have progressed, you’ve just seen his all-around game continue to round out because of it.”\n\n\n\n\n\n\n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet\n\n\n\n#24 Topias Leinonen\n\n\n\n#23 Gavin McCarthy\n\n\n\n#22 Luke Osburn",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-13T14:25:32.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-22-luke-osburn/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-blueprint-part-ii-the-fabulous-5-and-their-superpowers-help-bring-highmark-stadium-to-life",
@@ -825,17 +792,6 @@
       "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266081-on-game-days-would-you-attend-a-pre-game-happy-hour-in-the-stadium-with-discounted-food-drinks/",
-      "team": "bills",
-      "title": "On Game Days, Would You Attend a Pre-Game Happy Hour in the Stadium with Discounted Food & Drinks?",
-      "summary": "Inspired by all the recent new-stadium talk, I had an idea for the Bills to offer fans a good non-tailgating pregame option.\n\n\n\n\t \n\n\n\n\tIf, for a 1 PM kickoff, the gates opened at 11 AM and all food and drinks were offered at significantly reduced prices (think Atlanta’s “Fan First” pricing) until 12:30 PM, effectively creating a 90-minute pregame “happy hour,” would you take advantage of it? And, hell, give season-ticket holders an extra 30 minutes until 1 PM (Utilize an app with a QR code or something).\n\n\n\n\t \n\n\n\n\tI love a good tailgate, but the atmosphere isn't always family-friendly, and it can also be a bit cumbersome having to prepare and bring everything you need. Some people may also simply want to get to the new stadium well before the game starts and check it out. I think offering a 90-minute window with reasonably priced food and drinks would give fans a legitimate alternative to tailgating. It would still give tailgaters plenty of flexibility, too. You could tailgate from 9–11:30, head into the stadium, check things out, top off your drink, and grab a cheap snack before kickoff.\n\n\n\n\tWhat I really like about this idea is that it makes sense from all sides.\n\n\n\n\t \n\n\n\n\tFrom the Bills’ perspective: They probably don't sell a ton of food and drinks between 11 AM and 12:30 PM anyway. And because fans aren't a truly “captive” audience yet, you can't simply charge stadium prices and expect everyone to pay when they have the option of eating and drinking in the parking lot. Ending the discounted pricing 30+ minutes before kickoff also allows the Bills to transition back to normal stadium pricing when fans become more of a captive audience.\n\n\n\n\t \n\n\n\n\tOn top of that, it would be a nice goodwill gesture toward fans. It could generate some positive PR, likely at little to no additional cost, while also improving the overall fan experience by getting more people into the stadium earlier and reducing the rush that typically happens in the 30–45 minutes before kickoff.\n\n\n\n\t \n\n\n\n\tFrom the fans’ perspective:  This takes nothing away from anyone. Prefer to tailgate? Go for it. You can still enter the stadium whenever you want. Don't want to deal with the hassle of tailgating, or want a more family-friendly option? You can arrive when the gates open, get reasonably priced food and drinks, and spend some time checking out everything the new stadium has to offer.\n\n\n\n\t \n\n\n\n\tIf the Bills offered something like this, would you take advantage of it?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-12T20:40:59.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266081-on-game-days-would-you-attend-a-pre-game-happy-hour-in-the-stadium-with-discounted-food-drinks/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45171/lampard-believes-haji-wright-ready-for-premier-league",
       "team": "usmnt",
       "title": "Lampard believes Haji Wright is ready for Premier League",
@@ -856,6 +812,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-12T19:03:13.000Z",
       "link": "https://forums.hfboards.com/threads/2026-prospect-poll-15.3035424/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266078-jackson-hawes-interview-today/",
+      "team": "bills",
+      "title": "Jackson Hawes interview today",
+      "summary": "He’s SO ready to up his game! Combined with our massive new FBs, I expect our rushing game to improve even more. To say nothing of QB sneaks!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-12T18:53:34.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266078-jackson-hawes-interview-today/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-tottenham-hotspur/",
@@ -891,17 +858,6 @@
       "link": "https://forums.hfboards.com/threads/da-beauty-league.2515497/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/",
-      "team": "sabres",
-      "title": "Sabres set to induct Jason Pominville, Thomas Vanek into Hall of Fame Jan. 14",
-      "summary": "Jason Pominville and Thomas Vanek will be inducted into the Buffalo Sabres Hall of Fame prior to the Jan. 14 game against the Colorado Avalanche at KeyBank Center, the team announced today.\nThe former captains and high-scoring wingers entered the NHL together in 2005-06 and will become the 45th and 46th members of the team’s hall of fame.\nDuring a reunion last season of the beloved team they starred for as rookies, the Sabres surprised ... Read the full article \nThe post Sabres set to induct Jason Pominville, Thomas Vanek into Hall of Fame Jan. 14 first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-12T14:58:20.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266070-panthers-at-bills-pre-season-august-15th-pre-game-info-thread/",
       "team": "bills",
       "title": "Panthers at Bills pre-season, August 15th, pre-game info thread",
@@ -922,28 +878,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-12T00:54:12.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/45164/usa-soccercast-episode-197-poch-returns-as-fifa-burns"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/nathan-paetsch-leaves-rochester-for-head-coaching-job-in-youngstown/",
-      "team": "sabres",
-      "title": "Nathan Paetsch leaves Rochester for head coaching job in Youngstown",
-      "summary": "Nathan Paetsch, who spent the last three seasons as an assistant coach with the Rochester Americans, has left the Buffalo Sabres’ AHL affiliate to become head coach of the Youngstown Phantoms.\nThe Phantoms, a junior team, play in the United States Hockey League. Ryan Ward, their last coach, recently moved up to the AHL to become an assistant with the Providence Bruins.\nPaetsch, 43, spent 17 seasons in Buffalo’s organization as player, assistant coach ... Read the full article \nThe post Nathan Paetsch leaves Rochester for head coaching job in Youngstown first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-11T16:02:09.000Z",
-      "link": "https://www.buffalohockeybeat.com/nathan-paetsch-leaves-rochester-for-head-coaching-job-in-youngstown/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-23-gavin-mccarthy/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #23 Gavin McCarthy",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nGavin McCarthy\n\n\n\nDrafted: 2023, BUF (86th overall), 3rd round, 22nd pick\n\n\n\nPosition: Defense (shoots right)\n\n\n\nBorn:  6/2/2005 (Age: 21) Troy, New York (grew up in Clarence Center)\n\n\n\n2025-2026 stats: GP 36 G 4 A 17 PTS 21, Boston University\n\n\n\n2025 T25U25 Ranking:  Unranked\n\n\n\nHere we go again with another young right-shot defenseman in the organization. This one is a local kid from Clarence Center and a former Buffalo Jr. Sabre, making his path to the team a little more interesting for Sabres fans.\n\n\n\nGavin McCarthy is a solid 21-year-old defender coming off three seasons at Boston University. Each year, he took another step offensively, steadily increasing his production. In 2025-26, he finished with four goals and 21 points in 36 games while serving as captain of the Terriers.\n\n\n\nMcCarthy is a physical, two-way defenseman who isn’t afraid to lay a big hit and make his presence felt. He has decent size at 6’2″ and 196 pounds. While his offensive skills are certainly respectable, his two-way label leaned more toward the defensive side of the game in college. He projects as the type of D-man who can be trusted to play a sound, physical game in his own end while providing some secondary offense when the opportunity presents itself.\n\n\n\nHis skating is strong and one of his best traits. It allows him to take risks and still get back into the play.\n\n\n\n\n\n\n\nGavin signed a three-year entry-level contract with the Sabres on March 17th. McCarthy will continue his development with the Rochester Americans, turning pro for his first full AHL season. He did get a brief taste of the pro game last year, appearing in five games with the Amerks late in the campaign.\n\n\n\nThe Sabres will keep watch on this quality player and see if he can eventually find a place in Buffalo a few years down the road. We all know just how crowded the field is when it comes to defensive prospects in the organization, with talented young blueliners up the wazoo. For now, McCarthy should be a strong addition to Rochester, bringing his physicality and leadership qualities to the Amerks. Only time will tell if he can take the next step and prove he is truly NHL material.\n\n\n\n\n\n\n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet\n\n\n\n#24 Topias Leinonen\n\n\n\n#23 Gavin McCarthy",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-11T11:31:09.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-23-gavin-mccarthy/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/uefa-concacaf-afc-accuse-fifa-of-fundamental-breach-of-trust-and-deception-in-joint-letter/",
@@ -979,28 +913,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45125/usmnt-midweek-viewing-guide-ramping-up"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-10/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Open Thread, Wk of 8/10",
-      "summary": "The world of hockey snores on in its summer slumber. The NHL Network producers and analysts chose their top 20 defensemen in the League right now, and Rasmus Dahlin was fourth on that list. \n\n\n\nYour question for this week is – what was the best road trip you ever took?",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-10T12:00:00.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-10/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-24-topias-leinonen-2/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #24: Topias Leinonen",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nTopias Leinonen\n\n\n\nDrafted: 2022 – 2nd Round (41st Overall)\n\n\n\nPosition: Goalie\n\n\n\nBorn: January 25th, 2004 – 22 Years Old\n\n\n\n2025-2026 stats: AHL – 3-3-0, 3.48 GAA, .855 SV%. ECHL: 3-1-1, 3.24 GAA, .880 SV%.\n\n\n\n2025 T25U25 Ranking: 24\n\n\n\nTopias Leinonen was looking to build on a solid development year in 2024-2025 and use that momentum to spur the beginning of his North American career. With a crowded crease in Rochester, it was a struggle for him to find playing time in the AHL. A lower body injury sidelined him in early December that kept him out through January. He was assigned to the Jacksonville Icemen in February where he appeared in 5 games.\n\n\n\nThe 2024-2025 season is starting to look like the outlier when it comes to Leinonen’s health. He’s struggled to stay healthy in nearly every season since being the first goalie drafted in 2022. The lack of ice time has severely limited his career development. This lack of growth is reflected in our rankings as he once again takes the 24th spot.\n\n\n\nIf, and that’s a massive “if”, he can stay healthy, Leinonen should have the opportunity for more consistent ice time this year. There is one less goalie prospect in the organization after the trade of Devon Levi. Hopefully Leinonen can seize the opportunity and put a full season of on ice development on his resume.",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-09T22:45:58.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-24-topias-leinonen-2/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266027-blue-vs-red-scrimmage-%E2%80%94-stadium-stuff/",
       "team": "bills",
       "title": "Blue vs. Red Scrimmage — Stadium Stuff",
@@ -1034,17 +946,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-sebastian-berhalter-max-arfsten-middlesbrough/"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-25-simon-pier-brunet/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #25 Simon-Pier Brunet",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nSimon-Pier Brunet\n\n\n\nDrafted: 2024, BUF (123rd overall), 4th round, 26th pick\n\n\n\nPosition: Defense (shoots right)\n\n\n\nBorn: 10/24/2005 (Age: 20) Gatineau, Quebec, CAN\n\n\n\n2025-2026 stats: GP 54 G 2 A 24 PTS 26, QMJHL Victoriaville Tigres\n\n\n\n2025 T25U25 Ranking:  Unranked\n\n\n\nA few late straggler votes were enough to nudge defenseman Simon-Pier Brunet into the Buffalo Sabres’ Top 25 Under 25 rankings. Unfortunately for 2026 sixth-round pick Dylan Dumont, that meant falling off the list and into the abyss—at least until next year.\n\n\n\nDumont still gets a mention here, though, mostly because I had already completed his profile before the late votes came in to change things. The tardy tallies caused a bit of a shuffle in the 21-25 range of the rankings, so here is the final updated version.\n\n\n\nBy the way DBTBers, there were only 92 votes for this!? We had 117 last summer. After the great season Buffalo just had, (and with many new members here now) I expected much more partcipation. I don’t speak for the whole staff here but I’m shaking my head at the low turn out, with a frowny-faced emoji thrown in too!\n\n\n\nSo, what should you know about Simon-Pier Brunet?\n\n\n\nLet’s start with the basics. Brunet stands 6-foot-2, weighs 204 pounds, and is currently 20 years old. During the 2025-26 season, he recorded 26 points in 54 games with the Victoriaville Tigres of the QMJHL after being traded from the Drummondville Voltigeurs. (where he had posted 32 points in 60 games the previous year—the same club the Buffalo Sabres selected him from in the 2024 NHL Draft) His offensive production is respectable for a stay-at-home blueliner, but putting up points is not what defines his game.\n\n\n\nBrunet’s best attributes are in his own zone, particularly his ability to guard the front of the net. You can’t go through him and he is difficult to get around. He can wall off the opposition from the high-danger areas with his brawn and determination. He is also a sound skater with a good motor to his game.\n\n\n\n\n\n\n\nAfter playing two more seasons in the QMJHL after his draft year, Brunet has committed to Merrimack College for the 2026 -27 season. He will thankfully have time there to work on his game more. Buffalo has an abundance of young defensemen right now, especially those of the right shot variety. His pathway to the NHL will depend not only on his develpment but how the Sabres handle their other defensive prospects.\n\n\n\nAt this juncture, it almost feels like a few other young defenders will need to fail spectacularly or be traded elsewhere to open up a lane for Simon-Pier Brunet. Or he could forge his way onto the team eventually with his solid defense and physical style of play. It might take both for that to happen.\n\n\n\nMeanwhile, he will be one to keep an eye on. Brunet is not a top defensive prospect in the Sabres’ deep system but he could be a top underdog.\n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T11:28:25.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-25-simon-pier-brunet/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-coverage/45090/ssfc-spotlight-kat-rader-putting-up-numbers-in-rookie-season",
       "team": "usmnt",
       "title": "SSFC Spotlight: Kat Rader putting up numbers in rookie season",
@@ -1054,17 +955,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-05T23:27:53.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-coverage/45090/ssfc-spotlight-kat-rader-putting-up-numbers-in-rookie-season"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/2026-top-25-under-25-honorable-mentions-ratzlaff-richard-geary-dumont-funk/",
-      "team": "sabres",
-      "title": "2026 Top 25 Under 25: Honorable Mentions",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nThanks to all 92 people who responded to Die By The Blade’s annual voting for the Buffalo Sabres’ Top 25 Under 25 list. Before we get into the list, let’s take a moment for the honorable mentions – aka, the players who didn’t make the top 25.\n\n\n\nThere were 42 eligible players this year. Several players on last year’s top 25 list aged out while others are no longer with the organization.\n\n\n\nLet’s kick things off with a few players who just missed the cut for making the top 25. The scoring in the lower ranks is very close, and in some cases flawed too since a number of voters only ranked their top 10-20 players, and left the remainder of the names in the alphabetical order they were originally placed in. This means by default a Simon-Pier Brunet got more voting points than a Vasily Zelenov, whether or not one is better than the other. \n\n\n\n30. Scott Ratzlaff (G)\n\n\n\nThe goaltender will turn 21 in a month, and sees himself drop from 25th to 30th not because of waning performance, but more so the quality of prospects in the Sabres’ stable. Ratzlaff went 15GP, 3.10 GAA,  .913 sv% and a 5-7-2 record for the Jacksonville Icemen in the ECHL, and 13GP, 3.44 GAA,  .878 sv% and a 4-6-2 record for the Rochester Americans.  \n\n\n\n29. Jake Richard (RW/LW)\n\n\n\nThe forward was drafted 170th overall by the Sabres in 2022, but after a breakthrough second season for Connecticut with 43 points and 16 PIM in 34 games, his performance dipped with 10G and 17A in 38 games, while racking up 42 PIM. He was in the honorable mentions last summer too. UConn lost to the Spartans (and their two Sabres, see below) in the first round of the playoffs, with Richard accumulating eight shots out of his team’s 42 in the 2-1 loss. \n\n\n\n28. Patrick Geary (D)\n\n\n\nSt. Francis grad Geary was drafted 172nd in 2024, and had a solid year at Michigan State University, where he wore the ‘A’ on his sweater. He had 2G and 9A in 35 games, with 70 PIM on the blue line leading MSU to the #3 seeding along with fellow Sabre blueliner prospect Maxim Strbak. Geary even scored in the regional final where they lost to Wisconsin, he’s definitely one to watch. \n\n\n\n27. Dylan Dumont (RW)\n\n\n\nThe 2026 188th pick is an intriguing prospect, scoring 28G and 16A in 62 games in the QMJHL. A scoring winger who attacks the center of the ice, Dumont was his team’s leading goal scorer last year. Drummondville coach Sylvain Favreau spoke in glowing terms of the youngster who turns 18 in a couple of weeks, saying he scored many of those goals off the rush and in front of the net by utilizing his best assets, his skating and soft hands. \n\n\n\n26. Zac Funk (LW/RW)\n\n\n\nThe Sabres acquired the forward in an ECHL trade this summer, sending Tyler Kopf to Washington for him. Funk, 22, scored 19 points (9+10) in 23 games last season with the ECHL’s South Carolina Stingrays. He also had two assists in 10 contests with Washington’s AHL affiliate, the Hershey Bears. The 6-foot-0, 210-pound winger has split his two professional campaigns between the ECHL and AHL after signing with Washington as an undrafted free agent at the end of the 2023-24 season, having led the WHL with 67 goals that year in 68 games for the Prince George Cougars.\n\n\n\nStay tuned as we break into the top 25 in a couple of days!",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-05T12:00:00.000Z",
-      "link": "https://www.diebytheblade.com/2026-top-25-under-25-honorable-mentions-ratzlaff-richard-geary-dumont-funk/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45118/usmnt-announces-friendlies-for-september-october-window",
@@ -1089,17 +979,6 @@
       "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-contract-extension-usmnt-2030-world-cup/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/",
-      "team": "sabres",
-      "title": "After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers",
-      "summary": "In his early days as a coach, Jay McKee said he visualized success the same way he had as a player. The popular former defenseman, a linchpin on some beloved Buffalo Sabres teams in the late 1990s and early 2000s, wanted to reach the highest level as quickly as possible.\n“As a former athlete … you strive to be at the top level,” said McKee, who played his first NHL game at 18 and secured ... Read the full article \nThe post After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-04T15:19:03.000Z",
-      "link": "https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/45112/jenna-nighswonger-reportedly-transfers-from-arsenal-to-bay-fc",
       "team": "usmnt",
       "title": "Jenna Nighswonger reportedly transfers from Arsenal to Bay FC",
@@ -1122,28 +1001,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45087/usmnt-midweek-viewing-guide-leagues-cup"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-3/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Open Thread, Wk of 8/3",
-      "summary": "It’s summer, and things are mostly quiet in the world of hockey. Single game tickets for the Buffalo Sabres are now available, and the Sabres will play the Boston Bruins in the two-game Prospects Showcase at LECOM Harborcenter on Sept. 13 and 14.\n\n\n\nA summer-y question for you this week – beach, mountains, or staying cool inside?",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-03T12:00:00.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-3/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/for-your-viewing-pleasure/",
-      "team": "sabres",
-      "title": "For Your Viewing Pleasure",
-      "summary": "No Summer Blockbusters Here but Some Engaging Sabres Videos\n\n\n\nIt may be the middle of summer but some of us think about hockey 24-7, 365 days a year. I’ve been hitting the tube of You lately and thought I’d share some good Buffalo Sabres related videos. You can check out the new Spider-Man movie later.\n\n\n\nThis first one is an outsider’s perspective on our top prospects. He may not be as knowledgeable as some in the inner circle of Sabrehood but he offers a solid perspective with good presentation.\n\n\n\n\n\n\n\n\n\nI posted this next video in the Weekly Open Thread yesterday already but if you skipped it, this is your second chance. It’s a good look at Prokhor Poltapov and his chances of making the team next season right out of the KHL.\n\n\n\n\n\n\n\n\n\nNext up we get the Locked on Sabres podcast talking about Jiri Kulich and his potential this season. Will he bounce back from his blood-clot and be a solid Center for this team? His goal scoring has been pretty good but his playmaking needs to improve.\n\n\n\n\n\n\n\n\n\nLastly, we have a movie length “Best Moments” video of the Sabres 2025-26 season. Pop your popcorn for this one and enjoy the highlights.\n\n\n\n\n\n\n\n\n\nReminder, we are just 62 days away from the Buffalo Sabres opening game on the road in Columbus.",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-31T19:51:28.000Z",
-      "link": "https://www.diebytheblade.com/for-your-viewing-pleasure/"
-    },
-    {
       "id": "espn-sabres::49488419",
       "team": "sabres",
       "title": "NHL rookie roundtable: Gavin McKenna and other top rookies answer burning questions",
@@ -1155,50 +1012,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/49488419/nhl-rookie-roundtable-gavin-mckenna-porter-martone-other-top-rookies-answer-burning-questions"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/",
-      "team": "sabres",
-      "title": "Blue Jackets hire former Sabres coach Don Granato as assistant",
-      "summary": "Former Buffalo Sabres coach Don Granato is back in the NHL.\nThe Columbus Blue Jackets on Thursday named Granato an assistant coach on Rick Bowness’ staff.\nGranato, 58, most recently led Team USA’s entry in the World Championship in the spring, his first head coaching gig since his dismissal from the Sabres following a sixth-place finish in the Atlantic Division in 2023-24.\n\nAfter arriving in Buffalo as an assistant in 2019, he led the Sabres ... Read the full article \nThe post Blue Jackets hire former Sabres coach Don Granato as assistant first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-31T05:29:38.000Z",
-      "link": "https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/",
-      "team": "sabres",
-      "title": "Sabres to host Prospects Showcase rookie games Sept. 13 and 14",
-      "summary": "The Buffalo Sabres’ annual preseason rookie tournament will have a different look this year.\nThe Sabres announced today they will host a two-game Prospects Showcase against the Boston Bruins on Sept. 13 and 14 at LECOM Harborcenter.\nBeginning in 2015, the Sabres annually hosted the Prospects Challenge, a tournament that featured five or six teams.\n\nTicket information and rosters will be released at a later date.\nThe Sabres will play two games in Boston ahead ... Read the full article \nThe post Sabres to host Prospects Showcase rookie games Sept. 13 and 14 first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-30T16:35:41.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
-      "team": "sabres",
-      "title": "Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin",
-      "summary": "BUFFALO – University of Wisconsin coach Mike Hastings said he sometimes tells Sabres defense prospect Luke Osburn to take a break and stay off the ice.\nWhile Osburn’s strong work ethic is one of greatest strengths – “The standard he sets for himself is at an elite level,” Hastings told the Times Herald – he occasionally needs to take a step back.\n“He’s a very good self-evaluator,” Hastings said. “He’s one of those few players, ... Read the full article \nThe post Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-28T21:39:04.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-27/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Open Thread, Wk of 7/27",
-      "summary": "Is Buffalo’s Inactivity Due to Lack of Trying?\n\n\n\nI doubt GMJK is sitting on his hands at this point but it sure does feel like it. The fans never got that big trade that seemed to be looming before the draft. We are now in the slowest point of the NHL’s year but trades still go down occasionally. Sabres rumors have died down too, even though a few have the team linked to kicking the tires on Kirill Marchenko of the Blue Jackets. He would be a huge addition to the team and an instant Alex Tuch replacement. He would also be costly. I’m guessing at least three good assets, with one of the young trio of forwards being involved, surely.\n\n\n\nThe calendar is about to flip to August and we all know what that means, Blue and Gold fans. That’s right, the friggin’ rent or mortgage is almost due and the monthy bills follow soon after. Were you expecting a formal invite to the Buffalo Sabres’ team BBQ?",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-28T13:26:58.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-7-27/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265920-vita-vea-requests-trade/",
       "team": "bills",
       "title": "Vita Vea requests trade",
@@ -1208,17 +1021,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-27T22:22:53.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265920-vita-vea-requests-trade/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/former-sabres-found-new-jobs-as-free-agents-this-summer/",
-      "team": "sabres",
-      "title": "Former Sabres found new jobs as free agents this summer",
-      "summary": "In his sixth pro season, forward Josh Dunne finally stuck in the NHL. Other than a one-game stint with the Rochester Americans in October, he spent all year in Buffalo, playing a career-high 34 games as he established himself as a versatile and rugged presence on the Sabres’ fourth line.\nOn another team, the affable Dunne, 27, might’ve enjoyed more regular duty. But the Sabres possessed depth up front, so he moved in and out ... Read the full article \nThe post Former Sabres found new jobs as free agents this summer first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-24T05:30:31.000Z",
-      "link": "https://www.buffalohockeybeat.com/former-sabres-found-new-jobs-as-free-agents-this-summer/"
     },
     {
       "id": "bandits-official::https://bandits.com/bandits-sign-robinson-to-3-year-contract/",
@@ -1331,17 +1133,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/49419342/nhl-produce-games-hurricanes-blue-jackets-wild-blues"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/if-the-sabres-sign-patrick-kane-would-he-fit-into-their-identity/",
-      "team": "sabres",
-      "title": "If the Sabres sign Patrick Kane, would he fit into their identity?",
-      "summary": "Three weeks after free agency opened and long after the feeding frenzy ended, South Buffalo native Patrick Kane is reportedly considering joining the Sabres or returning to Chicago, where he became an icon while starring for 16 seasons and leading the Blackhawks to three Stanley Cup championships.\nThat info, courtesy of ESPN analyst Chris Chelios, makes sense. Following three seasons and zero playoff appearances with the Detroit Red Wings, Kane, 37, could take a run ... Read the full article \nThe post If the Sabres sign Patrick Kane, would he fit into their identity? first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-20T22:01:16.000Z",
-      "link": "https://www.buffalohockeybeat.com/if-the-sabres-sign-patrick-kane-would-he-fit-into-their-identity/"
-    },
-    {
       "id": "espn-sabres::49405523",
       "team": "sabres",
       "title": "Behind the scenes at the NHL Broadcast Training Camp",
@@ -1351,17 +1142,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-20T15:04:58Z",
       "link": "https://www.espn.com/nhl/story/_/id/49405523/nhl-players-broadcast-training-camp-announcers-analysts-tv"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/",
-      "team": "sabres",
-      "title": "2026-27 Sabres schedule features early home stand, rugged stretches on road before Christmas",
-      "summary": "An early five-game home stand, two road contests against the Montreal Canadiens in a five-day span in October and a rigorous stretch in which they play 10 of 12 games on the road in late November and early December are among the highlights of the Buffalo Sabres’ 2026-27 schedule the NHL released Thursday.\nThe 84-game schedule – the NHL has added two regular-season contests and cut the preseason from six games to four – means ... Read the full article \nThe post 2026-27 Sabres schedule features early home stand, rugged stretches on road before Christmas first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-17T05:24:01.000Z",
-      "link": "https://www.buffalohockeybeat.com/2026-27-sabres-schedule-features-early-home-stand-rugged-stretches-on-road-before-christmas/"
     },
     {
       "id": "espn-sabres::49368368",
