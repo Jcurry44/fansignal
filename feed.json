@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:00:40.434Z",
+  "generatedAt": "2026-08-19T18:53:38.218Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 5,
+      "itemCount": 4,
       "error": null
     },
     {
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Pre-Season Game 2 at CLE on 8/22 at 1 PM ET",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-19T18:19:35.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -183,8 +194,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-19T17:40:16.000Z",
+      "publishedAt": "2026-08-19T17:54:23.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/",
+      "team": "sabres",
+      "title": "Sabres Prospect Rankings, 2026 Summer edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-19T17:49:24.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/info-for-fans-visiting-buffalo.326682/",
@@ -196,28 +218,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-19T17:39:48.000Z",
       "link": "https://forums.hfboards.com/threads/info-for-fans-visiting-buffalo.326682/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/",
-      "team": "sabres",
-      "title": "Sabres Prospect Rankings, 2026 Summer edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-19T17:32:01.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Pre-Season Game 2 at CLE on 8/22 at 1 PM ET",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-19T16:50:38.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
@@ -1142,17 +1142,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-07T18:19:38.000Z",
       "link": "https://www.cbssports.com/soccer/news/cavan-sullivan-philadelphia-union-resurgence-usmnt/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-world-cup-sebastian-berhalter-max-arfsten-middlesbrough/",
-      "team": "usmnt",
-      "title": "USMNT World Cup players Sebastian Berhalter, Max Arfsten begin next phases of careers at Middlesbrough",
-      "summary": "Berhalter and Arfsten are joined by Aidan Morris, a fellow U.S. international, at Boro and could make their competitive debuts for the team in Friday's EFL Cup clash against Wrexham",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-07T13:36:12.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-world-cup-sebastian-berhalter-max-arfsten-middlesbrough/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-25-simon-pier-brunet/",
