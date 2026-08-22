@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T14:49:16.121Z",
+  "generatedAt": "2026-08-22T15:23:50.477Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
+      "team": "sabres",
+      "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-22T14:24:59.000Z",
+      "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266173-bills-browns-preseason-week-2-gdt/",
       "team": "bills",
       "title": "Bills @ Browns - preseason week 2 GDT",
@@ -229,17 +240,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-22T13:42:00.000Z",
       "link": "https://www.buffalobills.com/news/where-to-watch-stream-listen-bills-vs-browns-2026-preseason-week-2"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
-      "team": "sabres",
-      "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T13:08:00.000Z",
-      "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138829/bills-vs-browns-preseason-game-no-2-gets-questions-answered",
@@ -1164,17 +1164,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-12T20:33:26.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt/45171/lampard-believes-haji-wright-ready-for-premier-league"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-tottenham-hotspur/",
-      "team": "usmnt",
-      "title": "USMNT star Folarin Balogun probably won't transfer to Tottenham Hotspur, but maybe he should",
-      "summary": "While a North London reunion might not happen, the USMNT star represents the ideal attacking upgrade for Roberto De Zerbi's rebuilding squad",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-12T18:45:29.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-folarin-balogun-tottenham-hotspur/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/",
