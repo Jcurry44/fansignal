@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:32:03.807Z",
+  "generatedAt": "2026-08-22T21:00:12.102Z",
   "sources": [
     {
       "id": "bills-official",
@@ -40,8 +40,8 @@
       "id": "twobillsdrive",
       "label": "TwoBillsDrive",
       "team": "bills",
-      "itemCount": 20,
-      "error": null
+      "itemCount": 0,
+      "error": "fetch failed"
     },
     {
       "id": "espn-sabres",
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138868/buffalo-bills-stock-up-stock-down-preseason-cleveland-browns",
+      "team": "bills",
+      "title": "Buffalo Bills dominate Cleveland Browns in preseason action",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-22T20:48:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138868/buffalo-bills-stock-up-stock-down-preseason-cleveland-browns"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -215,7 +226,7 @@
       "summary": "The 2-year-old son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
       "source": "ESPN · Cameron Wolfe and Alaina Getzenberg",
       "sourceType": "league",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "publishedAt": "2026-08-22T19:30:23Z",
       "link": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son"
     },
@@ -240,17 +251,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-22T18:13:14.000Z",
       "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/138841/buffalo-bills-at-cleveland-browns-nfl-preseason-week-2-fan-discussion",
-      "team": "bills",
-      "title": "Buffalo Bills at Cleveland Browns, NFL Preseason Week 2 fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 2,
-      "publishedAt": "2026-08-22T16:36:05.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/138841/buffalo-bills-at-cleveland-browns-nfl-preseason-week-2-fan-discussion"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/statement-from-the-buffalo-bills-on-ed-oliver",
@@ -319,17 +319,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138777/buffalo-bills-2026-scouting-report-running-back-james-cook-iii"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266172-buffalo-superbowl/",
-      "team": "bills",
-      "title": "Buffalo Superbowl",
-      "summary": "New stadium, new energy, new team.\n\n\n\n\t \n\n\n\n\tLove the vibes. \n\n\n\n\t \n\n\n\n\tMy 2 cats are rocking the Allen jersey, and I know ya’ll got dogs doing the same.\n\n\n\n\t \n\n\n\n\tThis is it.  It’s not next year at Tops or Wegmans, it’s this year. This is the year you hit the checkout line with something to prove.\n\n\n\n\t \n\n\n\n\tNorth side of the border here…love the new digs, love the people, everything is coming together. \n\n\n\n\t \n\n\n\n\tWhat does a Superbowl look like for fans here that live in WNY?  \n\t \n\n\n\n\tGot to think it’s a once in a lifetime party",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T11:27:08.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266172-buffalo-superbowl/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
       "team": "sabres",
       "title": "How are they doing now? (Former Sabres Players) Top 100 pics/stories",
@@ -372,17 +361,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-22T00:31:16.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266167-30-point-games-for-the-bills-this-seasonoverunder-95-games/",
-      "team": "bills",
-      "title": "30 point games for the Bills this season....over/under 9.5 games??",
-      "summary": "Last year, the Bills had 7 30+ point performances in the regular season(plus 2 more in the Playoffs).\n\n\n\n\t \n\n\n\n\tIn 2024 the Bills had 12 30+ point performances in the regular season, including 8 consecutive such performances.\n\n\n\n\t \n\n\n\n\tWith Joe Brady at the helm, DJ Moore in the fold, and an attacking-style Defense, how many 30+ point performances will we see from the Bills this year??\n\n\n\n\t \n\n\n\n\tMy prediction:\n\n\n\n\t \n\n\n\n\tColor me optimistic with what I have seen from the team so far, and the Offense specifically, during training camp and Preseason Game 1. \n\n\n\n\t \n\n\n\n\tGetting to double digits in this stat is not an easy accomplishment, and they might not match or exceed the 12 games they had 2 years ago, but I'm going with the Over with 10 30+ point games.\n\n\n\n\t \n\n\n\n\tThoughts??",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T18:18:54.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266167-30-point-games-for-the-bills-this-seasonoverunder-95-games/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/45236/fifa-releases-2027-womens-world-cup-match-schedule",
@@ -460,17 +438,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-21T13:41:19.000Z",
       "link": "https://www.cbssports.com/soccer/news/european-soccer-team-milan-real-madrid-premier-league-giants/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266163-oliver-and-shakir-injuries/",
-      "team": "bills",
-      "title": "Oliver and Shakir injuries",
-      "summary": "Two critical pieces apparently sidelined now.  We have a lot of key pieces hurting now between these two, McGovern, Gardner-Johnson, Ty Johnson.  Let’s hope these are minor injuries.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T13:40:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266163-oliver-and-shakir-injuries/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/tage-thompson-2.2640469/",
@@ -561,28 +528,6 @@
       "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266162-o-line-looking-rough/",
-      "team": "bills",
-      "title": "O-Line Looking Rough",
-      "summary": "Overall, the team looked really good in the first preseason game.  There was a lot of focus on the Defense and the Receivers playing well.\n\n\n\n\tThe one rough area was in pass blocking, where both Dion Dawkins and Spencer Brown in particular had a very difficult time.\n\n\n\n\t \n\n\n\n\tWord out of the joint practice with the Browns yesterday is that pass blocking was once again a problem, with Allen forced out of the pocket multiple times on would-be sacks.\n\n\n\n\t \n\n\n\n\tAs the offseason had progressed, the retirement of Aaron Kromer has been somewhat forgotten.  The only loss we had in the offseason was at Left Guard, and it doesn't sound like anyone is standing out trying to win that job.  Connor McGovern has been injured and sounds iffy for Week 1.  Dawkins lost a lot of weight in the offseason... which could be a good thing, but also could impact his strength.  Brown had knee surgery in the offseason.\n\n\n\n\t \n\n\n\n\tO-Line has been a consistent spot for the last several years.  Anyone else starting to worry a little that it may end up being a weak point this year?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T11:37:55.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266162-o-line-looking-rough/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266161-is-bass-done/",
-      "team": "bills",
-      "title": "Is Bass done?",
-      "summary": "I think so.\n\n\n\n\t\n\t\t\n\t\n\n\n\n\t \n\n\n\n\the hasn’t been effective the last 2 seasons. Call Prater now!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T08:58:16.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266161-is-bass-done/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/136770/pick-the-play-that-defines-bills-wild-card-playoff-win-over-jaguars",
       "team": "bills",
       "title": "Pick the play that defines Bills’ Wild Card playoff win over Jaguars",
@@ -592,17 +537,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-21T07:42:30.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136770/pick-the-play-that-defines-bills-wild-card-playoff-win-over-jaguars"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266160-landon-jackson-revisited/",
-      "team": "bills",
-      "title": "Landon Jackson revisited.",
-      "summary": "Everything I’ve read this summer about Landon Jackson says he is bigger, stronger, healthy, and looking like the player he was in college.  If true, this is great news for the Bills defense.  I was a fan of his in college and thought he could be an impact player for the Bills.  I was extremely disappointed last season that he looked awful before his season ending injury. \n\t \n\n\n\n\tCould he become a key piece of the new defense?  I saw a blurb on SI that Jackson could start ahead of TJ Sanders next to Oliver and Walker and he did start over Sanders in the 1st preseason game.  \n\t \n\n\n\n\tThoughts?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T04:24:06.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266160-landon-jackson-revisited/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/stiven-sardarian-f-88th-overall-2021-michigan-tech-traded-to-car-on-8-17.2835919/",
@@ -680,17 +614,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-20T18:27:06.000Z",
       "link": "https://forums.hfboards.com/threads/nhl-front-office-confidence-rankings-how-fans-feel-about-every-team-in-2026.3036032/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/138784/khalil-shakir-ed-oliver-dealing-with-injuries-ahead-of-joint-practice-preseason-game-vs-browns",
-      "team": "bills",
-      "title": "Khalil Shakir, Ed Oliver dealing with injuries ahead of joint practice, preseason game vs. Browns",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-20T18:25:53.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/138784/khalil-shakir-ed-oliver-dealing-with-injuries-ahead-of-joint-practice-preseason-game-vs-browns"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-18-vsevolod-komarov/",
@@ -847,28 +770,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-ranks-no-1-in-nielsen-s-fandom-study"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266147-goodell-wants-to-expand-the-league-outside-the-us-with-multiple-teams/",
-      "team": "bills",
-      "title": "Goodell wants to expand the league outside the US with multiple teams",
-      "summary": "https://www.msn.com/en-us/sports/nfl/nfl-commissioner-roger-goodell-confirms-league-wants-multiple-teams-based-outside-the-us-no-doubt/ar-AA2aqfkQ?ocid=entnewsntp&pc=U531&cvid=6a85bc35a973496a93e5088ebcfc28e1&ei=23",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-19T14:43:54.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266147-goodell-wants-to-expand-the-league-outside-the-us-with-multiple-teams/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266146-look-i-am-not-saying-the-bills-are-going-to-go-15-2-edit/",
-      "team": "bills",
-      "title": "Look, I am not saying the Bills are going to go 15-2 [Edit]...",
-      "summary": "...but if they do the team's all time regular season record will be 513-512-8.\n\n\n\n\t \n\n\n\n\tIf, at the very least, they don't have the number one seed, but make it to the Super Bowl, but lose, then their all time playoff record will be 25-24.\n\n\n\n\t \n\n\n\n\tI guess what I am saying is...Go Bills.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tEDIT: ...and you better believe that when we beat Houston in the opening game it will set up a tremendous scenario to win the franchise's 500th regular season game during the home opener for the new stadium against Detroit.\n\n\n\n\t \n\n\n\n\tEDIT 2: The Bills have not had a winning record since early on in the 1968 season.  Additionally, the closest (by end of the year tallies) that they came was just before the start of the 2001 season when they were (if I did my math correctly) 296-298-8.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-19T14:11:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266146-look-i-am-not-saying-the-bills-are-going-to-go-15-2-edit/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45212/usmnt-defender-mark-mckenzie-reportedly-returning-to-mls",
       "team": "usmnt",
       "title": "USMNT defender Mark McKenzie reportedly returning to MLS",
@@ -878,17 +779,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-19T13:39:19.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/45212/usmnt-defender-mark-mckenzie-reportedly-returning-to-mls"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266144-james-cook-in-the-playoffs/",
-      "team": "bills",
-      "title": "James Cook in the Playoffs",
-      "summary": "We have been saying what Josh Allen needs to do to win in the playoffs and take us to the SB (and win it).\n\n\n\n\t \n\n\n\n\tI think equally important is the performance of James Cook in the Playoffs.  While James has had fantastic regular season campaigns, his playoff appearances have been that great (except for the games against Denver and KC in 2024 Playoffs).   Here is his year-on-year stats\n\t\n\t \n\n\n\n\tBy playoff season\n\n\n\n\t2022: 1 game — 5 carries, 13 yards\n\n\n\n\t2023: 2 games — 36 carries, 140 yards\n\n\n\n\t2024: 3 games — 53 carries, 272 yards, 3 TDs\n\n\n\n\t2025: 2 games — 39 carries, 163 yards\n\n\n\n\tTotal: 145 carries, 627 yards, 4 rushing TDs in 9 games.\n\n\n\n\t \n\n\n\n\tBrady has to figure how to use Cook and make him successful in the playoffs.    Success of this team in the playoffs depends as much on success of James Cook.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-18T22:04:12.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266144-james-cook-in-the-playoffs/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-veteran-dl-greg-gaines",
@@ -977,28 +867,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-18T00:10:25Z",
       "link": "https://www.espn.com/nfl/story/_/id/49643423/new-grass-field-held-well-opener-bills-president-says"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266124-buffalo-1-nfl-fandom-index/",
-      "team": "bills",
-      "title": "Buffalo #1 NFL Fandom Index",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-17T22:32:36.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266124-buffalo-1-nfl-fandom-index/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266123-bills-browns-joint-practice-ground-rules-and-news/",
-      "team": "bills",
-      "title": "Bills-Browns Joint Practice Ground Rules and News",
-      "summary": "Browns HC Todd Monken spoke with the media today and laid out the ground rules that he and Bills HC Joe Brady agreed to for Thursday's Joint Practice:\n\n\n\n\t \n\n\n\n\t\"Monken said that the plan is for both teams to use their starters in the joint practice and then keep them on the bench Saturday.\"\n\n\n\n\t \n\n\n\n\thttps://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-we-wont-play-starters-against-bills-if-we-see-what-we-want-in-joint-practice",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-17T20:47:29.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266123-bills-browns-joint-practice-ground-rules-and-news/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-ilb-otis-reese-iv",
@@ -1122,17 +990,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-22-luke-osburn/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266086-jayden-daniels-cease-and-desist-letter-to-lsu-over-letting-someone-wear-his-5/",
-      "team": "bills",
-      "title": "Jayden Daniels cease and desist letter to LSU over letting someone wear his #5",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-13T06:44:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266086-jayden-daniels-cease-and-desist-letter-to-lsu-over-letting-someone-wear-his-5/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/athletes-in-focus/45146/ssfc-spotlight-neil-pierre-is-the-new-sensation",
       "team": "usmnt",
       "title": "SSFC Spotlight: Neil Pierre is the new sensation",
@@ -1188,17 +1045,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-23-gavin-mccarthy/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266047-major-act-to-perform-at-halftime-of-home-opener-versus-the-lions/",
-      "team": "bills",
-      "title": "Major Act to Perform at Halftime of Home Opener Versus the Lions?",
-      "summary": "Rochester, NY Buffalo Bills Backers\n\n\n\n\t1͏h͏ ·\n\n\n\n\t#BREAKING: The Buffalo Bills are reportedly finalizing a “massive and familiar” musical act to perform at halftime for their home opener at the new Highmark Stadium on Thursday, 9/17 vs. the Detroit Lions, per Due Champions.\n\n\n\n\t \n\n\n\n\tMassive and Familiar? The Goo Goo Dolls or the Killers?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-10T16:59:17.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266047-major-act-to-perform-at-halftime-of-home-opener-versus-the-lions/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-10/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 8/10",
@@ -1232,17 +1078,6 @@
       "link": "https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/",
-      "team": "bills",
-      "title": "Is Jim Leonhard actually our prized offseason acquisition",
-      "summary": "Welp, training camp is underway, we are getting our first peek at new rookie players, players returning from injury that limited their contributions last years, Free Agents etc... Is Jim Leonhard actually going to be the one that has the biggest overall impact on this team... more aggressive defense, using personnel better situationally, great teacher, more fun to watch defense instead of the slow death by 1000 passes and runs drives.... or will he struggle because we need personnel change, system continuity, rookie DC needs to learn etc...  I am holding out hope that he will be the guy we talk about at the end of the year that has had the biggest impact...  Who do you feel will be the person acquired in the offseason that we will look back on and say yeah, this guy was the one.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-03T13:02:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/"
-    },
-    {
       "id": "espn-sabres::49488419",
       "team": "sabres",
       "title": "NHL rookie roundtable: Gavin McKenna and other top rookies answer burning questions",
@@ -1274,17 +1109,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-30T16:35:41.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/",
-      "team": "bills",
-      "title": "Other Training Camps and News Around The League",
-      "summary": "Figured we could have a one-stop-shop for all other news around the league. \n\n\n\n\t \n\n\n\n\tI'll start with this one:\n\n\n\n\t \n\n\n\n\tTua should have retired already.\n\n\n\n\t \n\n\n\n\thttps://www.espn.com/nfl/story/_/id/49479437/tua-tagovailoa-flare-falcons-add-cooper-rush\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tAtlanta Falcons quarterback Tua Tagovailoa is sidelined with what the team considers a \"flare-up\" of an undisclosed injury, according to coach Kevin Stefanski.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThe Falcons did not reveal the nature of Tagovailoa's injury Wednesday, but sources told ESPN's Adam Schefter that the veteran quarterback is dealing with a tight back.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tWith Tagovailoa and Michael Penix Jr. both out, sources told Schefter that the Falcons are signing Cooper Rush to strengthen their suddenly injury-ravaged quarterback room.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-29T15:11:04.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
@@ -1351,39 +1175,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T18:08:38Z",
       "link": "https://www.espn.com/nhl/story/_/id/49367105/champion-hurricanes-open-nhl-season-panthers"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/",
-      "team": "bills",
-      "title": "Lions CB Terrion Arnold facing multiple felony charges - potential life in prison",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-06-25T03:03:59.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265678-lions-cb-terrion-arnold-facing-multiple-felony-charges-potential-life-in-prison/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/",
-      "team": "bills",
-      "title": "Vrabel and Russini cheating on their spouses together ? Rumor",
-      "summary": "Will the NFL investigate adultery - gate?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-04-08T01:53:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/248591-former-1st-round-12-pick-henry-ruggs-3-to-10-yrs-prison-for-drunk-driving-fatal-crash/",
-      "team": "bills",
-      "title": "Former 1st round #12 pick Henry Ruggs: 3 to 10 yrs prison for drunk driving fatal crash",
-      "summary": "https://www.espn.com/nfl/story/_/id/38162272/ex-raiders-wr-henry-ruggs-iii-sentenced-3-10-years-fatal-dui\n\n\n\n\t \n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\tRuggs, 24, had been under house arrest with alcohol and location electronic monitoring devices since pleading guilty in May to one count of DUI resulting in death and one count of misdemeanor vehicular manslaughter in the crash that killed Tina Tintor and her dog, Max. On Wednesday, Ruggs read from a statement directed at Tintor's family in which he apologized for his actions.\n\t\t\n\n\t\t\n\t\t\t\"To the parents and family of Ms. Tintor, I sincerely apologize for the pain and suffering,\" Ruggs said.\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tPretty sure Ms Tintor's family don't think 3 years is nearly enough punishment for burning her alive.\n\t\n\tRuggs got what his attorneys asked for:\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\tIn court documents filed before the sentencing hearing, Ruggs' attorneys had asked the judge to keep the duration of their client's prison time to a range of three to 10 years. Chesnoff and Richard Schonfeld said Ruggs \"wishes that he could turn back time and change the outcome of the tragic events of November 2, 2021.\"\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tI'm sure he does, what with being cut from the team and losing his career and all.  But he can't.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2023-08-10T03:59:56.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/248591-former-1st-round-12-pick-henry-ruggs-3-to-10-yrs-prison-for-drunk-driving-fatal-crash/"
     }
   ]
 }
