@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:58:18.994Z",
+  "generatedAt": "2026-08-24T18:52:17.707Z",
   "sources": [
     {
       "id": "bills-official",
@@ -55,14 +55,14 @@
       "label": "Die By The Blade",
       "team": "sabres",
       "itemCount": 0,
-      "error": "HTTP 403"
+      "error": "This operation was aborted"
     },
     {
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "HTTP 403"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "sportsnet-nhl",
@@ -176,6 +176,50 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266192-pats-trade-kayshon-boutte-to-texans/",
+      "team": "bills",
+      "title": "Pats trade Kayshon Boutte to Texans",
+      "summary": "This is actually kind of annoying. Boutte is a legit WR and a better player than Jayden Higgins at this point in their careers. So this is a net improvement for the Texans WR room and makes our week 1 matchup a bit more challenging. At least we'll get them early before he has a chance to develop chemistry with Stroud.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T18:53:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266192-pats-trade-kayshon-boutte-to-texans/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Pre-Season Game 2 at CLE on 8/22 at 1 PM ET",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T18:32:49.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138967/projecting-buffalo-bills-2026-practice-squad-before-steelers-preseason-game",
+      "team": "bills",
+      "title": "Projecting Buffalo Bills 2026 practice squad before Steelers preseason game",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T18:06:00.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138967/projecting-buffalo-bills-2026-practice-squad-before-steelers-preseason-game"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138956/trent-sherfield-making-case-for-buffalo-bills-roster-spot",
+      "team": "bills",
+      "title": "Wide receiver Trent Sherfield making a case for Buffalo Bills roster spot",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T18:01:39.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138956/trent-sherfield-making-case-for-buffalo-bills-roster-spot"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -207,17 +251,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-24T17:20:25.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266191-could-ray-davis-be-trade-bait/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Pre-Season Game 2 at CLE on 8/22 at 1 PM ET",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T17:13:19.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
@@ -253,17 +286,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45196/usmnt-midweek-viewing-guide-getting-underway"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138967/projecting-buffalo-bills-2026-practice-squad-before-steelers-preseason-game",
-      "team": "bills",
-      "title": "Projecting Buffalo Bills 2026 practice squad before Steelers preseason game",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T15:51:51.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138967/projecting-buffalo-bills-2026-practice-squad-before-steelers-preseason-game"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266188-august-24th-practice_pc-updates/",
       "team": "bills",
       "title": "August 24th Practice_PC' Updates.",
@@ -295,17 +317,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-24T14:08:38.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266185-deshaun-watson-named-starter/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138956/trent-sherfield-making-case-for-buffalo-bills-roster-spot",
-      "team": "bills",
-      "title": "Wide receiver Trent Sherfield making a case for Buffalo Bills roster spot",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T14:03:05.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138956/trent-sherfield-making-case-for-buffalo-bills-roster-spot"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138730/buffalo-bills-2026-scouting-report-safety-cole-bishop",
@@ -561,17 +572,6 @@
       "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266177-good-night-bad-night-pre-season-game-2/",
-      "team": "bills",
-      "title": "Good Night / Bad Night - Pre-season Game 2",
-      "summary": "The Bills thrashed the Browns to move to 2-0 in pre-season. Brandon Beane said they wanted to decide any remaining starter battles this week, so let's get into how things looked. \n\n\n\n\t \n\n\n\n\tGood Night for...\n\n\n\n\t \n\n\n\n\tKyle Allen - It's fair to say I am not Kyle Allen's biggest fan, but over the past two weeks he has played well enough to a) remove any hint of competition for the backup spot and b) give his teammates and coaches some confidence, one would presume, that he can go into a game and perform if needed. He layered one really nice throw into Trent Sherfield between defenders in the second quarter that was the highlight of his day - but he has also done a really nice job both weeks with executing play action - especially where the Bills roll him out and give him half field reads. I'm not sure how sustainable that plan is if you have to use it multiple weeks... but give him his due this has been a good pre-season.\n\n\n\n\t \n\n\n\n\tTylan Grable - Grable wasn't perfect on the night but he demonstrated he is healthy enough to play and also that he is a better NFL tackle right now that rookie Jude Bowry. He is clearly the Bills OT3 going into the season and will be that important swing guy should anything happen to either starter. The key for him now is staying clear of injuries which have affected him the past two seasons. \n\n\n\n\t \n\n\n\n\tTrent Sherfield - Sherfield had four receptions for 54 yards and was clearly the de-facto #1 on the night for Kyle Allen. And I am starting to see a route to the roster, even if it is a narrow path. The Bills top five receivers are set (Moore, Coleman, Shakir, Palmer, Bell) but there is potentially a 6th spot available. If they do keep a 6th receiver it is because that guy contributes in some way on special teams. I still see Mercole Hardman having the inside track to be their punt returner, however, the Bills clearly would like Ray David to add punt returning to his all pro kick returning from 2025.... which would open that spot up. And we know Sherfield is a really solid special teamer on coverage teams. That is his only path - as the 6th receiver who plays teams and is a break glass in case of emergency pass catcher... but I am more open to the idea than I was 2 weeks ago. \n\n\n\n\t \n\n\n\n\tKaleb Elams-Orr - Some people were predictably upset when I said he had a poor game last Saturday, but it's a fact. He did. No such problems tonight. I thought he looked way more like the player we have seen clips of from camp - fast, decisive and powerful. Interesting also that he started the game with Keonta Jenkins and then they were replaced by Dorian Williams partnering Joe Andreessen. I'm not sure if that was just the Bills wanting to look at different combinations and actually other than Jenkins (who was rough in coverage) they all did pretty well. Would they consider KEO and Bernard (both of whom they seem to want at MIKE) as a possible starting combo? Not sure, but I think the second starting inside 'backer is one of the most intriguing questions still to be answered.\n\n\n\n\t \n\n\n\n\tTommy Doman - When you draft a specialist (kicker or punter) you always presume that person is likely to end up the starter. We didn't get a chance to see either Doman or the veteran Mitch Wishnowsky punt last week vs the Panthers but both punted really nicely tonight. Doman had a good first half and then Wishnowsky with one attempt hit a 59 yarder in the second half. But ties in this race go to Doman and his holding for Tyler Bass (which he did not do in college) has been on point so far too. I feel a bit for Wishnowsky who is definitely good enough to start somewhere (he was 7th in the League for percentage of punts inside the 20 last year) but the rook looks good and the Bills haven't really had a consistent reliable multiple year punter since Brian Moorman moved on. \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tBad Night for...\n\n\n\n\t \n\n\n\n\tDefensive Line Position Battle - I'll start with the most important negative of the night which is that in at least a couple of the Bills big starting position battles we are still not seeing much separation. On the defensive line TJ Sanders had a couple of nice plays early, and Landon Jackson had a good tackle for loss in a goalline scenario but both look to me more like rotational pieces than starters right now. Sanders had some run defense reps he'd want back and Landon is getting almost zero change in pass rush scenarios. Can they get enough production by platooning the two next to Oliver and Walker? Maybe. But right now this is the weakest starting spot on the team. \n\n\n\n\t \n\n\n\n\tLeft Guard Position Battle - And left guard is only just behind as a position battle of concern. I didn't think either Alec Anderson or Austin Corbett looked great. Indeed I think there is an argument to be made that the best guard on display for the Bills tonight was Nick Broeker (who played well last week too but remains marooned with the 3rd stringers) cosely followed by rookie Ar'maj Reed-Adams whose pass pro in particular was nice and solid. If you tell me I have to choose one of Anderson or Corbett to start week 1 right now I'm probably going Anderson just for familiarity with what we run but not with much confidence and I'd definitely be inclined to keep Reed-Adams on the 53 and maybe even let him work his way onto the field at some point if the older guys aren't producing. I still think it is impossible that Corbett (if he doesn't win the job) is cut by the way and they try and stash him on the PS as he won't be subject to waivers.\n\n\n\n\t \n\n\n\n\tGeno Stone - I liked the Stone signing when they made it. The idea of an experience vet who has started plenty of games behind Bishop and Gardner-Johnson felt like a sensible insurance policy. Others did, at the time, point out he has started on the Bengals defense the last two years - which should be enough reason to stay away. They might have been right. I thought he was below average last week and worse tonight. Totally lost in coverage, and gave up yards after contact when whiffing on a tackle. He is moving into roster danger territory for me at this point. Although the fact that Hamlin hasn't been much better might save him.\n\n\n\n\t \n\n\n\n\tJude Bowry - Bowry had a rough debut last week at left tackle and was this week switched to the right side. That doesn't have to be a result of his struggles, it could have been a plan given they are essentially looking for their #1 swing tackle. But this was another poor display. Bowry was my OT9 in the draft but I did wonder whether foot speed might necessitate a move inside at the NFL level. Given they are not getting what they need at left guard I'd like to see Bowry play some inside reps in pre-season game three - because he has given up sacks where his feet have got stuck and guys have breezed past him both weeks at tackle. Right now he looks a major project. \n\n\n\n\t \n\n\n\n\tJordan Hancock - I don't think it's been the pre-season Hancock would have hoped for to this point either. Any thought about him pushing Dee Alford for the #1 nickel job is long since dismissed, despite the Bills seemingly committing playing that spot rather than safety where he was used last season. He has looked a little lost in coverage through two games. The Browns touchdown was something of a communication breakdown between Hancock and Kani Walker (who came to earth with a bump this week too) but it one of them definitely misplayed their responsibility - looked to me like it was Jordan. He also missed a tackle on a swing pass which given the emphases Jim Leonhard has put on tackling is not going to win him many admirers in the building.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tOne more to go... let's see if the Bills confirm any starting jobs this week!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T21:39:08.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266177-good-night-bad-night-pre-season-game-2/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266176-winners-and-losers-browns-game/",
       "team": "bills",
       "title": "Winners and Losers Browns Game",
@@ -638,17 +638,6 @@
       "link": "https://www.buffalobills.com/news/statement-from-the-buffalo-bills-on-ed-oliver"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266173-bills-browns-preseason-week-2-gdt/",
-      "team": "bills",
-      "title": "Bills @ Browns - preseason week 2 GDT",
-      "summary": "This makes me happy.  \n\t \n\n\n\n\tEager to see how the kids do today.\n\n\n\n\t \n\n\n\n\tFrank Gore Jr vs Ian Wheeler (vs Ty Johnson)?  I love Ty, but the thought of saving 2.5M if he’s banged up going into the season could be interesting if Gore and Wheeler continue to show out.  Pass protection could be the key to keeping him.  Neither are very good in that dept.\n\n\n\n\t \n\n\n\n\tKyle vs Shane- can Kyle build on a solid performance vs Carolina?\n\n\n\n\t \n\n\n\n\tBass-  ugh.  \n\t \n\n\n\n\tJude Bowery vs Tylan Grable\n\n\n\n\t \n\n\n\n\tCan Ar’maj Reed Adams earn a roster spot.  The kid played pretty well last week.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T14:19:48.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266173-bills-browns-preseason-week-2-gdt/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/where-to-watch-stream-listen-bills-vs-browns-2026-preseason-week-2",
       "team": "bills",
       "title": "Where to watch, stream & listen | Bills vs. Browns | 2026 Preseason Week 2",
@@ -691,6 +680,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-21T15:34:06.000Z",
       "link": "https://www.starsandstripesfc.com/latest-news/45234/concacaf-and-uefa-eye-joint-nations-league"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/rochester-hires-philip-samuelsson-as-assistant-coach/",
+      "team": "sabres",
+      "title": "Rochester hires Philip Samuelsson as assistant coach",
+      "summary": "The Rochester Americans on Thursday named Philip Samuelsson, who recently retired following a 15-year pro career as a defenseman, as an assistant coach.\nHe replaces Nathan Paetsch, who earlier this month left the Buffalo Sabres’ AHL affiliate to become head coach of the Youngstown Phantoms.\nSamuelsson, 35, played nearly 900 games as a pro, including 13 in the NHL and 512 in the AHL.\n\nHis father, Ulf, a former defenseman, spent 16 seasons in the ... Read the full article \nThe post Rochester hires Philip Samuelsson as assistant coach first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-21T15:16:04.000Z",
+      "link": "https://www.buffalohockeybeat.com/rochester-hires-philip-samuelsson-as-assistant-coach/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/5-players-to-watch-in-bills-vs-browns-preseason-week-2-2026",
@@ -768,6 +768,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-21T11:53:18.000Z",
       "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266162-o-line-looking-rough/",
+      "team": "bills",
+      "title": "O-Line Looking Rough",
+      "summary": "Overall, the team looked really good in the first preseason game.  There was a lot of focus on the Defense and the Receivers playing well.\n\n\n\n\tThe one rough area was in pass blocking, where both Dion Dawkins and Spencer Brown in particular had a very difficult time.\n\n\n\n\t \n\n\n\n\tWord out of the joint practice with the Browns yesterday is that pass blocking was once again a problem, with Allen forced out of the pocket multiple times on would-be sacks.\n\n\n\n\t \n\n\n\n\tAs the offseason had progressed, the retirement of Aaron Kromer has been somewhat forgotten.  The only loss we had in the offseason was at Left Guard, and it doesn't sound like anyone is standing out trying to win that job.  Connor McGovern has been injured and sounds iffy for Week 1.  Dawkins lost a lot of weight in the offseason... which could be a good thing, but also could impact his strength.  Brown had knee surgery in the offseason.\n\n\n\n\t \n\n\n\n\tO-Line has been a consistent spot for the last several years.  Anyone else starting to worry a little that it may end up being a weak point this year?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-21T11:37:55.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266162-o-line-looking-rough/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266161-is-bass-done/",
@@ -979,6 +990,17 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/45212/usmnt-defender-mark-mckenzie-reportedly-returning-to-mls"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266144-james-cook-in-the-playoffs/",
+      "team": "bills",
+      "title": "James Cook in the Playoffs",
+      "summary": "We have been saying what Josh Allen needs to do to win in the playoffs and take us to the SB (and win it).\n\n\n\n\t \n\n\n\n\tI think equally important is the performance of James Cook in the Playoffs.  While James has had fantastic regular season campaigns, his playoff appearances have been that great (except for the games against Denver and KC in 2024 Playoffs).   Here is his year-on-year stats\n\t\n\t \n\n\n\n\tBy playoff season\n\n\n\n\t2022: 1 game — 5 carries, 13 yards\n\n\n\n\t2023: 2 games — 36 carries, 140 yards\n\n\n\n\t2024: 3 games — 53 carries, 272 yards, 3 TDs\n\n\n\n\t2025: 2 games — 39 carries, 163 yards\n\n\n\n\tTotal: 145 carries, 627 yards, 4 rushing TDs in 9 games.\n\n\n\n\t \n\n\n\n\tBrady has to figure how to use Cook and make him successful in the playoffs.    Success of this team in the playoffs depends as much on success of James Cook.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-18T22:04:12.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266144-james-cook-in-the-playoffs/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-veteran-dl-greg-gaines",
       "team": "bills",
       "title": "Bills sign veteran DL Greg Gaines",
@@ -1012,17 +1034,6 @@
       "link": "https://www.starsandstripesfc.com/hot-takes/45208/the-fall-of-captain-america-and-the-return-of-christian-pulisic"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266134-interesting-comment-from-leonhards-presser-today/",
-      "team": "bills",
-      "title": "Interesting comment from Leonhard's presser today",
-      "summary": "I would recommend watching his entire presser if you get a chance. Leonhard is extremely bright and I get more excited about the potential for this defense every time I hear him talk. I'll be shocked if he isn't a head coach within three years.\n\n\n\n\t \n\n\n\n\tThis particular comment jumped out and feels instructive about where the defense is going:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\tJim Leonhard with some notable comments on Terrel Bernard:\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\t“He’s so damn smart and sometimes you want him to turn his brain off and just go play free and react to what he sees rather than overthink it. That’s the biggest thing, it was a little more structured in what he was asked to do in the previous scheme. It was very much ‘I see this, I do this’. And just getting him to play a little bit more free was probably the number one thing. If you want to play the way we want up front, ahead of him, he’s gonna have to react a little bit more. And that was the number one thing he’s had to learn.”\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tIt's interesting how Leonhard kind of takes a shot at the previous scheme. That wasn't his intention but it has to be said to get his point across.\n\n\n\n\t \n\n\n\n\tFor all the talk about the change to a 3-4, for me the biggest change is the change in mindset on defense and I think this comment speaks to it. With McDermott it was see the play unfold first, then react according to your strict set of rules. It was a play backwards not forwards kind of mindset that resulted in us giving up a lot of soft yards and frustrating 3rd down conversions. And every year we'd get to the playoffs and smart QBs and offensive coaches would know our rules and mercilessly take advantage of them.\n\n\n\n\t \n\n\n\n\tObviously every defense has keys and rules that the players have to follow but there is a middle ground between reckless and rigid. I think Leonhard has found the right balance and the results will show up in certain players looking better than they have before, the LBs being maybe the biggest beneficiaries of the change.\n\n\n\n\t \n\n\n\n\tEver since Brady took over the mantra of the coaching staff has changed from \"do your 1/11\" to \"play free.\" It's an important distinction. Building a perfectly oiled machine is a nice idea, but great NFL defenses are made by players making plays. And Leonhard understands that his guys will be able to make more plays when they're playing on their toes instead of on their heels.\n\n\n\n\t \n\n\n\n\tFor posterity here's the entire press conference:",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-18T16:08:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266134-interesting-comment-from-leonhards-presser-today/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266127-psl-sth-contract-some-insane-stuff/",
       "team": "bills",
       "title": "PSL STH Contract - Some insane stuff",
@@ -1043,6 +1054,39 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-17T14:25:09.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45193/usmnt-midweek-viewing-guide-season-openers"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-handled-trade-rumors-well-kept-developing/",
+      "team": "sabres",
+      "title": "Sabres prospect Radim Mrtka handled trade rumors well, kept developing",
+      "summary": "BUFFALO – When word leaked in early March the Sabres would deal defense prospect Radim Mrtka to the St. Louis Blues if veteran defenseman Colton Parayko waived his no-trade clause, Seattle Thunderbirds coach Matt O’Dette said he and his assistants checked in on the youngster.\nTheir message to Mrtka, 19, was simple: control what you can control.\n“He handled it really well,” O’Dette told the Times Herald. “He’s pretty, in a lot of ways, ... Read the full article \nThe post Sabres prospect Radim Mrtka handled trade rumors well, kept developing first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-17T11:00:17.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-handled-trade-rumors-well-kept-developing/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-trade-prospect-stiven-sardarian-to-hurricanes/",
+      "team": "sabres",
+      "title": "Sabres trade prospect Stiven Sardarian to Hurricanes",
+      "summary": "The Buffalo Sabres today traded the rights to unsigned forward prospect Stiven Sardarian to the Carolina Hurricanes in exchange for future considerations.\nSardarian, who has played the last four seasons in the NCAA, was eligible to become an unrestricted free agent Saturday. The Russian, however, did not submit paperwork to NHL Central Registry indicating he is no longer an undergraduate student, according to Puckpedia.com.\nHe will remain on a reserve list until paperwork is filed, ... Read the full article \nThe post Sabres trade prospect Stiven Sardarian to Hurricanes first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-17T05:51:53.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-trade-prospect-stiven-sardarian-to-hurricanes/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/ex-sabres-star-jeff-skinner-finds-home-overseas-buffalo-adds-to-hockey-staff/",
+      "team": "sabres",
+      "title": "Ex-Sabres star Jeff Skinner finds home overseas; Buffalo adds to hockey staff",
+      "summary": "Winger Jeff Skinner, who will count $6.4 million against the Buffalo Sabres’ salary cap in the upcoming season, has signed a one-year contract with EHC Biel, a team in the Swiss League.\nSkinner, 34, played 32 games for the San Jose Sharks last season, scoring six goals and 13 points before having his one-year contract terminated.\nAfter the Sabres exercised a buyout for final three seasons of his eight-year, $72 million contract following the ... Read the full article \nThe post Ex-Sabres star Jeff Skinner finds home overseas; Buffalo adds to hockey staff first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-15T05:41:58.000Z",
+      "link": "https://www.buffalohockeybeat.com/ex-sabres-star-jeff-skinner-finds-home-overseas-buffalo-adds-to-hockey-staff/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45189/what-to-watch-for-club-vs-country-the-usmnt-goes-back-to-work",
@@ -1078,6 +1122,28 @@
       "link": "https://www.twobillsdrive.com/community/topic/266072-buffalo-bills-games-now-most-expensive-to-attend-in-nfl-study-shows/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/",
+      "team": "sabres",
+      "title": "Sabres set to induct Jason Pominville, Thomas Vanek into Hall of Fame Jan. 14",
+      "summary": "Jason Pominville and Thomas Vanek will be inducted into the Buffalo Sabres Hall of Fame prior to the Jan. 14 game against the Colorado Avalanche at KeyBank Center, the team announced today.\nThe former captains and high-scoring wingers entered the NHL together in 2005-06 and will become the 45th and 46th members of the team’s hall of fame.\nDuring a reunion last season of the beloved team they starred for as rookies, the Sabres surprised ... Read the full article \nThe post Sabres set to induct Jason Pominville, Thomas Vanek into Hall of Fame Jan. 14 first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-12T14:58:20.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/nathan-paetsch-leaves-rochester-for-head-coaching-job-in-youngstown/",
+      "team": "sabres",
+      "title": "Nathan Paetsch leaves Rochester for head coaching job in Youngstown",
+      "summary": "Nathan Paetsch, who spent the last three seasons as an assistant coach with the Rochester Americans, has left the Buffalo Sabres’ AHL affiliate to become head coach of the Youngstown Phantoms.\nThe Phantoms, a junior team, play in the United States Hockey League. Ryan Ward, their last coach, recently moved up to the AHL to become an assistant with the Providence Bruins.\nPaetsch, 43, spent 17 seasons in Buffalo’s organization as player, assistant coach ... Read the full article \nThe post Nathan Paetsch leaves Rochester for head coaching job in Youngstown first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-11T16:02:09.000Z",
+      "link": "https://www.buffalohockeybeat.com/nathan-paetsch-leaves-rochester-for-head-coaching-job-in-youngstown/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266019-the-sean-mcdermott-stalking-your-ex-thread/",
       "team": "bills",
       "title": "The Sean McDermott stalking your ex thread",
@@ -1087,6 +1153,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-07T21:23:50.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266019-the-sean-mcdermott-stalking-your-ex-thread/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/",
+      "team": "sabres",
+      "title": "After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers",
+      "summary": "In his early days as a coach, Jay McKee said he visualized success the same way he had as a player. The popular former defenseman, a linchpin on some beloved Buffalo Sabres teams in the late 1990s and early 2000s, wanted to reach the highest level as quickly as possible.\n“As a former athlete … you strive to be at the top level,” said McKee, who played his first NHL game at 18 and secured ... Read the full article \nThe post After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T15:19:03.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/"
     },
     {
       "id": "espn-sabres::49488419",
@@ -1100,6 +1177,28 @@
       "link": "https://www.espn.com/nhl/story/_/id/49488419/nhl-rookie-roundtable-gavin-mckenna-porter-martone-other-top-rookies-answer-burning-questions"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/",
+      "team": "sabres",
+      "title": "Blue Jackets hire former Sabres coach Don Granato as assistant",
+      "summary": "Former Buffalo Sabres coach Don Granato is back in the NHL.\nThe Columbus Blue Jackets on Thursday named Granato an assistant coach on Rick Bowness’ staff.\nGranato, 58, most recently led Team USA’s entry in the World Championship in the spring, his first head coaching gig since his dismissal from the Sabres following a sixth-place finish in the Atlantic Division in 2023-24.\n\nAfter arriving in Buffalo as an assistant in 2019, he led the Sabres ... Read the full article \nThe post Blue Jackets hire former Sabres coach Don Granato as assistant first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T05:29:38.000Z",
+      "link": "https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/",
+      "team": "sabres",
+      "title": "Sabres to host Prospects Showcase rookie games Sept. 13 and 14",
+      "summary": "The Buffalo Sabres’ annual preseason rookie tournament will have a different look this year.\nThe Sabres announced today they will host a two-game Prospects Showcase against the Boston Bruins on Sept. 13 and 14 at LECOM Harborcenter.\nBeginning in 2015, the Sabres annually hosted the Prospects Challenge, a tournament that featured five or six teams.\n\nTicket information and rosters will be released at a later date.\nThe Sabres will play two games in Boston ahead ... Read the full article \nThe post Sabres to host Prospects Showcase rookie games Sept. 13 and 14 first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-30T16:35:41.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/",
       "team": "bills",
       "title": "Other Training Camps and News Around The League",
@@ -1109,6 +1208,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-29T15:11:04.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
+      "team": "sabres",
+      "title": "Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin",
+      "summary": "BUFFALO – University of Wisconsin coach Mike Hastings said he sometimes tells Sabres defense prospect Luke Osburn to take a break and stay off the ice.\nWhile Osburn’s strong work ethic is one of greatest strengths – “The standard he sets for himself is at an elite level,” Hastings told the Times Herald – he occasionally needs to take a step back.\n“He’s a very good self-evaluator,” Hastings said. “He’s one of those few players, ... Read the full article \nThe post Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-28T21:39:04.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/"
     },
     {
       "id": "espn-sabres::49424745",
