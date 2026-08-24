@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T14:04:56.705Z",
+  "generatedAt": "2026-08-24T15:00:55.656Z",
   "sources": [
     {
       "id": "bills-official",
@@ -40,8 +40,8 @@
       "id": "twobillsdrive",
       "label": "TwoBillsDrive",
       "team": "bills",
-      "itemCount": 20,
-      "error": null
+      "itemCount": 0,
+      "error": "fetch failed"
     },
     {
       "id": "espn-sabres",
@@ -176,6 +176,61 @@
   ],
   "stories": [
     {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-24/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Open Thread, Wk of 8/24",
+      "summary": "Still in the doldrums of the summer, though things will start picking up in the next week or so with Labor Day coming up and the kids going back to school, which then tells us that fall is edging ever closer. \n\n\n\nTage Thompson made the list of NHL Network’s top 20 centers, albeit not too high on that list coming in at #19. Dylan Larkin who is a rumoured trade target given that he wants out of Detroit is 20th on this list. Also interesting is that Robert Thomas, who the Sabres were looking to trade for, is not on the list at all. \n\n\n\nYour question for the week is a good one – If you could bring back one former Sabre in his prime to join the current roster, who would it be?",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T14:50:35.000Z",
+      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-24/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T14:07:27.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T14:06:38.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138956/trent-sherfield-making-case-for-buffalo-bills-roster-spot",
+      "team": "bills",
+      "title": "Wide receiver Trent Sherfield making a case for Buffalo Bills roster spot",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T14:03:05.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138956/trent-sherfield-making-case-for-buffalo-bills-roster-spot"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138730/buffalo-bills-2026-scouting-report-safety-cole-bishop",
+      "team": "bills",
+      "title": "Buffalo Bills 2026 scouting report: safety Cole Bishop",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T14:02:38.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138730/buffalo-bills-2026-scouting-report-safety-cole-bishop"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/",
       "team": "sabres",
       "title": "Buffalo Bills/NFL Offseason Thread: Pre-Season Game 2 at CLE on 8/22 at 1 PM ET",
@@ -198,50 +253,6 @@
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
-      "team": "sabres",
-      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T12:48:03.000Z",
-      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266184-where-will-allen-end-up-on-all-time-rushing-td-list/",
-      "team": "bills",
-      "title": "Where will Allen end up on all time rushing TD list?",
-      "summary": "The running game will continue to be dominant, but I expect less rushing yards and TDs. I think Allen will have a career year in passing TDs, but still pump out anywhere from 8-12 ground scores. When it’s all said & done, he will demolish the rushing TD record for QBs and top 10 all time period. He’s already 23rd all time and HALFWAY thru his career. That is crazy and not talked about enough.\n\t \n\n\n\n\tJalen Hurts has 63 and is Allen’s closest competition. Both great runners. People tend to dismiss the tush push as easy “gimme” TDs. That’s straight BS. Both QBs have incredible lower body strength. Probably the 2 strongest in the NFL.\n\t \n\n\n\n\tAsk any HOF RB. Those short TDs on the goal line are not a walk in the park. Just so happens Allen is a Mack truck w/ legs. And not are all short yardage. He’s 5th all time in YPC. Another insane feat. \n\t \n\n\n\n\tI’ll be modest and say Allen will average 7 rushing TDs per year until his retirement at 37 (being modest again.) He’ll have a 2-3 more double digit years and slow down for the remainder as his game progresses into more of a “pocket” QB. \n\t \n\n\n\n\tSo he currently has 79. Add 49 (don’t tell me it isn’t possible, Allen hasn’t lost a step  in speed and QB’s can play much longer) and that puts him at 128 which is 3rd all time behind Emmitt Smith (164) and LT (145.)\n\n\n\n\t \n\n\n\n\tDerrick Henry is still chugging along (122) and will most certainly find his way into the 3rd spot. I give him a 75% shot at surpassing LT and 20% for Emmitt. He’s 32, but has shown zero signs of slowing down coming off a 1500+ 16 TD season. \n\t \n\n\n\n\tWhen it’s all said and done, IMO Allen will be top 5 in rushing TDS solidifying himself as the greatest dual threat and perhaps the greatest pure weapon in NFL history.\n\n\n\n\t \n\n\n\n\tWhat do y’all think? I don’t necessarily want Allen to keep bashing headfirst into a bunch of D-Lineman for the rest of his career, but it would certainly be an awesome accolade to be a top 5 runner and top 15-20 passer of all time. Both very possible. \n\t \n\n\n\n\tEdit: I know we all want Allen to be less of a focal point in the run game, but it’s pretty tough when u need 1-3 yards at the goal line and not go with the sure thing.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T12:46:56.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266184-where-will-allen-end-up-on-all-time-rushing-td-list/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T12:42:46.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "espn-bills::49664649",
-      "team": "bills",
-      "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
-      "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T12:18:02Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/",
       "team": "sabres",
       "title": "Sabres Prospect Rankings, 2026 Summer edition",
@@ -253,15 +264,15 @@
       "link": "https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/"
     },
     {
-      "id": "espn-bills::49679821",
+      "id": "espn-bills::49664649",
       "team": "bills",
-      "title": "2026 Buffalo Bills: Projecting final 53-man roster",
-      "summary": "New coordinator Jim Leonhard will have some difficult decisions to make at inside linebacker and cornerback.",
-      "source": "ESPN · Alaina Getzenberg",
+      "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
+      "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
+      "source": "ESPN · NFL Nation",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-08-24T10:02:03Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49679821/2026-nfl-season-buffalo-bills-final-roster-projection-depth-chart"
+      "publishedAt": "2026-08-24T03:37:47Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
@@ -308,17 +319,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/138846/bills-news-recapping-bills-vs-browns"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266182-keep-ian-wheeler-cut-ty-johnson/",
-      "team": "bills",
-      "title": "Keep Ian Wheeler cut Ty Johnson?",
-      "summary": "I know the value Ty brings on third downs early and often in the season.  But it seems like at the end of the year he’s banged up / can’t be counted on. Given his cap number, isn’t it better to keep Wheeler, cut Johnson and put the $2M in cap savings towards an in season trade acquisition who might be available in the playoffs or use the space to help reduce the cap burden the team is facing in 2027.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-23T20:27:04.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266182-keep-ian-wheeler-cut-ty-johnson/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-roster/138934/buffalo-bills-53-man-roster-projection-after-preseason-victory-over-browns",
       "team": "bills",
       "title": "Buffalo Bills 53-man roster projection: After preseason victory over Browns",
@@ -328,17 +328,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-23T18:44:43.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-roster/138934/buffalo-bills-53-man-roster-projection-after-preseason-victory-over-browns"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266181-was-breaking-the-playoff-drought-still-your-happiest-bills-related-moment-in-the-past-10-years/",
-      "team": "bills",
-      "title": "Was breaking the playoff drought still your happiest Bills related moment in the past 10 years?",
-      "summary": "I was just thinking about this this morning.  The Bengals beating the Ravens that night to end the drought was my favorite Bills moment in the past 10 years.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tTotally fair to me if it wasn't for you.  Still when Josh was drafted I feel like it was more we'll have to say how it would play out with the fanbase.  Even in the Josh Allen era, the team never really hit their ultimate goal now of a Championship.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tAlso, I know some will say it was anti-climatic how the Bills got in the Playoffs that year.  But to me what made it so rewarding was the team/franchise/fans finally felt like it got a break.  The Bengals win and then the team still had the tiebreaker over the 9-7 Chargers despite losing to them in that infamous Nate Peterman game.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-23T18:33:49.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266181-was-breaking-the-playoff-drought-still-your-happiest-bills-related-moment-in-the-past-10-years/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138921/what-bills-vs-browns-really-tells-us-about-buffalos-depth-chart",
@@ -429,17 +418,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138372/buffalo-bills-2026-scouting-report-kicker-tyler-bass"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266178-will-skyler-bell-be-red-shirted/",
-      "team": "bills",
-      "title": "Will Skyler Bell be \"Red-Shirted\"?",
-      "summary": "There were a lot of posters excited by Skyler Bell's Prospects as a 4th Round Pick that was viewed to have been a little bit of a bargain where we took him.\n\n\n\n\t \n\n\n\n\tThough in Training Camp, it appeared that he would need some time to develop (as Rookies often do) as he was reportedly clearly 5th in the pecking order, behind Keon Coleman and Josh Palmer.\n\n\n\n\t \n\n\n\n\tThen he got hurt:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\tSince then, he's missed both Pre-Season games, the scrimmage against the Browns, and the Bills 2nd scrimmage practice at the stadium. Which is very important development time for a Rookie.\n\n\n\n\t \n\n\n\n\tIt's led me to wonder - will Beane do with him as he's done with other Day 3 Picks and IR him?\n\n\n\n\t \n\n\n\n\tIf he's ready, I personally wouldn't. As doing so woud delay the development process. But this is something Beane is known to do and his injury and missing important training for a Rookie lines up with Beane's M.O. when he has done this in the past.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T23:36:57.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266178-will-skyler-bell-be-red-shirted/"
-    },
-    {
       "id": "espn-bills::49694638",
       "team": "bills",
       "title": "Shedeur Sanders throws TD pass in final chance to win starting QB job but Bills batter Browns 31-7",
@@ -495,28 +473,6 @@
       "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266177-good-night-bad-night-pre-season-game-2/",
-      "team": "bills",
-      "title": "Good Night / Bad Night - Pre-season Game 2",
-      "summary": "The Bills thrashed the Browns to move to 2-0 in pre-season. Brandon Beane said they wanted to decide any remaining starter battles this week, so let's get into how things looked. \n\n\n\n\t \n\n\n\n\tGood Night for...\n\n\n\n\t \n\n\n\n\tKyle Allen - It's fair to say I am not Kyle Allen's biggest fan, but over the past two weeks he has played well enough to a) remove any hint of competition for the backup spot and b) give his teammates and coaches some confidence, one would presume, that he can go into a game and perform if needed. He layered one really nice throw into Trent Sherfield between defenders in the second quarter that was the highlight of his day - but he has also done a really nice job both weeks with executing play action - especially where the Bills roll him out and give him half field reads. I'm not sure how sustainable that plan is if you have to use it multiple weeks... but give him his due this has been a good pre-season.\n\n\n\n\t \n\n\n\n\tTylan Grable - Grable wasn't perfect on the night but he demonstrated he is healthy enough to play and also that he is a better NFL tackle right now that rookie Jude Bowry. He is clearly the Bills OT3 going into the season and will be that important swing guy should anything happen to either starter. The key for him now is staying clear of injuries which have affected him the past two seasons. \n\n\n\n\t \n\n\n\n\tTrent Sherfield - Sherfield had four receptions for 54 yards and was clearly the de-facto #1 on the night for Kyle Allen. And I am starting to see a route to the roster, even if it is a narrow path. The Bills top five receivers are set (Moore, Coleman, Shakir, Palmer, Bell) but there is potentially a 6th spot available. If they do keep a 6th receiver it is because that guy contributes in some way on special teams. I still see Mercole Hardman having the inside track to be their punt returner, however, the Bills clearly would like Ray David to add punt returning to his all pro kick returning from 2025.... which would open that spot up. And we know Sherfield is a really solid special teamer on coverage teams. That is his only path - as the 6th receiver who plays teams and is a break glass in case of emergency pass catcher... but I am more open to the idea than I was 2 weeks ago. \n\n\n\n\t \n\n\n\n\tKaleb Elams-Orr - Some people were predictably upset when I said he had a poor game last Saturday, but it's a fact. He did. No such problems tonight. I thought he looked way more like the player we have seen clips of from camp - fast, decisive and powerful. Interesting also that he started the game with Keonta Jenkins and then they were replaced by Dorian Williams partnering Joe Andreessen. I'm not sure if that was just the Bills wanting to look at different combinations and actually other than Jenkins (who was rough in coverage) they all did pretty well. Would they consider KEO and Bernard (both of whom they seem to want at MIKE) as a possible starting combo? Not sure, but I think the second starting inside 'backer is one of the most intriguing questions still to be answered.\n\n\n\n\t \n\n\n\n\tTommy Doman - When you draft a specialist (kicker or punter) you always presume that person is likely to end up the starter. We didn't get a chance to see either Doman or the veteran Mitch Wishnowsky punt last week vs the Panthers but both punted really nicely tonight. Doman had a good first half and then Wishnowsky with one attempt hit a 59 yarder in the second half. But ties in this race go to Doman and his holding for Tyler Bass (which he did not do in college) has been on point so far too. I feel a bit for Wishnowsky who is definitely good enough to start somewhere (he was 7th in the League for percentage of punts inside the 20 last year) but the rook looks good and the Bills haven't really had a consistent reliable multiple year punter since Brian Moorman moved on. \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tBad Night for...\n\n\n\n\t \n\n\n\n\tDefensive Line Position Battle - I'll start with the most important negative of the night which is that in at least a couple of the Bills big starting position battles we are still not seeing much separation. On the defensive line TJ Sanders had a couple of nice plays early, and Landon Jackson had a good tackle for loss in a goalline scenario but both look to me more like rotational pieces than starters right now. Sanders had some run defense reps he'd want back and Landon is getting almost zero change in pass rush scenarios. Can they get enough production by platooning the two next to Oliver and Walker? Maybe. But right now this is the weakest starting spot on the team. \n\n\n\n\t \n\n\n\n\tLeft Guard Position Battle - And left guard is only just behind as a position battle of concern. I didn't think either Alec Anderson or Austin Corbett looked great. Indeed I think there is an argument to be made that the best guard on display for the Bills tonight was Nick Broeker (who played well last week too but remains marooned with the 3rd stringers) cosely followed by rookie Ar'maj Reed-Adams whose pass pro in particular was nice and solid. If you tell me I have to choose one of Anderson or Corbett to start week 1 right now I'm probably going Anderson just for familiarity with what we run but not with much confidence and I'd definitely be inclined to keep Reed-Adams on the 53 and maybe even let him work his way onto the field at some point if the older guys aren't producing. I still think it is impossible that Corbett (if he doesn't win the job) is cut by the way and they try and stash him on the PS as he won't be subject to waivers.\n\n\n\n\t \n\n\n\n\tGeno Stone - I liked the Stone signing when they made it. The idea of an experience vet who has started plenty of games behind Bishop and Gardner-Johnson felt like a sensible insurance policy. Others did, at the time, point out he has started on the Bengals defense the last two years - which should be enough reason to stay away. They might have been right. I thought he was below average last week and worse tonight. Totally lost in coverage, and gave up yards after contact when whiffing on a tackle. He is moving into roster danger territory for me at this point. Although the fact that Hamlin hasn't been much better might save him.\n\n\n\n\t \n\n\n\n\tJude Bowry - Bowry had a rough debut last week at left tackle and was this week switched to the right side. That doesn't have to be a result of his struggles, it could have been a plan given they are essentially looking for their #1 swing tackle. But this was another poor display. Bowry was my OT9 in the draft but I did wonder whether foot speed might necessitate a move inside at the NFL level. Given they are not getting what they need at left guard I'd like to see Bowry play some inside reps in pre-season game three - because he has given up sacks where his feet have got stuck and guys have breezed past him both weeks at tackle. Right now he looks a major project. \n\n\n\n\t \n\n\n\n\tJordan Hancock - I don't think it's been the pre-season Hancock would have hoped for to this point either. Any thought about him pushing Dee Alford for the #1 nickel job is long since dismissed, despite the Bills seemingly committing playing that spot rather than safety where he was used last season. He has looked a little lost in coverage through two games. The Browns touchdown was something of a communication breakdown between Hancock and Kani Walker (who came to earth with a bump this week too) but it one of them definitely misplayed their responsibility - looked to me like it was Jordan. He also missed a tackle on a swing pass which given the emphases Jim Leonhard has put on tackling is not going to win him many admirers in the building.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tOne more to go... let's see if the Bills confirm any starting jobs this week!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T21:39:08.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266177-good-night-bad-night-pre-season-game-2/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266176-winners-and-losers-browns-game/",
-      "team": "bills",
-      "title": "Winners and Losers Browns Game",
-      "summary": "Winners: \n\n\n\n\t \n\n\n\n\tKyle Allen- He’s taken a lot of hits on this site this offseason and preseason and through 2 preseason games it has been unwarranted hate. He looked in control and drove the Bills down the field with a balanced attack\n\n\n\n\t \n\n\n\n\tShane Zylstra- I noticed him last week and again noticed him more this week. He’s been lead blocking, has some soft hands and plays teams. Been around the league but never stuck. Maybe a practice squad guy. \n\t \n\n\n\n\tJa’Mori Maclin- Caught two passes including a 71 yard TD pass and another ball down the sideline at the end of the first half to set up the Bills first score from Kyle Allen. \n\t \n\n\n\n\tAr’maj Reed Adams- Got the start at Right Guard with the team today and got a ton of reps. Thought he looked very good and has impressed in his two chances. People forget that Adams was a highly thought of prospect before his final season at A&M \n\n\n\n\t \n\n\n\n\tDa’Metrious Weatherspoon- Got placed at LT early in the 2nd half and didn’t look out of place at all. A huge man with a big wingspan I thought he was the best OT on the field today for the Bills \n\n\n\n\t \n\n\n\n\tT.J Parker- He is work in progress but unlike last week I felt he affected the game despite getting a sack last week. Better pressure, played the run well. He looked like he was more comfortable. \n\t \n\n\n\n\tLandon Jackson- Affected the run game and got pressure once in the first half. He’s definitely turning the corner to being at minimum a solid rotational piece with good run stopping abilities \n\n\n\n\t \n\n\n\n\tTe’Cory Couch- Been on the Bills PS for a bit and he came up with a big interception in the 2nd half on Watson \n\n\n\n\t \n\n\n\n\tTommy Doman- Out of his punting efforts all but one of his  punts were good. Solid distance and hang time and buried Cleveland with one of his kicks. 2nd punt was by far his worst \n\n\n\n\t \n\n\n\n\tLosers: \n\n\n\n\t \n\n\n\n\tMecole Hardman- Yes he caught a TD pass but also had a huge drop on a Wide open pass and couldn’t gain separation on another 3rd down that was in his hands before it was ripped out\n\n\n\n\t \n\n\n\n\tJude Bowry- So they put him at RT this week and in the first drive looked okay then it all started falling apart for him yet again. He doesn’t look pro ready, let alone the swing tackle. \n\t \n\n\n\n\tTylan Grable- I’m going to give Grable a bit of a pass because he’s been hurt and hasn’t played Tackle in over a year so I’m sure there was a ton of rust but yuck. He’ll be the Swing Tackle because Bowry isn’t ready but I’m hoping to see a lot more improvement next week. \n\t \n\n\n\n\tJoe Andreessen- Look if a guy is in front of him as a run stopper he’s not a bad player. He made a lot of nice plays that a LB should make but the man cannot cover at all. He got extremely lucky on the interception and lacks awareness in his drops as a pass defender. \n\t \n\n\n\n\tGeno Stone- I’ve always liked Stone but he’s been flat out bad through two games here. The Browns picked on him and the other safety who will be named next. He also got beat for the TD last week \n\n\n\n\t \n\n\n\n\tDamar Hamlin- the dynamic duo of safeties was making me want to gag as the Browns backup WRs just picked apart Stone and Hamlin. At this point I’m all for cutting both of them .",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T21:17:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266176-winners-and-losers-browns-game/"
-    },
-    {
       "id": "espn-bills::49694669",
       "team": "bills",
       "title": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
@@ -539,17 +495,6 @@
       "link": "https://www.buffalobills.com/news/bills-31-browns-7-final-score-game-highlights-key-stats-preseason-week-2"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138868/buffalo-bills-stock-up-stock-down-preseason-cleveland-browns",
-      "team": "bills",
-      "title": "Buffalo Bills dominate Cleveland Browns in preseason action",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T20:48:57.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138868/buffalo-bills-stock-up-stock-down-preseason-cleveland-browns"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-17-ashton-schultz/",
       "team": "sabres",
       "title": "Buffalo Sabres Top 25 Under 25: #17: Ashton Schultz",
@@ -567,20 +512,9 @@
       "summary": "The 2-year-old son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
       "source": "ESPN · Cameron Wolfe and Alaina Getzenberg",
       "sourceType": "league",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "publishedAt": "2026-08-22T19:30:23Z",
       "link": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/138863/buffalo-bills-dt-ed-olivers-young-son-has-passed-away",
-      "team": "bills",
-      "title": "Buffalo Bills DT Ed Oliver’s young son has passed away",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T19:29:46.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/138863/buffalo-bills-dt-ed-olivers-young-son-has-passed-away"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
@@ -605,17 +539,6 @@
       "link": "https://www.buffalobills.com/news/statement-from-the-buffalo-bills-on-ed-oliver"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266173-bills-browns-preseason-week-2-gdt/",
-      "team": "bills",
-      "title": "Bills @ Browns - preseason week 2 GDT",
-      "summary": "This makes me happy.  \n\t \n\n\n\n\tEager to see how the kids do today.\n\n\n\n\t \n\n\n\n\tFrank Gore Jr vs Ian Wheeler (vs Ty Johnson)?  I love Ty, but the thought of saving 2.5M if he’s banged up going into the season could be interesting if Gore and Wheeler continue to show out.  Pass protection could be the key to keeping him.  Neither are very good in that dept.\n\n\n\n\t \n\n\n\n\tKyle vs Shane- can Kyle build on a solid performance vs Carolina?\n\n\n\n\t \n\n\n\n\tBass-  ugh.  \n\t \n\n\n\n\tJude Bowery vs Tylan Grable\n\n\n\n\t \n\n\n\n\tCan Ar’maj Reed Adams earn a roster spot.  The kid played pretty well last week.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T14:19:48.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266173-bills-browns-preseason-week-2-gdt/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/where-to-watch-stream-listen-bills-vs-browns-2026-preseason-week-2",
       "team": "bills",
       "title": "Where to watch, stream & listen | Bills vs. Browns | 2026 Preseason Week 2",
@@ -627,17 +550,6 @@
       "link": "https://www.buffalobills.com/news/where-to-watch-stream-listen-bills-vs-browns-2026-preseason-week-2"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266172-buffalo-superbowl/",
-      "team": "bills",
-      "title": "Buffalo Superbowl",
-      "summary": "New stadium, new energy, new team.\n\n\n\n\t \n\n\n\n\tLove the vibes. \n\n\n\n\t \n\n\n\n\tMy 2 cats are rocking the Allen jersey, and I know ya’ll got dogs doing the same.\n\n\n\n\t \n\n\n\n\tThis is it.  It’s not next year at Tops or Wegmans, it’s this year. This is the year you hit the checkout line with something to prove.\n\n\n\n\t \n\n\n\n\tNorth side of the border here…love the new digs, love the people, everything is coming together. \n\n\n\n\t \n\n\n\n\tWhat does a Superbowl look like for fans here that live in WNY?  \n\t \n\n\n\n\tGot to think it’s a once in a lifetime party",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T11:27:08.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266172-buffalo-superbowl/"
-    },
-    {
       "id": "espn-bills::49638556",
       "team": "bills",
       "title": "2026 NFL season: Ranking the best, worst positional groups",
@@ -647,17 +559,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-22T01:24:22Z",
       "link": "https://www.espn.com/nfl/story/_/id/49638556/2026-nfl-season-positional-group-best-worst-quarterbacks-cornerbacks-receivers"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266169-for-our-senior-citizens-ralph-talks-about-the-team-he-started/",
-      "team": "bills",
-      "title": "For our senior citizens. Ralph talks about the team he started",
-      "summary": "Seriously, nevermind the ‘89 Preseason predictions. Ralph talks about our birth up to that time.\n\n\n\n\tEnjoy!\n\n\n\n\t \n\n\n\n\t\n\t\t\n\t\n\n\n\n\te",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T00:28:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266169-for-our-senior-citizens-ralph-talks-about-the-team-he-started/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45233/usmnt-weekend-viewing-guide-were-at-it-again",
@@ -770,39 +671,6 @@
       "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266162-o-line-looking-rough/",
-      "team": "bills",
-      "title": "O-Line Looking Rough",
-      "summary": "Overall, the team looked really good in the first preseason game.  There was a lot of focus on the Defense and the Receivers playing well.\n\n\n\n\tThe one rough area was in pass blocking, where both Dion Dawkins and Spencer Brown in particular had a very difficult time.\n\n\n\n\t \n\n\n\n\tWord out of the joint practice with the Browns yesterday is that pass blocking was once again a problem, with Allen forced out of the pocket multiple times on would-be sacks.\n\n\n\n\t \n\n\n\n\tAs the offseason had progressed, the retirement of Aaron Kromer has been somewhat forgotten.  The only loss we had in the offseason was at Left Guard, and it doesn't sound like anyone is standing out trying to win that job.  Connor McGovern has been injured and sounds iffy for Week 1.  Dawkins lost a lot of weight in the offseason... which could be a good thing, but also could impact his strength.  Brown had knee surgery in the offseason.\n\n\n\n\t \n\n\n\n\tO-Line has been a consistent spot for the last several years.  Anyone else starting to worry a little that it may end up being a weak point this year?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T11:37:55.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266162-o-line-looking-rough/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266161-is-bass-done/",
-      "team": "bills",
-      "title": "Is Bass done?",
-      "summary": "I think so.\n\n\n\n\t\n\t\t\n\t\n\n\n\n\t \n\n\n\n\the hasn’t been effective the last 2 seasons. Call Prater now!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T08:58:16.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266161-is-bass-done/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266160-landon-jackson-revisited/",
-      "team": "bills",
-      "title": "Landon Jackson revisited.",
-      "summary": "Everything I’ve read this summer about Landon Jackson says he is bigger, stronger, healthy, and looking like the player he was in college.  If true, this is great news for the Bills defense.  I was a fan of his in college and thought he could be an impact player for the Bills.  I was extremely disappointed last season that he looked awful before his season ending injury. \n\t \n\n\n\n\tCould he become a key piece of the new defense?  I saw a blurb on SI that Jackson could start ahead of TJ Sanders next to Oliver and Walker and he did start over Sanders in the 1st preseason game.  \n\t \n\n\n\n\tThoughts?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T04:24:06.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266160-landon-jackson-revisited/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/stiven-sardarian-f-88th-overall-2021-michigan-tech-traded-to-car-on-8-17.2835919/",
       "team": "sabres",
       "title": "Stiven Sardarian, F (88th overall, 2021) - Michigan Tech, Traded to CAR on 8/17",
@@ -834,6 +702,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-21T00:33:12.000Z",
       "link": "https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/"
+    },
+    {
+      "id": "espn-bills::49434544",
+      "team": "bills",
+      "title": "2026 Buffalo Bills training camp: Latest intel, updates",
+      "summary": "Follow our updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
+      "source": "ESPN · Alaina Getzenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-20T22:05:42Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/nhl-front-office-confidence-rankings-how-fans-feel-about-every-team-in-2026.3036032/",
@@ -957,17 +836,6 @@
       "link": "https://forums.hfboards.com/threads/olen-zellweger-22-ld-signed-for-3-years-3-1m-aav-acquired-via-trade-from-anaheim.3032655/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266153-jim-leonhard-coaching-clinic/",
-      "team": "bills",
-      "title": "Jim Leonhard Coaching Clinic",
-      "summary": "I admit I was very interested in one of his beliefs in \"less calls, but more adjustments.\" We had Rex Ryan experience so we heard the complaints of \"checks upon checks.\"  \n\n\n\n\t \n\n\n\n\tIt did sound like he's going to teach a lot different from what we have seen at OBD for all those years.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-20T00:22:13.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266153-jim-leonhard-coaching-clinic/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/athletes-in-focus/45204/ssfc-spotlight-taylor-huff-providing-creativity-for-bay-fc",
       "team": "usmnt",
       "title": "SSFC Spotlight: Taylor Huff providing creativity for Bay FC",
@@ -999,17 +867,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-19T19:06:25.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-ranks-no-1-in-nielsen-s-fandom-study"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266149-davison-igbinosun-the-draft-day-hate-was-way-overblown/",
-      "team": "bills",
-      "title": "Davison Igbinosun: The draft day hate was way overblown",
-      "summary": "A lot of folks on here were losing their minds when we drafted Davison Igbinosun, and honestly, the reaction was way overly critical.\n\n\n\n\t \n\n\n\n\tI get where the frustration came from initially. If you watched him at Ohio State, the grabby play and the flags would drive fans batty. But look at the actual body of work—the guy put up great stats, and more importantly, his penalties dropped off dramatically in his final college season once he dialed in the technique.\n\n\n\n\t \n\n\n\n\tEverything we’ve seen out of camp and preseason tells me this kid is a pure competitor. Is he going to get flagged sometimes as a rookie? Probably. Is he going to take some lumps adjusting to NFL receivers? Almost certainly. But what you are getting is pure nastiness, legitimate toughness, and a guy who flat out refuses to back down from anyone. He’s got the ideal physical traits and he’s ridiculously sticky in press-man.\n\n\n\n\t \n\n\n\n\tI mentioned this in another thread, but his real value is going to show up on high-leverage downs. When we dial up a blitz on 3rd-and-medium and the DC needs corners who can get in a receiver's face, disrupt the timing, and hold up on an island for 2.2 seconds to let the rush get home, Igbinosun is built for that exact role.\n\n\n\n\t \n\n\n\n\tYeah, it's just preseason, but you can't teach that kind of edge. I really like what I'm seeing from him so far.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-19T19:01:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266149-davison-igbinosun-the-draft-day-hate-was-way-overblown/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45212/usmnt-defender-mark-mckenzie-reportedly-returning-to-mls",
@@ -1056,17 +913,6 @@
       "link": "https://www.starsandstripesfc.com/hot-takes/45208/the-fall-of-captain-america-and-the-return-of-christian-pulisic"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266134-interesting-comment-from-leonhards-presser-today/",
-      "team": "bills",
-      "title": "Interesting comment from Leonhard's presser today",
-      "summary": "I would recommend watching his entire presser if you get a chance. Leonhard is extremely bright and I get more excited about the potential for this defense every time I hear him talk. I'll be shocked if he isn't a head coach within three years.\n\n\n\n\t \n\n\n\n\tThis particular comment jumped out and feels instructive about where the defense is going:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\tJim Leonhard with some notable comments on Terrel Bernard:\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\t“He’s so damn smart and sometimes you want him to turn his brain off and just go play free and react to what he sees rather than overthink it. That’s the biggest thing, it was a little more structured in what he was asked to do in the previous scheme. It was very much ‘I see this, I do this’. And just getting him to play a little bit more free was probably the number one thing. If you want to play the way we want up front, ahead of him, he’s gonna have to react a little bit more. And that was the number one thing he’s had to learn.”\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tIt's interesting how Leonhard kind of takes a shot at the previous scheme. That wasn't his intention but it has to be said to get his point across.\n\n\n\n\t \n\n\n\n\tFor all the talk about the change to a 3-4, for me the biggest change is the change in mindset on defense and I think this comment speaks to it. With McDermott it was see the play unfold first, then react according to your strict set of rules. It was a play backwards not forwards kind of mindset that resulted in us giving up a lot of soft yards and frustrating 3rd down conversions. And every year we'd get to the playoffs and smart QBs and offensive coaches would know our rules and mercilessly take advantage of them.\n\n\n\n\t \n\n\n\n\tObviously every defense has keys and rules that the players have to follow but there is a middle ground between reckless and rigid. I think Leonhard has found the right balance and the results will show up in certain players looking better than they have before, the LBs being maybe the biggest beneficiaries of the change.\n\n\n\n\t \n\n\n\n\tEver since Brady took over the mantra of the coaching staff has changed from \"do your 1/11\" to \"play free.\" It's an important distinction. Building a perfectly oiled machine is a nice idea, but great NFL defenses are made by players making plays. And Leonhard understands that his guys will be able to make more plays when they're playing on their toes instead of on their heels.\n\n\n\n\t \n\n\n\n\tFor posterity here's the entire press conference:",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-18T16:08:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266134-interesting-comment-from-leonhards-presser-today/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-19-brodie-ziemer-2/",
       "team": "sabres",
       "title": "Buffalo Sabres Top 25 Under 25: #19 Brodie Ziemer",
@@ -1076,17 +922,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-18T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-19-brodie-ziemer-2/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266127-psl-sth-contract-some-insane-stuff/",
-      "team": "bills",
-      "title": "PSL STH Contract - Some insane stuff",
-      "summary": "The talk about the contract stuff starts around the 29 minute mark, if this was talked about somewhere else I apologize I typed it in but couldn't find anything. Basically they are spying on everyone in the stadium and no matter what happens to you it's your fault.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-18T03:55:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266127-psl-sth-contract-some-insane-stuff/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/45193/usmnt-midweek-viewing-guide-season-openers",
@@ -1210,17 +1045,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt/45171/lampard-believes-haji-wright-ready-for-premier-league"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266072-buffalo-bills-games-now-most-expensive-to-attend-in-nfl-study-shows/",
-      "team": "bills",
-      "title": "Buffalo Bills games now most expensive to attend in NFL, study shows",
-      "summary": "The Buffalo Bills now rank as the NFL's most expensive team to watch live, with family game-day costs peaking at over $2,100 (average across NFL: $1,474.55).\n\t\n\t#1 most expensive food cost.\n\t#1 most expensive parking cost.\n\n\n\n\t#8 most expensive soft drink cost.\n\t#10 most expensive beer cost.\n\t\n\t\n\thttps://www.wgrz.com/article/sports/nfl/bills/buffalo-bills-games-are-now-most-expensive-to-attend-in-nfl-study-shows/71-3867558e-36a7-4ada-ba69-f03541eca7c8",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-12T16:41:27.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266072-buffalo-bills-games-now-most-expensive-to-attend-in-nfl-study-shows/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/",
       "team": "sabres",
       "title": "Sabres set to induct Jason Pominville, Thomas Vanek into Hall of Fame Jan. 14",
@@ -1254,17 +1078,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-23-gavin-mccarthy/"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-10/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Open Thread, Wk of 8/10",
-      "summary": "The world of hockey snores on in its summer slumber. The NHL Network producers and analysts chose their top 20 defensemen in the League right now, and Rasmus Dahlin was fourth on that list. \n\n\n\nYour question for this week is – what was the best road trip you ever took?",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-10T12:00:00.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-10/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/",
       "team": "sabres",
       "title": "After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers",
@@ -1274,17 +1087,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-04T15:19:03.000Z",
       "link": "https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/",
-      "team": "bills",
-      "title": "Is Jim Leonhard actually our prized offseason acquisition",
-      "summary": "Welp, training camp is underway, we are getting our first peek at new rookie players, players returning from injury that limited their contributions last years, Free Agents etc... Is Jim Leonhard actually going to be the one that has the biggest overall impact on this team... more aggressive defense, using personnel better situationally, great teacher, more fun to watch defense instead of the slow death by 1000 passes and runs drives.... or will he struggle because we need personnel change, system continuity, rookie DC needs to learn etc...  I am holding out hope that he will be the guy we talk about at the end of the year that has had the biggest impact...  Who do you feel will be the person acquired in the offseason that we will look back on and say yeah, this guy was the one.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-03T13:02:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/"
     },
     {
       "id": "espn-sabres::49488419",
@@ -1318,17 +1120,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-30T16:35:41.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/",
-      "team": "bills",
-      "title": "Other Training Camps and News Around The League",
-      "summary": "Figured we could have a one-stop-shop for all other news around the league. \n\n\n\n\t \n\n\n\n\tI'll start with this one:\n\n\n\n\t \n\n\n\n\tTua should have retired already.\n\n\n\n\t \n\n\n\n\thttps://www.espn.com/nfl/story/_/id/49479437/tua-tagovailoa-flare-falcons-add-cooper-rush\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tAtlanta Falcons quarterback Tua Tagovailoa is sidelined with what the team considers a \"flare-up\" of an undisclosed injury, according to coach Kevin Stefanski.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tThe Falcons did not reveal the nature of Tagovailoa's injury Wednesday, but sources told ESPN's Adam Schefter that the veteran quarterback is dealing with a tight back.\n\t\t\n\n\t\t\n\t\t\t \n\t\t\n\n\t\t\n\t\t\tWith Tagovailoa and Michael Penix Jr. both out, sources told Schefter that the Falcons are signing Cooper Rush to strengthen their suddenly injury-ravaged quarterback room.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-29T15:11:04.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
