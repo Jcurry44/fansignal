@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:00:59.788Z",
+  "generatedAt": "2026-08-25T04:00:35.798Z",
   "sources": [
     {
       "id": "bills-official",
@@ -61,8 +61,8 @@
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "fetch failed"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "sportsnet-nhl",
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: Pre-Season Game 2 at CLE on 8/22 at 1 PM ET",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T03:03:54.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/",
       "team": "sabres",
       "title": "Prokhor Poltapov, F (33rd overall, 2021) CSKA (KHL)",
@@ -220,17 +231,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266194-joey-porter-jr-should-he-be-a-trade-target/"
     },
     {
-      "id": "espn-bills::49693030",
-      "team": "bills",
-      "title": "Bills star DT Ed Oliver mourning tragic death of son",
-      "summary": "The young son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
-      "source": "ESPN · Cameron Wolfe and Alaina Getzenberg",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-25T02:05:42Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266193-doug-whaley-on-sammy-watkins-why-he-drafted-him-and-what-was-the-lessons-learned/",
       "team": "bills",
       "title": "Doug Whaley on Sammy Watkins - why he drafted him and what was the lessons learned",
@@ -260,19 +260,8 @@
       "source": "ESPN",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-08-25T00:26:33Z",
+      "publishedAt": "2026-08-25T00:01:16Z",
       "link": "https://www.espn.com/nfl/story/_/id/49716563/texas-police-close-case-death-bills-defensive-tackle-ed-oliver-son"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/",
-      "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: Pre-Season Game 2 at CLE on 8/22 at 1 PM ET",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T23:26:53.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-2-at-cle-on-8-22-at-1-pm-et.3022940/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -715,6 +704,17 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-17-ashton-schultz/"
     },
     {
+      "id": "espn-bills::49693030",
+      "team": "bills",
+      "title": "Bills star DT Ed Oliver mourning tragic death of son",
+      "summary": "The 2-year-old son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
+      "source": "ESPN · Cameron Wolfe and Alaina Getzenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-22T19:30:23Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
       "team": "sabres",
       "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
@@ -779,6 +779,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-21T15:34:06.000Z",
       "link": "https://www.starsandstripesfc.com/latest-news/45234/concacaf-and-uefa-eye-joint-nations-league"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/rochester-hires-philip-samuelsson-as-assistant-coach/",
+      "team": "sabres",
+      "title": "Rochester hires Philip Samuelsson as assistant coach",
+      "summary": "The Rochester Americans on Thursday named Philip Samuelsson, who recently retired following a 15-year pro career as a defenseman, as an assistant coach.\nHe replaces Nathan Paetsch, who earlier this month left the Buffalo Sabres’ AHL affiliate to become head coach of the Youngstown Phantoms.\nSamuelsson, 35, played nearly 900 games as a pro, including 13 in the NHL and 512 in the AHL.\n\nHis father, Ulf, a former defenseman, spent 16 seasons in the ... Read the full article \nThe post Rochester hires Philip Samuelsson as assistant coach first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-21T15:16:04.000Z",
+      "link": "https://www.buffalohockeybeat.com/rochester-hires-philip-samuelsson-as-assistant-coach/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/5-players-to-watch-in-bills-vs-browns-preseason-week-2-2026",
@@ -1023,17 +1034,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-ranks-no-1-in-nielsen-s-fandom-study"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266149-davison-igbinosun-the-draft-day-hate-was-way-overblown/",
-      "team": "bills",
-      "title": "Davison Igbinosun: The draft day hate was way overblown",
-      "summary": "A lot of folks on here were losing their minds when we drafted Davison Igbinosun, and honestly, the reaction was way overly critical.\n\n\n\n\t \n\n\n\n\tI get where the frustration came from initially. If you watched him at Ohio State, the grabby play and the flags would drive fans batty. But look at the actual body of work—the guy put up great stats, and more importantly, his penalties dropped off dramatically in his final college season once he dialed in the technique.\n\n\n\n\t \n\n\n\n\tEverything we’ve seen out of camp and preseason tells me this kid is a pure competitor. Is he going to get flagged sometimes as a rookie? Probably. Is he going to take some lumps adjusting to NFL receivers? Almost certainly. But what you are getting is pure nastiness, legitimate toughness, and a guy who flat out refuses to back down from anyone. He’s got the ideal physical traits and he’s ridiculously sticky in press-man.\n\n\n\n\t \n\n\n\n\tI mentioned this in another thread, but his real value is going to show up on high-leverage downs. When we dial up a blitz on 3rd-and-medium and the DC needs corners who can get in a receiver's face, disrupt the timing, and hold up on an island for 2.2 seconds to let the rush get home, Igbinosun is built for that exact role.\n\n\n\n\t \n\n\n\n\tYeah, it's just preseason, but you can't teach that kind of edge. I really like what I'm seeing from him so far.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-19T19:01:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266149-davison-igbinosun-the-draft-day-hate-was-way-overblown/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45212/usmnt-defender-mark-mckenzie-reportedly-returning-to-mls",
       "team": "usmnt",
       "title": "USMNT defender Mark McKenzie reportedly returning to MLS",
@@ -1111,6 +1111,28 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-17/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-handled-trade-rumors-well-kept-developing/",
+      "team": "sabres",
+      "title": "Sabres prospect Radim Mrtka handled trade rumors well, kept developing",
+      "summary": "BUFFALO – When word leaked in early March the Sabres would deal defense prospect Radim Mrtka to the St. Louis Blues if veteran defenseman Colton Parayko waived his no-trade clause, Seattle Thunderbirds coach Matt O’Dette said he and his assistants checked in on the youngster.\nTheir message to Mrtka, 19, was simple: control what you can control.\n“He handled it really well,” O’Dette told the Times Herald. “He’s pretty, in a lot of ways, ... Read the full article \nThe post Sabres prospect Radim Mrtka handled trade rumors well, kept developing first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-17T11:00:17.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-handled-trade-rumors-well-kept-developing/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-trade-prospect-stiven-sardarian-to-hurricanes/",
+      "team": "sabres",
+      "title": "Sabres trade prospect Stiven Sardarian to Hurricanes",
+      "summary": "The Buffalo Sabres today traded the rights to unsigned forward prospect Stiven Sardarian to the Carolina Hurricanes in exchange for future considerations.\nSardarian, who has played the last four seasons in the NCAA, was eligible to become an unrestricted free agent Saturday. The Russian, however, did not submit paperwork to NHL Central Registry indicating he is no longer an undergraduate student, according to Puckpedia.com.\nHe will remain on a reserve list until paperwork is filed, ... Read the full article \nThe post Sabres trade prospect Stiven Sardarian to Hurricanes first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-17T05:51:53.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-trade-prospect-stiven-sardarian-to-hurricanes/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-20-maxim-strbak/",
       "team": "sabres",
       "title": "Buffalo Sabres Top 25 Under 25: #20 Maxim Strbak",
@@ -1142,6 +1164,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-15T11:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-21-david-bedkowski/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/ex-sabres-star-jeff-skinner-finds-home-overseas-buffalo-adds-to-hockey-staff/",
+      "team": "sabres",
+      "title": "Ex-Sabres star Jeff Skinner finds home overseas; Buffalo adds to hockey staff",
+      "summary": "Winger Jeff Skinner, who will count $6.4 million against the Buffalo Sabres’ salary cap in the upcoming season, has signed a one-year contract with EHC Biel, a team in the Swiss League.\nSkinner, 34, played 32 games for the San Jose Sharks last season, scoring six goals and 13 points before having his one-year contract terminated.\nAfter the Sabres exercised a buyout for final three seasons of his eight-year, $72 million contract following the ... Read the full article \nThe post Ex-Sabres star Jeff Skinner finds home overseas; Buffalo adds to hockey staff first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-15T05:41:58.000Z",
+      "link": "https://www.buffalohockeybeat.com/ex-sabres-star-jeff-skinner-finds-home-overseas-buffalo-adds-to-hockey-staff/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45189/what-to-watch-for-club-vs-country-the-usmnt-goes-back-to-work",
@@ -1177,6 +1210,39 @@
       "link": "https://www.starsandstripesfc.com/athletes-in-focus/45146/ssfc-spotlight-neil-pierre-is-the-new-sensation"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266072-buffalo-bills-games-now-most-expensive-to-attend-in-nfl-study-shows/",
+      "team": "bills",
+      "title": "Buffalo Bills games now most expensive to attend in NFL, study shows",
+      "summary": "The Buffalo Bills now rank as the NFL's most expensive team to watch live, with family game-day costs peaking at over $2,100 (average across NFL: $1,474.55).\n\t\n\t#1 most expensive food cost.\n\t#1 most expensive parking cost.\n\n\n\n\t#8 most expensive soft drink cost.\n\t#10 most expensive beer cost.\n\t\n\t\n\thttps://www.wgrz.com/article/sports/nfl/bills/buffalo-bills-games-are-now-most-expensive-to-attend-in-nfl-study-shows/71-3867558e-36a7-4ada-ba69-f03541eca7c8",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-12T16:41:27.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266072-buffalo-bills-games-now-most-expensive-to-attend-in-nfl-study-shows/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/",
+      "team": "sabres",
+      "title": "Sabres set to induct Jason Pominville, Thomas Vanek into Hall of Fame Jan. 14",
+      "summary": "Jason Pominville and Thomas Vanek will be inducted into the Buffalo Sabres Hall of Fame prior to the Jan. 14 game against the Colorado Avalanche at KeyBank Center, the team announced today.\nThe former captains and high-scoring wingers entered the NHL together in 2005-06 and will become the 45th and 46th members of the team’s hall of fame.\nDuring a reunion last season of the beloved team they starred for as rookies, the Sabres surprised ... Read the full article \nThe post Sabres set to induct Jason Pominville, Thomas Vanek into Hall of Fame Jan. 14 first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-12T14:58:20.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/nathan-paetsch-leaves-rochester-for-head-coaching-job-in-youngstown/",
+      "team": "sabres",
+      "title": "Nathan Paetsch leaves Rochester for head coaching job in Youngstown",
+      "summary": "Nathan Paetsch, who spent the last three seasons as an assistant coach with the Rochester Americans, has left the Buffalo Sabres’ AHL affiliate to become head coach of the Youngstown Phantoms.\nThe Phantoms, a junior team, play in the United States Hockey League. Ryan Ward, their last coach, recently moved up to the AHL to become an assistant with the Providence Bruins.\nPaetsch, 43, spent 17 seasons in Buffalo’s organization as player, assistant coach ... Read the full article \nThe post Nathan Paetsch leaves Rochester for head coaching job in Youngstown first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-11T16:02:09.000Z",
+      "link": "https://www.buffalohockeybeat.com/nathan-paetsch-leaves-rochester-for-head-coaching-job-in-youngstown/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-23-gavin-mccarthy/",
       "team": "sabres",
       "title": "Buffalo Sabres Top 25 Under 25: #23 Gavin McCarthy",
@@ -1188,15 +1254,26 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-23-gavin-mccarthy/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266019-the-sean-mcdermott-stalking-your-ex-thread/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/",
       "team": "bills",
-      "title": "The Sean McDermott stalking your ex thread",
+      "title": "Sean McDermott: The stalking your ex thread",
       "summary": "A futile attempt to keep all the McDermott stuff in one place",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-08-07T21:23:50.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266019-the-sean-mcdermott-stalking-your-ex-thread/"
+      "link": "https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/",
+      "team": "sabres",
+      "title": "After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers",
+      "summary": "In his early days as a coach, Jay McKee said he visualized success the same way he had as a player. The popular former defenseman, a linchpin on some beloved Buffalo Sabres teams in the late 1990s and early 2000s, wanted to reach the highest level as quickly as possible.\n“As a former athlete … you strive to be at the top level,” said McKee, who played his first NHL game at 18 and secured ... Read the full article \nThe post After long junior career, former Sabres standout Jay McKee ready to coach pro with AHL Hamilton Hammers first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-04T15:19:03.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-long-junior-career-former-sabres-standout-jay-mckee-ready-to-coach-pro-with-ahl-hamilton-hammers/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265979-is-jim-leonhard-actually-our-prized-offseason-acquisition/",
@@ -1221,6 +1298,28 @@
       "link": "https://www.espn.com/nhl/story/_/id/49488419/nhl-rookie-roundtable-gavin-mckenna-porter-martone-other-top-rookies-answer-burning-questions"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/",
+      "team": "sabres",
+      "title": "Blue Jackets hire former Sabres coach Don Granato as assistant",
+      "summary": "Former Buffalo Sabres coach Don Granato is back in the NHL.\nThe Columbus Blue Jackets on Thursday named Granato an assistant coach on Rick Bowness’ staff.\nGranato, 58, most recently led Team USA’s entry in the World Championship in the spring, his first head coaching gig since his dismissal from the Sabres following a sixth-place finish in the Atlantic Division in 2023-24.\n\nAfter arriving in Buffalo as an assistant in 2019, he led the Sabres ... Read the full article \nThe post Blue Jackets hire former Sabres coach Don Granato as assistant first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-31T05:29:38.000Z",
+      "link": "https://www.buffalohockeybeat.com/blue-jackets-hire-former-sabres-coach-don-granato-as-assistant/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/",
+      "team": "sabres",
+      "title": "Sabres to host Prospects Showcase rookie games Sept. 13 and 14",
+      "summary": "The Buffalo Sabres’ annual preseason rookie tournament will have a different look this year.\nThe Sabres announced today they will host a two-game Prospects Showcase against the Boston Bruins on Sept. 13 and 14 at LECOM Harborcenter.\nBeginning in 2015, the Sabres annually hosted the Prospects Challenge, a tournament that featured five or six teams.\n\nTicket information and rosters will be released at a later date.\nThe Sabres will play two games in Boston ahead ... Read the full article \nThe post Sabres to host Prospects Showcase rookie games Sept. 13 and 14 first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-30T16:35:41.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-to-host-prospects-showcase-rookie-games-sept-13-and-14/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/",
       "team": "bills",
       "title": "Other Training Camps and News Around The League",
@@ -1230,6 +1329,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-29T15:11:04.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265934-other-training-camps-and-news-around-the-league/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/",
+      "team": "sabres",
+      "title": "Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin",
+      "summary": "BUFFALO – University of Wisconsin coach Mike Hastings said he sometimes tells Sabres defense prospect Luke Osburn to take a break and stay off the ice.\nWhile Osburn’s strong work ethic is one of greatest strengths – “The standard he sets for himself is at an elite level,” Hastings told the Times Herald – he occasionally needs to take a step back.\n“He’s a very good self-evaluator,” Hastings said. “He’s one of those few players, ... Read the full article \nThe post Sabres prospect Luke Osburn displayed talents of special defenseman in first year at Wisconsin first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-07-28T21:39:04.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-prospect-luke-osburn-displayed-talents-of-special-defenseman-in-first-year-at-wisconsin/"
     },
     {
       "id": "espn-sabres::49424745",
