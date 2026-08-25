@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:04:24.566Z",
+  "generatedAt": "2026-08-25T18:57:28.267Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T18:55:08.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/nhl-rumour-roundup-where-do-contract-talks-stand-for-hughes-makar/",
+      "team": "sabres",
+      "title": "NHL Rumour Roundup: Where do contract talks stand for Hughes, Makar?",
+      "summary": "In a surprise late-August edition of 32 Thoughts: The Podcast published Tuesday, Sportsnet’s Elliotte Friedman checked in on where talks stand between the Minnesota Wild and Quinn Hughes as well as the Colorado Avalanche and Cale Makar.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T18:53:45.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/nhl-rumour-roundup-where-do-contract-talks-stand-for-hughes-makar/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-3-vs-pit-on-8-27-at-7-pm-et.3022940/",
       "team": "sabres",
       "title": "Buffalo Bills/NFL Offseason Thread: Pre-Season Game 3 vs PIT on 8/27 at 7 PM ET",
@@ -183,8 +205,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-25T17:35:21.000Z",
+      "publishedAt": "2026-08-25T18:32:03.000Z",
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-pre-season-game-3-vs-pit-on-8-27-at-7-pm-et.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/",
+      "team": "sabres",
+      "title": "Prokhor Poltapov, F (33rd overall, 2021) CSKA (KHL)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T18:25:22.000Z",
+      "link": "https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/",
+      "team": "sabres",
+      "title": "Sabres Prospect Rankings, 2026 Summer edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T17:57:04.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
@@ -194,8 +238,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-25T17:06:16.000Z",
+      "publishedAt": "2026-08-25T17:39:57.000Z",
       "link": "https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-bloom-c-lw-95th-overall-2021-signed-to-elc-traded-to-vancouver.2835927/",
+      "team": "sabres",
+      "title": "Josh Bloom, C/LW (95th overall, 2021) -- Signed to ELC, Traded to Vancouver",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T17:37:59.000Z",
+      "link": "https://forums.hfboards.com/threads/josh-bloom-c-lw-95th-overall-2021-signed-to-elc-traded-to-vancouver.2835927/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
@@ -207,28 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-25T17:06:05.000Z",
       "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/",
-      "team": "sabres",
-      "title": "Sabres Prospect Rankings, 2026 Summer edition",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-25T17:01:51.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-25T16:58:50.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266204-the-nfl-and-cte-latest/",
@@ -396,17 +429,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/138674/buffalo-bills-2026-scouting-report-defensive-lineman-deone-walker"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/",
-      "team": "sabres",
-      "title": "Prokhor Poltapov, F (33rd overall, 2021) CSKA (KHL)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-25T02:38:41.000Z",
-      "link": "https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/",
       "team": "bills",
       "title": "If you weren't on board with the Brady promotion, do you feel better today?",
@@ -495,6 +517,17 @@
       "link": "https://www.buffalobills.com/news/what-we-learned-about-the-bills-on-day-19-of-training-camp-2026"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266192-pats-trade-kayshon-boutte-to-texans/",
+      "team": "bills",
+      "title": "Pats trade Kayshon Boutte to Texans",
+      "summary": "This is actually kind of annoying. Boutte is a legit WR and a better player than Jayden Higgins at this point in their careers. So this is a net improvement for the Texans WR room and makes our week 1 matchup a bit more challenging. At least we'll get them early before he has a chance to develop chemistry with Stroud.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T18:53:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266192-pats-trade-kayshon-boutte-to-texans/"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/138967/projecting-buffalo-bills-2026-practice-squad-before-steelers-preseason-game",
       "team": "bills",
       "title": "Projecting Buffalo Bills 2026 practice squad before Steelers preseason game",
@@ -548,17 +581,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-24T16:27:05.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45196/usmnt-midweek-viewing-guide-getting-underway"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266188-august-24th-practice_pc-updates/",
-      "team": "bills",
-      "title": "August 24th Practice_PC' Updates.",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T15:35:43.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266188-august-24th-practice_pc-updates/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266187-move-over-robert-kraft-jed-york-has-entered-the-prostitution-game/",
@@ -933,17 +955,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-21T00:43:57.000Z",
       "link": "https://www.buffalobills.com/news/what-we-learned-from-the-bills-joint-practice-with-the-browns"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/",
-      "team": "sabres",
-      "title": "Owen Power, D (1st overall, 2021)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T00:33:12.000Z",
-      "link": "https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-18-vsevolod-komarov/",
