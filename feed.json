@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T23:25:08.198Z",
+  "generatedAt": "2026-09-01T01:58:47.097Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -176,26 +176,15 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-the-calm-before-the-storm.3022940/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
-      "title": "Buffalo Bills/NFL Offseason Thread: The \"Calm\" before the Storm.......",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-31T23:22:37.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-the-calm-before-the-storm.3022940/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/139256/buffalo-bills-initial-2026-practice-squad-revealed",
-      "team": "bills",
-      "title": "Buffalo Bills’ initial 2026 practice squad revealed",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-31T23:10:21.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/139256/buffalo-bills-initial-2026-practice-squad-revealed"
+      "publishedAt": "2026-09-01T01:34:13.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
@@ -205,8 +194,74 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-31T23:00:20.000Z",
+      "publishedAt": "2026-09-01T01:26:57.000Z",
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/wild-gm-guerin-on-hughes-negotiations-who-knows-what-hes-going-to-want/",
+      "team": "sabres",
+      "title": "Wild GM Guerin on Hughes negotiations: ‘Who knows what he’s going to want’",
+      "summary": "Quinn Hughes, entering his final year under contract, became eligible to sign a contract with the Wild on July 1, but with less than a month before the regular season begins, he has yet to put pen to paper on an extension.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T01:14:11.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/wild-gm-guerin-on-hughes-negotiations-who-knows-what-hes-going-to-want/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-the-calm-before-the-storm.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: The \"Calm\" before the Storm.......",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T01:00:28.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-the-calm-before-the-storm.3022940/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266270-parking-questions-for-the-new-stadium/",
+      "team": "bills",
+      "title": "Parking Questions for the new stadium",
+      "summary": "It seems like there's not a thread around parking at the new stadium and I thought it may be helpful for people who have questions this year and beyond. All of the team lots are sold out for the season already, so many of us will need to use Private Lots, ECC, etc...\n\n\n\n\t \n\n\n\n\tI found this map to be helpful: https://sites.google.com/view/mafiaparking/home/map?authuser=0\n\n\n\n\t \n\n\n\n\tOne question I have to kick it off -\n\n\n\n\t \n\n\n\n\tFor people who have attended the preseason games, are the fences down from the ECC (and other private lots like Hammer's?) so that you don't need to walk all the way around? I am planning on attending a game with my Uncle who has limited mobility and want to understand if ECC lots may be feasibile, how long of a walk he should expect, etc....\n\n\n\n\tThanks!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T00:43:58.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266270-parking-questions-for-the-new-stadium/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/139256/buffalo-bills-initial-2026-practice-squad-revealed",
+      "team": "bills",
+      "title": "Buffalo Bills’ initial 2026 practice squad revealed",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T00:16:48.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/139256/buffalo-bills-initial-2026-practice-squad-revealed"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/",
+      "team": "sabres",
+      "title": "Rasmus Dahlin Part 4 - 2026 Second Team All Star",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T00:09:48.000Z",
+      "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/139323/buffalo-bills-greg-dortch-practice-squad-home-run-signing",
+      "team": "bills",
+      "title": "Buffalo Bills hit homerun with practice-squad signing of Greg Dortch",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-31T23:59:08.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/139323/buffalo-bills-greg-dortch-practice-squad-home-run-signing"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/139339/buffalo-bills-add-familiar-linebacker-to-practice-squad",
@@ -220,17 +275,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/139339/buffalo-bills-add-familiar-linebacker-to-practice-squad"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/",
-      "team": "sabres",
-      "title": "Rasmus Dahlin Part 4 - 2026 Second Team All Star",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-31T22:42:24.000Z",
-      "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266269-once-upon-a-sod-time/",
       "team": "bills",
       "title": "Once Upon A \"Sod\" Time",
@@ -242,26 +286,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/266269-once-upon-a-sod-time/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/139323/buffalo-bills-greg-dortch-practice-squad-home-run-signing",
+      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-17-players-to-the-2026-practice-squad",
       "team": "bills",
-      "title": "Buffalo Bills hit homerun with practice-squad signing of Greg Dortch",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
+      "title": "Bills sign 17 players to the 2026 practice squad",
+      "summary": "The three newcomers to the team are WR Greg Dortch, ILB Shaq Thompson and OL Jedrick Wills Jr.",
+      "source": "Bills.com",
+      "sourceType": "team",
       "sourceCount": 1,
-      "publishedAt": "2026-08-31T22:16:59.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/139323/buffalo-bills-greg-dortch-practice-squad-home-run-signing"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-31T22:14:39.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+      "publishedAt": "2026-08-31T21:59:07.000Z",
+      "link": "https://www.buffalobills.com/news/bills-sign-17-players-to-the-2026-practice-squad"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/former-sabres-prospects-have-found-new-jobs-all-over-this-summer/",
@@ -308,17 +341,6 @@
       "link": "https://www.buffalobills.com/news/crafting-the-53-what-we-learned-about-the-buffalo-bills-initial-roster"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266268-53-man-roster-reaction-status-of-waivedreleased-players/",
-      "team": "bills",
-      "title": "53 Man Roster Reaction - Status of Waived/Released Players",
-      "summary": "Vote on the poll - interested in the board's mindset.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-31T18:36:47.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266268-53-man-roster-reaction-status-of-waivedreleased-players/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
       "team": "sabres",
       "title": "General lacrosse thread presented by your local lax goalie dad",
@@ -350,6 +372,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-31T16:49:25Z",
       "link": "https://www.espn.com/nfl/story/_/id/49752772/week-1-starting-quarterbacks-modern-era"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45436/everton-reportedly-submit-transfer-offer-for-folarin-balogun",
+      "team": "usmnt",
+      "title": "Everton reportedly submit transfer offer for Folarin Balogun",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-31T15:55:25.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/45436/everton-reportedly-submit-transfer-offer-for-folarin-balogun"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45310/usmnt-weekend-roundup-dest-electric-cavan-pierre-shine",
+      "team": "usmnt",
+      "title": "USMNT weekend roundup: Dest electric, Cavan & Pierre shine",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-31T15:30:49.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/45310/usmnt-weekend-roundup-dest-electric-cavan-pierre-shine"
     },
     {
       "id": "espn-bills::49537843",
@@ -581,17 +625,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-30T19:30:07.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266255-what-is-the-origin-of-%E2%80%9Cralph-is-cheap%E2%80%9D/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266253-texans-game-will-attempt-a-white-out-game/",
-      "team": "bills",
-      "title": "Texans Game will attempt a White-Out Game",
-      "summary": "I know Cal McNair (Texans owner) is a dolt but someone in the organization has to realize you do not do a white out game versus the Buffalo Bills.  Bills fans show up en masse in Houston and last year they did battle red and most Texans  fans wore red and the team in those ugly all red uniforms, succeeded visually, imo even though it was probably close to 40% Bills fans.\n\n\n\n\t \n\n\n\n\tBut trying a white out game will be a disaster, all that will do is make the Bills fans stand out even more so.  Try a white out game versus teams that dont travel well.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-30T17:50:34.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266253-texans-game-will-attempt-a-white-out-game/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266252-inside-stadium-beer-availability/",
@@ -913,17 +946,6 @@
       "link": "https://www.buffalohockeybeat.com/buffalo-sabres-to-appear-on-national-tv-14-times-during-2026-27-schedule/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-buffalo-born-c-sincere-haynesworth",
-      "team": "bills",
-      "title": "Bills sign Buffalo-born C Sincere Haynesworth",
-      "summary": "Haynesworth was born in Buffalo but played high school football at Pearland High School just outside of Houston, TX. He attended Tulane University (2019-2023)",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-26T19:29:00.000Z",
-      "link": "https://www.buffalobills.com/news/bills-sign-buffalo-born-c-sincere-haynesworth"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-27-schedule-home-opener-10-3-vs-chicago.3034496/",
       "team": "sabres",
       "title": "2026-27 Schedule: Home Opener 10/3 vs Chicago",
@@ -1056,15 +1078,15 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-16-riley-fiddler-schultz/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/45236/fifa-releases-2027-womens-world-cup-match-schedule",
-      "team": "usmnt",
-      "title": "FIFA releases 2027 Women’s World Cup match schedule",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266178-will-skyler-bell-be-red-shirted/",
+      "team": "bills",
+      "title": "Will Skyler Bell be \"Red-Shirted\"?",
+      "summary": "There were a lot of posters excited by Skyler Bell's Prospects as a 4th Round Pick that was viewed to have been a little bit of a bargain where we took him.\n\n\n\n\t \n\n\n\n\tThough in Training Camp, it appeared that he would need some time to develop (as Rookies often do) as he was reportedly clearly 5th in the pecking order, behind Keon Coleman and Josh Palmer.\n\n\n\n\t \n\n\n\n\tThen he got hurt:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\tSince then, he's missed both Pre-Season games, the scrimmage against the Browns, and the Bills 2nd scrimmage practice at the stadium. Which is very important development time for a Rookie.\n\n\n\n\t \n\n\n\n\tIt's led me to wonder - will Beane do with him as he's done with other Day 3 Picks and IR him?\n\n\n\n\t \n\n\n\n\tIf he's ready, I personally wouldn't. As doing so woud delay the development process. But this is something Beane is known to do and his injury and missing important training for a Rookie lines up with Beane's M.O. when he has done this in the past.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-23T14:11:37.000Z",
-      "link": "https://www.starsandstripesfc.com/uswnt-news/45236/fifa-releases-2027-womens-world-cup-match-schedule"
+      "publishedAt": "2026-08-22T23:36:57.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266178-will-skyler-bell-be-red-shirted/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-17-ashton-schultz/",
@@ -1076,17 +1098,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-22T19:53:03.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-17-ashton-schultz/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45233/usmnt-weekend-viewing-guide-were-at-it-again",
-      "team": "usmnt",
-      "title": "USMNT weekend viewing guide: We’re at it again",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T15:34:46.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/45233/usmnt-weekend-viewing-guide-were-at-it-again"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/latest-news/45234/concacaf-and-uefa-eye-joint-nations-league",
