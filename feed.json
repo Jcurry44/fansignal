@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:52:28.777Z",
+  "generatedAt": "2026-09-02T17:43:34.901Z",
   "sources": [
     {
       "id": "bills-official",
@@ -54,21 +54,21 @@
       "id": "die-by-the-blade",
       "label": "Die By The Blade",
       "team": "sabres",
-      "itemCount": 10,
-      "error": null
+      "itemCount": 0,
+      "error": "HTTP 403"
     },
     {
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 10,
-      "error": null
+      "itemCount": 0,
+      "error": "HTTP 403"
     },
     {
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -96,7 +96,7 @@
       "id": "hfboards-sabres",
       "label": "HFBoards",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 20,
       "error": null
     },
     {
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 5,
       "error": null
     },
     {
@@ -176,6 +176,116 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T17:26:18.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266288-new-report-on-pats-cheat/",
+      "team": "bills",
+      "title": "New report on Pats cheat",
+      "summary": "Story from The Athletic. \n\t \n\n\n\n\tPretty clever. Have the scoreboard show goalposts that are misaligned to opposing teams kicker. \n\t \n\n\n\n\tData indicates that it worked.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T17:16:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266288-new-report-on-pats-cheat/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/folarin-balogun-everton-medical-questions-monaco/",
+      "team": "usmnt",
+      "title": "Folarin Balogun 'not comfortable' signing for Everton after medical questions, says Monaco sporting director",
+      "summary": "The USMNT striker rejected a $52 million move after the Premier League side raised concerns during his medical, leaving both clubs scrambling after deadline day",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T15:50:19.000Z",
+      "link": "https://www.cbssports.com/soccer/news/folarin-balogun-everton-medical-questions-monaco/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/",
+      "team": "sabres",
+      "title": "Jack Quinn, RW (8th overall, 2020)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T15:47:12.000Z",
+      "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-transfer-window-slams-shut-with-enzo-fernandez-at-manchester-city-folarin-balogun-move-collapses/",
+      "team": "usmnt",
+      "title": "Footy Fix: Transfer window slams shut with Enzo Fernandez at Manchester City; Folarin Balogun move collapses",
+      "summary": "Elsewhere, Coppa Italia action is underway",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T15:35:44.000Z",
+      "link": "https://www.cbssports.com/soccer/news/footy-fix-transfer-window-slams-shut-with-enzo-fernandez-at-manchester-city-folarin-balogun-move-collapses/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/patrick-geary-ld-michigan-state-ncaa-172oa-2024.2970013/",
+      "team": "sabres",
+      "title": "Patrick Geary: LD, Michigan State (NCAA) -172OA, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T15:11:13.000Z",
+      "link": "https://forums.hfboards.com/threads/patrick-geary-ld-michigan-state-ncaa-172oa-2024.2970013/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/latest-news/45462/2027-us-open-cup-format-finalized-to-include-all-domestic-mls-teams",
+      "team": "usmnt",
+      "title": "2027 US Open Cup format finalized to include all domestic MLS teams",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T14:59:22.000Z",
+      "link": "https://www.starsandstripesfc.com/latest-news/45462/2027-us-open-cup-format-finalized-to-include-all-domestic-mls-teams"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-the-calm-before-the-storm.3022940/",
+      "team": "sabres",
+      "title": "Buffalo Bills/NFL Offseason Thread: The \"Calm\" before the Storm.......",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T14:57:31.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-the-calm-before-the-storm.3022940/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T14:51:06.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
+    },
+    {
+      "id": "espn-bills::49793475",
+      "team": "bills",
+      "title": "2026 NFL bold predictions: Potential surprises for 32 teams",
+      "summary": "Jameson Williams leading the Lions' receivers? Xavier Worthy breaking out? Travis Hunter almost entirely at CB? We have 32 outside-the-box things to watch.",
+      "source": "ESPN · Dan Graziano",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T14:26:21Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49793475/2026-nfl-surprise-predictions-32-teams-stat-leaders-breakouts-fantasy-football"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/139427/buffalo-bills-2026-season-preview-ask-me-anything",
       "team": "bills",
       "title": "Buffalo Bills 2026 season preview: Ask Me Anything",
@@ -196,28 +306,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-02T12:57:09.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/139241/bills-news-brandon-beane-feels-really-good-about-roster"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-11-tyson-kozak/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #11 Tyson Kozak",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nTyson Kozak\n\n\n\nDrafted: 2021 Seventh Round, #193 overall\n\n\n\nSize: 5’11”, 185 lbs\n\n\n\nPosition: Center (shoots left)\n\n\n\nBorn: 12/29/2002 (Age: 23) Souris, MB\n\n\n\n2025-2026 stats: GP46 G2 A4 PTS6, Buffalo Sabres (NHL)\n\n\n\n2025 T25U25 Ranking: 14th\n\n\n\nThe Buffalo Sabres unearthed a late-round gem in Tyson Kozak, and he has paid off on a limited-minutes, bottom-six role with the Sabres signing him to a three-year, $2.325 million extension on July 1, 2025.\n\n\n\nAfter a season of bouncing back and forth between Rochester and Buffalo, he spent the whole season with the NHL side last year. In typical fourth line forward style, where he lacked in point production he made up for with grit and determination despite his slight stature.\n\n\n\nAs a serviceable 4th line center, he improved his faceoff percentage last season to 48.3% but saw his role usurped at the business end of the season by Sam Carrick. However, once the former Ranger got injured Kozak got back into the side and featured in six playoff games, picking up one assist and going +2 against the Bruins and Canadiens, playing 11:25 a night. \n\n\n\n\nRandom NHL Draft stat:2021 7th round pick Tyson Kozak has 6 goals and 5 assists for a total of 11 points in his NHL career. That's 6 goals 5 assists and 11 points more than every player selected combined by the Vegas Golden Knights since 2021…&mdash; Andy Provin (@AndyProvin) August 26, 2026\n\n\n\n\nKozak shows promise as a bottom six center that brings an infectious work ethic and a willingness to make his mark in the trenches, a thankless role that all teams need filled. However, you have to think this is his ceiling and there’s not much else he is going to do than what he already does for the Sabres.  \n\n\n\nThe center proved he could compete at the NHL level when his number was called. He consistently finishes checks and plays with a constant motor. While his stats won’t jump out at you, he showed a willingness to battle his way in the dirty areas of the ice to make an impact. A theme can be discovered by looking through his highlights: he is always around the net. All his NHL goals are plays in front where he does his best work, and he will be in contention for the Sabres’ 13th forward most nights and a chance to play in the bottom six as needed. \n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet#24 Topias Leinonen#23 Gavin McCarthy#22 Luke Osburn#21 Maxim Strbak#20 David Bedkowksi#19 Brodie Ziemer#18 Vsevolod Komarov#17 Ashton Schultz#16 Riley Fiddler-Schultz#15 Prokhor Poltapov#14 Ryan Johnson#13 Ilia Morozov#12 Adam Kleber",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T11:00:00.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-11-tyson-kozak/"
-    },
-    {
-      "id": "espn-bills::49793475",
-      "team": "bills",
-      "title": "2026 NFL bold predictions: Potential surprises for 32 teams",
-      "summary": "Jameson Williams leading the Lions' receivers? Xavier Worthy breaking out? Travis Hunter almost entirely at CB? We have 32 outside-the-box things to watch.",
-      "source": "ESPN · Dan Graziano",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-02T10:32:30Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49793475/2026-nfl-surprise-predictions-32-teams-stat-leaders-breakouts-fantasy-football"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266286-comment-by-josh-after-practice-yesterday-91-about-the-playbook%E2%80%A6/",
@@ -242,6 +330,28 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/136816/plays-that-defined-2025-bills-at-broncos-divisional-round"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
+      "team": "sabres",
+      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T04:32:32.000Z",
+      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/off-season-with-the-sabres-players-2026-summer-shenanigans.3032249/",
+      "team": "sabres",
+      "title": "Off-season With The Sabres Players 2026 - Summer Shenanigans",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T02:17:40.000Z",
+      "link": "https://forums.hfboards.com/threads/off-season-with-the-sabres-players-2026-summer-shenanigans.3032249/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/grading-usmnt-summer-transfers-as-folarin-balogun-deal-collapses-gio-reyna/",
       "team": "usmnt",
       "title": "Grading USMNT summer transfers as Folarin Balogun deal collapses and Gio Reyna joins Strasbourg",
@@ -262,6 +372,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-02T00:38:32.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-star-folarin-baloguns-potential-move-to-everton-snag-deadline-day/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T00:33:39.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266284-zane-durant-to-ir-out-at-least-4-weeks/",
@@ -306,6 +427,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-01T21:52:30.000Z",
       "link": "https://www.buffalobills.com/news/bills-gm-brandon-beane-provides-team-injury-updates-prior-to-week-1-of-2026-season"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/",
+      "team": "sabres",
+      "title": "The Second Annual Old Navy Goat Draft Thread, 2027 Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-01T20:49:19.000Z",
+      "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
     },
     {
       "id": "espn-bills::49537843",
@@ -440,17 +572,6 @@
       "link": "https://www.cbssports.com/soccer/news/folarin-balogun-everton-transfer-premier-league-usmnt-striker/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266274-49ers-legend-daejon-love/",
-      "team": "bills",
-      "title": "49ers Legend Daejon Love",
-      "summary": "This story continues to get far weirder than just a some 35 year old guy who snuck into 49ers camp for another shot at the big leagues. \n\n\n\n\t \n\n\n\n\tDaejon Love is not a San Francisco 49ers player — in fact, he has no NFL career or stats. Federal prosecutors say he spent years posing as a 49ers wide receiver and wealthy investor to defraud at least 26 women out of about $1.3 million.\n\n\n\n\t \n\n\n\n\thttps://www.justice.gov/usao-or/pr/man-posing-san-francisco-49er-charged-defrauding-over-two-dozen-women-out-more-13\n\n\n\n\t \n\n\n\n\thttps://www.msn.com/en-us/news/other/fake-49ers-player-daejon-love-texts-with-alleged-victims-revealed-a-lot-of-darkness/ar-AA2birvr?ocid=entnewsntp&pc=LCTS&cvid=6a95d437d3b94ccb8d018e54017697f4&ei=16\n\n\n\n\t \n\n\n\n\thttps://x.com/LakeShowYo/status/2093827304569057621?s=20\n\n\n\n\t \n\n\n\n\tFor all the young women out there, be like LakeShow and make him show you the tape!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T14:08:11.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266274-49ers-legend-daejon-love/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/general/45253/get-the-best-of-stars-and-stripes-fc-on-the-new-sb-nation-app",
       "team": "usmnt",
       "title": "Get the best of Stars and Stripes FC on the new SB Nation app",
@@ -495,17 +616,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45263/usmnt-midweek-viewing-guide-pieces-in-motion"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266271-shaq-is-back-thompson-signed-to-the-practice-squad/",
-      "team": "bills",
-      "title": "Shaq is back (Thompson, signed to the practice squad)",
-      "summary": "After he went all through UFA saying he would be happy to come back to Buffalo & didn't sign anywhere, it seemed like he just wasn't a fit for what Leonhard was running on D. And then after training camp and all of preseason, he's signed to the practice squad this evening. \n\t \n\n\n\n\tHey, I'm not against it. Just... what's up with the timing? Seemed out of left field.\n\n\n\n\t \n\n\n\n\tShaq was a real boon to the D when he came in. Has more of the ILB size than certain others on the roster. And depth is so important because inside guys get pretty beat up. Go Bills!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T02:42:35.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266271-shaq-is-back-thompson-signed-to-the-practice-squad/"
-    },
-    {
       "id": "espn-bills::49789004",
       "team": "bills",
       "title": "Bills make roster changes ahead of season",
@@ -517,15 +627,15 @@
       "link": "https://www.espn.com/video/clip/_/id/49789004/bills-make-roster-changes-ahead-season"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/wild-gm-guerin-on-hughes-negotiations-who-knows-what-hes-going-to-want/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/",
       "team": "sabres",
-      "title": "Wild GM Guerin on Hughes negotiations: ‘Who knows what he’s going to want’",
-      "summary": "Quinn Hughes, entering his final year under contract, became eligible to sign a contract with the Wild on July 1, but with less than a month before the regular season begins, he has yet to put pen to paper on an extension.",
-      "source": "Sportsnet",
-      "sourceType": "league",
+      "title": "Rasmus Dahlin Part 4 - 2026 Second Team All Star",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-01T01:14:11.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/wild-gm-guerin-on-hughes-negotiations-who-knows-what-hes-going-to-want/"
+      "publishedAt": "2026-09-01T00:09:48.000Z",
+      "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266269-once-upon-a-sod-time/",
@@ -550,28 +660,6 @@
       "link": "https://www.buffalobills.com/news/bills-sign-17-players-to-the-2026-practice-squad"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/former-sabres-prospects-have-found-new-jobs-all-over-this-summer/",
-      "team": "sabres",
-      "title": "Former Sabres prospects have found new jobs all over this summer",
-      "summary": "For a while, former Buffalo Sabres defense prospect Nikita Novikov looked like a steal as he quickly adapted to North American hockey.\nNot only did the Russian generate offense without the benefit of power-play time, he led the Rochester Americans in plus-minus – gaudy ratings of 20 and 28, respectively – in each of his first two seasons.\nNovikov, a sixth-round pick in 2021, 188th overall, appeared to be on track to at least earn ... Read the full article \nThe post Former Sabres prospects have found new jobs all over this summer first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-31T21:49:03.000Z",
-      "link": "https://www.buffalohockeybeat.com/former-sabres-prospects-have-found-new-jobs-all-over-this-summer/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-31/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Open Thread, Wk of 8/31",
-      "summary": "We’re getting closer and closer to fall and the season will soon be upon us. \n\n\n\nThings are getting interesting in our Top 25 Under 25, any surprises you see?\n\n\n\nThis week’s question is – What was the first Sabres game you ever attended live?",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-31T19:21:23.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-31/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/crafting-the-53-what-we-learned-about-the-buffalo-bills-initial-roster",
       "team": "bills",
       "title": "Crafting the 53 | What we learned about the Buffalo Bills initial roster",
@@ -581,6 +669,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-31T19:11:41.000Z",
       "link": "https://www.buffalobills.com/news/crafting-the-53-what-we-learned-about-the-buffalo-bills-initial-roster"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
+      "team": "sabres",
+      "title": "General lacrosse thread presented by your local lax goalie dad",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-31T18:33:04.000Z",
+      "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
     },
     {
       "id": "espn-bills::49752772",
@@ -627,6 +726,17 @@
       "link": "https://www.starsandstripesfc.com/usmnt/45310/usmnt-weekend-roundup-dest-electric-cavan-pierre-shine"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266265-josh-allen-will-wear-caps-designed-by-children-of-golisano-children%E2%80%99s-hospital-at-all-home-games/",
+      "team": "bills",
+      "title": "Josh Allen will wear caps designed by children of Golisano Children’s Hospital at all home games :)",
+      "summary": "Per Adam Schefter, for the second year in a row. But this time we can buy our own. \n\n\n\n\tThis is really cool and the caps look good!\n\n\n\n\tHooray for our man Josh!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-31T15:08:36.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266265-josh-allen-will-wear-caps-designed-by-children-of-golisano-children%E2%80%99s-hospital-at-all-home-games/"
+    },
+    {
       "id": "espn-bills::49754534",
       "team": "bills",
       "title": "Preseason NFL Power Rankings 2026: How all 32 teams stack up",
@@ -660,15 +770,15 @@
       "link": "https://www.starsandstripesfc.com/usmnt/45360/usa-soccercast-episode-198-what-could-a-joint-uefa-concacaf-nations-league-look-like"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266260-cap-space-53-roster-before-ps/",
-      "team": "bills",
-      "title": "Cap Space - 53 Roster - Before PS",
-      "summary": "Spotrac has things updated.\n\n\n\n\tBeane has $11.3M before signing PS tomorrow.\n\n\n\n\tHe will have a few bucks to play with.\n\n\n\n\t \n\n\n\n\thttps://www.spotrac.com/nfl/buffalo-bills/overview",
-      "source": "TwoBillsDrive",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/",
+      "team": "sabres",
+      "title": "General Discussion of Prospects",
+      "summary": "",
+      "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-31T00:15:06.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266260-cap-space-53-roster-before-ps/"
+      "publishedAt": "2026-08-31T02:39:42.000Z",
+      "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266258-week-1-thread-bills-at-texans/",
@@ -704,17 +814,6 @@
       "link": "https://www.buffalobills.com/news/bills-release-21-players-place-2-players-on-ir-1-player-on-suspended"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266255-what-is-the-origin-of-%E2%80%9Cralph-is-cheap%E2%80%9D/",
-      "team": "bills",
-      "title": "What is the origin of “Ralph is cheap.”",
-      "summary": "Just curious. Anyone know?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-30T19:30:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266255-what-is-the-origin-of-%E2%80%9Cralph-is-cheap%E2%80%9D/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266253-texans-game-will-attempt-a-white-out-game/",
       "team": "bills",
       "title": "Texans Game will attempt a White-Out Game",
@@ -737,15 +836,15 @@
       "link": "https://www.buffalobills.com/news/bills-trade-c-sedrick-van-pran-granger-to-the-indianapolis-colts"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-12-adam-kleber/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
       "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #12 Adam Kleber",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nAdam Kleber\n\n\n\nDrafted: 2024, BUF (42nd overall), 2nd round, 10th pick\n\n\n\nPosition: Defense (shoots right)\n\n\n\nBorn: 3/24/2006 (Age: 20) Chaska, Minnesota, USA\n\n\n\n2025-2026 stats: GP 40 G 3 A 9 PTS 12 +12, University of Minnesota-Duluth\n\n\n\n2025 T25U25 Ranking: 20th last year\n\n\n\nAdam Kleber has made a steady climb in these rankings since Buffalo drafted him in 2024. He was voted into the 25th spot in his first appearance and climbed to 20th last summer. Now he has surged even further, landing at No. 12 in the 2026 voting. Deservedly so, I must say.\n\n\n\nThe hulking right-shot defender stands 6’6″ and nearly 230 pounds, giving him the elite size to develop into a physical, shutdown presence in the NHL. He has all the tools you could want in a defensive-minded blueliner. Kleber isn’t flashy—he’s dependable, determined and hard-working.\n\n\n\nHe also brings strong leadership qualities to the table, along with the toughness and defensive mindset to become a true rock on the blue line.\n\n\n\n\n\n\n\nAdam just finished his second season at the University of Minnesota-Duluth, where he scored 12 points in 40 games while posting a +12 rating. He is not without offensive ability; it’s simply not the strength of his game. His bread and butter is handling his business in his own end of the ice, and that is how he projects for Buffalo as well. Kleber is a stay-at-home defensive presence first and foremost, with a strong physical edge too.\n\n\n\nThe Minnesota-Duluth Bulldog is expected to play one more season of college hockey before signing his entry-level contract with the Sabres. From there, I expect him to spend a year or two in Rochester before making the jump to Buffalo, so we’re probably looking at roughly three more years before he arrives for good.\n\n\n\nRasmus Dahlin, Owen Power and Mattias Samuelsson should all still be here when Kleber is ready. Meanwhile, Buffalo will have had time to see what it has in recent acquisitions Olen Zellweger and Louis Crevier. Both look promising right now, but we’ll see how they perform over time. Conor Timmins and Zach Metsa remain in the mix for now, too.\n\n\n\nAs many as two to four spots on the blue line could open up to players from this very Top 25 Under 25 list over the next several years. The Sabres have an impressive wave of young defensemen coming, and Kleber could be right in the middle of it.\n\n\n\n\n\n\n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet\n\n\n\n#24 Topias Leinonen\n\n\n\n#23 Gavin McCarthy\n\n\n\n#22 Luke Osburn\n\n\n\n#21 David Bedkowski\n\n\n\n#20 Maxim Strbak\n\n\n\n#19 Brodie Ziemer\n\n\n\n#18  Vsevolod Komarov\n\n\n\n#17 Ashton Schultz\n\n\n\n# 16 Riley Fiddler-Schultz\n\n\n\n#15 Prokhor Poltapov\n\n\n\n#14 Ryan Johnson\n\n\n\n#13 Ilia Morozov\n\n\n\n#12 Adam Kleber",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
+      "title": "How are they doing now? (Former Sabres Players) Top 100 pics/stories",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-30T11:34:56.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-12-adam-kleber/"
+      "publishedAt": "2026-08-29T23:09:46.000Z",
+      "link": "https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-release-13-players-aug-29",
@@ -757,28 +856,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-29T19:58:38.000Z",
       "link": "https://www.buffalobills.com/news/bills-release-13-players-aug-29"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266243-bills-replacing-grass-at-highmark-starting-monday/",
-      "team": "bills",
-      "title": "Bills replacing grass at Highmark starting Monday",
-      "summary": "https://buffalonews.com/sports/professional/nfl/bills/article_f6e546cc-244a-4562-81bf-f2a0db8231a7.html?lctg=baf30705bec101afd50a&tn_email_eh1=7e9aa99fd45095aa209bba35efe688f31334c174d407e8f34b74b5cc9df50d24  \n\n\n\n\t \n\n\n\n\tHmmm...  Little skeptical how grass that had over a year to take root is better than stuff replaced two weeks before first game??  Article says that process is fine.  We shall see. \n\n\n\n\t \n\n\n\n\tRecall Sept 1969 Mets won eastern division on like a Tuesday and Jets played that following Sunday at Shea.  Fans had torn up the stadium field bad (not that the field was ever very good to start with)  Verlon Biggs threw a piece of turf half way across the field that came loose.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-29T18:24:22.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266243-bills-replacing-grass-at-highmark-starting-monday/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-13-ilia-morozov/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #13 Ilia Morozov",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nIlia Morozov\n\n\n\nDrafted: 2026 First Round, #20 overall\n\n\n\nSize: 6’3″, 205 lbs\n\n\n\nPosition: Center (shoots left)\n\n\n\nBorn: 8/3/2008 (Age: 18) Moscow, Russia\n\n\n\n2025-2026 stats: GP36 G8 A12 PTS20, Miami Ohio (NCAA)\n\n\n\n2025 T25U25 Ranking: N/A\n\n\n\nThe Buffalo Sabres went back to drafting Russians, and look to have snagged a hardworking gem in the most recent draft. \n\n\n\nMorozov played his draft year as a 17-year-old true freshman for Miami University (Ohio), making him the youngest player in NCAA men’s Division I hockey, as he scored eight goals with twelve assists in 36 games. However what caught the eye was defensive workrate, with the forward using his reach to cut off passing lanes and shutting down cycles. His hold-up play with the puck on his stick is borderline elite, with the youngster shielding the puck along the boards well despite heavy pressure. The Moscow native has good straight-line speed and a high motor despite his upright stiff stride. While he moves well enough to transition effectively, his upright, rigid posture requires ongoing mechanical refinement to unlock better lateral agility.\n\n\n\n\nPretty impressive answer from Ilia Morozov on why he wanted to come to North America. He said he knew he wanted to spend the next 20 years here playing professional hockey so the sooner he could get over here the more acclimated & comfortable he'd be. pic.twitter.com/zDpTKQd3bt&mdash; Matthew Bové (@Matt_Bove) June 27, 2026\n\n\n\n\nScouting reports on the forward commend him for playing like a third defenseman on the ice. He angles rushes out of the zone smoothly, matches up against older collegiate lines with composure, and excels on the penalty kill. He boasts a relentless motor and high hockey IQ, consistently executing small details, such as blocking shots, winning key faceoffs, and out-battling opponents on board retrievals. During his freshman season, he earned nearly 20 minutes of ice time per night (second on his team), playing in all critical manpower situations (even strength, power play, and shorthanded). \n\n\n\nMorozov’s shot is one of his strengths, both from distance and close in. He does appear to have a knack for beating goalies thanks to his hard and accurate shot. His one-timer is also lethal playing the bumper position or coming off the wall on the powerplay.\n\n\n\nThe knock on Morozov is that he is limited by his offensive ability and is not renowned as a creative playmaker, which then projects him as a middle six center. His 20 points in 36 games was solid for a 17-year-old, but he rarely functions as a dynamic offensive driver, projecting more as a complementary piece rather than a primary playmaker.\n\n\n\n\n\n\n\n\n\nFor the upcoming 2026–27 NHL season, Morozov projects to become more of a key contributor for the Redhawks. We’ll be expecting expect his production to take a leap, with him becoming a more dependable chance creator and establishing a heavy presence at the top of the crease. The timeline for him remains playing at least one-two more years of college hockey before the Sabres have to make the decision about signing him to an entry-level deal. \n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet#24 Topias Leinonen#23 Gavin McCarthy#22 Luke Osburn#21 Maxim Strbak#20 David Bedkowksi#19 Brodie Ziemer#18 Vsevolod Komarov#17 Ashton Schultz#16 Riley Fiddler-Schultz#15 Prokhor Poltapov#14 Ryan Johnson",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-29T12:00:00.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-13-ilia-morozov/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266238-53-man-updatescut-leaks-will-update-1st-post-as-confirmations-arrive/",
@@ -803,17 +880,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt/45271/usmnt-midweek-roundup-celtic-collapse"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/is-trading-for-connor-hellebuyck-worth-the-steep-price-for-the-sabres/",
-      "team": "sabres",
-      "title": "Is trading for Connor Hellebuyck worth the steep price for the Sabres?",
-      "summary": "As you read this, Buffalo Sabres general manager Jarmo Kekalainen could be deep into trade talks again with Kevin Cheveldayoff, his counterpart in Winnipeg, trying to pry goalie Connor Hellebuyck away from the Jets.\nOn Thursday, Hellebuyck, 33, confirmed through a statement released by his agent, Ray Petkau, what had long been suspected: he wants to get the heck out of Winnipeg just two seasons into a seven-year, $59.5 million contract extension.\nHellebuyck said he ... Read the full article \nThe post Is trading for Connor Hellebuyck worth the steep price for the Sabres? first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-28T21:44:22.000Z",
-      "link": "https://www.buffalohockeybeat.com/is-trading-for-connor-hellebuyck-worth-the-steep-price-for-the-sabres/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/athletes-in-focus/45247/ssfc-spotlight-stuart-hawkins-taking-opportunities-down-the-stretch",
       "team": "usmnt",
       "title": "SSFC Spotlight: Stuart Hawkins taking opportunities down the stretch",
@@ -836,6 +902,39 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/45319/usmnt-weekend-viewing-guide-full-send"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/expected-buffalo-podcast.2987477/",
+      "team": "sabres",
+      "title": "Expected Buffalo Podcast",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-28T13:25:21.000Z",
+      "link": "https://forums.hfboards.com/threads/expected-buffalo-podcast.2987477/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ukko-pekka-luukkonen-2017-54th.2361843/",
+      "team": "sabres",
+      "title": "Ukko-Pekka Luukkonen (2017, 54th)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-28T13:24:08.000Z",
+      "link": "https://forums.hfboards.com/threads/ukko-pekka-luukkonen-2017-54th.2361843/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/",
+      "team": "sabres",
+      "title": "Sabres Prospect Rankings, 2026 Summer edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-28T11:25:29.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-prospect-rankings-2026-summer-edition.3035986/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/it-was-just-execution-the-bills-reflect-on-an-impressive-fourth-quarter-comeback-to-close-out-the-preseason",
       "team": "bills",
       "title": "'It was just execution' | The Bills reflect on an impressive fourth quarter comeback to close out the preseason",
@@ -847,26 +946,48 @@
       "link": "https://www.buffalobills.com/news/it-was-just-execution-the-bills-reflect-on-an-impressive-fourth-quarter-comeback-to-close-out-the-preseason"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-14-ryan-johnson/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/",
       "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #14: Ryan Johnson",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nRyan Johnson\n\n\n\nDrafted: 2019 – 1st Round (31st Overall)\n\n\n\nPosition: Defense\n\n\n\nBorn: July 24th, 2001 – 25 Years Old\n\n\n\n2025-2026 Stats: GP 56 G 5 A 14 PTS 19 / Playoffs GP 2 G 1 A 1 PTS 2, AHL\n\n\n\n2025 T25U25 Ranking: 11\n\n\n\nI know what you might be thinking: “I thought you had to be under the age of 25 to be on this list.” Ryan Johnson tricked us by the way he asked “how do you do, fellow kids?” during eligibility evaluations. He was quite convincing!\n\n\n\nThe former first rounder spent the year almost exclusively in Rochester this past year. Even with the injuries sustained in Buffalo, Johnson was unable to get much time in the NHL. He managed only three games with the Sabres for the second straight season, and the only mark he made on the stat sheet was a minor penalty in 27 total minutes played.\n\n\n\nWhile playing a major role in Rochester, he set career highs in goals, assists, and points. Offensive statistics have never been the focal point of his game, but you would expect more than .34 points a game at the AHL level for a mid-20’s former first round pick.\n\n\n\nJohnson’s skating continues to be the best part of his game. Unfortunately, his development has stalled, and he’s fallen down the depth chart. His opportunities in Buffalo look about extinguished with their current mix and the incoming top prospects recently drafted. He is nearing “career AHLer” status as he enters his 4th professional season.\n\n\n\nHe is eligible for waivers this upcoming season. Assuming Buffalo carries 7 defensemen (highly likely given their commitment to the 3-goalie shuffle), Johnson would need to beat out one of Metsa, Crevier, or Timmins. Dennis Gilbert is also an option in Buffalo. Given those odds, he’s likely to be a waiver claim for a team dealing with injuries coming out of training camp.",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
+      "title": "Locked on Sabres Podcast",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-27T15:21:10.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-14-ryan-johnson/"
+      "publishedAt": "2026-08-27T22:19:41.000Z",
+      "link": "https://forums.hfboards.com/threads/locked-on-sabres-podcast.2986808/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/buffalo-sabres-to-appear-on-national-tv-14-times-during-2026-27-schedule/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
       "team": "sabres",
-      "title": "Buffalo Sabres to appear on national TV 14 times during 2026-27 schedule",
-      "summary": "Fresh off winning the Atlantic Division title, the Buffalo Sabres will be appearing on national television broadcasts 14 times during the upcoming season, NHL rights holders announced Wednesday.\nThe schedule features eight games on TNT/HBO Max, three games on ESPN or ABC’s channels and three exclusive games on ESPN+/Hulu (subscription streaming).\nThe complete schedule is below.\n\n– Oct. 21 vs. Philadelphia, 7:30 p.m. (TNT/HBO Max)\n– Oct. 27 at San Jose, 10:30 p.m. (ESPN)\n– ... Read the full article \nThe post Buffalo Sabres to appear on national TV 14 times during 2026-27 schedule first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-27T05:50:38.000Z",
-      "link": "https://www.buffalohockeybeat.com/buffalo-sabres-to-appear-on-national-tv-14-times-during-2026-27-schedule/"
+      "publishedAt": "2026-08-27T18:43:04.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/",
+      "team": "sabres",
+      "title": "Prokhor Poltapov, F (33rd overall, 2021) CSKA (KHL)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-27T18:40:17.000Z",
+      "link": "https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
+      "team": "sabres",
+      "title": "Radim Mrtka, RD, (9th OA, 2025); Seattle Thunderbirds (WHL), Assigned to Rochester 4/8/26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-27T18:39:46.000Z",
+      "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45295/rokas-pukstas-is-reportedly-the-next-american-heading-to-middlesborough",
@@ -880,103 +1001,15 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/45295/rokas-pukstas-is-reportedly-the-next-american-heading-to-middlesborough"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/buffalo-sabres-sell-out-of-season-tickets-for-2026-27-create-waiting-list/",
-      "team": "sabres",
-      "title": "Buffalo Sabres sell out of season tickets for 2026-27, create waiting list",
-      "summary": "The Buffalo Sabres’ success last season created so much demand they’ve sold out of season tickets for the 2026-27 season, the team announced Tuesday.\nSo the Sabres, like they did in the mid-2000s, have started a season-ticket waiting list.\nFor a $100 deposit, fans will have their name added to the list and be given access to purchase season seats ahead of the general public. They will also receive playoff ticket pre-sale access and a ... Read the full article \nThe post Buffalo Sabres sell out of season tickets for 2026-27, create waiting list first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-26T05:28:22.000Z",
-      "link": "https://www.buffalohockeybeat.com/buffalo-sabres-sell-out-of-season-tickets-for-2026-27-create-waiting-list/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-15-prokhor-poltapov/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #15 Prokhor Poltapov",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nProkhor Poltapov\n\n\n\nDrafted: 2021, BUF (33rd overall), 2nd round, 1st pick\n\n\n\nPosition: Left wing/Right wing (shoots right)\n\n\n\nBorn: 2/1/2003 (Age: 23) St. Petersburg, RUS\n\n\n\n2025-2026 stats: GP 68 G 16 A 24 PTS 40 +5, CSKA Moskva\n\n\n\n2025 T25U25 Ranking: 21st last year\n\n\n\nThis one has been a long time coming, with one more year of patience required.\n\n\n\nProkhor Poltapov, drafted way back in 2021 (Kevyn Adams’ second draft as Sabres general manager) is finally starting to look like the player Buffalo hoped it was getting with the 33rd overall pick. I nearly wrote him off myself a few years ago, but Poltapov has steadily developed and has now put together back-to-back 40-point seasons with CSKA Moscow.\n\n\n\nThe bad news? We still have to wait on this polarizing player. Poltapov has one season remaining on his KHL contract, running through 2026-27.\n\n\n\nThe good news? He shouldn’t need much, if any, AHL seasoning when he finally shows up. Poltapov has been playing against men for years now, and that experience should have him well prepared for the transition to North American hockey.\n\n\n\n\n\n\n\nBuffalo’s brass views him as a versatile, middle-six “plug-and-play” forward. A spot could be ready and waiting for him when Jason Zucker’s contract expires next year. He should be able to step right in and contribute, especially with the ability to play either wing. After such a long and mostly forgotten wait, it almost feels like the Sabres will be getting an unexpected freebie player when it happens.\n\n\n\nProkhor was drafted at 6-foot-0 and 176 pounds, and those are still the only listed measurements I can find today. I have to believe he’s filled out physically over the past five years, but there doesn’t appear to be an update available. At 23, however, he should be much more physically mature than the teenager Buffalo drafted back in 2021.\n\n\n\n\n\n\n\n\n\nPoltapov is a high-energy forward who does a lot of things right. He is highly competitive, has explosive acceleration and brings a physical, net-driving presence to his game. He can score goals, set them up and isn’t afraid to throw the occasional hit. He is also effective on the penalty kill. There is a lot to like about this resourceful player.\n\n\n\nAt this point, his arrival feels less like a possibility and more like a foregone conclusion. The wait is almost over, and Buffalo should finally get to see what Poltapov can bring to the organization next year.\n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet\n\n\n\n#24 Topias Leinonen\n\n\n\n#23 Gavin McCarthy\n\n\n\n#22 Luke Osburn\n\n\n\n#21 David Bedkowski\n\n\n\n#20 Maxim Strbak\n\n\n\n#19 Brodie Ziemer\n\n\n\n#18  Vsevolod Komarov\n\n\n\n#17 Ashton Schultz\n\n\n\n# 16 Riley Fiddler-Schultz\n\n\n\n#15 Prokhor Poltapov",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-25T12:01:37.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-15-prokhor-poltapov/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45273/usmnt-weekend-roundup-europe-returns",
-      "team": "usmnt",
-      "title": "USMNT weekend roundup: Europe returns",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-25T02:19:59.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/45273/usmnt-weekend-roundup-europe-returns"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-24/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Open Thread, Wk of 8/24",
-      "summary": "Still in the doldrums of the summer, though things will start picking up in the next week or so with Labor Day coming up and the kids going back to school, which then tells us that fall is edging ever closer. \n\n\n\nTage Thompson made the list of NHL Network’s top 20 centers, albeit not too high on that list coming in at #19. Dylan Larkin who is a rumoured trade target given that he wants out of Detroit is 20th on this list. Also interesting is that Robert Thomas, who the Sabres were looking to trade for, is not on the list at all. \n\n\n\nYour question for the week is a good one – If you could bring back one former Sabre in his prime to join the current roster, who would it be?",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T14:50:35.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-8-24/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-16-riley-fiddler-schultz/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #16 Riley Fiddler-Schultz",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nRiley Fiddler-Schultz\n\n\n\nDrafted: Undrafted\n\n\n\nSize: 6′, 201 lbs\n\n\n\nPosition: Center (shoots left)\n\n\n\nBorn: 5/13/2002 (Age: 24) Edmonton, AB\n\n\n\n2025-2026 stats: GP 65 G 21 A 18 PTS 39, Rochester Americans\n\n\n\n2025 T25U25 Ranking: N/A\n\n\n\nBack-to-back Schultz’s, and the only double-barreled last name on this list, meet Riley Fiddler-Schultz.\n\n\n\n‘The Fiddler’ is also very likely to be the only undrafted prospect on this list, and has certainly done his time working his way up the hockey food chain to stand on the cusp of the big league. \n\n\n\nAfter five seasons in the WHL, the last two where he scored at a PPG rate for the Calgary Hitmen, Fiddler-Schultz went undrafted in 2023 but was picked up by the Sabres organization. A season in the ECHL followed with the Jacksonville Icemen where he potted 23 goals and 20 assists in 51 games, and earned a callup to Rochester the next season getting 13 G and 13 A in 51 games again.  \n\n\n\nThe Sabres acknowledged his growth by giving him a two-year contract which saw him finish the 2025–26 AHL season tied for second on the Amerks with 21 goals in 62 games, along with 16 assists. The forward earned the team’s nomination as the sole finalist for the AHL’s Yanick Dupré Memorial Award (Man of the Year), and established himself as a much-loved member of the team getting named the IOA/Specialty Man of the Year award for his heavy fan engagement and community work.\n\n\n\n\nMan of the people, Amerks Man of the Year – Riley Fiddler-Schultz 👏 #LetsGoAmerks📰  READ MORE | https://t.co/uu01vL05YS pic.twitter.com/ZDxUIrmk46&mdash; Rochester Americans (@AmerksHockey) April 14, 2026\n\n\n\n\nFor the upcoming 2026–27 NHL season, Fiddler-Schultz projects as a primary call-up option and organizational depth forward for the Sabres. With elite prospects like Konsta Helenius and Noah Östlund graduating to the NHL, the center will be heavily relied upon as a top offensive and leadership presence in Rochester.\n\n\n\nHe plays a hard-nosed, 200-foot game at center, and his strength around the net and puck-tipping capabilities should translate well to a bottom-six role in the NHL. The forward has been noted for his high hockey IQ and professional poise, attributes shared with his uncle, longtime NHL veteran Vern Fiddler.\n\n\n\n\n\n\n\n\n\nFiddler-Schultz is another hardworking, high-character hockey player that the Sabres’ prospect pool seems littered with, and given his undrafted background, you know he’s not taking a single day that he’s here for granted.  \n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet#24 Topias Leinonen#23 Gavin McCarthy#22 Luke Osburn#21 Maxim Strbak#20 David Bedkowksi#19 Brodie Ziemer#18 Vsevolod Komarov#17 Ashton Schultz",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-23T21:19:11.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-16-riley-fiddler-schultz/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266178-will-skyler-bell-be-red-shirted/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/",
       "team": "bills",
-      "title": "Will Skyler Bell be \"Red-Shirted\"?",
-      "summary": "There were a lot of posters excited by Skyler Bell's Prospects as a 4th Round Pick that was viewed to have been a little bit of a bargain where we took him.\n\n\n\n\t \n\n\n\n\tThough in Training Camp, it appeared that he would need some time to develop (as Rookies often do) as he was reportedly clearly 5th in the pecking order, behind Keon Coleman and Josh Palmer.\n\n\n\n\t \n\n\n\n\tThen he got hurt:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\tSince then, he's missed both Pre-Season games, the scrimmage against the Browns, and the Bills 2nd scrimmage practice at the stadium. Which is very important development time for a Rookie.\n\n\n\n\t \n\n\n\n\tIt's led me to wonder - will Beane do with him as he's done with other Day 3 Picks and IR him?\n\n\n\n\t \n\n\n\n\tIf he's ready, I personally wouldn't. As doing so woud delay the development process. But this is something Beane is known to do and his injury and missing important training for a Rookie lines up with Beane's M.O. when he has done this in the past.",
+      "title": "If you weren't on board with the Brady promotion, do you feel better today?",
+      "summary": "I was really hoping we got Grant Udinski.  I fell for the \"prodigy\" label he was giving.  I was impressed with the way he conducts himself in the public, he does seem very knowledgeable.  \n\n\n\n\t \n\n\n\n\tThe Brady hire was deflating.  \n\n\n\n\t \n\n\n\n\tI know the regular season hasn't started yet but I'm feeling more comfortable with him.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-22T23:36:57.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266178-will-skyler-bell-be-red-shirted/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-17-ashton-schultz/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #17: Ashton Schultz",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nAshton Schultz\n\n\n\nDrafted: 2025 – 6rd Round (167st Overall)\n\n\n\nPosition: Center/Right Wing\n\n\n\nBorn: October 3rd, 2006 – 19 Years Old\n\n\n\n2025-2026 Stats: GP 49 G 17 A 25 PTS 42 / Playoffs GP 6 G 4 A 2 PTS 10, USHL\n\n\n\n2025 T25U25 Ranking: Unranked\n\n\n\nAshton Schultz makes his debut on our list after a solid year and a strong finish to his USHL career. He set career highs in goals and points while playing 9 less games than in the 2024-2025 season. He was traded mid-season to the Sioux City Musketeers where he produced over a point per game in 17 regular season games and was a point per game player in the playoffs. He also put up 6 points in 5 games at the World Junior A Classic which helped team USA to secure the gold medal in the tournament.\n\n\n\n\nAshton Schultz got in on all four Chicago goals with his first USHL hat trick plus an assist as the Steel doubled Fargo 4-2. Schultz is ramping up before joining Team USA for the World Junior A Challenge, which begins 12/7 in Trois-Rivières, Quebec. pic.twitter.com/Xtr8zP3gCF&mdash; Kris Baker (@SabresProspects) November 29, 2025\n\n\n\n\nSchultz is known for his 200-foot game and doesn’t take the finer details of his game for granted. His coach in Sioux City called him a “rink rat” and was impressed with his hockey IQ and playmaking ability. Those skills should translate well as he moves up from the USHL to college. Schultz will play at the University of North Dakota this upcoming season. He’ll have the opportunity to grow his game and build upon his solid foundation while playing in the highly competitive NCHC.",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-22T19:53:03.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-17-ashton-schultz/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/rochester-hires-philip-samuelsson-as-assistant-coach/",
-      "team": "sabres",
-      "title": "Rochester hires Philip Samuelsson as assistant coach",
-      "summary": "The Rochester Americans on Thursday named Philip Samuelsson, who recently retired following a 15-year pro career as a defenseman, as an assistant coach.\nHe replaces Nathan Paetsch, who earlier this month left the Buffalo Sabres’ AHL affiliate to become head coach of the Youngstown Phantoms.\nSamuelsson, 35, played nearly 900 games as a pro, including 13 in the NHL and 512 in the AHL.\n\nHis father, Ulf, a former defenseman, spent 16 seasons in the ... Read the full article \nThe post Rochester hires Philip Samuelsson as assistant coach first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-21T15:16:04.000Z",
-      "link": "https://www.buffalohockeybeat.com/rochester-hires-philip-samuelsson-as-assistant-coach/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-18-vsevolod-komarov/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #18 Vsevolod Komarov",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nVsevolod Komarov\n\n\n\nDrafted: 2022, BUF (134th overall), 5th round pick\n\n\n\nSize: 6’4″, 208 lbs\n\n\n\nPosition: Defenseman (shoots right)\n\n\n\nBorn: 1/11/2004 (Age: 22) Chelyabinsk, Russia\n\n\n\n2025-2026 stats: GP 55 G 4 A 7 PTS 11, Rochester Americans\n\n\n\n2025 T25U25 Ranking: 17th\n\n\n\nAnd just like that we’re back to defensemen.\n\n\n\nVsevolod Komarov has had a couple of years of seasoning with the Amerks without being called up to suit up for the Buffalo Sabres, despite the senior club’s severe shortage of right-handed dmen. That should tell you how patient they are willing to be with the hulking Russian who has been biding his time to get his shot. Buffalo signed Komarov on an entry-level contract in June 2023 sensing his potential, which gives Buffalo this year to decide where exactly he fits on this defensively-loaded roster.\n\n\n\n\n\n\n\n\n\nA Sabres fifth-round pick (134th overall) in the 2022 NHL Draft, the Chelyabinsk-born defenseman played his minor hockey with the Metallurg Magnitogorsk organization before making the switch to Quebec Remparts after being selected in the CHL Import Draft. His first season was focused on being more conscientious of the defensive side of the game, picking up 19 points (2 G, 17 A) in 60 QMJHL games, but the brakes came off the next season with 12 goals and 27 assists, including the game-winning goal for Quebec in the Memorial Cup final. \n\n\n\nHis dominance in the QMJHL was such that when the new leadership team took over at the Drummondville Voltigeurs, they made trading for Komarov a priority, and the blockbuster trade worked out for them with the defenseman enjoying another stellar season. The Russian dman won his second consecutive QMJHL Championship, picking up the Emile Bouchard Trophy as the QMJHL’s top defenseman and more than compensated for the injury of star forward Maveric Lamoureux, also winning the QMJHL playoffs MVP with another 15 points in 19 games. While he wasn’t able to win back-to-back Memorial Cups, his feat of 14 G and 55 A, and a total of 86 points in 82 games across two teams and the entire season was no mean feat. \n\n\n\nSylvain Favreau, Voltigeurs’ head coach, from The Athletic – \n\n\n\n“I think he’s an NHL player. At the NHL level he’s going to be classified as a two-way defenseman but somebody who can escape out of trouble, make a first pass, bring a little bit of offense, and probably one of the best sticks that I’ve seen in my eight years in the Q, and I’ve seen a lot of really good defensemen.”\n\n\n\nSabres’ development coach Nathan Paetsch, also to The Athletic – \n\n\n\n“He has elite composure and hockey sense,” Paetsch said. “A lot of young (defensemen), they get the puck and they panic. There’s just no panic to his game, so he can make those tight-area plays in small spaces. A lot of D can’t make those plays at that size. Let’s be honest, we got a steal in the fifth round.”\n\n\n\n\n\n\n\n\n\nKomarov didn’t have the best season last year for the Amerks, but few players did. With the constant moving of forwards up the interstate to Buffalo, Rochester endured a difficult season and trades further decimated the roster. The Sabres will be grateful they have one more year to evaluate the dman, and even with the roster additions, he should be on the top pair for the Amerks and quarterbacking at least one of the two power play units.  \n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet#24 Topias Leinonen#23 Gavin McCarthy#22 Luke Osburn#21 Maxim Strbak#20 David Bedkowksi#19 Brodie Ziemer#18 Vsevolod Komarov",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-20T15:59:51.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-18-vsevolod-komarov/"
+      "publishedAt": "2026-08-25T02:38:25.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/"
     },
     {
       "id": "bandits-official::https://bandits.com/for-the-love-of-the-game-a-letter-from-matt-vinc/",
@@ -1067,59 +1100,26 @@
       "link": "https://bandits.com/bandits-season-ends-with-1st-round-loss-to-georgia/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-handled-trade-rumors-well-kept-developing/",
-      "team": "sabres",
-      "title": "Sabres prospect Radim Mrtka handled trade rumors well, kept developing",
-      "summary": "BUFFALO – When word leaked in early March the Sabres would deal defense prospect Radim Mrtka to the St. Louis Blues if veteran defenseman Colton Parayko waived his no-trade clause, Seattle Thunderbirds coach Matt O’Dette said he and his assistants checked in on the youngster.\nTheir message to Mrtka, 19, was simple: control what you can control.\n“He handled it really well,” O’Dette told the Times Herald. “He’s pretty, in a lot of ways, ... Read the full article \nThe post Sabres prospect Radim Mrtka handled trade rumors well, kept developing first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266047-confirmed-one-republic-to-perform-at-halftime-of-home-opener-versus-the-lions/",
+      "team": "bills",
+      "title": "*Confirmed* One Republic to Perform at Halftime of Home Opener Versus the Lions.",
+      "summary": "Rochester, NY Buffalo Bills Backers\n\n\n\n\t1͏h͏ ·\n\n\n\n\t#BREAKING: The Buffalo Bills are reportedly finalizing a “massive and familiar” musical act to perform at halftime for their home opener at the new Highmark Stadium on Thursday, 9/17 vs. the Detroit Lions, per Due Champions.\n\n\n\n\t \n\n\n\n\tMassive and Familiar? The Goo Goo Dolls or the Killers?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-17T11:00:17.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-handled-trade-rumors-well-kept-developing/"
+      "publishedAt": "2026-08-10T16:59:17.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266047-confirmed-one-republic-to-perform-at-halftime-of-home-opener-versus-the-lions/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-trade-prospect-stiven-sardarian-to-hurricanes/",
-      "team": "sabres",
-      "title": "Sabres trade prospect Stiven Sardarian to Hurricanes",
-      "summary": "The Buffalo Sabres today traded the rights to unsigned forward prospect Stiven Sardarian to the Carolina Hurricanes in exchange for future considerations.\nSardarian, who has played the last four seasons in the NCAA, was eligible to become an unrestricted free agent Saturday. The Russian, however, did not submit paperwork to NHL Central Registry indicating he is no longer an undergraduate student, according to Puckpedia.com.\nHe will remain on a reserve list until paperwork is filed, ... Read the full article \nThe post Sabres trade prospect Stiven Sardarian to Hurricanes first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266042-injury-update-thread-2026-season/",
+      "team": "bills",
+      "title": "Injury Update Thread 2026 Season",
+      "summary": "Might as well start this one instead of searching everywhere. Ty Johnson and McGovern top the list for now…",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-17T05:51:53.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-trade-prospect-stiven-sardarian-to-hurricanes/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/ex-sabres-star-jeff-skinner-finds-home-overseas-buffalo-adds-to-hockey-staff/",
-      "team": "sabres",
-      "title": "Ex-Sabres star Jeff Skinner finds home overseas; Buffalo adds to hockey staff",
-      "summary": "Winger Jeff Skinner, who will count $6.4 million against the Buffalo Sabres’ salary cap in the upcoming season, has signed a one-year contract with EHC Biel, a team in the Swiss League.\nSkinner, 34, played 32 games for the San Jose Sharks last season, scoring six goals and 13 points before having his one-year contract terminated.\nAfter the Sabres exercised a buyout for final three seasons of his eight-year, $72 million contract following the ... Read the full article \nThe post Ex-Sabres star Jeff Skinner finds home overseas; Buffalo adds to hockey staff first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-15T05:41:58.000Z",
-      "link": "https://www.buffalohockeybeat.com/ex-sabres-star-jeff-skinner-finds-home-overseas-buffalo-adds-to-hockey-staff/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/",
-      "team": "sabres",
-      "title": "Sabres set to induct Jason Pominville, Thomas Vanek into Hall of Fame Jan. 14",
-      "summary": "Jason Pominville and Thomas Vanek will be inducted into the Buffalo Sabres Hall of Fame prior to the Jan. 14 game against the Colorado Avalanche at KeyBank Center, the team announced today.\nThe former captains and high-scoring wingers entered the NHL together in 2005-06 and will become the 45th and 46th members of the team’s hall of fame.\nDuring a reunion last season of the beloved team they starred for as rookies, the Sabres surprised ... Read the full article \nThe post Sabres set to induct Jason Pominville, Thomas Vanek into Hall of Fame Jan. 14 first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-12T14:58:20.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-set-to-induct-jason-pominville-thomas-vanek-into-hall-of-fame-jan-14/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/nathan-paetsch-leaves-rochester-for-head-coaching-job-in-youngstown/",
-      "team": "sabres",
-      "title": "Nathan Paetsch leaves Rochester for head coaching job in Youngstown",
-      "summary": "Nathan Paetsch, who spent the last three seasons as an assistant coach with the Rochester Americans, has left the Buffalo Sabres’ AHL affiliate to become head coach of the Youngstown Phantoms.\nThe Phantoms, a junior team, play in the United States Hockey League. Ryan Ward, their last coach, recently moved up to the AHL to become an assistant with the Providence Bruins.\nPaetsch, 43, spent 17 seasons in Buffalo’s organization as player, assistant coach ... Read the full article \nThe post Nathan Paetsch leaves Rochester for head coaching job in Youngstown first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-11T16:02:09.000Z",
-      "link": "https://www.buffalohockeybeat.com/nathan-paetsch-leaves-rochester-for-head-coaching-job-in-youngstown/"
+      "publishedAt": "2026-08-10T13:08:16.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266042-injury-update-thread-2026-season/"
     },
     {
       "id": "espn-sabres::49488419",
@@ -1197,6 +1197,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-15T18:08:38Z",
       "link": "https://www.espn.com/nhl/story/_/id/49367105/champion-hurricanes-open-nhl-season-panthers"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265668-nfl-top-100-in-2026-updated-91-josh-top-2/",
+      "team": "bills",
+      "title": "NFL Top 100 in 2026 (UPDATED 9/1 - Josh TOP 2)",
+      "summary": "https://www.nfl.com/news/top-100-players-of-2026-nos-100-91\n\n\n\n\t \n\n\n\n\t100. Cam Jordan, DE, Saints\n\n\n\n\t99. Quenton Nelson, OG, Colts\n\n\n\n\t98. Bryce Young, QB, Panthers\n\n\n\n\t97. Ernest Jones, LB, Seahawks\n\n\n\n\t96. Travis Entienne, RB, Jaguars\n\n\n\n\t95. Demario Davis, OLB, Jets\n\n\n\n\t94. Creed Humphrey, C, Chiefs\n\n\n\n\t93. Carson Schwesinger, LB, Browns\n\n\n\n\t92. Azeez Al-Shaair, LB, Texans\n\n\n\n\t91. Montez Sweat, DE, Bears\n\n\n\n\t90. Derrick Brown, DT, Panthers\n\n\n\n\t89. Kyren Williams, RB, Rams\n\n\n\n\t88. Jack Campbell, LB, Lions\n\n\n\n\t87. Tetairoa McMillan, WR, Panthers\n\n\n\n\t86. Tuli Tuipulotu, LB, Chargers\n\n\n\n\t85. Brock Purdy, QB, 49ers\n\n\n\n\t \n\n\n\n\tBryce Young?!? If I were Nelson or Jordan, I'd be a little PO'ed.\n\n\n\n\t \n\n\n\n\tUpdate 7/1:\n\n\n\n\tIn addition to Bryce Young, seems the Panthers are getting a lot of love with McMillan making the list at 87.\n\n\n\n\tPurdy coming in at 85 is getting a lot of chatter. He definitely belongs above Bryce Young, but do either really belong?\n\n\n\n\t \n\n\n\n\tUpdate 9/1:\n\n\n\n\thttps://www.nfl.com/news/top-100-players-of-2026-nos-10-1\n\n\n\n\t \n\n\n\n\t#3 Bijan Robinson.\n\n\n\n\tStill no Josh or Myles Garrett so playing out like we thought. Great to see our boy get the respect.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-06-23T17:02:27.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265668-nfl-top-100-in-2026-updated-91-josh-top-2/"
     }
   ]
 }
