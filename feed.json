@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:32:59.503Z",
+  "generatedAt": "2026-09-02T05:06:29.266Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -176,6 +176,28 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
+      "team": "sabres",
+      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T04:32:32.000Z",
+      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/",
+      "team": "sabres",
+      "title": "Jack Quinn, RW (8th overall, 2020)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T04:23:33.000Z",
+      "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
       "team": "sabres",
       "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
@@ -183,19 +205,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-02T00:32:59.000Z",
+      "publishedAt": "2026-09-02T04:19:09.000Z",
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
       "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-02T00:32:24.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+      "publishedAt": "2026-09-02T04:05:16.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/off-season-with-the-sabres-players-2026-summer-shenanigans.3032249/",
@@ -205,8 +227,41 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-01T23:47:35.000Z",
+      "publishedAt": "2026-09-02T02:17:40.000Z",
       "link": "https://forums.hfboards.com/threads/off-season-with-the-sabres-players-2026-summer-shenanigans.3032249/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/grading-usmnt-summer-transfers-as-folarin-balogun-deal-collapses-gio-reyna/",
+      "team": "usmnt",
+      "title": "Grading USMNT summer transfers as Folarin Balogun deal collapses and Gio Reyna joins Strasbourg",
+      "summary": "Some Americans moved this summer, but were the moves the right choices?",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T01:27:20.000Z",
+      "link": "https://www.cbssports.com/soccer/news/grading-usmnt-summer-transfers-as-folarin-balogun-deal-collapses-gio-reyna/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-star-folarin-baloguns-potential-move-to-everton-snag-deadline-day/",
+      "team": "usmnt",
+      "title": "USMNT star Folarin Balogun's potential move to Everton appears to hit medical snag on deadline day",
+      "summary": "The American attacker looked set to move from AS Monaco to the Premier League, so what's the hold-up?",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T00:38:32.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-star-folarin-baloguns-potential-move-to-everton-snag-deadline-day/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T00:33:39.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266284-zane-durant-to-ir-out-at-least-4-weeks/",
@@ -264,17 +319,6 @@
       "link": "https://forums.hfboards.com/threads/buffalo-bills-nfl-offseason-thread-the-calm-before-the-storm.3022940/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-star-folarin-baloguns-potential-move-to-everton-snag-deadline-day/",
-      "team": "usmnt",
-      "title": "USMNT star Folarin Balogun's potential move to Everton appears to hit medical snag on deadline day",
-      "summary": "The American attacker looked set to move from AS Monaco to the Premier League, so what's the hold-up?",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T20:51:04.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-star-folarin-baloguns-potential-move-to-everton-snag-deadline-day/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/",
       "team": "sabres",
       "title": "The Second Annual Old Navy Goat Draft Thread, 2027 Edition",
@@ -306,17 +350,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-01T20:38:18.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/139375/braden-smiths-injury-a-big-one-for-texans-before-buffalo-bills-game-in-week-1"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/",
-      "team": "sabres",
-      "title": "Jack Quinn, RW (8th overall, 2020)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T20:28:42.000Z",
-      "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266283-rams-owner-stan-kroenke-is-now-buying-the-angels/",
@@ -427,17 +460,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-01T15:14:41.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266277-how-will-brady-use-the-5-wrs-in-passing-game-this-coming-season/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T14:38:59.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/folarin-balogun-everton-transfer-premier-league-usmnt-striker/",
@@ -1054,17 +1076,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-26T17:55:12.000Z",
       "link": "https://forums.hfboards.com/threads/2026-27-schedule-home-opener-10-3-vs-chicago.3034496/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
-      "team": "sabres",
-      "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-26T17:41:16.000Z",
-      "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45295/rokas-pukstas-is-reportedly-the-next-american-heading-to-middlesborough",
