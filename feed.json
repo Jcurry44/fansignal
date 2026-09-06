@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T06:02:33.120Z",
+  "generatedAt": "2026-09-06T10:59:24.160Z",
   "sources": [
     {
       "id": "bills-official",
@@ -145,9 +145,9 @@
   "games": [
     {
       "team": "bills",
-      "state": "final",
-      "headline": "Final · L [object Object]-[object Object]",
-      "detail": "vs PIT"
+      "state": "upcoming",
+      "headline": "Sun 1:00 PM",
+      "detail": "at HOU"
     },
     {
       "team": "sabres",
@@ -175,6 +175,17 @@
     }
   ],
   "stories": [
+    {
+      "id": "espn-bills::49815713",
+      "team": "bills",
+      "title": "Super Bowl countdown: Ranking teams all-in on winning in 2026",
+      "summary": "We stacked the top five NFL teams that need to win this season because of aging rosters, contracts or future draft capital.",
+      "source": "ESPN · Aaron Schatz",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-06T10:00:05Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49815713/super-bowl-2027-lxi-61-all-teams-49ers-rams-ravens-bills-broncos"
+    },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-metsa-rhd-signs-extension-through-27-28.2929555/",
       "team": "sabres",
@@ -911,17 +922,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-01T20:49:19.000Z",
       "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
-    },
-    {
-      "id": "espn-bills::49706895",
-      "team": "bills",
-      "title": "2026 NFL Rank: Predicting top 100 players for this season",
-      "summary": "We predicted the top 100 NFL players for 2026. Which defender came in at No. 1? How many QBs made the list? Which team had the most players included?",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T16:30:54Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49706895/2026-nfl-season-rankings-top-100-players-predictions-stats"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-announce-highmark-stadium-rally-day-event-dates",
