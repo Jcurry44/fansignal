@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T21:51:50.397Z",
+  "generatedAt": "2026-09-09T23:54:20.406Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -176,6 +176,39 @@
   ],
   "stories": [
     {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/quinn-hughes-in-no-rush-to-get-contract-extension-done-quickly-with-wild/",
+      "team": "sabres",
+      "title": "Quinn Hughes in no rush to get contract extension done quickly with Wild",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T23:50:12.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/quinn-hughes-in-no-rush-to-get-contract-extension-done-quickly-with-wild/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T23:29:28.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T23:24:30.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-1-buffalo-0-0-at-houston-0-0-sun-sept-13th-at-1-pm-et-on-cbs.3036731/",
       "team": "sabres",
       "title": "Week 1: Buffalo (0-0) at Houston (0-0); Sun Sept 13th at 1 PM ET on CBS",
@@ -183,8 +216,63 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-09T21:45:08.000Z",
+      "publishedAt": "2026-09-09T23:17:58.000Z",
       "link": "https://forums.hfboards.com/threads/week-1-buffalo-0-0-at-houston-0-0-sun-sept-13th-at-1-pm-et-on-cbs.3036731/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T23:15:45.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/dennis-gilbert-ld-signs-again-with-buffalo-1-year-x-850-000.3033348/",
+      "team": "sabres",
+      "title": "Dennis Gilbert - LD, Signs (again) with Buffalo, 1 year x $850,000",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T22:29:29.000Z",
+      "link": "https://forums.hfboards.com/threads/dennis-gilbert-ld-signs-again-with-buffalo-1-year-x-850-000.3033348/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
+      "team": "sabres",
+      "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T22:27:47.000Z",
+      "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/they-got-after-us-last-year-bills-prepare-for-tough-week-1-matchup-with-houston-texans",
+      "team": "bills",
+      "title": "'Make sure we're locked into our details' | Bills prepare for tough Week 1 matchup with Houston Texans",
+      "summary": "Handling first game emotions, a tough Texans defense, and the six captains set to lead the way",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T22:24:00.000Z",
+      "link": "https://www.buffalobills.com/news/they-got-after-us-last-year-bills-prepare-for-tough-week-1-matchup-with-houston-texans"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-john-davidson-hired-as-senior-advisor-7-13-26-jeremiah-crowe-to-the-leafs-7-15-26.3028546/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Front Office Thread 2. John Davidson Hired As Senior Advisor 7-13-26, Jeremiah Crowe To The Leafs 7-15-26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T22:18:32.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-john-davidson-hired-as-senior-advisor-7-13-26-jeremiah-crowe-to-the-leafs-7-15-26.3028546/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
@@ -209,28 +297,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/139592/buffalo-bills-how-heavily-will-lean-into-dalton-kincaid-tight-end-group-in-week-1-throughout-2026-season"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T20:57:03.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
-      "team": "sabres",
-      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T20:54:31.000Z",
-      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/139702/buffalo-bills-hc-joe-brady-taking-page-out-of-sean-paytons-playbook",
       "team": "bills",
       "title": "Buffalo Bills HC Joe Brady taking page out of Sean Payton’s playbook",
@@ -242,39 +308,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/139702/buffalo-bills-hc-joe-brady-taking-page-out-of-sean-paytons-playbook"
     },
     {
-      "id": "espn-bills::49852219",
-      "team": "bills",
-      "title": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
-      "summary": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T20:42:17Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T20:29:46.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "espn-bills::49883729",
-      "team": "bills",
-      "title": "Bills to include Canadian national anthem at home opener vs. Lions",
-      "summary": "The Buffalo Bills will honor their Canadian fans by having Toronto's Barenaked Ladies perform the country's national anthem at their home opener on Sept. 17.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T20:28:10Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49883729/bills-include-canadian-national-anthem-home-opener-vs-lions"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/139629/whos-under-the-most-pressure-with-the-buffalo-bills-in-2026",
       "team": "bills",
       "title": "Who’s under the most pressure with the Buffalo Bills in 2026?",
@@ -284,17 +317,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-09T19:44:33.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/139629/whos-under-the-most-pressure-with-the-buffalo-bills-in-2026"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266363-2026-hype-video-w-fitzmagic/",
-      "team": "bills",
-      "title": "2026 Hype Video w/ FitzMagic...",
-      "summary": "Enjoy!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T18:11:37.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266363-2026-hype-video-w-fitzmagic/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266362-dee-alford-as-the-punt-returner/",
@@ -330,17 +352,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266360-moana-and-bnl-doing-the-anthems-now-with-extra-canada-week-2-opener/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/45631/uswnt-midfielder-rose-lavelle-named-ballon-dor-finalist",
-      "team": "usmnt",
-      "title": "USWNT midfielder Rose Lavelle named Ballon d’Or finalist",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T16:38:48.000Z",
-      "link": "https://www.starsandstripesfc.com/uswnt-news/45631/uswnt-midfielder-rose-lavelle-named-ballon-dor-finalist"
-    },
-    {
       "id": "espn-bills::49880897",
       "team": "bills",
       "title": "Super Bowl favorite Rams also drawing the most betting action",
@@ -361,17 +372,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-09T16:23:37Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266358-pick-your-playoff-field-for-2026-27-season/",
-      "team": "bills",
-      "title": "Pick Your Playoff Field for 2026-27 Season",
-      "summary": "I enjoy putting the pedal to the metal, pen to the paper, peanut butter to jel.. ok I'll shut up. Predictions are fun because your either right or you are the dumbest person alive. I yearly go through all 272 games through nfl playoff predictor and predict out the season. This is where I ended up, but please comment or share your prediction:\n\n\n\n\t \n\n\n\n\tAFC\n\n\n\n\t1. CIN (AFCN) 13-4\n\n\n\n\t2. DEN (AFCW) 12-5\n\n\n\n\t3. HOU (AFCS) 11-6\n\n\n\n\t4. BUF (AFCE) 11-6\n\n\n\n\t5. KC 12-5\n\n\n\n\t6. NE 11-6\n\n\n\n\t7. JAX 10-7\n\n\n\n\tJust missed: BAL 10-7 miss on tiebreaker, IND 9-8 // LAC 8-9 \n\n\n\n\t \n\n\n\n\tI am buying the koolaid that CIN finally is back and I truly do believe their defense has done enough to be middle of the road which gets them back not only into the playoffs but tops of the AFC. I review & analyze teams schedules pretty deep and one of the things that helps catapult a team to a great year is a favorable schedule (as NE proved last year). Even playing in the AFC North the Bengals schedule is incredibly favorable this year which bolds well. DEN I have been high on all off season and even with two more losses they beat out KC for the division. HOU wins the division again as the defense is great and offense better where it can do things. I truly think the Bills season is a tight one throughout with NE and we get them on tiebreakers this time. I also think it won't be until the last third of the season the defense comes together so if they start 4-3 I am not panicking. The Chiefs return to the dance as variance favors them this year after a year of everything going wrong & Mahomes is too good for them to miss again. NE takes a step back record wise but frankly has a better team. JAX proves their real despite a tough schedule and makes back to back playoff appearances for the first time in two decades.\n\n\n\n\t \n\n\n\n\tThe Ravens are the odd man out as they have a good year but lose on tiebreakers. I think it will take a year for the defense to come together, their offensive line is not nearly as settled as people say, and my bold prediction of the year is Henry finally meets father time which slows their offense down. Like Seattle in 2024 the foundation is set for the future though and BAL comes into 2027 far scarier. IND hangs around but can't finish the deal and the Chargers losses on defense are too much for an offense that always has injuries.\n\n\n\n\t \n\n\n\n\tNFC\n\n\n\n\t1. LAR (NFCW) 13-4\n\n\n\n\t2. DAL (NFCE) 13-4\n\n\n\n\t3. DET (NFCN) 12-5\n\n\n\n\t4. CAR (NFCS) 9-8\n\n\n\n\t5. PHI 12-5\n\n\n\n\t6. SEA 12-5\n\n\n\n\t7. MIN 10-7\n\n\n\n\tJust missed: GB 10-7 miss on tiebreaker, CHI 9-8 // SF 9-8 // NOLA 9-8\n\n\n\n\t \n\n\n\n\tThe Rams exact revenge on Seattle to clinch the 1 seed and division this year as Seattle falls to the 6 seed despite a 12-5 campaign. Dallas sees their investment on defense pay off big time and the offense goes rough shot to miss the 1 seed due to tiebreaker as they lose to the Rams. DET was a playoff team based on advanced stats last year but luck, injuries, and turnovers hurt them; not this year as the 4th place schedule gifts them an easy run for the division. The NFC South sucks but someone needs to win and I buy the Panthers especially on defense even with injury to do enough an beat NOLA on a tiebreaker at 9-8. My bold prediction in the NFC is Tampa Bay implodes losing their last five after starting 6-6 and they proceed to clean house. PHI misses the division but still makes it in as a Wild Card. Minnesota has quality QB play that jolts them past Green Bay who I think is stuck as a middling team that is can win 9-11 games but not enough to be more. CHI great offense but the defense lacks talent & doesn't get turnovers this year while San Fran losses the gamble against father time and the age of their stars catches them with injuries again and they miss.\n\n\n\n\t \n\n\n\n\t~Please note I am wayyyy more confident in my regular season picks & field vs what happens in the postseason~\n\n\n\n\t \n\n\n\n\tPlayoffs\n\n\n\n\tAFC Wild Card: 2. DEN losses to 7. JAX  //  3. HOU defeats 6. NE  //  4. BUF defeats 5. KC \n\n\n\n\tNFC Wild Card: 2. DAL defeats to 7. MIN  //  3. DET losses to 6. SEA  //  4. CAR losses to 5. PHI\n\n\n\n\t \n\n\n\n\tAFC Divisional: 1. CIN losses to 7. JAX  //  3. HOU loses to 4. BUF \n\n\n\n\tNFC Divisional: 1. LAR defeats 6.SEA  //   2. DAL defeats to 5. PHI \n\n\n\n\t \n\n\n\n\tAFC Title: 4. BUF defeats 7. JAX\n\n\n\n\tNFC Title: 1. LAR defeats 2. DAL\n\n\n\n\t \n\n\n\n\tSuper Bowl: 4. BUF defeats 1. LAR\n\n\n\n\t \n\n\n\n\tNo time like the present eh. Buffalo eviscerates playoff pain against KC to land a rematch against HOU who they lost narrowly to week 1. This time the Bills defense can dictate enough on their side to allow the Bills offense to a play a very rope a dope game that is borrowing as hell but fails to give HOU mistakes to capitalize on. The Bills get the tough Jags at home, but thanks to some favorable weather causing a Trevor Lawrence fumble with ten to go the Bills out last them 24-21.\n\n\n\n\t \n\n\n\n\tThe Rams as the 1 seed avoid the chaos of the NFC for a week before an all time classic vs Seattle as Stafford gets Adams on a last second TD. Dallas makes a run to the NFC title for the first time since 1996, but LA's defense is too much for the Cowboys and the Rams offense puts the game out of hand in the 4th quarter.\n\n\n\n\t \n\n\n\n\tSuper Bowl: Bills over Rams 27-23. The Bills win the rematch after they fell early in the season 30-24. The Bills defense and offense are a bit more unified compared to early season growing pains, whereas the length of the season on the Rams aging stars catches up just enough where the Bills can land enough blows on defense to allow Josh & the offense to stay ahead for the title.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T15:52:32.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266358-pick-your-playoff-field-for-2026-27-season/"
     },
     {
       "id": "espn-bills::49865081",
@@ -528,6 +528,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266357-jess-pegula-at-the-us-open/"
     },
     {
+      "id": "espn-bills::49852219",
+      "team": "bills",
+      "title": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
+      "summary": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T13:08:27Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266356-patriots-v-seahawks-820pm-tonight-first-game-of-the-2026-nfl-season/",
       "team": "bills",
       "title": "Patriots v Seahawks | 8:20pm Tonight | First Game Of The 2026 NFL Season",
@@ -581,6 +592,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-09T11:51:12.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266354-6-team-captains-named/"
+    },
+    {
+      "id": "espn-bills::49871989",
+      "team": "bills",
+      "title": "Allen, Jackson, Burrow lead MVP faves; non-QBs lead OROY odds",
+      "summary": "Quarterbacks Josh Allen, Lamar Jackson and Joe Burrow lead an early list of NFL MVP favorites, while RB Jeremiyah Love and WR Carnell Tate top Offensive Rookie of the Year odds.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T11:02:14Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/49871989/allen-jackson-burrow-lead-mvp-faves-non-qbs-lead-oroy-odds"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/top-storylines-for-bills-at-texans-nfl-week-1",
@@ -658,6 +680,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-08T21:53:55.000Z",
       "link": "https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266344-anyone-know-a-good-muskegon-michigan-sports-bar/",
+      "team": "bills",
+      "title": "Anyone know a good Muskegon Michigan sports bar?",
+      "summary": "Will be in Muskegon Michigan for a family wedding this weekend Planning on staying Sunday to watch the game. Anyone know a good place?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-08T21:41:24.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266344-anyone-know-a-good-muskegon-michigan-sports-bar/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266342-this-should-go-well-bills-hold-tryout-with-ot-cody-ford/",
@@ -880,28 +913,6 @@
       "link": "https://www.cbssports.com/soccer/news/americans-champions-league-johnny-cardoso-us-europes-biggest-competition/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
-      "team": "sabres",
-      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-07T12:31:27.000Z",
-      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/zach-metsa-rhd-signs-extension-through-27-28.2929555/",
-      "team": "sabres",
-      "title": "Zach Metsa - RHD - Signs extension through 27/28",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-07T12:20:13.000Z",
-      "link": "https://forums.hfboards.com/threads/zach-metsa-rhd-signs-extension-through-27-28.2929555/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-7/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 9/7",
@@ -922,17 +933,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-07T01:02:35.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45510/usmnt-weekend-roundup-triple-for-sargent"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/msg-streaming-moving-to-dazn.3035165/",
-      "team": "sabres",
-      "title": "MSG streaming moving to DAZN",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-07T00:50:54.000Z",
-      "link": "https://forums.hfboards.com/threads/msg-streaming-moving-to-dazn.3035165/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/josh-doan-says-sabres-will-be-fine-after-losing-players-in-trades-a-better-team/",
@@ -1155,17 +1155,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-star-folarin-baloguns-potential-move-to-everton-snag-deadline-day/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/feel-really-good-bills-gm-brandon-beane-and-hc-joe-brady-on-the-state-on-buffalo-s-2026-roster",
-      "team": "bills",
-      "title": "'Feel really good' | Bills GM Brandon Beane and HC Joe Brady on the state on Buffalo's 2026 roster",
-      "summary": "Flexibility at cornerback, strength at tight end, assessing punt return options and more to know about the Bills roster",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T22:21:09.000Z",
-      "link": "https://www.buffalobills.com/news/feel-really-good-bills-gm-brandon-beane-and-hc-joe-brady-on-the-state-on-buffalo-s-2026-roster"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266280-now-that-the-53-is-set-predict-the-bills-win-total-2026-edition/",
       "team": "bills",
       "title": "Now that the 53 is set, predict the Bills win total (2026 Edition)",
@@ -1241,6 +1230,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-31T15:55:25.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/45436/everton-reportedly-submit-transfer-offer-for-folarin-balogun"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45310/usmnt-weekend-roundup-dest-electric-cavan-pierre-shine",
+      "team": "usmnt",
+      "title": "USMNT weekend roundup: Dest electric, Cavan & Pierre shine",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-31T15:30:49.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/45310/usmnt-weekend-roundup-dest-electric-cavan-pierre-shine"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266263-vince-young-documentary-on-netflix/",
@@ -1320,17 +1320,6 @@
       "link": "https://www.buffalohockeybeat.com/rochester-hires-philip-samuelsson-as-assistant-coach/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266127-psl-sth-contract-some-insane-stuff/",
-      "team": "bills",
-      "title": "PSL STH Contract - Some insane stuff",
-      "summary": "The talk about the contract stuff starts around the 29 minute mark, if this was talked about somewhere else I apologize I typed it in but couldn't find anything. Basically they are spying on everyone in the stadium and no matter what happens to you it's your fault.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-18T03:55:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266127-psl-sth-contract-some-insane-stuff/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-handled-trade-rumors-well-kept-developing/",
       "team": "sabres",
       "title": "Sabres prospect Radim Mrtka handled trade rumors well, kept developing",
@@ -1362,6 +1351,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-15T05:41:58.000Z",
       "link": "https://www.buffalohockeybeat.com/ex-sabres-star-jeff-skinner-finds-home-overseas-buffalo-adds-to-hockey-staff/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/",
+      "team": "bills",
+      "title": "Sean McDermott: The stalking your ex thread",
+      "summary": "A futile attempt to keep all the McDermott stuff in one place",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-07T21:23:50.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/"
     },
     {
       "id": "espn-sabres::49488419",
@@ -1461,6 +1461,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-04-08T01:53:02.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/261187-yahoo-pick-em-and-survivor-leagues-open/",
+      "team": "bills",
+      "title": "Yahoo Pick 'em and Survivor Leagues Open",
+      "summary": "Pick 'em:\n\n\n\n\t \n\n\n\n\thttps://football.fantasysports.yahoo.com/pickem/register/joingroup\n\n\n\n\t \n\n\n\n\tGroup: 25659\n\n\n\n\tPassword: 2025\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tSurvivor:\n\n\n\n\t \n\n\n\n\tSurvivor Pool\n\n\n\n\t \n\n\n\n\tPassword: 2025",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2025-09-02T03:22:43.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/261187-yahoo-pick-em-and-survivor-leagues-open/"
     }
   ]
 }
