@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:16:26.357Z",
+  "generatedAt": "2026-09-11T19:56:42.244Z",
   "sources": [
     {
       "id": "bills-official",
@@ -111,7 +111,7 @@
       "label": "ESPN Soccer",
       "team": "usmnt",
       "itemCount": 0,
-      "error": "fetch failed"
+      "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
@@ -131,8 +131,8 @@
       "id": "bandits-official",
       "label": "Bandits.com",
       "team": "bandits",
-      "itemCount": 0,
-      "error": "fetch failed"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "espn-nll",
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T19:48:45.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
       "team": "sabres",
       "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
@@ -183,8 +194,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-11T17:14:44.000Z",
+      "publishedAt": "2026-09-11T19:46:21.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/139650/buffalo-bills-at-houston-texans-injury-tracker",
+      "team": "bills",
+      "title": "Buffalo Bills at Houston Texans injury tracker",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T19:43:22.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/139650/buffalo-bills-at-houston-texans-injury-tracker"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/139642/buffalo-bills-at-houston-texans-week-1-five-key-questions-for-both-sides",
+      "team": "bills",
+      "title": "Buffalo Bills at Houston Texans, Week 1: Five key questions for both sides",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T19:29:18.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/139642/buffalo-bills-at-houston-texans-week-1-five-key-questions-for-both-sides"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-1-buffalo-0-0-at-houston-0-0-sun-sept-13th-at-1-pm-et-on-cbs.3036731/",
@@ -194,8 +227,107 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-11T17:14:16.000Z",
+      "publishedAt": "2026-09-11T19:20:15.000Z",
       "link": "https://forums.hfboards.com/threads/week-1-buffalo-0-0-at-houston-0-0-sun-sept-13th-at-1-pm-et-on-cbs.3036731/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266386-tua-now-ruled-out-for-sunday-opener/",
+      "team": "bills",
+      "title": "Tua now ruled OUT for Sunday opener.",
+      "summary": "Falcons what is you doin",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T18:54:36.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266386-tua-now-ruled-out-for-sunday-opener/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospects-showcase-september-13-14.3035210/",
+      "team": "sabres",
+      "title": "2026 Prospects Showcase. September 13&14",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T18:44:18.000Z",
+      "link": "https://forums.hfboards.com/threads/2026-prospects-showcase-september-13-14.3035210/"
+    },
+    {
+      "id": "espn-bills::39387513",
+      "team": "bills",
+      "title": "Which NFL teams have never won a Super Bowl?",
+      "summary": "Some NFL teams have scored multiple Lombardi trophies, but which franchises have never won the Super Bowl? Check out more information now.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T18:39:11Z",
+      "link": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
+      "team": "sabres",
+      "title": "Sabres 2026-27 Training Camp Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T18:34:55.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-injury-report-vs-texans-week-1",
+      "team": "bills",
+      "title": "Bills injury report vs. Texans | Week 1",
+      "summary": "RB Ty Johnson (hamstring), DB Jordan Hancock (quad) and DL T.J. Sanders (knee) all have an injury designation.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T18:06:12.000Z",
+      "link": "https://www.buffalobills.com/news/bills-injury-report-vs-texans-week-1"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/139790/buffalo-bills-unlikely-to-face-patriots-wr-a-j-brown-in-week-4",
+      "team": "bills",
+      "title": "Buffalo Bills won’t face Patriots WR A.J. Brown in Week 4",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T17:58:29.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/139790/buffalo-bills-unlikely-to-face-patriots-wr-a-j-brown-in-week-4"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45651/usmnt-weekend-viewing-guide-ready-for-some-football",
+      "team": "usmnt",
+      "title": "USMNT weekend viewing guide: Ready for some football",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T17:56:15.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/45651/usmnt-weekend-viewing-guide-ready-for-some-football"
+    },
+    {
+      "id": "espn-bills::49805531",
+      "team": "bills",
+      "title": "NFL Week 1 picks, predictions, schedule, odds, fantasy tips",
+      "summary": "Josh Allen vs. C.J. Stroud? Jayden Daniels vs. Jalen Hurts? There are 14 games left in Week 1, and we have picks, predictions, key stats, watchability ratings and more.",
+      "source": "ESPN · NFL Nation, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T17:55:24Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49805531/week-1-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
+      "id": "espn-bills::49873166",
+      "team": "bills",
+      "title": "NFL players, coaches, execs remember 9/11 on 25th anniversary",
+      "summary": "Hall of Famers, franchise greats and more recount the moments they experienced in the aftermath of the attacks.",
+      "source": "ESPN · Rich Cimini",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-11T16:57:23Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49873166/remembering-25th-anniversary-9-11-new-york-jets-giants-washington-buffalo-bills"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
@@ -209,17 +341,6 @@
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-11T16:26:01.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/45554/usmnt-midweek-roundup-dest-scores-cavan-keeps-going",
       "team": "usmnt",
       "title": "USMNT midweek roundup: Dest scores, Cavan keeps going",
@@ -229,17 +350,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-11T16:07:20.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45554/usmnt-midweek-roundup-dest-scores-cavan-keeps-going"
-    },
-    {
-      "id": "espn-bills::49805531",
-      "team": "bills",
-      "title": "NFL Week 1 picks, predictions, schedule, odds, fantasy tips",
-      "summary": "Josh Allen vs. C.J. Stroud? Jayden Daniels vs. Jalen Hurts? There are 14 games left in Week 1, and we have picks, predictions, key stats, watchability ratings and more.",
-      "source": "ESPN · NFL Nation, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-11T15:53:56Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49805531/week-1-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266382-pats-expected-to-sign-daquan-jones/",
@@ -385,17 +495,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/49891884/2026-nfl-season-records-statistics-receiving-rushing-fumbles"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-prospects-showcase-september-13-14.3035210/",
-      "team": "sabres",
-      "title": "2026 Prospects Showcase. September 13&14",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-11T10:40:17.000Z",
-      "link": "https://forums.hfboards.com/threads/2026-prospects-showcase-september-13-14.3035210/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266379-clickbait-title/",
       "team": "bills",
       "title": "[Clickbait Title]",
@@ -405,17 +504,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-11T10:32:30.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266379-clickbait-title/"
-    },
-    {
-      "id": "espn-bills::49873166",
-      "team": "bills",
-      "title": "NFL players, coaches, execs remember 9/11 on 25th anniversary",
-      "summary": "Hall of Famers, franchise greats and more recount the moments they experienced in the aftermath of the attacks.",
-      "source": "ESPN · Rich Cimini",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-11T10:00:12Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49873166/remembering-25th-anniversary-9-11-new-york-jets-giants-washington-buffalo-bills"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266378-happy-57th-birthday-to-sds/",
@@ -460,17 +548,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-11T01:21:00Z",
       "link": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/139790/buffalo-bills-unlikely-to-face-patriots-wr-a-j-brown-in-week-4",
-      "team": "bills",
-      "title": "Buffalo Bills unlikely to face Patriots WR A.J. Brown in Week 4",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-11T00:59:23.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/139790/buffalo-bills-unlikely-to-face-patriots-wr-a-j-brown-in-week-4"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266377-aj-brown-confirmed-high-ankle-sprain-expected-to-miss-four-weeks/",
@@ -528,17 +605,6 @@
       "link": "https://www.buffalobills.com/news/south-florida-swagger-how-joe-brady-s-energy-love-for-his-players-fuels-journey-as-bills-head-coach"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/139650/buffalo-bills-at-houston-texans-injury-tracker",
-      "team": "bills",
-      "title": "Buffalo Bills at Houston Texans injury tracker",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-10T21:43:12.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/139650/buffalo-bills-at-houston-texans-injury-tracker"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/radim-mrtka-headlines-buffalo-sabres-prospects-showcase-roster/",
       "team": "sabres",
       "title": "Radim Mrtka headlines Buffalo Sabres’ Prospects Showcase roster",
@@ -550,17 +616,6 @@
       "link": "https://www.buffalohockeybeat.com/radim-mrtka-headlines-buffalo-sabres-prospects-showcase-roster/"
     },
     {
-      "id": "espn-bills::49895401",
-      "team": "bills",
-      "title": "Bills QB Josh Allen seeks to end 0-4 skid in Houston as Joe Brady debuts as Buffalo head coach",
-      "summary": "— Josh Allen and the Buffalo Bills travel to Houston to Sunday to open their season against the Texans with the quarterback looking to finally break through in a place that has never been good to him.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-10T19:58:30Z",
-      "link": "http://www.espn.com/nfl/preview?gameId=401872660"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266372-deone-walker-interview-ready-to-make-an-impact-year-2/",
       "team": "bills",
       "title": "Deone Walker Interview - Ready to Make an Impact Year 2",
@@ -570,17 +625,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-10T19:56:18.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266372-deone-walker-interview-ready-to-make-an-impact-year-2/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
-      "team": "sabres",
-      "title": "Sabres 2026-27 Training Camp Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-10T18:03:47.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/national-analysts-make-predictions-for-the-buffalo-bills-in-2026",
@@ -614,17 +658,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-10T15:15:00Z",
       "link": "https://www.espn.com/nhl/story/_/id/49880611/nhl-2026-27-preseason-questions-lineup-trades-goalies-injuries-playoffs"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/139754/christian-benford-headlines-buffalo-bills-x-factors-vs-houston-texans-in-week-1",
-      "team": "bills",
-      "title": "Christian Benford headlines Buffalo Bills X-factors vs. Houston Texans in Week 1",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-10T15:07:10.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/139754/christian-benford-headlines-buffalo-bills-x-factors-vs-houston-texans-in-week-1"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/olen-zellweger-22-ld-signed-for-3-years-3-1m-aav-acquired-via-trade-from-anaheim.3032655/",
@@ -713,17 +746,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-10T00:06:29.000Z",
       "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/139693/josh-allen-and-buffalo-bills-quick-passing-game-will-shape-week-one-houston-texans",
-      "team": "bills",
-      "title": "Josh Allen and the Buffalo Bills quick passing game will shape Week 1 vs. Texans",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-09T23:21:12.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/139693/josh-allen-and-buffalo-bills-quick-passing-game-will-shape-week-one-houston-texans"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/soccer/45548/ssfc-spotlight-robert-deziel-jr-leading-legia-warsaw-up-the-table",
@@ -825,6 +847,17 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-recognize-these-wny-high-school-football-coaches-week-1-2026"
     },
     {
+      "id": "bandits-official::https://bandits.com/buffalo-museum-of-science-unveils-3-million-science-stadium-permanent-exhibit-in-partnership-with-the-bills-sabres-and-bandits/",
+      "team": "bandits",
+      "title": "Buffalo Museum of Science unveils $3 million Science Stadium permanent exhibit in partnership with the Bills, Sabres, and Bandits",
+      "summary": "The Buﬀalo Museum of Science (BMS) is proud to announce the grand opening of Science Stadium, a brand-new, permanent exhibit that brings the high-energy world of professional sports into the science lab. Years in the making, this $3 million interactive initiative bridges Western New York’s legendary sports culture with the power of STEM (Science, Technology, Engineering, and […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T14:00:35.000Z",
+      "link": "https://bandits.com/buffalo-museum-of-science-unveils-3-million-science-stadium-permanent-exhibit-in-partnership-with-the-bills-sabres-and-bandits/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-museum-of-science-unveils-3-million-science-stadium-permanent-exhibit-in-partnership-with-the-bills-sabres-and-bandits",
       "team": "bills",
       "title": "Buffalo Museum of Science Unveils $3 Million Science Stadium Permanent Exhibit in Partnership with the Bills, Sabres and Bandits",
@@ -834,6 +867,83 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-09T13:59:48.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-museum-of-science-unveils-3-million-science-stadium-permanent-exhibit-in-partnership-with-the-bills-sabres-and-bandits"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/for-the-love-of-the-game-a-letter-from-matt-vinc/",
+      "team": "bandits",
+      "title": "“For the Love of the Game” | A letter from Matt Vinc",
+      "summary": "I was coaching my son, Bodie, in his U-9 lacrosse game earlier this summer when the thought finally hit me:  You know, I’m having fun just doing this. Maybe this is my next chapter.  It’s tough for me to even say now, because you think you’re going to be able to play forever. In a way, it feels like I actually have. But it’s the right time.   […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T13:59:35.000Z",
+      "link": "https://bandits.com/for-the-love-of-the-game-a-letter-from-matt-vinc/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/bandits-sign-robinson-to-3-year-contract/",
+      "team": "bandits",
+      "title": "Bandits sign Robinson to 3-year contract",
+      "summary": "The Buffalo Bandits today announced the team has signed defenseman Dylan Robinsonto a three-year contract, pending league approval.  Robinson (6’2”, 180 lbs., 7/1/2002) completed his fourth season with Buffalo and recorded 12 points (4+8) and 79 loose-ball recoveries in 16 games during the 2025-26 season. Robinson set new single-season career highs in goals, points and loose-ball recoveries last season.   In four seasons with the Bandits, he has compiled 37 points (11+26) and 250 loose balls in 57 games played. The Pickering, Ontario native was […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T13:58:35.000Z",
+      "link": "https://bandits.com/bandits-sign-robinson-to-3-year-contract/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/mark-steenhuis-and-john-gurtler-to-enter-nll-hall-of-fame/",
+      "team": "bandits",
+      "title": "Mark Steenhuis and John Gurtler to enter NLL Hall of Fame",
+      "summary": "The National Lacrosse League (NLL) today announced its Hall of Fame Class of 2026, honoring eight individuals whose extraordinary careers and lasting influence helped shape generations of professional box lacrosse. This year’s class includes Buffalo Bandits broadcaster John Gurtler, as well as former Bandits players Mark Steenhuis, Shawn Evans and Mike Accursi. The other honorees: […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T13:57:35.000Z",
+      "link": "https://bandits.com/mark-steenhuis-and-john-gurtler-to-enter-nll-hall-of-fame/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/",
+      "team": "bandits",
+      "title": "Byrne, Smith among Bandits coaching WNY Underclassmen All-Star Game on June 18",
+      "summary": "The Buffalo Bandits are proud to showcase the top rising varsity lacrosse talent in Western New York at the third-annual WNY Underclassmen All-Star Game, presented by Crossbar Athletics. The event will be held at West Seneca East High School on Thursday, June 18. The girls’ game begins at 6 p.m. followed by the boys’ game […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T13:54:35.000Z",
+      "link": "https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/smith-de-snoo-headline-bandits-named-to-capelli-sport-all-nll-teams/",
+      "team": "bandits",
+      "title": "Smith, de Snoo named to Capelli Sport All-NLL teams",
+      "summary": "Buffalo Bandits forward Dhane Smith and defenseman Mitch de Snoo have been named to the Capelli Sport All-NLL teams for the 2025-26 season.   Smith – who was a finalist for NLL MVP and Offensive Player of the Year – was named First Team All-NLL while de Snoo was tabbed a Second Team All-NLL selection.   It’s the second straight […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T13:53:35.000Z",
+      "link": "https://bandits.com/smith-de-snoo-headline-bandits-named-to-capelli-sport-all-nll-teams/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/buchanan-smith-named-finalists-for-nll-awards/",
+      "team": "bandits",
+      "title": "Buchanan, Smith named finalists for NLL Awards",
+      "summary": "Buffalo Bandits forwards Dhane Smith and Kyle Buchanan have been named finalists for the NLL’s end-of-season awards, the league announced Wednesday.   Smith was tabbed as a finalist for both NLL MVP and Offensive Player of the Year while Buchanan is up for the NLL’s Sportsmanship Award.   It’s the second consecutive season both players are finalists for their respective awards as Smith is the reigning Offensive […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T13:52:35.000Z",
+      "link": "https://bandits.com/buchanan-smith-named-finalists-for-nll-awards/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/gurts-fast-break-well-be-back/",
+      "team": "bandits",
+      "title": "Gurts Fast Break: We’ll Be Back",
+      "summary": "Another Season Not good at long goodbyes, but I want to write that it has been a wonderful run with the Bandits, including the five recent NLL Finals appearances and the team’s back-to-back-to-back championships. Last Saturday’s defeat to the Georgia Swarm was devastating, given the rungs on the ladder climbed this season to earn a […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-09T13:51:35.000Z",
+      "link": "https://bandits.com/gurts-fast-break-well-be-back/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266357-jess-pegula-at-the-us-open/",
@@ -1045,17 +1155,6 @@
       "link": "https://www.diebytheblade.com/2027-nhl-mock-draft-first-round-buffalo-sabres-noah-davidson-riley-zupfer/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/why-are-the-bills-replacing-the-grass-at-highmark-stadium-it-wasn-t-up-to-their-standards",
-      "team": "bills",
-      "title": "Why are the Bills replacing the grass at Highmark Stadium? It wasn't up to their standards",
-      "summary": "The Bills are re-sodding the field at Highmark Stadium with different grass that is thicker than the previous installation. Here's why they are doing it.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-04T00:07:38.000Z",
-      "link": "https://www.buffalobills.com/news/why-are-the-bills-replacing-the-grass-at-highmark-stadium-it-wasn-t-up-to-their-standards"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45362/usmnt-midweek-roundup-mathis-albert-debut",
       "team": "usmnt",
       "title": "USMNT midweek roundup: Mathis Albert debut",
@@ -1164,17 +1263,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-01T16:49:53.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266278-new-season-fresh-optimism/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/general/45253/get-the-best-of-stars-and-stripes-fc-on-the-new-sb-nation-app",
-      "team": "usmnt",
-      "title": "Get the best of Stars and Stripes FC on the new SB Nation app",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-01T13:13:26.000Z",
-      "link": "https://www.starsandstripesfc.com/general/45253/get-the-best-of-stars-and-stripes-fc-on-the-new-sb-nation-app"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/former-sabres-prospects-have-found-new-jobs-all-over-this-summer/",
@@ -1342,26 +1430,15 @@
       "link": "https://www.espn.com/nhl/story/_/id/49368368/inclusion-owner-family-devalues-stanley-cup"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265541-tbdahot-sign-up-for-parking/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265527-myles-garrett-traded-to-rams/",
       "team": "bills",
-      "title": "TBDAHOT: sign up for parking!",
-      "summary": "I understand things may look drastically different this year, but I want to get a sense who’s up for keeping this tradition going!\n\n\n\n\t \n\n\n\n\tPlease let me know if you want to get together for the home opener this year. It doesn’t matter if you’ve gone to 1, 25 or if you have never attended one. Everyone’s welcome! Even if you don’t plan on going inside for the game.\n\n\n\n\t \n\n\n\n\tWith regards to this topic, I do not have any interest in people who are going and plan to het together elsewhere. Enjoy yourself, be safe, but do not talk about it in this topic.\n\n\n\n\t \n\n\n\n\tI don’t want to officially speak for others, but I believe me, Jay Rosen, and Guffalo are definitely carrying on the tradition. \n\n\n\n\t \n\n\n\n\tWho else?",
+      "title": "Myles Garrett traded to Rams",
+      "summary": "Wow!",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-06-03T15:38:08.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265541-tbdahot-sign-up-for-parking/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/",
-      "team": "bills",
-      "title": "Vrabel and Russini cheating on their spouses together ? Rumor",
-      "summary": "Will the NFL investigate adultery - gate?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-04-08T01:53:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265114-vrabel-and-russini-cheating-on-their-spouses-together-rumor/"
+      "publishedAt": "2026-06-01T17:21:32.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/265527-myles-garrett-traded-to-rams/"
     }
   ]
 }
