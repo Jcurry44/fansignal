@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T05:14:18.234Z",
+  "generatedAt": "2026-09-15T10:08:23.520Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -176,15 +176,37 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/",
+      "id": "bills-official::https://www.buffalobills.com/news/nfl-network-to-debut-highmark-stadium-documentary-dion-dawkins-an-executive-producer",
+      "team": "bills",
+      "title": "NFL Network to Debut Highmark Stadium Documentary, Dion Dawkins an Executive Producer",
+      "summary": "The premiere episode will air on NFL Network on Thursday, Sept. 17 at 7 p.m. ahead of the first Buffalo Bills home game at Highmark Stadium.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T10:00:00.000Z",
+      "link": "https://www.buffalobills.com/news/nfl-network-to-debut-highmark-stadium-documentary-dion-dawkins-an-executive-producer"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
-      "title": "The Second Annual Old Navy Goat Draft Thread, 2027 Edition",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-15T04:58:29.000Z",
-      "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
+      "publishedAt": "2026-09-15T08:19:17.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-prospects-tournament-highlights-oilers-6-flames-1/",
+      "team": "sabres",
+      "title": "NHL Prospects Tournament Highlights: Oilers 6, Flames 1",
+      "summary": "The Oilers’ rookies dominated the Flames 6-1 in the NextGen Showcase, with Quinn Hutson and Zach Bookman leading the way offensively.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T05:44:18.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/nhl-prospects-tournament-highlights-oilers-6-flames-1/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-2-detroit-1-0-at-buffalo-1-0-thurs-sept-17th-at-8-15-pm-et-on-amazon-prime.3036731/",
@@ -194,8 +216,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-15T03:48:39.000Z",
+      "publishedAt": "2026-09-15T05:09:21.000Z",
       "link": "https://forums.hfboards.com/threads/week-2-detroit-1-0-at-buffalo-1-0-thurs-sept-17th-at-8-15-pm-et-on-amazon-prime.3036731/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/",
+      "team": "sabres",
+      "title": "The Second Annual Old Navy Goat Draft Thread, 2027 Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T04:58:29.000Z",
+      "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
@@ -253,6 +286,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266461-eric-wood-a-couple-of-interesting-points/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/140185/buffalo-bills-jim-leonhard-coverage-diversity-something-to-watch-under-new-defensive-coordinator",
+      "team": "bills",
+      "title": "Coverage diversity something to watch under Buffalo Bills new DC Jim Leonhard",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T01:27:01.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/140185/buffalo-bills-jim-leonhard-coverage-diversity-something-to-watch-under-new-defensive-coordinator"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/140229/buffalo-bills-oc-pete-carmichael-reflects-on-pretty-special-effort-in-week-1",
       "team": "bills",
       "title": "Buffalo Bills OC Pete Carmichael reflects on “pretty special” effort in Week 1",
@@ -262,17 +306,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-15T01:08:27.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/140229/buffalo-bills-oc-pete-carmichael-reflects-on-pretty-special-effort-in-week-1"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-15T00:57:13.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
@@ -561,17 +594,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/140149/buffalo-bills-injury-update-cole-bishop-d-j-moore-more"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-game-information/140140/buffalo-bills-records-milestones-from-week-1-win-over-texans",
-      "team": "bills",
-      "title": "Buffalo Bills records, milestones from Week 1 win over Texans",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-14T18:05:08.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-game-information/140140/buffalo-bills-records-milestones-from-week-1-win-over-texans"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266451-new-d-by-the-numbers-week-1/",
       "team": "bills",
       "title": "New D by the numbers week 1",
@@ -713,6 +735,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-14T12:53:01Z",
       "link": "https://www.espn.com/nfl/story/_/id/49930014/week-1-offenses-bears-ravens-bills-jaguars-barnwell"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266445-bills-schedule-on-front-page/",
+      "team": "bills",
+      "title": "Bills Schedule on Front Page",
+      "summary": "I am confused.  Do not the Bills get the Chargers-- not the Rams-- at home after the Lions?  And then in October play Rams in LA?  Schedule on front page has the opposite.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-14T12:39:35.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266445-bills-schedule-on-front-page/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266444-the-battle-of-the-allens/",
@@ -1010,17 +1043,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-11T21:06:13.000Z",
       "link": "https://www.buffalobills.com/news/now-it-s-time-to-go-both-sides-of-the-ball-have-reasons-to-be-excited-ahead-of-week-1-matchup-with-houston-texans"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/bills-injury-report-vs-texans-week-1",
-      "team": "bills",
-      "title": "Bills injury report vs. Texans | Week 1",
-      "summary": "RB Ty Johnson (hamstring), DB Jordan Hancock (quad) and DL T.J. Sanders (knee) all have an injury designation.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-11T18:06:12.000Z",
-      "link": "https://www.buffalobills.com/news/bills-injury-report-vs-texans-week-1"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45651/usmnt-weekend-viewing-guide-ready-for-some-football",
@@ -1329,17 +1351,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-21T04:24:06.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266160-landon-jackson-revisited/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266146-editthis-is-it-folks%E2%80%A6500-see-the-bold-edit/",
-      "team": "bills",
-      "title": "[Edit]...This is it folks…#500, see the bold edit",
-      "summary": "...but if they do the team's all time regular season record will be 513-512-8.\n\n\n\n\t \n\n\n\n\tIf, at the very least, they don't have the number one seed, but make it to the Super Bowl, but lose, then their all time playoff record will be 25-24.\n\n\n\n\t \n\n\n\n\tI guess what I am saying is...Go Bills.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tEDIT: ...and you better believe that when we beat Houston in the opening game it will set up a tremendous scenario to win the franchise's 500th regular season game during the home opener for the new stadium against Detroit.\n\n\n\n\t \n\n\n\n\tEDIT 2: The Bills have not had a winning record since early on in the 1968 season.  Additionally, the closest (by end of the year tallies) that they came was just before the start of the 2001 season when they were (if I did my math correctly) 296-298-8.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-19T14:11:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266146-editthis-is-it-folks%E2%80%A6500-see-the-bold-edit/"
     },
     {
       "id": "espn-sabres::49488419",
