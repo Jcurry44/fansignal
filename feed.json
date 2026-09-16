@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:27:49.505Z",
+  "generatedAt": "2026-09-16T05:07:56.906Z",
   "sources": [
     {
       "id": "bills-official",
@@ -96,7 +96,7 @@
       "id": "hfboards-sabres",
       "label": "HFBoards",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 20,
       "error": null
     },
     {
@@ -176,6 +176,83 @@
   ],
   "stories": [
     {
+      "id": "espn-sabres::49954674",
+      "team": "sabres",
+      "title": "Champion Hurricanes give captain Jordan Staal, 38, new deal",
+      "summary": "Veteran forward Jordan Staal, 38, who captained the Carolina Hurricanes to a Stanley Cup title in June, winning the Conn Smythe Trophy for postseason MVP along the way, signed a one-year contract extension with the club late Tuesday night.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-16T04:59:07Z",
+      "link": "https://www.espn.com/nhl/story/_/id/49954674/champion-hurricanes-give-captain-jordan-staal-38-new-deal"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
+      "team": "sabres",
+      "title": "Sabres 2026-27 Training Camp Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-16T04:50:08.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: Silly Season Now XXXX Fools and Their Money Two Electric Offersheetaloo",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-16T04:06:08.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-silly-season-now-xxxx-fools-and-their-money-two-electric-offersheetaloo.3033750/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266484-bills-replay/",
+      "team": "bills",
+      "title": "Bills Replay",
+      "summary": "FYI...\n\n\n\n\tFor those who get the NFL Network, the Bills v Texans game will be aired tomorrow night at 8 pm.\n\n\n\n\t \n\n\n\n\tAlso, the 2 pm game tomorrow is Lions v Saints.   So you can scout the competition for Thursday night.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-16T03:18:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266484-bills-replay/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266483-bradley-chubb-micd-up-for-the-houston-game/",
+      "team": "bills",
+      "title": "Bradley Chubb  Mic'd Up for the Houston Game",
+      "summary": "Man, the guy was never tired of pumping everyone up all game. Loved he went over to offense high-five everyone when they scored.\n\n\n\n\t \n\n\n\n\tHeard a few other vets talking, Bernard, Hoecht, pumping the D guys up. Surprised CJGJ yelled to everyone \"We gotta do it. let's earn our money!\" that I assume in the stretch when the Texans took the lead.  And of course Chubb had the perspective before they went out for the last defensive series \"Hey it doesn't matter what happened all game, It's about what happens right now. let's get off the g*d damn field, man!\"",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-16T02:00:57.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266483-bradley-chubb-micd-up-for-the-houston-game/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-16T01:51:00.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-16T01:43:59.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/140339/bills-at-texans-week-1-snap-counts-tight-ends-take-over-defense-logs-79-snaps",
       "team": "bills",
       "title": "Bills at Texans Week 1 snap counts: Tight ends take over,  defense logs 79 snaps",
@@ -185,17 +262,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-15T23:28:49.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/140339/bills-at-texans-week-1-snap-counts-tight-ends-take-over-defense-logs-79-snaps"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266480-practice-squad-updates/",
-      "team": "bills",
-      "title": "Practice Squad Updates",
-      "summary": "Yup , today I’m the guy with the nonsense news before Thursday’s Game. \n\t \n\n\n\n\tCouple of changes to the PS. \n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tA lot of people thought Broeker had a chance for the 53 but first guy to go on the PS. \n\t \n\n\n\n\t\n\n\n\n\tNot Bills related necessarily but former Bills Hard Knocks love child Jimmy Ciarlo signs with the Titans PS",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-15T22:38:15.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266480-practice-squad-updates/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266479-compensatory-pick-update/",
@@ -297,6 +363,17 @@
       "link": "https://bandits.com/byrne-smith-among-bandits-coaching-wny-underclassmen-all-star-game-on-june-18/"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T21:03:34.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/140236/buffalo-bills-offensive-skill-positions-shined-vs-houston-texans",
       "team": "bills",
       "title": "Buffalo Bills offensive skill positions shined vs. Houston Texans",
@@ -317,6 +394,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-15T20:43:55.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266478-3-up-3-down/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-2-detroit-1-0-at-buffalo-1-0-thurs-sept-17th-at-8-15-pm-et-on-amazon-prime.3036731/",
+      "team": "sabres",
+      "title": "Week 2: Detroit (1-0) at Buffalo (1-0); Thurs Sept 17th at 8:15 PM ET on Amazon Prime",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T20:23:31.000Z",
+      "link": "https://forums.hfboards.com/threads/week-2-detroit-1-0-at-buffalo-1-0-thurs-sept-17th-at-8-15-pm-et-on-amazon-prime.3036731/"
     },
     {
       "id": "espn-bills::47809892",
@@ -361,6 +449,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-15T19:16:08.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-stars-in-europa-league-world-cup-core-christian-pulisic-weston-mckennie/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/",
+      "team": "sabres",
+      "title": "General Discussion of Prospects",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T19:15:26.000Z",
+      "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/samuel-meloche-g-116th-overall-2025.3007742/",
+      "team": "sabres",
+      "title": "Samuel Meloche, G, 116th overall, 2025",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T17:48:18.000Z",
+      "link": "https://forums.hfboards.com/threads/samuel-meloche-g-116th-overall-2025.3007742/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-assign-four-prospects-to-junior-rochester-adds-forward-and-goalie/",
@@ -418,6 +528,17 @@
       "link": "https://www.starsandstripesfc.com/latest-news/45780/catarina-macario-placed-on-nwsl-season-ending-injury-list"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/",
+      "team": "sabres",
+      "title": "The Second Annual Old Navy Goat Draft Thread, 2027 Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T15:32:32.000Z",
+      "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266469-joe-bradys-offense-scheme/",
       "team": "bills",
       "title": "Joe Brady's Offense Scheme",
@@ -438,6 +559,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-15T15:11:43.000Z",
       "link": "https://www.buffalobills.com/news/we-can-sleep-on-friday-bills-coaches-recap-week-1-win-and-what-it-ll-take-to-replicate-it"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/c-noah-ostlund-16th-overall-2022-nhl-draft-%E2%80%94-signs-8-year-extension-at-6-6m-aav-9-14-26.2891225/",
+      "team": "sabres",
+      "title": "C Noah Ostlund, 16th Overall, 2022 NHL Draft — Signs 8 year extension at $6.6M AAV, 9/14/26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T15:00:03.000Z",
+      "link": "https://forums.hfboards.com/threads/c-noah-ostlund-16th-overall-2022-nhl-draft-%E2%80%94-signs-8-year-extension-at-6-6m-aav-9-14-26.2891225/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/140278/josh-allen-earns-my-week-1-game-ball-after-leading-bills-past-texans",
@@ -517,6 +649,72 @@
       "link": "https://www.twobillsdrive.com/community/topic/266466-first-concert-announced-kenny-chesney-eric-church-old-dominion-and-greylan-james-061927/"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
+      "team": "sabres",
+      "title": "Radim Mrtka, RD, (9th OA, 2025); Seattle Thunderbirds (WHL), Assigned to Rochester 4/8/26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T12:55:08.000Z",
+      "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/",
+      "team": "sabres",
+      "title": "Dylan Dumont, RW, Drummondville (QMJHL) -188OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T12:48:35.000Z",
+      "link": "https://forums.hfboards.com/threads/dylan-dumont-rw-drummondville-qmjhl-188oa-2026.3032873/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
+      "team": "sabres",
+      "title": "All Purpose Goaltending Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T12:43:19.000Z",
+      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/maxim-strbak-rd-sioux-falls-ushl-selection-45oa-2023-signed.2933259/",
+      "team": "sabres",
+      "title": "Maxim Strbak, RD, Sioux Falls (USHL) - Selection 45OA, 2023; Signed",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T12:41:10.000Z",
+      "link": "https://forums.hfboards.com/threads/maxim-strbak-rd-sioux-falls-ushl-selection-45oa-2023-signed.2933259/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rw-jake-richard-170th-overall-2022-nhl-draft-5-28-26-signs-2-year-elc.2891480/",
+      "team": "sabres",
+      "title": "RW - Jake Richard, 170th Overall, 2022 NHL Draft; 5/28/26: Signs 2-year ELC",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T12:40:36.000Z",
+      "link": "https://forums.hfboards.com/threads/rw-jake-richard-170th-overall-2022-nhl-draft-5-28-26-signs-2-year-elc.2891480/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/",
+      "team": "sabres",
+      "title": "Gavin McCarthy, Muskegon (USHL), Boston University; RD - 86OA, 2023; Signs 3 year ELC 3/17/26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T12:39:56.000Z",
+      "link": "https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/kenny-chesney-is-bringing-the-vibe-room-to-highmark-stadium",
       "team": "bills",
       "title": "Kenny Chesney is bringing The Original Vibe Room Tour to Highmark Stadium on June 19, 2027",
@@ -539,6 +737,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/140237/buffalo-bills-tailgate-scene-you-havent-really-tailgated-in-buffalo-until-youve-found-the-red-pinto-week-2-detroit-lions"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
+      "team": "sabres",
+      "title": "General lacrosse thread presented by your local lax goalie dad",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T12:02:42.000Z",
+      "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-3-josh-doan/",
       "team": "sabres",
       "title": "Buffalo Sabres Top 25 Under 25: #3 Josh Doan",
@@ -548,6 +757,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-15T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-3-josh-doan/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-john-davidson-hired-as-senior-advisor-7-13-26-jeremiah-crowe-to-the-leafs-7-15-26.3028546/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Front Office Thread 2. John Davidson Hired As Senior Advisor 7-13-26, Jeremiah Crowe To The Leafs 7-15-26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T11:48:31.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-sabres-front-office-thread-2-john-davidson-hired-as-senior-advisor-7-13-26-jeremiah-crowe-to-the-leafs-7-15-26.3028546/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266465-most-qb-wins-in-first-10-seasons-i-think-allen-breaks-it/",
@@ -594,6 +814,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/140185/buffalo-bills-jim-leonhard-coverage-diversity-something-to-watch-under-new-defensive-coordinator"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/benson-doan-helenius-kulich-ostlund-rank-them.3037067/",
+      "team": "sabres",
+      "title": "Benson - Doan - Helenius - Kulich - Ostlund (Rank Them!)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T10:43:05.000Z",
+      "link": "https://forums.hfboards.com/threads/benson-doan-helenius-kulich-ostlund-rank-them.3037067/"
+    },
+    {
       "id": "espn-bills::49794361",
       "team": "bills",
       "title": "2027 NFL draft order projections for Round 1, top pick, more",
@@ -625,6 +856,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-15T05:03:58.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-sign-noah-ostlund-to-eight-year-52-8-million-contract/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/c-w-jiri-kulich-28th-overall-2022-nhl-draft.2891250/",
+      "team": "sabres",
+      "title": "C/W Jiri Kulich, 28th Overall, 2022 NHL Draft",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-15T01:38:19.000Z",
+      "link": "https://forums.hfboards.com/threads/c-w-jiri-kulich-28th-overall-2022-nhl-draft.2891250/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/140229/buffalo-bills-oc-pete-carmichael-reflects-on-pretty-special-effort-in-week-1",
@@ -660,15 +902,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/140209/bills-dc-jim-leonhard-excited-understands-defense-not-up-to-standards-yet"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266459-week-2-duhtwah-v-bills-predict-the-score/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266456-leonhards-presser-today/",
       "team": "bills",
-      "title": "Week 2, Duhtwah v. Bills, PREDICT THE SCORE!",
-      "summary": "The Bills host Duhtwah for the grand opening of the new Highmark Stadium in the regular season, on Thursday Night Football, no less!  The Bills come off a big win in Houston, while the Lions beat the Saints by 1 point in overtime last week.  This shapes up as a Clash of the Titans.\n\t\n\tJosh is my ride or die.  I'm betting on him to beat the world.  Nothing will get in his way, not Brady, not dropped passes, nothing.  Bills win comfortably:\n\n\n\n\t \n\n\n\n\tDuhtwah - 31\n\n\n\n\tBeews - 41\n\n\n\n\t \n\n\n\n\tPrevious winners:\n\n\n\n\t \n\n\n\n\tWeek 1 - @colin",
+      "title": "Leonhard's Presser Today",
+      "summary": "He's good talker. Took responsibility of the Texans TD drive before the half. Mentioned a lot of \"cleanups\". \n\n\n\n\t \n\n\n\n\tTalk is cheap. Let's see some improvement. I do understand that he's learning of his players as well, and he said so himself. The 80% snap counts for our top guys is an issue but not sure what he can do this Thursday, though.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-14T22:55:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266459-week-2-duhtwah-v-bills-predict-the-score/"
+      "publishedAt": "2026-09-14T20:08:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266456-leonhards-presser-today/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-fb-brock-lampe-to-the-practice-squad",
@@ -759,17 +1001,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266439-was-christian-benford-really-that-bad-today/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266437-thoughts-on-the-near-pick-to-end-the-game/",
-      "team": "bills",
-      "title": "Thoughts on the near pick to end the game?",
-      "summary": "Football can be pretty crazy. if Houston catches that ball we lose this game. They should have, they didn’t. Otherwise Allen was elite. He had been successful on a lot of one on one throws, I just don’t think you can force that to Palmer. A jump ball guy, sure. But Palmer is not that. \n\t \n\n\n\n\tDoes anybody know anything further on this play? Was it brought up post game? Hoping to find out it was a miscommunication on the route or something else. I get why Josh wanted 6 so badly. It was likely the only way to win that game without kicking with no time left. Still, from what I know at this time it looked like a near catastrophic error. The kind you hope to just not see.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-14T02:24:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266437-thoughts-on-the-near-pick-to-end-the-game/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-texans-week-1-2026",
       "team": "bills",
       "title": "Top 3 things we learned from Bills vs. Texans | Week 1 2026",
@@ -836,6 +1067,17 @@
       "link": "https://www.buffalobills.com/news/bills-36-texans-31-final-score-game-highlights-key-stats-week-1"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266419-week-1-bills-v-texicans-game-balls/",
+      "team": "bills",
+      "title": "Week 1, Bills v. Texicans, GAME BALLS!",
+      "summary": "Josh Allen gets his automatic gameball, and James Cook's is revoked for an ineffective 2nd half.\n\n\n\n\t \n\n\n\n\tDJ Moore - Amazing what a true #1 does to your offense.  DJ made an immediate impact with his huge TD and the PI in the end zone.\n\n\n\n\tDalton \"Reuben\" Kincaid - Time and again, he was Johnny-on-the-spot.  His big catch in the 4th quarter led directly to the winning TD.\n\n\n\n\tJoshua Palmer - Sometimes you get a game ball for one play.  The winning TD was a great route and Palmer made no mistakes with catching the strike from Josh.\n\n\n\n\t \n\n\n\n\tGreg \"Groot\" Rousseau - Two forced fumbles, with the play of the game at the end.  Just wow!\n\n\n\n\tDeone Walker - He didn't make enough plays, put when he did, he jumped off the screen with TFLs, sacks, and big hits.\n\n\n\n\t \n\n\n\n\tWHO YA GOT?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-13T20:22:05.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266419-week-1-bills-v-texicans-game-balls/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-houston-texans-where-to-watch-stream-and-listen-week-1",
       "team": "bills",
       "title": "Buffalo Bills vs. Houston Texans | Where to watch, stream and listen | Week 1",
@@ -847,17 +1089,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-vs-houston-texans-where-to-watch-stream-and-listen-week-1"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266417-tbdahot-tailgate-request-list/",
-      "team": "bills",
-      "title": "TBDAHOT tailgate request list.",
-      "summary": "Just Jack 1    Guffalo 1.    cgang1.  Sds 1   rsxfirefighter 1   Jauronimo 1   VA Bills 1. RRich 1.  Bferra 1  Paul & Lisa 3   Rock pile but ain’t hanging around for game so general spot. Plenzmed 1 the others must register on TBD to be included. This is what I have so far. Some say they (Boyst) will be there but don’t request a spot so I’m assuming walking in. Spots held to 2 pm. As always, Large at least 1/2” letters on a sign, saying TBD to be shown to gate keeper for entrance. I plan on setting the event in the same spot but might move to middle of the lot due to demand. Request closes on Tuesday 9-15-2027 at 5 pm Hammer Time. Thank You I think!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-13T15:56:34.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266417-tbdahot-tailgate-request-list/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-4-konsta-helenius/",
       "team": "sabres",
       "title": "Buffalo Sabres Top 25 Under 25: #4 Konsta Helenius",
@@ -867,6 +1098,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-13T11:54:01.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-4-konsta-helenius/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266412-around-the-nfl-thread-week1-no-bills-stuff-please/",
+      "team": "bills",
+      "title": "Around the NFL Thread - Week#1 (No Bills stuff please)",
+      "summary": "Please post thoughts and materials about games other than the Bills here.\n\n\n\n\t \n\n\n\n\tGo Bills!!!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-13T10:04:57.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266412-around-the-nfl-thread-week1-no-bills-stuff-please/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-5-noah-ostlund/",
@@ -1164,28 +1406,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-21T20:18:05Z",
       "link": "https://www.espn.com/nhl/story/_/id/49419342/nhl-produce-games-hurricanes-blue-jackets-wild-blues"
-    },
-    {
-      "id": "espn-sabres::49405523",
-      "team": "sabres",
-      "title": "Behind the scenes at the NHL Broadcast Training Camp",
-      "summary": "Who will be the next great hockey player turned analyst? We attended the latest training program in New York to find out.",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-20T15:04:58Z",
-      "link": "https://www.espn.com/nhl/story/_/id/49405523/nhl-players-broadcast-training-camp-announcers-analysts-tv"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/",
-      "team": "bills",
-      "title": "Stadium Construction Discussion (No PSL/Seat selection posts)",
-      "summary": "https://www.buffalobills.com/news/construction-on-new-bills-stadium-to-begin-immediately",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2023-05-04T18:27:11.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/247161-stadium-construction-discussion-no-pslseat-selection-posts/"
     }
   ]
 }
