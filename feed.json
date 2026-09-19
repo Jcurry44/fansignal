@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:16:13.248Z",
+  "generatedAt": "2026-09-19T22:25:10.818Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/cozens-looking-forward-to-facing-cousin-mckenna-as-division-rival/",
+      "team": "sabres",
+      "title": "Cozens looking forward to facing cousin McKenna as division rival",
+      "summary": "Ottawa Senators forward Dylan Cozens talks about the possibility of going up against his cousin Gavin McKenna this season as the two prepare to compete in the same division.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T22:09:15.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/cozens-looking-forward-to-facing-cousin-mckenna-as-division-rival/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
       "team": "sabres",
       "title": "Sabres 2026-27 Training Camp Thread",
@@ -183,8 +194,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-19T20:14:13.000Z",
+      "publishedAt": "2026-09-19T21:48:24.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T21:15:53.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266563-one-tweak-id-like-to-see-for-video-at-the-stadium/",
+      "team": "bills",
+      "title": "One \"tweak\" I'd like to see for video at the stadium...",
+      "summary": "If somebody thinks this should be merged somewhere that's fine, but I was thinking about the game on Thursday and I believe the biggest area for improvement on in-stadium video is larger presentations of the down and distance. It's really the only thing I constantly found myself squinting to read. They had it in a small box on the ribbon along the sideline, but it feels like they could make it larger, and also put it on the main boards in a more prominent location.\n\n\n\n\t \n\n\n\n\tOtherwise I didn't really find fault with anything...the \"live\" ads were corny but that's just production value.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T20:30:49.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266563-one-tweak-id-like-to-see-for-video-at-the-stadium/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/david-bedkowski-rd-71st-overall-2025-traded-to-the-ottawa-67s-ohl.3007695/",
@@ -273,17 +306,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-19T17:37:08.000Z",
       "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
-      "team": "sabres",
-      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-19T16:45:38.000Z",
-      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/samuel-meloche-g-116th-overall-2025.3007742/",
@@ -781,6 +803,17 @@
       "link": "https://www.espn.com/video/clip/_/id/49973250/stephen-not-ready-crown-bills-team-beat-afc"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266534-josh-allens-night-even-more-impressive-played-through-the-flu/",
+      "team": "bills",
+      "title": "Josh Allens night even MORE impressive - Played through the FLU",
+      "summary": "Not sure how many of you watched the Amazon post game interviews with Allen and Dion (it was great) - but during this Richard Sherman revealed Allen had the flu pretty bad before the game.  \n\t\n\tSo not only does DJ Moore not have a catch and miss most the game, but Allen has a real bad flu and getting some serious treatment before the game and still goes and puts on an absolute clinic and puts up 5 TD's.  \n\t\n\t9 TD's to start the season agasint the Texans D and expected AFC contender and the Lions, expected NFC contender, without Moore contributing and with the Flu.  \n\n\n\n\t \n\n\n\n\tUnreal.  \n\n\n\n\t \n\n\n\n\tFound the clip of it...",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-18T14:38:10.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266534-josh-allens-night-even-more-impressive-played-through-the-flu/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266533-our-first-game-in-highmark-stadium-was-glorious/",
       "team": "bills",
       "title": "Our first game in Highmark Stadium was GLORIOUS!!",
@@ -790,17 +823,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-18T14:15:31.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266533-our-first-game-in-highmark-stadium-was-glorious/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266532-3-up-3-down-week-2/",
-      "team": "bills",
-      "title": "3 up 3 Down - week 2",
-      "summary": "3 up\n\n\n\n\t \n\n\n\n\tDeone Walker - this guy has a shot at being a total game wrecker\n\n\n\n\tKeon Coleman - not my favorite player but he stepped up and made a clutch difference in this game good for him!\n\n\n\n\tGreg Rousseau - I mean what can you say if he remains consistent like this he could have a 10-15 sack season\n\n\n\n\t \n\n\n\n\t3 Down\n\n\n\n\t \n\n\n\n\tBills Secondary - I am not sure how many times I said maybe you want to put someone anyone on St Brown. WR running free down field, Bad tackling,  Benford taking heat but I am not sure he is a true No 1 Corner... we need to upgrade I am not seeing Max or Iggy doing this yet. Tre... you in shape?  LOL\n\n\n\n\tJim Leonhard - now maybe there was a reason, but the lack of pressuring Goff who was clearly struggling with it and playing soft baffled me, 2ndary looked like a fire drill, giving up 4th and 18s simply cannot happen. I think we knew it was gonna take some time... but currently 2 games in..  as the Who said.. meet the new boss same as the old boss... \n\n\n\n\t 3rd and 4th down D - I will admit I am struggling to find a 3rd down for this I didnt notice one individual really to put here and what comes to me is likely a combination of the 1st 2 downs. We just need to get off the field much better on 3rd and 4th and longs.. I mean over a long season thats gonna get you. \n\n\n\n\t \n\n\n\n\tWhat/who do you think are the 3u3d's",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T13:40:50.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266532-3-up-3-down-week-2/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-leans-into-youth-usmnt/",
@@ -834,17 +856,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-18T12:49:12Z",
       "link": "https://www.espn.com/video/clip/_/id/49972361/is-josh-allen-already-mvp-front-runner"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266531-i-was-incredibly-impressed-with-keon/",
-      "team": "bills",
-      "title": "I was incredibly impressed with Keon",
-      "summary": "Bro looked like he had his leg blown off in the first half, came back out in the second and put up that performance.\n\n\n\n\t \n\n\n\n\tHuge given the DJ injury but man, if he keeps getting open like that you know 17 is going to find him. He might finally be making the most of his opportunity as Marv Levy would say",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T12:43:25.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266531-i-was-incredibly-impressed-with-keon/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/140586/dj-moore-injury-bills-wr-heads-to-locker-room-after-hurting-shoulder",
@@ -1375,17 +1386,6 @@
       "link": "https://www.buffalohockeybeat.com/qmjhl-star-samuel-meloche-becoming-sabres-best-goalie-prospect/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266388-what-have-you-done-to-help-the-buffalo-bills-win-it-all-this-year/",
-      "team": "bills",
-      "title": "What have you done to help the Buffalo Bills win it all this year?",
-      "summary": "What have you done to help the Buffalo Bills win it all?\n\n\n\n\tGood karma and paying it forward.\n\n\n\n\t \n\n\n\n\tEvery year, my wife and I like to escape the cold New Zealand winter and head up to the warm waters in the South Pacific islands.\n\n\n\n\tWe’ve visited quite a few of the islands over the years, but our go-to destination is the Cook Islands. For those who haven’t been, the Cook Islands are a group of 15 tiny islands/atolls scattered across the vast, cobalt-blue stretch of the Pacific, somewhere between Tahiti and Samoa/Tonga.\n\n\n\n\t \n\n\n\n\tThe main island, Rarotonga, has a great vibrant community, and years ago we stumbled across a burger joint there called Vili’s. Ever since, we’ve made it a point to stop in whenever we’re on Rarotonga and fill our bellies with Vili's. They make simple burgers, but damn, are they good.\n\n\n\n\t \n\n\n\n\tA couple of months ago, I saw a post on Facebook from Vili announcing that he was opening a sports pub next door to the burger joint. He mentioned that he hoped to eventually cover the walls with sports memorabilia, and, as luck would have it, the opening was going to take place while we were there on this year’s trip.\n\n\n\n\t \n\n\n\n\tI immediately knew this was my opportunity to spread a little Bills love around the South Pacific.\n\n\n\n\t \n\n\n\n\tI ordered an old-school Bruce Smith jersey (Bad Things) and a small metal Buffalo Bills sign, wrapped them up, and brought them along to give to Vili for his new pub.\n\n\n\n\t \n\n\n\n\tOn our first day on the island, my wife and I hopped on our little rental scooter and headed over to Vili’s for feed.\n\n\n\n\t \n\n\n\n\tSure enough, there was Vili sitting in a corner booth in his brand-new pub.\n\n\n\n\tI walked over, put the wrapped gift in front of him, and told him it was for the new sports bar.\n\n\n\n\tHe was ecstatic.\n\n\n\n\t \n\n\n\n\tHe couldn’t believe someone from overseas would bring him a gift like this for his pub. He told me he was going to have the jersey framed and put in a prominent spot where everyone could see it.\n\n\n\n\t \n\n\n\n\tBefore we flew off to another island, a couple weeks later, we stopped back at Vili’s to see if the jersey had made it onto the wall yet.\n\n\n\n\tIt hadn’t been framed yet, but it was already hanging behind the bar. And the Bills sign? Vili had already drilled that sucker into the wall — right where everyone has to stand to pay.   Perfect!\n\n\n\n\t \n\n\n\n\tHaving moved away from upstate New York back in 1990, I know we may not have the biggest fanbase in the world.\n\n\n\n\tBut I also know one thing about Bills fans:\n\n\n\n\tBills fans travel, and they keep their eyes wide open for other Bills fans.\n\n\n\n\t \n\n\n\n\tI get a huge kick out of thinking that someday, some random Bills fan from Buffalo — or anywhere else — is going to find themselves on this little island in the middle of the South Pacific, wander into Vili’s for a burger and a beer, and suddenly spot a Bruce Smith jersey hanging on the wall.\n\n\n\n\tMaybe they’ll wonder how the hell it got there.\n\n\n\n\t \n\n\n\n\tThat’s the whole point.\n\n\n\n\tPay it forward.\n\n\n\n\t \n\n\n\n\tSo, with that said...\n\n\n\n\tWhat have the rest of you done to help the Bills win the big one this year?  😜\n\n\n\n\t \n\n\n\n\tLet’s go, Buffalo!\n\n\n\n\t(Vili promised me to send me a photo of the jersey once it's framed, and I'll be sure to update this post when I receive it.)",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-11T22:49:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266388-what-have-you-done-to-help-the-buffalo-bills-win-it-all-this-year/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/radim-mrtka-headlines-buffalo-sabres-prospects-showcase-roster/",
       "team": "sabres",
       "title": "Radim Mrtka headlines Buffalo Sabres’ Prospects Showcase roster",
@@ -1417,6 +1417,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-10T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-6-jiri-kulich/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266288-new-report-on-pats-cheat/",
+      "team": "bills",
+      "title": "New report on Pats cheat",
+      "summary": "Story from The Athletic. \n\t \n\n\n\n\tPretty clever. Have the scoreboard show goalposts that are misaligned to opposing teams kicker. \n\t \n\n\n\n\tData indicates that it worked.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T17:16:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266288-new-report-on-pats-cheat/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/",
