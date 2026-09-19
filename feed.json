@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T14:48:53.183Z",
+  "generatedAt": "2026-09-19T17:50:31.875Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,6 +176,50 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-3-la-chargers-0-1-buffalo-2-0-sun-9-27-1-00pm.3036731/",
+      "team": "sabres",
+      "title": "Week 3: LA Chargers (0-1) @ Buffalo (2-0), Sun. 9/27 @ 1:00PM",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T17:49:11.000Z",
+      "link": "https://forums.hfboards.com/threads/week-3-la-chargers-0-1-buffalo-2-0-sun-9-27-1-00pm.3036731/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
+      "team": "sabres",
+      "title": "Sabres 2026-27 Training Camp Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T17:37:13.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/",
+      "team": "sabres",
+      "title": "Jack Quinn, RW (8th overall, 2020)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T17:37:08.000Z",
+      "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/45460/americans-abroad-club-jerseys-to-fit-in-your-collection",
+      "team": "usmnt",
+      "title": "Americans Abroad club jerseys to fit in your collection",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T17:22:36.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45460/americans-abroad-club-jerseys-to-fit-in-your-collection"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
       "team": "sabres",
       "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
@@ -183,8 +227,41 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-19T14:08:26.000Z",
+      "publishedAt": "2026-09-19T16:45:38.000Z",
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/samuel-meloche-g-116th-overall-2025.3007742/",
+      "team": "sabres",
+      "title": "Samuel Meloche, G, 116th overall, 2025",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T16:02:24.000Z",
+      "link": "https://forums.hfboards.com/threads/samuel-meloche-g-116th-overall-2025.3007742/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266562-bills-offensive-players-especially-ja-have-received-some-cheap-shot-hits-in-the-first-2-games/",
+      "team": "bills",
+      "title": "Bills Offensive players, especially JA, have received some \"cheap shot\" hits in the first 2 games...",
+      "summary": "Josh Allen was hit low and had is head slammed into the ground vs the Texans, then was hit late out of bounds with a fat DL landing his entire body weight on him vs the Lions.\n\n\n\n\t \n\n\n\n\tI've noticed Cook get twisted around and slammed to the ground on a few occasions.\n\n\n\n\t \n\n\n\n\tKincaid wad tackled with a low shot to the knees once vs the Lions.\n\n\n\n\t \n\n\n\n\tOn the DJ Moore injury play, the DB landed with his full body weight right across his shoulder/neck/head area.\n\n\n\n\t \n\n\n\n\tI guess these Defenses think the only way they can stop the Bills juggernaut Offense is by injuring key players.\n\n\n\n\t \n\n\n\n\tI hope the League Office is keeping a close eye on this.....don't want this season derailed by a cheap shot injury to a key player.....",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T16:01:51.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266562-bills-offensive-players-especially-ja-have-received-some-cheap-shot-hits-in-the-first-2-games/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/140710/buffalo-bills-records-and-milestones-from-week-2-win-over-detroit-lions",
+      "team": "bills",
+      "title": "Buffalo Bills records and milestones from Week 2 win over Detroit Lions",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T15:52:24.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/140710/buffalo-bills-records-and-milestones-from-week-2-win-over-detroit-lions"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
@@ -198,28 +275,6 @@
       "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-3-la-chargers-0-1-buffalo-2-0-sun-9-27-1-00pm.3036731/",
-      "team": "sabres",
-      "title": "Week 3: LA Chargers (0-1) @ Buffalo (2-0), Sun. 9/27 @ 1:00PM",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-19T14:03:06.000Z",
-      "link": "https://forums.hfboards.com/threads/week-3-la-chargers-0-1-buffalo-2-0-sun-9-27-1-00pm.3036731/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/",
-      "team": "sabres",
-      "title": "Jack Quinn, RW (8th overall, 2020)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-19T13:59:37.000Z",
-      "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-manager-jarmo-kek%C3%A4l%C3%A4inen-discussion-thread.3018880/",
       "team": "sabres",
       "title": "General Manager Jarmo Kekäläinen discussion thread",
@@ -229,6 +284,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-19T13:56:52.000Z",
       "link": "https://forums.hfboards.com/threads/general-manager-jarmo-kek%C3%A4l%C3%A4inen-discussion-thread.3018880/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/140703/first-projection-a-dalton-kincaid-extension-with-buffalo-bills",
+      "team": "bills",
+      "title": "First projection at a Dalton Kincaid extension with Buffalo Bills",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-19T13:50:44.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/140703/first-projection-a-dalton-kincaid-extension-with-buffalo-bills"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266561-too-early-the-cap-math-on-kincaid-and-walker-that-changes-everything/",
@@ -297,17 +363,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-notes-lindy-ruff-players-have-special-night-at-bills-game/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
-      "team": "sabres",
-      "title": "Sabres 2026-27 Training Camp Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-19T04:12:17.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -352,17 +407,6 @@
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266555-josh-allen-mic%E2%80%99ed-up-against-lions/",
-      "team": "bills",
-      "title": "Josh Allen mic’ed up against Lions",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-19T00:10:46.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266555-josh-allen-mic%E2%80%99ed-up-against-lions/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266550-pace-of-play-thru-2-weeks-being-aggressive/",
       "team": "bills",
       "title": "Pace of play thru 2 weeks: Being aggressive",
@@ -383,17 +427,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-18T22:44:43.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/140694/buffalo-bills-deone-walker-lets-workshop-nickname"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/why-the-canucks-are-making-a-big-bet-on-buiums-potential/",
-      "team": "sabres",
-      "title": "Why the Canucks are making a big bet on Buium’s potential",
-      "summary": "Dan Murphy and Iain MacIntyre discuss why the Canucks are betting big on Zeev Buium’s potential after signing the young player to an eight-year deal, and also touch on why he’ll be forever linked to former franchise cornerstone Quinn Hughes.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T22:26:01.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/why-the-canucks-are-making-a-big-bet-on-buiums-potential/"
     },
     {
       "id": "espn-bills::49975029",
@@ -460,6 +493,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-18T19:26:35.000Z",
       "link": "https://www.starsandstripesfc.com/social-video-twitter/45851/usa-soccercast-episode-199-new-cycle-new-look-usmnt"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266543-replay-of-the-game-just-started-on-nfl-network-2pm-et-belinda/",
+      "team": "bills",
+      "title": "Replay of the game just started on NFL Network 2pm et (belinda)",
+      "summary": "Replay of the game just started on NFL Network 2pm et",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-18T18:16:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266543-replay-of-the-game-just-started-on-nfl-network-2pm-et-belinda/"
     },
     {
       "id": "espn-bills::47809892",
@@ -858,39 +902,6 @@
       "link": "https://www.buffalobills.com/news/bills-41-lions-31-final-score-recap-highlights"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/140612/joe-brady-makes-buffalo-bills-hc-history-with-franchises-first-2-0-start",
-      "team": "bills",
-      "title": "Joe Brady makes Buffalo Bills HC history with franchise’s first 2-0 start",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T04:01:13.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/140612/joe-brady-makes-buffalo-bills-hc-history-with-franchises-first-2-0-start"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/140607/horns-up-horns-down-for-buffalo-bills-vs-detroit-lions",
-      "team": "bills",
-      "title": "Bills vs Lions: Winners and losers for Buffalo against Detroit",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T03:59:28.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/140607/horns-up-horns-down-for-buffalo-bills-vs-detroit-lions"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266528-dj-moore-injury-reported-as-sprained-ac-joint-might-be-ready-for-week-3/",
-      "team": "bills",
-      "title": "DJ Moore injury - reported as Sprained AC joint; \"might\" be ready for Week 3",
-      "summary": "On the radio show they said it was a stinger and mitch said he Moore was never going to come back into the game.\n\n\n\n\t \n\n\n\n\tThe timeline depends on the person",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T03:55:58.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266528-dj-moore-injury-reported-as-sprained-ac-joint-might-be-ready-for-week-3/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-issue-injury-update-on-wr-dj-moore",
       "team": "bills",
       "title": "Bills issue injury update on WR DJ Moore",
@@ -1087,17 +1098,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-17T11:43:49.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266504-gameday-91726-tnf-bills-vs-lions-inaugural-highmark-stadium-post-game-thread/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-college-hockey-talk.2399315/",
-      "team": "sabres",
-      "title": "General College Hockey Talk",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-17T11:00:24.000Z",
-      "link": "https://forums.hfboards.com/threads/general-college-hockey-talk.2399315/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/where-bills-game-day-begins-inside-highmark-stadium-s-player-first-design-features",
@@ -1309,15 +1309,15 @@
       "link": "https://www.buffalohockeybeat.com/sabres-sign-noah-ostlund-to-eight-year-52-8-million-contract/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/45647/usmnt-weekend-roundup-puli-musah-shine-cavan-on-fire",
-      "team": "usmnt",
-      "title": "USMNT weekend roundup: Puli & Musah shine, Cavan on fire",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266459-week-2-duhtwah-v-bills-predict-the-score/",
+      "team": "bills",
+      "title": "Week 2, Duhtwah v. Bills, PREDICT THE SCORE!",
+      "summary": "The Bills host Duhtwah for the grand opening of the new Highmark Stadium in the regular season, on Thursday Night Football, no less!  The Bills come off a big win in Houston, while the Lions beat the Saints by 1 point in overtime last week.  This shapes up as a Clash of the Titans.\n\t\n\tJosh is my ride or die.  I'm betting on him to beat the world.  Nothing will get in his way, not Brady, not dropped passes, nothing.  Bills win comfortably:\n\n\n\n\t \n\n\n\n\tDuhtwah - 31\n\n\n\n\tBeews - 41\n\n\n\n\t \n\n\n\n\tPrevious winners:\n\n\n\n\t \n\n\n\n\tWeek 1 - @colin",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-14T17:17:50.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45647/usmnt-weekend-roundup-puli-musah-shine-cavan-on-fire"
+      "publishedAt": "2026-09-14T22:55:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266459-week-2-duhtwah-v-bills-predict-the-score/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-sign-noah-ostlund-to-long-term-extension/",
@@ -1483,17 +1483,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-07-21T20:18:05Z",
       "link": "https://www.espn.com/nhl/story/_/id/49419342/nhl-produce-games-hurricanes-blue-jackets-wild-blues"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265089-stephon-gilmore-retiring/",
-      "team": "bills",
-      "title": "Stephon Gilmore retiring",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-04-03T15:22:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265089-stephon-gilmore-retiring/"
     }
   ]
 }
