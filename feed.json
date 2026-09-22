@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:39:24.643Z",
+  "generatedAt": "2026-09-22T01:53:52.481Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "live",
-      "headline": "0 - 1",
-      "detail": "at PIT · P1"
+      "state": "final",
+      "headline": "Final · L 1-4",
+      "detail": "at PIT"
     },
     {
       "team": "bandits",
@@ -176,6 +176,17 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/stadium-arena-thread.2838453/",
+      "team": "sabres",
+      "title": "Stadium/Arena Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T01:45:10.000Z",
+      "link": "https://forums.hfboards.com/threads/stadium-arena-thread.2838453/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/preseason-game-one-sabres-at-penguins-7-pm-msg-dazn-espn-wgr550.3037430/",
       "team": "sabres",
       "title": "Preseason Game One: Sabres at Penguins 7 PM - MSG, DAZN, ESPN+, WGR550",
@@ -183,8 +194,52 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-21T23:38:46.000Z",
+      "publishedAt": "2026-09-22T01:37:57.000Z",
       "link": "https://forums.hfboards.com/threads/preseason-game-one-sabres-at-penguins-7-pm-msg-dazn-espn-wgr550.3037430/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/",
+      "team": "sabres",
+      "title": "Week 3: LA Chargers (0-2) @ Buffalo (2-0), Sun. 9/27 @ 1:00PM on FOX",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T00:48:25.000Z",
+      "link": "https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T00:31:05.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T00:10:04.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/eklund-scores-first-goal-with-senators-vs-canadiens/",
+      "team": "sabres",
+      "title": "Eklund scores first goal with Senators vs. Canadiens",
+      "summary": "Watch as Ottawa’s William Eklund pots home his first goal for the Senators in a pre-season contest vs. the Montreal Canadiens in Trois-Rivieres, scoring on a one-timer after a slick wraparound by Dylan Cozens.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-21T23:44:59.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/eklund-scores-first-goal-with-senators-vs-canadiens/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
@@ -196,17 +251,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-21T23:36:34.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/",
-      "team": "sabres",
-      "title": "Week 3: LA Chargers (0-2) @ Buffalo (2-0), Sun. 9/27 @ 1:00PM on FOX",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-21T23:32:04.000Z",
-      "link": "https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-long-trying-recovery-from-broken-kneecap-sabres-justin-danforth-happy-to-be-playing-again/",
@@ -242,17 +286,6 @@
       "link": "https://forums.hfboards.com/threads/lindy-ruff-and-coaching-thread-lindy-signs-extension-thru-the-end-of-27-28.2964683/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
-      "team": "sabres",
-      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-21T21:39:16.000Z",
-      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-at-penguins-preseason-game-1-open-thread-and-how-to-watch/",
       "team": "sabres",
       "title": "Sabres at Penguins: Preseason Game 1 | Open Thread and How To Watch",
@@ -284,17 +317,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-21T20:14:44.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266592-bills-draw-a-big-audience-again/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-21T20:10:21.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266591-stadium-tour-and-vintage-bills-store/",
@@ -801,17 +823,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-19T18:25:58.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45460/americans-abroad-club-jerseys-to-fit-in-your-collection"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/samuel-meloche-g-116th-overall-2025.3007742/",
-      "team": "sabres",
-      "title": "Samuel Meloche, G, 116th overall, 2025",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-19T16:02:24.000Z",
-      "link": "https://forums.hfboards.com/threads/samuel-meloche-g-116th-overall-2025.3007742/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/140710/buffalo-bills-records-and-milestones-from-week-2-win-over-detroit-lions",
