@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:53:52.481Z",
+  "generatedAt": "2026-09-22T07:29:04.565Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -176,17 +176,6 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/stadium-arena-thread.2838453/",
-      "team": "sabres",
-      "title": "Stadium/Arena Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-22T01:45:10.000Z",
-      "link": "https://forums.hfboards.com/threads/stadium-arena-thread.2838453/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/preseason-game-one-sabres-at-penguins-7-pm-msg-dazn-espn-wgr550.3037430/",
       "team": "sabres",
       "title": "Preseason Game One: Sabres at Penguins 7 PM - MSG, DAZN, ESPN+, WGR550",
@@ -194,7 +183,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-22T01:37:57.000Z",
+      "publishedAt": "2026-09-22T05:52:50.000Z",
       "link": "https://forums.hfboards.com/threads/preseason-game-one-sabres-at-penguins-7-pm-msg-dazn-espn-wgr550.3037430/"
     },
     {
@@ -205,8 +194,63 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-22T00:48:25.000Z",
+      "publishedAt": "2026-09-22T05:51:31.000Z",
       "link": "https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-pre-season-highlights-blackhawks-4-wild-3-ot/",
+      "team": "sabres",
+      "title": "NHL Pre-Season Highlights: Blackhawks 4, Wild 3 (OT)",
+      "summary": "Bowen Byram recorded a hat trick for Chicago including the overtime winner, as the Blackhawks took it 4-3 over the Minnesota Wild.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T05:35:34.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/nhl-pre-season-highlights-blackhawks-4-wild-3-ot/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: Training Camps have begun!",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T04:21:16.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/stadium-arena-thread.2838453/",
+      "team": "sabres",
+      "title": "Stadium/Arena Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T03:15:57.000Z",
+      "link": "https://forums.hfboards.com/threads/stadium-arena-thread.2838453/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/byram-fires-ot-winner-to-cap-hat-trick-in-pre-season-debut-for-blackhawks/",
+      "team": "sabres",
+      "title": "Byram fires OT winner to cap hat trick in pre-season debut for Blackhawks",
+      "summary": "Watch as Bowen Byram makes a great first impression with the Chicago Blackhawks, tallying a hat trick, including a game-winning overtime goal, in their pre-season contest against the Minnesota Wild.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T03:10:36.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/byram-fires-ot-winner-to-cap-hat-trick-in-pre-season-debut-for-blackhawks/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-22T02:18:14.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
@@ -220,26 +264,26 @@
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/140842/buffalo-bills-will-face-a-los-angeles-chargers-team-thin-at-te-in-week-3",
+      "team": "bills",
+      "title": "Buffalo Bills will face a Los Angeles Chargers team thin at TE in Week 3",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-09-22T00:10:04.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+      "publishedAt": "2026-09-22T00:16:27.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/140842/buffalo-bills-will-face-a-los-angeles-chargers-team-thin-at-te-in-week-3"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/eklund-scores-first-goal-with-senators-vs-canadiens/",
-      "team": "sabres",
-      "title": "Eklund scores first goal with Senators vs. Canadiens",
-      "summary": "Watch as Ottawa’s William Eklund pots home his first goal for the Senators in a pre-season contest vs. the Montreal Canadiens in Trois-Rivieres, scoring on a one-timer after a slick wraparound by Dylan Cozens.",
-      "source": "Sportsnet",
+      "id": "espn-bills::49961538",
+      "team": "bills",
+      "title": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
+      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
+      "source": "ESPN · Cameron Wolfe",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-09-21T23:44:59.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/eklund-scores-first-goal-with-senators-vs-canadiens/"
+      "publishedAt": "2026-09-22T00:07:19Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
@@ -297,15 +341,15 @@
       "link": "https://www.diebytheblade.com/sabres-at-penguins-preseason-game-1-open-thread-and-how-to-watch/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: Training Camps have begun!",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-odds/140729/bills-vs-chargers-odds-week-3-opening-lines-point-spread-total",
+      "team": "bills",
+      "title": "Bills vs. Chargers odds: Opening lines for Week 3 matchup",
       "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-09-21T20:16:43.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/"
+      "publishedAt": "2026-09-21T20:18:29.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-odds/140729/bills-vs-chargers-odds-week-3-opening-lines-point-spread-total"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266592-bills-draw-a-big-audience-again/",
@@ -594,17 +638,6 @@
       "link": "https://www.espn.com/video/clip/_/id/49995474/game-highlights"
     },
     {
-      "id": "espn-bills::49961538",
-      "team": "bills",
-      "title": "NFL Week 2's best arrivals, led by Travis Kelce and Patrick Mahomes",
-      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
-      "source": "ESPN · Cameron Wolfe",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-21T01:17:18Z",
-      "link": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266578-ints-caused-by-receiver/",
       "team": "bills",
       "title": "INTs caused by Receiver?",
@@ -823,28 +856,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-19T18:25:58.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45460/americans-abroad-club-jerseys-to-fit-in-your-collection"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/140710/buffalo-bills-records-and-milestones-from-week-2-win-over-detroit-lions",
-      "team": "bills",
-      "title": "Buffalo Bills records and milestones from Week 2 win over Detroit Lions",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-19T15:52:24.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/140710/buffalo-bills-records-and-milestones-from-week-2-win-over-detroit-lions"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/140703/first-projection-a-dalton-kincaid-extension-with-buffalo-bills",
-      "team": "bills",
-      "title": "First projection at a Dalton Kincaid extension with Buffalo Bills",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-19T13:50:44.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/140703/first-projection-a-dalton-kincaid-extension-with-buffalo-bills"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-1-zach-benson/",
@@ -1122,6 +1133,17 @@
       "link": "https://www.buffalobills.com/news/bills-41-lions-31-final-score-recap-highlights"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266528-dj-moore-injury-reported-as-sprained-ac-joint-might-be-ready-for-week-3/",
+      "team": "bills",
+      "title": "DJ Moore injury - reported as Sprained AC joint; \"might\" be ready for Week 3",
+      "summary": "On the radio show they said it was a stinger and mitch said he Moore was never going to come back into the game.\n\n\n\n\t \n\n\n\n\tThe timeline depends on the person",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-18T03:55:58.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266528-dj-moore-injury-reported-as-sprained-ac-joint-might-be-ready-for-week-3/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266526-the-bills-d-has-been-good-for-most-of-the-first-two-games/",
       "team": "bills",
       "title": "The Bills D has been good for \"most\" of the first two games",
@@ -1318,17 +1340,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-16T05:30:48Z",
       "link": "https://www.espn.com/nhl/story/_/id/49954674/champion-hurricanes-give-captain-jordan-staal-38-new-deal"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266480-practice-squad-updates/",
-      "team": "bills",
-      "title": "Practice Squad Updates",
-      "summary": "Yup , today I’m the guy with the nonsense news before Thursday’s Game. \n\t \n\n\n\n\tCouple of changes to the PS. \n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tA lot of people thought Broeker had a chance for the 53 but first guy to go on the PS. \n\t \n\n\n\n\t\n\n\n\n\tNot Bills related necessarily but former Bills Hard Knocks love child Jimmy Ciarlo signs with the Titans PS",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-15T22:38:15.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266480-practice-squad-updates/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cavan-sullivan-mls-usmnt-potential-call-up-friendlies/",
