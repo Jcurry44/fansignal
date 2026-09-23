@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T20:36:45.979Z",
+  "generatedAt": "2026-09-23T23:10:46.456Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 9,
+      "itemCount": 8,
       "error": null
     },
     {
@@ -164,8 +164,8 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Wed 6:35 PM",
-      "detail": "at BAL"
+      "headline": "Fri 7:07 PM",
+      "detail": "vs CIN"
     },
     {
       "team": "usmnt",
@@ -176,6 +176,61 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266618-beane-revisitedagain/",
+      "team": "bills",
+      "title": "Beane Revisited....Again.",
+      "summary": "There's been plenty of these. But players are forever evolving as are narratives.  So I wanted to look at the \"Beane struggles in the early rounds\" narrative.  The categories are simple:\n\n\n\n\t \n\n\n\n\tA-Plus Starter\n\n\n\n\tB-Starting level talent or contributing player\n\n\n\n\tC-Depth/To Be Determined\n\n\n\n\tD-Below Average\n\n\n\n\tF-Bust\n\n\n\n\t \n\n\n\n\t1rst Round:\n\n\n\n\tA (4) Allen, Oliver, Rousseau, Kincaid (put Oliver at a B if you choose)\n\n\n\n\tB (1) Edmunds\n\n\n\n\tC (1) Hairston (tbd)\n\n\n\n\tF (1) Elam\n\n\n\n\t \n\n\n\n\t2nd Round:\n\n\n\n\tA (3) Torrence, Bishop, Cook\n\n\n\n\tB (1) Parker (I know, too soon)\n\n\n\n\tC (4) Epenesa, T.J. Sanders (tbd), IGB (tbd), Coleman (tbd)\n\n\n\n\tD (1) Ford\n\n\n\n\tF (1) Basham\n\n\n\n\t \n\n\n\n\t3rd Round\n\n\n\n\tA (2) S. Brown, Bernard (put him as a B if you choose)\n\n\n\n\tB (4) Knox, D. Williams, H. Phillips, Singletary\n\n\n\n\tC (2) D. Carter (tbd), L. Jackson (tbd)\n\n\n\n\tD (1) Z. Moss\n\n\n\n\t \n\n\n\n\t4th Round\n\n\n\n\tA (2) T. Johnson, D. Walker\n\n\n\n\tB (1) G. Davis\n\n\n\n\tC (4) R. Davis (tbd), Bowry (tbd), KEO (tbd), S. Bell (tbd)\n\n\n\n\t \n\n\n\n\tDraw your own conclusions.  I have mine.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T22:59:57.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266618-beane-revisitedagain/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/they-ve-got-some-real-talent-the-bills-get-ready-for-week-3-matchup-with-the-los-angeles-chargers",
+      "team": "bills",
+      "title": "'They've got some real talent' | The Bills get ready for Week 3 matchup with the Los Angeles Chargers",
+      "summary": "Insights into the Chargers strengths, and injury updates",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T22:52:08.000Z",
+      "link": "https://www.buffalobills.com/news/they-ve-got-some-real-talent-the-bills-get-ready-for-week-3-matchup-with-the-los-angeles-chargers"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/",
+      "team": "sabres",
+      "title": "Week 3: LA Chargers (0-2) @ Buffalo (2-0), Sun. 9/27 @ 1:00PM on FOX",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T22:50:43.000Z",
+      "link": "https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: Training Camps have begun!",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T22:48:44.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T22:34:53.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-26-27-injury-thread-camp-edition-zellweger-concussed-samuelsson-lbi-sheary-mouth-zucker-hernia.3030570/",
       "team": "sabres",
       "title": "The 26-27 Injury Thread: Camp Edition - Zellweger (Concussed), Samuelsson (LBI), Sheary (mouth), Zucker (hernia)",
@@ -183,8 +238,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-23T20:33:28.000Z",
+      "publishedAt": "2026-09-23T21:32:28.000Z",
       "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-camp-edition-zellweger-concussed-samuelsson-lbi-sheary-mouth-zucker-hernia.3030570/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266617-bills-sign-dt-austin-johnson-to-the-practice-squad/",
+      "team": "bills",
+      "title": "Bills Sign DT Austin Johnson to the Practice Squad",
+      "summary": "Was part of the Bills Defensive Line rotation in 2024.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 2,
+      "publishedAt": "2026-09-23T20:40:19.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266617-bills-sign-dt-austin-johnson-to-the-practice-squad/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/140918/bills-mafia-weighs-in-on-buffalos-defense-through-2-games-of-2026-nfl-season",
@@ -231,28 +297,6 @@
       "link": "https://forums.hfboards.com/threads/preseason-game-two-sabres-vs-blue-jackets-7-pm-tv-sabres-com-radio-wgr550.3037482/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
-      "team": "sabres",
-      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-23T19:48:36.000Z",
-      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/",
-      "team": "sabres",
-      "title": "Week 3: LA Chargers (0-2) @ Buffalo (2-0), Sun. 9/27 @ 1:00PM on FOX",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-23T19:41:24.000Z",
-      "link": "https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/let-the-trolling-continue-the-athletic-model-has-the-sabres-as-the-16th-best-team-this-season.3037559/",
       "team": "sabres",
       "title": "Let The Trolling Continue - The Athletic \"Model\" Has the Sabres As the 16th Best Team This Season",
@@ -289,7 +333,7 @@
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-d-mattias-samuelsson-week-to-week-with-injury-olen-zellweger-in-concussion-protocol/",
       "team": "sabres",
       "title": "Sabres D Mattias Samuelsson week to week with injury; Olen Zellweger in concussion protocol",
-      "summary": "BUFFALO – Mattias Samuelsson, the Sabres’ top shutdown defenseman, is week to week with a lower-body injury he suffered in Tuesday’s 5-1 preseason win, coach Lindy Ruff said.\nMeanwhile, Ruff said defenseman Olen Zellweger, the Sabres’ biggest offseason acquisition, is in concussion protocol after going level later in the exhibition contest, his first appearance with his new team.\nSo a week before the season, the Sabres are down two of their top four defensemen.\n\n“You’ve ... Read the full article \nThe post Sabres D Mattias Samuelsson week to week with injury; Olen Zellweger in concussion protocol first appeared on Buffalo Hockey Beat.",
+      "summary": "BUFFALO – It took less than one week of training camp for injuries to the hit the Sabres hard.\nWhen the Sabres open the season next Thursday on the road against the Columbus Blue Jackets, they could be without two of their top four defensemen.\nMattias Samuelsson, their top shutdown defender, is week to week with a lower-body injury he suffered blocking a shot in Tuesday’s 5-1 preseason win over Columbus, coach Lindy Ruff said.... Read the full article \nThe post Sabres D Mattias Samuelsson week to week with injury; Olen Zellweger in concussion protocol first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
@@ -328,17 +372,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-23T18:14:25.000Z",
       "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-dl-austin-johnson-to-practice-squad",
-      "team": "bills",
-      "title": "Bills sign DL Austin Johnson to practice squad",
-      "summary": "Johnson previously played for Buffalo in 2024, recording 19 tackles and 0.5 sack in 15 games.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-23T18:04:21.000Z",
-      "link": "https://www.buffalobills.com/news/bills-sign-dl-austin-johnson-to-practice-squad"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/louis-crevier-rhd-acquired-from-chicago.3032399/",
@@ -383,6 +416,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-23T17:20:19.000Z",
       "link": "https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-wear-goathead-third-jersey-10-times-introduce-hometown-remix-alternate-in-2026-27-season/",
+      "team": "sabres",
+      "title": "Sabres to wear ‘Goathead’ third jersey 10 times, introduce ‘Hometown Remix’ alternate in 2026-27 season",
+      "summary": "The Buffalo Sabres will be wearing their black and red “Goathead” jersey 10 times and their new “Hometown Remix” jersey eight times during the upcoming season at KeyBank Center.\nThe Sabres brought back their popular “Goathead” jersey, which they sported from 1996-97 to 2005-06, as their alternate in 2022.\nThe “Hometown Remix” jersey, which celebrates the fans, city and local culture, according to the Sabres, will be unveiled at a later date. Each team will ... Read the full article \nThe post Sabres to wear ‘Goathead’ third jersey 10 times, introduce ‘Hometown Remix’ alternate in 2026-27 season first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T17:19:31.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-to-wear-goathead-third-jersey-10-times-introduce-hometown-remix-alternate-in-2026-27-season/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/2026-27-schedule-home-opener-10-3-vs-chicago.3034496/",
@@ -616,17 +660,6 @@
       "link": "https://www.buffalohockeybeat.com/before-trade-sabres-louis-crevier-beat-long-odds-and-developed-confidence-to-stick-in-nhl/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/",
-      "team": "sabres",
-      "title": "The 2026 NHL Off-Season Thread: Training Camps have begun!",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-23T04:02:40.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/"
-    },
-    {
       "id": "espn-sabres::50010303",
       "team": "sabres",
       "title": "Florida Panthers vs. Carolina Hurricanes: Game Highlights",
@@ -658,17 +691,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-23T00:38:38.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266605-mitch-morse-interview/",
-      "team": "bills",
-      "title": "Mitch Morse Interview",
-      "summary": "He does not have the spice Eric Wood can add but you tell he is very intelligent. From the interview, it sounds like he studies films. #1, it is rare for a former player to do that if his job does not require it and #2 it kind of fits his persona.\n\n\n\n\t \n\n\n\n\tA few points from him:\n\n\n\n\t\n\t\tHe mentioned that the Chargers will be turning every stone to find something on the Bills. Special team surprises, whatever. He himself looked films and guessed that the Chargers will be running the ball more this game, especially on the their left side. Hampton is heating up.\n\t\n\t\n\t\tHe gives high praises on Walker, going as far as saying the 2nd most talented Bills on the roster. Consider Cook has done last year, what Rousseau and Kincaid have done this year, this is something - he played center so he knows what an unblockable DT is like.  \n\t\n\t\n\t\tI learned a lot more of the Chargers O-Line from this interview. \n\t\t\n\t\t\t\n\t\t\t\tTheir Tackles are rusty. With the issues they have on the interior O-Line, more than likely they are going to ask them to hold-up 1-on-1. Those are high 1st round picks. Lets see what Rousseau and Chubb can measure up.\n\t\t\t\n\t\t\t\n\t\t\t\tI didn't realize that Chargers have a rookie center. As Mitch, who started as a rookie. explained it, you need a lot of help, a lot of extra study to make it thru. Not saying the Chargers' center is not doing it, but it will have growing pains and extra burden on Herbert. Looking back, Josh never had to deal with a rookie  center, which is a smart management by the coaching staff.\n\t\t\t\n\t\t\t\n\t\t\t\tYou kind of tell that on passing downs, if Oliver is able to play, either he or Walker will be 1-on-1, something McDaniel probably does not want to see. I guess a lot of moving pockets for Herbert. Quick passing is another option but I don't think it is Herbert's forte.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-23T00:23:43.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266605-mitch-morse-interview/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad/",
@@ -746,17 +768,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-22T18:00:18.000Z",
       "link": "https://forums.hfboards.com/threads/david-bedkowski-rd-71st-overall-2025-traded-to-the-ottawa-67s-ohl.3007695/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266600-greg-rousseau-9-sacks-in-last-7-games-played/",
-      "team": "bills",
-      "title": "Greg Rousseau - 9 Sacks in Last 7 Games Played",
-      "summary": "Obviously he has 4 sacks over the first 2 games this year, but in the last 3 regular season games last season, he racked up 4 total sacks and had 1 more in the Bills 2 playoff games. 9 sacks in his last 7 games... that's a pretty impressive run.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-22T17:03:06.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266600-greg-rousseau-9-sacks-in-last-7-games-played/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-preseason-buffalo-to-dress-full-nhl-lineup-versus-columbus-jiri-kulich-to-keep-playing/",
@@ -1001,17 +1012,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266592-bills-draw-a-big-audience-again/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266591-stadium-tour-and-vintage-bills-store/",
-      "team": "bills",
-      "title": "Stadium tour and vintage Bills store",
-      "summary": "Was in WNY last week for a brief get out of CBUS.  Took a tour of the stadium on Wed.  If you have tix or not, this is a must do.  Get to see many behind the scene things.  Due to the game the following day we were not able to see the locker room.  I was highly impressed.\n\n\n\n\t \n\n\n\n\tAlso, there is a \"vintage\" Buffalo Bills store on Elmwood - Queen City Vintage (https://queencityvintage.com/).  Well worth a stop in and checking out the store.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-21T19:32:35.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266591-stadium-tour-and-vintage-bills-store/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266587-replay-assist-should-be-changed-or-abolished/",
       "team": "bills",
       "title": "Replay assist should be changed or abolished",
@@ -1243,17 +1243,6 @@
       "link": "https://www.cbssports.com/soccer/news/noahkai-banks-germany-u-21-usmnt-dual-national-defender/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266540-kurt-warner-breakdown-of-allens-bomb-to-palmer-last-night/",
-      "team": "bills",
-      "title": "Kurt Warner breakdown of Allen's bomb to Palmer last night",
-      "summary": "Good stuff:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tAlbert Breer weighs in too:",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T16:01:48.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266540-kurt-warner-breakdown-of-allens-bomb-to-palmer-last-night/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/45722/usmnt-midweek-roundup-richards-johnny-wes-ellis-shine",
       "team": "usmnt",
       "title": "USMNT midweek roundup: Richards, Johnny, Wes, Ellis shine",
@@ -1307,28 +1296,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-18T06:26:47.000Z",
       "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-lions-week-2"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-begin-season-confident-theyre-better-than-last-year-were-not-the-old-sabres-anymore/",
-      "team": "sabres",
-      "title": "Sabres begin season confident they’re better than last year: ‘We’re not the old Sabres anymore’",
-      "summary": "BUFFALO – Confidence is powerful thing, center Tage Thompson said. Fresh off a breakout 50-win, 109-point campaign in which nearly every player improved or enjoyed a career season, the Sabres entered the summer feeling pretty darn good about themselves.\nHaving grinded together for nine months and enjoyed so much success, the Sabres feel like they can tackle any challenge as a group this season.\n“We have a lot of that with our group right now,” ... Read the full article \nThe post Sabres begin season confident they’re better than last year: ‘We’re not the old Sabres anymore’ first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T05:43:34.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-begin-season-confident-theyre-better-than-last-year-were-not-the-old-sabres-anymore/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/bills-41-lions-31-final-score-recap-highlights",
-      "team": "bills",
-      "title": "Bills 41, Lions 31 | Final Score, recap + highlights",
-      "summary": "The Buffalo Bills won the first-ever game at Highmark Stadium, defeating the Detroit Lions 41-31 on Thursday night.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T04:05:54.000Z",
-      "link": "https://www.buffalobills.com/news/bills-41-lions-31-final-score-recap-highlights"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266528-dj-moore-injury-reported-as-sprained-ac-joint-might-be-ready-for-week-3/",
@@ -1441,17 +1408,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/49954674/champion-hurricanes-give-captain-jordan-staal-38-new-deal"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-stars-in-europa-league-world-cup-core-christian-pulisic-weston-mckennie/",
-      "team": "usmnt",
-      "title": "USMNT in Europa League: World Cup core, former key players take center stage",
-      "summary": "Christian Pulisic and Weston McKennie headline a selection of U.S. internationals competing in the Europa League this season, while Yunus Musah hopes to revive his career back at Milan",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-15T19:16:08.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-stars-in-europa-league-world-cup-core-christian-pulisic-weston-mckennie/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-3-josh-doan/",
       "team": "sabres",
       "title": "Buffalo Sabres Top 25 Under 25: #3 Josh Doan",
@@ -1494,6 +1450,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-10T06:22:19.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266370-drake-meha-career-killing-performance-tonight/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266288-new-report-on-pats-cheat/",
+      "team": "bills",
+      "title": "New report on Pats cheat",
+      "summary": "Story from The Athletic. \n\t \n\n\n\n\tPretty clever. Have the scoreboard show goalposts that are misaligned to opposing teams kicker. \n\t \n\n\n\n\tData indicates that it worked.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-02T17:16:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266288-new-report-on-pats-cheat/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/",
+      "team": "bills",
+      "title": "If you weren't on board with the Brady promotion, do you feel better today?",
+      "summary": "I was really hoping we got Grant Udinski.  I fell for the \"prodigy\" label he was giving.  I was impressed with the way he conducts himself in the public, he does seem very knowledgeable.  \n\n\n\n\t \n\n\n\n\tThe Brady hire was deflating.  \n\n\n\n\t \n\n\n\n\tI know the regular season hasn't started yet but I'm feeling more comfortable with him.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T02:38:25.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/"
     }
   ]
 }
