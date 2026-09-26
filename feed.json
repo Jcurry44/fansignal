@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:46:47.931Z",
+  "generatedAt": "2026-09-26T20:48:52.652Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "final",
-      "headline": "Final · L 2-3",
-      "detail": "at DET"
+      "state": "live",
+      "headline": "0 - 2",
+      "detail": "vs PIT · P2"
     },
     {
       "team": "bandits",
@@ -164,7 +164,7 @@
     {
       "team": "bisons",
       "state": "upcoming",
-      "headline": "Sat 3:07 PM",
+      "headline": "Sun 3:07 PM",
       "detail": "vs CIN"
     },
     {
@@ -176,6 +176,61 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/preseason-game-four-sabres-vs-penguins-3-pm-tv-msg-nhl-network-espn-radio-wgr550.3037760/",
+      "team": "sabres",
+      "title": "Preseason Game Four: Sabres vs Penguins 3 PM - TV:MSG, NHL Network, ESPN+ Radio:WGR550",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T20:48:29.000Z",
+      "link": "https://forums.hfboards.com/threads/preseason-game-four-sabres-vs-penguins-3-pm-tv-msg-nhl-network-espn-radio-wgr550.3037760/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
+      "team": "sabres",
+      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T20:04:44.000Z",
+      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/penguins-crosby-wires-home-slap-shot-bar-down-past-sabres-luukkonen/",
+      "team": "sabres",
+      "title": "Penguins’ Crosby wires home slap shot bar down past Sabres’ Luukkonen",
+      "summary": "Watch as Pittsburgh Penguins’ Sidney Crosby receives the puck on the fast break and rips home a slap shot goal from the top of the circle past Buffalo Sabres goalie Ukko-Pekka Luukkonen.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T19:47:09.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/penguins-crosby-wires-home-slap-shot-bar-down-past-sabres-luukkonen/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
+      "team": "sabres",
+      "title": "Sabres 2026-27 Training Camp Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T19:22:19.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-penguins-preseason-game-4-open-thread-and-how-to-watch/",
+      "team": "sabres",
+      "title": "Sabres vs Penguins: Preseason Game 4 | Open Thread and How To Watch",
+      "summary": "The Buffalo Sabres will play the Pittsburgh Penguins at home in a Saturday afternoon matinee, their last preseason game before they open their 2026-27 schedule against the Columbus Blue Jackets on October 1st. \n\n\n\nHow to Watch\n\n\n\nPuck Drop: 3:00 pm\n\n\n\nTV (Sabres broadcast market): MSG (Pregame coverage begins at 2:30 p.m.)\n\n\n\nStreaming (Sabres broadcast market): DAZN\n\n\n\nTV (out of market): NHL Network\n\n\n\nStreaming (out of market): ESPN+\n\n\n\nRadio: WGR 550 / Buffalo Sabres App\n\n\n\nMore ways to watch/listen to Sabres games\n\n\n\nSabres Roster\n\n\n\nForwards: Zach Benson, Sam Carrick, Josh Doan, Konsta Helenius, Tyson Kozak, Peyton Krebs, Beck Malenstyn, Ryan McLeod, Josh Norris, Noah Ostlund, Jack Quinn, Tage Thompson\n\n\n\nDefensemen: Louis Crevier, Rasmus Dahlin, Matt Grzelcyk, Zach Metsa, Owen Power, Conor Timmins\n\n\n\nGoalies: Colten Ellis, Ukko-Pekka Luukkonen",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T19:00:57.000Z",
+      "link": "https://www.diebytheblade.com/sabres-vs-penguins-preseason-game-4-open-thread-and-how-to-watch/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
       "team": "sabres",
       "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
@@ -183,8 +238,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-26T17:15:45.000Z",
+      "publishedAt": "2026-09-26T18:27:46.000Z",
       "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T18:26:24.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/c-noah-ostlund-16th-overall-2022-nhl-draft-%E2%80%94-signs-8-year-extension-at-6-6m-aav-9-14-26.2891225/",
+      "team": "sabres",
+      "title": "C Noah Ostlund, 16th Overall, 2022 NHL Draft — Signs 8 year extension at $6.6M AAV, 9/14/26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T18:20:30.000Z",
+      "link": "https://forums.hfboards.com/threads/c-noah-ostlund-16th-overall-2022-nhl-draft-%E2%80%94-signs-8-year-extension-at-6-6m-aav-9-14-26.2891225/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-sign-d-matt-grzelcyk-1-year-850k.3037696/",
@@ -198,17 +275,6 @@
       "link": "https://forums.hfboards.com/threads/sabres-sign-d-matt-grzelcyk-1-year-850k.3037696/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
-      "team": "sabres",
-      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-26T16:51:25.000Z",
-      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266640-bills-backers-bar-minneapolis-this-is-a-question-not-information/",
       "team": "bills",
       "title": "Bills backers bar Minneapolis (this is a question, not information)",
@@ -218,28 +284,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-26T16:35:25.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266640-bills-backers-bar-minneapolis-this-is-a-question-not-information/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
-      "team": "sabres",
-      "title": "Sabres 2026-27 Training Camp Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-26T16:27:17.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/preseason-game-four-sabres-vs-penguins-3-pm-tv-msg-nhl-network-espn-radio-wgr550.3037760/",
-      "team": "sabres",
-      "title": "Preseason Game Four: Sabres vs Penguins 3 PM - TV:MSG, NHL Network, ESPN+ Radio:WGR550",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-26T16:21:18.000Z",
-      "link": "https://forums.hfboards.com/threads/preseason-game-four-sabres-vs-penguins-3-pm-tv-msg-nhl-network-espn-radio-wgr550.3037760/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-3-la-chargers-0-2-buffalo-2-0-sun-9-27-1-00pm-on-fox.3036731/",
@@ -385,6 +429,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266637-interesting-piece-of-bills-vs-chargers-history/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/141270/buffalo-bills-tailgate-panchos-army-brings-the-party-and-a-purpose-to-the-mafia-house",
+      "team": "bills",
+      "title": "Buffalo Bills tailgate: Pancho’s Army brings the party and a purpose to the Mafia House",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T12:00:31.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/141270/buffalo-bills-tailgate-panchos-army-brings-the-party-and-a-purpose-to-the-mafia-house"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/signing-matt-grzelcyk-shows-sabres-in-full-stanley-cup-mode-olen-zellweger-could-be-back-for-opener/",
       "team": "sabres",
       "title": "Signing Matt Grzelcyk shows Sabres in full Stanley Cup mode; Olen Zellweger could be back for opener",
@@ -410,7 +465,7 @@
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-waive-eight-players-including-first-rounder-assign-17-to-rochester/",
       "team": "sabres",
       "title": "Sabres waive eight players, including first-rounder, assign 17 to Rochester",
-      "summary": "The Buffalo Sabres on Friday placed eight players on waivers, including defenseman Ryan Johnson, a first-round pick in 2019, for the purpose of assigning them to the Rochester Americans.\nThe Sabres also waived goalie Matt Villalta, defenseman Dennis Gilbert and forwards Mason Geertsen, Trevor Kuntar, Aidan McDonough, Carson Meyer and Jason Polin.\nIn addition, the Sabres also assigned the following players to the Amerks, their AHL affiliate: goalies Talyn Boyko and Scott Ratzlaff; defensemen ... Read the full article \nThe post Sabres waive eight players, including first-rounder, assign 17 to Rochester first appeared on Buffalo Hockey Beat.",
+      "summary": "The Buffalo Sabres on Friday placed eight players on waivers, including defenseman Ryan Johnson, a first-round pick in 2019, for the purpose of assigning them to the Rochester Americans.\nThe Sabres also waived goalie Matt Villalta, defenseman Dennis Gilbert and forwards Mason Geertsen, Trevor Kuntar, Aidan McDonough, Carson Meyer and Jason Polin.\nUpdate: Everyone on waivers cleared.\nIn addition, the Sabres also assigned the following players to the Amerks, their AHL affiliate: goalies Talyn ... Read the full article \nThe post Sabres waive eight players, including first-rounder, assign 17 to Rochester first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
@@ -471,17 +526,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-25T22:58:28.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141010/buffalo-bills-may-have-firepower-to-trade-for-marvin-harrison-jr"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141181/buffalo-bills-ty-johnson-relatively-big-part-of-run-game-to-help-offense-and-james-cook",
-      "team": "bills",
-      "title": "Buffalo Bills need to make Ty Johnson serious part of run game to keep offense humming and help James Cook",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T21:45:53.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141181/buffalo-bills-ty-johnson-relatively-big-part-of-run-game-to-help-offense-and-james-cook"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141196/buffalo-bills-vs-los-angeles-chargers-week-3-friday-injury-report",
@@ -781,17 +825,6 @@
       "link": "https://forums.hfboards.com/threads/rasmus-dahlin-part-4-2026-second-team-all-star.2857541/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141164/chargers-set-to-be-vulnerable-at-safety-vs-buffalo-bills-in-week-3",
-      "team": "bills",
-      "title": "Chargers set to be vulnerable at safety vs. Buffalo Bills in Week 3",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T14:21:40.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141164/chargers-set-to-be-vulnerable-at-safety-vs-buffalo-bills-in-week-3"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266632-donte-whitner-on-espn/",
       "team": "bills",
       "title": "Donte Whitner on ESPN?",
@@ -880,17 +913,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45961/usmnt-midweek-roundup-some-playing-more-talking"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/",
-      "team": "sabres",
-      "title": "General Discussion of Prospects",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T02:32:45.000Z",
-      "link": "https://forums.hfboards.com/threads/general-discussion-of-prospects.2703723/"
-    },
-    {
       "id": "espn-sabres::50024461",
       "team": "sabres",
       "title": "Nashville Predators vs. Carolina Hurricanes: Game Highlights",
@@ -911,17 +933,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-25T01:01:20Z",
       "link": "https://www.espn.com/video/clip/_/id/50024284/who-josh-allen-biggest-hater"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266628-tnf-atlanta-green-bay/",
-      "team": "bills",
-      "title": "TNF - Atlanta @ Green Bay",
-      "summary": "A game so bad it doesn't deserve to be pinned!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T00:08:17.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266628-tnf-atlanta-green-bay/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/it-s-been-transformational-ribbon-cut-for-science-stadium-celebrating-partnership-between-bills-sabres-bandits-and-buffalo-museum-of-science",
@@ -955,17 +966,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-24T22:28:53.000Z",
       "link": "https://www.buffalobills.com/news/bills-explosive-plays-on-offense-standout-through-first-two-weeks-of-2026-season"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-athletic-model-has-the-sabres-as-the-16th-best-team-this-season-new-article-has-the-sabres-as-one-of-six-teams-to-regress.3037559/",
-      "team": "sabres",
-      "title": "The Athletic \"Model\" Has the Sabres As the 16th Best Team This Season - New Article Has The Sabres as One of Six Teams to Regress",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-24T22:08:01.000Z",
-      "link": "https://forums.hfboards.com/threads/the-athletic-model-has-the-sabres-as-the-16th-best-team-this-season-new-article-has-the-sabres-as-one-of-six-teams-to-regress.3037559/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-red-wings-preseason-game-3-open-thread-and-how-to-watch/",
@@ -1166,6 +1166,17 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-recognize-these-wny-high-school-football-coaches-week-3-2026"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266609-micah-hyde-talks-%E2%80%9Ctrap-game%E2%80%9D%E2%80%A6/",
+      "team": "bills",
+      "title": "Micah Hyde talks “trap game”…",
+      "summary": "If you want to hear what a real NFL player thinks about the concept of a “trap game” in the NFL, take a listen to this week’s Buffalo Plus podcast where he joins the hosts.\n\n\n\n\t \n\n\n\n\tIf you don’t want to listen and just get the Cliff Notes, Micah said that nobody in an NFL locker room underestimates their next opponent because they are looking ahead to a “big” game the following week. They know that “everyone is getting paid a lot of money” to perform and if you’re not ready you can get your a$$ kicked.\n\n\n\n\t \n\n\n\n\tHe did acknowledge that there can occasionally be a “letdown” effect if you’re coming off a huge win, and that guys do get pumped up for things like primetime games…but in general guys know they have to be ready to play each week or they can be embarrassed.\n\n\n\n\t \n\n\n\n\tIt’s refreshing to hear what really goes on in these guys’ minds, and understand that it is nothing at all like what fans (and even media) think is going on.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T12:34:05.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266609-micah-hyde-talks-%E2%80%9Ctrap-game%E2%80%9D%E2%80%A6/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/dbtb-makes-three-free-agent-additions/",
       "team": "sabres",
       "title": "DBTB makes three free agent additions!",
@@ -1208,17 +1219,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-23T02:11:11Z",
       "link": "https://www.espn.com/video/clip/_/id/50010303/game-highlights"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/",
-      "team": "bills",
-      "title": "Marvin Harrison Jr - what is going on in Arizona?",
-      "summary": "Couple things.  \n\t \n\n\n\n\tIs he a bust?  Would you want him?  Be mad if New England did? \n\t \n\n\n\n\tAnd, would he be an upgrade over Keon - that is a serious question.  Im not so sure - if Keon is emerging thru the adversity he’s dealt with here there is something to be said about that and he just might be a good fit for what we’re doing.  3rd year breakout could be in progress with him.  \n\t \n\n\n\n\tBut what’s happening here in Arizona is a significant developing situation and if it continues and they lose games trade talk is going to heat up come mid October.  Maybe it’s just the 2 defenses they faced but none of this looks good.  Plenty of film shows he’s not going full speed.  But there is a lot of film of him getting open.   \n\t \n\n\n\n\tMy take is Brissett is awful and either checks down to McBride or just trusts Wilson and is his first read every time.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-23T00:38:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-blue-jackets-preseason-game-2-open-thread-and-how-to-watch/",
@@ -1307,6 +1307,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-20T20:13:43.000Z",
       "link": "https://www.cbssports.com/soccer/news/watch-usmnts-christian-pulisic-scores-first-goal-of-season-milan-2026/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266572-how-do-they-get-greg-dortch-to-the-53/",
+      "team": "bills",
+      "title": "How do they get Greg Dortch to the 53?",
+      "summary": "Dortch only has one more PS call up left and has clearly shown enough in the first two games to be added to the 53. With the assumption that he is called up again for the Chargers and that there aren't any IR type injuries in week 3, someone will need to be moved off the 53 to make room for him for week 4. The roster is heavy at OL & Edge, so Danna and Bowry are obvious options, but I doubt they want to risk losing either of them. Unless it's Bowry to IR or Danna agreeing to go to the PS (doubtful), I really don't like those options. Danna is a bit of a luxury at the moment, but the Oliver injury on Thursday showed the value of keeping him on the 53. They aren't moving off having 4 TE's, so what other options could make sense.\n\n\n\n\tThe best alternative I've come up with is moving Hamlin to the PS, assuming he wouldn't sign elsewhere. Like Danna, he's not subject to waivers and would still have 3 call ups if required to buy more time if Kilgore or Hancock aren't quite ready to be the 3rd Safety.  Any other suggestions?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-20T14:59:00.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266572-how-do-they-get-greg-dortch-to-the-53/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/jedi-council-13/",
@@ -1408,26 +1419,15 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-2-owen-power/"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-3-josh-doan/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Top 25 Under 25: #3 Josh Doan",
-      "summary": "The Top 25 Under 25 is a collaboration by members of the Die By The Blade community. 92 readers ranked Buffalo Sabres players under the age of 25 as of August 1, 2026. Each participant used their own metric of current ability and production to rank each player.\n\n\n\nJosh Doan\n\n\n\nDrafted: 2021 Second Round, #37 overall\n\n\n\nSize: 6’2″, 198 lbs\n\n\n\nPosition: Winger (shoots right)\n\n\n\nBorn: 2/1/2002 (Age: 24) Scottsdale, AZ\n\n\n\n2025-2026 stats: GP82 G25 A27 PTS52, Buffalo Sabres (NHL)\n\n\n\n2025 T25U25 Ranking: 8th\n\n\n\nThis is how we started last year’s T25U25 for Doan – \n\n\n\n\nIt’s truly unfortunate that every movement Josh Doan makes is going to be examined under the microscope of the JJ Peterka trade. In case you forgot, the 23-year-old comes to Buffalo along with defenseman Michael Kesselring from Utah Mammoth with the young German forward going the other way. It definitely was a controversial trade that many will say the Sabres got fleeced in, while others maintain that as long as both sides get what they wanted out of it, it’s a fair hockey trade. Only time will tell.\n\n\n\n\nA year later, Kesselring is a distant memory traded away to the Sharks for the Sabres to move up seven spots in the Draft and pick up Ilia Morozov. Meanwhile Doan has been an unqualified success, logging 52 points outscoring Peterka who had 47 points and was then flipped to the Boston Bruins for two first rounders, in 2026 and 2028. \n\n\n\nThe Son of Doan has become an integral part of the Sabres top six, getting minutes on the right side of the powerplay unit as well. His 17 points with the man advantage was third behind only Rasmus Dahlin and Tage Thompson.\n\n\n\n\n\n\n\n\n\nSo where does Josh Doan go from here? \n\n\n\nBuffalo tried real hard to keep Alex Tuch, and reports indicate they were willing to pay him nearly $10 million a year too, but eventually the Syracuse-native decided he wanted to go to Washington instead. At some point the Sabres decided that Doan was an in-house, more than ready-made replacement for him, especially since the 24-year-old led Buffalo with 2.12 takeaways per 60, while Tuch was at 1.55. \n\n\n\nDoan is not afraid to be physical, throwing the body where needed with 3.59 hits/60, but it’s the timing of when he chooses to do so was what was incredible, especially in the Bruins series when it went up to 7.07 hits/60.\n\n\n\n\n\n\n\n\n\nDoan signed a seven-year, $48.65 million contract extension in January 2026, which is actually just higher in AAV than the extension Noah Ostlund signed yesterday. For the $6.95 million AAV, the Sabres are certainly getting excellent value for what they have him locked up for, with comparables such as Troy Terry who matched his scoring output in just 51 games, Nazem Kadri who had 50 pts in 77 GP and Anders Lee who got to 42 pts in 82 GP.\n\n\n\nHe’s quickly become a fan favorite with his work ethic and Doan has shown that he is indeed his father’s son with his no prisoners taken playing style. The Sabres certainly got a gem of a hockey player in Josh Doan. \n\n\n\n2026 Buffalo Sabres Top 25 Under 25\n\n\n\n#25 Simon-Pier Brunet#24 Topias Leinonen#23 Gavin McCarthy#22 Luke Osburn#21 Maxim Strbak#20 David Bedkowksi#19 Brodie Ziemer#18 Vsevolod Komarov#17 Ashton Schultz#16 Riley Fiddler-Schultz#15 Prokhor Poltapov#14 Ryan Johnson#13 Ilia Morozov#12 Adam Kleber#11 Tyson Kozak#10 Olen Zellweger#9 Daxon Rudolph#8 Radim Mrtka#7 Jack Quinn#6 Jiri Kulich#5 Noah Ostlund#4 Konsta Helenius#3 Josh Doan",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-15T12:00:00.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-3-josh-doan/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266072-buffalo-bills-games-now-most-expensive-to-attend-in-nfl-study-shows/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266288-new-report-on-pats-cheat/",
       "team": "bills",
-      "title": "Buffalo Bills games now most expensive to attend in NFL, study shows",
-      "summary": "The Buffalo Bills now rank as the NFL's most expensive team to watch live, with family game-day costs peaking at over $2,100 (average across NFL: $1,474.55).\n\t\n\t#1 most expensive food cost.\n\t#1 most expensive parking cost.\n\n\n\n\t#8 most expensive soft drink cost.\n\t#10 most expensive beer cost.\n\t\n\t\n\thttps://www.wgrz.com/article/sports/nfl/bills/buffalo-bills-games-are-now-most-expensive-to-attend-in-nfl-study-shows/71-3867558e-36a7-4ada-ba69-f03541eca7c8",
+      "title": "New report on Pats cheat",
+      "summary": "Story from The Athletic. \n\t \n\n\n\n\tPretty clever. Have the scoreboard show goalposts that are misaligned to opposing teams kicker. \n\t \n\n\n\n\tData indicates that it worked.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-12T16:41:27.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266072-buffalo-bills-games-now-most-expensive-to-attend-in-nfl-study-shows/"
+      "publishedAt": "2026-09-02T17:16:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266288-new-report-on-pats-cheat/"
     }
   ]
 }
