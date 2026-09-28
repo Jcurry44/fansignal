@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T23:20:34.369Z",
+  "generatedAt": "2026-09-28T01:54:47.010Z",
   "sources": [
     {
       "id": "bills-official",
@@ -96,7 +96,7 @@
       "id": "hfboards-sabres",
       "label": "HFBoards",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 20,
       "error": null
     },
     {
@@ -176,6 +176,94 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/",
+      "team": "sabres",
+      "title": "The 2026 NHL Off-Season Thread: Training Camps have begun!",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T01:25:52.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-training-camps-have-begun.3033750/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
+      "team": "sabres",
+      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T00:59:51.000Z",
+      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-friendly/46094/community-player-ratings-usa-vs-peru-2026-friendly",
+      "team": "usmnt",
+      "title": "USA vs. Peru, 2026 Friendly: Community ratings",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T00:22:39.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-friendly/46094/community-player-ratings-usa-vs-peru-2026-friendly"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45866/usa-vs-chile-2026-usmnt-friendly-scouting-chile",
+      "team": "usmnt",
+      "title": "USA vs. Chile, 2026 USMNT Friendly: Scouting Chile",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T00:22:14.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/45866/usa-vs-chile-2026-usmnt-friendly-scouting-chile"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141452/bills-vs-chargers-game-analysis-buffalo-overcomes-real-adversity",
+      "team": "bills",
+      "title": "Bills vs. Chargers game analysis: Buffalo overcomes real adversity",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T00:17:23.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141452/bills-vs-chargers-game-analysis-buffalo-overcomes-real-adversity"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/141473/denver-broncos-vs-los-angeles-rams-nfl-week-3-snf-fan-discussion",
+      "team": "bills",
+      "title": "Denver Broncos vs. Los Angeles Rams, NFL Week 3 ‘SNF’ fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T00:09:50.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/141473/denver-broncos-vs-los-angeles-rams-nfl-week-3-snf-fan-discussion"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-losing-defensemen-to-injury-matt-grzelcyks-signing-gives-sabres-boost/",
+      "team": "sabres",
+      "title": "After losing defensemen to injury, Matt Grzelcyk’s signing gives Sabres boost",
+      "summary": "BUFFALO – The Sabres wasted no time getting newcomer Matt Grzelcyk acclimated. Without the benefit of a practice or pregame skate, they threw the defenseman into the lineup for their preseason finale.\nGrzelcyk, who on Friday signed a one-year, $850,000 contract, looked comfortable throughout Saturday afternoon’s 3-1 loss to the Pittsburgh Penguins, skating 16 minutes, 48 seconds, mostly alongside Conor Timmins.\n“It almost helped, honestly, just having no pregame skate, nothing – just go right ... Read the full article \nThe post After losing defensemen to injury, Matt Grzelcyk’s signing gives Sabres boost first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T23:39:26.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-losing-defensemen-to-injury-matt-grzelcyks-signing-gives-sabres-boost/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
+      "team": "sabres",
+      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T23:26:34.000Z",
+      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266663-game-week-thread-patriots-at-bills/",
       "team": "bills",
       "title": "Game week thread - Patriots at Bills",
@@ -187,39 +275,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266663-game-week-thread-patriots-at-bills/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266662-nfl-under-fire-for-decision-on-bills-qb-josh-allen%E2%80%99s-interception/",
-      "team": "bills",
-      "title": "NFL Under Fire for Decision on Bills QB Josh Allen’s Interception",
-      "summary": "https://www.yahoo.com/sports/articles/nfl-under-fire-decision-bills-220115161.html",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T23:07:08.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266662-nfl-under-fire-for-decision-on-bills-qb-josh-allen%E2%80%99s-interception/"
-    },
-    {
-      "id": "espn-bills::50046373",
-      "team": "bills",
-      "title": "Commanders' jab at Seahawks after upset leads Week 3 trolls",
-      "summary": "The Washington Commanders followed up their upset victory over the Seattle Seahawks with a petty post.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T22:51:05Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026"
-    },
-    {
-      "id": "espn-bills::50045282",
-      "team": "bills",
-      "title": "Allen, Bills outlast Chargers 24-16 despite committing 5 turnovers",
-      "summary": "— Buffalo Bills safety C.J. Gardner-Johnson didn’t miss a beat when asked if he’d ever been part of a win when his team commits five turnovers.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T22:46:29Z",
-      "link": "http://www.espn.com/nfl/recap?gameId=401872953"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-chargers-week-3",
       "team": "bills",
       "title": "Top 3 things we learned from Bills vs. Chargers | Week 3",
@@ -229,17 +284,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-27T22:46:00.000Z",
       "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-chargers-week-3"
-    },
-    {
-      "id": "espn-bills::50043408",
-      "team": "bills",
-      "title": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T22:43:57Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266661-what%E2%80%99s-going-on-with-shakir/",
@@ -264,17 +308,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266660-early-look-ahead-3-game-afc-east-lead-possible-next-week/"
     },
     {
-      "id": "espn-bills::50034932",
-      "team": "bills",
-      "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Sunday of Week 3 features 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T22:09:14Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266659-chargers-threw-us-a-meatball-sub-today/",
       "team": "bills",
       "title": "Chargers threw us a meatball sub today",
@@ -284,6 +317,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-27T22:07:11.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266659-chargers-threw-us-a-meatball-sub-today/"
+    },
+    {
+      "id": "espn-bills::50043408",
+      "team": "bills",
+      "title": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T22:02:05Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026"
+    },
+    {
+      "id": "espn-bills::50046373",
+      "team": "bills",
+      "title": "Commanders' jab at Seahawks after upset leads Week 3 trolls",
+      "summary": "The Washington Commanders followed up their upset victory over the Seattle Seahawks with a petty post.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T21:53:11Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266658-craziest-stat-from-today-bills-won-the-points-of-turnovers-battle/",
@@ -297,6 +352,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266658-craziest-stat-from-today-bills-won-the-points-of-turnovers-battle/"
     },
     {
+      "id": "espn-bills::50034932",
+      "team": "bills",
+      "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Sunday of Week 3 will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T21:38:58Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141438/buffalo-bills-defense-stole-spotlight-in-week-3-win",
       "team": "bills",
       "title": "Buffalo Bills’ defense stole spotlight in Week 3 win",
@@ -308,17 +374,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141438/buffalo-bills-defense-stole-spotlight-in-week-3-win"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141452/bills-vs-chargers-game-analysis-buffalo-overcomes-real-adversity",
-      "team": "bills",
-      "title": "Bills vs. Chargers game analysis: Buffalo overcomes real adversity",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T21:34:55.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141452/bills-vs-chargers-game-analysis-buffalo-overcomes-real-adversity"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/141440/buffalo-bills-qb-josh-allen-ties-marshawn-lynch-in-rushing-tds",
       "team": "bills",
       "title": "Buffalo Bills QB Josh Allen ties Marshawn Lynch in rushing TDs",
@@ -328,6 +383,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-27T21:26:01.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-history/141440/buffalo-bills-qb-josh-allen-ties-marshawn-lynch-in-rushing-tds"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
+      "team": "sabres",
+      "title": "Sabres 2026-27 Training Camp Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T21:25:17.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266657-james-cook-you-hate-him-you-love-him/",
@@ -363,6 +429,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266653-bills-win-with-josh-allen-not-playing-like-josh-allen/"
     },
     {
+      "id": "espn-bills::50045282",
+      "team": "bills",
+      "title": "Allen, Bills outlast Chargers 24-16 despite committing 5 turnovers",
+      "summary": "— Josh Allen scored two touchdowns rushing and the Buffalo Bills overcame a five-turnover outing to pull out a 24-16 victory over the winless Los Angeles Chargers on Sunday.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T20:45:29Z",
+      "link": "http://www.espn.com/nfl/recap?gameId=401872953"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266652-the-pats-game-next-week-will-be-very-tough/",
       "team": "bills",
       "title": "The Pats game next week will be very tough",
@@ -383,6 +460,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-27T20:42:33.000Z",
       "link": "https://www.buffalobills.com/news/bills-24-chargers-16-final-score-recap-highlights"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-26-27-injury-thread-camp-edition-upl-tweaked-lyon-shoulder-zellweger-concussed-samuelsson-lbi-sheary-mouth-zucker-hernia.3030570/",
+      "team": "sabres",
+      "title": "The 26-27 Injury Thread: Camp Edition - UPL (tweaked?), Lyon (Shoulder), Zellweger (Concussed), Samuelsson (LBI), Sheary (mouth), Zucker (hernia)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T20:42:24.000Z",
+      "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-camp-edition-upl-tweaked-lyon-shoulder-zellweger-concussed-samuelsson-lbi-sheary-mouth-zucker-hernia.3030570/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266651-ugly-as-that-was%E2%80%A6that-was-championship-football/",
@@ -424,7 +512,7 @@
       "summary": "Los Angeles Chargers vs. Buffalo Bills: Game Highlights",
       "source": "ESPN",
       "sourceType": "league",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "publishedAt": "2026-09-27T20:25:37Z",
       "link": "https://www.espn.com/video/clip/_/id/50045219/game-highlights"
     },
@@ -476,7 +564,7 @@
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266648-any-josh-allen-injuries-edit-left-knee/",
       "team": "bills",
       "title": "Any Josh Allen injuries? Edit Left knee?",
-      "summary": "He seems to have been favouring it ever since a hit early in the game to his knee. Can see a slight limp when he walks and has been gingerly walking off the field. \n\t\n\tIm looking for the video of the collision but can’t seem to find it atm",
+      "summary": "He seems to have been favouring it ever since a hit early in the game to his knee. Can see a slight limp when he walks and has been gingerly walking off the field.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
@@ -517,6 +605,17 @@
       "link": "https://www.buffalobills.com/news/bills-issue-injury-update-on-cb-christian-benford"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T18:00:48.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-new-look-attack-mauricio-pochettino-impactful-veterans/",
       "team": "usmnt",
       "title": "USMNT's new-look attack delivers strong first impression for Mauricio Pochettino, alongside impactful veterans",
@@ -550,6 +649,28 @@
       "link": "https://www.sportsnet.ca/nhl/video/crosbys-slap-shot-highlights-historic-21-season-point-per-game-run/"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester (AHL), Stacy Roest named Amerks GM",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T16:05:35.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T15:54:39.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-inactives-vs-chargers-week-3",
       "team": "bills",
       "title": "Bills inactives vs. Chargers | Week 3",
@@ -559,6 +680,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-27T15:29:14.000Z",
       "link": "https://www.buffalobills.com/news/bills-inactives-vs-chargers-week-3"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-sign-d-matt-grzelcyk-1-year-850k.3037696/",
+      "team": "sabres",
+      "title": "Sabres sign D Matt Grzelcyk (1 year, $850k)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T15:10:11.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-sign-d-matt-grzelcyk-1-year-850k.3037696/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266647-9272026-around-the-nfl-games-other-than-bills-chargers/",
@@ -583,6 +715,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266646-gameday-92726-week-3-bills-vs-chargers-100pm-post-game-thread/"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/preseason-game-four-sabres-vs-penguins-3-pm-tv-msg-nhl-network-espn-radio-wgr550.3037760/",
+      "team": "sabres",
+      "title": "Preseason Game Four: Sabres vs Penguins 3 PM - TV:MSG, NHL Network, ESPN+ Radio:WGR550",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T13:43:20.000Z",
+      "link": "https://forums.hfboards.com/threads/preseason-game-four-sabres-vs-penguins-3-pm-tv-msg-nhl-network-espn-radio-wgr550.3037760/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-los-angeles-chargers-where-to-watch-stream-and-listen-week-3",
       "team": "bills",
       "title": "Buffalo Bills vs. Los Angeles Chargers | Where to watch, stream and listen | Week 3",
@@ -603,6 +746,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-27T11:24:43.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnts-julian-hall-poland-zakrzewski-kit-jersey/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/other-buffalo-sports-bandits-beauts-bisons-ncaa-basketball-and-football.2492721/",
+      "team": "sabres",
+      "title": "Other Buffalo Sports (Bandits, Beauts, Bisons, NCAA Basketball and Football)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T05:13:22.000Z",
+      "link": "https://forums.hfboards.com/threads/other-buffalo-sports-bandits-beauts-bisons-ncaa-basketball-and-football.2492721/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/ukko-pekka-luukkonen-leaves-game-injured-as-sabres-end-preseason/",
@@ -649,6 +803,17 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46061/usa-vs-peru-2026-friendly-time-tv-schedule-streaming-and-lineups"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
+      "team": "sabres",
+      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T20:04:44.000Z",
+      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-penguins-preseason-game-4-open-thread-and-how-to-watch/",
       "team": "sabres",
       "title": "Sabres vs Penguins: Preseason Game 4 | Open Thread and How To Watch",
@@ -658,6 +823,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-26T19:00:57.000Z",
       "link": "https://www.diebytheblade.com/sabres-vs-penguins-preseason-game-4-open-thread-and-how-to-watch/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/c-noah-ostlund-16th-overall-2022-nhl-draft-%E2%80%94-signs-8-year-extension-at-6-6m-aav-9-14-26.2891225/",
+      "team": "sabres",
+      "title": "C Noah Ostlund, 16th Overall, 2022 NHL Draft — Signs 8 year extension at $6.6M AAV, 9/14/26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T18:20:30.000Z",
+      "link": "https://forums.hfboards.com/threads/c-noah-ostlund-16th-overall-2022-nhl-draft-%E2%80%94-signs-8-year-extension-at-6-6m-aav-9-14-26.2891225/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/bills-collaborate-with-oxford-pennant-to-bring-buffalo-flair-to-highmark-stadium-s-blue-moon-bar",
@@ -704,6 +880,17 @@
       "link": "https://www.buffalohockeybeat.com/sabres-waive-eight-players-including-first-rounder-assign-17-to-rochester/"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
+      "team": "sabres",
+      "title": "How are they doing now? (Former Sabres Players) Top 100 pics/stories",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-26T04:01:07.000Z",
+      "link": "https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-wr-greg-dortch-to-active-roster-place-db-jordan-hancock-on-ir",
       "team": "bills",
       "title": "Bills sign WR Greg Dortch to active roster, place DB Jordan Hancock on IR",
@@ -713,6 +900,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-25T20:14:16.000Z",
       "link": "https://www.buffalobills.com/news/bills-sign-wr-greg-dortch-to-active-roster-place-db-jordan-hancock-on-ir"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
+      "team": "sabres",
+      "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-25T19:45:01.000Z",
+      "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
     },
     {
       "id": "bandits-official::https://bandits.com/bandits-sign-higgins-cormier-to-contracts/",
@@ -825,6 +1023,17 @@
       "link": "https://bandits.com/buffalo-museum-of-science-unveils-3-million-science-stadium-permanent-exhibit-in-partnership-with-the-bills-sabres-and-bandits/"
     },
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/",
+      "team": "sabres",
+      "title": "Radim Mrtka, RD, (9th OA, 2025); Seattle Thunderbirds (WHL), Assigned to Rochester 4/8/26",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-25T19:20:14.000Z",
+      "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
+    },
+    {
       "id": "espn-bills::50028662",
       "team": "bills",
       "title": "Bills mark Keon Coleman, DJ Moore, Ed Oliver as questionable",
@@ -834,6 +1043,39 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-25T19:14:30Z",
       "link": "https://www.espn.com/nfl/story/_/id/50028662/bills-mark-keon-coleman-dj-moore-ed-oliver-questionable"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
+      "team": "sabres",
+      "title": "General lacrosse thread presented by your local lax goalie dad",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-25T18:45:53.000Z",
+      "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/",
+      "team": "sabres",
+      "title": "\"Hometown Remix\" (Reverse Retro 2.0 Moneygrab) 2026-27 Sweater Leak?",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-25T18:40:33.000Z",
+      "link": "https://forums.hfboards.com/threads/hometown-remix-reverse-retro-2-0-moneygrab-2026-27-sweater-leak.3030679/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/",
+      "team": "sabres",
+      "title": "Prokhor Poltapov, F (33rd overall, 2021) CSKA (KHL)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-25T18:35:01.000Z",
+      "link": "https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-chargers-week-3",
@@ -856,6 +1098,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-25T17:30:27Z",
       "link": "https://www.espn.com/nhl/story/_/id/50028073/hurricanes-sign-goalie-pyotr-kochetkov-2-year-extension"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/preseason-game-three-sabres-red-wings-7-pm-tv-msg-espn-radio-wgr550.3037612/",
+      "team": "sabres",
+      "title": "Preseason Game Three: Sabres @ Red Wings 7 PM - TV:MSG, ESPN+ Radio:WGR550",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-25T16:12:01.000Z",
+      "link": "https://forums.hfboards.com/threads/preseason-game-three-sabres-red-wings-7-pm-tv-msg-espn-radio-wgr550.3037612/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-losing-two-defensemen-to-injury-sabres-sign-veteran-matt-grzelcyk/",
@@ -1045,17 +1298,6 @@
       "link": "https://www.diebytheblade.com/dbtb-makes-three-free-agent-additions/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-lose-mattias-samuelsson-olen-zellweger-to-injuries-in-preseason-win/",
-      "team": "sabres",
-      "title": "Sabres lose Mattias Samuelsson, Olen Zellweger to injuries in preseason win",
-      "summary": "BUFFALO – Uh-oh. Tuesday’s 5-1 preseason win over the Columbus Blue Jackets’ junior varsity squad proved to be costly, as defensemen Mattias Samuelsson and Olen Zellweger both left the game with injuries.\nSamuelsson, 26, blocked Luca Pinelli’s shot 4:36 into the second period before leaving the game around the halfway mark.\nCoach Lindy Ruff said Samuelsson, the Sabres’ top shutdown defender, will be further evaluated today.\n\nMeanwhile, Ruff said Zellweger, 23, suffered a concussion when ... Read the full article \nThe post Sabres lose Mattias Samuelsson, Olen Zellweger to injuries in preseason win first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-23T05:58:23.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-lose-mattias-samuelsson-olen-zellweger-to-injuries-in-preseason-win/"
-    },
-    {
       "id": "espn-sabres::50010303",
       "team": "sabres",
       "title": "Florida Panthers vs. Carolina Hurricanes: Game Highlights",
@@ -1166,28 +1408,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-top-25-under-25-1-zach-benson/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/social-video-twitter/45851/usa-soccercast-episode-199-new-cycle-new-look-usmnt",
-      "team": "usmnt",
-      "title": "USA Soccercast, Episode 199: New cycle, new look USMNT",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T19:26:35.000Z",
-      "link": "https://www.starsandstripesfc.com/social-video-twitter/45851/usa-soccercast-episode-199-new-cycle-new-look-usmnt"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/hot-takes/45812/what-are-we-doing-apparently-rebooting-2017",
-      "team": "usmnt",
-      "title": "What are we doing? Apparently, rebooting 2017",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-18T16:08:37.000Z",
-      "link": "https://www.starsandstripesfc.com/hot-takes/45812/what-are-we-doing-apparently-rebooting-2017"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-time-is-now-stanley-cup/",
       "team": "sabres",
       "title": "The time is now",
@@ -1230,6 +1450,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-05T20:10:09.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266314-which-bills-player-are-you-irrationally-confident-is-going-to-have-a-monster-season/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266243-bills-replacing-grass-at-highmark-starting-monday/",
+      "team": "bills",
+      "title": "Bills replacing grass at Highmark starting Monday",
+      "summary": "https://buffalonews.com/sports/professional/nfl/bills/article_f6e546cc-244a-4562-81bf-f2a0db8231a7.html?lctg=baf30705bec101afd50a&tn_email_eh1=7e9aa99fd45095aa209bba35efe688f31334c174d407e8f34b74b5cc9df50d24  \n\n\n\n\t \n\n\n\n\tHmmm...  Little skeptical how grass that had over a year to take root is better than stuff replaced two weeks before first game??  Article says that process is fine.  We shall see. \n\n\n\n\t \n\n\n\n\tRecall Sept 1969 Mets won eastern division on like a Tuesday and Jets played that following Sunday at Shea.  Fans had torn up the stadium field bad (not that the field was ever very good to start with)  Verlon Biggs threw a piece of turf half way across the field that came loose.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-29T18:24:22.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266243-bills-replacing-grass-at-highmark-starting-monday/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265727-alternate-uni-unveiling-reportedly-scheduled-for-27-july-nickel-city-set/",
