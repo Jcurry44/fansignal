@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T08:40:49.793Z",
+  "generatedAt": "2026-09-29T15:06:23.018Z",
   "sources": [
     {
       "id": "bills-official",
@@ -61,8 +61,8 @@
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 10,
-      "error": null
+      "itemCount": 0,
+      "error": "fetch failed"
     },
     {
       "id": "sportsnet-nhl",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 8,
+      "itemCount": 7,
       "error": null
     },
     {
@@ -177,7 +177,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-29T07:32:37.000Z",
+      "publishedAt": "2026-09-29T14:51:56.000Z",
       "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
     },
     {
@@ -188,19 +188,8 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-29T05:56:03.000Z",
+      "publishedAt": "2026-09-29T14:45:58.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-the-season-is-nigh.3033750/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
-      "team": "sabres",
-      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-29T04:23:31.000Z",
-      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -210,8 +199,206 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-29T02:27:45.000Z",
+      "publishedAt": "2026-09-29T14:14:40.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/",
+      "team": "sabres",
+      "title": "The New and Improved Sabres Summer Roster Thread, 2026-27: Now With More Fiber",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T14:14:11.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-sabres-summer-roster-thread-2026-27-now-with-more-fiber.3033749/"
+    },
+    {
+      "id": "espn-bills::50052289",
+      "team": "bills",
+      "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 4",
+      "summary": "How do all 32 NFL teams stack up through three weeks? Plus, we picked out each team's biggest fantasy surprise -- good or bad.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T14:11:15Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50052289/nfl-power-rankings-week-4-teams-fantasy-surprises"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266693-great-breakdown-of-the-bills-offensive-scheme/",
+      "team": "bills",
+      "title": "Great Breakdown of the Bills Offensive Scheme",
+      "summary": "I haven’t run across this guys stuff but he does an excellent job of explaining why the scheme is so tough to defend.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T13:57:41.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266693-great-breakdown-of-the-bills-offensive-scheme/"
+    },
+    {
+      "id": "espn-bills::50054740",
+      "team": "bills",
+      "title": "Seven things Solak thinks entering NFL Week 4",
+      "summary": "Bowers will go off under Klint Kubiak? The Rams need another pass catcher? Steelers-Browns will be fun? And Lamar Jackson for MVP? Get ready for Week 4 with some takes.",
+      "source": "ESPN · Ben Solak",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T13:33:07Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50054740/week-4-seven-things-solak-thinks-lamar-mvp-bills-rams-trade"
+    },
+    {
+      "id": "espn-sabres::50015025",
+      "team": "sabres",
+      "title": "NHL betting guide: 32 teams, 32 bets to make this season",
+      "summary": "One bet to make on each of the NHL's 32 squads, including Stanley Cup winner, player awards and more futures.",
+      "source": "ESPN · Sean Allen and Victoria Matiash",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T12:49:16Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50015025/nhl-betting-2026-season-futures-props-stanley-cup-picks"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266692-five-undefeated-teams-left-after-three-weeks%E2%80%A6w4-preview/",
+      "team": "bills",
+      "title": "Five undefeated teams left after three weeks…W4 preview",
+      "summary": "Bills, Chiefs, Raiders, 49ers, Vikings at 3-0 — and I think to the majority of us, all or most of those are a surprise.\n\n\n\n\t \n\n\n\n\tEqually as surprising are a number of the winless and 1-2 teams: Rams, Chargers, Packers, Pats***, Texans, Cowboys…\n\n\n\n\t \n\n\n\n\tNext week marks end of the proverbial first quarter of the season, when teams start to solidify “who they are.”\n\n\n\n\t \n\n\n\n\tSome really interesting games on the slate for W4. Obviously there’s Bills/Pats*** and a chance for Buffalo to put an early stranglehold on the division. KC/LV will eliminate one of the unbeatens. Houston and Dallas are both in desperation mode in the battle of Texas. Jags at Cinci is a matchup of 2-1 teams. Broncos at 49ers is another intriguing game — one could argue Denver “should” be 0-3 but they’ve done the 4th quarter rabbit-out-of-a-hat trick two weeks in a row.\n\n\n\n\t \n\n\n\n\tFrom a Bills perspective I think we’re rooting for Vegas, Dallas, Jacksonville (because of Cinci’s easy schedule), and the 49ers.\n\n\n\n\t \n\n\n\n\tFun week ahead.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T12:10:06.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266692-five-undefeated-teams-left-after-three-weeks%E2%80%A6w4-preview/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
+      "team": "sabres",
+      "title": "All Purpose Goaltending Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T11:50:50.000Z",
+      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141504/buffalo-bills-defense-steps-up-in-victory-over-los-angeles-chargers",
+      "team": "bills",
+      "title": "Buffalo Bills defense steps up in victory over Los Angeles Chargers",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T11:44:43.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141504/buffalo-bills-defense-steps-up-in-victory-over-los-angeles-chargers"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/",
+      "team": "sabres",
+      "title": "Sabres Prospects Video Blog, Baker's Bunker, Baker-Fairburn",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T11:40:48.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/"
+    },
+    {
+      "id": "espn-bills::49794361",
+      "team": "bills",
+      "title": "2027 NFL draft order projections for Round 1, top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "source": "ESPN · ESPN staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T11:06:05Z",
+      "link": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141606/buffalo-bills-do-with-phidarian-mathis-back-on-53-man-roster-corresponding-move",
+      "team": "bills",
+      "title": "What corresponding move will Buffalo Bills make with Phidarian Mathis back on 53-man roster?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T10:42:35.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141606/buffalo-bills-do-with-phidarian-mathis-back-on-53-man-roster-corresponding-move"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141461/buffalo-bills-hc-joe-brady-wants-rb-ray-davis-more-involved-on-offense",
+      "team": "bills",
+      "title": "Buffalo Bills HC Joe Brady wants RB Ray Davis more involved on offense",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T10:19:45.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141461/buffalo-bills-hc-joe-brady-wants-rb-ray-davis-more-involved-on-offense"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141532/josh-allen-play-game-after-a-bad-outing-buffalo-bills",
+      "team": "bills",
+      "title": "How does Josh Allen play the game after a bad outing?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T10:11:22.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141532/josh-allen-play-game-after-a-bad-outing-buffalo-bills"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
+      "team": "sabres",
+      "title": "Sabres 2026-27 Training Camp Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T10:08:51.000Z",
+      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
+      "team": "sabres",
+      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T10:07:46.000Z",
+      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
+      "team": "sabres",
+      "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T08:36:03.000Z",
+      "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
+    },
+    {
+      "id": "espn-sabres::50057104",
+      "team": "sabres",
+      "title": "Hurricanes host the Panthers in season opener",
+      "summary": "Florida Panthers vs. Carolina Hurricanes",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T08:12:32Z",
+      "link": "http://www.espn.com/nhl/preview?gameId=401891773"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141533/nfl-has-a-roughing-the-passer-problem-and-its-not-the-one-you-think",
+      "team": "bills",
+      "title": "The NFL has a “Roughing The Passer” problem, and it’s not the one you think",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-29T07:40:39.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141533/nfl-has-a-roughing-the-passer-problem-and-its-not-the-one-you-think"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-athletic-model-has-the-sabres-as-the-16th-best-team-this-season-new-article-has-the-sabres-as-one-of-six-teams-to-regress.3037559/",
@@ -236,17 +423,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46227/usa-vs-peru-2026-friendly-man-of-the-match"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/",
-      "team": "sabres",
-      "title": "Sabres 2026-27 Training Camp Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-29T01:25:11.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-2026-27-training-camp-thread.3036793/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/141510/buffalo-bills-records-and-milestones-from-week-3-win-over-los-angeles-chargers",
       "team": "bills",
       "title": "Buffalo Bills records and milestones from Week 3 win over Los Angeles Chargers",
@@ -269,17 +445,6 @@
       "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
-      "team": "sabres",
-      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T23:23:41.000Z",
-      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
       "team": "sabres",
       "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
@@ -300,17 +465,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-28T23:04:08.000Z",
       "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-camp-edition-luukkonen-lyon-ubi-timmins-tbd-sheary-ubi-samuelsson-lbi-zucker-hernia.3030570/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
-      "team": "sabres",
-      "title": "All Purpose Goaltending Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T22:30:20.000Z",
-      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141544/joe-brady-provides-injury-update-on-josh-allen",
@@ -346,17 +500,6 @@
       "link": "https://www.buffalobills.com/news/highmark-foundation-and-buffalo-bills-foundation-unveil-victory-table-to-expand-access-to-healthy-food-and-wellness-resources-across-western-new-york"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-initial-2026-27-roster-has-goalies-ukko-pekka-luukkonen-and-alex-lyon/",
-      "team": "sabres",
-      "title": "Sabres’ initial 2026-27 roster has goalies Ukko-Pekka Luukkonen and Alex Lyon",
-      "summary": "The Buffalo Sabres’ initial 23-man roster for the 2026-27 season released Monday features three goalies, six defensemen and 14 forwards.\nGoalies Ukko-Pekka Luukkonen and Alex Lyon and defenseman Olen Zellweger, all of whom suffered injuries in preseason games last week, are listed on the roster.\nOne rookie, forward Konsta Helenius, made the team.\n\nThe Sabres reached the 23-man limit by placing six players, including defensemen Mattias Samuelsson, who is week to week after suffering a ... Read the full article \nThe post Sabres’ initial 2026-27 roster has goalies Ukko-Pekka Luukkonen and Alex Lyon first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T21:20:50.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-initial-2026-27-roster-has-goalies-ukko-pekka-luukkonen-and-alex-lyon/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-coaches-offer-preview-on-qb-drake-maye-a-rookie-cb-steps-up-and-initial-week-4-injury-outlook",
       "team": "bills",
       "title": "Bills coaches offer preview on QB Drake Maye, a rookie CB steps up and initial Week 4 injury outlook",
@@ -379,6 +522,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/50054082/hurricanes-panthers-avs-favored-win-stanley-cup-ahead-new-season"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46214/usa-vs-chile-2026-friendly-time-tv-schedule-streaming-and-lineups",
+      "team": "usmnt",
+      "title": "USA vs. Chile, 2026 Friendly: Time, TV schedule, streaming and lineups",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T20:29:00.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46214/usa-vs-chile-2026-friendly-time-tv-schedule-streaming-and-lineups"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266688-are-the-raiders-legit/",
       "team": "bills",
       "title": "Are the Raiders legit?",
@@ -390,26 +544,26 @@
       "link": "https://www.twobillsdrive.com/community/topic/266688-are-the-raiders-legit/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266686-where-do-you-watch-game-highlights/",
+      "team": "bills",
+      "title": "Where do you watch game highlights?",
+      "summary": "As the title suggests, where are you watching game highlights where you feel like you a provided a decent recap of the game?\n\n\n\n\t \n\n\n\n\tI was watching GMFB, but they don’t show all the games and they may only show one play. It’s gotten bad. \n\t \n\n\n\n\tI’m trying to find a show that gives you a good idea of the flow of how the game went.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-28T18:56:42.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266686-where-do-you-watch-game-highlights/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/a-dream-come-true-the-bills-celebrate-hispanic-heritage-with-chef-g-taking-over-the-seneca-one-club",
       "team": "bills",
-      "title": "'A dream come true' | The Bills celebrate Hispanic Heritage with Chef G taking over the Seneca One Club",
+      "title": "'A dream come true' | The Bills celebrate Hispanic Heritage with Chef G taking over the Seneca Field Club",
       "summary": "Puerto Rican-born chef represents his community on Sunday",
       "source": "Bills.com",
       "sourceType": "team",
       "sourceCount": 1,
       "publishedAt": "2026-09-28T18:28:38.000Z",
       "link": "https://www.buffalobills.com/news/a-dream-come-true-the-bills-celebrate-hispanic-heritage-with-chef-g-taking-over-the-seneca-one-club"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266685-victory-speech-cjgj-seems-to-speak-well/",
-      "team": "bills",
-      "title": "Victory Speech - CJGJ seems to speak well",
-      "summary": "For a guy being dropped from team to team due to character issues, he seems to be a fairly good speaker. I noticed Terry Pegula paid attention to it as well.\n\n\n\n\t \n\n\n\n\tAlso Matt Parrino asked him in a different interview about him gathering and speaking to the young CBs after Benford went down. Does he become the leader of our secondary now?\n\n\n\n\t \n\n\n\n\tLast thing I noticed is that Brady looks to give players forum to speak in those game ball moments whereas previously I never saw McDermott taking much of a back seat. Not saying it is bad or good, just a little different.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T18:14:40.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266685-victory-speech-cjgj-seems-to-speak-well/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-international-break-rolls-on-as-usmnt-youth-movement-is-in-full-swing/",
@@ -476,17 +630,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-28T15:44:32.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141509/james-cook-fumbles-should-buffalo-bills-be-worried-study-analytics-fumble-rate"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141504/buffalo-bills-defense-steps-up-in-victory-over-los-angeles-chargers",
-      "team": "bills",
-      "title": "Buffalo Bills defense steps up in victory over Los Angeles Chargers",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T15:36:37.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141504/buffalo-bills-defense-steps-up-in-victory-over-los-angeles-chargers"
     },
     {
       "id": "espn-bills::50028072",
@@ -687,17 +830,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/50027874/nhl-2026-27-season-preview-predictions-rankings-strengths-weaknesses-top-players"
     },
     {
-      "id": "espn-bills::50049811",
-      "team": "bills",
-      "title": "Top NFL plays from Week 3",
-      "summary": "Top NFL plays from Week 3",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T13:41:29Z",
-      "link": "https://www.espn.com/video/clip/_/id/50049811/top-nfl-plays-week-3"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266670-bills-cb-depth-issue-is-a-real-problem-now/",
       "team": "bills",
       "title": "Bills CB depth issue is a real problem now",
@@ -707,17 +839,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-28T13:00:56.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266670-bills-cb-depth-issue-is-a-real-problem-now/"
-    },
-    {
-      "id": "espn-sabres::50028073",
-      "team": "sabres",
-      "title": "Hurricanes sign goalie Pyotr Kochetkov to 2-year extension",
-      "summary": "The Carolina Hurricanes have signed goaltender Pyotr Kochetkov to a two-year extension running through the 2028-29 season with an average annual value of $3.95 million.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T12:49:24Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50028073/hurricanes-sign-goalie-pyotr-kochetkov-2-year-extension"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141496/did-josh-allen-injure-his-knee-in-fourth-quarter-vs-chargers",
@@ -742,39 +863,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/50049125/hurricanes-receive-stanley-cup-rings-hidden-storm-surge"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141490/takeaways-from-buffalo-bills-ugly-win-over-chargers-week-3-josh-allen-james-cook",
-      "team": "bills",
-      "title": "Takeaways from Buffalo Bills ugly Week 3 win over Chargers",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T12:29:39.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141490/takeaways-from-buffalo-bills-ugly-win-over-chargers-week-3-josh-allen-james-cook"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266669-the-bills-beat-the-chargers-because-of-you-superstitionkarma-reasons/",
-      "team": "bills",
-      "title": "The Bills beat the Chargers because of you... (superstition/karma reasons)",
-      "summary": "How did your actions yesterday help the Bills win?  Something you ate?  Did you change your shirt at halftime?  Kick that annoying friend/relative out of the house? Skipped TBDAHOT and came to the game yesterday instead?  I’ll start…\n\n\n\n\t \n\n\n\n\tI kept up my usual routine of not wearing any Bills gear and not watching the game till about the last 3-4 minutes. You're welcome.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T12:28:00.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266669-the-bills-beat-the-chargers-because-of-you-superstitionkarma-reasons/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266668-nfl-officiating-inconsistency/",
-      "team": "bills",
-      "title": "NFL officiating inconsistency",
-      "summary": "abovevyou have 2 QB sacks. One is ruled a fumble and one is not. Both go against the Saints",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T12:26:15.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266668-nfl-officiating-inconsistency/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
       "team": "sabres",
       "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
@@ -795,39 +883,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-28T11:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-28/"
-    },
-    {
-      "id": "espn-bills::49794361",
-      "team": "bills",
-      "title": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "source": "ESPN · ESPN staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T10:00:39Z",
-      "link": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-losing-defensemen-to-injury-matt-grzelcyks-signing-gives-sabres-boost/",
-      "team": "sabres",
-      "title": "After losing defensemen to injury, Matt Grzelcyk’s signing gives Sabres boost",
-      "summary": "BUFFALO – The Sabres wasted no time getting newcomer Matt Grzelcyk acclimated. Without the benefit of a practice or pregame skate, they threw the defenseman into the lineup for their preseason finale.\nGrzelcyk, who on Friday signed a one-year, $850,000 contract, looked comfortable throughout Saturday afternoon’s 3-1 loss to the Pittsburgh Penguins, skating 16 minutes, 48 seconds, mostly alongside Conor Timmins.\n“It almost helped, honestly, just having no pregame skate, nothing – just go right ... Read the full article \nThe post After losing defensemen to injury, Matt Grzelcyk’s signing gives Sabres boost first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T05:39:26.000Z",
-      "link": "https://www.buffalohockeybeat.com/after-losing-defensemen-to-injury-matt-grzelcyks-signing-gives-sabres-boost/"
-    },
-    {
-      "id": "espn-bills::50043408",
-      "team": "bills",
-      "title": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T04:51:47Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-sign-d-matt-grzelcyk-1-year-850k.3037696/",
@@ -885,28 +940,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45886/usmnt-midweek-viewing-guide-the-break-rolls-on"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141452/bills-vs-chargers-game-analysis-buffalo-overcomes-real-adversity",
-      "team": "bills",
-      "title": "Bills vs. Chargers game analysis: Buffalo overcomes real adversity",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T00:17:23.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141452/bills-vs-chargers-game-analysis-buffalo-overcomes-real-adversity"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/141473/denver-broncos-vs-los-angeles-rams-nfl-week-3-snf-fan-discussion",
-      "team": "bills",
-      "title": "Denver Broncos vs. Los Angeles Rams, NFL Week 3 ‘SNF’ fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T00:09:50.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/141473/denver-broncos-vs-los-angeles-rams-nfl-week-3-snf-fan-discussion"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266663-game-week-thread-patriots-at-bills/",
       "team": "bills",
       "title": "Game week thread - Patriots at Bills",
@@ -927,17 +960,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-27T22:46:00.000Z",
       "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-chargers-week-3"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/141440/buffalo-bills-qb-josh-allen-ties-marshawn-lynch-in-rushing-tds",
-      "team": "bills",
-      "title": "Buffalo Bills QB Josh Allen ties Marshawn Lynch in rushing TDs",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T21:26:01.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/141440/buffalo-bills-qb-josh-allen-ties-marshawn-lynch-in-rushing-tds"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266652-the-pats-game-next-week-will-be-very-tough/",
@@ -1028,6 +1050,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266647-9272026-around-the-nfl-games-other-than-bills-chargers/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266646-gameday-92726-week-3-bills-vs-chargers-100pm-post-game-thread/",
+      "team": "bills",
+      "title": "GAMEDAY 9/27/26 Week 3 Bills vs Chargers 1:00pm Post Game Thread",
+      "summary": "Bills 24 Chargers 16\n\n\n\n\t \n\n\n\n\tGo Bills!!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-27T14:05:23.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266646-gameday-92726-week-3-bills-vs-chargers-100pm-post-game-thread/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/preseason-game-four-sabres-vs-penguins-3-pm-tv-msg-nhl-network-espn-radio-wgr550.3037760/",
       "team": "sabres",
       "title": "Preseason Game Four: Sabres vs Penguins 3 PM - TV:MSG, NHL Network, ESPN+ Radio:WGR550",
@@ -1072,17 +1105,6 @@
       "link": "https://forums.hfboards.com/threads/other-buffalo-sports-bandits-beauts-bisons-ncaa-basketball-and-football.2492721/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/ukko-pekka-luukkonen-leaves-game-injured-as-sabres-end-preseason/",
-      "team": "sabres",
-      "title": "Ukko-Pekka Luukkonen leaves game injured as Sabres end preseason",
-      "summary": "BUFFALO – When the Sabres open the regular season Thursday in Columbus, Colten Ellis could be their starting goalie.\nA trying preseason in which they lost five significant players to injury in four games, including top goalies Ukko-Pekka Luukkonen and Alex Lyon, has mercifully ended.\nIn Saturday afternoon’s 3-1 loss to the Pittsburgh Penguins, Ruff said Luukkonen, who has a history of injuries, left 3:47 into the third period when he tweaked something on ... Read the full article \nThe post Ukko-Pekka Luukkonen leaves game injured as Sabres end preseason first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T05:06:04.000Z",
-      "link": "https://www.buffalohockeybeat.com/ukko-pekka-luukkonen-leaves-game-injured-as-sabres-end-preseason/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/soccer/46072/youth-shine-as-usmnt-breeze-past-peru",
       "team": "usmnt",
       "title": "Youth shine as USMNT breeze past Peru",
@@ -1092,17 +1114,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-27T02:16:13.000Z",
       "link": "https://www.starsandstripesfc.com/soccer/46072/youth-shine-as-usmnt-breeze-past-peru"
-    },
-    {
-      "id": "espn-sabres::50036619",
-      "team": "sabres",
-      "title": "Carolina Hurricanes vs. Nashville Predators: Game Highlights",
-      "summary": "Carolina Hurricanes vs. Nashville Predators: Game Highlights",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-26T21:46:36Z",
-      "link": "https://www.espn.com/video/clip/_/id/50036619/game-highlights"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46061/usa-vs-peru-2026-friendly-time-tv-schedule-streaming-and-lineups",
@@ -1160,28 +1171,6 @@
       "link": "https://www.cbssports.com/soccer/news/ireland-israel-nations-league-boycott-fails/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/signing-matt-grzelcyk-shows-sabres-in-full-stanley-cup-mode-olen-zellweger-could-be-back-for-opener/",
-      "team": "sabres",
-      "title": "Signing Matt Grzelcyk shows Sabres in full Stanley Cup mode; Olen Zellweger could be back for opener",
-      "summary": "BUFFALO – When the Sabres announced Friday they had signed veteran Matt Grzelcyk to a one-year, $850,000 contract, it felt like they might also reveal they expected at least one of their two injured defensemen, Mattias Samuelsson and Olen Zellweger, to be sidelined longer than they expected.\nBut Samuelsson and Zellweger, both of whom went down in Tuesday’s 5-1 preseason win over the Columbus Blue Jackets, are doing well.\nSabres coach Lindy Ruff said Samuelsson, ... Read the full article \nThe post Signing Matt Grzelcyk shows Sabres in full Stanley Cup mode; Olen Zellweger could be back for opener first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-26T05:57:37.000Z",
-      "link": "https://www.buffalohockeybeat.com/signing-matt-grzelcyk-shows-sabres-in-full-stanley-cup-mode-olen-zellweger-could-be-back-for-opener/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-waive-eight-players-including-first-rounder-assign-17-to-rochester/",
-      "team": "sabres",
-      "title": "Sabres waive eight players, including first-rounder, assign 17 to Rochester",
-      "summary": "The Buffalo Sabres on Friday placed eight players on waivers, including defenseman Ryan Johnson, a first-round pick in 2019, for the purpose of assigning them to the Rochester Americans.\nThe Sabres also waived goalie Matt Villalta, defenseman Dennis Gilbert and forwards Mason Geertsen, Trevor Kuntar, Aidan McDonough, Carson Meyer and Jason Polin.\nUpdate: Everyone on waivers cleared.\nIn addition, the Sabres also assigned the following players to the Amerks, their AHL affiliate: goalies Talyn ... Read the full article \nThe post Sabres waive eight players, including first-rounder, assign 17 to Rochester first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-26T05:02:16.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-waive-eight-players-including-first-rounder-assign-17-to-rochester/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/",
       "team": "sabres",
       "title": "How are they doing now? (Former Sabres Players) Top 100 pics/stories",
@@ -1191,17 +1180,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-26T04:01:07.000Z",
       "link": "https://forums.hfboards.com/threads/how-are-they-doing-now-former-sabres-players-top-100-pics-stories.1975019/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
-      "team": "sabres",
-      "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T19:45:01.000Z",
-      "link": "https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-mauricio-pochettino-young-players-peru-friendly/",
@@ -1226,61 +1204,6 @@
       "link": "https://forums.hfboards.com/threads/radim-mrtka-rd-9th-oa-2025-seattle-thunderbirds-whl-assigned-to-rochester-4-8-26.3007533/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
-      "team": "sabres",
-      "title": "General lacrosse thread presented by your local lax goalie dad",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T18:45:53.000Z",
-      "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-losing-two-defensemen-to-injury-sabres-sign-veteran-matt-grzelcyk/",
-      "team": "sabres",
-      "title": "After losing two defensemen to injury, Sabres sign veteran Matt Grzelcyk",
-      "summary": "BUFFALO – The Sabres, who lost two of their top defensemen to injury in Tuesday’s preseason game, added depth to their blue line this morning by signing veteran Matt Grzelcyk to a one-year, $850,000 contract.\nInking the left-shot Grzelcyk, a puck-moving defender, indicates Mattias Samuelsson, who’s week to week with a lower-body injury, and Olen Zellweger, who has a concussion, could be sidelined into the regular season.\nThe Sabres open their campaign Thursday on the ... Read the full article \nThe post After losing two defensemen to injury, Sabres sign veteran Matt Grzelcyk first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T15:10:36.000Z",
-      "link": "https://www.buffalohockeybeat.com/after-losing-two-defensemen-to-injury-sabres-sign-veteran-matt-grzelcyk/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/with-waivers-looming-sabres-prospect-ryan-johnson-reaches-critical-juncture-in-young-career/",
-      "team": "sabres",
-      "title": "With waivers looming, Sabres prospect Ryan Johnson reaches critical juncture in young career",
-      "summary": "BUFFALO – Ryan Johnson’s legs are his greatest gift. The Sabres prospect is a sublime, world-class skater who possesses the talent to move alongside anyone.\n“We know he can skate with the best players,” Sabres coach Lindy Ruff said of the defenseman following a recent session of training camp in KeyBank Center. “He can skate with the top players in the league.”\nPure skill isn’t an issue. To stick in the NHL, Johnson, the 31st ... Read the full article \nThe post With waivers looming, Sabres prospect Ryan Johnson reaches critical juncture in young career first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T05:30:16.000Z",
-      "link": "https://www.buffalohockeybeat.com/with-waivers-looming-sabres-prospect-ryan-johnson-reaches-critical-juncture-in-young-career/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-alex-lyon-jiri-kulich-leave-loss-to-red-wings-with-injuries/",
-      "team": "sabres",
-      "title": "Sabres’ Alex Lyon, Jiri Kulich leave loss to Red Wings with injuries",
-      "summary": "For the second straight preseason game, the Buffalo Sabres lost two key players to injuries.\nGoalie Alex Lyon and center Jiri Kulich both exited Thursday’s 3-2 overtime loss to the Detroit Red Wings.\nUpdate: Ruff said Lyon is being evaluated today. The team will know more about his injury Saturday.\nMeanwhile, Kulich stayed off the ice today for maintenance. Ruff said the Czech could skate Saturday or play in the preseason finale against the Pittsburgh ... Read the full article \nThe post Sabres’ Alex Lyon, Jiri Kulich leave loss to Red Wings with injuries first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T05:04:38.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-alex-lyon-jiri-kulich-leave-loss-to-red-wings-with-injuries/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/45961/usmnt-midweek-roundup-some-playing-more-talking",
-      "team": "usmnt",
-      "title": "USMNT midweek roundup: Some playing, more talking",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T03:03:34.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45961/usmnt-midweek-roundup-some-playing-more-talking"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-red-wings-preseason-game-3-open-thread-and-how-to-watch/",
       "team": "sabres",
       "title": "Sabres vs Red Wings: Preseason Game 3 | Open Thread and How To Watch",
@@ -1290,17 +1213,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-24T18:57:00.000Z",
       "link": "https://www.diebytheblade.com/sabres-vs-red-wings-preseason-game-3-open-thread-and-how-to-watch/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-preseason-jiri-kulich-to-center-top-line-gavin-mccarthy-set-to-debut/",
-      "team": "sabres",
-      "title": "Sabres preseason: Jiri Kulich to center top line; Gavin McCarthy set to debut",
-      "summary": "BUFFALO – The Sabres’ plan for Jiri Kulich this preseason includes moving him around the lineup at different positions.\nSo the Czech forward, who missed most of last season recovering from a blood clot, is expected to center the top line alongside Konsta Helenius and Noah Ostlund for at least some of tonight’s preseason road game against the Detroit Red Wings.\nKulich, who will likely play all four exhibition contests, has spent some of training ... Read the full article \nThe post Sabres preseason: Jiri Kulich to center top line; Gavin McCarthy set to debut first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-24T16:41:18.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-preseason-jiri-kulich-to-center-top-line-gavin-mccarthy-set-to-debut/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266623-post-your-best-memes-from-the-2026-season-so-far/",
@@ -1323,17 +1235,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-24T12:39:58.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-youth-movement-meet-the-players-usa-soccer/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-d-mattias-samuelsson-week-to-week-with-injury-olen-zellweger-in-concussion-protocol/",
-      "team": "sabres",
-      "title": "Sabres D Mattias Samuelsson week to week with injury; Olen Zellweger in concussion protocol",
-      "summary": "BUFFALO – It took less than one week of training camp for injuries to the hit the Sabres hard.\nWhen the Sabres open the season next Thursday on the road against the Columbus Blue Jackets, they could be without two of their top four defensemen.\nMattias Samuelsson, their top shutdown defender, is week to week with a lower-body injury he suffered blocking a shot in Tuesday’s 5-1 preseason win over Columbus, coach Lindy Ruff said.... Read the full article \nThe post Sabres D Mattias Samuelsson week to week with injury; Olen Zellweger in concussion protocol first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-24T05:04:09.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-d-mattias-samuelsson-week-to-week-with-injury-olen-zellweger-in-concussion-protocol/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/45974/usmnt-vs-peru-absent-of-meaning-but-full-of-exaggeration",
@@ -1391,17 +1292,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-21/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/watch-usmnts-christian-pulisic-scores-first-goal-of-season-milan-2026/",
-      "team": "usmnt",
-      "title": "WATCH: USMNT's Christian Pulisic scores first goal of season for AC Milan",
-      "summary": "Pulisic earned his first of the season in Milan's game against Lecce, slowly being integrated into the team after an injury-plagued World Cup",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-20T20:13:43.000Z",
-      "link": "https://www.cbssports.com/soccer/news/watch-usmnts-christian-pulisic-scores-first-goal-of-season-milan-2026/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/jedi-council-13/",
       "team": "sabres",
       "title": "Jedi Council",
@@ -1444,17 +1334,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-10T06:22:19.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266370-drake-meha-career-killing-performance-tonight/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266191-could-ray-davis-be-trade-bait/",
-      "team": "bills",
-      "title": "Could Ray Davis be trade bait ?",
-      "summary": "Speculation that Ray Davis could replace the injured Ashton Jeanty\n\n\n\n\t \n\n\n\n\tRay Davis Could Replace Ashton Jeanty\n\n\n\n\t \n\n\n\n\tSI.com reporter Ezekiel Trezevant reported that Jeanty went down at practice on Sunday, with his teammates apparently fearing a significant injury.\n\n\n\n\t\"During practice, Jeanty landed awkwardly while trying to catch a pass,\" Trezevant reported. \"He stayed down for some time before being helped off the field by trainers, having trouble putting any weight on one leg. As of now, it remains unclear how serious the injury is, but based on his teammates' reaction, it was not good.\"\n\n\n\n\tWith the season approaching in a few weeks, some NFL analysts suggested the Raiders could hit the trade block for a replacement. Bills reporter and podcaster Bruce Nolan noted that Buffalo's roster has a backup running back looking for a bigger role.\n\n\n\n\t \n\n\n\n\t\"Ray Davis said he wanted more playing time,\" Nolan suggested in response to PFF reporter Nathan Jahnke.\n\n\n\n\tDavis has proven that he can excel as a lead running back, but his opportunities in Buffalo have been scarce. He took the lead in a 2024 game against the New York Jets with James Cook out with an injury, taking 20 carries for 97 yards and making another three receptions for 55 yards.\n\n\n\n\t \n\n\n\n\thttps://sports.yahoo.com/articles/bills-rb-james-cook-backup-043438906.html",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T17:20:25.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266191-could-ray-davis-be-trade-bait/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266097-phidarian-mathis-suspended-3-games-for-substance-abuse-violation/",
