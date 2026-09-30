@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T02:25:13.449Z",
+  "generatedAt": "2026-09-30T08:54:05.637Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 8,
+      "itemCount": 9,
       "error": null
     },
     {
@@ -164,11 +164,88 @@
     {
       "team": "usmnt",
       "state": "final",
-      "headline": "Final · W 4-1",
-      "detail": "vs PER"
+      "headline": "Final · W 4-2",
+      "detail": "vs CHI"
     }
   ],
   "stories": [
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
+      "team": "sabres",
+      "title": "Around The NHL the Thread the Musical the Movie - 2026-27",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T04:40:14.000Z",
+      "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-exciting-next-generation-mixed-results-win-chile-2026/",
+      "team": "usmnt",
+      "title": "USMNT's exciting next generation offers mixed results in win against Chile",
+      "summary": "The USMNT came back from 2-1 down to beat Chile 4-2 on Tuesday with Sebastian Berhalter notching a goal and assist, while newcomers Julian Hall and Mathis Albert also scored",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T03:40:56.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnts-exciting-next-generation-mixed-results-win-chile-2026/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
+      "team": "sabres",
+      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T03:39:21.000Z",
+      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
+      "team": "sabres",
+      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T03:37:16.000Z",
+      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46278/usa-vs-chile-2026-friendly-community-player-ratings",
+      "team": "usmnt",
+      "title": "USA vs. Chile, 2026 Friendly: Community player ratings",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T02:50:38.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46278/usa-vs-chile-2026-friendly-community-player-ratings"
+    },
+    {
+      "id": "espn-sabres::50058720",
+      "team": "sabres",
+      "title": "Best fits from NHL opening night arrivals",
+      "summary": "Players rocked some fierce looks before the first games of the NHL's 2026-27 season.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T02:44:08Z",
+      "link": "https://www.espn.com/nhl/story/_/id/50058720/nhl-opening-night-best-fits-outfits-style-fashion"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
+      "team": "sabres",
+      "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T02:21:04.000Z",
+      "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
+    },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46270/usmnt-4-2-chile-the-usa-battles-back-for-a-comeback-win",
       "team": "usmnt",
@@ -181,17 +258,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46270/usmnt-4-2-chile-the-usa-battles-back-for-a-comeback-win"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
-      "team": "sabres",
-      "title": "Around The NHL the Thread the Musical the Movie - 2026-27",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T01:56:56.000Z",
-      "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
-    },
-    {
       "id": "espn-sabres::50062937",
       "team": "sabres",
       "title": "Panthers win in overtime, spoil Hurricanes' banner night",
@@ -201,28 +267,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-30T01:42:54Z",
       "link": "https://www.espn.com/nhl/story/_/id/50062937/panthers-win-spoil-hurricanes-banner-night"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
-      "team": "sabres",
-      "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T01:13:12.000Z",
-      "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
-    },
-    {
-      "id": "espn-sabres::50058720",
-      "team": "sabres",
-      "title": "Bruins, Rangers lead best fits from NHL opening night arrivals",
-      "summary": "Players rocked some fierce looks before the first games of the NHL's 2026-27 season.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T00:42:12Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50058720/nhl-opening-night-best-fits-outfits-style-fashion"
     },
     {
       "id": "espn-sabres::50062863",
@@ -267,17 +311,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-30T00:10:32.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-nhl-off-season-thread-the-season-is-nigh.3033750/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
-      "team": "sabres",
-      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T00:07:59.000Z",
-      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-ahl-stacy-roest-named-amerks-gm.3030463/",
@@ -366,17 +399,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-29T21:36:16.000Z",
       "link": "https://forums.hfboards.com/threads/peyton-krebs-c-lw-re-signed-4-years-x-4-5m.2853828/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
-      "team": "sabres",
-      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-29T21:31:29.000Z",
-      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266698-mathis-to-ps/",
@@ -1081,17 +1103,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-28T02:08:07.000Z",
       "link": "https://www.buffalobills.com/news/we-took-a-step-forward-the-bills-defense-comes-up-big-in-scrappy-week-3-win-over-chargers"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-friendly/46094/community-player-ratings-usa-vs-peru-2026-friendly",
-      "team": "usmnt",
-      "title": "USA vs. Peru, 2026 Friendly: Community ratings",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T00:22:39.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-friendly/46094/community-player-ratings-usa-vs-peru-2026-friendly"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45866/usa-vs-chile-2026-usmnt-friendly-scouting-chile",
