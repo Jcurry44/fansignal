@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:01:56.041Z",
+  "generatedAt": "2026-10-02T02:16:46.568Z",
   "sources": [
     {
       "id": "bills-official",
@@ -54,8 +54,8 @@
       "id": "die-by-the-blade",
       "label": "Die By The Blade",
       "team": "sabres",
-      "itemCount": 10,
-      "error": null
+      "itemCount": 0,
+      "error": "This operation was aborted"
     },
     {
       "id": "buffalo-hockey-beat",
@@ -152,8 +152,8 @@
     {
       "team": "sabres",
       "state": "final",
-      "headline": "Final · L 1-3",
-      "detail": "vs PIT"
+      "headline": "Final · L 3-6",
+      "detail": "at CBJ"
     },
     {
       "team": "bandits",
@@ -170,6 +170,28 @@
   ],
   "stories": [
     {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/matthew-knies-shines-in-blue-jackets-debut-columbus-beats-sabres/",
+      "team": "sabres",
+      "title": "Matthew Knies shines in Blue Jackets debut, Columbus beats Sabres",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T02:15:16.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/matthew-knies-shines-in-blue-jackets-debut-columbus-beats-sabres/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-the-song-remains-shockingly-the-same-game-1-columbus-6-buffalo-3.3038218/",
+      "team": "sabres",
+      "title": "The Good, the Bad, and the Ugly - The Song Remains Shockingly the Same, Game 1 Columbus 6 - Buffalo 3",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T02:12:37.000Z",
+      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-the-song-remains-shockingly-the-same-game-1-columbus-6-buffalo-3.3038218/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buf-cbj-7pm-tv-msg-radio-wgr550-lets-get-this-wagon-back-on-the-warpath-boys.3038160/",
       "team": "sabres",
       "title": "BUF @ CBJ - 7pm - TV:MSG Radio:WGR550 - Let's get this wagon back on the warpath, boys!",
@@ -177,8 +199,63 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-01T23:01:14.000Z",
+      "publishedAt": "2026-10-02T02:06:05.000Z",
       "link": "https://forums.hfboards.com/threads/buf-cbj-7pm-tv-msg-radio-wgr550-lets-get-this-wagon-back-on-the-warpath-boys.3038160/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
+      "team": "sabres",
+      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T01:10:49.000Z",
+      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266726-apparently-some-teams-do-get-screwed-by-the-refs-more-than-other-teams/",
+      "team": "bills",
+      "title": "Apparently Some Teams do get screwed by the refs more than other teams.",
+      "summary": "Do we think this is true, or just fake internet analysis",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T00:46:49.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266726-apparently-some-teams-do-get-screwed-by-the-refs-more-than-other-teams/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/",
+      "team": "sabres",
+      "title": "General Sabres Media Info & Coverage",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T00:37:00.000Z",
+      "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/141724/pittsburgh-steelers-at-cleveland-browns-week-4-tnf-fan-discussion",
+      "team": "bills",
+      "title": "Pittsburgh Steelers at Cleveland Browns, Week 4 ‘TNF’ fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T00:21:19.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/141724/pittsburgh-steelers-at-cleveland-browns-week-4-tnf-fan-discussion"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-things-pegula-2.2846083/",
+      "team": "sabres",
+      "title": "All Things Pegula 2",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T00:18:58.000Z",
+      "link": "https://forums.hfboards.com/threads/all-things-pegula-2.2846083/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
@@ -188,7 +265,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-01T22:18:06.000Z",
+      "publishedAt": "2026-10-02T00:13:33.000Z",
       "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
     },
     {
@@ -199,8 +276,74 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-01T22:16:51.000Z",
+      "publishedAt": "2026-10-02T00:10:12.000Z",
       "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/knies-scores-in-blue-jackets-debut-to-take-early-lead/",
+      "team": "sabres",
+      "title": "Knies scores in Blue Jackets debut to take early lead",
+      "summary": "Watch as recent trade acquisition Matthew Knies collects his first goal in the first period with the Columbus Blue Jackets, rifling a shot from the slot on one knee to hand his side a 2-1 lead over the Buffalo Sabres.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T00:01:49.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/knies-scores-in-blue-jackets-debut-to-take-early-lead/"
+    },
+    {
+      "id": "espn-bills::50063176",
+      "team": "bills",
+      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T23:54:43Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266725-tnf-steelers-at-browns-no-bills-stuff-please/",
+      "team": "bills",
+      "title": "TNF: Steelers at Browns (No Bills stuff please)",
+      "summary": "TNF!\n\t \n\n\n\n\t“football” but it’s these teams. Go Sabres! I would have on multi view but hockey game is blacked out in Cbus. So I have to listen to Deshaun drone on in an interview about  how he and the city of Cleveland are frenemies while he’s clearly just checking out Taylor Rooks. \n\n\n\n\t\n\tanyway - who ya got. Steelers favored by 2. Browns haven’t lost at home on a Thursday since 2008.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T23:40:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266725-tnf-steelers-at-browns-no-bills-stuff-please/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/it-was-crazy-t-j-sanders-details-appendectomy-as-he-makes-his-return-to-bills-practice",
+      "team": "bills",
+      "title": "'It was crazy' | T.J. Sanders details appendectomy as he makes his return to Bills practice",
+      "summary": "The 23-year-old is nine days removed from an appendectomy, hoping to suit up for his first game of the season",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T23:27:00.000Z",
+      "link": "https://www.buffalobills.com/news/it-was-crazy-t-j-sanders-details-appendectomy-as-he-makes-his-return-to-bills-practice"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/columbus-here-we-come.3038147/",
+      "team": "sabres",
+      "title": "Columbus here we come",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T23:11:15.000Z",
+      "link": "https://forums.hfboards.com/threads/columbus-here-we-come.3038147/"
+    },
+    {
+      "id": "espn-bills::50079905",
+      "team": "bills",
+      "title": "T.J. Sanders practices nine days after appendectomy",
+      "summary": "Nick Suss reports on DL T.J. Sanders practicing just nine days after his appendectomy.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T22:59:53Z",
+      "link": "https://www.espn.com/video/clip/_/id/50079905/tj-sanders-practices-nine-days-appendectomy"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141811/bills-thursday-injury-report-adds-new-name",
@@ -214,28 +357,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/141811/bills-thursday-injury-report-adds-new-name"
     },
     {
-      "id": "espn-bills::50063176",
-      "team": "bills",
-      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T21:21:40Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/levi-on-opportunity-with-oilers-you-want-to-be-the-guy/",
-      "team": "sabres",
-      "title": "Levi on opportunity with Oilers: ‘You want to be the guy’",
-      "summary": "New Edmonton Oilers goalie Devon Levi speaks to the media before his debut against the Vancouver Canucks, talking about his excitement for the opportunity and his want to help the Oilers be a contender.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T20:59:30.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/levi-on-opportunity-with-oilers-you-want-to-be-the-guy/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/",
       "team": "sabres",
       "title": "LW Zach Benson (Signs 7x$7.5M AAV extension on 6/24/26)",
@@ -247,17 +368,6 @@
       "link": "https://forums.hfboards.com/threads/lw-zach-benson-signs-7x-7-5m-aav-extension-on-6-24-26.2933200/"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/oilers-devon-levi-ready-to-seize-opportunity-in-net-more-in-the-toolbox/",
-      "team": "sabres",
-      "title": "Oilers’ Devon Levi ready to seize opportunity in net: ‘More in the toolbox’",
-      "summary": "For Devon Levi, this is what a motivational speaker might call the precise intersection where preparation meets opportunity, the chance to become The Guy for a team that’s desperately hoping for someone to step up and take the gig.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T20:38:16.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/oilers-devon-levi-ready-to-seize-opportunity-in-net-more-in-the-toolbox/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
       "team": "sabres",
       "title": "The OT Thread: Emotional support thread (Warning in post 368)",
@@ -267,28 +377,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T20:37:18.000Z",
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/game-1-preview-open-thread-sabres-at-blue-jackets/",
-      "team": "sabres",
-      "title": "Game #1 Preview & Open Thread: Sabres at Blue Jackets",
-      "summary": "Buffalo looking to start off new season on the right foot\n\n\n\nBuffalo Sabres (0-0-0) vs Columbus Blue Jackets (0-0-0)\n\n\n\nPuck Drop: 7:00 pm ET | Nationwide Arena, Columbus OH\n\n\n\nTV: CBJNHL, CBJHN, MSG-B, DAZN, ESPN+, Fubo, Hulu + Live TV\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nColumbus Blue Jackets\n\n\n\nRecord: 0-0-0 | 0 PTS (40-30-12 for 92pts) /last season\n\n\n\nLast Game: N/A\n\n\n\nDivision Ranking: N/A\n\n\n\nPP: 22nd, 18.9% (38/201) [Sabres: 21st, 19.5% (48/246)] /last season\n\n\n\nPK: 28th, 76.0% (150/190) [Sabres: 5th, 82.8% (144/174)] /last season\n\n\n\nSeason Series: Sabres 1-1-1 Blue Jackets /last season\n\n\n\nWhat to Watch\n\n\n\n1. Sky-high Expectations\n\n\n\n“With a rebel yell, more, more, more. More, more, more!”\n\n\n\nWith the playoff drought monkey finally off the Sabres’ backs, you would have thought that the Sabrehood would be somewhat sated. Instead, one would say expectations are absolutely sky-high going into tonight’s game. The fans are ready for a Cup-run and last season’s eventual elimination was just a blip in that timeline. \n\n\n\nThe Sabres are going to be hard-pressed to repeat that ridiculous late-season run – they went 29-9-5 from when the calendar turned to 2026, the best record in the league with only Stanley Cup champions Carolina Hurricanes one point behind them and everyone else chasing their dust.   \n\n\n\n2. Maintain The Level\n\n\n\nBuffalo has gotten to their division-winning berth last season by playing high intensity hockey, and they will have to quickly find those levels this season too. The Sabres didn’t make any marquee additions over the offseason, and lost core players Alex Tuch and Bowen Byram. It looks like Olen Zellweger is being touted as the Byram replacement, but otherwise the expectation is that youngsters on the team are going to all make a respective step up.  \n\n\n\nEven more importantly, can the three-headed goalie monster replicate their incredible form from last season? Their .899 combined save percentage was second in the league and carried them to the playoffs.\n\n\n\n3. A Pesky Opponent\n\n\n\nColumbus have been a bit of a bogey team for the Sabres for some time now, their hard-hitting physical game has frustrated the Sabres often enough over the last few seasons with Buffalo 6-7-2 in the last five years. The Blue Jackets traded away Kirill Marchenko and Elvis Merzlikins and added Matthew Knies, and will have to decide who they really are as they seek a new identity. \n\n\n\nLed by star defenseman Zach Werenski and young center Adam Fantilli and boosted by veterans Charlie Coyle, Sean Monahan and Valeri Nichushkin with another young playmaker in Kent Johnson, there’s still lots of talent in this side. Goalie Jet Greaves will be looking to make an impression too, this is a dangerous opponent. \n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres \n\n\n\nForwards \n\n\n\nJosh Norris – Tage Thompson – Josh DoanZach Benson – Noah Ostlund – Jack QuinnPeyton Krebs – Ryan McLeod – Konsta HeleniusJiri Kulich – Sam Carrick – Beck Malenstyn\n\n\n\nDefense\n\n\n\nRasmus Dahlin – Mattias SamuelssonOwen Power – Louis CrevierMatt Grzelcyk – Zach Metsa\n\n\n\nGoaltenders \n\n\n\nUkko-Pekka Luukkonen (projected starter), Colten Ellis\n\n\n\nColumbus Blue Jackets\n\n\n\nForwards \n\n\n\nMatthew Knies – Adam Fantilli – Kent JohnsonValeri Nichushkin – Sean Monahan – Conor GarlandCole Sillinger – Charlie Coyle – Mathieu OlivierRyan Lomberg – Dmitri Voronkov – Danton Heinen\n\n\n\nDefense\n\n\n\nZach Werenski – Denton MateychukCarson Soucy – Emil AndraeJake Christiansen – Erik Gudbranson\n\n\n\nGoaltenders \n\n\n\nJet Greaves (confirmed starter), Cam Talbot",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T20:14:00.000Z",
-      "link": "https://www.diebytheblade.com/game-1-preview-open-thread-sabres-at-blue-jackets/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-sign-defenseman-louis-crevier-to-four-year-extension/",
-      "team": "sabres",
-      "title": "Buffalo Sabres sign defenseman Louis Crevier to four-year extension",
-      "summary": "Even before he has played his first game for the Buffalo Sabres tonight, Louis Crevier has decided he wants to stick around, signing a four-year contract extension worth $16 million ($4M AAV). \n\n\n\nThe 6’8″ defenseman had signed a two-year, $1.8 million contract with the Chicago Blackhawks on July 17, 2025, before being traded to the Buffalo Sabres in June 2026, and this extension marks a big raise for the hulking player. The Sabres now have five defensemen signed through the end of the 2028-29 season, which is a sign of stability at the position. \n\n\n\n\nThe Buffalo Sabres have signed defenseman Louis Crevier to a four-year extension with an AAV of $4 million. pic.twitter.com/n57zNRKcu3&mdash; Buffalo Sabres PR (@SabresPR) October 1, 2026\n\n\n\n\nCrevier joined the Sabres as part of the return for star defenseman Bowen Byram who went to the Windy City. The 25-year-old dman has featured in 134 career NHL games after getting drafted 188th overall by the Blackhawks in the 2020 NHL Draft. He has scored 10 goals with 22 assists, and was ranked second in Chicago last season in a couple of key defensive metrics with 95 blocked shots and 124 hits.\n\n\n\nLindy Ruff is happy with what he has seen so far in practice and in the preseason games – \n\n\n\n“When I’ve watched him at practice, we’ve had lots of discussions about him. We’ve watched him in the games, he’s moved the puck well and skated well. There was a little concern coming off [shoulder] surgery this summer, but everything looks great. I think this will be a great fit for our hockey club.”\n\n\n\nCrevier for his part just wanted to settle his future before the season started – \n\n\n\n“I’m really happy. It’s something I’ve worked at for awhile now, and I’m just super glad it’s behind me. Just having stability, I think will help me a ton to play hockey. \n\n\n\n“Everyone was really welcoming, and since it happened in the summer, I was free to process more-and-more information, learn names and stuff, even before I came into Buffalo. I think that helped a lot. It was just super easy, honestly.”\n\n\n\nAbout his fellow blue-liners, the dman was very complimentary – \n\n\n\n“I think they’re all really good players, so it helps a lot. In Chicago, it was the same even earlier in the year last year. We were playing seven defensemen, so I feel like I’m used to playing with different guys.”\n\n\n\nCrevier has been the most successful seventh rounder so far from that 2020 draft with 134 games played, with Ilya Solovyov of the Pittsburgh Penguins behind him at 45 games and a guy who featured in the Rochester local news shoveling his sidewalk (Devon Levi) in third with 39 games played.",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T20:13:30.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-sign-defenseman-louis-crevier-to-four-year-extension/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266724-letter-from-levi-wallace-talking-about-what-he-went-through-to-play-football-throughout-the-years/",
@@ -311,17 +399,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T19:12:56.000Z",
       "link": "https://www.starsandstripesfc.com/social-video-twitter/46332/usa-soccercast-episode-200-the-kids-make-an-impact"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
-      "team": "sabres",
-      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T19:10:33.000Z",
-      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/louis-crevier-rhd-acquired-from-chicago-signs-4x-4m-aav-extension-10-1-26.3032399/",
@@ -377,17 +454,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T18:32:42Z",
       "link": "https://www.espn.com/fantasy/hockey/story/_/id/50077550/espn-nhl-fantasy-hockey-schedule-hacks-lineup-tips-october"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/columbus-here-we-come.3038147/",
-      "team": "sabres",
-      "title": "Columbus here we come",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T17:34:27.000Z",
-      "link": "https://forums.hfboards.com/threads/columbus-here-we-come.3038147/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/141794/buffalo-bills-vs-patriots-josh-allen-rivalry-history",
@@ -775,28 +841,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/141736/buffalo-bills-broadcast-map-for-week-4-game-against-new-england-patriots"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141722/jessica-pegula-hints-at-wanting-to-help-with-buffalo-bills-ownership",
-      "team": "bills",
-      "title": "Jessica Pegula hints at wanting to help with Buffalo Bills ownership",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T21:26:07.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141722/jessica-pegula-hints-at-wanting-to-help-with-buffalo-bills-ownership"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/",
-      "team": "sabres",
-      "title": "General Sabres Media Info & Coverage",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T21:14:21.000Z",
-      "link": "https://forums.hfboards.com/threads/general-sabres-media-info-coverage.3016887/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266715-trade-for-btj/",
       "team": "bills",
       "title": "Trade for BTJ?",
@@ -806,39 +850,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-30T21:03:13.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266715-trade-for-btj/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
-      "team": "sabres",
-      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T20:29:26.000Z",
-      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-bold-predictions-owen-power%E2%80%99s-points-playoff-seeding-and-more.3038109/",
-      "team": "sabres",
-      "title": "Buffalo Sabres bold predictions: Owen Power’s points, playoff seeding and more",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T20:20:00.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-sabres-bold-predictions-owen-power%E2%80%99s-points-playoff-seeding-and-more.3038109/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266714-meanwhile-meathead-and-maye-have-some-friction/",
-      "team": "bills",
-      "title": "Meanwhile, Meathead and Maye have some friction.",
-      "summary": "https://sports.yahoo.com/articles/mike-vrabel-downplays-report-issues-180217589.html\n\t \n\n\n\n\tPlus, possible issues with Drake having shoulder issues but Meathead not adding him to injury report.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T19:16:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266714-meanwhile-meathead-and-maye-have-some-friction/"
     },
     {
       "id": "espn-bills::50069425",
@@ -907,17 +918,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266710-patriots-rookie-te-eli-raridon-lost-his-baby/"
     },
     {
-      "id": "espn-bills::50028072",
-      "team": "bills",
-      "title": "NFL Week 4 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T15:37:09Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-uwcl-once-again-takes-center-stage-as-arsenal-chelsea-barcelona-and-more-battle-in-europe/",
       "team": "usmnt",
       "title": "Footy Fix: UWCL once again takes center stage as Arsenal, Chelsea, Barcelona and more battle in Europe",
@@ -927,17 +927,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-30T15:27:00.000Z",
       "link": "https://www.cbssports.com/soccer/news/footy-fix-uwcl-once-again-takes-center-stage-as-arsenal-chelsea-barcelona-and-more-battle-in-europe/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266706-who-is-favorite-for-0-17-season/",
-      "team": "bills",
-      "title": "who is favorite for 0-17 season",
-      "summary": "thus far 0-3 teams are fish, chargers, titans, Texans, and bucs. thinking chargers, titans are the favorites. bucs without baker? would be nice if fish went 0-17 to add to perfect season.\n\n\n\n\tyour thoughts?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T14:04:37.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266706-who-is-favorite-for-0-17-season/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-recognize-these-wny-high-school-football-coaches-week-4-2026",
@@ -1061,17 +1050,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46214/usa-vs-chile-2026-friendly-time-tv-schedule-streaming-and-lineups"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266700-feedback-from-an-aussie/",
-      "team": "bills",
-      "title": "Feedback from an Aussie",
-      "summary": "Hey all - posted here a few times about an upcoming trip from Australia.  It finally happened this past weekend where myself and my young son were at the Chargers game.  Across my life I’ve been fortunate enough to see a number of sporting events across Australia, the U.S and Europe.  What I experienced on Sunday was hands down better than anything else I’ve ever been to, both before, during and after the game.  We had seats in sec 106 and for the three and a bit hours we we were in the stadium we were effectively adopted by a dozen odd locals who were seated around us.  It was as  if they’d all known us for 20 years, and by a pure simple crude measure the number of high fives I received across those three hours out number the total number of high fives I’ve received since birth… The game itself obviously sorted itself at at the end and winning ugly is still winning and the memories from the game and the day will last a lifetime.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-29T22:19:29.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266700-feedback-from-an-aussie/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266699-is-the-dwayne-carter-and-greg-gains-nt-combo-playing-well/",
       "team": "bills",
       "title": "Is the Dwayne Carter and Greg Gains NT combo playing well?",
@@ -1149,17 +1127,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-waive-forward-for-assignment-to-rochester/"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/predict-the-2026-27-buffalo-sabres/",
-      "team": "sabres",
-      "title": "Predict the 2026-27 Buffalo Sabres",
-      "summary": "The big question – Will the Sabres make the playoffs? – and more as we try to predict the year ahead. \n\n\n\nThe preseason is done, the rosters are set (mostly) and we’re ready to play some hockey! Until last season, in Sabreland there was one and only one goal, to make the playoffs and break a drought that has already reached epic proportions. This season, it’s a bit different, as we all want to get to the Stanley Cup Final and lift the thing!\n\n\n\nThe DBTB team put their heads together to make some predictions, jump in in the comments below with your thoughts as well.  \n\n\n\nTeam MVP\n\n\n\nRasmus Dahlin – Adam1439, Eddy, Chad, adolce95, Hick, Calvin.Zach Benson – Jedi.\n\n\n\nPretty unanimous selection here.\n\n\n\nLeading Goalscorer\n\n\n\nTage Thompson – Adam1439, Eddy, adolce95, Hick, Jedi, Calvin.Jack Quinn – Chad.\n\n\n\nChad is feeling a big Jack Quinn season during contract year.\n\n\n\nSurprise Player\n\n\n\nPeyton Krebs – Adam1439.Colten Ellis – Eddy, Chad.Olen Zellweger – adolce95.Jack Quinn – Hick, Calvin.Louis Crevier – Jedi\n\n\n\nZellweger and Crevier are the newbies on the Sabres, Ellis is being tipped to grab a starting berth, or will Krebs and Quinn elevate their games?\n\n\n\nBest Defenseman\n\n\n\nRasmus Dahlin – Adam1439, Eddy, adolce95, Chad, Hick. Owen Power – Calvin.Mattias Samuelsson – Jedi\n\n\n\nAlmost goes without saying. \n\n\n\nTotal Team Points\n\n\n\n95 – adolce95 (No)96 – Adam1439 (WC)97 – Eddy (A2), Calvin (WC1)98 – Chad (WC1), Jedi99 – Hick\n\n\n\nWill the Sabres make the playoffs?\n\n\n\nNo – adolce95Yes – Adam1439, Eddy, Chad, Hick, Jedi, Calvin\n\n\n\nThe playoff threshold was elevated last season with M2 and M3 at 98pts, and WC2 at 99pts. Not expecting that to be the case again, but who knows? \n\n\n\nBold Predictions\n\n\n\nAdam1439 – Noah Ostlund with 50+ pts, top 10 finish in Selke voting. Eddy – Going to keep predicting Josh Norris plays 60 games until it happens.Chad – Sabres powerplay finishes in the top 10. adolce95 – Owen Power has a 50-pt season.Hick – Sabres will have four 40-pt defensemen.Jedi – Josh Doan with 30 goals and 60 points.Calvin – Sabres will have seven 20-goal scorers. \n\n\n\nThis could get very interesting if even half of them come true. \n\n\n\nTop Eastern Conference Team\n\n\n\nCarolina Hurricanes – Chad, adolce95, Hick, Jedi, CalvinTampa Bay Lightning – Adam1439\n\n\n\nCanes are the Presidents’ Trophy favorites. \n\n\n\nTop Western Conference Team\n\n\n\nColorado Avalanche – Adam1439, adolce95, Jedi, CalvinEdmonton Oilers – Hick  Dallas Stars – Chad\n\n\n\nAvs are the second favorites for the Presidents’ Trophy. \n\n\n\nStanley Cup Winner\n\n\n\nColorado Avalanche – Adam1439Edmonton Oilers – HickDallas Stars – Chad, CalvinTampa Bay Lightning – adolce95Montreal Canadiens – Jedi\n\n\n\nThe Panthers are the bookie favorites at +650, Canes and Avs just behind at +750. Sabres are way down at +3300.\n\n\n\n\n\n\n\nUse this list to copy-paste and give us your predictions in the comments below. \n\n\n\nTeam MVPLeading GoalscorerSurprise PlayerBest DefensemanTotal Team PointsWill the Sabres make the playoffs?Bold PredictionsTop Eastern Conference TeamTop Western Conference TeamStanley Cup Winner",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-29T15:20:50.000Z",
-      "link": "https://www.diebytheblade.com/predict-the-2026-27-buffalo-sabres/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266692-five-undefeated-teams-left-after-three-weeks%E2%80%A6w4-preview/",
       "team": "bills",
       "title": "Five undefeated teams left after three weeks…W4 preview",
@@ -1215,17 +1182,6 @@
       "link": "https://www.buffalobills.com/news/bills-coaches-offer-preview-on-qb-drake-maye-a-rookie-cb-steps-up-and-initial-week-4-injury-outlook"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/a-dream-come-true-the-bills-celebrate-hispanic-heritage-with-chef-g-taking-over-the-seneca-one-club",
-      "team": "bills",
-      "title": "'A dream come true' | The Bills celebrate Hispanic Heritage with Chef G taking over the Seneca Field Club",
-      "summary": "Puerto Rican-born chef represents his community on Sunday",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T18:28:38.000Z",
-      "link": "https://www.buffalobills.com/news/a-dream-come-true-the-bills-celebrate-hispanic-heritage-with-chef-g-taking-over-the-seneca-one-club"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-international-break-rolls-on-as-usmnt-youth-movement-is-in-full-swing/",
       "team": "usmnt",
       "title": "Footy Fix: International break rolls on as USMNT youth movement is in full swing",
@@ -1246,17 +1202,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-28T12:26:15.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266668-nfl-officiating-inconsistency/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-28/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Open Thread, Wk of 9/28",
-      "summary": "Guess what, hockey season is here! \n\n\n\nThe Sabres are done with their four preseason games last week, and picked up plenty of dings and nicks in that six-day span. The real thing starts this week, with two games on the docket. \n\n\n\nThu, Oct 1st, 7pm EST – Buffalo Sabres at Columbus Blue JacketsSat, Oct 3rd, 7pm EST – Buffalo Sabres vs Chicago Blackhawks\n\n\n\n\n\n\n\nThe Rochester Americans are also done with their preseason and play two games this week. \n\n\n\nFri, Oct 2nd, 7:05pm EST – Rochester Americans vs Toronto MarliesSun, Oct 4th, 3:00pm ET – Rochester Americans at Belleville Senators",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T11:00:00.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-28/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-losing-defensemen-to-injury-matt-grzelcyks-signing-gives-sabres-boost/",
@@ -1347,17 +1292,6 @@
       "link": "https://www.buffalohockeybeat.com/ukko-pekka-luukkonen-leaves-game-injured-as-sabres-end-preseason/"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-penguins-preseason-game-4-open-thread-and-how-to-watch/",
-      "team": "sabres",
-      "title": "Sabres vs Penguins: Preseason Game 4 | Open Thread and How To Watch",
-      "summary": "The Buffalo Sabres will play the Pittsburgh Penguins at home in a Saturday afternoon matinee, their last preseason game before they open their 2026-27 schedule against the Columbus Blue Jackets on October 1st. \n\n\n\nHow to Watch\n\n\n\nPuck Drop: 3:00 pm\n\n\n\nTV (Sabres broadcast market): MSG (Pregame coverage begins at 2:30 p.m.)\n\n\n\nStreaming (Sabres broadcast market): DAZN\n\n\n\nTV (out of market): NHL Network\n\n\n\nStreaming (out of market): ESPN+\n\n\n\nRadio: WGR 550 / Buffalo Sabres App\n\n\n\nMore ways to watch/listen to Sabres games\n\n\n\nSabres Roster\n\n\n\nForwards: Zach Benson, Sam Carrick, Josh Doan, Konsta Helenius, Tyson Kozak, Peyton Krebs, Beck Malenstyn, Ryan McLeod, Josh Norris, Noah Ostlund, Jack Quinn, Tage Thompson\n\n\n\nDefensemen: Louis Crevier, Rasmus Dahlin, Matt Grzelcyk, Zach Metsa, Owen Power, Conor Timmins\n\n\n\nGoalies: Colten Ellis, Ukko-Pekka Luukkonen",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-26T19:00:57.000Z",
-      "link": "https://www.diebytheblade.com/sabres-vs-penguins-preseason-game-4-open-thread-and-how-to-watch/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/ireland-israel-nations-league-boycott-fails/",
       "team": "usmnt",
       "title": "Republic of Ireland will face Israel in Nations League after team vote to boycott match fails",
@@ -1391,17 +1325,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-mauricio-pochettino-young-players-peru-friendly/"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-red-wings-preseason-game-3-open-thread-and-how-to-watch/",
-      "team": "sabres",
-      "title": "Sabres vs Red Wings: Preseason Game 3 | Open Thread and How To Watch",
-      "summary": "The Sabres are coming off an impressive but costly win over Columbus on Tuesday night at KeyBank Center. The team lost two defensemen in Mattias Samuelsson and newcomer Olen Zellweger.\n\n\n\nSamuelsson suffered a lower-body injury, likely while blocking a shot, and his prognosis is week-to-week. That’s certainly not what you want to see with the official first puck drop of the season right around the corner. Rasmus Dahlin’s defensive partner will now be out for at least a handful of games, maybe more.\n\n\n\nTo add insult to yet another injury, Zellweger will miss at least a week, and potentially longer, with a concussion. Olen was having himself a nice preseason game until he was leveled by a “regular-season” type of hit in the second period while setting up a teammate.\n\n\n\nWell wishes to both players. Hopefully, Mattias and Olen will be back in the lineup sooner rather than later. Buffalo’s defensive depth looks like it will be tested early to start the season now. Let’s just hope the team can skate away from the final two preseason tilts without any further damage.\n\n\n\nThe Sabres will ice a much less potent lineup tonight against Detroit, with most of their expected roster players sitting this one out. Konsta Helenius and Noah Ostlund will be in the lineup for Buffalo, though, along with Jiri Kulich again. So at least fans will get to see some of our young guns in action tonight.\n\n\n\nHow to Watch\n\n\n\nPuck Drop: 7:00 pm\n\n\n\nStreaming: Broadcast on MSG (Detroit Sportsnet feed), ESPN+\n\n\n\nRadio: WGR 550\n\n\n\nTonight’s roster\n\n\n\nForwards: Thomas Bordeleau, Justin Danforth, Tyson Kozak, Jiri Kulich, Trevor Kuntar, Aidan McDonough, Noah Ostlund, Matthew Peca, Jason Polin, Jake Richard, Liam Valente, Konsta Helenius\n\n\n\nDefensemen: Dennis Gilbert, Ryan Johnson, Vsevolod Komarov, Gavin McCarthy, Zach Metsa, Radim Mrtka\n\n\n\nGoaltenders: Colten Ellis, Alex Lyon",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-24T18:57:00.000Z",
-      "link": "https://www.diebytheblade.com/sabres-vs-red-wings-preseason-game-3-open-thread-and-how-to-watch/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-youth-movement-meet-the-players-usa-soccer/",
       "team": "usmnt",
       "title": "Meet the teenagers leading Mauricio Pochettino's USMNT youth movement",
@@ -1413,50 +1336,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-youth-movement-meet-the-players-usa-soccer/"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/dbtb-makes-three-free-agent-additions/",
-      "team": "sabres",
-      "title": "DBTB makes three free agent additions!",
-      "summary": "After an incredible season for the Buffalo Sabres that saw them end a long-suffering playoff drought and come oh-so-close to a Conference Final berth, Die By The Blade has made some moves to beef up the roster going into the new season. \n\n\n\nFirst a big thank you to Steven Staversky who leaves DBTB to tend to his growing family. He helped us keep the site running at some of the darker times in Sabres history and we appreciate his efforts, and wish him well. \n\n\n\nLet’s jump into the bios of the three new writers joining the DBTB team. \n\n\n\nHickeyHockey\n\n\n\nIn little Buffalo, Roc City. Bleed blue, gold, red and black but the other 33 teams are alright. I coach, Fantasy and drive a Zamboni, so I can cover all areas.\n\n\n\n\n\n\n\nAdam1439\n\n\n\nI’m a WNY native that’s followed the Sabres my entire life. The teams of the mid-2000s are some of my favorite, early sports memories, and that childhood fandom (for better or worse) kept me hooked during the drought. My love for hockey and all sports pushed me to eventually pursue a career in journalism. I’ve covered high school, college and professional sports for a variety of publications, including WIVB News 4, where I worked as a full-time digital journalist right after college for two years. \n\n\n\nWhen I’m not watching the Sabres/Bills, I love hiking, traveling and trying out restaurants around WNY. I’m also a massive soccer fan and play regularly. However, as a devout Tottenham Hotspur supporter, I often question why I even follow the sport.\n\n\n\n\n\n\n\nadolce95\n\n\n\nIn May of 2007, on a bus back from a school trip, I had my first experience with Sabres hockey and really sports in general. While that game was the overtime loss to Ottawa to end the 06-07 season, 12-year-old me was absolutely enamored by the investment my classmates had in the game. I have been hooked on sports, specifically hockey and baseball, ever since. I attended SUNY Oswego, where I studied broadcasting, even doing radio play-by-play for the Men’s hockey team for two seasons during my junior and senior year. I have covered a variety of high school sports on the airwaves for WDOE and in print at the Dunkirk Observer in Chautauqua County. \n\n\n\nOutside of the Sabres, I am a diehard Mets, Bills, and Michigan State basketball fan (this is because Ryan Miller went there). When I’m not watching sports, I am probably re-playing a Pokemon game, playing Magic the Gathering or Dungeons and Dragons, or laying on the couch, watching a movie with my wife, our two cats, and dog.\n\n\n\n\n\n\n\nThe rest of the team remains the same – Jedi and Calvin are still here, with Chad and Eddie overseeing the operations. \n\n\n\nThank you for sticking with us over the years, please welcome the new writers and here’s looking forward to a great new season!",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "link": "https://www.diebytheblade.com/dbtb-makes-three-free-agent-additions/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-blue-jackets-preseason-game-2-open-thread-and-how-to-watch/",
-      "team": "sabres",
-      "title": "Sabres vs Blue Jackets: Preseason Game 2 | Open Thread and How To Watch",
-      "summary": "The Buffalo Sabres will play the Columbus Blue Jackets tonight after a majority-Amerks side lost 4-1 last night to the Pittsburgh Penguins at the PPG Paints Arena. Expect to see a lineup that is more of what we will expect to start the season in October. \n\n\n\nBuffalo will play four preseason games in six days, and with players only allowed to play in two games per the new collective bargaining agreement, there will be lots of rotation and not many opportunities for players to make an impression on fans and the coaching staff. \n\n\n\nHow to Watch\n\n\n\nPuck Drop: 7:00 pm\n\n\n\nStreaming: Sabres.com\n\n\n\nRadio: WGR 550\n\n\n\nTonight’s roster\n\n\n\nForwards: Zach Benson, Sam Carrick, Josh Doan, Konsta Helenius, Peyton Krebs, Jiri Kulich, Beck Malenstyn, Ryan McLeod, Josh Norris, Noah Ostlund, Jack Quinn, Tage Thompson\n\n\n\nDefensemen: Louis Crevier, Rasmus Dahlin, Owen Power, Mattias Samuelsson, Conor Timmins, Olen Zellweger\n\n\n\nGoaltenders: Colten Ellis, Ukko-Pekka Luukkonen",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-22T20:00:00.000Z",
-      "link": "https://www.diebytheblade.com/sabres-vs-blue-jackets-preseason-game-2-open-thread-and-how-to-watch/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-at-penguins-preseason-game-1-open-thread-and-how-to-watch/",
-      "team": "sabres",
-      "title": "Sabres at Penguins: Preseason Game 1 | Open Thread and How To Watch",
-      "summary": "The Buffalo Sabres will open up their preseason schedule for the 2026-27 season tonight on the road at the Pittsburgh Penguins.\n\n\n\nBuffalo will play four preseason games in six days, and with players only allowed to play in two games per the new collective bargaining agreement, there will be lots of rotation and not many opportunities for players to make an impression on fans and the coaching staff. \n\n\n\nHow to Watch\n\n\n\nPuck Drop: 7:00 pm\n\n\n\nTV: MSG (Sportsnet Pittsburgh feed)\n\n\n\nRadio: WGR 550 (Dan Dunleavy and Rob Ray on the call)\n\n\n\nSabres Roster\n\n\n\nForwards: Aidan McDonough, Conor Sheary, Jake Richard, Jason Polin, Jiri Kulich, Justin Danforth, Liam Valente, Matthew Peca, Riley Fiddler-Schultz, Thomas Bordeleau, Trevor Kuntar, Tyson Kozak\n\n\n\nDefensemen: Dennis Gilbert, Ryan Johnson, Jack Rathbone, Zach Metsa, Radim Mrtka, Vsevolod Komarov\n\n\n\nGoalies: Alex Lyon, Colten Ellis",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-21T21:00:00.000Z",
-      "link": "https://www.diebytheblade.com/sabres-at-penguins-preseason-game-1-open-thread-and-how-to-watch/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-21/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Open Thread, Wk of 9/21",
-      "summary": "Things are already heating up because guess what, hockey season is basically here!\n\n\n\nThere are four preseason games this week, here’s how to watch and listen. We’re going to have a game thread for each of the games as well. \n\n\n\nMonday, Sept. 21 at Pittsburgh – 7 p.m. \n\n\n\n\nWatch: Broadcast on MSG (Sportsnet Pittsburgh feed) \n\n\n\nListen: WGR 550 (Dan Dunleavy and Rob Ray)\n\n\n\n\nTuesday, Sept. 22 vs. Columbus – 7 p.m. \n\n\n\n\nWatch: Streaming live on Sabres.com (Dunleavy and Ray) \n\n\n\nListen: WGR 550 (Dunleavy and Ray)\n\n\n\n\nThursday, Sept. 24 at Detroit – 7 p.m. \n\n\n\n\nWatch: Broadcast on MSG (Detroit Sportsnet feed) \n\n\n\nListen: WGR 550 (Dunleavy and Ray)\n\n\n\n\nSaturday, Sept. 26 vs. Pittsburgh – 3 p.m. \n\n\n\n\nWatch: Broadcast on MSG (Dunleavy and Ray) – pregame show at 2:30 p.m. \n\n\n\nListen: WGR 550 (Dunleavy and Ray)\n\n\n\n\nA quick recap of Sabres news from the last few days. \n\n\n\nObservations from Sabres’ Blue & Gold Scrimmage\n\n\n\n‘I felt like a ghost’ | Inside Jiri Kulich’s road to recovery\n\n\n\nMSG+ on DAZN launches as Sabres’ streaming home",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-21/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266530-reports-from-the-stadium/",
       "team": "bills",
       "title": "Reports from the stadium?",
@@ -1466,6 +1345,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-18T04:38:31.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266530-reports-from-the-stadium/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264193-woah-bills-interviewing-phillip-rivers-for-hc-gig/",
+      "team": "bills",
+      "title": "Woah: Bills interviewing Phillip Rivers for HC gig",
+      "summary": "Im fascinated by this one. Guy is clearly cut out for coaching, IMO, but I wonder if this is too soon for an HC job. I know Josh McCown interviewed for a job with Chicago (?) so it’s not unprecedented, but this is somewhat out of nowhere.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-01-23T16:31:31.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/264193-woah-bills-interviewing-phillip-rivers-for-hc-gig/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/260177-the-tyreek-hill-thread-now-released/",
