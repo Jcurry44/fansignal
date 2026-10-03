@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T10:00:36.491Z",
+  "generatedAt": "2026-10-03T14:43:32.680Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 10,
+      "itemCount": 11,
       "error": null
     },
     {
@@ -170,28 +170,6 @@
   ],
   "stories": [
     {
-      "id": "espn-sabres::50089208",
-      "team": "sabres",
-      "title": "Metropolitan Division foes meet when Philadelphia hosts Carolina",
-      "summary": "Carolina Hurricanes (0-1-1, in the Metropolitan Division) vs. Philadelphia Flyers (0-1-1, in the Metropolitan Division)",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T08:11:47Z",
-      "link": "http://www.espn.com/nhl/preview?gameId=401892435"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
-      "team": "sabres",
-      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T05:45:09.000Z",
-      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
       "team": "sabres",
       "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
@@ -199,8 +177,63 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-03T05:35:27.000Z",
+      "publishedAt": "2026-10-03T14:33:26.000Z",
       "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/",
+      "team": "sabres",
+      "title": "GM2 Sabres vs Blackhawks 7 PM - TV:MSG, ESPN+ Radio:WGR550 - Home Sweet Home Opener",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T14:28:25.000Z",
+      "link": "https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cavan-sullivan-gilberto-mora-usmnt-mexico-rivalry/",
+      "team": "usmnt",
+      "title": "Teenagers Cavan Sullivan and Gilberto Mora represent the future of the historic USMNT vs. Mexico rivalry",
+      "summary": "Seventeen-year-old phenoms Cavan Sullivan and Gilberto Mora are taking center stage as a historic North American rivalry prepares for its next era",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T14:24:36.000Z",
+      "link": "https://www.cbssports.com/soccer/news/cavan-sullivan-gilberto-mora-usmnt-mexico-rivalry/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-americans-home-opener-10-02-26-working-arrangement-with-orlando-echl.3030463/",
+      "team": "sabres",
+      "title": "The 2026-27 Minor League Thread - Rochester Americans, Home Opener 10-02-26; Working Arrangement with Orlando (ECHL)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T14:16:17.000Z",
+      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-americans-home-opener-10-02-26-working-arrangement-with-orlando-echl.3030463/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
+      "team": "sabres",
+      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T14:09:39.000Z",
+      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-become-first-nfl-team-to-win-cannes-corporate-media-tv-award-with-josh-allen-mvp-reaction-video",
+      "team": "bills",
+      "title": "Buffalo Bills become first NFL team to win Cannes Corporate Media & TV Award with Josh Allen MVP reaction video",
+      "summary": "Buffalo’s Video Production team won a Gold Award for their behind-the-scenes video of quarterback Josh Allen reacting to messages from patients and families at Oishei Children's Hospital",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T14:00:49.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-become-first-nfl-team-to-win-cannes-corporate-media-tv-award-with-josh-allen-mvp-reaction-video"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
@@ -210,8 +243,63 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-03T05:00:48.000Z",
+      "publishedAt": "2026-10-03T13:43:17.000Z",
       "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-mexico-el-tri-live-stream-mauricio-pochettino/",
+      "team": "usmnt",
+      "title": "Mauricio Pochettino prepares young USMNT roster for hostile Mexico rivalry test",
+      "summary": "The USMNT's generational shift continues against Mexico, a game that might force the team's newcomers out of the low pressure setting Pochettino has envisioned for the group",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T13:39:27.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnt-mexico-el-tri-live-stream-mauricio-pochettino/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266736-rallying-the-mafia-former-bill-cb-ron-brooks/",
+      "team": "bills",
+      "title": "Rallying the Mafia - Former Bill CB Ron Brooks",
+      "summary": "The Bills were the first team to step up and answer the call. Wondering if there is a place for the Mafia to step in and help too? I'm not on any of the socials, but hoping someone can find a way...\n\n\n\n\t \n\n\n\n\thttps://www.threads.com/@mejji_b/post/DeAfInEifGU?xmt=AQG01eC2KXYeWV5jx8OsqleqRuI_GtXbcIb3cNsHyuNqOyFYlilNQ984jW6m5YKBxGFlD1mA&source_surface=35&slof=1\n\n\n\n\t \n\n\n\n\t(Threads wont let me embed the video but check it out)",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T13:36:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266736-rallying-the-mafia-former-bill-cb-ron-brooks/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
+      "team": "sabres",
+      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T12:52:48.000Z",
+      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-things-pegula-2.2846083/",
+      "team": "sabres",
+      "title": "All Things Pegula 2",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T12:32:58.000Z",
+      "link": "https://forums.hfboards.com/threads/all-things-pegula-2.2846083/"
+    },
+    {
+      "id": "espn-sabres::50085730",
+      "team": "sabres",
+      "title": "NHL Tonight: Stats, betting info and storylines for Saturday's 13-game slate",
+      "summary": "Only six teams have the night off. Here's what you need to know for the 26 who are hitting the ice.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T11:37:11Z",
+      "link": "https://www.espn.com/nhl/story/_/id/50085730/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
@@ -221,8 +309,41 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-03T04:00:26.000Z",
+      "publishedAt": "2026-10-03T10:42:33.000Z",
       "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-the-song-remains-shockingly-the-same-game-1-columbus-6-buffalo-3.3038218/",
+      "team": "sabres",
+      "title": "The Good, the Bad, and the Ugly - The Song Remains Shockingly the Same, Game 1 Columbus 6 - Buffalo 3",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T10:24:46.000Z",
+      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-the-song-remains-shockingly-the-same-game-1-columbus-6-buffalo-3.3038218/"
+    },
+    {
+      "id": "espn-bills::50051837",
+      "team": "bills",
+      "title": "All-time rosters for 23 teams with multiple Super Bowls",
+      "summary": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T10:00:17Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame"
+    },
+    {
+      "id": "espn-sabres::50089208",
+      "team": "sabres",
+      "title": "Metropolitan Division foes meet when Philadelphia hosts Carolina",
+      "summary": "Carolina Hurricanes (0-1-1, in the Metropolitan Division) vs. Philadelphia Flyers (0-1-1, in the Metropolitan Division)",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T08:11:47Z",
+      "link": "http://www.espn.com/nhl/preview?gameId=401892435"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/vasily-zelenov-rw-c-wisconsin-badgers-ncaa-204oa-2024.2970012/",
@@ -278,28 +399,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T03:23:45.000Z",
       "link": "https://forums.hfboards.com/threads/general-college-hockey-talk.2399315/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-americans-home-opener-10-02-26-working-arrangement-with-orlando-echl.3030463/",
-      "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester Americans, Home Opener 10-02-26; Working Arrangement with Orlando (ECHL)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T03:18:36.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-americans-home-opener-10-02-26-working-arrangement-with-orlando-echl.3030463/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-the-song-remains-shockingly-the-same-game-1-columbus-6-buffalo-3.3038218/",
-      "team": "sabres",
-      "title": "The Good, the Bad, and the Ugly - The Song Remains Shockingly the Same, Game 1 Columbus 6 - Buffalo 3",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T03:11:13.000Z",
-      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-the-song-remains-shockingly-the-same-game-1-columbus-6-buffalo-3.3038218/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/",
@@ -390,39 +489,6 @@
       "link": "https://forums.hfboards.com/threads/louis-crevier-rhd-acquired-from-chicago-signs-4x-4m-aav-extension-10-1-26.3032399/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/samuel-meloche-g-116th-overall-2025.3007742/",
-      "team": "sabres",
-      "title": "Samuel Meloche, G, 116th overall, 2025",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T01:23:35.000Z",
-      "link": "https://forums.hfboards.com/threads/samuel-meloche-g-116th-overall-2025.3007742/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/rw-jake-richard-170th-overall-2022-nhl-draft-5-28-26-signs-2-year-elc.2891480/",
-      "team": "sabres",
-      "title": "RW - Jake Richard, 170th Overall, 2022 NHL Draft; 5/28/26: Signs 2-year ELC",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T01:21:16.000Z",
-      "link": "https://forums.hfboards.com/threads/rw-jake-richard-170th-overall-2022-nhl-draft-5-28-26-signs-2-year-elc.2891480/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/",
-      "team": "sabres",
-      "title": "Gavin McCarthy, Muskegon (USHL), Boston University; RD - 86OA, 2023; Signs 3 year ELC 3/17/26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T01:11:01.000Z",
-      "link": "https://forums.hfboards.com/threads/gavin-mccarthy-muskegon-ushl-boston-university-rd-86oa-2023-signs-3-year-elc-3-17-26.2933324/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46403/tyler-adams-named-usmnt-captain",
       "team": "usmnt",
       "title": "Tyler Adams named USMNT captain",
@@ -445,28 +511,6 @@
       "link": "https://www.buffalohockeybeat.com/jack-quinn-the-sabres-power-play-and-other-things-to-watch-this-season/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-odds/141643/bills-vs-patriots-predictions-week-3-picks",
-      "team": "bills",
-      "title": "NFL predictions: 3 bold takes for Bills-Patriots in Week 4",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T22:19:50.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-odds/141643/bills-vs-patriots-predictions-week-3-picks"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141786/5-buffalo-bills-to-watch-vs-the-new-england-patriots",
-      "team": "bills",
-      "title": "5 Buffalo Bills to watch vs. the New England Patriots",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 2,
-      "publishedAt": "2026-10-02T22:15:15.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141786/5-buffalo-bills-to-watch-vs-the-new-england-patriots"
-    },
-    {
       "id": "espn-bills::50086465",
       "team": "bills",
       "title": "Christian Benford not ruled out for Sunday's game",
@@ -476,17 +520,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-02T21:13:07Z",
       "link": "https://www.espn.com/video/clip/_/id/50086465/christian-benford-not-ruled-sunday-game"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141884/bills-injury-report-christian-benford-ray-davis-questionable-vs-patriots",
-      "team": "bills",
-      "title": "Bills injury report: Christian Benford, Ray Davis questionable vs. Patriots",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T21:10:41.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/141884/bills-injury-report-christian-benford-ray-davis-questionable-vs-patriots"
     },
     {
       "id": "espn-bills::50085613",
@@ -500,26 +533,15 @@
       "link": "https://www.espn.com/nfl/story/_/id/50085613/patriots-defense-loses-gonzalez-barmore-high-octane-bills"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141883/does-scoring-before-the-end-of-the-half-correlate-to-winning-games",
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-new-england-patriots-where-to-watch-stream-and-listen-week-4",
       "team": "bills",
-      "title": "Does scoring before the end of the half correlate to winning games?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
+      "title": "Buffalo Bills vs. New England Patriots | Where to watch, stream and listen | Week 4",
+      "summary": "TV Channel, Streaming and Radio for Bills vs. Chargers",
+      "source": "Bills.com",
+      "sourceType": "team",
       "sourceCount": 1,
-      "publishedAt": "2026-10-02T18:55:14.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141883/does-scoring-before-the-end-of-the-half-correlate-to-winning-games"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141684/bills-news-dt-dewayne-carter-is-living-up-to-his-potential-in-his-third-season",
-      "team": "bills",
-      "title": "Bills news: DT DeWayne Carter is living up to his potential in his third season",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T18:16:31.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141684/bills-news-dt-dewayne-carter-is-living-up-to-his-potential-in-his-third-season"
+      "publishedAt": "2026-10-02T18:40:31.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-vs-new-england-patriots-where-to-watch-stream-and-listen-week-4"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-newcomer-olen-zellweger-ready-to-play-after-suffering-concussion/",
@@ -610,6 +632,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266728-how-is-maxwell-hairston-doing/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46346/usa-vs-mexico-2026-friendly-time-tv-schedule-streaming-and-lineups",
+      "team": "usmnt",
+      "title": "USA vs. Mexico, 2026 Friendly: Time, TV schedule, streaming and lineups",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T15:05:53.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46346/usa-vs-mexico-2026-friendly-time-tv-schedule-streaming-and-lineups"
+    },
+    {
       "id": "espn-bills::50053878",
       "team": "bills",
       "title": "NFL Week 4 betting guide: Analysis and top plays for Sunday's games",
@@ -641,39 +674,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-02T13:47:07Z",
       "link": "https://www.espn.com/nfl/story/_/id/50078705/pass-interference-review-rams-broncos"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141842/buffalo-bills-are-about-to-have-an-abundance-of-defensive-line-depth",
-      "team": "bills",
-      "title": "Buffalo Bills are about to have an abundance of defensive line depth",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T11:54:03.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141842/buffalo-bills-are-about-to-have-an-abundance-of-defensive-line-depth"
-    },
-    {
-      "id": "espn-bills::49794361",
-      "team": "bills",
-      "title": "2027 NFL draft order projections for Round 1, top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "source": "ESPN · ESPN staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T10:51:10Z",
-      "link": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/141753/bills-week-4-rooting-interests-who-buffalo-fans-should-root-for",
-      "team": "bills",
-      "title": "Bills Week 4 rooting interests: Who Buffalo fans should root for",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T10:38:03.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/141753/bills-week-4-rooting-interests-who-buffalo-fans-should-root-for"
     },
     {
       "id": "espn-sabres::50078529",
@@ -720,6 +720,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266726-apparently-some-teams-do-get-screwed-by-the-refs-more-than-other-teams/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/141724/pittsburgh-steelers-at-cleveland-browns-week-4-tnf-fan-discussion",
+      "team": "bills",
+      "title": "Pittsburgh Steelers at Cleveland Browns, Week 4 ‘TNF’ fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T00:21:19.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/141724/pittsburgh-steelers-at-cleveland-browns-week-4-tnf-fan-discussion"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266725-tnf-steelers-at-browns-no-bills-stuff-please/",
       "team": "bills",
       "title": "TNF: Steelers at Browns (No Bills stuff please)",
@@ -742,15 +753,15 @@
       "link": "https://www.buffalobills.com/news/it-was-crazy-t-j-sanders-details-appendectomy-as-he-makes-his-return-to-bills-practice"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141808/buffalo-bills-dewayne-carter-emerging-as-one-of-the-better-run-stopping-dts-in-nfl",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141811/bills-thursday-injury-report-adds-new-name",
       "team": "bills",
-      "title": "DeWayne Carter emerging as one of NFL’s better run-stopping DTs",
+      "title": "Bills Thursday injury report adds new name",
       "summary": "",
       "source": "Buffalo Rumblings",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-01T23:10:07.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141808/buffalo-bills-dewayne-carter-emerging-as-one-of-the-better-run-stopping-dts-in-nfl"
+      "publishedAt": "2026-10-01T21:30:34.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/141811/bills-thursday-injury-report-adds-new-name"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-1-preview-open-thread-sabres-at-blue-jackets/",
@@ -819,15 +830,26 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46325/previewing-usmnt-vs-mexico-a-friendly-with-everything-and-nothing-to-play-for"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/141799/buffalo-bills-record-book-watch-josh-allen-one-td-from-history",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/141794/buffalo-bills-vs-patriots-josh-allen-rivalry-history",
       "team": "bills",
-      "title": "Buffalo Bills Record Book Watch: Josh Allen one TD from history",
+      "title": "Buffalo Bills vs. Patriots: Josh Allen rivalry history",
       "summary": "",
       "source": "Buffalo Rumblings",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-01T17:20:01.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/141799/buffalo-bills-record-book-watch-josh-allen-one-td-from-history"
+      "publishedAt": "2026-10-01T17:18:43.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/141794/buffalo-bills-vs-patriots-josh-allen-rivalry-history"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141798/greg-rousseau-named-afc-defensive-player-of-the-month-after-historic-september-for-the-bills",
+      "team": "bills",
+      "title": "Greg Rousseau named AFC Defensive Player of the Month after historic September for the Bills",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 3,
+      "publishedAt": "2026-10-01T17:17:25.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141798/greg-rousseau-named-afc-defensive-player-of-the-month-after-historic-september-for-the-bills"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-youth/46301/uswnt-u-23-roster-named-ahead-of-two-october-friendlies",
@@ -839,17 +861,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T16:06:59.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-youth/46301/uswnt-u-23-roster-named-ahead-of-two-october-friendlies"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266722-greg-rousseau-afc-defensive-player-of-the-month-september-2026/",
-      "team": "bills",
-      "title": "Greg Rousseau AFC Defensive Player of the Month (September 2026)!",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 2,
-      "publishedAt": "2026-10-01T16:05:30.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266722-greg-rousseau-afc-defensive-player-of-the-month-september-2026/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/general/46315/our-first-month-with-an-app-broke-our-commenting-records",
@@ -940,6 +951,17 @@
       "link": "https://bandits.com/bandits-ink-deals-with-spanger-tyson-sykes/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141751/buffalo-bills-vs-new-england-patriots-movable-object-vs-stoppable-force",
+      "team": "bills",
+      "title": "Buffalo Bills vs. New England Patriots; Movable object vs. stoppable force",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T14:40:41.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141751/buffalo-bills-vs-new-england-patriots-movable-object-vs-stoppable-force"
+    },
+    {
       "id": "bandits-official::https://bandits.com/bandits-2026-27-home-opener-set-for-nov-28/",
       "team": "bandits",
       "title": "Bandits’ 2026-27 home opener set for Nov. 28",
@@ -951,15 +973,48 @@
       "link": "https://bandits.com/bandits-2026-27-home-opener-set-for-nov-28/"
     },
     {
-      "id": "espn-sabres::50075370",
-      "team": "sabres",
-      "title": "Metropolitan Division opponents meet when Carolina hosts Washington",
-      "summary": "Washington Capitals vs. Carolina Hurricanes",
-      "source": "ESPN",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/141642/one-month-in-heres-how-youre-using-our-new-app",
+      "team": "bills",
+      "title": "Our first month with an app broke our commenting records",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-01T08:11:29Z",
-      "link": "http://www.espn.com/nhl/preview?gameId=401892432"
+      "publishedAt": "2026-10-01T13:26:21.000Z",
+      "link": "https://www.buffalorumblings.com/general/141642/one-month-in-heres-how-youre-using-our-new-app"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141728/bills-vs-patriots-week-4-injury-report-josh-allen-clear",
+      "team": "bills",
+      "title": "Bills vs. Patriots Week 4 injury report: Josh Allen clear",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T11:56:17.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/141728/bills-vs-patriots-week-4-injury-report-josh-allen-clear"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141743/drake-maye-tipping-point-second-half-of-2025-buffalo-bills-game",
+      "team": "bills",
+      "title": "Buffalo Bills were tipping point in Drake Maye’s deterioration",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T11:17:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141743/drake-maye-tipping-point-second-half-of-2025-buffalo-bills-game"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-power-rankings/141752/nfl-power-rankings-bills-are-no-1-but-nobody-knows-what-to-make-of-the-patriots",
+      "team": "bills",
+      "title": "NFL power rankings: Bills are No. 1, but nobody knows what to make of the Patriots",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T10:09:07.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-power-rankings/141752/nfl-power-rankings-bills-are-no-1-but-nobody-knows-what-to-make-of-the-patriots"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/confidence-special-ability-to-meet-big-moments-make-sabres-rookie-konsta-helenius-unique-talent/",
@@ -1037,6 +1092,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T00:00:00.000Z",
       "link": "https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-4-vs-patriots"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141736/buffalo-bills-broadcast-map-for-week-4-game-against-new-england-patriots",
+      "team": "bills",
+      "title": "Buffalo Bills broadcast map for Week 4 game against New England Patriots",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T21:40:05.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141736/buffalo-bills-broadcast-map-for-week-4-game-against-new-england-patriots"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266715-trade-for-btj/",
@@ -1149,17 +1215,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46278/usa-vs-chile-2026-friendly-community-player-ratings"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46270/usmnt-4-2-chile-the-usa-battles-back-for-a-comeback-win",
-      "team": "usmnt",
-      "title": "USMNT 4-2 Chile: The USA battles back for a comeback win",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T02:18:01.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/46270/usmnt-4-2-chile-the-usa-battles-back-for-a-comeback-win"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266700-feedback-from-an-aussie/",
       "team": "bills",
       "title": "Feedback from an Aussie",
@@ -1169,17 +1224,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-29T22:19:29.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266700-feedback-from-an-aussie/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/huddle-for-hunger-week-2026-brings-in-a-record-breaking-amount-of-donated-food",
-      "team": "bills",
-      "title": "Huddle for Hunger Week 2026 brings in a record-breaking amount of donated food",
-      "summary": "Bills Foundation and Wegmans continue annual food drive",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-29T18:38:05.000Z",
-      "link": "https://www.buffalobills.com/news/huddle-for-hunger-week-2026-brings-in-a-record-breaking-amount-of-donated-food"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-mauricio-pochettino-heaps-praise-young-stars-2026/",
@@ -1347,17 +1391,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-mauricio-pochettino-young-players-peru-friendly/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266630-shady-mccoy-on-special-forces-reality-show/",
-      "team": "bills",
-      "title": "Shady McCoy on Special Forces reality show",
-      "summary": "He starts right off with an attitude.  It’ll be fun to see these Special Forces guys put him in his place.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-25T05:57:53.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266630-shady-mccoy-on-special-forces-reality-show/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-red-wings-preseason-game-3-open-thread-and-how-to-watch/",
       "team": "sabres",
       "title": "Sabres vs Red Wings: Preseason Game 3 | Open Thread and How To Watch",
@@ -1367,17 +1400,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-24T18:57:00.000Z",
       "link": "https://www.diebytheblade.com/sabres-vs-red-wings-preseason-game-3-open-thread-and-how-to-watch/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-youth-movement-meet-the-players-usa-soccer/",
-      "team": "usmnt",
-      "title": "Meet the teenagers leading Mauricio Pochettino's USMNT youth movement",
-      "summary": "A new-look squad will feature in four games this month and next, and here's what to know about the young, new faces",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-24T12:39:58.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-youth-movement-meet-the-players-usa-soccer/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/dbtb-makes-three-free-agent-additions/",
