@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T04:30:05.042Z",
+  "generatedAt": "2026-10-03T10:00:36.491Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -170,6 +170,17 @@
   ],
   "stories": [
     {
+      "id": "espn-sabres::50089208",
+      "team": "sabres",
+      "title": "Metropolitan Division foes meet when Philadelphia hosts Carolina",
+      "summary": "Carolina Hurricanes (0-1-1, in the Metropolitan Division) vs. Philadelphia Flyers (0-1-1, in the Metropolitan Division)",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T08:11:47Z",
+      "link": "http://www.espn.com/nhl/preview?gameId=401892435"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
       "team": "sabres",
       "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
@@ -177,8 +188,19 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-03T04:25:22.000Z",
+      "publishedAt": "2026-10-03T05:45:09.000Z",
       "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
+      "team": "sabres",
+      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T05:35:27.000Z",
+      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
@@ -188,7 +210,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-03T04:20:17.000Z",
+      "publishedAt": "2026-10-03T05:00:48.000Z",
       "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
     },
     {
@@ -341,20 +363,9 @@
       "summary": "Washington Capitals vs. Carolina Hurricanes: Game Highlights",
       "source": "ESPN",
       "sourceType": "league",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "publishedAt": "2026-10-03T02:04:09Z",
       "link": "https://www.espn.com/video/clip/_/id/50087786/game-highlights"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/alex-tuch-scores-pair-in-capitals-debut-washington-beats-hurricanes/",
-      "team": "sabres",
-      "title": "Alex Tuch scores pair in Capitals debut, Washington beats Hurricanes",
-      "summary": "",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T01:57:33.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/alex-tuch-scores-pair-in-capitals-debut-washington-beats-hurricanes/"
     },
     {
       "id": "espn-sabres::50087730",
@@ -432,17 +443,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-02T22:57:00.000Z",
       "link": "https://www.buffalohockeybeat.com/jack-quinn-the-sabres-power-play-and-other-things-to-watch-this-season/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
-      "team": "sabres",
-      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T22:34:04.000Z",
-      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-odds/141643/bills-vs-patriots-predictions-week-3-picks",
@@ -1017,6 +1017,17 @@
       "link": "https://www.buffalobills.com/news/a-hard-team-to-game-plan-for-bills-prepare-for-the-new-england-patriots-after-uneven-week-3-outing"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266717-natasha-bedingfield-playing-halftime/",
+      "team": "bills",
+      "title": "Natasha Bedingfield playing halftime",
+      "summary": "How many tough guys on here are going to pretend that they aren’t really excited for this?!? 🤣🤣",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-01T00:36:23.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266717-natasha-bedingfield-playing-halftime/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-4-vs-patriots",
       "team": "bills",
       "title": "What Bills fans can expect at Highmark Stadium for Week 4 vs. Patriots",
@@ -1103,17 +1114,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-30T14:00:30.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-and-toronto-argonauts-bring-future-of-football-celebrations-back-to-bmo-field"
-    },
-    {
-      "id": "espn-sabres::50059814",
-      "team": "sabres",
-      "title": "Predictions for every NHL team's finish in 2026-27: Why the Panthers will win the Cup",
-      "summary": "Some fans will wait to watch all the games this season. Readers of this story won't need to!",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T11:52:33Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50059814/nhl-2026-27-standings-predictions-picks-top-teams-playoffs-stanley-cup-winners"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/mattias-samuelsson-might-be-ready-for-opener-sabres-make-roster-move/",
@@ -1213,17 +1213,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-29T15:20:50.000Z",
       "link": "https://www.diebytheblade.com/predict-the-2026-27-buffalo-sabres/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266692-five-undefeated-teams-left-after-three-weeks%E2%80%A6w4-preview/",
-      "team": "bills",
-      "title": "Five undefeated teams left after three weeks…W4 preview",
-      "summary": "Bills, Chiefs, Raiders, 49ers, Vikings at 3-0 — and I think to the majority of us, all or most of those are a surprise.\n\n\n\n\t \n\n\n\n\tEqually as surprising are a number of the winless and 1-2 teams: Rams, Chargers, Packers, Pats***, Texans, Cowboys…\n\n\n\n\t \n\n\n\n\tNext week marks end of the proverbial first quarter of the season, when teams start to solidify “who they are.”\n\n\n\n\t \n\n\n\n\tSome really interesting games on the slate for W4. Obviously there’s Bills/Pats*** and a chance for Buffalo to put an early stranglehold on the division. KC/LV will eliminate one of the unbeatens. Houston and Dallas are both in desperation mode in the battle of Texas. Jags at Cinci is a matchup of 2-1 teams. Broncos at 49ers is another intriguing game — one could argue Denver “should” be 0-3 but they’ve done the 4th quarter rabbit-out-of-a-hat trick two weeks in a row.\n\n\n\n\t \n\n\n\n\tFrom a Bills perspective I think we’re rooting for Vegas, Dallas, Jacksonville (because of Cinci’s easy schedule), and the 49ers.\n\n\n\n\t \n\n\n\n\tFun week ahead.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-29T12:10:06.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266692-five-undefeated-teams-left-after-three-weeks%E2%80%A6w4-preview/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-initial-2026-27-roster-has-goalies-ukko-pekka-luukkonen-and-alex-lyon/",
