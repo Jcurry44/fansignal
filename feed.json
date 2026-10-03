@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T14:43:32.680Z",
+  "generatedAt": "2026-10-03T18:18:19.992Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -170,15 +170,26 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-odds/141643/bills-vs-patriots-predictions-week-3-picks",
+      "team": "bills",
+      "title": "NFL predictions: 3 bold takes for Bills-Patriots in Week 4",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T18:08:01.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-odds/141643/bills-vs-patriots-predictions-week-3-picks"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
       "team": "sabres",
-      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
+      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-03T14:33:26.000Z",
-      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
+      "publishedAt": "2026-10-03T17:55:03.000Z",
+      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/",
@@ -188,8 +199,228 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-03T14:28:25.000Z",
+      "publishedAt": "2026-10-03T17:49:26.000Z",
       "link": "https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/"
+    },
+    {
+      "id": "espn-sabres::50085730",
+      "team": "sabres",
+      "title": "NHL Tonight: Stats, betting info and storylines for Saturday's 13-game slate",
+      "summary": "Only six teams have the night off. Here's what you need to know for the 26 who are hitting the ice.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T17:48:26Z",
+      "link": "https://www.espn.com/nhl/story/_/id/50085730/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T17:25:39.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/blackhawks-bowen-byram-to-miss-first-game-versus-sabres-after-trade-jordan-greenway-begins-new-chapter/",
+      "team": "sabres",
+      "title": "Blackhawks’ Bowen Byram to miss first game versus Sabres after trade; Jordan Greenway begins ‘new chapter’",
+      "summary": "BUFFALO – Bowen Byram’s first game here as a member of the Chicago Blackhawks will have to wait until next season.\nBlackhawks coach Jeff Blashill said Byram, 25, is attending to a personal matter and will miss tonight’s game against the Sabres at KeyBank Center.\nThe Sabres traded Byram, who wanted an opportunity to become a No. 1 defenseman, to Chicago on June 23 in a blockbuster deal that brought the fourth overall pick ... Read the full article \nThe post Blackhawks’ Bowen Byram to miss first game versus Sabres after trade; Jordan Greenway begins ‘new chapter’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T17:20:45.000Z",
+      "link": "https://www.buffalohockeybeat.com/blackhawks-bowen-byram-to-miss-first-game-versus-sabres-after-trade-jordan-greenway-begins-new-chapter/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/senators-cozens-thrilled-to-represent-whitehorse-alongside-mckenna/",
+      "team": "sabres",
+      "title": "Senators’ Cozens thrilled to represent Whitehorse alongside McKenna",
+      "summary": "Ottawa Senators forward Dylan Cozens shares some hometown pride, discussing how happy he is that he and Toronto Maple Leafs phenom Gavin McKenna can both represent Whitehorse, Y.T. in the NHL.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T17:13:39.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/senators-cozens-thrilled-to-represent-whitehorse-alongside-mckenna/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
+      "team": "sabres",
+      "title": "Around The NHL the Thread the Musical the Movie - 2026-27",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T17:09:33.000Z",
+      "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/blackhawks-byram-to-miss-home-coming-against-sabres-because-of-family-matter/",
+      "team": "sabres",
+      "title": "Blackhawks’ Byram to miss homecoming against Sabres because of family matter",
+      "summary": "Chicago Blackhawks coach Jeff Blashill ruled out top defenceman Bowen Byram from playing at Buffalo on Saturday night because of a family matter.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T17:00:29.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/blackhawks-byram-to-miss-home-coming-against-sabres-because-of-family-matter/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-native-lb-joe-andreessen-signs-two-year-contract-extension",
+      "team": "bills",
+      "title": "Buffalo native LB Joe Andreessen signs two-year contract extension",
+      "summary": "Buffalo Joe is staying in Buffalo after signing a two-year contract extension",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:59:50.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-native-lb-joe-andreessen-signs-two-year-contract-extension"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/bandits-sign-bowen-to-3-year-contract/",
+      "team": "bandits",
+      "title": "Bandits sign Bowen to 3-year contract",
+      "summary": "The Buffalo Bandits today announced the team has signed transition player Dante Bowen to a three-year contract, pending league approval. Bowen (6’1”, 205 lbs., 2/7/2003) spent the 2026 season at Syracuse University, where he recorded four assists, 16 ground balls and 14 caused turnovers in 19 games. His 14 caused turnovers ranked third among all Syracuse players. Following the season, Bowen earned USA Lacrosse Honorable Mention All-America recognition as a short-stick […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:28:05.000Z",
+      "link": "https://bandits.com/bandits-sign-bowen-to-3-year-contract/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/bandits-sign-4-players-to-contracts/",
+      "team": "bandits",
+      "title": "Bandits sign 4 players to contracts",
+      "summary": "The Buffalo Bandits today announced the team has signed forward Travis Longboat and transition player Thomas Whitty to one-year contracts. Additionally, the team has signed defenseman Jimmy Freehill and forward Owen Rice to three-year contracts. All four contracts are pending league approval. Whitty (6’1”, 185 lbs., 1/23/1999) has registered 23 points (1+22) and 336 loose-ball […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:27:05.000Z",
+      "link": "https://bandits.com/bandits-sign-4-players-to-contracts/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/bandits-sign-dawson-cortes/",
+      "team": "bandits",
+      "title": "Bandits sign Dawson, Cortes",
+      "summary": "The Buffalo Bandits today announced the team has signed defenseman Paul Dawson to a one-year contract and defenseman Raymond Cortes to a three-year contract. Both contracts are pending league approval. Dawson (6’5”, 237 lbs., 9/16/1985) will return for his third season with the Bandits and 20th season in the NLL. He tallied two points (0+2), […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:26:05.000Z",
+      "link": "https://bandits.com/bandits-sign-dawson-cortes/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/bandits-sign-andrews-booth-scanlan/",
+      "team": "bandits",
+      "title": "Bandits sign Andrews, Booth, Scanlan",
+      "summary": "The Buffalo Bandits today announced the team has signed forward Clay Scanlan to a two-year contract. Additionally, the team has signed transition player Ryan Andrews and forward Arrow Booth to three-year contracts. All three deals are pending league approval. Scanlan (5’10”, 175 lbs., 9/22/2001) set new career highs in games played (17), goals (11), assists (11), points (22) and loose balls (60) in his sophomore season in the NLL. Over his two seasons with the Bandits, he has recorded 38 points (20+18) and […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:25:05.000Z",
+      "link": "https://bandits.com/bandits-sign-andrews-booth-scanlan/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/bandits-select-8-players-in-2026-nll-draft/",
+      "team": "bandits",
+      "title": "Bandits select 8 players in 2026 NLL Draft",
+      "summary": "The Buffalo Bandits made eight selections in the 2026 NLL Draft on Thursday. Buffalo selected transition player Dante Bowen with the sixth-overall pick. Bowen spent last season playing short-stick defensive midfield at Syracuse University and played box lacrosse for the MSL’s Brampton Excelsiors. Dante Bowen makes every possession a battle 💪 Watch the first round […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:23:05.000Z",
+      "link": "https://bandits.com/bandits-select-8-players-in-2026-nll-draft/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/bandits-announce-2026-27-schedule/",
+      "team": "bandits",
+      "title": "Bandits announce 2026-27 schedule",
+      "summary": "The Buffalo Bandits have announced their 2026-27 schedule, which opens against the Georgia Swarm at KeyBank Center on Saturday, Nov. 28. Season Ticket Members will have access to a presale for single-game tickets beginning Friday, Sept. 25 at 10 a.m. Single-game tickets will go on sale to the general public on Tuesday, Sept. 29 at […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:22:05.000Z",
+      "link": "https://bandits.com/bandits-announce-2026-27-schedule/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/bandits-ink-deals-with-spanger-tyson-sykes/",
+      "team": "bandits",
+      "title": "Bandits ink deals with Spanger, Tyson, Sykes",
+      "summary": "The Buffalo Bandits today announced the team has signed defenseman Matt Spanger and forward Justin Sykes to one-year contracts and forward Coltrane Tyson to a two-year contract. All three deals are pending league approval. Spanger (6’4”, 207 lbs., 11/27/1992) will return for his eighth season with the Bandits. Over his nine seasons in the NLL, […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:21:05.000Z",
+      "link": "https://bandits.com/bandits-ink-deals-with-spanger-tyson-sykes/"
+    },
+    {
+      "id": "bandits-official::https://bandits.com/bandits-2026-27-home-opener-set-for-nov-28/",
+      "team": "bandits",
+      "title": "Bandits’ 2026-27 home opener set for Nov. 28",
+      "summary": "The Buffalo Bandits will open the 2026-27 season at home against the Georgia Swarm on Saturday, Nov. 28 at 7 p.m. Stay tuned to the Bandits.com and the team’s social channels for the full 2026-27 schedule, which will be unveiled next week. Season Ticket Memberships are on sale here. Single-game ticket information will be made […]",
+      "source": "Bandits.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:19:05.000Z",
+      "link": "https://bandits.com/bandits-2026-27-home-opener-set-for-nov-28/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266737-joe-andreessen-extended/",
+      "team": "bills",
+      "title": "Joe Andreessen extended",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T16:16:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266737-joe-andreessen-extended/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
+      "team": "sabres",
+      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T15:47:31.000Z",
+      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/",
+      "team": "sabres",
+      "title": "The all encompassing HFSabres music thread with no rules (as long as it’s music posted)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T15:47:17.000Z",
+      "link": "https://forums.hfboards.com/threads/the-all-encompassing-hfsabres-music-thread-with-no-rules-as-long-as-it%E2%80%99s-music-posted.2928687/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141945/nfl-double-dip-correlation-to-winning-buffalo-bills",
+      "team": "bills",
+      "title": "How does double-dipping correlate to winning in the NFL?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T15:38:10.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141945/nfl-double-dip-correlation-to-winning-buffalo-bills"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141860/keon-coleman-is-settling-in-nicely-for-buffalo-bills-in-year-3",
+      "team": "bills",
+      "title": "Keon Coleman is settling in nicely for Buffalo Bills in Year 3",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T14:54:23.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141860/keon-coleman-is-settling-in-nicely-for-buffalo-bills-in-year-3"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cavan-sullivan-gilberto-mora-usmnt-mexico-rivalry/",
@@ -214,17 +445,6 @@
       "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-americans-home-opener-10-02-26-working-arrangement-with-orlando-echl.3030463/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
-      "team": "sabres",
-      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T14:09:39.000Z",
-      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-become-first-nfl-team-to-win-cannes-corporate-media-tv-award-with-josh-allen-mvp-reaction-video",
       "team": "bills",
       "title": "Buffalo Bills become first NFL team to win Cannes Corporate Media & TV Award with Josh Allen MVP reaction video",
@@ -234,17 +454,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T14:00:49.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-become-first-nfl-team-to-win-cannes-corporate-media-tv-award-with-josh-allen-mvp-reaction-video"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
-      "team": "sabres",
-      "title": "Around The NHL the Thread the Musical the Movie - 2026-27",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T13:43:17.000Z",
-      "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-mexico-el-tri-live-stream-mauricio-pochettino/",
@@ -269,6 +478,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266736-rallying-the-mafia-former-bill-cb-ron-brooks/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141686/bills-news-previewing-the-patriots",
+      "team": "bills",
+      "title": "Bills news: Previewing the Patriots",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T13:21:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141686/bills-news-previewing-the-patriots"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
       "team": "sabres",
       "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
@@ -289,28 +509,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T12:32:58.000Z",
       "link": "https://forums.hfboards.com/threads/all-things-pegula-2.2846083/"
-    },
-    {
-      "id": "espn-sabres::50085730",
-      "team": "sabres",
-      "title": "NHL Tonight: Stats, betting info and storylines for Saturday's 13-game slate",
-      "summary": "Only six teams have the night off. Here's what you need to know for the 26 who are hitting the ice.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T11:37:11Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50085730/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
-      "team": "sabres",
-      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T10:42:33.000Z",
-      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-the-song-remains-shockingly-the-same-game-1-columbus-6-buffalo-3.3038218/",
@@ -478,17 +676,6 @@
       "link": "http://www.espn.com/nhl/recap?gameId=401892432"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/louis-crevier-rhd-acquired-from-chicago-signs-4x-4m-aav-extension-10-1-26.3032399/",
-      "team": "sabres",
-      "title": "Louis Crevier (RHD) acquired from Chicago (Signs 4x$4M AAV Extension 10/1/26)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T01:45:52.000Z",
-      "link": "https://forums.hfboards.com/threads/louis-crevier-rhd-acquired-from-chicago-signs-4x-4m-aav-extension-10-1-26.3032399/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46403/tyler-adams-named-usmnt-captain",
       "team": "usmnt",
       "title": "Tyler Adams named USMNT captain",
@@ -511,6 +698,17 @@
       "link": "https://www.buffalohockeybeat.com/jack-quinn-the-sabres-power-play-and-other-things-to-watch-this-season/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141786/5-buffalo-bills-to-watch-vs-the-new-england-patriots",
+      "team": "bills",
+      "title": "5 Buffalo Bills to watch vs. the New England Patriots",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-02T22:15:15.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141786/5-buffalo-bills-to-watch-vs-the-new-england-patriots"
+    },
+    {
       "id": "espn-bills::50086465",
       "team": "bills",
       "title": "Christian Benford not ruled out for Sunday's game",
@@ -520,6 +718,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-02T21:13:07Z",
       "link": "https://www.espn.com/video/clip/_/id/50086465/christian-benford-not-ruled-sunday-game"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141884/bills-injury-report-christian-benford-ray-davis-questionable-vs-patriots",
+      "team": "bills",
+      "title": "Bills injury report: Christian Benford, Ray Davis questionable vs. Patriots",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T21:10:41.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/141884/bills-injury-report-christian-benford-ray-davis-questionable-vs-patriots"
     },
     {
       "id": "espn-bills::50085613",
@@ -533,15 +742,26 @@
       "link": "https://www.espn.com/nfl/story/_/id/50085613/patriots-defense-loses-gonzalez-barmore-high-octane-bills"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-new-england-patriots-where-to-watch-stream-and-listen-week-4",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141883/does-scoring-before-the-end-of-the-half-correlate-to-winning-games",
       "team": "bills",
-      "title": "Buffalo Bills vs. New England Patriots | Where to watch, stream and listen | Week 4",
-      "summary": "TV Channel, Streaming and Radio for Bills vs. Chargers",
-      "source": "Bills.com",
-      "sourceType": "team",
+      "title": "Does scoring before the end of the half correlate to winning games?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-02T18:40:31.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-vs-new-england-patriots-where-to-watch-stream-and-listen-week-4"
+      "publishedAt": "2026-10-02T18:55:14.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141883/does-scoring-before-the-end-of-the-half-correlate-to-winning-games"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141684/bills-news-dt-dewayne-carter-is-living-up-to-his-potential-in-his-third-season",
+      "team": "bills",
+      "title": "Bills news: DT DeWayne Carter is living up to his potential in his third season",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T18:16:31.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141684/bills-news-dt-dewayne-carter-is-living-up-to-his-potential-in-his-third-season"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-newcomer-olen-zellweger-ready-to-play-after-suffering-concussion/",
@@ -676,6 +896,17 @@
       "link": "https://www.espn.com/nfl/story/_/id/50078705/pass-interference-review-rams-broncos"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141842/buffalo-bills-are-about-to-have-an-abundance-of-defensive-line-depth",
+      "team": "bills",
+      "title": "Buffalo Bills are about to have an abundance of defensive line depth",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T11:54:03.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141842/buffalo-bills-are-about-to-have-an-abundance-of-defensive-line-depth"
+    },
+    {
       "id": "espn-sabres::50078529",
       "team": "sabres",
       "title": "NHL Tonight: Capitals face Hurricanes in a critical early-season clash",
@@ -709,28 +940,6 @@
       "link": "https://www.diebytheblade.com/sabres-cannonballed-by-columbus-fall-6-3/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266726-apparently-some-teams-do-get-screwed-by-the-refs-more-than-other-teams/",
-      "team": "bills",
-      "title": "Apparently Some Teams do get screwed by the refs more than other teams.",
-      "summary": "Do we think this is true, or just fake internet analysis",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T00:46:49.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266726-apparently-some-teams-do-get-screwed-by-the-refs-more-than-other-teams/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/141724/pittsburgh-steelers-at-cleveland-browns-week-4-tnf-fan-discussion",
-      "team": "bills",
-      "title": "Pittsburgh Steelers at Cleveland Browns, Week 4 ‘TNF’ fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T00:21:19.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/141724/pittsburgh-steelers-at-cleveland-browns-week-4-tnf-fan-discussion"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266725-tnf-steelers-at-browns-no-bills-stuff-please/",
       "team": "bills",
       "title": "TNF: Steelers at Browns (No Bills stuff please)",
@@ -751,17 +960,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T23:27:00.000Z",
       "link": "https://www.buffalobills.com/news/it-was-crazy-t-j-sanders-details-appendectomy-as-he-makes-his-return-to-bills-practice"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141811/bills-thursday-injury-report-adds-new-name",
-      "team": "bills",
-      "title": "Bills Thursday injury report adds new name",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T21:30:34.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/141811/bills-thursday-injury-report-adds-new-name"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-1-preview-open-thread-sabres-at-blue-jackets/",
@@ -830,28 +1028,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46325/previewing-usmnt-vs-mexico-a-friendly-with-everything-and-nothing-to-play-for"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/141794/buffalo-bills-vs-patriots-josh-allen-rivalry-history",
-      "team": "bills",
-      "title": "Buffalo Bills vs. Patriots: Josh Allen rivalry history",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T17:18:43.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/141794/buffalo-bills-vs-patriots-josh-allen-rivalry-history"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141798/greg-rousseau-named-afc-defensive-player-of-the-month-after-historic-september-for-the-bills",
-      "team": "bills",
-      "title": "Greg Rousseau named AFC Defensive Player of the Month after historic September for the Bills",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 3,
-      "publishedAt": "2026-10-01T17:17:25.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141798/greg-rousseau-named-afc-defensive-player-of-the-month-after-historic-september-for-the-bills"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-youth/46301/uswnt-u-23-roster-named-ahead-of-two-october-friendlies",
       "team": "usmnt",
       "title": "USWNT U-23 roster named ahead of two October friendlies",
@@ -861,6 +1037,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T16:06:59.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-youth/46301/uswnt-u-23-roster-named-ahead-of-two-october-friendlies"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266722-greg-rousseau-afc-defensive-player-of-the-month-september-2026/",
+      "team": "bills",
+      "title": "Greg Rousseau AFC Defensive Player of the Month (September 2026)!",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-01T16:05:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266722-greg-rousseau-afc-defensive-player-of-the-month-september-2026/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/general/46315/our-first-month-with-an-app-broke-our-commenting-records",
@@ -883,138 +1070,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T15:11:13.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-recall-veteran-from-rochester-amerks-before-opener/"
-    },
-    {
-      "id": "bandits-official::https://bandits.com/bandits-sign-4-players-to-contracts/",
-      "team": "bandits",
-      "title": "Bandits sign 4 players to contracts",
-      "summary": "The Buffalo Bandits today announced the team has signed forward Travis Longboat and transition player Thomas Whitty to one-year contracts. Additionally, the team has signed defenseman Jimmy Freehill and forward Owen Rice to three-year contracts. All four contracts are pending league approval. Whitty (6’1”, 185 lbs., 1/23/1999) has registered 23 points (1+22) and 336 loose-ball […]",
-      "source": "Bandits.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T14:47:51.000Z",
-      "link": "https://bandits.com/bandits-sign-4-players-to-contracts/"
-    },
-    {
-      "id": "bandits-official::https://bandits.com/bandits-sign-dawson-cortes/",
-      "team": "bandits",
-      "title": "Bandits sign Dawson, Cortes",
-      "summary": "The Buffalo Bandits today announced the team has signed defenseman Paul Dawson to a one-year contract and defenseman Raymond Cortes to a three-year contract. Both contracts are pending league approval. Dawson (6’5”, 237 lbs., 9/16/1985) will return for his third season with the Bandits and 20th season in the NLL. He tallied two points (0+2), […]",
-      "source": "Bandits.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T14:46:51.000Z",
-      "link": "https://bandits.com/bandits-sign-dawson-cortes/"
-    },
-    {
-      "id": "bandits-official::https://bandits.com/bandits-sign-andrews-booth-scanlan/",
-      "team": "bandits",
-      "title": "Bandits sign Andrews, Booth, Scanlan",
-      "summary": "The Buffalo Bandits today announced the team has signed forward Clay Scanlan to a two-year contract. Additionally, the team has signed transition player Ryan Andrews and forward Arrow Booth to three-year contracts. All three deals are pending league approval. Scanlan (5’10”, 175 lbs., 9/22/2001) set new career highs in games played (17), goals (11), assists (11), points (22) and loose balls (60) in his sophomore season in the NLL. Over his two seasons with the Bandits, he has recorded 38 points (20+18) and […]",
-      "source": "Bandits.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T14:45:51.000Z",
-      "link": "https://bandits.com/bandits-sign-andrews-booth-scanlan/"
-    },
-    {
-      "id": "bandits-official::https://bandits.com/bandits-select-8-players-in-2026-nll-draft/",
-      "team": "bandits",
-      "title": "Bandits select 8 players in 2026 NLL Draft",
-      "summary": "The Buffalo Bandits made eight selections in the 2026 NLL Draft on Thursday. Buffalo selected transition player Dante Bowen with the sixth-overall pick. Bowen spent last season playing short-stick defensive midfield at Syracuse University and played box lacrosse for the MSL’s Brampton Excelsiors. Dante Bowen makes every possession a battle 💪 Watch the first round […]",
-      "source": "Bandits.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T14:43:51.000Z",
-      "link": "https://bandits.com/bandits-select-8-players-in-2026-nll-draft/"
-    },
-    {
-      "id": "bandits-official::https://bandits.com/bandits-announce-2026-27-schedule/",
-      "team": "bandits",
-      "title": "Bandits announce 2026-27 schedule",
-      "summary": "The Buffalo Bandits have announced their 2026-27 schedule, which opens against the Georgia Swarm at KeyBank Center on Saturday, Nov. 28. Season Ticket Members will have access to a presale for single-game tickets beginning Friday, Sept. 25 at 10 a.m. Single-game tickets will go on sale to the general public on Tuesday, Sept. 29 at […]",
-      "source": "Bandits.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T14:42:51.000Z",
-      "link": "https://bandits.com/bandits-announce-2026-27-schedule/"
-    },
-    {
-      "id": "bandits-official::https://bandits.com/bandits-ink-deals-with-spanger-tyson-sykes/",
-      "team": "bandits",
-      "title": "Bandits ink deals with Spanger, Tyson, Sykes",
-      "summary": "The Buffalo Bandits today announced the team has signed defenseman Matt Spanger and forward Justin Sykes to one-year contracts and forward Coltrane Tyson to a two-year contract. All three deals are pending league approval. Spanger (6’4”, 207 lbs., 11/27/1992) will return for his eighth season with the Bandits. Over his nine seasons in the NLL, […]",
-      "source": "Bandits.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T14:41:51.000Z",
-      "link": "https://bandits.com/bandits-ink-deals-with-spanger-tyson-sykes/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141751/buffalo-bills-vs-new-england-patriots-movable-object-vs-stoppable-force",
-      "team": "bills",
-      "title": "Buffalo Bills vs. New England Patriots; Movable object vs. stoppable force",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T14:40:41.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141751/buffalo-bills-vs-new-england-patriots-movable-object-vs-stoppable-force"
-    },
-    {
-      "id": "bandits-official::https://bandits.com/bandits-2026-27-home-opener-set-for-nov-28/",
-      "team": "bandits",
-      "title": "Bandits’ 2026-27 home opener set for Nov. 28",
-      "summary": "The Buffalo Bandits will open the 2026-27 season at home against the Georgia Swarm on Saturday, Nov. 28 at 7 p.m. Stay tuned to the Bandits.com and the team’s social channels for the full 2026-27 schedule, which will be unveiled next week. Season Ticket Memberships are on sale here. Single-game ticket information will be made […]",
-      "source": "Bandits.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T14:39:51.000Z",
-      "link": "https://bandits.com/bandits-2026-27-home-opener-set-for-nov-28/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/general/141642/one-month-in-heres-how-youre-using-our-new-app",
-      "team": "bills",
-      "title": "Our first month with an app broke our commenting records",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T13:26:21.000Z",
-      "link": "https://www.buffalorumblings.com/general/141642/one-month-in-heres-how-youre-using-our-new-app"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/141728/bills-vs-patriots-week-4-injury-report-josh-allen-clear",
-      "team": "bills",
-      "title": "Bills vs. Patriots Week 4 injury report: Josh Allen clear",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T11:56:17.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/141728/bills-vs-patriots-week-4-injury-report-josh-allen-clear"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141743/drake-maye-tipping-point-second-half-of-2025-buffalo-bills-game",
-      "team": "bills",
-      "title": "Buffalo Bills were tipping point in Drake Maye’s deterioration",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T11:17:11.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141743/drake-maye-tipping-point-second-half-of-2025-buffalo-bills-game"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-power-rankings/141752/nfl-power-rankings-bills-are-no-1-but-nobody-knows-what-to-make-of-the-patriots",
-      "team": "bills",
-      "title": "NFL power rankings: Bills are No. 1, but nobody knows what to make of the Patriots",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T10:09:07.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-power-rankings/141752/nfl-power-rankings-bills-are-no-1-but-nobody-knows-what-to-make-of-the-patriots"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/confidence-special-ability-to-meet-big-moments-make-sabres-rookie-konsta-helenius-unique-talent/",
@@ -1094,17 +1149,6 @@
       "link": "https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-4-vs-patriots"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141736/buffalo-bills-broadcast-map-for-week-4-game-against-new-england-patriots",
-      "team": "bills",
-      "title": "Buffalo Bills broadcast map for Week 4 game against New England Patriots",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T21:40:05.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141736/buffalo-bills-broadcast-map-for-week-4-game-against-new-england-patriots"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266715-trade-for-btj/",
       "team": "bills",
       "title": "Trade for BTJ?",
@@ -1114,17 +1158,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-30T21:03:13.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266715-trade-for-btj/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266714-meanwhile-meathead-and-maye-have-some-friction/",
-      "team": "bills",
-      "title": "Meanwhile, Meathead and Maye have some friction.",
-      "summary": "https://sports.yahoo.com/articles/mike-vrabel-downplays-report-issues-180217589.html\n\t \n\n\n\n\tPlus, possible issues with Drake having shoulder issues but Meathead not adding him to injury report.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T19:16:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266714-meanwhile-meathead-and-maye-have-some-friction/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/top-storylines-for-bills-vs-patriots-week-4",
@@ -1169,17 +1202,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-30T14:00:31.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-recognize-these-wny-high-school-football-coaches-week-4-2026"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-and-toronto-argonauts-bring-future-of-football-celebrations-back-to-bmo-field",
-      "team": "bills",
-      "title": "Buffalo Bills and Toronto Argonauts Bring Future of Football Celebrations Back to BMO Field",
-      "summary": "The afternoon will showcase the Argos’ and Bills’ joint focus on youth and grassroots football through community recognition, special game-day opportunities and fan experiences.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T14:00:30.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-and-toronto-argonauts-bring-future-of-football-celebrations-back-to-bmo-field"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/mattias-samuelsson-might-be-ready-for-opener-sabres-make-roster-move/",
@@ -1292,17 +1314,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-28/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-losing-defensemen-to-injury-matt-grzelcyks-signing-gives-sabres-boost/",
-      "team": "sabres",
-      "title": "After losing defensemen to injury, Matt Grzelcyk’s signing gives Sabres boost",
-      "summary": "BUFFALO – The Sabres wasted no time getting newcomer Matt Grzelcyk acclimated. Without the benefit of a practice or pregame skate, they threw the defenseman into the lineup for their preseason finale.\nGrzelcyk, who on Friday signed a one-year, $850,000 contract, looked comfortable throughout Saturday afternoon’s 3-1 loss to the Pittsburgh Penguins, skating 16 minutes, 48 seconds, mostly alongside Conor Timmins.\n“It almost helped, honestly, just having no pregame skate, nothing – just go right ... Read the full article \nThe post After losing defensemen to injury, Matt Grzelcyk’s signing gives Sabres boost first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T05:39:26.000Z",
-      "link": "https://www.buffalohockeybeat.com/after-losing-defensemen-to-injury-matt-grzelcyks-signing-gives-sabres-boost/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266663-game-week-thread-patriots-at-bills/",
       "team": "bills",
       "title": "Game week thread - Patriots at Bills",
@@ -1411,6 +1422,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-23T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/dbtb-makes-three-free-agent-additions/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/",
+      "team": "bills",
+      "title": "Marvin Harrison Jr - what is going on in Arizona?",
+      "summary": "Couple things.  \n\t \n\n\n\n\tIs he a bust?  Would you want him?  Be mad if New England did? \n\t \n\n\n\n\tAnd, would he be an upgrade over Keon - that is a serious question.  Im not so sure - if Keon is emerging thru the adversity he’s dealt with here there is something to be said about that and he just might be a good fit for what we’re doing.  3rd year breakout could be in progress with him.  \n\t \n\n\n\n\tBut what’s happening here in Arizona is a significant developing situation and if it continues and they lose games trade talk is going to heat up come mid October.  Maybe it’s just the 2 defenses they faced but none of this looks good.  Plenty of film shows he’s not going full speed.  But there is a lot of film of him getting open.   \n\t \n\n\n\n\tMy take is Brissett is awful and either checks down to McBride or just trusts Wilson and is his first read every time.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-23T00:38:38.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-blue-jackets-preseason-game-2-open-thread-and-how-to-watch/",
