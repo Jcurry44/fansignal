@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T21:39:22.161Z",
+  "generatedAt": "2026-10-04T00:04:12.158Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "final",
-      "headline": "Final · L 3-6",
-      "detail": "at CBJ"
+      "state": "live",
+      "headline": "1 - 2",
+      "detail": "vs CHI · P2"
     },
     {
       "team": "bandits",
@@ -170,6 +170,39 @@
   ],
   "stories": [
     {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/",
+      "team": "sabres",
+      "title": "GM2 Sabres vs Blackhawks 7 PM - TV:MSG, ESPN+ Radio:WGR550 - Home Sweet Home Opener",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T00:00:31.000Z",
+      "link": "https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
+      "team": "sabres",
+      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T23:48:02.000Z",
+      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
+    },
+    {
+      "id": "espn-bills::50051837",
+      "team": "bills",
+      "title": "All-time rosters for 23 teams with multiple Super Bowls",
+      "summary": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T23:19:51Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
       "team": "sabres",
       "title": "Around The NHL the Thread the Musical the Movie - 2026-27",
@@ -177,7 +210,7 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-03T21:38:26.000Z",
+      "publishedAt": "2026-10-03T22:47:22.000Z",
       "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
     },
     {
@@ -190,17 +223,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T21:37:36.000Z",
       "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/",
-      "team": "sabres",
-      "title": "GM2 Sabres vs Blackhawks 7 PM - TV:MSG, ESPN+ Radio:WGR550 - Home Sweet Home Opener",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T21:28:51.000Z",
-      "link": "https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266739-bills-win-cannes-corporate-media-and-tv-award/",
@@ -256,17 +278,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T20:38:03.000Z",
       "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
-      "team": "sabres",
-      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T20:12:01.000Z",
-      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -366,28 +377,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T17:20:45.000Z",
       "link": "https://www.buffalohockeybeat.com/blackhawks-bowen-byram-to-miss-first-game-versus-sabres-after-trade-jordan-greenway-begins-new-chapter/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/senators-cozens-thrilled-to-represent-whitehorse-alongside-mckenna/",
-      "team": "sabres",
-      "title": "Senators’ Cozens thrilled to represent Whitehorse alongside McKenna",
-      "summary": "Ottawa Senators forward Dylan Cozens shares some hometown pride, discussing how happy he is that he and Toronto Maple Leafs phenom Gavin McKenna can both represent Whitehorse, Y.T. in the NHL.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T17:13:39.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/senators-cozens-thrilled-to-represent-whitehorse-alongside-mckenna/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/blackhawks-byram-to-miss-home-coming-against-sabres-because-of-family-matter/",
-      "team": "sabres",
-      "title": "Blackhawks’ Byram to miss homecoming against Sabres because of family matter",
-      "summary": "Chicago Blackhawks coach Jeff Blashill ruled out top defenceman Bowen Byram from playing at Buffalo on Saturday night because of a family matter.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T17:00:29.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/blackhawks-byram-to-miss-home-coming-against-sabres-because-of-family-matter/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-native-lb-joe-andreessen-signs-two-year-contract-extension",
@@ -588,17 +577,6 @@
       "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-the-song-remains-shockingly-the-same-game-1-columbus-6-buffalo-3.3038218/"
     },
     {
-      "id": "espn-bills::50051837",
-      "team": "bills",
-      "title": "All-time rosters for 23 teams with multiple Super Bowls",
-      "summary": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T10:00:17Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame"
-    },
-    {
       "id": "espn-sabres::50089208",
       "team": "sabres",
       "title": "Metropolitan Division foes meet when Philadelphia hosts Carolina",
@@ -608,6 +586,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T08:11:47Z",
       "link": "http://www.espn.com/nhl/preview?gameId=401892435"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/jack-quinn-the-sabres-power-play-and-other-things-to-watch-this-season/",
+      "team": "sabres",
+      "title": "Jack Quinn, the Sabres’ power play and other things to watch this season",
+      "summary": "BUFFALO – Friendly reminder, gang, while Seth Appert is the assistant coach in charge of the Sabres’ power play, it’s Lindy Ruff’s show. He’s the head coach.\nOh, and goalie Ukko-Pekka Luukkonen posted a .909 save percentage last season. Yes, the Finn struggled at times in the Stanley Cup Playoffs. But he still enjoyed a strong campaign.\nWhy do these things bear repeating just one game into the season? Well, the Sabres lost Thursday’s opener ... Read the full article \nThe post Jack Quinn, the Sabres’ power play and other things to watch this season first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-03T05:57:00.000Z",
+      "link": "https://www.buffalohockeybeat.com/jack-quinn-the-sabres-power-play-and-other-things-to-watch-this-season/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/vasily-zelenov-rw-c-wisconsin-badgers-ncaa-204oa-2024.2970012/",
@@ -751,17 +740,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T00:07:17.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/46403/tyler-adams-named-usmnt-captain"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/jack-quinn-the-sabres-power-play-and-other-things-to-watch-this-season/",
-      "team": "sabres",
-      "title": "Jack Quinn, the Sabres’ power play and other things to watch this season",
-      "summary": "BUFFALO – Friendly reminder, gang, while Seth Appert is the assistant coach in charge of the Sabres’ power play, it’s Lindy Ruff’s show. He’s the head coach.\nOh, and goalie Ukko-Pekka Luukkonen posted a .909 save percentage last season. Yes, the Finn struggled at times in the Stanley Cup Playoffs. But he still enjoyed a strong campaign.\nWhy do these things bear repeating just one game into the season? Well, the Sabres lost Thursday’s opener ... Read the full article \nThe post Jack Quinn, the Sabres’ power play and other things to watch this season first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T22:57:00.000Z",
-      "link": "https://www.buffalohockeybeat.com/jack-quinn-the-sabres-power-play-and-other-things-to-watch-this-season/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141786/5-buffalo-bills-to-watch-vs-the-new-england-patriots",
@@ -916,17 +894,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-02T16:13:17.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266728-how-is-maxwell-hairston-doing/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46346/usa-vs-mexico-2026-friendly-time-tv-schedule-streaming-and-lineups",
-      "team": "usmnt",
-      "title": "USA vs. Mexico, 2026 Friendly: Time, TV schedule, streaming and lineups",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T15:05:53.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/46346/usa-vs-mexico-2026-friendly-time-tv-schedule-streaming-and-lineups"
     },
     {
       "id": "espn-bills::50053878",
@@ -1268,6 +1235,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-30T02:50:38.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/46278/usa-vs-chile-2026-friendly-community-player-ratings"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46270/usmnt-4-2-chile-the-usa-battles-back-for-a-comeback-win",
+      "team": "usmnt",
+      "title": "USMNT 4-2 Chile: The USA battles back for a comeback win",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-30T02:18:01.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46270/usmnt-4-2-chile-the-usa-battles-back-for-a-comeback-win"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-mauricio-pochettino-heaps-praise-young-stars-2026/",
