@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T00:04:12.158Z",
+  "generatedAt": "2026-10-04T05:55:53.804Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 11,
+      "itemCount": 12,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "live",
-      "headline": "1 - 2",
-      "detail": "vs CHI · P2"
+      "state": "final",
+      "headline": "Final · W 4-3",
+      "detail": "vs CHI"
     },
     {
       "team": "bandits",
@@ -164,21 +164,87 @@
     {
       "team": "usmnt",
       "state": "final",
-      "headline": "Final · W 4-2",
-      "detail": "vs CHI"
+      "headline": "Final · W 3-0",
+      "detail": "vs MEX"
     }
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jiri-kulich-scores-game-winning-goal-versus-blackhawks-after-return-from-blood-clot-lot-of-emotions/",
       "team": "sabres",
-      "title": "GM2 Sabres vs Blackhawks 7 PM - TV:MSG, ESPN+ Radio:WGR550 - Home Sweet Home Opener",
+      "title": "Sabres’ Jiri Kulich scores game-winning goal versus Blackhawks after return from blood clot: ‘Lot of emotions’",
+      "summary": "BUFFALO – The other guys, Sabres center Jiri Kulich noted, did the heavy lifting to create his first goal in 343 days, the late winner in Saturday’s thrilling 4-3 come-from-behind victory.\nSeconds before he gave the Sabres their first lead in the home opener, Kulich misfired after center Tage Thompson sent him in alone on Chicago Blackhawks goalie Spencer Knight during a four-on-four.\n“I was pretty pissed after the first one,” said Kulich, who was ... Read the full article \nThe post Sabres’ Jiri Kulich scores game-winning goal versus Blackhawks after return from blood clot: ‘Lot of emotions’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T05:22:53.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-jiri-kulich-scores-game-winning-goal-versus-blackhawks-after-return-from-blood-clot-lot-of-emotions/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-kulich-has-arisen-game-2-sabres-4-hawks-3.3038380/",
+      "team": "sabres",
+      "title": "The Good, the Bad, and the Ugly - Kulich Has Arisen; Game 2, Sabres 4 - Hawks 3",
       "summary": "",
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-04T00:00:31.000Z",
-      "link": "https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/"
+      "publishedAt": "2026-10-04T05:02:28.000Z",
+      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-kulich-has-arisen-game-2-sabres-4-hawks-3.3038380/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
+      "team": "sabres",
+      "title": "Around The NHL the Thread the Musical the Movie - 2026-27",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T04:58:10.000Z",
+      "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46423/usa-vs-mexico-2026-friendly-community-player-ratings",
+      "team": "usmnt",
+      "title": "USA vs Mexico, 2026 “Friendly”: Community player ratings",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T04:31:11.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46423/usa-vs-mexico-2026-friendly-community-player-ratings"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-new-generation-beats-mexico-friendly/",
+      "team": "usmnt",
+      "title": "USMNT's new generation may not be polished yet, but it already knows how to beat Mexico",
+      "summary": "Cavan Sullivan made USMNT history as Mauricio Pochettino's new-look side produced a statement win",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T04:15:29.000Z",
+      "link": "https://www.cbssports.com/soccer/news/usmnts-new-generation-beats-mexico-friendly/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/brodie-ziemer-rw-ntdp-ushl-71oa-2024-univ-of-minnesota.2969994/",
+      "team": "sabres",
+      "title": "Brodie Ziemer, RW, NTDP (USHL) - 71OA, 2024; Univ. of Minnesota",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T04:14:22.000Z",
+      "link": "https://forums.hfboards.com/threads/brodie-ziemer-rw-ntdp-ushl-71oa-2024-univ-of-minnesota.2969994/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46403/tyler-adams-named-usmnt-captain",
+      "team": "usmnt",
+      "title": "Tyler Adams named USMNT captain",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T04:14:20.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46403/tyler-adams-named-usmnt-captain"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
@@ -188,8 +254,129 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-03T23:48:02.000Z",
+      "publishedAt": "2026-10-04T04:09:41.000Z",
       "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-new-and-improved-baseball-thread-2023-edition.2923566/",
+      "team": "sabres",
+      "title": "The New and Improved Baseball Thread 2023 Edition",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T04:08:26.000Z",
+      "link": "https://forums.hfboards.com/threads/the-new-and-improved-baseball-thread-2023-edition.2923566/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/",
+      "team": "sabres",
+      "title": "GM2 Sabres vs Blackhawks 7 PM - TV:MSG, ESPN+ Radio:WGR550 - Home Sweet Home Opener",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T03:28:51.000Z",
+      "link": "https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
+      "team": "sabres",
+      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T03:26:32.000Z",
+      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
+      "team": "sabres",
+      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T03:18:19.000Z",
+      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-analytics-data-stats-thread.3013853/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Analytics, Data, & Stats Thread",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T02:46:53.000Z",
+      "link": "https://forums.hfboards.com/threads/buffalo-sabres-analytics-data-stats-thread.3013853/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/luke-osburn-ld-wisconsin-ncaa-108oa-2024.2969995/",
+      "team": "sabres",
+      "title": "Luke Osburn- LD, Wisconsin (NCAA) - 108OA, 2024",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T02:31:55.000Z",
+      "link": "https://forums.hfboards.com/threads/luke-osburn-ld-wisconsin-ncaa-108oa-2024.2969995/"
+    },
+    {
+      "id": "espn-sabres::50096105",
+      "team": "sabres",
+      "title": "Carolina Hurricanes vs. Philadelphia Flyers: Game Highlights",
+      "summary": "Carolina Hurricanes vs. Philadelphia Flyers: Game Highlights",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T02:30:54Z",
+      "link": "https://www.espn.com/video/clip/_/id/50096105/game-highlights"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-rally-for-late-win-against-shorthanded-blackhawks/",
+      "team": "sabres",
+      "title": "Sabres rally for late win against shorthanded Blackhawks",
+      "summary": "Score: Buffalo Sabres 4, Chicago Blackhawks 3\n\n\n\nShots: Buffalo 28, Chicago 15\n\n\n\nBuffalo Sabres Goals: Quinn (Metsa); Thompson (Crevier, Norris); Dahlin (Krebs, Samuelsson); Kulich (Power, Thompson)\n\n\n\nChicago Blackhawks Goals: Donato (Vlasic, Lardis); Bertuzzi (Teravainen, Vlasic); Moore (Frondell, Vlasic)\n\n\n\nThe Buffalo Sabres sneak past the Chicago Blackhawks, who were down number one defenseman Bowen Byram and top player Connor Bedard, 4-3 in their first win of the season.\n\n\n\nFirst Period River Hockey\n\n\n\nThough they were pressured on the first shift, thanks in part to an amped-up Jordan Greenway, the Sabres dictated the pace for the first five minutes of the first. They had their legs ready early, and while they couldn’t cash in for an early lead, it led to a handful of scoring chances. \n\n\n\nThat early work would be for naught, though, as Ryan Donato would bury a chance past Ukko-Pekka Luukkonen at the 8:00 minute mark of the period to give the Blackhawks an early lead. Blackhawks defenseman Alex Vlasic carried the puck low, and while four Sabres were in the area of the crease, Vlasic was able to find the open space to set up for Donato, who made no mistake. \n\n\n\nThis goal did not discourage the Sabres, rather it seemed to invigorate them. The Benson-Ostlund-Quinn trio combined for a couple of high-quality chances, while the line of Ryan McLeod, Konsta Helenius, and Peyton Krebs generated a quick strike chance. This, once again, was all for naught. \n\n\n\nAt the 11:49 mark, just after their scoring chance they couldn’t capitalize on, that line, particularly Helenius and Krebs, helped contribute to yet another defensive blunder, as Tyler Bertuzzi was left all alone in the crease, able to bury the easiest tap-in a player can have, thanks to a feed from Teuvo Teravaianen. \n\n\n\nDespite the 2-0 hole they dug themselves, the Sabres kept pushing but couldn’t beat Blackhawks goalie Spencer Knight. Sabres captain Rasmus Dahlin was robbed once on a cross-ice feed from Quinn, then again on a chance in the high-slot a few seconds later, when the Blackhawks also benefited from an early whistle, as officials ruled Knight had the puck covered when he almost certainly did not. \n\n\n\nFinally, though, persistence paid off, as Quinn got the Sabres on the board on their 13th shot of the period. Quinn found space, carried the puck to the high slot, and using Blackhawks defenseman Kevin Korchinski as a screen, sniped the corner to cut the deficit to 2-1. While Zach Metsa got the lone assist, the goal wouldn’t have happened without a nice pinch by Louis Crevier, who used his reach to keep the play alive. \n\n\n\nWhile the score went into the first intermission at 2-1, the crowd did get one last thing to cheer about before the horn sounded, as Patrick Kane, who was met with a cacophony of boos the whole game, got lit up by Mattias Samuelsson in the dying seconds of the third. \n\n\n\nKnight was the story of the first for the Blackhawks, who had two xGoals of chances put on him and was able to allow only one. It was overall a very “River Hockey” type period with high paced play and defensive lapses. \n\n\n\nA full 60 (pages)\n\n\n\nThe Sabres came out firing in the second, generating a few shots in the first few minutes, and missing on a few others, with McLeod unable to center a pass to the slot and Quinn overskating a puck. Knight also made a nice glove save on Sam Carrick from the slot, then another on Quinn a couple minutes later. \n\n\n\nThe Sabres kept the pressure on and were rewarded with the equalizer just six minutes into the second. Thompson won a faceoff back to Crevier, who ripped a shot from the point that deflected off Thompson’s stick for his first of the season. \n\n\n\nThe Sabres were not satisfied with a tie, as the pressure continued relentlessly after the game was tied up. Knight had to keep his head in the game, quite literally, as he used his mask to deny Olen Zellweger of a potential go ahead goal. \n\n\n\nThe game hit a lull in the middle part of the second, as both teams defaulted to feeling each other out. The Blackhawks would get the game’s first power play almost 12 minutes into the frame, as Josh Doan committed a hooking penalty. The Sabres had a huge question mark over the head of their penalty kill after their first game, but they answered the bell on their first opportunity of the game, though Luukkonen did have to make a really nice save in tight as the Blackhawks power play expired. \n\n\n\nA flurry of chances, highlighted by Helenius being denied on a shot in tight off a behind the net feed by McLeod, still couldn’t give the Sabres the lead, though the constant pressure did give them their first power play of the game. \n\n\n\nAs has been the case for the past two seasons, the power play killed the momentum for the Sabres, as Thompson single handedly killed zone pressure on three separate occasions, one of which led to a breakaway that Luukkonen had to stop. The second unit got a nice look, but as the power play expired, the Blackhawks found themselves on a two-on-one rush with McLeod as the only Sabre back. Oliver Moore, who came out of the penalty box, made no mistake, as Luukkonen was unable to get enough to keep the puck out of the net, giving the Blackhawks the lead back, 3-2. \n\n\n\nIt’s a save the Sabres’ goalie could have made, but it was yet another opportunistic play by the Blackhawks, who preferred quality over quantity in this game, particularly in the period, where they only mustered four shots on goal. \n\n\n\nLock In and Lock Down\n\n\n\nThe third period started with an early Sabres power play, as local villain Kane found himself in the box, but as it stands there is no more efficient way to protect a lead than to give the Sabres a power play. \n\n\n\nThe Sabres then spent most of the third period attempting to carry the puck into the Blackhawks’ zone, only for them to get met at the blue line and have to chase the puck back. However, the breakthrough finally happened, off the stick of the captain, Rasmus Dahlin, thanks to a nice feed from Peyton Krebs on a counter-rush. Dahlin took the pass in the high slot and sniped it home to tie it up for the Sabres again. \n\n\n\nThe Sabres would have another great chance a few minutes later as Quinn found himself all alone in front of the net after Benson broke up a play at center ice to set him up. Quinn however slid the puck wide, unable to give the Sabres their first lead of the game. \n\n\n\nWhile it looked like the Sabres would get a late chance on the power play, as Cole Smith found himself in the box for tripping, Benson would answer with a tripping penalty of his own to put it at a four on four. Thankfully, this is advantageous for the Sabres.\n\n\n\nAt the end of a shift, Thompson and Kulich found themselves on a two-on-one, and while Kulich couldn’t bury the shot, he would get another chance. The puck found Owen Power, who found Kulich yet again, who made no mistake on his second opportunity, giving the Sabres the lead, 4-3, with his first of the season, with just 6:40 left on the clock. \n\n\n\nAfter taking the lead, the team locked in defensively, allowing the Blackhawks just one shot on goal after taking the lead. \n\n\n\nWrap Up\n\n\n\nAll in all, it was a bit of a sloppy game from the Sabres, but they were able to rally against an opponent that was missing their best forward and defenseman. But, they don’t ask how, they ask how many, and a number in the left column is exactly what the Sabres needed.\n\n\n\nOther notes\n\n\n\nThere were a few interesting lineup changes near the end of the game. Metsa played just one shift in the third period, and McLeod was flipped to the fourth line with Carrick and Beck Malenstyn. The group of them did not see the ice after taking the lead. Kulich was bumped up to play with Krebs and Helenius, who contributed to what would be the game winning goal. \n\n\n\nOn Kulich, he was clearly very emotional in his post game interview. It had to be a nice moment for him, from thinking he may never play hockey again to scoring a game winner. It should be the first of many he scores over the rest of his NHL career. \n\n\n\nBowen Byram will have to wait for his Buffalo homecoming moment, as he missed the game tending to a family matter. \n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-10-03: pic.twitter.com/yvH1ipaiBs&mdash; HockeyStatCards (@hockeystatcards) October 4, 2026\n\n\n\n\n\n🥲💙 pic.twitter.com/zbOD5sZbLY&mdash; The Charging Buffalo (@TheChargingBUF) October 4, 2026\n\n\n\n\nPhoto credit: Buffalo Sabres",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T02:15:19.000Z",
+      "link": "https://www.diebytheblade.com/sabres-rally-for-late-win-against-shorthanded-blackhawks/"
+    },
+    {
+      "id": "espn-sabres::50095979",
+      "team": "sabres",
+      "title": "Hurricanes beat the Flyers 3-2 in OT for their first win as Aho scores 2",
+      "summary": "— Sebastian Aho scored a pair of goals and assisted on Shayne Gostisbehere's overtime winner as the Carolina Hurricanes beat the Philadelphia Flyers 3-2 on Saturday night.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T02:14:32Z",
+      "link": "http://www.espn.com/nhl/recap?gameId=401892435"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141981/kani-walker-elevated-practice-squad-set-to-make-nfl-debut-vs-patriots",
+      "team": "bills",
+      "title": "Rookie CB Kani Walker set to make NFL debut vs. Patriots",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T00:36:18.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141981/kani-walker-elevated-practice-squad-set-to-make-nfl-debut-vs-patriots"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/141907/bills-game-day-recipe-buffalo-baked-beans-for-patriots",
+      "team": "bills",
+      "title": "Bills game day recipe: Buffalo Baked Beans for Patriots",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T00:18:01.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/141907/bills-game-day-recipe-buffalo-baked-beans-for-patriots"
     },
     {
       "id": "espn-bills::50051837",
@@ -201,28 +388,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T23:19:51Z",
       "link": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
-      "team": "sabres",
-      "title": "Around The NHL the Thread the Musical the Movie - 2026-27",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T22:47:22.000Z",
-      "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
-      "team": "sabres",
-      "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T21:37:36.000Z",
-      "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266739-bills-win-cannes-corporate-media-and-tv-award/",
@@ -267,17 +432,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T20:38:48.000Z",
       "link": "https://www.buffalohockeybeat.com/in-free-agency-patrick-kane-narrowed-choices-to-blackhawks-and-sabres/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
-      "team": "sabres",
-      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T20:38:03.000Z",
-      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
@@ -610,17 +764,6 @@
       "link": "https://forums.hfboards.com/threads/vasily-zelenov-rw-c-wisconsin-badgers-ncaa-204oa-2024.2970012/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/luke-osburn-ld-wisconsin-ncaa-108oa-2024.2969995/",
-      "team": "sabres",
-      "title": "Luke Osburn- LD, Wisconsin (NCAA) - 108OA, 2024",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T03:43:29.000Z",
-      "link": "https://forums.hfboards.com/threads/luke-osburn-ld-wisconsin-ncaa-108oa-2024.2969995/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-doan-rw-extended-7-years-6-95m-aav.3007403/",
       "team": "sabres",
       "title": "Josh Doan - RW - Extended 7 years, $6.95m AAV",
@@ -665,50 +808,6 @@
       "link": "https://forums.hfboards.com/threads/the-second-annual-old-navy-goat-draft-thread-2027-edition.3032987/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/",
-      "team": "sabres",
-      "title": "Melvin Novotny, LW, 195th overall; Heading to Muskegon (USHL) and then UMass in '26",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T02:35:54.000Z",
-      "link": "https://forums.hfboards.com/threads/melvin-novotny-lw-195th-overall-heading-to-muskegon-ushl-and-then-umass-in-26.3007822/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/matous-kucharcik-c-103rd-overall-2025-miami-of-ohio-2026-27.3007733/",
-      "team": "sabres",
-      "title": "Matous Kucharcik, C, 103rd overall, 2025; Miami of Ohio 2026-27",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T02:22:37.000Z",
-      "link": "https://forums.hfboards.com/threads/matous-kucharcik-c-103rd-overall-2025-miami-of-ohio-2026-27.3007733/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/",
-      "team": "sabres",
-      "title": "Ilia Morozov, LC, Miami University (NCAA) - 20OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T02:12:25.000Z",
-      "link": "https://forums.hfboards.com/threads/ilia-morozov-lc-miami-university-ncaa-20oa-2026.3032676/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/patrick-geary-ld-michigan-state-ncaa-172oa-2024.2970013/",
-      "team": "sabres",
-      "title": "Patrick Geary: LD, Michigan State (NCAA) -172OA, 2024",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T02:07:33.000Z",
-      "link": "https://forums.hfboards.com/threads/patrick-geary-ld-michigan-state-ncaa-172oa-2024.2970013/"
-    },
-    {
       "id": "espn-sabres::50087786",
       "team": "sabres",
       "title": "Washington Capitals vs. Carolina Hurricanes: Game Highlights",
@@ -729,28 +828,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T01:47:30Z",
       "link": "http://www.espn.com/nhl/recap?gameId=401892432"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46403/tyler-adams-named-usmnt-captain",
-      "team": "usmnt",
-      "title": "Tyler Adams named USMNT captain",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T00:07:17.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/46403/tyler-adams-named-usmnt-captain"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141786/5-buffalo-bills-to-watch-vs-the-new-england-patriots",
-      "team": "bills",
-      "title": "5 Buffalo Bills to watch vs. the New England Patriots",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 2,
-      "publishedAt": "2026-10-02T22:15:15.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141786/5-buffalo-bills-to-watch-vs-the-new-england-patriots"
     },
     {
       "id": "espn-bills::50086465",
@@ -797,15 +874,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141883/does-scoring-before-the-end-of-the-half-correlate-to-winning-games"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141684/bills-news-dt-dewayne-carter-is-living-up-to-his-potential-in-his-third-season",
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-new-england-patriots-where-to-watch-stream-and-listen-week-4",
       "team": "bills",
-      "title": "Bills news: DT DeWayne Carter is living up to his potential in his third season",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T18:16:31.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141684/bills-news-dt-dewayne-carter-is-living-up-to-his-potential-in-his-third-season"
+      "title": "Buffalo Bills vs. New England Patriots | Where to watch, stream and listen | Week 4",
+      "summary": "TV Channel, Streaming and Radio for Bills vs. Chargers",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-02T18:40:31.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-vs-new-england-patriots-where-to-watch-stream-and-listen-week-4"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-newcomer-olen-zellweger-ready-to-play-after-suffering-concussion/",
@@ -896,6 +973,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266728-how-is-maxwell-hairston-doing/"
     },
     {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46346/usa-vs-mexico-2026-friendly-time-tv-schedule-streaming-and-lineups",
+      "team": "usmnt",
+      "title": "USA vs. Mexico, 2026 Friendly: Time, TV schedule, streaming and lineups",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-02T15:05:53.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46346/usa-vs-mexico-2026-friendly-time-tv-schedule-streaming-and-lineups"
+    },
+    {
       "id": "espn-bills::50053878",
       "team": "bills",
       "title": "NFL Week 4 betting guide: Analysis and top plays for Sunday's games",
@@ -916,17 +1004,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-02T13:54:32Z",
       "link": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
-    },
-    {
-      "id": "espn-sabres::50078529",
-      "team": "sabres",
-      "title": "NHL Tonight: Capitals face Hurricanes in a critical early-season clash",
-      "summary": "Both are expected to challenge for the Metro Division title. Plus, what to watch in the other four games, updated stat leaders and more.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T10:18:33Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50078529/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/months-after-trade-sabres-sign-louis-crevier-to-contract-extension/",
@@ -1015,17 +1092,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T19:12:56.000Z",
       "link": "https://www.starsandstripesfc.com/social-video-twitter/46332/usa-soccercast-episode-200-the-kids-make-an-impact"
-    },
-    {
-      "id": "espn-sabres::50077550",
-      "team": "sabres",
-      "title": "Fantasy hockey schedule hacks: Add more Bruins and Hurricanes to your team",
-      "summary": "The NHL schedule isn't equal, so use that to your advantage when setting your fantasy hockey lineups in October.",
-      "source": "ESPN · Victoria Matiash",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T18:32:42Z",
-      "link": "https://www.espn.com/fantasy/hockey/story/_/id/50077550/espn-nhl-fantasy-hockey-schedule-hacks-lineup-tips-october"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46325/previewing-usmnt-vs-mexico-a-friendly-with-everything-and-nothing-to-play-for",
@@ -1226,28 +1292,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnts-exciting-next-generation-mixed-results-win-chile-2026/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46278/usa-vs-chile-2026-friendly-community-player-ratings",
-      "team": "usmnt",
-      "title": "USA vs. Chile, 2026 Friendly: Community player ratings",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T02:50:38.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/46278/usa-vs-chile-2026-friendly-community-player-ratings"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46270/usmnt-4-2-chile-the-usa-battles-back-for-a-comeback-win",
-      "team": "usmnt",
-      "title": "USMNT 4-2 Chile: The USA battles back for a comeback win",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T02:18:01.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/46270/usmnt-4-2-chile-the-usa-battles-back-for-a-comeback-win"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-mauricio-pochettino-heaps-praise-young-stars-2026/",
       "team": "usmnt",
       "title": "USMNT's Mauricio Pochettino heaps praise on 'confident and cocky' rising stars",
@@ -1257,17 +1301,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-29T17:36:26.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnts-mauricio-pochettino-heaps-praise-young-stars-2026/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-waive-forward-for-assignment-to-rochester/",
-      "team": "sabres",
-      "title": "Sabres waive forward for assignment to Rochester",
-      "summary": "BUFFALO – The Sabres this afternoon placed winger Conor Sheary on waivers and will assign him to the Rochester Americans if he clears, the team announced.\nSheary, 34, returned to practice today after suffering an upper-body injury last week.\nUpdate: Sheary has cleared.\nThe Sabres brought back Sheary, who spent 2018-19 and most of 2019-20 in Buffalo, during the offseason, signing him to a one-year, one-way contract worth $850,000.\n\nSheary, who won the Stanley Cup ... Read the full article \nThe post Sabres waive forward for assignment to Rochester first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-29T16:40:50.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-waive-forward-for-assignment-to-rochester/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/predict-the-2026-27-buffalo-sabres/",
@@ -1433,17 +1466,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-23T00:38:38.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vs-blue-jackets-preseason-game-2-open-thread-and-how-to-watch/",
-      "team": "sabres",
-      "title": "Sabres vs Blue Jackets: Preseason Game 2 | Open Thread and How To Watch",
-      "summary": "The Buffalo Sabres will play the Columbus Blue Jackets tonight after a majority-Amerks side lost 4-1 last night to the Pittsburgh Penguins at the PPG Paints Arena. Expect to see a lineup that is more of what we will expect to start the season in October. \n\n\n\nBuffalo will play four preseason games in six days, and with players only allowed to play in two games per the new collective bargaining agreement, there will be lots of rotation and not many opportunities for players to make an impression on fans and the coaching staff. \n\n\n\nHow to Watch\n\n\n\nPuck Drop: 7:00 pm\n\n\n\nStreaming: Sabres.com\n\n\n\nRadio: WGR 550\n\n\n\nTonight’s roster\n\n\n\nForwards: Zach Benson, Sam Carrick, Josh Doan, Konsta Helenius, Peyton Krebs, Jiri Kulich, Beck Malenstyn, Ryan McLeod, Josh Norris, Noah Ostlund, Jack Quinn, Tage Thompson\n\n\n\nDefensemen: Louis Crevier, Rasmus Dahlin, Owen Power, Mattias Samuelsson, Conor Timmins, Olen Zellweger\n\n\n\nGoaltenders: Colten Ellis, Ukko-Pekka Luukkonen",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-22T20:00:00.000Z",
-      "link": "https://www.diebytheblade.com/sabres-vs-blue-jackets-preseason-game-2-open-thread-and-how-to-watch/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266187-move-over-robert-kraft-jed-york-has-entered-the-prostitution-game/",
