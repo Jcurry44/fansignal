@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T16:51:17.183Z",
+  "generatedAt": "2026-10-04T19:56:25.316Z",
   "sources": [
     {
       "id": "bills-official",
@@ -40,8 +40,8 @@
       "id": "twobillsdrive",
       "label": "TwoBillsDrive",
       "team": "bills",
-      "itemCount": 20,
-      "error": null
+      "itemCount": 0,
+      "error": "fetch failed"
     },
     {
       "id": "espn-sabres",
@@ -146,8 +146,8 @@
     {
       "team": "bills",
       "state": "upcoming",
-      "headline": "Sun 1:00 PM",
-      "detail": "vs NE"
+      "headline": "Mon 8:15 PM",
+      "detail": "at LAR"
     },
     {
       "team": "sabres",
@@ -170,17 +170,6 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
-      "team": "sabres",
-      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T16:48:22.000Z",
-      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/",
       "team": "sabres",
       "title": "Week 4: NE Patriots (1-2) @ Buffalo (3-0), Sun. 10/4 @ 1:00PM on CBS",
@@ -188,30 +177,52 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-04T16:45:52.000Z",
+      "publishedAt": "2026-10-04T19:53:51.000Z",
       "link": "https://forums.hfboards.com/threads/week-4-ne-patriots-1-2-buffalo-3-0-sun-10-4-1-00pm-on-cbs.3036731/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
-      "team": "sabres",
-      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
+      "id": "espn-bills::50063176",
+      "team": "bills",
+      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-10-04T16:41:07.000Z",
-      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
+      "publishedAt": "2026-10-04T19:29:26Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142037/buffalo-bills-vs-new-england-patriots-nfl-week-4-fan-discussion",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/142021/bills-injuries-2026-in-game-updates-vs-patriots",
       "team": "bills",
-      "title": "Buffalo Bills vs. New England Patriots, NFL Week 4 fan discussion",
+      "title": "Bills injuries 2026: In-game updates vs. Patriots",
       "summary": "",
       "source": "Buffalo Rumblings",
       "sourceType": "blog",
-      "sourceCount": 2,
-      "publishedAt": "2026-10-04T16:35:13.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142037/buffalo-bills-vs-new-england-patriots-nfl-week-4-fan-discussion"
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T19:25:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/142021/bills-injuries-2026-in-game-updates-vs-patriots"
+    },
+    {
+      "id": "espn-bills::50101817",
+      "team": "bills",
+      "title": "Bills WR DJ Moore doubtful to return after injuring shoulder",
+      "summary": "Bills wide receiver DJ Moore is doubtful to return for the second half against the Patriots due to a shoulder injury.",
+      "source": "ESPN · Nick Suss",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T19:16:40Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50101817/bills-wr-dj-moore-doubtful-return-injuring-shoulder"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-issue-injury-updates-on-ed-oliver-and-dee-alford",
+      "team": "bills",
+      "title": "Bills issue injury updates on Ed Oliver and Dee Alford",
+      "summary": "DL Ed Oliver (knee) and CB Dee Alford (ankle) are questionable to return to Sunday's game against the Patriots",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T19:07:56.000Z",
+      "link": "https://www.buffalobills.com/news/bills-issue-injury-updates-on-ed-oliver-and-dee-alford"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
@@ -221,8 +232,96 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-04T16:28:13.000Z",
+      "publishedAt": "2026-10-04T18:36:26.000Z",
       "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
+      "team": "sabres",
+      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T18:33:10.000Z",
+      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142046/josh-allen-sets-buffalo-bills-franchise-touchdown-record",
+      "team": "bills",
+      "title": "Josh Allen sets Buffalo Bills franchise touchdown record",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T18:24:08.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/142046/josh-allen-sets-buffalo-bills-franchise-touchdown-record"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-issue-injury-update-on-wr-dj-moore-vs-patriots-week-4",
+      "team": "bills",
+      "title": "Bills issue injury update on WR DJ Moore vs. Patriots Week 4",
+      "summary": "Moore left the game late in the second quarter",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T18:22:41.000Z",
+      "link": "https://www.buffalobills.com/news/bills-issue-injury-update-on-wr-dj-moore-vs-patriots-week-4"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45889/usa-vs-canada-2026-usmnt-friendly-scouting-canada",
+      "team": "usmnt",
+      "title": "USA vs. Canada, 2026 USMNT Friendly: Scouting Canada",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T18:18:11.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt/45889/usa-vs-canada-2026-usmnt-friendly-scouting-canada"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
+      "team": "sabres",
+      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T17:47:44.000Z",
+      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
+      "team": "sabres",
+      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T17:36:39.000Z",
+      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-kulich-has-arisen-game-2-sabres-4-hawks-3.3038380/",
+      "team": "sabres",
+      "title": "The Good, the Bad, and the Ugly - Kulich Has Arisen; Game 2, Sabres 4 - Hawks 3",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T17:15:56.000Z",
+      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-kulich-has-arisen-game-2-sabres-4-hawks-3.3038380/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142037/buffalo-bills-vs-new-england-patriots-nfl-week-4-fan-discussion",
+      "team": "bills",
+      "title": "Buffalo Bills vs. New England Patriots, NFL Week 4 fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-04T16:53:23.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142037/buffalo-bills-vs-new-england-patriots-nfl-week-4-fan-discussion"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/",
@@ -234,17 +333,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-04T16:22:21.000Z",
       "link": "https://forums.hfboards.com/threads/jack-quinn-rw-8th-overall-2020.2857538/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-kulich-has-arisen-game-2-sabres-4-hawks-3.3038380/",
-      "team": "sabres",
-      "title": "The Good, the Bad, and the Ugly - Kulich Has Arisen; Game 2, Sabres 4 - Hawks 3",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T16:15:07.000Z",
-      "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-kulich-has-arisen-game-2-sabres-4-hawks-3.3038380/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/gm2-sabres-vs-blackhawks-7-pm-tv-msg-espn-radio-wgr550-home-sweet-home-opener.3038324/",
@@ -291,17 +379,6 @@
       "link": "https://forums.hfboards.com/threads/matous-kucharcik-c-103rd-overall-2025-miami-of-ohio-2026-27.3007733/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266744-gameday-10426-week-4-bills-vs-patriots-1pm-1st-half-thread/",
-      "team": "bills",
-      "title": "GAMEDAY 10/4/26 Week 4 Bills vs. Patriots* 1:pm 1st Half Thread",
-      "summary": "Go Bills!!!\n\n\n\n\t \n\n\n\n\tTime to put the Pats* in a deep hole.\n\n\n\n\t \n\n\n\n\tPost your thoughts about the 1st half of the game here.\n\n\n\n\t \n\n\n\n\tThread set to automatically open at 12:59 PM and will be locked during the half (2nd half thread opened)\n\n\n\n\t \n\n\n\n\tHave fun and Go Buffalo!!!!!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T14:23:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266744-gameday-10426-week-4-bills-vs-patriots-1pm-1st-half-thread/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-new-generation-beats-mexico-friendly/",
       "team": "usmnt",
       "title": "USMNT's new generation may not be polished yet, but it already knows how to beat Mexico",
@@ -311,17 +388,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-04T14:15:16.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnts-new-generation-beats-mexico-friendly/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266743-10426-around-the-nfl-games-other-than-bills-vs-pats/",
-      "team": "bills",
-      "title": "10/4/26 Around the NFL - Games other than Bills vs. Pats",
-      "summary": "Let’s start the day with some coffee and football in London: \n\n\n\n\tLooks like Indiana Jones is no more and the Dan Jones we know and love is back.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T13:39:45.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266743-10426-around-the-nfl-games-other-than-bills-vs-pats/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-analytics-data-stats-thread.3013853/",
@@ -379,17 +445,6 @@
       "link": "https://forums.hfboards.com/threads/general-special-teams-conversation-thread.3013035/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266742-fantasy-week-4-help/",
-      "team": "bills",
-      "title": "Fantasy Week 4 HELP!",
-      "summary": "Another week with a dilemma.\n\n\n\n\t \n\n\n\n\tViable options for RB/RB/WR/WR/WRT:\n\n\n\n\tRB: James Cook, Jeremiyah Love, Chuba Hubbard, Cam Skattebo\n\n\n\n\tWR: Davante Adams, Josh Downs, DJ Moore\n\n\n\n\t \n\n\n\n\tHow would YOU use those 7 players in 5 slots?\n\n\n\n\t \n\n\n\n\tRight now, I have Cook/Love/Adams/Downs/Hubbard.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T11:46:49.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266742-fantasy-week-4-help/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142012/buffalo-bills-can-do-damage-to-patriots-in-week-4-goes-beyond-afc-east-standings-drake-maye-mike-vrabel",
       "team": "bills",
       "title": "The damage Buffalo Bills can do to Patriots in Week 4 would go beyond the AFC East standings",
@@ -432,17 +487,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-04T10:00:15Z",
       "link": "https://www.espn.com/nfl/story/_/id/50080901/super-bowl-top-10-upsets-patriots-jets-giants"
-    },
-    {
-      "id": "espn-bills::50053878",
-      "team": "bills",
-      "title": "NFL Week 4 betting guide: Analysis and top plays for Sunday's games",
-      "summary": "Our experts dive into the odds and player props for Week 4 and offer their betting tips and favorite plays.",
-      "source": "ESPN · Ben Solak, Seth Walder and Matt Bowen",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T06:00:37Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50053878/week-4-nfl-odds-spreads-lines-props-best-bets-sunday-football-games"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jiri-kulich-scores-game-winning-goal-versus-blackhawks-after-return-from-blood-clot-lot-of-emotions/",
@@ -621,17 +665,6 @@
       "link": "https://www.buffalohockeybeat.com/in-free-agency-patrick-kane-narrowed-choices-to-blackhawks-and-sabres/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T20:03:05.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-elevate-two-defensive-backs-for-week-4-vs-patriots",
       "team": "bills",
       "title": "Bills elevate two defensive backs for Week 4 vs. Patriots",
@@ -652,39 +685,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-03T19:59:08.000Z",
       "link": "https://www.diebytheblade.com/game-2-preview-open-thread-blackhawks-at-sabres/"
-    },
-    {
-      "id": "espn-bills::50063176",
-      "team": "bills",
-      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T19:46:43Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/141951/buffalo-bills-trending-up-trending-down-ahead-of-week-4-game-vs-patriots",
-      "team": "bills",
-      "title": "Buffalo Bills trending up, trending down ahead of Week 4 game vs. Patriots",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T19:31:57.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/141951/buffalo-bills-trending-up-trending-down-ahead-of-week-4-game-vs-patriots"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/141965/buffalo-bills-joe-andreessen-agree-to-two-year-extension",
-      "team": "bills",
-      "title": "Buffalo Bills, Joe Andreessen agree to two-year extension",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T18:38:53.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/141965/buffalo-bills-joe-andreessen-agree-to-two-year-extension"
     },
     {
       "id": "espn-sabres::50085730",
@@ -808,17 +808,6 @@
       "link": "https://bandits.com/bandits-2026-27-home-opener-set-for-nov-28/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266737-joe-andreessen-extended/",
-      "team": "bills",
-      "title": "Joe Andreessen extended",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-03T16:16:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266737-joe-andreessen-extended/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-become-first-nfl-team-to-win-cannes-corporate-media-tv-award-with-josh-allen-mvp-reaction-video",
       "team": "bills",
       "title": "Buffalo Bills become first NFL team to win Cannes Corporate Media & TV Award with Josh Allen MVP reaction video",
@@ -929,28 +918,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-patriots-week-4"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266732-no-gonzalez-or-barmore-this-weekend/",
-      "team": "bills",
-      "title": "No Gonzalez or Barmore this weekend",
-      "summary": "Not sure if this should be a separate thread or within the discussion about this week. Felt like big enough names that it could be broken out.\n\n\n\n\t \n\n\n\n\tThis one is going to get ugly.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T18:04:31.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266732-no-gonzalez-or-barmore-this-weekend/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266731-plays-wed-like-to-see-sunday/",
-      "team": "bills",
-      "title": "Plays we'd like to see Sunday",
-      "summary": "Something to talk about while we wait for Sunday: What plays, offensive or defense, would you like to see the Bills run against New England?\n\n\n\n\t \n\n\n\n\tMe, I'd like to see fake tush push on third and inches. With all four tight ends in, toss it to Latu who fakes a tight block and leaks out into the flat. First downs are nice, but big gains are nicer. \n\n\n\n\t \n\n\n\n\tWhat do you got?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T17:52:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266731-plays-wed-like-to-see-sunday/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46343/usa-vs-chile-2026-friendly-man-of-the-match",
       "team": "usmnt",
       "title": "USA vs. Chile, 2026 Friendly: Man of the Match",
@@ -971,28 +938,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-02T17:04:05.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/45992/usmnt-midweek-roundup-the-kids-keep-rolling"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266729-tony-romo-out-at-cbs/",
-      "team": "bills",
-      "title": "Tony Romo out at CBS",
-      "summary": "https://www.sportsmediawatch.com/2026/10/tony-romo-leaving-cbs-mutually-parts-ways/ \n\n\n\n\tFirst time I've posted breaking news",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T16:23:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266729-tony-romo-out-at-cbs/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266728-how-is-maxwell-hairston-doing/",
-      "team": "bills",
-      "title": "How is Maxwell Hairston doing?",
-      "summary": "Allowing the 2nd lowest completion % in the NFL.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T16:13:17.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266728-how-is-maxwell-hairston-doing/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46346/usa-vs-mexico-2026-friendly-time-tv-schedule-streaming-and-lineups",
@@ -1028,28 +973,6 @@
       "link": "https://www.diebytheblade.com/sabres-cannonballed-by-columbus-fall-6-3/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266726-apparently-some-teams-do-get-screwed-by-the-refs-more-than-other-teams/",
-      "team": "bills",
-      "title": "Apparently Some Teams do get screwed by the refs more than other teams.",
-      "summary": "Do we think this is true, or just fake internet analysis",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-02T00:46:49.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266726-apparently-some-teams-do-get-screwed-by-the-refs-more-than-other-teams/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266725-tnf-steelers-at-browns-no-bills-stuff-please/",
-      "team": "bills",
-      "title": "TNF: Steelers at Browns (No Bills stuff please)",
-      "summary": "TNF!\n\t \n\n\n\n\t“football” but it’s these teams. Go Sabres! I would have on multi view but hockey game is blacked out in Cbus. So I have to listen to Deshaun drone on in an interview about  how he and the city of Cleveland are frenemies while he’s clearly just checking out Taylor Rooks. \n\n\n\n\t\n\tanyway - who ya got. Steelers favored by 2. Browns haven’t lost at home on a Thursday since 2008.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T23:40:01.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266725-tnf-steelers-at-browns-no-bills-stuff-please/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/it-was-crazy-t-j-sanders-details-appendectomy-as-he-makes-his-return-to-bills-practice",
       "team": "bills",
       "title": "'It was crazy' | T.J. Sanders details appendectomy as he makes his return to Bills practice",
@@ -1081,17 +1004,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-01T20:13:30.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-sign-defenseman-louis-crevier-to-four-year-extension/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266724-letter-from-levi-wallace-talking-about-what-he-went-through-to-play-football-throughout-the-years/",
-      "team": "bills",
-      "title": "Letter from Levi Wallace talking about what he went through to play football throughout the years",
-      "summary": "Kind of a neat article for those of you who subscribe to the Athletic.  It's a letter written by Levi Wallace's mind to his body, kind of apologizing to his body for the things he put his body through to play football.  Below is the first and last couple of paragraphs, starts out from when he first played flag football at age 5 up until he decided to retire. \n\n\n\n\t \n\n\n\n\tArticle was called \"Here's the truth from a retiring NFL player\"\n\n\n\n\t \n\n\n\n\tDear Body,\n\n\n\n\tThe time has finally come for me to acknowledge that we are in agreement. It is time for us to call it quits.\n\n\n\n\t \n\n\n\n\tI owe you a letter that tells the truth. Not the highlight version. The real one. The version where people saw us on Sundays but never saw what it took to get there.\n\n\n\n\t \n\n\n\n\t..........\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tSomewhere along the way, we learned how to carry each other, Body and Mind.\n\n\n\n\t \n\n\n\n\tTruth be told, Body, I wouldn’t change a thing. I’d put us through it all over again. Because I know what we are capable of.\n\n\n\n\t \n\n\n\n\tI know what God built us to endure.\n\n\n\n\t \n\n\n\n\tI know we can handle it together.\n\n\n\n\t \n\n\n\n\tSincerely,\n\n\n\n\tLevi Wallace’s Mind\n\n\n\n\t \n\n\n\n\t \n\n\n\n\thttps://www.nytimes.com/athletic/7646085/2026/10/01/levi-wallace-nfl-retirement-letter/",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T19:42:36.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266724-letter-from-levi-wallace-talking-about-what-he-went-through-to-play-football-throughout-the-years/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/social-video-twitter/46332/usa-soccercast-episode-200-the-kids-make-an-impact",
@@ -1171,72 +1083,6 @@
       "link": "https://www.buffalohockeybeat.com/with-olen-zellweger-out-sabres-could-recall-defenseman-for-opener/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45879/usa-vs-mexico-2026-usmnt-friendly-scouting-mexico",
-      "team": "usmnt",
-      "title": "USA vs. Mexico, 2026 USMNT Friendly: Scouting Mexico",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T03:14:56.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/45879/usa-vs-mexico-2026-usmnt-friendly-scouting-mexico"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266718-week-4-cheats-v-bills-predict-the-score/",
-      "team": "bills",
-      "title": "Week 4, Cheats v. Bills, PREDICT THE SCORE!",
-      "summary": "The hated 1-2 Cheats come into Highmark this Sunday to take on the 3-0 Bills.  Will the Bills again play down to the competition?  Will Drake \"Meh\" snap out of his funk to return to the form that took the Cheats to the Super Bowl last year?\n\t\n\tNo and no.  With the division on the line and the ability to put the Cheats three games back, the Bills will rise up and smite them.  Greg Rousseau is going to make Drake \"Meh\" have a miserable day.  I see the Bills getting at least two interceptions and doubling up the Cheats:\n\n\n\n\t \n\n\n\n\tMutha *****in' Cheaters - 17\n\n\n\n\tBeews - 34\n\n\n\n\t \n\n\n\n\tPrevious winners:\n\n\n\n\t \n\n\n\n\tWeek 1 - @colin\n\n\n\n\tWeek 2 - @Freddie's Dead, @HappyDays, @Big Turk\n\n\n\n\tWeek 3 - @Robert Paulson",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T02:03:19.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266718-week-4-cheats-v-bills-predict-the-score/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/a-hard-team-to-game-plan-for-bills-prepare-for-the-new-england-patriots-after-uneven-week-3-outing",
-      "team": "bills",
-      "title": "'A hard team to game plan for' | Bills prepare for the New England Patriots after uneven Week 3 outing",
-      "summary": "Bouncing back after a bumpy win, the strengths of a struggling Patriot squad, and injury updates",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T01:32:42.000Z",
-      "link": "https://www.buffalobills.com/news/a-hard-team-to-game-plan-for-bills-prepare-for-the-new-england-patriots-after-uneven-week-3-outing"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266717-natasha-bedingfield-playing-halftime/",
-      "team": "bills",
-      "title": "Natasha Bedingfield playing halftime",
-      "summary": "How many tough guys on here are going to pretend that they aren’t really excited for this?!? 🤣🤣",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T00:36:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266717-natasha-bedingfield-playing-halftime/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-4-vs-patriots",
-      "team": "bills",
-      "title": "What Bills fans can expect at Highmark Stadium for Week 4 vs. Patriots",
-      "summary": "Legend of the Game, Halftime Presentation and more for Bills vs. Patriots at Highmark Stadium",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "link": "https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-4-vs-patriots"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266714-meanwhile-meathead-and-maye-have-some-friction/",
-      "team": "bills",
-      "title": "Meanwhile, Meathead and Maye have some friction.",
-      "summary": "https://sports.yahoo.com/articles/mike-vrabel-downplays-report-issues-180217589.html\n\t \n\n\n\n\tPlus, possible issues with Drake having shoulder issues but Meathead not adding him to injury report.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-30T19:16:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266714-meanwhile-meathead-and-maye-have-some-friction/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-uwcl-once-again-takes-center-stage-as-arsenal-chelsea-barcelona-and-more-battle-in-europe/",
       "team": "usmnt",
       "title": "Footy Fix: UWCL once again takes center stage as Arsenal, Chelsea, Barcelona and more battle in Europe",
@@ -1312,28 +1158,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-28T11:00:00.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-28/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266663-game-week-thread-patriots-at-bills/",
-      "team": "bills",
-      "title": "Game week thread - Patriots at Bills",
-      "summary": "This game is huge!\n\n\n\n\t \n\n\n\n\tWin this game and we’re 3.5 games up on the Patriots just a quarter into the season.\n\n\n\n\t \n\n\n\n\tOkay fellas, time to put the ball down, and take it to the Patriots! Bury the Pats!\n\n\n\n\t \n\n\n\n\tGo Bills!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T23:19:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266663-game-week-thread-patriots-at-bills/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266657-james-cook-you-hate-him-you-love-him/",
-      "team": "bills",
-      "title": "James Cook  - You hate him, you love him",
-      "summary": "1st play of the game, he fumbled. Now you remember he fumbled in Houston game (we recovered). He fumbled in the Denver playoff game, which was still a turning point of the game for me.\n\n\n\n\t \n\n\n\n\tBut despite his goofy, indifferent appearance, he does care. You see he cheered the defense making a stop. And then he just took over late 4th quarter, pretty much the main force to get the Bills the lead and expand the lead, as well as a minor icing of the game.\n\n\n\n\t \n\n\n\n\tHe's 27. I'm not sure he's going to change. We can't live with him on those mistakes, but we also can't live without him to drive the offense, sort of what we had with Allen before he matured. \n\n\n\n\t \n\n\n\n\t BTW, James, please have both hands on the ball the last few carries you had - I just don't like to hold on my breath too much in those situations.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-27T21:24:50.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266657-james-cook-you-hate-him-you-love-him/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-new-look-attack-mauricio-pochettino-impactful-veterans/",
@@ -1422,39 +1246,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-23T12:00:00.000Z",
       "link": "https://www.diebytheblade.com/dbtb-makes-three-free-agent-additions/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/",
-      "team": "bills",
-      "title": "Marvin Harrison Jr - what is going on in Arizona?",
-      "summary": "Couple things.  \n\t \n\n\n\n\tIs he a bust?  Would you want him?  Be mad if New England did? \n\t \n\n\n\n\tAnd, would he be an upgrade over Keon - that is a serious question.  Im not so sure - if Keon is emerging thru the adversity he’s dealt with here there is something to be said about that and he just might be a good fit for what we’re doing.  3rd year breakout could be in progress with him.  \n\t \n\n\n\n\tBut what’s happening here in Arizona is a significant developing situation and if it continues and they lose games trade talk is going to heat up come mid October.  Maybe it’s just the 2 defenses they faced but none of this looks good.  Plenty of film shows he’s not going full speed.  But there is a lot of film of him getting open.   \n\t \n\n\n\n\tMy take is Brissett is awful and either checks down to McBride or just trusts Wilson and is his first read every time.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-23T00:38:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266187-move-over-robert-kraft-jed-york-has-entered-the-prostitution-game/",
-      "team": "bills",
-      "title": "Move over Robert Kraft, Jed York has entered the prostitution game.",
-      "summary": "https://www.kron4.com/news/bay-area/49ers-ceo-jed-york-arrested/amp/\n\t \n\n\n\n\t49ers owner, Jed York arrested in Ohio.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T15:33:54.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266187-move-over-robert-kraft-jed-york-has-entered-the-prostitution-game/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/260177-the-tyreek-hill-thread-now-released/",
-      "team": "bills",
-      "title": "The Tyreek Hill Thread (now released)",
-      "summary": "https://www.reddit.com/r/miamidolphins/s/q6FImbXQmh\n\n\n\n\t \n\n\n\n\tHe likes us…he really likes us.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2025-05-28T16:33:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/260177-the-tyreek-hill-thread-now-released/"
     }
   ]
 }
