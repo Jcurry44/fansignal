@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:13:28.131Z",
+  "generatedAt": "2026-10-06T10:28:49.426Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -170,6 +170,39 @@
   ],
   "stories": [
     {
+      "id": "espn-bills::50109845",
+      "team": "bills",
+      "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 5",
+      "summary": "How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T10:22:12Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
+      "team": "sabres",
+      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T09:31:44.000Z",
+      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
+      "team": "sabres",
+      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T09:08:06.000Z",
+      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
+    },
+    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
       "team": "sabres",
       "title": "Around The NHL the Thread the Musical the Movie - 2026-27",
@@ -177,8 +210,30 @@
       "source": "HFBoards",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-06T02:40:35.000Z",
+      "publishedAt": "2026-10-06T05:56:19.000Z",
       "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46494/usmnt-to-face-haiti-in-concacaf-nations-league-quarterfinals",
+      "team": "usmnt",
+      "title": "USMNT to face Haiti in Concacaf Nations League Quarterfinals",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T04:05:52.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46494/usmnt-to-face-haiti-in-concacaf-nations-league-quarterfinals"
+    },
+    {
+      "id": "hfboards-sabres::https://forums.hfboards.com/threads/info-for-fans-visiting-buffalo.326682/",
+      "team": "sabres",
+      "title": "Info for fans visiting Buffalo",
+      "summary": "",
+      "source": "HFBoards",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T03:42:03.000Z",
+      "link": "https://forums.hfboards.com/threads/info-for-fans-visiting-buffalo.326682/"
     },
     {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-americans-home-opener-10-02-26-working-arrangement-with-orlando-echl.3030463/",
@@ -190,17 +245,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-06T02:30:40.000Z",
       "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-americans-home-opener-10-02-26-working-arrangement-with-orlando-echl.3030463/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/bruins-peterka-crashes-into-ullmark-after-being-tripped-up-on-fast-break/",
-      "team": "sabres",
-      "title": "Bruins’ Peterka crashes into Ullmark after being tripped up on fast break",
-      "summary": "Watch as Boston Bruins’ JJ Peterka crashes into Ottawa Senators goalie Linus Ullmark after being tripped up by Thomas Chabot on a fast break chance.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-06T02:04:09.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/bruins-peterka-crashes-into-ullmark-after-being-tripped-up-on-fast-break/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266808-game-week-thread-bills-at-rams-mnf/",
@@ -258,17 +302,6 @@
       "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
-      "team": "sabres",
-      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-06T01:02:35.000Z",
-      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
-    },
-    {
       "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-kulich-has-arisen-game-2-sabres-4-hawks-3.3038380/",
       "team": "sabres",
       "title": "The Good, the Bad, and the Ugly - Kulich Has Arisen; Game 2, Sabres 4 - Hawks 3",
@@ -278,17 +311,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-06T00:57:18.000Z",
       "link": "https://forums.hfboards.com/threads/the-good-the-bad-and-the-ugly-kulich-has-arisen-game-2-sabres-4-hawks-3.3038380/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266806-some-light-entertainment-from-jeopardy/",
-      "team": "bills",
-      "title": "Some light entertainment from Jeopardy",
-      "summary": "https://www.facebook.com/reel/2324904251594029",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-06T00:53:47.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266806-some-light-entertainment-from-jeopardy/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142168/buffalo-bills-new-england-patriots-no-game-ball-this-week-in-fact-we-may-need-a-few-back",
@@ -322,17 +344,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-05T23:50:50Z",
       "link": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/info-for-fans-visiting-buffalo.326682/",
-      "team": "sabres",
-      "title": "Info for fans visiting Buffalo",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-05T23:38:25.000Z",
-      "link": "https://forums.hfboards.com/threads/info-for-fans-visiting-buffalo.326682/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266805-refs-intervening-at-historic-highs/",
@@ -443,17 +454,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-05T20:00:36.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266801-the-noise-at-highmark-has-its-pros-and-cons/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/",
-      "team": "sabres",
-      "title": "Daxon Rudolph, RHD, Prince Albert Raiders (WHL), Heading to Denver (NCAA) - 4OA, 2026",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-05T19:55:43.000Z",
-      "link": "https://forums.hfboards.com/threads/daxon-rudolph-rhd-prince-albert-raiders-whl-heading-to-denver-ncaa-4oa-2026.3032673/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266800-3-nickel-cornerbacks-on-the-team-all-3-nickel-cornerbacks-injured/",
@@ -632,6 +632,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266787-lack-of-consistent-running-game/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266786-gunslinger-josh-can-he-be-reigned-in/",
+      "team": "bills",
+      "title": "Gunslinger Josh - Can he be reigned in?",
+      "summary": "I will preface this by saying Josh will go down as the Bills greatest QB ever. That being said…\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tI think if the coaches and Josh himself wanted to work on his “situational awareness”, he could raise his game to another level. \n\t \n\n\n\n\tMoments like the interception at the end of the game, and the backwards blind underhand toss at his own goal line should not be viewed as “have to take the bad with the good”.  Not by Josh, not by the coaches, and not by the fans. \n\t \n\n\n\n\tVery disappointing, but I really wonder at this point in his career, if this part of his game will ever improve.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-05T14:19:07.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266786-gunslinger-josh-can-he-be-reigned-in/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266785-hairston-trade-thought-to-ponder/",
       "team": "bills",
       "title": "Hairston trade thought to ponder",
@@ -641,17 +652,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-05T14:06:43.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266785-hairston-trade-thought-to-ponder/"
-    },
-    {
-      "id": "espn-bills::50109126",
-      "team": "bills",
-      "title": "C.J. Gardner-Johnson: Efton Chism III is a 'practice squad player' who 'made a hell of a catch'",
-      "summary": "C.J. Gardner-Johnson dismissed Efton Chism III as a \"practice squad player\" and said the Patriots WR's one-handed TD catch \"probably\" will never happen again.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-05T13:50:45Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50109126/cj-gardner-johnson-efton-chism-iii-practice-squad-player-made-helluva-catch"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266783-defensive-nucleus/",
@@ -861,6 +861,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-04T15:08:51.000Z",
       "link": "https://forums.hfboards.com/threads/matous-kucharcik-c-103rd-overall-2025-miami-of-ohio-2026-27.3007733/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266746-gameday-10426-week-4-bills-vs-patriots-1pm-post-game-thread/",
+      "team": "bills",
+      "title": "GAMEDAY 10/4/26 Week 4 Bills vs. Patriots* 1:pm Post Game Thread",
+      "summary": "Bills 26 Pats* 29\n\n\n\n\t \n\n\n\n\tsometimes Josh Allen is his own worst enemy. \n\n\n\n\t \n\n\n\n\tGo Bills!!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T14:26:38.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266746-gameday-10426-week-4-bills-vs-patriots-1pm-post-game-thread/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-new-generation-beats-mexico-friendly/",
@@ -1336,17 +1347,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-sign-defenseman-louis-crevier-to-four-year-extension/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46325/previewing-usmnt-vs-mexico-a-friendly-with-everything-and-nothing-to-play-for",
-      "team": "usmnt",
-      "title": "Previewing USMNT vs. Mexico: A friendly with everything and nothing to play for",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-01T17:43:05.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/46325/previewing-usmnt-vs-mexico-a-friendly-with-everything-and-nothing-to-play-for"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-recall-veteran-from-rochester-amerks-before-opener/",
       "team": "sabres",
       "title": "Sabres recall veteran from Rochester Amerks before opener",
@@ -1422,17 +1422,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-28T18:07:42.000Z",
       "link": "https://www.cbssports.com/soccer/news/footy-fix-international-break-rolls-on-as-usmnt-youth-movement-is-in-full-swing/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266670-bills-cb-depth-issue-is-a-real-problem-now/",
-      "team": "bills",
-      "title": "Bills CB depth issue is a real problem now",
-      "summary": "The Bills probably need to do something at CB because if Benford has turf toe, 4-6-week IR seems like a very real possibility, with the kicker being that Hancock is on IR too. If Alford swings over to boundary, they don’t have a nickel. I wonder if they have any interest in Tre White. I am guessing no, but who knows. They don’t really have real depth on the practice squad, as far as I can tell.\n\n\n\n\t \n\n\n\n\tFrom Joe B in The Athletic (https://www.nytimes.com/athletic/7638292/2026/09/28/bills-chargers-turnovers-win-josh-allen-joe-brady/ ) :\n\t \n\n\n\n\t‘Benford injury looms large\n\n\n\n\t \n\n\n\n\tAlthough it hasn’t been as good a start to a season as he’s had in the past, Bills top cornerback Christian Benford is a massive figure in the entire defensive structure because of the cornerback depth chart and how thin they are at that spot. Losing Benford for any time could change how teams attack the Bills’ defense. With his second-half toe injury, the Bills could be facing that very reality.\n\n\n\n\t…\n\n\n\n\tSuddenly, all the questions surrounding the Bills’ cornerback room are more relevant than ever.\n\n\n\n\t\n\tIf Benford misses time, the starting cornerbacks would be Hairston and rookie Davison Igbinosun. Hairston has had his fair share of quiet struggles in coverage through the first two weeks. I’ll wait to watch the coaches’ film to diagnose Hairston’s day against the Chargers, but there were certainly warning signs throughout the game of coverage beats that ultimately didn’t hurt the Bills.\n\n\n\n\t \n\n\n\n\tIgbinosun is the greener of the two, with a pair of pass breakups on his ledger, but also some coverage beats and defensive penalties. On top of that, the Bills kept only three boundary cornerbacks on their final 53-man roster, which really challenges their gameday flexibility should Benford have to miss time.\n\n\n\n\t\n\tIt would make starting nickel Dee Alford the primary boundary backup to Hairston and Igbinosun, which they would have likely felt more comfortable doing before the hamstring injury to backup nickel Jordan Hancock this week. The injury landed Hancock on injured reserve and out for at least the next three games. That leaves the Bills with two practice-squad elevation options: undrafted rookie boundary cornerback Kani Walker and nickel Te’Cory Couch as the next substitutes behind the Hairston, Igbinosun and Alford trio. Walker and Couch have zero regular-season snaps between them, which could create a major matchup disparity if the team suffers one more injury.\n\n\n\n\t\n\tAn injury like this to Benford is exactly why the Bills were playing with fire in how they structured their cornerback room heading into the season. Now all they can do is hope it isn’t serious, or else their defensive journey just got a whole lot more interesting in 2026. And if the injury keeps him out long enough, it could even force a move to improve their depth.’",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T13:00:56.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266670-bills-cb-depth-issue-is-a-real-problem-now/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-9-28/",
