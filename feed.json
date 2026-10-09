@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T18:21:59.137Z",
+  "generatedAt": "2026-10-09T22:48:45.385Z",
   "sources": [
     {
       "id": "bills-official",
@@ -96,8 +96,8 @@
       "id": "hfboards-sabres",
       "label": "HFBoards",
       "team": "sabres",
-      "itemCount": 20,
-      "error": null
+      "itemCount": 0,
+      "error": "HTTP 403"
     },
     {
       "id": "stars-and-stripes",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 12,
+      "itemCount": 11,
       "error": null
     },
     {
@@ -170,81 +170,81 @@
   ],
   "stories": [
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/",
-      "team": "sabres",
-      "title": "The OT Thread: Emotional support thread (Warning in post 368)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T18:11:52.000Z",
-      "link": "https://forums.hfboards.com/threads/the-ot-thread-emotional-support-thread-warning-in-post-368.2983164/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/",
-      "team": "sabres",
-      "title": "Bowen Byram and Jordan Greenway to Chicago for 4th Overall, 45th Overall, Louis Crevier",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T18:09:39.000Z",
-      "link": "https://forums.hfboards.com/threads/bowen-byram-and-jordan-greenway-to-chicago-for-4th-overall-45th-overall-louis-crevier.3032390/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/",
-      "team": "sabres",
-      "title": "Now It's For Real: Buffalo 2026-27 Roster Speculation",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T18:08:54.000Z",
-      "link": "https://forums.hfboards.com/threads/now-its-for-real-buffalo-2026-27-roster-speculation.3038026/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/",
-      "team": "sabres",
-      "title": "Prokhor Poltapov, F (33rd overall, 2021) CSKA (KHL)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T17:35:09.000Z",
-      "link": "https://forums.hfboards.com/threads/prokhor-poltapov-f-33rd-overall-2021-cska-khl.2835817/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142470/5-los-angeles-rams-to-watch-vs-the-buffalo-bills",
+      "id": "espn-bills::50143108",
       "team": "bills",
-      "title": "5 Los Angeles Rams to watch vs. the Buffalo Bills",
-      "summary": "",
-      "source": "Buffalo Rumblings",
+      "title": "Keon Coleman looks to stay hot in Week 5",
+      "summary": "Nick Suss discusses Keon Coleman's latest breakout.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-09T22:30:17Z",
+      "link": "https://www.espn.com/video/clip/_/id/50143108/keon-coleman-looks-stay-hot-week-5"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/newcomer-matt-villalta-gives-rochester-amerks-no-1-goalie-sabres-depth/",
+      "team": "sabres",
+      "title": "Newcomer Matt Villalta gives Rochester Amerks No. 1 goalie, Sabres depth",
+      "summary": "ROCHESTER – Having grinded in the minors for years and occasionally earned trips to the NHL, goalie Matt Villalta symbolizes the new-look Americans.\nThe Buffalo Sabres’ AHL affiliate still has some strong young talent, most notably defenseman Radim Mrtka, the ninth overall pick in 2025.\nBut the Amerks have become a veteran club this season. Their most dynamic youngsters in 2025-25 – forwards Konsta Helenius and Noah Ostlund – have graduated to Buffalo.\n\nMany of ... Read the full article \nThe post Newcomer Matt Villalta gives Rochester Amerks No. 1 goalie, Sabres depth first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-09T17:15:20.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142470/5-los-angeles-rams-to-watch-vs-the-buffalo-bills"
+      "publishedAt": "2026-10-09T22:24:05.000Z",
+      "link": "https://www.buffalohockeybeat.com/newcomer-matt-villalta-gives-rochester-amerks-no-1-goalie-sabres-depth/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-americans-home-opener-10-02-26-working-arrangement-with-orlando-echl.3030463/",
-      "team": "sabres",
-      "title": "The 2026-27 Minor League Thread - Rochester Americans, Home Opener 10-02-26; Working Arrangement with Orlando (ECHL)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T17:08:36.000Z",
-      "link": "https://forums.hfboards.com/threads/the-2026-27-minor-league-thread-rochester-americans-home-opener-10-02-26-working-arrangement-with-orlando-echl.3030463/"
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-at-los-angeles-rams-where-to-watch-stream-and-listen-mnf-week-5",
+      "team": "bills",
+      "title": "Buffalo Bills at Los Angeles Rams | Where to watch, stream and listen | MNF Week 5",
+      "summary": "TV Channel, Streaming and Radio for Bills at Rams",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-09T20:54:18.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-at-los-angeles-rams-where-to-watch-stream-and-listen-mnf-week-5"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/",
-      "team": "sabres",
-      "title": "All Purpose Goaltending Thread",
-      "summary": "",
-      "source": "HFBoards",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266849-conrad-dobler-and-phil-villapiano-canadian-border-crossing-story/",
+      "team": "bills",
+      "title": "Conrad Dobler and Phil Villapiano Canadian border crossing story",
+      "summary": "Any of you older guys like me know if the story is true that those guys cruised across the Canadian border, drove through customs, then back again, cruising through US customs in about 10 minutes",
+      "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-09T17:03:17.000Z",
-      "link": "https://forums.hfboards.com/threads/all-purpose-goaltending-thread.2908683/"
+      "publishedAt": "2026-10-09T20:07:57.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266849-conrad-dobler-and-phil-villapiano-canadian-border-crossing-story/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266847-eagles-are-releasing-andy-dalton/",
+      "team": "bills",
+      "title": "Eagles are releasing Andy Dalton",
+      "summary": "https://www.msn.com/en-us/sports/football/eagles-are-releasing-andy-dalton-keeping-tanner-mckee-and-cole-payton/ar-AA2dUjps?ocid=entnewsntp&pc=U531&cvid=cc5d9b8ac7e74453dbc0156d65c8c232&ei=37",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-09T19:38:27.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266847-eagles-are-releasing-andy-dalton/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46588/usmnt-weekend-viewing-guide-a-deeper-pool",
+      "team": "usmnt",
+      "title": "USMNT weekend viewing guide: A deeper pool",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-09T18:17:28.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46588/usmnt-weekend-viewing-guide-a-deeper-pool"
+    },
+    {
+      "id": "espn-bills::50135925",
+      "team": "bills",
+      "title": "Inside the NFL's wild endings and why coaches need to adapt",
+      "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
+      "source": "ESPN · Stephen Holder",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-09T17:31:51Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142414/has-aaron-donald-made-the-rams-more-dangerous-los-angeles",
@@ -258,17 +258,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142414/has-aaron-donald-made-the-rams-more-dangerous-los-angeles"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/week-5-buffalo-bills-3-1-la-rams-2-2-mon-10-12-8-15pm-on-espn.3036731/",
-      "team": "sabres",
-      "title": "Week 5: Buffalo Bills (3-1) @ LA Rams (2-2), Mon. 10/12 @ 8:15PM on ESPN",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T15:39:20.000Z",
-      "link": "https://forums.hfboards.com/threads/week-5-buffalo-bills-3-1-la-rams-2-2-mon-10-12-8-15pm-on-espn.3036731/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266846-throwback-thursday-bills-dolphins-%E2%80%9883/",
       "team": "bills",
       "title": "Throwback Thursday Bills @ Dolphins ‘83",
@@ -278,17 +267,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-09T15:34:17.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266846-throwback-thursday-bills-dolphins-%E2%80%9883/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/",
-      "team": "sabres",
-      "title": "General lacrosse thread presented by your local lax goalie dad",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T15:32:20.000Z",
-      "link": "https://forums.hfboards.com/threads/general-lacrosse-thread-presented-by-your-local-lax-goalie-dad.3010551/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266845-rip-mike-ditka/",
@@ -324,17 +302,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/50129471/week-5-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/gm-4-sabres-vs-stars-7pm-tv-msg-radio-wgr550-go-for-three.3038666/",
-      "team": "sabres",
-      "title": "GM 4: Sabres vs Stars 7pm - TV:MSG Radio:WGR550 - Go For Three",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T14:43:34.000Z",
-      "link": "https://forums.hfboards.com/threads/gm-4-sabres-vs-stars-7pm-tv-msg-radio-wgr550-go-for-three.3038666/"
-    },
-    {
       "id": "bandits-official::https://bandits.com/bandits-sign-wyers-to-1-year-deal/",
       "team": "bandits",
       "title": "Bandits sign Wyers to 1-year deal",
@@ -344,17 +311,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-09T14:18:35.000Z",
       "link": "https://bandits.com/bandits-sign-wyers-to-1-year-deal/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/",
-      "team": "sabres",
-      "title": "Around The NHL the Thread the Musical the Movie - 2026-27",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T14:17:03.000Z",
-      "link": "https://forums.hfboards.com/threads/around-the-nhl-the-thread-the-musical-the-movie-2026-27.3038052/"
     },
     {
       "id": "bandits-official::https://bandits.com/bandits-sign-gonsiorek-young/",
@@ -434,28 +390,6 @@
       "link": "https://bandits.com/bandits-announce-2026-27-schedule/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/",
-      "team": "sabres",
-      "title": "Sabres Prospects Video Blog, Baker's Bunker, Baker-Fairburn",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T13:35:28.000Z",
-      "link": "https://forums.hfboards.com/threads/sabres-prospects-video-blog-bakers-bunker-baker-fairburn.2935277/"
-    },
-    {
-      "id": "espn-bills::50135925",
-      "team": "bills",
-      "title": "Inside the NFL's wild endings and why coaches need to adapt",
-      "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
-      "source": "ESPN · Stephen Holder",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T12:48:59Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142460/bills-news-recapping-the-latest-press-conferences",
       "team": "bills",
       "title": "Bills news: Recapping the latest press conferences",
@@ -467,50 +401,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/142460/bills-news-recapping-the-latest-press-conferences"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/olen-zellweger-22-ld-signed-for-3-years-3-1m-aav-acquired-via-trade-from-anaheim.3032655/",
-      "team": "sabres",
-      "title": "Olen Zellweger - 22 - LD - Signed for 3 years, $3.1M AAV- Acquired via Trade from Anaheim",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T12:26:17.000Z",
-      "link": "https://forums.hfboards.com/threads/olen-zellweger-22-ld-signed-for-3-years-3-1m-aav-acquired-via-trade-from-anaheim.3032655/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/louis-crevier-rhd-acquired-from-chicago-signs-4x-4m-aav-extension-10-1-26.3032399/",
-      "team": "sabres",
-      "title": "Louis Crevier (RHD) acquired from Chicago (Signs 4x$4M AAV Extension 10/1/26)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T12:24:01.000Z",
-      "link": "https://forums.hfboards.com/threads/louis-crevier-rhd-acquired-from-chicago-signs-4x-4m-aav-extension-10-1-26.3032399/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/josh-norris-center-acquired-from-ottawa-senators.2989945/",
-      "team": "sabres",
-      "title": "Josh Norris, Center, Acquired from Ottawa Senators",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T12:13:54.000Z",
-      "link": "https://forums.hfboards.com/threads/josh-norris-center-acquired-from-ottawa-senators.2989945/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/",
-      "team": "sabres",
-      "title": "Konsta Helenius, RC, Jukurit (Liiga) - 14th Overall, 2024",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T12:11:24.000Z",
-      "link": "https://forums.hfboards.com/threads/konsta-helenius-rc-jukurit-liiga-14th-overall-2024.2969984/"
-    },
-    {
       "id": "espn-sabres::50133323",
       "team": "sabres",
       "title": "NHL breakout tiers: Top players ready to level up in 2026-27",
@@ -520,17 +410,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-09T11:12:59Z",
       "link": "https://www.espn.com/nhl/story/_/id/50133323/nhl-2026-27-breakout-players-tiers-rankings-superstars-goals-stats"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-fire-seth-appert-thread-w-poll.3038708/",
-      "team": "sabres",
-      "title": "The Fire Seth Appert Thread w/ Poll",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T10:57:49.000Z",
-      "link": "https://forums.hfboards.com/threads/the-fire-seth-appert-thread-w-poll.3038708/"
     },
     {
       "id": "espn-sabres::50134520",
@@ -575,28 +454,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-09T07:27:21Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/the-26-27-injury-thread-lyon-ubi-timmins-tbd-zucker-hernia.3030570/",
-      "team": "sabres",
-      "title": "The 26-27 Injury Thread: Lyon (UBI), Timmins (TBD), Zucker (hernia)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T07:14:18.000Z",
-      "link": "https://forums.hfboards.com/threads/the-26-27-injury-thread-lyon-ubi-timmins-tbd-zucker-hernia.3030570/"
-    },
-    {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/buffalo-sabres-analytics-data-stats-thread.3013853/",
-      "team": "sabres",
-      "title": "Buffalo Sabres Analytics, Data, & Stats Thread",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T07:12:53.000Z",
-      "link": "https://forums.hfboards.com/threads/buffalo-sabres-analytics-data-stats-thread.3013853/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-hear-boos-get-blanked-by-stars-in-ugly-loss-didnt-have-our-game/",
@@ -676,17 +533,6 @@
       "link": "https://www.buffalobills.com/news/going-to-have-our-hands-full-how-the-bills-are-preparing-for-a-dynamic-l-a-rams-team"
     },
     {
-      "id": "espn-bills::50136293",
-      "team": "bills",
-      "title": "Bills' 'one-of-a-kind' Josh Allen offers challenge for Rams' defensive progress on Monday night",
-      "summary": "— From his sideline, Matthew Stafford had a great vantage point on Josh Allen’s skills as the Los Angeles Rams held off the Buffalo Bills 44-42 on Dec. 8, 2024, when Allen became the ",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T00:33:28Z",
-      "link": "http://www.espn.com/nfl/preview?gameId=401872994"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142431/dallas-cowboys-vs-tampa-bay-buccaneers-tnf-week-5-fan-discussion",
       "team": "bills",
       "title": "Dallas Cowboys vs. Tampa Bay Buccaneers, ‘TNF’ Week 5 fan discussion",
@@ -731,17 +577,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-rumors/142416/josh-allen-provides-update-on-whether-or-not-a-knee-injury-is-hindering-his-running"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/jason-zucker.2970555/",
-      "team": "sabres",
-      "title": "Jason Zucker",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-08T21:35:07.000Z",
-      "link": "https://forums.hfboards.com/threads/jason-zucker.2970555/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-lindy-ruff-confident-josh-doan-will-start-scoring-all-the-faith/",
       "team": "sabres",
       "title": "Sabres’ Lindy Ruff  confident Josh Doan will start scoring: ‘All the faith’",
@@ -764,17 +599,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266834-after-just-4-games-davis-webb-stripped-of-broncos-playcalling-duties/"
     },
     {
-      "id": "hfboards-sabres::https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/",
-      "team": "sabres",
-      "title": "Owen Power, D (1st overall, 2021)",
-      "summary": "",
-      "source": "HFBoards",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-08T20:53:53.000Z",
-      "link": "https://forums.hfboards.com/threads/owen-power-d-1st-overall-2021.2835632/"
-    },
-    {
       "id": "espn-sabres::50134646",
       "team": "sabres",
       "title": "Hurricanes' Seth Jarvis sheds no-contact jersey amid shoulder rehab",
@@ -795,17 +619,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-08T19:13:00.000Z",
       "link": "https://www.buffalobills.com/news/top-storylines-for-bills-vs-rams-week-5"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266833-is-deone-walker-the-best-dt-in-the-nfl/",
-      "team": "bills",
-      "title": "Is Deone Walker the best DT in the NFL?",
-      "summary": "No hot take here, I'm genuinely asking. Through 4 games he has a case.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-08T18:54:58.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266833-is-deone-walker-the-best-dt-in-the-nfl/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/meet-santiago-castaneda-colombian-american-bundesliga-usmnt/",
@@ -949,6 +762,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-07T16:20:36.000Z",
       "link": "https://www.cbssports.com/soccer/news/footy-fix-usmnt-wrap-up-perfect-international-break-with-fourth-straight-win-in-1-0-victory-over-canada/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46564/previewing-uswnt-vs-spain-a-solid-test-for-the-usa",
+      "team": "usmnt",
+      "title": "Previewing USWNT vs. Spain – A solid test for the USA",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-07T16:05:19.000Z",
+      "link": "https://www.starsandstripesfc.com/uswnt-news/46564/previewing-uswnt-vs-spain-a-solid-test-for-the-usa"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266827-the-strong-criticism-of-joshs-behind-the-back-out-of-the-ez/",
@@ -1160,6 +984,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266808-game-week-thread-bills-at-rams-mnf/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266807-jim-leonhards-press-conference-talking-about-the-patriots-game/",
+      "team": "bills",
+      "title": "Jim Leonhard's press conference talking about the Patriots game",
+      "summary": "I like his manner, not up nor down from the previous Monday pressers. At least he's not showing it. \n\n\n\n\t \n\n\n\n\tI don't know if I'm reading it too much but it sounds like IGB will play when Leonhard said he knows IGB is going to show his physicality, the passion, the energy and he's always going to put himself in a position to be close to receivers. \n\n\n\n\t \n\n\n\n\tAlso in the end he said he's eager to work on solving the nickelback injury situation. I don't get the impression it is simply Hamlin who had to play that position yesterday.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T01:30:58.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266807-jim-leonhards-press-conference-talking-about-the-patriots-game/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/maxwell-hairston-apologizes-joe-brady-wants-dalton-kincaid-more-involved-and-jim-leonhard-on-cole-bishop-s-alignment",
       "team": "bills",
       "title": "Maxwell Hairston apologizes, Joe Brady wants Dalton Kincaid more involved and Jim Leonhard on Cole Bishop's alignment",
@@ -1169,6 +1004,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-05T21:35:56.000Z",
       "link": "https://www.buffalobills.com/news/maxwell-hairston-apologizes-joe-brady-wants-dalton-kincaid-more-involved-and-jim-leonhard-on-cole-bishop-s-alignment"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266800-3-nickel-cornerbacks-on-the-team-all-3-nickel-cornerbacks-injured/",
+      "team": "bills",
+      "title": "3 Nickel Cornerbacks on the team - All 3 Nickel Cornerbacks Injured",
+      "summary": "Injuries on the team right now are a MAJOR problem. We had some key injuries going into yesterday's game. And then we had a free fall of guys exiting the game. There are issues at many different spots.\n\n\n\n\t \n\n\n\n\tGoing into yesterday's game, we had our Backup Nickel Cornerback Jordan Hancock on Injured Reserve. We activated Te'Cory Couch off the Practice Squad to cover for him against the Chargers and yesterday as well.\n\n\n\n\t \n\n\n\n\tBut sometime in the second half, Te'Cory Couch went down with a Hamstring injury and did not return:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tThis left us with Dee Alford and no true Nickels left behind him. Then very quickly after Couch got hurt, HE went down with a Right Ankle injury and didn't return. The last update we've gotten is he's having MRI's done on the Ankle:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\tBecause of this, we went the rest of the game with Damar Hamlin at Nickel. \n\n\n\n\t \n\n\n\n\tGoing forward, Hancock still has two more games left before we can activate him off of IR. So he remains unavailable to us. And Alford and Couch's injuries may, if not likely, leave us without both of them as well.\n\n\n\n\t \n\n\n\n\tIf that's the case, what do we do?\n\n\n\n\t \n\n\n\n\tBecause although we have injury issues across the team, we have depth at those positions. Lose Oliver and Jackson and we still have Sanders (hopefully) coming back soon. Even if he doesn't, you still have Phidarian Mathis and Austin Johnson on the Practice Squad. You could even take Zane Durant off the IR if you wanted to.\n\n\n\n\t \n\n\n\n\tAt Wide Receiver, DJ Moore possibly being out is more of a matchup issue and not a bodies issue. As we can dress Skyler Bell and have Trent Sherfield on the Practice Squad.\n\n\n\n\t \n\n\n\n\tBut at Nickel - the cupboard is now completely bare. Most teams don't carry more than 3 of them between the 53 and PS. And losing all 3 is insane.\n\n\n\n\t \n\n\n\n\tAre we really going to start Damar Hamlin there next week? And if that's the case, who's backing him up? I suppose Jalon Kilgore could dress for the first time this year as a Backup at both Safety and Nickel - as he played both positions in College. But he's never played a down of real NFL Football in his life.\n\n\n\n\t \n\n\n\n\tWe might have to make some calls if Alford and/or Couch are considered more than a week injuries.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-05T19:22:41.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266800-3-nickel-cornerbacks-on-the-team-all-3-nickel-cornerbacks-injured/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/two-injured-sabres-close-to-practicing-with-team/",
@@ -1248,6 +1094,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266783-defensive-nucleus/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266776-early-crossroads-for-brady/",
+      "team": "bills",
+      "title": "Early crossroads for Brady",
+      "summary": "How does Brady handle adversity? We are about to find out. Is he too much of a player's coach? Can he give Josh the firm support and structure needed? Is the team needing a stronger guiding hand?\n\n\n\n\tI don't know. \n\n\n\n\tThis team needs an ass-kicking. We cannot have Dawkins have a performance like yesterday... tired of his clown show... why not pull him or bench him? I know ... flame away... who is better?  What changes can be made (tough to say with injuries and personnel).\n\tBrady does not seem like the chair breaking,- throw a fit coach but how about some fire and shake up some stuff?\n\n\n\n\tOpening kickoff decision , play calling, lack of accountability and motivation... I like Brady but so much falls on him... I am anxious and hopeful that he turns things around. Not to be forgotten... the great \"architect \", Beane, sits quietly in the shadows.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-05T07:36:57.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266776-early-crossroads-for-brady/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266768-dj-moore-injury-not-considered-long-term-as-of-right-now/",
       "team": "bills",
       "title": "DJ Moore - Injury not considered long term \"as of right now\"",
@@ -1292,39 +1149,6 @@
       "link": "https://www.buffalobills.com/news/patriots-29-bills-26-final-score-recap-highlights"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266747-electing-to-receive-opening-kickoff/",
-      "team": "bills",
-      "title": "Electing to Receive Opening Kickoff",
-      "summary": "This was a sh strategy and set the tempo for a terrible game.\n\n\n\n\t \n\n\n\n\tThere's a reason why every other team winning the coin toss elects to defer & receive the 2nd half kickoff. No chance at the 'double dip' \n\n\n\n\t \n\n\n\n\tRight out of the gate, Brady put us behind the curve with a bad call, and we go 3 and out to start.\n\n\n\n\t \n\n\n\n\tPseudo-intellectual 🦬💩.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T20:29:18.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266747-electing-to-receive-opening-kickoff/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/bills-issue-injury-updates-on-ed-oliver-and-dee-alford",
-      "team": "bills",
-      "title": "Bills issue injury updates on Ed Oliver and Dee Alford",
-      "summary": "DL Ed Oliver (knee) and CB Dee Alford (ankle) are questionable to return to Sunday's game against the Patriots",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T19:07:56.000Z",
-      "link": "https://www.buffalobills.com/news/bills-issue-injury-updates-on-ed-oliver-and-dee-alford"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/45889/usa-vs-canada-2026-usmnt-friendly-scouting-canada",
-      "team": "usmnt",
-      "title": "USA vs. Canada, 2026 USMNT Friendly: Scouting Canada",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T18:18:11.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt/45889/usa-vs-canada-2026-usmnt-friendly-scouting-canada"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-new-generation-beats-mexico-friendly/",
       "team": "usmnt",
       "title": "USMNT's new generation may not be polished yet, but it already knows how to beat Mexico",
@@ -1334,39 +1158,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-04T14:15:16.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnts-new-generation-beats-mexico-friendly/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/soccer/46424/teenage-dream-continues-for-usmnt-in-destruction-of-mexico",
-      "team": "usmnt",
-      "title": "Teenage dream continues for USMNT in destruction of Mexico",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T10:14:13.000Z",
-      "link": "https://www.starsandstripesfc.com/soccer/46424/teenage-dream-continues-for-usmnt-in-destruction-of-mexico"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266741-gameday-10426-week-4-bills-vs-patriots-1pm-gameday-thread/",
-      "team": "bills",
-      "title": "GAMEDAY 10/4/26 Week 4 Bills vs. Patriots 1:pm GAMEDAY THREAD",
-      "summary": "Welp, our winning performance vs the Chargers came with a distinct paper mill odor. 🤢 Escaping a 5 turnover disaster is the rarest method to victory. But we DID! I just hoped we learned that ‘San Diego’ taught the league how to corral Allen and our Offense, as we can surely anticipate the blanket coverage that takes Shakir out of the gameplan again! * Poor passing and blocking with turnovers all day turned an expected rout into an uncomfortably very close contest! Even rarer than that poor offensive showing was the noticeable performance of our young Defense. Very tough against the run and much needed true pass rush! CJGJ’s fabulous goal line interception and long return set up our game winning drive! WHEW!😰 \n\n\n\n\t \n\n\n\n\tThe *Cover 6 is the newest defensive wrinkle in football. In essence, it combats multiple TE sets and takes away middle field receivers running wild while thwarting a scrambling QB. \n\n\n\n\t‘Splain it to me, Lucy ‘ \n\n\n\n\t\n\t\t\n\t\n\n\n\n\t \n\n\n\n\t It gave Josh fits last week for the most part though he managed to find cracks late enough to rescue victory.\n\n\n\n\t \n\n\n\n\tOn to today, our 1st Division game against the defending Division Champs New England Patriots*.  Their notorious cheating antics still continue. The blame for this League anomaly falls squarely on their owner Robert Kraft, who never met a cheating opportunity he didn’t like. Most of us believe they were simply lucky to have such an easy schedule last year which foolishly catapulted Drake Maye to top QB status. No one here believed it and the proof is in this season’s early performance. But their early season, last second win last September at home had us chasing ghosts all season and we didn’t recover as we watched them from the couch reach the Super Bowl..🤬 They’re down to their 3rd string RG through injuries as well as their starting WR and RT along with DT Christian Barmore. It should mean feast time for our DTs! Dwayne Carter’s return is becoming noteworthy. Keep an eye on him.\n\n\n\n\t \n\n\n\n\tThe Walker/Groot combo has become a nightmare for opposition Offensive Line’s from Leonard’s new Defense! Ed O, Chubb.\n\n\n\n\tand Hoeght are also playing exceptionally! Cover 1 explains it perfectly. GROOOT won NFLPOTM for September! BRAVO, Gregg!\n\n\n\n\t \n\n\n\n\t\n\t\t\n\t\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tIs Benford the next Wally Pipp? Now hobbled by an injured toe, he’s been a shell of his former self so far while (Iggy) rookie Davison Igbinosun shined replacing him last week!\n\n\n\n\t \n\n\n\n\t\n\t\t\n\t\n\n\n\n\t \n\n\n\n\t*Weekly Josh Allen record smashing update: Allen is now one of just four players in NFL history with at least six rushing touchdowns in nine consecutive seasons, joining Hall of Fame RUNNING BACKS Jim Brown, Marshall Faulk, and LaDainian Tomlinson. Lastly, Allen tied Andre Reed and Thurman Thomas for the most non-passing touchdowns in franchise history with 87.\n\n\n\n\t \n\n\n\n\tThere need be no further reason to be concerned about this Division tilt than losing to them at home this time last year. We definitely took them for granted and they STOLE the Division title from us as a result! No feeling sorry for them,  nor NOT give ultimate effort today! Score early and often and let our Defense try to steal the thunder from our O if they can! We were right here last year where a win would really position us for post season possibilities! 4 of our next 6 games are on the road, so finish this new stadium start with the DUB! \n\n\n\n\t \n\n\n\n\tMay we never see the White Out uni again!😉\n\n\n\n\t \n\n\n\n\thttps://x.com/buffalobills/status/1973017725376291121?s=61\n\n\n\n\t \n\n\n\n\tWe Got This!\n\n\n\n\tGO BILLS!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T08:45:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266741-gameday-10426-week-4-bills-vs-patriots-1pm-gameday-thread/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/in-free-agency-patrick-kane-narrowed-choices-to-blackhawks-and-sabres/",
-      "team": "sabres",
-      "title": "In free agency, Patrick Kane narrowed choices to Blackhawks and Sabres",
-      "summary": "BUFFALO – In the end, Patrick Kane signed with Chicago, choosing to return to the city where he’s a legend to help lead the Blackhawks back to glory.\nThe Sabres, Kane explained prior to Saturday’s game in KeyBank Center, aggressively pursued his services. When free agency opened July 1, one of the first calls he received was from general manager Jarmo Kekalainen.\n“It was tough,” the South Buffalo native said of his decision. “It pretty ... Read the full article \nThe post In free agency, Patrick Kane narrowed choices to Blackhawks and Sabres first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-04T05:38:48.000Z",
-      "link": "https://www.buffalohockeybeat.com/in-free-agency-patrick-kane-narrowed-choices-to-blackhawks-and-sabres/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-rally-for-late-win-against-shorthanded-blackhawks/",
@@ -1468,48 +1259,15 @@
       "link": "https://www.cbssports.com/soccer/news/usmnts-exciting-next-generation-mixed-results-win-chile-2026/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-mauricio-pochettino-heaps-praise-young-stars-2026/",
-      "team": "usmnt",
-      "title": "USMNT's Mauricio Pochettino heaps praise on 'confident and cocky' rising stars",
-      "summary": "Pochettino is expected to name another experimental lineup for Tuesday's friendly against Chile, the second of four games in a jam-packed international window",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-29T17:36:26.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnts-mauricio-pochettino-heaps-praise-young-stars-2026/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266012-ocyrus-torrence-extended/",
       "team": "bills",
-      "title": "Marvin Harrison Jr - what is going on in Arizona?",
-      "summary": "Couple things.  \n\t \n\n\n\n\tIs he a bust?  Would you want him?  Be mad if New England did? \n\t \n\n\n\n\tAnd, would he be an upgrade over Keon - that is a serious question.  Im not so sure - if Keon is emerging thru the adversity he’s dealt with here there is something to be said about that and he just might be a good fit for what we’re doing.  3rd year breakout could be in progress with him.  \n\t \n\n\n\n\tBut what’s happening here in Arizona is a significant developing situation and if it continues and they lose games trade talk is going to heat up come mid October.  Maybe it’s just the 2 defenses they faced but none of this looks good.  Plenty of film shows he’s not going full speed.  But there is a lot of film of him getting open.   \n\t \n\n\n\n\tMy take is Brissett is awful and either checks down to McBride or just trusts Wilson and is his first read every time.",
+      "title": "O'Cyrus Torrence Extended",
+      "summary": "",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-23T00:38:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-what-is-going-on-in-arizona/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266187-move-over-robert-kraft-jed-york-has-entered-the-prostitution-game/",
-      "team": "bills",
-      "title": "Move over Robert Kraft, Jed York has entered the prostitution game.",
-      "summary": "https://www.kron4.com/news/bay-area/49ers-ceo-jed-york-arrested/amp/\n\t \n\n\n\n\t49ers owner, Jed York arrested in Ohio.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-24T15:33:54.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266187-move-over-robert-kraft-jed-york-has-entered-the-prostitution-game/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/260177-the-tyreek-hill-thread-now-released/",
-      "team": "bills",
-      "title": "The Tyreek Hill Thread (now released)",
-      "summary": "https://www.reddit.com/r/miamidolphins/s/q6FImbXQmh\n\n\n\n\t \n\n\n\n\tHe likes us…he really likes us.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2025-05-28T16:33:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/260177-the-tyreek-hill-thread-now-released/"
+      "publishedAt": "2026-08-07T03:17:14.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266012-ocyrus-torrence-extended/"
     }
   ]
 }
