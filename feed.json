@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T09:16:35.637Z",
+  "generatedAt": "2026-10-12T19:14:06.300Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "final",
-      "headline": "Final · L 1-4",
-      "detail": "vs UTA"
+      "state": "live",
+      "headline": "3 - 3",
+      "detail": "vs FLA · P3"
     },
     {
       "team": "bandits",
@@ -170,6 +170,204 @@
   ],
   "stories": [
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-game-information/142600/bills-at-rams-nfl-week-5-how-to-watch-game-time-streaming-more",
+      "team": "bills",
+      "title": "Bills at Rams NFL Week 5: How to watch, game time, streaming, more",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T18:53:30.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-game-information/142600/bills-at-rams-nfl-week-5-how-to-watch-game-time-streaming-more"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-odds/142339/bills-vs-rams-predictions-week-5-picks",
+      "team": "bills",
+      "title": "NFL predictions: 4 bold takes for Bills-Rams ‘MNF’ matchup in Week 5",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T18:49:35.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-odds/142339/bills-vs-rams-predictions-week-5-picks"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/sabres-rasmus-dahlin-exits-game-against-panthers-with-upper-body-injury/",
+      "team": "sabres",
+      "title": "Sabres’ Rasmus Dahlin exits game against Panthers with upper-body injury",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T18:33:21.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/sabres-rasmus-dahlin-exits-game-against-panthers-with-upper-body-injury/"
+    },
+    {
+      "id": "espn-sabres::50166808",
+      "team": "sabres",
+      "title": "Carolina Hurricanes troll Flyers, Eagles, Phillies after Sunday's victory",
+      "summary": "Neither the Eagles nor Phillies were spared by the Hurricanes' social media team Sunday night.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T17:34:46Z",
+      "link": "https://www.espn.com/nhl/story/_/id/50166808/carolina-hurricanes-troll-philadelphia-beat-flyers"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/struggling-sabres-change-lineup-again-by-inserting-young-forwardse/",
+      "team": "sabres",
+      "title": "Struggling Sabres change lineup again by inserting young forwards",
+      "summary": "BUFFALO – After sitting out Saturday’s 4-0 loss to the Utah Mammoth as healthy scratches, forwards Konsta Helenius and Jiri Kulich are in the lineup for this afternoon’s game against the Florida Panthers.\nTo make, room the Sabres scratched forwards Sam Carrick and Justin Danforth.\nUpdate: Sabres captain Rasmus Dahlin left the game with an upper-body injury in the second period and won’t return, according to the team. Dahlin did not take a shift after ... Read the full article \nThe post Struggling Sabres change lineup again by inserting young forwards first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T17:02:01.000Z",
+      "link": "https://www.buffalohockeybeat.com/struggling-sabres-change-lineup-again-by-inserting-young-forwardse/"
+    },
+    {
+      "id": "espn-bills::49545945",
+      "team": "bills",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "source": "ESPN · Sarah Barshop",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T17:01:10Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "id": "espn-bills::39111637",
+      "team": "bills",
+      "title": "What are NFL overtime rules for regular and postseason play?",
+      "summary": "Overtime periods can have a pivotal impact on game results. Here are key facts on regular-season and postseason overtime rules in the NFL.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T16:41:14Z",
+      "link": "https://www.espn.com/nfl/story/_/id/39111637/what-nfl-rules-regular-postseason-play"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-at-los-angeles-rams-where-to-watch-stream-and-listen-mnf-week-5",
+      "team": "bills",
+      "title": "Buffalo Bills at Los Angeles Rams | Where to watch, stream and listen | MNF Week 5",
+      "summary": "TV Channel, Streaming and Radio for Bills at Rams",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T16:30:00.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-at-los-angeles-rams-where-to-watch-stream-and-listen-mnf-week-5"
+    },
+    {
+      "id": "espn-bills::50147670",
+      "team": "bills",
+      "title": "NFL Week 6 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T15:16:21Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-6-preview-open-thread-sabres-vs-panthers/",
+      "team": "sabres",
+      "title": "Game #6 Preview & Open Thread: Sabres vs Panthers",
+      "summary": "Buffalo start division games looking shaky all around\n\n\n\nBuffalo Sabres (2-3-0) vs Florida Panthers (2-1-2)\n\n\n\nPuck Drop: 1:00 pm ET | KeyBank Center, Buffalo NY\n\n\n\nTV: SN, TVAS, MSG-B, SCRIPPS, ESPN+, Fubo, Hulu + Live TV\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nFlorida Panthers\n\n\n\nRecord: 2-1-2 | 6 PTS (40-30-12 for 92pts) /last season\n\n\n\nLast Game: 4-1 defeat to Minnesota Wild\n\n\n\nDivision Ranking: Atlantic 5th\n\n\n\nPP: 32nd, 3.6% (1/28) [Sabres: 30th, 5.9% (1/17)]\n\n\n\nPK: 20th, 77.3% (17/22) [Sabres: 30th, 62.5% (10/16)]\n\n\n\nSeason Series: Sabres 3-1-0 Panthers last season\n\n\n\nWhat to Watch\n\n\n\n1. Sort It Out, Quick\n\n\n\nWith Atlantic Division play starting here and four division games before the first road trip of the season, the Sabres need to remember how to play on the front foot. They’ve conceded first in the first four of the season before finally scoring first against Utah before getting buried in a mountain of pucks.   \n\n\n\n2. Benching The Best Players\n\n\n\nIt was certainly a surprise to see Lindy Ruff yanking Jiri Kulich and Konsta Helenius from the gameday squad against the Mammoth, not least because the coach has to have seen that the pair are among the players who have done the most based on advanced stats. Zach Benson, Josh Doan, Ryan McLeod and Josh Norris have combined for zero goals between them.\n\n\n\n 3. Welcome Recent Champs\n\n\n\nThe Sabres come into a buzzsaw of a game against the champions from two seasons ago. The Panthers are 2-1-2 to begin the season and haven’t been that good themselves either, but will be without Alexander Barkov who is out for about 6-8 weeks. \n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres \n\n\n\nForwards \n\n\n\nPeyton Krebs – Tage Thompson – Josh DoanZach Benson – Noah Ostlund – Jack QuinnJiri Kulich – Ryan McLeod – Konsta HeleniusTyson Kozak – Josh Norris – Beck Malenstyn\n\n\n\nDefense\n\n\n\nMattias Samuelsson – Rasmus DahlinOwen Power – Zach MetsaOlen Zellweger – Louis Crevier\n\n\n\nGoaltenders \n\n\n\nUkko-Pekka Luukkonen, Colten Ellis (projected starter)\n\n\n\nFlorida Panthers\n\n\n\nForwards \n\n\n\nBrady Tkachuk – Sam Bennett – Matthew TkachukCarter Verhaeghe – Sam Reinhart – Sam LaffertyEetu Luostarinen – Anton Lundell – Sandis VilmanisBokondji Imama – Lars Eller – Garnet Hathaway\n\n\n\nDefense\n\n\n\nGustav Forsling – Aaron EkbladNiko Mikkola – Seth JonesRadko Gudas – Dmitry Kulikov\n\n\n\nGoaltenders \n\n\n\nJacob Markstrom (confirmed starter), Akira Schmid",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T14:00:00.000Z",
+      "link": "https://www.diebytheblade.com/game-6-preview-open-thread-sabres-vs-panthers/"
+    },
+    {
+      "id": "espn-bills::50107754",
+      "team": "bills",
+      "title": "How to bet Bills-Rams on MNF: Analysis, tips and top prop plays",
+      "summary": "Odds and analysis to help you bet Bills-Rams on \"Monday Night Football.\"",
+      "source": "ESPN · Pamela Maldonado",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T13:58:47Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50107754/nfl-week-5-odds-betting-tips-bills-rams"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142624/the-benefit-of-buffalo-bills-needing-to-lean-on-youth-against-rams-in-week-5",
+      "team": "bills",
+      "title": "The benefit of Buffalo Bills needing to lean on youth against Rams in Week 5",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T13:34:08.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142624/the-benefit-of-buffalo-bills-needing-to-lean-on-youth-against-rams-in-week-5"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46471/usmnt-midweek-viewing-guide-chaaampiooons-again",
+      "team": "usmnt",
+      "title": "USMNT midweek viewing guide: Chaaampiooons again",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T12:51:45.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/46471/usmnt-midweek-viewing-guide-chaaampiooons-again"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142316/bills-news-what-to-know-ahead-of-week-5-at-los-angeles-rams",
+      "team": "bills",
+      "title": "Bills news: What to know ahead of Week 5 at Los Angeles Rams",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T11:56:18.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/142316/bills-news-what-to-know-ahead-of-week-5-at-los-angeles-rams"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142563/buffalo-bills-fans-beginning-to-doubt-teams-chances-in-2026",
+      "team": "bills",
+      "title": "Buffalo Bills fans beginning to doubt team’s chances in 2026",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T11:44:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142563/buffalo-bills-fans-beginning-to-doubt-teams-chances-in-2026"
+    },
+    {
+      "id": "espn-bills::50134142",
+      "team": "bills",
+      "title": "How Bills QB Josh Allen has become a star on and off the field",
+      "summary": "The Buffalo QB is racking up the endorsements and leaning on his Hollywood wife for advice.",
+      "source": "ESPN · Nick Suss",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T10:19:33Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50134142/bills-qb-josh-allen-hollywood-star-endorsements"
+    },
+    {
+      "id": "espn-bills::49794361",
+      "team": "bills",
+      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "source": "ESPN · ESPN staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T10:00:12Z",
+      "link": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266870-gameday-101226-week-5-mnf-bills-at-rams-815pm-gameday-thread/",
+      "team": "bills",
+      "title": "GAMEDAY 10/12/26 Week 5 MNF Bills at Rams 8:15pm GAMEDAY THREAD",
+      "summary": "Monday Night under the lights before a globally televised contest featuring the 2 best Offenses in the NFL! They’re led by the back to back League MVP’s in Mathew Stafford and Josh Allen. It just doesn’t get ANY better’n this!\n\n\n\n\t \n\n\n\n\tWe won’t rehash the ‘woulda, coulda and shoulda’ happening here from last Sunday. We know what was at stake and didn’t get it done. Our schedule gets challenging now, starting in the “Land of Glitz” tonight. The Rams are nothing short of the best bet to Win the Super Bowl on Valentine’s Day, while we fell back to ‘also ran’ status. As fans, we have no option other than to support the new direction of the team in the enduring quest to finally reach the pinnacle and encase the Lombardi Trophy at One Bills Drive. Towards this end, we have bright, fresh minds and a wealth of experience behind the teams’ coaching and leadership. We’ve garnered some fantastic new skills on Defense and consistent great skills on Offense. Bringing it all together remains the quest. \n\n\n\n\t \n\n\n\n\t12 days into October, injuries are creeping in across all fronts -as they are with every team. Getting everyone pulling together is the biggest challenge before us. It’s a great help that we have a sure fire HOFer at QB with ..well, little Harper’s dad! Keeping him healthy enough to get out there every game day is essential. But we have much more now in gifted receivers, runners and line play. Our STs have been effective -if not sterling. Implementing a totally new Defensive scheme with many new players is showing the expected drawbacks, where only earned experience holds the eventual answers. We must have patience in a ‘WIN NOW’ existence.. Watching the All 22 is confirmation we have a plan and the personnel to achieve success.  \n\n\n\n\t \n\n\n\n\tSean McVay has assembled a brilliant career in just 9+ Seasons with over 100 wins, 2 Super Bowls and 1 Lombardi Trophy!  Stafford had a great 2nd half last week in overcoming a 2 score deficit to pull out a win. Very likely a post career HoF candidate, he’s a historic streaky performer who gets antsy when pressured. We HAVE to get pressure on him to help our current coverage woes. McVay is the play caller and leans on 13 personnel more than any other team. Simply put, the Rams are overstocked in brilliant talent! Puca Nacua tops the WR corp along with Davonte Adams and a fine RB tandem. Their OL can be had but their DL is legendary when healthy. For us, Ed (Glass) Oliver is out again from a surprising cheap shot by Reggie Gilliam 🫨 🤨 and we’ve come to NOT count on him. He’s our current ‘Matt Milano’ -a superstar defender who can’t stay healthy.. BUT.. we have a new superstar defender to pair with GROOOT!\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tThe Bills have excelled in the intermediate pass game (9-19 yards) and this needs to continue. We’re leading the League in this capacity! It takes a little longer to develop and Josh has eaten a lot of grass already as our OL just isn’t as dominant as in the past. They can, however, still open gaping holes for our RBs as James Cook is 4th in rushing with 421 yards and 6.0 ypc! He just NEEDS to take care of the ball! It’s become a real concern as we can’t score without possession. Perhaps old football coaches would suggest/demand he sleep with it  🏈 💤.. Keon Coleman has finally ARRIVED, folks! Just in time as DJ Moore and Joshua Palmer struggle with injuries, though may play tonight. Keon now gets open more and has made multiple jaw-dropping catches! Khalil Shakir has been his usual great performer but he’s not seeing many opportunities recently and neither has Kincaid..🫨 Our TE group is outstanding and we should expect this to continue. But Josh needs to lay off all the running. Maybe use Knox at QB for goal line ‘TPs’..🤔 In short, the new team motto should change from ‘just put the ball down’ to ‘Keep Allen from running!’ We don’t rely on any one more! He’s already dealing with multiple ‘booboo’s’ and it’s only early October! \n\n\n\n\t \n\n\n\n\t \n\n\n\n\t\n\n\n\n\tIt’s Go Time for Skyler!\n\n\n\n\t\n\n\n\n\t \n\n\n\n\tLet’s THRILL  the world tonight!\n\n\n\n\tWe GOT THIS!\n\n\n\n\tGO BILLS!\n\n\n\n\t \n\n\n\n\tJoe Marino chimes in",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T09:58:34.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266870-gameday-101226-week-5-mnf-bills-at-rams-815pm-gameday-thread/"
+    },
+    {
       "id": "espn-sabres::50164597",
       "team": "sabres",
       "title": "Hurricanes bring 5-game win streak into matchup with the Capitals",
@@ -179,6 +377,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-12T08:11:37Z",
       "link": "http://www.espn.com/nhl/preview?gameId=401892491"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-sabres-struggle-early-ryan-mcleod-or-josh-norris-could-be-scratched/",
+      "team": "sabres",
+      "title": "As Sabres struggle early, Ryan McLeod or Josh Norris could be scratched",
+      "summary": "BUFFALO – Scratching young players, as coach Lindy Ruff did Saturday, is often the first option to ignite a struggling team. As rookie Konsta Helenius and Jiri Kulich watched, the Sabres fell meekly to the Utah Mammoth.\nNow, Ruff’s lineup decisions – he has 14 forwards at his disposal – for this afternoon’s game against the Florida Panthers could be a heck of a lot more interesting.\nThe Sabres, fresh off a 109-point season, have ... Read the full article \nThe post As Sabres struggle early, Ryan McLeod or Josh Norris could be scratched first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T05:48:27.000Z",
+      "link": "https://www.buffalohockeybeat.com/as-sabres-struggle-early-ryan-mcleod-or-josh-norris-could-be-scratched/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142604/buffalo-bills-playoff-picture-up-in-the-air-on-monday-night-football-vs-rams",
+      "team": "bills",
+      "title": "Buffalo Bills playoff picture up in the air on ‘Monday Night Football’ vs Rams",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-12T05:00:34.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/142604/buffalo-bills-playoff-picture-up-in-the-air-on-monday-night-football-vs-rams"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142587/atlanta-falcons-vs-baltimore-ravens-week-5-snf-fan-discussion",
@@ -223,50 +443,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-12T00:31:20.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266868-the-afc-is-a-dogfight-this-year/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-sabres-struggle-early-ryan-mcleod-or-josh-norris-could-be-scratched/",
-      "team": "sabres",
-      "title": "As Sabres struggle early, Ryan McLeod or Josh Norris could be scratched",
-      "summary": "BUFFALO – Scratching young players, as coach Lindy Ruff did Saturday, is often the first option to ignite a struggling team. As rookie Konsta Helenius and Jiri Kulich watched, the Sabres fell meekly to the Utah Mammoth.\nNow, Ruff’s lineup decisions – he has 14 forwards at his disposal – for Monday afternoon’s game against the Florida Panthers could be a heck of a lot more interesting.\nThe Sabres, fresh off a 109-point season, have ... Read the full article \nThe post As Sabres struggle early, Ryan McLeod or Josh Norris could be scratched first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T23:48:27.000Z",
-      "link": "https://www.buffalohockeybeat.com/as-sabres-struggle-early-ryan-mcleod-or-josh-norris-could-be-scratched/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266867-bill-game-meetup-on-for-monday-night-game-in-honoluluwaikiki-area-this-is-a-question-not-info/",
-      "team": "bills",
-      "title": "Bill game meetup on for Monday night game in Honolulu/Waikiki area (this is a question, not info!)",
-      "summary": "I am in Honolulu staying in Waikiki this week and wondering if there are any spots where bills fans meet up. The bills backers website says Dave and Busters and there’s no way I’m going there. \n\t \n\n\n\n\tI read that Dukes and Lulus seem pretty cool. I also know someone working at hotel Lecroix bar and am staying at the Sheraton which has a pretty good bar at the pool. \n\t \n\n\n\n\tAnyone have any suggestions or want to get together? Seems like there’s a lot of rams fans here. Go Bills",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T23:39:18.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266867-bill-game-meetup-on-for-monday-night-game-in-honoluluwaikiki-area-this-is-a-question-not-info/"
-    },
-    {
-      "id": "espn-bills::50135612",
-      "team": "bills",
-      "title": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T23:12:50Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266866-to-kickoff-or-not-to-kickoff-that-is-the-question/",
-      "team": "bills",
-      "title": "To kickoff or not to kickoff, that is the question",
-      "summary": "So with Dallas losing last week by kicking the ball out of the endzone and the Eagles losing this week by making the Jags return it, what's the consensus on what teams should do in these situations?\n\n\n\n\t \n\n\n\n\tObviously it all depends on the situation, but I think the Eagles did the right thing by making the Jags return the kick off and attempt to run some time off the clock",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T21:01:16.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266866-to-kickoff-or-not-to-kickoff-that-is-the-question/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266865-week-5-around-the-nfl-no-bills-stuff-in-this-thread-please/",
@@ -324,17 +500,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266862-eagles-vs-jags-from-london/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142447/buffalo-bills-trending-up-trending-down-who-bills-need-on-monday-night-football-in-los-angeles",
-      "team": "bills",
-      "title": "Buffalo Bills trending up, trending down: Who Bills need on Monday Night Football in Los Angeles",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T13:29:25.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142447/buffalo-bills-trending-up-trending-down-who-bills-need-on-monday-night-football-in-los-angeles"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142315/bills-news-previewing-the-rams-on-monday-night-football",
       "team": "bills",
       "title": "Bills news: Previewing the Rams on Monday Night Football",
@@ -379,28 +544,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-lose-to-mammoth-still-searching-for-identity-trying-to-find-who-we-are/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/142512/buffalo-bills-game-day-drink-gam-gams-secret-ready-for-primetime-in-week-5",
-      "team": "bills",
-      "title": "Buffalo Bills game-day drink: Gam Gam’s Secret ready for primetime in Week 5",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T05:21:02.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/142512/buffalo-bills-game-day-drink-gam-gams-secret-ready-for-primetime-in-week-5"
-    },
-    {
-      "id": "espn-sabres::50153280",
-      "team": "sabres",
-      "title": "Carolina Hurricanes vs. Chicago Blackhawks: Game Highlights",
-      "summary": "Carolina Hurricanes vs. Chicago Blackhawks: Game Highlights",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T02:19:01Z",
-      "link": "https://www.espn.com/video/clip/_/id/50153280/game-highlights"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-continue-to-have-a-mammoth-headache/",
       "team": "sabres",
       "title": "Sabres continue to have a Mammoth headache",
@@ -412,15 +555,15 @@
       "link": "https://www.diebytheblade.com/sabres-continue-to-have-a-mammoth-headache/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266860-name-only-title-john-urschel/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/",
       "team": "bills",
-      "title": "[Name Only Title] John Urschel",
-      "summary": "Ex Baltimore Raven but a Canisius High School grad now a PHD mathematician solves a long standing math problem!! Congrats to him   Sorry I don’t have a link..",
+      "title": "The nostalgia thread",
+      "summary": "I’ve started following some accounts that post significant games and memorable Bills plays from the past. They always strike a chord with me and I want to share but don’t know where, so I’m starting this thread. \n\t \n\n\n\n\tok so I cannot believe this game was 5 years ago already. I remember clear as day bc I was off that Monday for Columbus Day and listened to sports radio all day in my glory! Also I remember Spencer brown talking about growing up in the Midwest and sitting in the garage watching and waiting out a storm and I could totally relate having lived in the Midwest now for 30 years.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-10T22:25:39.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266860-name-only-title-john-urschel/"
+      "publishedAt": "2026-10-10T22:21:40.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266858-mack-hollins-placed-on-ir-pats-have-four-active-wrs-and-three-active-cbs-for-raiders-game/",
@@ -434,17 +577,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266858-mack-hollins-placed-on-ir-pats-have-four-active-wrs-and-three-active-cbs-for-raiders-game/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/142549/buffalo-bills-rule-out-two-starters-for-monday-night-football-vs-rams",
-      "team": "bills",
-      "title": "Buffalo Bills rule out two starters for Monday Night Football vs. Rams",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T20:25:59.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/142549/buffalo-bills-rule-out-two-starters-for-monday-night-football-vs-rams"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-5-preview-open-thread-utah-mammoth-at-buffalo-sabres/",
       "team": "sabres",
       "title": "Game #5 Preview & Open Thread: Utah Mammoth at Buffalo Sabres",
@@ -454,17 +586,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-10T20:04:59.000Z",
       "link": "https://www.diebytheblade.com/game-5-preview-open-thread-utah-mammoth-at-buffalo-sabres/"
-    },
-    {
-      "id": "espn-bills::50149505",
-      "team": "bills",
-      "title": "Bills rule out Ed Oliver, Joshua Palmer, wait on WR DJ Moore",
-      "summary": "Bills wide receiver DJ Moore returned to practice in a noncontact jersey and will be designated as questionable for \"Monday Night Football\" against the Rams. Buffalo has ruled out wide receiver Joshua Palmer and defensive tackle Ed Oliver.",
-      "source": "ESPN · Nick Suss",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T19:28:09Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50149505/bills-rule-ed-oliver-joshua-palmer-wait-wr-dj-moore"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/i-m-excited-wr-skyler-bell-is-ready-for-his-nfl-debut",
@@ -487,17 +608,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-10T18:25:03.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-rams-week-5"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-rumors/142345/arizona-cardinals-finalizing-details-to-trade-marvin-harrison-jr-per-reports",
-      "team": "bills",
-      "title": "Arizona Cardinals “finalizing details” to trade Marvin Harrison Jr., per reports",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T18:16:40.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-rumors/142345/arizona-cardinals-finalizing-details-to-trade-marvin-harrison-jr-per-reports"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-scratch-konsta-helenius-jiri-kulich-colten-ellis-to-start-in-goal/",
@@ -533,28 +643,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46593/usa-vs-spain-2026-friendly-time-tv-schedule-streaming-and-lineups"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142529/bills-news-christian-benford-seems-on-track-to-return-and-other-news-out-of-one-bills-drive",
-      "team": "bills",
-      "title": "Bills news: Christian Benford seems on track to return and other news out of One Bills Drive",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T13:52:52.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/142529/bills-news-christian-benford-seems-on-track-to-return-and-other-news-out-of-one-bills-drive"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266853-realistic-and-unrealistic-trade-targets-thread/",
-      "team": "bills",
-      "title": "Realistic and unrealistic trade targets thread!",
-      "summary": "There has been a lot of discussion about how we can improve the team this season for our eventual playoff push. But I think the players we maybe considered targeting preseason (like Crosby) are either off the table or not really what we need to chase.\n\n\n\n\t \n\n\n\n\tso lets go on record! Who do the Bills go after? Pick someone realistic (based on trade compensation, we aren’t getting CeeDee Lamb for a 4th), and someone more unrealistic, but still attainable. \n\t \n\n\n\n\tWe can revisit the thread trade deadline and see who gets moved, and for what. \n\t \n\n\n\n\tI’ll go first. \n\t \n\n\n\n\tRealistic: BTJ for a 4th\n\n\n\n\t \n\n\n\n\tUnrealistic but possible: Terry McLaurin for a 5th",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T07:40:04.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266853-realistic-and-unrealistic-trade-targets-thread/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/newcomer-matt-villalta-gives-rochester-amerks-no-1-goalie-sabres-depth/",
       "team": "sabres",
       "title": "Newcomer Matt Villalta gives Rochester Amerks No. 1 goalie, Sabres depth",
@@ -564,50 +652,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-10T05:24:05.000Z",
       "link": "https://www.buffalohockeybeat.com/newcomer-matt-villalta-gives-rochester-amerks-no-1-goalie-sabres-depth/"
-    },
-    {
-      "id": "espn-bills::50129471",
-      "team": "bills",
-      "title": "NFL Week 5 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "summary": "Bears vs. Packers? 49ers vs. Seahawks? There are 14 more games in Week 5, and we have picks, predictions and more for all of them.",
-      "source": "ESPN · NFL Nation, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T23:48:02Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50129471/week-5-picks-predictions-schedule-fantasy-odds-2026"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266850-wr-josh-palmer-pops-up-on-injury-report/",
-      "team": "bills",
-      "title": "WR Josh Palmer pops up on Injury Report",
-      "summary": "It appears something happened to Josh Palmer during practice yesterday or today, as he randomly popped up as a Limited Participant on the Injury Report with a Shoulder injury.\n\n\n\n\t \n\n\n\n\tHis status will be something to monitor tomorrow. As often the unforeseen \"Limited\" mid week means he went down mid practice and is followed up by a DNP. \n\n\n\n\t \n\n\n\n\tHopefully it's nothing big bc we're likely already to be down DJ Moore this week. If Palmer is out too, we'll only have Coleman, Shakir, Bell, and Dortch (who is mainly just a Returner). If he's down too, we'll likely have to call up Trent Sherfield.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T23:45:52.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266850-wr-josh-palmer-pops-up-on-injury-report/"
-    },
-    {
-      "id": "espn-bills::50143108",
-      "team": "bills",
-      "title": "Keon Coleman looks to stay hot in Week 5",
-      "summary": "Nick Suss discusses Keon Coleman's latest breakout.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T22:30:17Z",
-      "link": "https://www.espn.com/video/clip/_/id/50143108/keon-coleman-looks-stay-hot-week-5"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-at-los-angeles-rams-where-to-watch-stream-and-listen-mnf-week-5",
-      "team": "bills",
-      "title": "Buffalo Bills at Los Angeles Rams | Where to watch, stream and listen | MNF Week 5",
-      "summary": "TV Channel, Streaming and Radio for Bills at Rams",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T20:54:18.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-at-los-angeles-rams-where-to-watch-stream-and-listen-mnf-week-5"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266849-conrad-dobler-and-phil-villapiano-canadian-border-crossing-story/",
@@ -720,39 +764,6 @@
       "link": "https://bandits.com/bandits-announce-2026-27-schedule/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142442/despite-need-for-more-james-cook-buffalo-bills-should-stay-dedicated-to-this-offensive-philosophy",
-      "team": "bills",
-      "title": "Despite need for more James Cook, Buffalo Bills should stay dedicated to this offensive philosophy",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T12:31:55.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142442/despite-need-for-more-james-cook-buffalo-bills-should-stay-dedicated-to-this-offensive-philosophy"
-    },
-    {
-      "id": "espn-bills::50085464",
-      "team": "bills",
-      "title": "NFL Week 5 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T08:10:19Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals"
-    },
-    {
-      "id": "espn-bills::47809892",
-      "team": "bills",
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "source": "ESPN · Doug Greenberg",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T07:27:21Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-hear-boos-get-blanked-by-stars-in-ugly-loss-didnt-have-our-game/",
       "team": "sabres",
       "title": "Sabres hear boos, get blanked by Stars in ugly loss: ‘Didn’t have our game’",
@@ -808,6 +819,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266836-week-4-bills-v-la-sheep-predict-the-score/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266834-after-just-4-games-davis-webb-stripped-of-broncos-playcalling-duties/",
+      "team": "bills",
+      "title": "After just 4 games, Davis Webb stripped of Broncos Playcalling Duties",
+      "summary": "One of the favorites for the Bills job was Davis Webb. He was a hot candidate for Head Coaching gigs this past year. \n\n\n\n\t \n\n\n\n\tSo much so, Sean Payton gave him Playcalling duties - likely to keep him from taking another OC gig where he'd have control.... and he gave him that power for a full 4 games.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-08T20:57:15.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266834-after-just-4-games-davis-webb-stripped-of-broncos-playcalling-duties/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/top-storylines-for-bills-vs-rams-week-5",
       "team": "bills",
       "title": "Top Bills game storylines vs. Rams | Week 5",
@@ -817,17 +839,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-08T19:13:00.000Z",
       "link": "https://www.buffalobills.com/news/top-storylines-for-bills-vs-rams-week-5"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266833-is-deone-walker-the-best-dt-in-the-nfl/",
-      "team": "bills",
-      "title": "Is Deone Walker the best DT in the NFL?",
-      "summary": "No hot take here, I'm genuinely asking. Through 4 games he has a case.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-08T18:54:58.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266833-is-deone-walker-the-best-dt-in-the-nfl/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/meet-santiago-castaneda-colombian-american-bundesliga-usmnt/",
@@ -907,6 +918,17 @@
       "link": "https://www.cbssports.com/soccer/news/usmnts-next-generation-arrives-cavan-sullivan-julian-hall-mauricio-pochettino/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266829-drake-maye-believes-the-moon-landing-was-faked/",
+      "team": "bills",
+      "title": "Drake Maye believes the moon landing was faked.",
+      "summary": "Hell of of job letting him get off the mat last Sunday.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-07T20:49:56.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266829-drake-maye-believes-the-moon-landing-was-faked/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-usmnt-wrap-up-perfect-international-break-with-fourth-straight-win-in-1-0-victory-over-canada/",
       "team": "usmnt",
       "title": "Footy Fix: USMNT wrap up perfect international break with fourth straight win in 1-0 victory over Canada",
@@ -949,17 +971,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-07T05:04:56.000Z",
       "link": "https://www.buffalohockeybeat.com/owen-power-tage-thompson-star-as-sabres-roar-back-to-beat-wild-in-ot-like-a-playoff-game/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/undersized-sabres-d-zach-metsa-earns-respect-for-fight-with-mathieu-olivier-extremely-courageous/",
-      "team": "sabres",
-      "title": "Undersized Sabres D Zach Metsa earns respect for fight with Mathieu Olivier: ‘Extremely courageous’",
-      "summary": "BUFFALO – No one expected it. After all, Sabres defenseman Zach Metsa doesn’t fight much. As a pro, he said he had only scrapped once before taking on heavyweight Mathieu Olivier in Thursday’s season opener in Columbus.\nAs a rookie with the Rochester Americans, the 5-foot-9, 201-pound Metsa said he fought a member of the Syracuse Crunch whose name he doesn’t remember.\n“I think he was No. 18,” Metsa said Saturday in KeyBank Center.\nIn ... Read the full article \nThe post Undersized Sabres D Zach Metsa earns respect for fight with Mathieu Olivier: ‘Extremely courageous’ first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-07T05:02:36.000Z",
-      "link": "https://www.buffalohockeybeat.com/undersized-sabres-d-zach-metsa-earns-respect-for-fight-with-mathieu-olivier-extremely-courageous/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/soccer/46550/usmnt-caps-off-youthful-camp-with-narrow-win-over-canada",
@@ -1050,17 +1061,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-canada-live-stream-world-cup-international-break-tuesday/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46494/usmnt-to-face-haiti-in-concacaf-nations-league-quarterfinals",
-      "team": "usmnt",
-      "title": "USMNT to face Haiti in Concacaf Nations League Quarterfinals",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-06T04:05:52.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/46494/usmnt-to-face-haiti-in-concacaf-nations-league-quarterfinals"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266808-game-week-thread-bills-at-rams-mnf/",
       "team": "bills",
       "title": "Game week thread - Bills at Rams MNF",
@@ -1127,15 +1127,15 @@
       "link": "https://www.cbssports.com/soccer/news/lionel-messi-farewell-argentina-superstar-final-national-team-match/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266776-early-crossroads-for-brady/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266768-dj-moore-injury-not-considered-long-term-as-of-right-now/",
       "team": "bills",
-      "title": "Early crossroads for Brady",
-      "summary": "How does Brady handle adversity? We are about to find out. Is he too much of a player's coach? Can he give Josh the firm support and structure needed? Is the team needing a stronger guiding hand?\n\n\n\n\tI don't know. \n\n\n\n\tThis team needs an ass-kicking. We cannot have Dawkins have a performance like yesterday... tired of his clown show... why not pull him or bench him? I know ... flame away... who is better?  What changes can be made (tough to say with injuries and personnel).\n\tBrady does not seem like the chair breaking,- throw a fit coach but how about some fire and shake up some stuff?\n\n\n\n\tOpening kickoff decision , play calling, lack of accountability and motivation... I like Brady but so much falls on him... I am anxious and hopeful that he turns things around. Not to be forgotten... the great \"architect \", Beane, sits quietly in the shadows.",
+      "title": "DJ Moore - Injury not considered long term \"as of right now\"",
+      "summary": "Let him heal up for a couple weeks (at least one game). We're just playing with fire everytime he gets tackled or lands the wrong way.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-05T07:36:57.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266776-early-crossroads-for-brady/"
+      "publishedAt": "2026-10-05T00:35:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266768-dj-moore-injury-not-considered-long-term-as-of-right-now/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266765-is-it-skyler-bell-time-confirmed-playing-vs-rams/",
@@ -1147,6 +1147,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-04T23:05:07.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266765-is-it-skyler-bell-time-confirmed-playing-vs-rams/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266747-electing-to-receive-opening-kickoff/",
+      "team": "bills",
+      "title": "Electing to Receive Opening Kickoff",
+      "summary": "This was a sh strategy and set the tempo for a terrible game.\n\n\n\n\t \n\n\n\n\tThere's a reason why every other team winning the coin toss elects to defer & receive the 2nd half kickoff. No chance at the 'double dip' \n\n\n\n\t \n\n\n\n\tRight out of the gate, Brady put us behind the curve with a bad call, and we go 3 and out to start.\n\n\n\n\t \n\n\n\n\tPseudo-intellectual 🦬💩.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-04T20:29:18.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266747-electing-to-receive-opening-kickoff/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-new-generation-beats-mexico-friendly/",
@@ -1204,15 +1215,15 @@
       "link": "https://www.diebytheblade.com/game-2-preview-open-thread-blackhawks-at-sabres/"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-cannonballed-by-columbus-fall-6-3/",
-      "team": "sabres",
-      "title": "Sabres Cannonballed by Columbus, Fall 6-3",
-      "summary": "Can We Get a Do-Over?\n\n\n\nScore: Buffalo Sabres 3-6 Columbus Blue JacketsShots: BUF 26-23 COL\n\n\n\nBuffalo Sabres Goals: Samuelsson 1st (Ostlund, Power) Quinn 1st (Benson, Ostlund)  Helenius 1st (McLeod, Power)Columbus Blue Jackets Goals: Sillinger 1st (Coyle, Mateychuk) Knies 1st (Coyle, Werenski) Fantilli 1st (Werenski, Knies) Knies 2nd (Andrae, Johnson) Monahan 1st ( Nichushkin, Voronkov) Olivier 1st (Coyle)\n\n\n\n“Frustrated Incorporated”\n\n\n\nMinus 1: Sammy! Then WHAMMY!\n\n\n\nBuffalo got a good chance just seconds into the game when Tage Thompson rang one off the iron. Josh Doan followed that up with a nice pass from Josh Norris, taking the puck right to the net, but Jet Greaves of Columbus made a quality save. The Blue Jackets then put on a strong forecheck but couldn’t get the puck to the net for a shot. Carson Soucy was called for cross-checking Sabres forward Jack Quinn, giving Buffalo’s much-maligned power play its first opportunity of the season.\n\n\n\nIt didn’t last long.\n\n\n\nAfter fumbling the puck at least twice, TNT was called for hooking, negating the rest of the man advantage. That opened the ice for 4-on-4 play and gave Mattias Samuelsson plenty of room to let one rip. Sammy cashed in with a wicked shot that eluded Greaves. Noah Ostlund and Owen Power picked up the assists on Buffalo’s first goal of the new season.\n\n\n\nTen minutes in, the shots were just 3-2 in favor of the Sabres.\n\n\n\nBuffalo picked up its fourth and fifth shots while enjoying some quality zone time, but a Columbus breakout would tie the game. Charlie Coyle tried to split the Sabres defense, which closed in on him, but Coyle made a great play to drop the puck back to an open Cole Sillinger. He fired a snapper past a surprised Ukko-Pekka Luukkonen. The Sabres’ forwards were caught too deep and couldn’t get back to cover the man in the slot.\n\n\n\nA little later, Buffalo fumbled the puck in front of its own net with some inopportune passing. Samuelsson had to tie up his man to recover, bringing him down and taking a penalty in the process. Columbus cashed in quickly as Matthew Knies snapped a shot on UPL from about 15 feet out that found the twine. The Jackets had now collected four straight shots and two goals. They added another on their next shot. Adam Fantilli’s long-distance blast had eyes, beating Luukkonen again.\n\n\n\nThe Sabres’ first-period collapse was painful to watch and incredibly discouraging after scoring first on the road. Buffalo’s new and undermanned defense was certainly not in midseason form, and neither was UPL. The Sabres weren’t aggressive enough defensively, repeatedly backing in instead of challenging the Columbus attack. This was a serious shake-your-head period—one Buffalo desperately needed to put behind it. Would they?\n\n\n\nPlus 1: Two on the Board but One Against\n\n\n\nA quick turnover to start the period allowed Jack Quinn to bring the game back within one. Buffalo held the puck in at the blue line, where Zach Benson came up with it and quickly dished it to Quinn. Benson then drove to the net, taking a Columbus defender with him. Quinn cut wide, setting himself up for the shot before zipping the puck past Jet Greaves. It was a huge goal to start the middle frame and exactly what the Blue and Gold needed.\n\n\n\nBuffalo found some new life after the goal, generating more zone time and pressure. The Sabres would draw a penalty on a strong forecheck as Ukko-Pekka Luukkonen headed to the bench. The whistle eventually blew with the puck rolling in front of Buffalo’s empty net. Mathieu Olivier decided he would break the unwritten rules and fired the puck into the yawning cage, and Sabres defenseman Zach Metsa let him know that wasn’t going to fly, giving him a good shove. The hulking Blue Jackets enforcer then decided to go ham, attacking Metsa and firing away with wild punches. Metsa was clearly overmatched and undersized, but to his credit, Zach hung in there. He absorbed Olivier’s relentless barrage and even managed to sneak in a few shots of his own. Metsa did his best to shield himself from the assault, but where were the refs on that one? A much smaller player was essentially in survival mode against a significantly bigger opponent, and the zebras simply stood back and watched. Way to go, NHL.\n\n\n\nBuffalo would receive a five-on-three advantage following the incident, but the Sabres couldn’t cash in. A two-man advantage was the perfect opportunity to tie the game, and good teams find a way to capitalize in those situations. Buffalo didn’t, and it would come back to bite them as Columbus reestablished its two-goal lead. Matthew Knies scored again, giving him three points on the night. The former Toronto Maple Leaf seemed possessed, apparently determined to continue finding success against Buffalo even after leaving the Atlantic Division.\n\n\n\nThe Sabres would get their fourth power play of the night shortly afterward, but once again failed to score. However, Buffalo continued to keep the pressure on and finally found twine moments after the penalty expired. Konsta Helenius scored his first goal of the season after receiving a beautiful cross-ice pass from Ryan McLeod. Owen Power picked up his second assist of the game on the play as well.\n\n\n\nThe Sabres generated some good zone time for the remainder of the period, but couldn’t find the equalizer. After 40 minutes, Columbus still held a 4-3 lead.\n\n\n\n\n\n\n\nMinus 2: Sammy’s Double Whammy\n\n\n\nBuffalo continued to get some zone time early in the period, generating a few chances while pressing the attack. Benson and Ostlund were standouts among the forward ranks. Luukkonen then came up with his best save of the game, getting a piece of the puck while sliding across the crease to deny a Columbus 2-on-1. He had faced just 16 shots to that point, but four of them had already found the back of the net. He remained focused though.\n\n\n\nOwen Power then had his stick slashed in half as Sillenger was sent off the ice. Another chance for the dreaded Buffalo power play. Once again, failure, though the Sabres came close with a shot off the post with 3 seconds left. Columbus was all over the puck carrier and was winning most of the face offs. UPL then came up big again, denying Knies of a hat trick on a breakaway. It wasn’t his best outing for sure but he kept his team in it for much of the third period.\n\n\n\nSamuelsson then took his second penalty of the evening, this time for tripping. The Sabres nearly killed it off, but Sean Monahan tipped the puck past UPL with just two seconds remaining on the man advantage. Just like that, Columbus had a 5-3 lead. Both of Sammy’s penalties ultimately resulted in Blue Jackets power-play goals.\n\n\n\nBuffalo eventually pulled UPL, and, well, we all know how that usually goes. You have a better chance of hitting the Lotto than the Sabres cashing in on a 6-on-5 advantage. After several more puck fumbles, Mathieu Olivier found the empty net to seal a 6-3 Columbus victory. As discussed before the game, the Sabres simply do not match up well against Columbus, for whatever reason. It was a disappointing way to start the new year, with mental mistakes and poor puck control plaguing Buffalo throughout the night. The defense also failed to attack the way it needed to, allowing the Blue Jackets far too much room to operate.\n\n\n\nOverall, it was a frustrating game to watch. The Sabres have plenty of work to do and will need to clean up several problem areas before they take the ice again. What a ginormous disappointment. We waited all summer for THAT???\n\n\n\nFinal Thoughts:\n\n\n\nOnce again, special teams were a major issue in this game. The power play went 0-for-5, while the penalty kill managed to go just 1-for-3. There’s your game right there. Those are simply dreadful numbers, and the struggles on the faceoff dot only made matters worse. Draws have been an issue with this group for some time, and tonight was no different. Buffalo won just 41 percent of tonight’s faceoffs, including losing many while on the man advantage.\n\n\n\nRasmus Dahlin and Tage Thompson were very quiet in this game, not a good winning recipe.\n\n\n\nThe Sabres now turn their attention to the Chicago Blackhawks for their home opener on Saturday, October 3rd, at 7 p.m. at KeyBank Center. Former Buffalo defenseman Bo Byram will make his first return to the building.\n\n\n\n\n\n\n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-10-01: pic.twitter.com/q67KdAjn3n&mdash; HockeyStatCards (@hockeystatcards) October 2, 2026",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266728-how-is-maxwell-hairston-doing/",
+      "team": "bills",
+      "title": "How is Maxwell Hairston doing?",
+      "summary": "Allowing the 2nd lowest completion % in the NFL.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-02T02:49:39.000Z",
-      "link": "https://www.diebytheblade.com/sabres-cannonballed-by-columbus-fall-6-3/"
+      "publishedAt": "2026-10-02T16:13:17.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266728-how-is-maxwell-hairston-doing/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266606-marvin-harrison-jr-now-reportedly-traded-to-houston/",
