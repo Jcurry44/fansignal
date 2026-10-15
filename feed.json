@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:55:07.848Z",
+  "generatedAt": "2026-10-15T05:39:48.745Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -170,6 +170,72 @@
   ],
   "stories": [
     {
+      "id": "espn-bills::50186856",
+      "team": "bills",
+      "title": "Bills face Maxx Crosby challenge with uncertain O-line",
+      "summary": "Nick Suss breaks down how Buffalo plans to handle Maxx Crosby as OT Spencer Brown works through a back injury.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T03:49:48Z",
+      "link": "https://www.espn.com/video/clip/_/id/50186856/bills-face-maxx-crosby-challenge-uncertain-o-line"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-highlights-capitals-5-canadiens-4/",
+      "team": "sabres",
+      "title": "NHL Highlights: Capitals 5, Canadiens 4",
+      "summary": "Alex Tuch scored twice and added an assist, while Jordan Kyrou and Ilya Protas chipped in with two points each as the Washington Capitals outlasted the Montreal Canadiens for a 5-4 win.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T02:50:26.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/nhl-highlights-capitals-5-canadiens-4/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/alex-tuch-has-two-goals-and-an-assist-in-capitals-win-over-canadiens/",
+      "team": "sabres",
+      "title": "Alex Tuch has two goals and an assist in Capitals’ win over Canadiens",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T02:45:15.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/alex-tuch-has-two-goals-and-an-assist-in-capitals-win-over-canadiens/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/142923/bills-injury-report-spencer-brown-joshua-palmer-limited-wednesday",
+      "team": "bills",
+      "title": "Bills injury report: Spencer Brown, Joshua Palmer limited Wednesday",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T02:23:01.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/142923/bills-injury-report-spencer-brown-joshua-palmer-limited-wednesday"
+    },
+    {
+      "id": "espn-bills::50185418",
+      "team": "bills",
+      "title": "Rams' Alaric Jackson has suspension cut to 1 game following appeal",
+      "summary": "Alaric Jackson's suspension for punching Bradley Chubb after Monday night's game between the Bills and Rams was reduced from two games to one.",
+      "source": "ESPN · Sarah Barshop",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T01:14:33Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50185418/rams-alaric-jackson-suspension-cut-1-game"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266946-wide-receivers-and-their-routes/",
+      "team": "bills",
+      "title": "Wide receivers and their routes",
+      "summary": "So I was at the game Monday night and on a few plays I just chose to watch our wide receivers. And when I did I noticed a lot of times they just run the route and almost just come to a stop even if the ball hasn’t been thrown. There’s no juking, no dropping a shoulder then planting a foot to go the opposite direction, no attempt to get the defender off your path. It’s like they are told you have to run the route 100% as drawn and when your done just stand there and look back at the qb. They look like the easiest people to cover. Is this how it always is so you are going to the spot the qb expects you to be in? Seemed like without a pick on a lot of plays these guys can’t shake free from a defender. It seemed almost lazy at times. What am I missing?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T01:07:02.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266946-wide-receivers-and-their-routes/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266945-what-is-your-favorite-bills-game-time/",
       "team": "bills",
       "title": "What is your favorite Bills game time?",
@@ -181,6 +247,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266945-what-is-your-favorite-bills-game-time/"
     },
     {
+      "id": "espn-bills::50185371",
+      "team": "bills",
+      "title": "Bills' Bradley Chubb details his side of altercation with Rams' Alaric Jackson",
+      "summary": "Bills edge defender Bradley Chubb gave his side of the story two days after a postgame altercation with Rams offensive tackle Alaric Jackson.",
+      "source": "ESPN · Nick Suss",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T00:04:08Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50185371/bills-rams-bradley-chubb-alaric-jackson-punch-side"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142907/buffalo-bills-hc-joe-brady-endorses-current-play-of-teams-starting-lbs",
       "team": "bills",
       "title": "Buffalo Bills HC Joe Brady endorses current play of team’s starting LBs",
@@ -190,17 +267,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T23:36:18.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/142907/buffalo-bills-hc-joe-brady-endorses-current-play-of-teams-starting-lbs"
-    },
-    {
-      "id": "espn-bills::50185371",
-      "team": "bills",
-      "title": "Bills' Bradley Chubb details his side of altercation with Rams' Alaric Jackson",
-      "summary": "Bills edge defender Bradley Chubb gave his side of the story two days after a postgame altercation with Rams offensive tackle Alaric Jackson.",
-      "source": "ESPN · Nick Suss",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T23:33:40Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50185371/bills-rams-bradley-chubb-alaric-jackson-punch-side"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266944-a-few-thoughts-about-the-rams-game-in-no-particular-order/",
@@ -313,6 +379,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266939-interesting-comment-from-leonard-in-his-presser/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266937-ranking-the-afc-at-the-first-quarter-pole/",
+      "team": "bills",
+      "title": "Ranking The AFC At The First Quarter Pole",
+      "summary": "I do these rankings every four/five weeks and we are at the first quarter pole for the AFC so here we go. As always debate, agree with me, tell me I am beyond wrong and go run into the sun; this is how I see it though looking not only today but toward end of the year at this point.\n\n\n\n\t \n\n\n\n\tDarkness has returned at the top of the AFC\n\n\n\n\tKansas City- They defense looks good again, the offense is rolling and while Denver is probably the only good team they have played the Chiefs are 4-0. Ugh. I do think they are more mortal then the past but like Brady/NE before you need to end them when you have the chance. \n\n\n\n\t \n\n\n\n\tThe Jags.. THE JAGS\n\n\n\n\tJacksonville – At 4-1 they have taken out NE CIN & PHI all teams considered quality by observers. The defense is great and Trevor looks on fire. Maybe it is their time..\n\n\n\n\t \n\n\n\n\tI Think Their A Top Contender But…\n\n\n\n\tBuffalo – Offense is a buzz saw even if not fully healthy and more dangerous then it has been in years. Brady & Josh will figure it out more and the back half they will hit a true balanced stride. The defense is a major issue though which even with a good (heck maybe great) defensive line could hold them back come January from making the run everyone wants to see.\n\n\n\n\t \n\n\n\n\tBaltimore- 4-1 but Lamar is injured again which always limits the offense & will he be fresh later on, their schedule has one soft spot right now with LAC, at CAR, at HOU once they play at CLE, CIN, at BUF, JAX. Four division games to close will determine a lot as the Ravens are actually around .500 lately in division. I like what they have but there are some sneaky questions like the depth of their WR corp after Flowers and health of o-line that may crop up later in the year.\n\n\n\n\t \n\n\n\n\tIf You Want To Believe They Are A Great Team You Can Make A Case, But Reality Is There Closer to Average Then Good\n\n\n\n\tNew England- Maye is locked in right now which is a problem and if he has time he can do work against any defense. But their offensive line is a mess and the defense especially the secondary has injuries. They are a team who plays better as a whole, but the schedule is not going to give any freebees like last year.\n\n\n\n\t \n\n\n\n\tDenver- I was high on Denver and really thought Waddle would help the offense evolve more, but they are just a good team with a QB who is probably holding them back rather then carrying them. The defense is not as strong after losing pieces so Nix is not getting a million chances to get his team back in the game. He is coming back off injury this Fall so maybe he rebounds as the season progresses, but last year feels like their chance not this year.\n\n\n\n\t \n\n\n\n\tCincinnati- Burrow has been great but they have injuries at WR and even with a better defense they have lost two different games already that feel like they should have had. They probably make the playoffs and the offense is always scary, but it is just so damn hard to believe it finally clicks here to be a juggernaut. It really is maddening to have to watch that team\n\n\n\n\t \n\n\n\n\tPittsburgh’s Mandatory Category\n\n\n\n\tSteelers - What else is there to say? Same thing new year. Their old, but have talent, but they win games you don’t expect, lose games they probably shouldn’t, they will probably be 7-5 or 8-5 at some point, then be 8-7, and the final week have a chance to make the playoffs or win the division before either blowing that opportunity OR losing wild card weekend. We have said this for nearly a decade now. \n\n\n\n\t \n\n\n\n\tNice Story & Start But Probably Lack The Gas To Make An Actual Wildcard Run\n\n\n\n\tCleveland- The defense is for real and downright scary where their division games are going to inflict consequence to their foes even if they lose. The offense has a better pass catching group then people realize, but Watson is still playing at replacement level at this point. Still a new core is building AND IF they do it right they will be a problem in a year or two with a new QB.\n\n\n\n\t \n\n\n\n\tVegas- I actually think at the start of December Vegas will still be in the hunt which is progress. They will fade as they need more talent and Mendoza will take his licks as he learns. But even saying this is improvement.\n\n\n\n\t \n\n\n\n\tProbably Too Little Too Late At This Point For Different Reasons\n\n\n\n\tIndianapolis- They play hard and are in games, but their schedule offers almost no relief and losing three games early here probably is too much given the tight rope they have coming. Their like the anti-PIT as PIT makes the playoffs after a season of chaos/up & down, whereas IND probably is 7-7 late DEC with the chance to make it if they win out.. and then blow it. No reason to think otherwise at this point.\n\n\n\n\t \n\n\n\n\tHouston- The defense is finally coming together with Ryan calling the plays and while the schedule offers the ability to add wins, their too far out even if the team rallies hard given the tie breakers too. IF they are going to make a charge to get back into it, weeks 9-11 they play at LAC, at CLE, & IND. Even if they are 2-5 at that point that stretch could get them to 5-5. The problem is the games after and the odds of going at least 5-2. I just don't see it, they played with fire too much early on.\n\n\n\n\t \n\n\n\n\tThe Jets\n\n\n\n\tThis is like the fourth time since 2015 I feel like you could see the defense has some strong pieces to build around and the offense could be spunky with the right QB. Sure fine they are playing better right now and probably will be an issue every week for most teams. I just don’t believe in Glenn long term nor do I believe this team actually figures out the offense/QB to take the next step. If they actually want to make a step be 6-6 come week 12 where a wild card doesn't seem so out of the question. \n\n\n\n\t \n\n\n\n\tAll As Planned\n\n\n\n\tMiami- The goal was to not win, add young pieces, and draft top three. They are on track for all three at this point and they are taking their cap medicine so they can truly build next year. As a Bills fan I am so jealous they got Jacob Rodriguez, thanks Beane.\n\n\n\n\t \n\n\n\n\tI Mean Where Do You Go\n\n\n\n\tLA Chargers- For the record I sold on the Chargers being a thing this year as I just don’t buy that front office or team in general. But man this is sooo much worse than even I saw at this point. The McDaniel fan club is deceased at this point and honestly the options moving forward aren’t great. Clean house with a new front office & coach while keeping Herbert who has certainly showed some big things but also regressed & needs a new contract at 28? Completely go scorched earth trading Herbert for picks, firing everyone, which means you’re then looking at 2-3 years minimum to be competitive again? Honestly neither option is good at this point and their home games are neutral site games.\n\n\n\n\t \n\n\n\n\tFootball Purgatory\n\n\n\n\tTennessee- Since Mike Vrabel was fired in 2023 the team is 6-33 through week 5 in 2026. I thought they would take a step this year where they go 5-12 maybe 6-11, Ward shows promise taking a step himself, and the defense is in the top half giving hope for the future.  Instead it is a flaming disasters with zero positives outside of WR Carnell Tate who has looked good. I can’t imagine they fire the coaching staff after one year and it is a long season, BUT building blocks need to emerge to give some hope for the future. Bryce Young benefited big time from getting sat down for a few weeks and maybe that helps Ward here. Football is supposed to be fun and enjoyable, there has been nothing fun or enjoyable in Nashville for a while with no proof that will change anytime soon.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-14T19:22:06.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266937-ranking-the-afc-at-the-first-quarter-pole/"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142871/why-nfl-teams-with-late-leads-should-be-more-aggressive-on-defense",
       "team": "bills",
       "title": "Why NFL teams with late leads should be more aggressive on defense",
@@ -412,17 +489,6 @@
       "link": "https://bandits.com/bandits-sign-andrews-booth-scanlan/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266936-stat-seen-shocking/",
-      "team": "bills",
-      "title": "Stat seen - shocking",
-      "summary": "Since our 44-42 loss to the Rams in LA on 12/8/24, The Bills have allowed over 30 points 8 times in the regular season.  We've won all 8 of those games.\n\n\n\n\t \n\n\n\n\t12/15/24    @ Lions            48-42 win\n\t9/7/25        Ravens            41-40 win\n\t11/16/25     Buccaneers        44-32 win\n\t12/7/25        Bengals            39-34 win\n\t12/14/25    @ patriots*        35-31 win\n\t9/13/26        @ Texans        36-31 win\n\t9/17/26        Lions            41-31 win\n\t10/12/26    @ Rams            37-34 OT win\n\n\n\n\t \n\n\n\n\tSadly, this trend hasn't held true in playoffs.  Yet.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T17:49:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266936-stat-seen-shocking/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-12/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 10/12",
@@ -467,17 +533,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/142886/greg-rousseau-earns-afc-special-teams-player-of-the-week-after-saving-bills-in-overtime"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266933-groot-afc-special-teams-player-of-the-week/",
-      "team": "bills",
-      "title": "Groot - AFC Special Teams Player of the Week",
-      "summary": "GROOT!!!\n\n\n\n\t \n\n\n\n\tHelps us seal the victory against the Texans, and this past week, gave us a chance to win the game!\n\n\n\n\t \n\n\n\n\tGreat year so far. Go Bills!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T16:29:55.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266933-groot-afc-special-teams-player-of-the-week/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-power-rankings/142880/bills-climb-in-week-6-power-rankings-but-did-the-overtime-escape-convince-everyone",
       "team": "bills",
       "title": "Bills climb in Week 6 power rankings, but did the overtime escape convince everyone?",
@@ -487,6 +542,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T16:26:15.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-power-rankings/142880/bills-climb-in-week-6-power-rankings-but-did-the-overtime-escape-convince-everyone"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266932-hoecht-micd-up-during-the-block-of-the-fg/",
+      "team": "bills",
+      "title": "Hoecht mic'd up during the block of the FG",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-14T16:21:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266932-hoecht-micd-up-during-the-block-of-the-fg/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/top-bills-game-storylines-vs-raiders-week-6",
@@ -588,17 +654,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142840/buffalo-bills-game-balls-who-earned-them-week-5-rams-overtime-josh-allen-greg-rousseau"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142834/bills-rams-officiating-major-storyline-penalties-flags",
-      "team": "bills",
-      "title": "Officiating a major storyline in Bills win over Rams",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T10:58:34.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142834/bills-rams-officiating-major-storyline-penalties-flags"
-    },
-    {
       "id": "espn-sabres::50179406",
       "team": "sabres",
       "title": "Taylor Hall exits Hurricanes' 4-2 win with upper-body injury",
@@ -619,17 +674,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T03:17:18.000Z",
       "link": "https://www.diebytheblade.com/sabres-escape-montreal-with-a-point-lose-4-3-in-shootout/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266926-my-hope-for-the-defense/",
-      "team": "bills",
-      "title": "My hope for the Defense",
-      "summary": "Is to gain confidence over the next 5 games\n\n\n\n\t \n\n\n\n\tKirk Cousins\n\n\n\n\tTyler Huntley\n\n\n\n\tKyler Murray\n\n\n\n\tGeno Smith\n\n\n\n\tMalik Willis\n\n\n\n\t \n\n\n\n\tNot exactly a murderers row…\n\n\n\n\t \n\n\n\n\tLet’s not forget, this same defense was making plays on Josh Allen in Rochester. Deep down you’ve got to think something’s there.  \n\n\n\n\t \n\n\n\n\tWe know the guys upfront can play, but as a group they’ve had it rough so far.  Goff, Stafford, Herbert, even Maye is pretty good.  \n\n\n\n\t \n\n\n\n\tThey’re about to round into the soft part of the schedule. They should perform well over the next several weeks and hopefully by the time Mahomes comes to town they’ve got the communication down for the noise at Highmark.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T02:15:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266926-my-hope-for-the-defense/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46654/uswnt-rides-second-half-surge-to-draw-spain",
@@ -654,17 +698,6 @@
       "link": "https://www.espn.com/video/clip/_/id/50178586/game-highlights"
     },
     {
-      "id": "espn-bills::50173615",
-      "team": "bills",
-      "title": "NFL suspends Rams' Alaric Jackson for two games after punch",
-      "summary": "The NFL on Tuesday suspended Rams left tackle Alaric Jackson for two games without pay after he punched Bills outside linebacker Bradley Chubb following Monday night's game in Los Angeles.",
-      "source": "ESPN · Sarah Barshop",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T02:01:58Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50173615/nfl-suspends-rams-lt-jackson-punching-bills-chubb"
-    },
-    {
       "id": "espn-sabres::50178412",
       "team": "sabres",
       "title": "Svechnikov scores 2 goals to lead the Hurricanes to a 4-2 win over the Capitals",
@@ -674,17 +707,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T01:38:42Z",
       "link": "http://www.espn.com/nhl/recap?gameId=401892491"
-    },
-    {
-      "id": "espn-bills::50177135",
-      "team": "bills",
-      "title": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
-      "summary": "Bills coach Joe Brady said RB James Cook has done a lot of \"good things\" this season but warned his star runner about the \"consequences\" of his fumbling issues.",
-      "source": "ESPN · Nick Suss",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T23:32:42Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/what-they-re-saying-the-nfl-world-reacts-to-buffalo-s-instant-classic-overtime-victory-over-the-l-a-rams",
@@ -740,6 +762,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T20:59:00.000Z",
       "link": "https://www.buffalobills.com/news/bills-sign-olb-mike-danna-release-cb-anthony-kendall"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266924-credit-deone-walker-with-the-assist-on-groots-fg-block/",
+      "team": "bills",
+      "title": "Credit Deone Walker with the assist on Groot's FG Block",
+      "summary": "Watch the replay from behind in slow mo at the :40 mark.  He basically puts his weight on the shoulders of the lineman at the snap, freezing him in place so he can't back up.  But the guy next to him does, creating the lane for Groot to step in and elevate to get fingers on it.\n\n\n\n\t \n\n\n\n\tFantastic teamwork that is mostly uncredited (until now)",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T20:30:40.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266924-credit-deone-walker-with-the-assist-on-groots-fg-block/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-7-preview-open-thread-sabres-vs-canadiens-2/",
@@ -874,17 +907,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266894-josh-allen-was-simply-amazing-last-night/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266889-alaric-jackson-confronts-and-throws-punch-at-chubb-during-jersey-exchanges/",
-      "team": "bills",
-      "title": "Alaric Jackson confronts and throws punch at Chubb during jersey exchanges",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T04:37:30.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266889-alaric-jackson-confronts-and-throws-punch-at-chubb-during-jersey-exchanges/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266887-serious-question-why-did-brady-kick-the-field-goal-with-2-minutes-remaining/",
       "team": "bills",
       "title": "Serious question: Why did Brady kick the field goal with 2 minutes remaining??",
@@ -894,17 +916,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T04:23:49.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266887-serious-question-why-did-brady-kick-the-field-goal-with-2-minutes-remaining/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266879-the-beane-era-needs-to-end/",
-      "team": "bills",
-      "title": "The Beane Era Needs To End",
-      "summary": "Something about this game has pushed my tolerance level of Beane over the edge.  This game looked like Josh Allen against the Rams.  The defense was Swiss Cheese the entire night, and the Rams man coverage blanketed our receivers for much of the game - forcing Josh to put on his cape and make some crazy plays with his legs.  Yes, we won, but it was like a nightmarish repeat of everything this team does that comes up short when the playoffs come around.  At the end of the 4th Quarter, how many of you were yelling at the screen - \"Just let them score so we have 40 seconds left.\"  That's not a good way to think about the team's defense.  😆  I hope it's something to do with the coaching, but I'm seeing a lot of gaps in talent on this team.  A lot.  And it feels like Beane has made some more whiffs on picks.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T03:42:48.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266879-the-beane-era-needs-to-end/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/ukko-pekka-luukkonen-shines-in-relief-appearance-backstops-sabres-to-win-over-panthers/",
@@ -1191,6 +1202,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-07T02:04:08.000Z",
       "link": "https://www.diebytheblade.com/sabres-tame-wild-in-third-period-comeback-buffalo-3-2-minnesota-overtime-recap/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/249137-random-talking-head-says-something-about-the-bills/",
+      "team": "bills",
+      "title": "Random talking head says something about the Bills",
+      "summary": "Since we don't need a new thread every time some random media personality says something about the Bills, I'm just creating this thread to have a place to drop them.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2023-09-08T22:44:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/249137-random-talking-head-says-something-about-the-bills/"
     }
   ]
 }
