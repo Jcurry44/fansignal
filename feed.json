@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:38:47.352Z",
+  "generatedAt": "2026-10-16T05:05:34.976Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 3,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "live",
-      "headline": "2 - 3",
-      "detail": "at TOR · P2"
+      "state": "final",
+      "headline": "Final · W 5-4",
+      "detail": "at TOR"
     },
     {
       "team": "bandits",
@@ -169,6 +169,116 @@
     }
   ],
   "stories": [
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/marchenko-breaks-out-tavares-leaves-injured-in-roller-coaster-maple-leafs-loss/",
+      "team": "sabres",
+      "title": "Marchenko breaks out, Tavares leaves injured in roller-coaster Maple Leafs loss",
+      "summary": "Thursday’s loss to the Buffalo Sabre was, in a sense, a microcosm of the Toronto Maple Leafs’ campaign to this point. One part thrilling, one part perplexing. Steps forward and steps backwards, Sonny Sachdeva writes.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T04:29:29.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/marchenko-breaks-out-tavares-leaves-injured-in-roller-coaster-maple-leafs-loss/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/jack-quinn-scores-fights-and-looks-like-star-in-sabres-wild-ot-win-buffalo-loses-jiri-kulich-josh-norris/",
+      "team": "sabres",
+      "title": "Jack Quinn scores, fights and looks like star in Sabres’ wild OT win; Buffalo loses Jiri Kulich, Josh Norris",
+      "summary": "TORONTO – It was only fitting that winger Jack Quinn capped the most dynamic outing in his NHL career by creating defenseman Owen Power’s overtime goal to cap another thrilling Sabres come-from-behind victory.\nOn a night Maple Leads winger Kirill Marchenko scored three times before the second period ended in Scotiabank Arena, Quinn was the best player on the ice in the Sabres’ 5-4 win, wreaking havoc from the get-go.\nQuinn scored two goals, hit ... Read the full article \nThe post Jack Quinn scores, fights and looks like star in Sabres’ wild OT win; Buffalo loses Jiri Kulich, Josh Norris first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T04:23:17.000Z",
+      "link": "https://www.buffalohockeybeat.com/jack-quinn-scores-fights-and-looks-like-star-in-sabres-wild-ot-win-buffalo-loses-jiri-kulich-josh-norris/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266962-would-you-be-in-favor-of-each-team-getting-2-penalty-challenges-per-game/",
+      "team": "bills",
+      "title": "Would you be in favor of each team getting 2 \"Penalty Challenges\" per game??",
+      "summary": "These two challenges could be used to overturn a penalty that was called, or ask for a penalty that was missed to be called.\n\n\n\n\t \n\n\n\n\tHow many games do we see that come down to a bad penalty call or a missed penalty call?? This would be a way for the Officials to be held accountable in-game and for games to not be decided on bad calls.\n\n\n\n\t \n\n\n\n\tI know Officiating is hard, but I bet that deep down these Officials don't want to be the reason a team loses a game, so you would think Officials would be open to making sure key calls are the correct ones.\n\n\n\n\t \n\n\n\n\tWhy hasn't this ever been talked about or even tried in Preseason games to see if it is a viable solution??",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T04:06:10.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266962-would-you-be-in-favor-of-each-team-getting-2-penalty-challenges-per-game/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/sabres-norris-forced-to-leave-ice-after-collision-with-ekman-larsson/",
+      "team": "sabres",
+      "title": "Sabres’ Norris forced to leave ice after collision with Ekman-Larsson",
+      "summary": "Watch as Buffalo Sabres forward Josh Norris is forced to head to the bench after a collision with Toronto Maple Leafs defenceman Oliver Ekman-Larsson in overtime.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T03:27:49.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/sabres-norris-forced-to-leave-ice-after-collision-with-ekman-larsson/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/we-re-here-for-a-business-trip-the-bills-practice-on-the-west-coast-ahead-of-week-6",
+      "team": "bills",
+      "title": "'We're here for a business trip' | The Bills practice on the West Coast ahead of Week 6",
+      "summary": "The perks of staying out on the West Coast, what challenges Maxx Crosby brings, and Wednesday's injury report",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T02:45:07.000Z",
+      "link": "https://www.buffalobills.com/news/we-re-here-for-a-business-trip-the-bills-practice-on-the-west-coast-ahead-of-week-6"
+    },
+    {
+      "id": "espn-bills::50193488",
+      "team": "bills",
+      "title": "Bills defense needs to step up in Week 6",
+      "summary": "Nick Suss discusses the Bills defense ahead of their Week 6 matchup against the Raiders.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T02:29:15Z",
+      "link": "https://www.espn.com/video/clip/_/id/50193488/bills-defense-needs-step-week-6"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266961-the-rise-and-fall-of-the-bills-defense/",
+      "team": "bills",
+      "title": "The Rise and Fall of the Bills Defense",
+      "summary": "Here are our defensive ranks over the past ten years:\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\t\n\t\t \n\t\n\n\n\n\tMcD turned the D around and achieved a Top 6 finish four times in five years from 2018 to 2022.  \n\n\n\n\t \n\n\n\n\tIn 2017, our D was putrid and was ranked 26th.  So far this season we're putrid again and ranked 30th.  In between these ugly bookends, we averaged 7th.   \n\n\n\n\t \n\n\n\n\tMilano and some other key players were hurt in 2020 when the D was middle-of-the-pack.  In fact, injuries to key defensive players have been a common theme over the past several years.  On offense, Josh has never missed a game and he is our offense.  But on D, it seems we suffer more than our fair share from key defender injuries.  This trend has certainly hurt us in the playoffs.  \n\n\n\n\t \n\n\n\n\tDuring McD's glory years on defense, the best players were Milano, Poyer, Hyde, and White.  These were all Whaley guys.  As they aged out, our rankings dropped.  Beane has struggled to find equivalently talented playmakers on D.   \n\n\n\n\t \n\n\n\n\tLezlie Frazier was our DC during the Bills' best defensive years (2018-2022), which may or may not be coincidental.\n\n\n\n\t \n\n\n\n\tI'd love to hear from @GunnerBill and other smart talent evaluators about how personnel affected our rise and fall.  Or @HoofHearted and other smart X-and-O guys about how scheme has impacted these rankings.  \n\n\n\n\t \n\n\n\n\tAs a Bills fan, I live in a constant state of hope.  I hope Leonhard figures things out and fields a capable defense by the end of the regular season.  One that helps us win our first Lombardi.  But I'd be lying if I didn't say I have concerns about Leonhard's D, as early as it is in the season.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T02:19:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266961-the-rise-and-fall-of-the-bills-defense/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-crunch-maple-leafs-stunning-comeback-quinn-power-overtime-winner/",
+      "team": "sabres",
+      "title": "Sabres crunch Leafs in stunning comeback",
+      "summary": "Buffalo pulled back another two-goal deficit in the third period for overtime win\n\n\n\nBoxscore\n\n\n\nScore: Buffalo Sabres 5-4 Toronto Maple Leafs OTShots: BUF 34-30 TOR\n\n\n\nBuffalo Sabres Goals: Jack Quinn 3 (Benson, Metsa), Quinn 4 (Östlund, Samuelsson), Gilbert 1 (Quinn, Benson), Samuelsson 2 (Thompson), Power 2 OT (Quinn, Östlund)Toronto Maple Leafs Goals: Matthews 6 (Roslovic), Marchenko 2 PPG (Tavares, Raddysh), Marchenko 3 (Tavares), Marchenko 4 (Sissons, Cowan)\n\n\n\nQuick Thoughts\n\n\n\nFirst Period – Pre-season Sabres\n\n\n\nWhat was that first period? Minus Jiri Kulich the entire team except one Jack Quinn seemed to be absent and anything the Leafs got came from Buffalo errors. \n\n\n\n\nJack Quinn is the beneficiary of a Toronto turnover after Zach Benson pressured Blankenburg, 1-1 #LetsGoBuffalo #Leafs pic.twitter.com/xKuELj0Cl0&mdash; Buffalo Hockey Moments (@SabresPlays) October 15, 2026\n\n\n\n\nOh, and if Ukko Pekka Luukkonen has heard the BUF-NYR-WPG triumvirate trade chatter, he certainly didn’t show it. \n\n\n\nWin a damned faceoff. The Leafs led the period 13-7 at the dot and led to a lot of their puck possession.\n\n\n\nRemember that whole thing about the Leafs having a plodding defense and that the Sabres should go up the ice vertically against them? Yeah they didn’t really, and the one time they did they scored. \n\n\n\nThe Sabres jumped on the Leafs to start, leading 7-2 on shots, but the period ended 15-8 to Toronto. \n\n\n\nThe Leafs got lucky with the the refs (hmmm) when they got an undeserving power play to close out the period after their own player high-sticked his teammate. The Leafs fifth-ranked power play ended the period 1 of 2 with a dozen second left in the man advantage. \n\n\n\n\nSam Carrick gets a two-minute penalty for having OEL high stick his own teammate pic.twitter.com/PdvV1cdkjn&mdash; Crossing Swords ⚔️ (@CrossSwordsPod) October 15, 2026\n\n\n\n\nSecond Period – Drought-era Sabres\n\n\n\nThe Sabres killed of the overlapping power play before Quinn continued his Leaf ownage, scoring his ninth goal in 15 games against Toronto, displaying his patience before McCabe bit and the Sabres forward blasted home over Bobrovsky’s shoulder. \n\n\n\nHe almost had a hattie a few minutes later when he waltzed through a static D but Bob refused to be embarrassed again. \n\n\n\n\nJack Quinn's 2nd goal of the game, 2-2 #LetsGoBuffalo #Leafs pic.twitter.com/zdINNj5aRq&mdash; Buffalo Hockey Moments (@SabresPlays) October 16, 2026\n\n\n\n\nOlen Zellweger decided not only was he going to replace Bowen Byram in the Sabres lineup, but he was going to take a further step and fill Rasmus Dahlin’s sizeable skates. He’s been very visible the last few games and was good again tonight. \n\n\n\nA full session of turnover-filled hockey in the neutral zone then ensued. As the Sabres then got lulled to sleep, Tavares won a board battle in the middle of the period, fed Marchenko and he beat UPL glove side for his second of the game to make it 3-2. \n\n\n\nQuinn hit the post and was active throughout the period again, and when Tage Thompson drew a penalty, Quinn even dropped the gloves against faux hard man Stecher. While he didn’t land a punch, he did wrestle his man to the ice and both drew five for fighting which alas hurt the Sabres more with their in-form top scorer taken off the ice. \n\n\n\nRemember when Knies was traded to the Blue Jackets on the eve of the season and then promptly scored twice against the Sabres on debut? Well the piece that went the other way was Marchenko and then with three minutes left Doan lost him in the blue paint he promptly got his hattrick to make it 4-2. \n\n\n\nWith just under two to play Rielly went off for hooking, but Benson took an immature penalty holding on to Sissons’s stick. But unlike that night when the Habs were not punished for that, Benson took a penalty and the power play was wasted. \n\n\n\nOnce again the Sabres were going to a third period having spotted their opponent a two-goal lead, despite having outshot the Leafs 13-11 in the period. \n\n\n\nThird Period – Division-winning Sabres\n\n\n\nThe Sabres have eight third period goals and it has been their best period by far. This one started with the same verve too with Buffalo humming around Bob’s net. \n\n\n\nPaul tripped Josh Norris into Tavares, sending the Leafs forward down the tunnel to the dressing room. \n\n\n\nTonight though, while Quinn was feeling it, who from the Sabres would step up and get a goal to add some pressure on the home side? Last season it was the defense, and once again tonight it was the dmen again. \n\n\n\nWell, Quinn found Dennis Gilbert at the blue line halfway through the period and the dman fired home over Bob’s pad to make it 4-3. That gave Quinn a very well-deserved Gordie Howe hattrick. Congrats to Buffalo boy and the much-loved Gibby for his first Sabres goal!\n\n\n\n\nDennis Gilbert gets on the board to make it 4-3 #LetsGoBuffalo #Leafs pic.twitter.com/M9CbWYHlaX&mdash; Buffalo Hockey Moments (@SabresPlays) October 16, 2026\n\n\n\n\nToronto were rocking on their heels and just two minutes later, Mattias Samuelsson joined the rush, took a feed from Tage and roofed a shot over Bob to make it 4-4 and the Scotiabank Arena was hushed. At that point the Sabres were outshooting the Leafs 10-1!\n\n\n\n\nMattias Samuelsson gets involved and ties the game, 4-4 #LetsGoBuffalo #Leafs pic.twitter.com/xcVa9T0p9Y&mdash; Buffalo Hockey Moments (@SabresPlays) October 16, 2026\n\n\n\n\nToronto belatedly woke up after that, but the rest of regulation time elapsed with little drama, 4-4 and advantage Sabres 11-4 for the period on shots. \n\n\n\nOvertime – He’s Got The Power!\n\n\n\nUnlike the OT in Quebec two nights ago when the Sabres barely had a sniff of the puck for five minutes, this one was more end-to-end. \n\n\n\nBenson had the puck on a three-on-one and then whiffed on his pass. Then Norris got clattered in the Leafs defensive zone and Power wisely held on to the puck to allow the forward to hobble off the ice. They went straight up the guy after that with Östlund feeding up Power who then fired off a howitzer to beat Bobrovsky for another OT winner!\n\n\n\n\nOwen Power overtime winner, 5-4 #LetsGoBuffalo #Leafs pic.twitter.com/luzb3aqI1C&mdash; Buffalo Hockey Moments (@SabresPlays) October 16, 2026\n\n\n\n\nMake that three straight goals scored by defensemen tonight when the forwards minus Quinn were all sputtering. \n\n\n\nAt The Horn\n\n\n\nThe Sabres simply cannot keep spotting teams leads going into the third period and assuming they can just reel them back in, especially against offensively endowed teams like the Leafs and and even more so when they are still without captain Rasmus Dahlin. \n\n\n\nLuukkonen wasn’t bad tonight, but as he has so often this season, he saved shots he shouldn’t have, and was beaten by shots he should have saved, ending the night on a deficit of -1.03 once again in the Goals Saved Above Average. \n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-10-15: pic.twitter.com/xPRNYvTxD9&mdash; HockeyStatCards (@hockeystatcards) October 16, 2026",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T02:09:45.000Z",
+      "link": "https://www.diebytheblade.com/sabres-crunch-maple-leafs-stunning-comeback-quinn-power-overtime-winner/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/142975/bills-injury-report-dj-moore-dnp-spencer-brown-listed-as-full-thursday",
+      "team": "bills",
+      "title": "Bills injury report: DJ Moore DNP, Spencer Brown listed as Full Thursday",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T01:06:01.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/142975/bills-injury-report-dj-moore-dnp-spencer-brown-listed-as-full-thursday"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142813/bills-week-6-rooting-interests-who-can-help-buffalo-climb-the-afc",
+      "team": "bills",
+      "title": "Bills Week 6 rooting interests: Who can help Buffalo climb the AFC?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T00:45:55.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142813/bills-week-6-rooting-interests-who-can-help-buffalo-climb-the-afc"
+    },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266960-the-rockpile-review-a-different-perspective/",
       "team": "bills",
@@ -192,6 +302,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266958-tnf-seahawks-vs-broncos-no-bills-talk/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142957/denver-broncos-vs-seattle-seahawks-tnf-week-6-fan-discussion",
+      "team": "bills",
+      "title": "Denver Broncos vs. Seattle Seahawks, ‘TNF’ Week 6 fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T00:16:41.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142957/denver-broncos-vs-seattle-seahawks-tnf-week-6-fan-discussion"
+    },
+    {
       "id": "espn-bills::50175780",
       "team": "bills",
       "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
@@ -201,39 +322,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T00:00:42Z",
       "link": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/gotta-see-it-marchenko-goes-between-the-legs-and-roofs-highlight-reel-goal/",
-      "team": "sabres",
-      "title": "Gotta See It: Marchenko goes between the legs and roofs highlight-reel goal",
-      "summary": "Watch as Toronto Maple Leafs’ Kirill Marchenko delivers a goal-of-the-year candidate, going between the legs while spinning in front of the net to roof a beauty goal against the Buffalo Sabres.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T23:53:40.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/gotta-see-it-marchenko-goes-between-the-legs-and-roofs-highlight-reel-goal/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/maple-leafs-matthews-scores-to-extend-point-streak-to-six-games/",
-      "team": "sabres",
-      "title": "Maple Leafs’ Matthews scores to extend point streak to six games",
-      "summary": "Watch as Toronto Maple Leafs forward Auston Matthews scores early in the first period against the Buffalo Sabres to tally his sixth goal of the season and extend his point streak to six games.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T23:31:02.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/maple-leafs-matthews-scores-to-extend-point-streak-to-six-games/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/hockey/nhl/games/03f7f4eb-ea10-4f15-97f9-672f5419f0db/",
-      "team": "sabres",
-      "title": "Maple Leafs Live Tracker: Toronto vs. Buffalo",
-      "summary": "",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T22:56:47.000Z",
-      "link": "https://www.sportsnet.ca/hockey/nhl/games/03f7f4eb-ea10-4f15-97f9-672f5419f0db/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-notes-owen-power-skating-big-minutes-becoming-elite-defenseman/",
@@ -443,17 +531,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-15T03:59:07.000Z",
       "link": "https://www.starsandstripesfc.com/athletes-in-focus/46609/ssfc-spotlight-julian-eyestone-grinding-in-league-two"
-    },
-    {
-      "id": "espn-bills::50186856",
-      "team": "bills",
-      "title": "Bills face Maxx Crosby challenge with uncertain O-line",
-      "summary": "Nick Suss breaks down how Buffalo plans to handle Maxx Crosby as OT Spencer Brown works through a back injury.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T03:49:48Z",
-      "link": "https://www.espn.com/video/clip/_/id/50186856/bills-face-maxx-crosby-challenge-uncertain-o-line"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/142923/bills-injury-report-spencer-brown-joshua-palmer-limited-wednesday",
@@ -676,28 +753,6 @@
       "link": "https://www.starsandstripesfc.com/uswnt-news/46666/uswnt-vs-spain-what-we-learned-still-looking-for-the-right-pieces"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142886/greg-rousseau-earns-afc-special-teams-player-of-the-week-after-saving-bills-in-overtime",
-      "team": "bills",
-      "title": "Greg Rousseau earns AFC Special Teams Player of the Week after saving Bills in overtime",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T16:38:44.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/142886/greg-rousseau-earns-afc-special-teams-player-of-the-week-after-saving-bills-in-overtime"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-power-rankings/142880/bills-climb-in-week-6-power-rankings-but-did-the-overtime-escape-convince-everyone",
-      "team": "bills",
-      "title": "Bills climb in Week 6 power rankings, but did the overtime escape convince everyone?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T16:26:15.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-power-rankings/142880/bills-climb-in-week-6-power-rankings-but-did-the-overtime-escape-convince-everyone"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/top-bills-game-storylines-vs-raiders-week-6",
       "team": "bills",
       "title": "Top Bills game storylines vs. Raiders | Week 6",
@@ -806,17 +861,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T01:38:42Z",
       "link": "http://www.espn.com/nhl/recap?gameId=401892491"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142813/bills-week-6-rooting-interests-who-can-help-buffalo-climb-the-afc",
-      "team": "bills",
-      "title": "Bills Week 6 rooting interests: Who can help Buffalo climb the AFC?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T23:00:19.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142813/bills-week-6-rooting-interests-who-can-help-buffalo-climb-the-afc"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/what-they-re-saying-the-nfl-world-reacts-to-buffalo-s-instant-classic-overtime-victory-over-the-l-a-rams",
@@ -951,17 +995,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/50166535/nhl-2026-27-watch-all-32-teams-top-players-stats-records-playoffs-frozen-frenzy"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/i-saw-heart-i-saw-effort-bills-special-teams-unit-comes-up-clutch-not-once-but-twice-in-ot-win-at-rams",
-      "team": "bills",
-      "title": "'I saw heart, I saw effort ' | Bills special teams unit comes up clutch not once, but twice in OT win at Rams",
-      "summary": "How every aspect of Buffalo's special teams made an impact in Monday night's victory",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T13:40:07.000Z",
-      "link": "https://www.buffalobills.com/news/i-saw-heart-i-saw-effort-bills-special-teams-unit-comes-up-clutch-not-once-but-twice-in-ot-win-at-rams"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266896-new-defense-epa/",
       "team": "bills",
       "title": "New defense epa",
@@ -1028,17 +1061,6 @@
       "link": "https://www.diebytheblade.com/sabres-overcome-loss-of-dahlin-fend-off-panthers-5-3/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266875-gameday-101226-week-5-mnf-bills-at-rams-815pm-post-game-thread/",
-      "team": "bills",
-      "title": "GAMEDAY 10/12/26 Week 5 MNF Bills at Rams 8:15pm post Game THREAD",
-      "summary": "Bills 37 Rams 34\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tGo Bills!!!!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T19:46:59.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266875-gameday-101226-week-5-mnf-bills-at-rams-815pm-post-game-thread/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/struggling-sabres-change-lineup-again-by-inserting-young-forwardse/",
       "team": "sabres",
       "title": "Struggling Sabres change lineup again by inserting young forwards",
@@ -1092,17 +1114,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-11T13:57:58.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-news/46596/lessons-learned-uswnt-lose-2-0-to-spain"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-lose-to-mammoth-still-searching-for-identity-trying-to-find-who-we-are/",
-      "team": "sabres",
-      "title": "Sabres lose to Mammoth, still searching for identity: ‘Trying to find who we are’",
-      "summary": "BUFFALO – Hey, the Sabres finally scored their first power-play of the season on Saturday, a small bright spot in an otherwise forgettable 4-1 loss to the Utah Mammoth.\nEight minutes into the game, forward Tage Thompson scored what he called “a pretty fluky power-play goal,” carrying the puck from his own zone into Utah territory before beating goalie Karel Vejmelka at the bottom of the right circle.\nStill, the Sabres, two days removed from ... Read the full article \nThe post Sabres lose to Mammoth, still searching for identity: ‘Trying to find who we are’ first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-11T05:23:06.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-lose-to-mammoth-still-searching-for-identity-trying-to-find-who-we-are/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-continue-to-have-a-mammoth-headache/",
@@ -1193,17 +1204,6 @@
       "link": "https://www.cbssports.com/soccer/news/meet-santiago-castaneda-colombian-american-bundesliga-usmnt/"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/game-4-preview-open-thread-dallas-stars-at-buffalo-sabres/",
-      "team": "sabres",
-      "title": "Game #4 Preview & Open Thread: Dallas Stars at Buffalo Sabres",
-      "summary": "The Stars Come Out Tonight at Keybank Center\n\n\n\nBuffalo Sabres (2-1-0) vs Dallas Stars (1-2-0)\n\n\n\nPuck Drop: 7:00 pm ET | Keybank Center – Buffalo, New York\n\n\n\nTV: MSG-B, DAZN, ESPN+ (Hulu), NHL Center Ice, Prime Video\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nDallas Stars\n\n\n\nRecord: 1-2-0 | 2 PTS \n\n\n\nLast Game: Won 5-0 over San Jose\n\n\n\nDivision Ranking: 6th\n\n\n\nPP: 28th, 0.0% (Sabres 28th, 0.0%)\n\n\n\nPK: 17th, 77.8% (Sabres 26th, 66.7%)\n\n\n\nSeason Series: The Sabres went 1–0–1 last season against Dallas\n\n\n\nWhat to Watch\n\n\n\n1. More Home Cooking Needed\n\n\n\nAfter dropping the season opener in Columbus to start the year, Buffalo has now won two straight at KeyBank Center. More home cooking will be needed as the Sabres continue this lengthy homestand.\n\n\n\nThe Sabres haven’t exactly overly impressed in their first two home wins. They squeaked by an undermanned Chicago team 4-3 after falling behind by two goals. Buffalo again found itself down by two against Minnesota before rallying for an overtime victory, although that one certainly wasn’t for a lack of effort. The Sabres’ performance was there, especially in the second half of the game. The Wild’s goaltending was stingy as usual, while the referees appeared to be in full incompetence mode as well.\n\n\n\nStill, Buffalo overcame it all and managed to pick up another two points. The team continues to forge ahead, even as areas of concern seem to emerge with every game. Now, the Sabres turn their attention to the Dallas Stars, who will provide another tough test early in the season. Fan support has been strong so far, and that certainly helps with this young team. Buffalo will need that energy once again as the homestand rolls on.\n\n\n\n\n\n\n\n2. Joshing Around\n\n\n\nThe two Josh’s, Doan and Norris, are off to slow offensive starts. Neither has contributed much to the scoresheet, with Doan still pointless and Norris managing just one assist. That is certainly not what you want to see from two players receiving plenty of top-line minutes alongside Tage Thompson.\n\n\n\nNorris, in particular, has passed up too many shooting opportunities, often looking to dish the puck instead, only to see the play eventually come up empty. At this point, it almost looks like he is afraid to shoot. Hopefully, that isn’t because he is dealing with an injury that is aggravated whenever he takes a shot. As of this writing, nothing on any potential setback for Norris…YET.\n\n\n\nAs for Doan, head coach Lindy Ruff initially hinted that Buffalo’s second-year forward was working through something. Ruff has now confirmed that Doan is dealing with a nagging lower-body issue sustained during a previous game. He was pulled from the top line and moved to the fourth line during the third period against Minnesota, where he saw just three shifts in the final frame. Doan’s competitive nature means he “would never admit” the injury is bothering him, but the coaching staff clearly believes it is affecting his performance on the ice. Despite the slow start, the injury is currently being treated as something Doan can play through as long as he is able to manage the pain.\n\n\n\nBuffalo is going to need both players and their offensive abilities as the season moves along. Hopefully, the two Josh’s can overcome their respective issues and find their offensive rhythm again. In the meantime, we could see more of Peyton Krebs or Jiri Kulich getting an opportunity alongside Tage.\n\n\n\n3. Power Surge\n\n\n\nOwen Power is off to a dominant start this season, leading the Sabres with five points through their first three games and scoring the game-winning goal in overtime against the Minnesota Wild. He has played an enormous role in Buffalo’s early success, averaging more than 26 minutes of ice time per night.\n\n\n\nThe smooth-skating defenseman appears to have cleared another hurdle as he begins to live up to the expectations that came with being selected first overall. It’s still early, but fans, coaches and teammates alike have taken notice. Power has been moving his feet exceptionally well, allowing him to break up plays in the defensive zone before quickly transitioning the puck up ice and joining the offense. Head coach Lindy Ruff has acknowledged Power’s standout performances, and the defenseman was recently rewarded by lining up with Rasmus Dahlin on Buffalo’s top defensive pairing.\n\n\n\n\n\n\n\nOffensively, Power has been playing lights out. Defensively, however, there is still room for improvement. Last season’s playoffs may have been the best version we’ve seen of Power as an all-around defenseman, and he hasn’t quite regained that form yet. Still, his offensive wizardry has certainly been on full display during these first few games.\n\n\n\nThe sky remains the limit for the 23-year-old. If Power can continue producing offensively while rounding out his defensive game as the season progresses, Buffalo could have another legitimate star emerging on the blue line.\n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nPeyton Krebs – Jiri Kulich – Tage ThompsonZach Benson – Noah Ostlund – Jack QuinnJosh Norris – Ryan McLeod – Konsta HeleniusJosh Doan– Sam Carrick – Beck Malenstyn\n\n\n\nDefense\n\n\n\nRasmus Dahlin – Mattias SamuelssonOwen Power – Louis CrevierOlen Zellweger – Zach Metsa\n\n\n\nGoaltenders\n\n\n\nUkko-Pekka Luukkonen (projected starter), Colten Ellis\n\n\n\nDallas Stars\n\n\n\nForwards\n\n\n\nJason Robertson – Roope Hintz – Jamie BennSam Steel – Wyatt Johnston – Mikko RantanenJustin Hryckowian – Arttu Hyry – Tyler SeguinOskar Back – Radek Faksa – Joel Kiviranta\n\n\n\nDefense\n\n\n\nEsa Lindell – Miro HeiskanenThomas Harley – Nils LundkvistLian Bichsel – Tyler Myers\n\n\n\nGoaltenders\n\n\n\nJake Oettinger (projected starter), Casey DeSmith",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-08T17:25:01.000Z",
-      "link": "https://www.diebytheblade.com/game-4-preview-open-thread-dallas-stars-at-buffalo-sabres/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-next-generation-arrives-cavan-sullivan-julian-hall-mauricio-pochettino/",
       "team": "usmnt",
       "title": "USMNT's next generation arrives: How Cavan Sullivan, Julian Hall and more delivered for Mauricio Pochettino",
@@ -1213,17 +1213,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-07T21:37:28.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnts-next-generation-arrives-cavan-sullivan-julian-hall-mauricio-pochettino/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/249137-random-talking-head-says-something-about-the-bills/",
-      "team": "bills",
-      "title": "Random talking head says something about the Bills",
-      "summary": "Since we don't need a new thread every time some random media personality says something about the Bills, I'm just creating this thread to have a place to drop them.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2023-09-08T22:44:09.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/249137-random-talking-head-says-something-about-the-bills/"
     }
   ]
 }
