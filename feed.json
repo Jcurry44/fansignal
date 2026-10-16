@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:39:22.033Z",
+  "generatedAt": "2026-10-16T18:24:41.076Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -170,15 +170,103 @@
   ],
   "stories": [
     {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-at-las-vegas-raiders-where-to-watch-stream-and-listen-week-6",
+      "id": "espn-bills::50147670",
       "team": "bills",
-      "title": "Buffalo Bills at Las Vegas Raiders | Where to watch, stream and listen | Week 6",
-      "summary": "TV Channel, Streaming and Radio for Bills at Raiders",
-      "source": "Bills.com",
-      "sourceType": "team",
+      "title": "NFL Week 6 betting: Odds, lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-10-16T14:00:09.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-at-las-vegas-raiders-where-to-watch-stream-and-listen-week-6"
+      "publishedAt": "2026-10-16T17:30:10Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/a-detailed-look-at-gavin-mckennas-game-before-he-was-benched/",
+      "team": "sabres",
+      "title": "A detailed look at Gavin McKenna’s game before he was benched",
+      "summary": "So Gavin McKenna was benched on Thursday and played less than seven minutes against the Sabres. Justin Bourne takes a detailed look at what the 18-year-old did with his ice time to try and make sense of the benching.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T16:52:55.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/a-detailed-look-at-gavin-mckennas-game-before-he-was-benched/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46701/us-soccer-launches-arthur-m-blank-crest-cup-for-some-womens-soccer-teams",
+      "team": "usmnt",
+      "title": "US Soccer launches Arthur M. Blank Crest Cup for some women’s soccer teams",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T16:28:10.000Z",
+      "link": "https://www.starsandstripesfc.com/uswnt-news/46701/us-soccer-launches-arthur-m-blank-crest-cup-for-some-womens-soccer-teams"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/they-dont-trust-mckenna-what-to-make-of-hillers-benching-decision/",
+      "team": "sabres",
+      "title": "What to make of Hiller’s decision to bench Gavin McKenna",
+      "summary": "NHL senior writer James Mirtle joins JD Bunkis to try and make sense of Jim Hiller’s decision to bench rookie Gavin McKenna for all of the 3rd period and OT in the loss to Buffalo, and why he wanted to see him own that decision in a different way.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T15:11:44.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/they-dont-trust-mckenna-what-to-make-of-hillers-benching-decision/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143033/exploring-las-vegas-raiders-tendencies-ahead-of-week-6s-game-against-buffalo-bills",
+      "team": "bills",
+      "title": "Exploring Las Vegas Raiders tendencies ahead of Week 6’s game against Buffalo Bills",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T14:50:17.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143033/exploring-las-vegas-raiders-tendencies-ahead-of-week-6s-game-against-buffalo-bills"
+    },
+    {
+      "id": "espn-bills::47809892",
+      "team": "bills",
+      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T14:22:01Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+    },
+    {
+      "id": "espn-bills::50196191",
+      "team": "bills",
+      "title": "Why the Bills could be in a 'troubling spot' vs. the Raiders",
+      "summary": "Why the Bills could be in a 'troubling spot' vs. the Raiders",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T14:16:49Z",
+      "link": "https://www.espn.com/video/clip/_/id/50196191/why-bills-a-troubling-spot-vs-raiders"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142971/james-cook-going-to-need-the-bye-week-after-facing-las-vegas-raiders-buffalo-bills",
+      "team": "bills",
+      "title": "James Cook is going to need the bye week after facing Las Vegas Raiders",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T14:02:41.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142971/james-cook-going-to-need-the-bye-week-after-facing-las-vegas-raiders-buffalo-bills"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143022/5-las-vegas-raiders-to-watch-vs-buffalo-bills",
+      "team": "bills",
+      "title": "5 Las Vegas Raiders to watch vs. Buffalo Bills",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-16T14:01:34.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143022/5-las-vegas-raiders-to-watch-vs-buffalo-bills"
     },
     {
       "id": "espn-bills::50188997",
@@ -188,7 +276,7 @@
       "source": "ESPN · NFL Nation, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-10-16T13:06:28Z",
+      "publishedAt": "2026-10-16T13:58:22Z",
       "link": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026"
     },
     {
@@ -201,17 +289,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T12:14:23.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/142993/bills-news-examining-james-cooks-fumbling-issue"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142962/buffalo-bills-may-be-facing-a-no-win-situation-against-las-vegas-raiders",
-      "team": "bills",
-      "title": "Buffalo Bills may be facing a “no-win” situation against Las Vegas Raiders",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T10:48:13.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142962/buffalo-bills-may-be-facing-a-no-win-situation-against-las-vegas-raiders"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142960/brock-bowers-is-already-the-nfls-best-receiving-tight-end-in-football-buffalo-bills-week-6",
@@ -280,6 +357,17 @@
       "link": "https://www.buffalohockeybeat.com/jack-quinn-scores-fights-and-looks-like-star-in-sabres-wild-ot-win-buffalo-loses-jiri-kulich-josh-norris/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-notes-owen-power-skating-big-minutes-becoming-elite-defenseman/",
+      "team": "sabres",
+      "title": "Sabres notes: Owen Power skating big minutes, becoming elite defenseman",
+      "summary": "TORONTO – In his five-year career, the Buffalo Sabres have never leaned more heavily on defenseman Owen Power.\nThrough seven games this season entering Thursday’s contest against the Maple Leafs, Power had averaged a whopping 26 minutes, 26 seconds of ice time.\nOnly five players – defensemen Zach Werenski, Thomas Chabot, Quinn Hughes and Lane Hutson – had skated more per outing.\n\nPower, of course, seemed destined for stardom when the Sabres drafted him first ... Read the full article \nThe post Sabres notes: Owen Power skating big minutes, becoming elite defenseman first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T05:03:55.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-notes-owen-power-skating-big-minutes-becoming-elite-defenseman/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266962-would-you-be-in-favor-of-each-team-getting-2-penalty-challenges-per-game/",
       "team": "bills",
       "title": "Would you be in favor of each team getting 2 \"Penalty Challenges\" per game??",
@@ -346,17 +434,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/142975/bills-injury-report-dj-moore-dnp-spencer-brown-listed-as-full-thursday"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142813/bills-week-6-rooting-interests-who-can-help-buffalo-climb-the-afc",
-      "team": "bills",
-      "title": "Bills Week 6 rooting interests: Who can help Buffalo climb the AFC?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T00:45:55.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142813/bills-week-6-rooting-interests-who-can-help-buffalo-climb-the-afc"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266960-the-rockpile-review-a-different-perspective/",
       "team": "bills",
       "title": "THE ROCKPILE REVIEW - A Different Perspective",
@@ -390,39 +467,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142957/denver-broncos-vs-seattle-seahawks-tnf-week-6-fan-discussion"
     },
     {
-      "id": "espn-bills::50175780",
-      "team": "bills",
-      "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
-      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T00:00:42Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-notes-owen-power-skating-big-minutes-becoming-elite-defenseman/",
-      "team": "sabres",
-      "title": "Sabres notes: Owen Power skating big minutes, becoming elite defenseman",
-      "summary": "TORONTO – In his five-year career, the Buffalo Sabres have never leaned more heavily on defenseman Owen Power.\nThrough seven games this season entering Thursday’s contest against the Maple Leafs, Power had averaged a whopping 26 minutes, 26 seconds of ice time.\nOnly five players – defensemen Zach Werenski, Thomas Chabot, Quinn Hughes and Lane Hutson – had skated more per outing.\n\nPower, of course, seemed destined for stardom when the Sabres drafted him first ... Read the full article \nThe post Sabres notes: Owen Power skating big minutes, becoming elite defenseman first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T22:03:55.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-notes-owen-power-skating-big-minutes-becoming-elite-defenseman/"
-    },
-    {
-      "id": "espn-bills::50191957",
-      "team": "bills",
-      "title": "The Bills aim to avoid a letdown in Las Vegas as the Raiders seek a rebound",
-      "summary": "— Buffalo will come into its game against Las Vegas trying to maintain momentum. The Bills could learn a lesson on what not to do from the Raiders.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T21:28:28Z",
-      "link": "http://www.espn.com/nfl/preview?gameId=401873005"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-8-preview-open-thread-sabres-at-maple-leafs/",
       "team": "sabres",
       "title": "Game #8 Preview & Open Thread: Sabres at Maple Leafs",
@@ -454,17 +498,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-15T18:39:31.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266956-now-aikman-is-leaving-monday-night-football/"
-    },
-    {
-      "id": "espn-bills::50147670",
-      "team": "bills",
-      "title": "NFL Week 6 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T18:15:59Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266955-ja-working-with-qb-guru/",
@@ -511,15 +544,15 @@
       "link": "https://www.cbssports.com/soccer/news/el-salvador-coach-strips-perks-publicly-before-facing-uswnt/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142933/what-could-josh-allen-be-working-on-mechanically-with-his-throwing-motion",
-      "team": "bills",
-      "title": "What could Josh Allen be working on mechanically with his throwing motion?",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/social-video-twitter/46690/usa-soccercast-episode-201-breaking-down-the-international-windows",
+      "team": "usmnt",
+      "title": "USA Soccercast, Episode 201: Breaking down the international windows",
       "summary": "",
-      "source": "Buffalo Rumblings",
+      "source": "Stars and Stripes FC",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-15T14:02:01.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142933/what-could-josh-allen-be-working-on-mechanically-with-his-throwing-motion"
+      "publishedAt": "2026-10-15T15:05:51.000Z",
+      "link": "https://www.starsandstripesfc.com/social-video-twitter/46690/usa-soccercast-episode-201-breaking-down-the-international-windows"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266949-week-6-bills-v-the-raiduhs-predict-the-score/",
@@ -544,17 +577,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266947-what-are-you-most-surprised-about-5-games-in/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142920/josh-allen-buffalo-bills-master-of-picking-his-poison",
-      "team": "bills",
-      "title": "Josh Allen is a master of picking his poison",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T10:26:14.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142920/josh-allen-buffalo-bills-master-of-picking-his-poison"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-trade-speedy-olen-zellweger-making-fast-impact-with-sabres/",
       "team": "sabres",
       "title": "Following trade, speedy Olen Zellweger making fast impact with Sabres",
@@ -577,17 +599,6 @@
       "link": "https://www.starsandstripesfc.com/athletes-in-focus/46609/ssfc-spotlight-julian-eyestone-grinding-in-league-two"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266945-what-is-your-favorite-bills-game-time/",
-      "team": "bills",
-      "title": "What is your favorite Bills game time?",
-      "summary": "I have to go with the Sunday 4:25 window. Can still do some things on a Sunday but don’t have to be up too late. Dinner at halftime, boom. That’s from an eastern time tv watcher. I’m sure others who tailgate, travel, attend games, live in other time zones or overseas prefer different.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T00:19:45.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266945-what-is-your-favorite-bills-game-time/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/these-advanced-stats-defined-the-bills-week-5-victory-over-the-la-rams",
       "team": "bills",
       "title": "These advanced stats defined the Bills' Week 5 victory over the L.A. Rams",
@@ -597,6 +608,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T22:42:35.000Z",
       "link": "https://www.buffalobills.com/news/these-advanced-stats-defined-the-bills-week-5-victory-over-the-la-rams"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266942-micah-hyde-on-the-rams-game-he-was-at-the-game-in-person/",
+      "team": "bills",
+      "title": "Micah Hyde on the Rams Game - He was at the Game in Person",
+      "summary": "Apparently he hold back some info that he knew. Simply being on the stands, he mentioned something he saw was a pattern like Puka in stack position, Stafford would simply count how many Bills defender on that side to throw to him for what essentially a run play. \n\n\n\n\t \n\n\n\n\tI'd imagine defensive coaches would see that as well. If Jim Leonhard does not. He needs to go upper stairs to call plays. But my point is what about our safeties on the field. A former safety can see it from the stands, the active safeties should see it on the field and make adjustments. Is that something Leonhard coaches but players don't recognize? It is not that new of a concept.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-14T21:17:51.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266942-micah-hyde-on-the-rams-game-he-was-at-the-game-in-person/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266941-shakir-clocked-fastest-speed-of-2026-season/",
@@ -775,17 +797,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266930-what-are-the-tbd-thoughts-on-keon-coleman/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266928-why-wasnt-the-cook-fumble-not-a-rams-penalty/",
-      "team": "bills",
-      "title": "Why Wasn't The Cook \"Fumble\" NOT a Rams Penalty?",
-      "summary": "Cook was clearly punched also with the ball.  There was no act of \"stripping\"... No interpretation.\n\n\n\n\t \n\n\n\n\tWhy isn't the \"Peanut Punch\" being penalized?  It's illegal to use the technique even more illegal when the player ends up missing and  also hitting the player in possession of the ball, which happened on the Cook play. \n\n\n\n\t \n\n\n\n\tWhy is Cook being faulted here.  It's a clearly illegal technique the NFL is refusing to enforce.\n\n\n\n\t \n\n\n\n\t\"Punching the ball is illegal in football when a player is in possession of it, but officials are instructed to assume a defender is legally stripping the ball if there is any doubt. If a defender misses the ball and punches a player instead, it would be penalized as striking under Rule 12.  Punching the Ball: A player cannot punch or bat a ball that is NOT in their possession. This is considered illegal.\"",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T11:57:59.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266928-why-wasnt-the-cook-fumble-not-a-rams-penalty/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/24480801/bills-vs-raiders-history-playoff-wins-comebacks-and-josh-allen",
       "team": "bills",
       "title": "Bills vs. Raiders history: Playoff wins, comebacks, and Josh Allen",
@@ -894,6 +905,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T20:59:00.000Z",
       "link": "https://www.buffalobills.com/news/bills-sign-olb-mike-danna-release-cb-anthony-kendall"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266924-credit-deone-walker-with-the-assist-on-groots-fg-block/",
+      "team": "bills",
+      "title": "Credit Deone Walker with the assist on Groot's FG Block",
+      "summary": "Watch the replay from behind in slow mo at the :40 mark.  He basically puts his weight on the shoulders of the lineman at the snap, freezing him in place so he can't back up.  But the guy next to him does, creating the lane for Groot to step in and elevate to get fingers on it.\n\n\n\n\t \n\n\n\n\tFantastic teamwork that is mostly uncredited (until now)",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T20:30:40.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266924-credit-deone-walker-with-the-assist-on-groots-fg-block/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-7-preview-open-thread-sabres-vs-canadiens-2/",
@@ -1072,17 +1094,6 @@
       "link": "https://www.diebytheblade.com/sabres-continue-to-have-a-mammoth-headache/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/",
-      "team": "bills",
-      "title": "The nostalgia thread",
-      "summary": "I’ve started following some accounts that post significant games and memorable Bills plays from the past. They always strike a chord with me and I want to share but don’t know where, so I’m starting this thread. \n\t \n\n\n\n\tok so I cannot believe this game was 5 years ago already. I remember clear as day bc I was off that Monday for Columbus Day and listened to sports radio all day in my glory! Also I remember Spencer brown talking about growing up in the Midwest and sitting in the garage watching and waiting out a storm and I could totally relate having lived in the Midwest now for 30 years.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T22:21:40.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-5-preview-open-thread-utah-mammoth-at-buffalo-sabres/",
       "team": "sabres",
       "title": "Game #5 Preview & Open Thread: Utah Mammoth at Buffalo Sabres",
@@ -1114,17 +1125,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-10T07:40:04.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266853-realistic-and-unrealistic-trade-targets-thread/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46588/usmnt-weekend-viewing-guide-a-deeper-pool",
-      "team": "usmnt",
-      "title": "USMNT weekend viewing guide: A deeper pool",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-09T18:17:28.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/46588/usmnt-weekend-viewing-guide-a-deeper-pool"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-come-up-empty-as-stars-shut-down-buffalo/",
@@ -1160,28 +1160,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266831-the-joe-b-football-podcast/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-next-generation-arrives-cavan-sullivan-julian-hall-mauricio-pochettino/",
-      "team": "usmnt",
-      "title": "USMNT's next generation arrives: How Cavan Sullivan, Julian Hall and more delivered for Mauricio Pochettino",
-      "summary": "Pochettino used the first post-World Cup international break to hand 13 different players their first cap, overseeing a generational shift as the road to the 2030 World Cup begins",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-07T21:37:28.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnts-next-generation-arrives-cavan-sullivan-julian-hall-mauricio-pochettino/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46564/previewing-uswnt-vs-spain-a-solid-test-for-the-usa",
-      "team": "usmnt",
-      "title": "Previewing USWNT vs. Spain – A solid test for the USA",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-07T16:05:19.000Z",
-      "link": "https://www.starsandstripesfc.com/uswnt-news/46564/previewing-uswnt-vs-spain-a-solid-test-for-the-usa"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266479-compensatory-pick-update/",
       "team": "bills",
       "title": "Compensatory pick update",
@@ -1191,6 +1169,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-15T22:11:25.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266479-compensatory-pick-update/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/",
+      "team": "bills",
+      "title": "If you weren't on board with the Brady promotion, do you feel better today?",
+      "summary": "I was really hoping we got Grant Udinski.  I fell for the \"prodigy\" label he was giving.  I was impressed with the way he conducts himself in the public, he does seem very knowledgeable.  \n\n\n\n\t \n\n\n\n\tThe Brady hire was deflating.  \n\n\n\n\t \n\n\n\n\tI know the regular season hasn't started yet but I'm feeling more comfortable with him.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T02:38:25.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/"
     }
   ]
 }
