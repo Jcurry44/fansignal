@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:34:31.538Z",
+  "generatedAt": "2026-10-16T23:54:59.550Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -170,6 +170,28 @@
   ],
   "stories": [
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-recall-sabres-dennis-gilbert-scores-rare-goal-displays-tenacity/",
+      "team": "sabres",
+      "title": "Following recall, Sabres’ Dennis Gilbert scores rare goal, displays tenacity",
+      "summary": "TORONTO – Two nights earlier in Montreal, Buffalo Sabres coach Lindy Ruff pointed out, defenseman Dennis Gilbert had walked right down the slot and missed the net.\nIf Gilbert, 29, got another opportunity with the puck, he would surely score, right?\n“They say you give Dennis a second chance, and he’ll make the other team pay,” Ruff joked Thursday after Gilbert scored his first goal at any level in nearly three years.\n\nKidding aside, Gilbert’s ... Read the full article \nThe post Following recall, Sabres’ Dennis Gilbert scores rare goal, displays tenacity first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T22:21:36.000Z",
+      "link": "https://www.buffalohockeybeat.com/following-recall-sabres-dennis-gilbert-scores-rare-goal-displays-tenacity/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-raiders-week-6",
+      "team": "bills",
+      "title": "Buffalo Bills injury report vs. Raiders | Week 6",
+      "summary": "Five players will be questionable for Sunday's matchup against the Raiders.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T21:46:02.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-raiders-week-6"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266968-overtime-strategy-kick-or-receive/",
       "team": "bills",
       "title": "Overtime Strategy: Kick or Receive?",
@@ -179,17 +201,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T21:14:53.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266968-overtime-strategy-kick-or-receive/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/143045/bills-mafia-takes-over-las-vegas-your-guide-to-parties-legends-and-tailgates",
-      "team": "bills",
-      "title": "Bills Mafia takes over Las Vegas: Your guide to parties, legends and tailgates",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T21:04:57.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/143045/bills-mafia-takes-over-las-vegas-your-guide-to-parties-legends-and-tailgates"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-rasmus-dahlin-josh-norris-and-jiri-kulich-all-progressing-from-injuries-and-illness/",
@@ -214,6 +225,17 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46698/usmnt-weekend-viewing-guide-a-hard-start"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/143045/bills-mafia-takes-over-las-vegas-your-guide-to-parties-legends-and-tailgates",
+      "team": "bills",
+      "title": "Bills Mafia takes over Las Vegas: Your guide to parties, legends and tailgates",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T19:26:09.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/143045/bills-mafia-takes-over-las-vegas-your-guide-to-parties-legends-and-tailgates"
+    },
+    {
       "id": "espn-bills::50147670",
       "team": "bills",
       "title": "NFL Week 6 betting: Odds, lines and totals for every game",
@@ -223,17 +245,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T17:30:10Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/a-detailed-look-at-gavin-mckennas-game-before-he-was-benched/",
-      "team": "sabres",
-      "title": "A detailed look at Gavin McKenna’s game before he was benched",
-      "summary": "So Gavin McKenna was benched on Thursday and played less than seven minutes against the Sabres. Justin Bourne takes a detailed look at what the 18-year-old did with his ice time to try and make sense of the benching.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T16:52:55.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/a-detailed-look-at-gavin-mckennas-game-before-he-was-benched/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46701/us-soccer-launches-arthur-m-blank-crest-cup-for-some-womens-soccer-teams",
@@ -599,6 +610,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266949-week-6-bills-v-the-raiduhs-predict-the-score/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266947-what-are-you-most-surprised-about-5-games-in/",
+      "team": "bills",
+      "title": "What are you most surprised about 5 games in",
+      "summary": "Bills.\n\n\n\n\t \n\n\n\n\t1. Defense would be this bad. I knew there would be growing pains, but I didn't think they would struggle this badly.\n\n\n\n\t2. Keon is starting to show signs of progress and playing well\n\n\n\n\t3. Bass has been a pleasant surprise this year. The kick the other night was big time pressure. He misses and the Bills lose.\n\n\n\n\t \n\n\n\n\tLeague.\n\n\n\n\t1. There are no great teams. Sorry Rams but I guess you aren't the automatic Super Bowl champs like the \"experts\" predicted.\n\n\n\n\t2. Chargers - Never thought they would be 0-5. Herbert has looked terrible this year.\n\n\n\n\t3. Vikings - Never thought they would be 5-0 especially with no offense.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T12:36:42.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266947-what-are-you-most-surprised-about-5-games-in/"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-trade-speedy-olen-zellweger-making-fast-impact-with-sabres/",
       "team": "sabres",
       "title": "Following trade, speedy Olen Zellweger making fast impact with Sabres",
@@ -907,17 +929,6 @@
       "link": "https://www.buffalobills.com/news/bills-hc-joe-brady-looks-back-on-ot-game-management-against-rams"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-olb-mike-danna-release-cb-anthony-kendall",
-      "team": "bills",
-      "title": "Bills sign OLB Mike Danna, release CB Anthony Kendall",
-      "summary": "The Bills made a couple of defensive changes on Tuesday.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T20:59:00.000Z",
-      "link": "https://www.buffalobills.com/news/bills-sign-olb-mike-danna-release-cb-anthony-kendall"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266924-credit-deone-walker-with-the-assist-on-groots-fg-block/",
       "team": "bills",
       "title": "Credit Deone Walker with the assist on Groot's FG Block",
@@ -1039,17 +1050,6 @@
       "link": "https://www.diebytheblade.com/sabres-overcome-loss-of-dahlin-fend-off-panthers-5-3/"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/struggling-sabres-change-lineup-again-by-inserting-young-forwardse/",
-      "team": "sabres",
-      "title": "Struggling Sabres change lineup again by inserting young forwards",
-      "summary": "BUFFALO – After sitting out Saturday’s 4-0 loss to the Utah Mammoth as healthy scratches, forwards Konsta Helenius and Jiri Kulich are in the lineup for this afternoon’s game against the Florida Panthers.\nTo make, room the Sabres scratched forwards Sam Carrick and Justin Danforth.\nUpdate: Sabres captain Rasmus Dahlin left the game with an upper-body injury in the second period and won’t return, according to the team. Dahlin did not take a shift after ... Read the full article \nThe post Struggling Sabres change lineup again by inserting young forwards first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T17:02:01.000Z",
-      "link": "https://www.buffalohockeybeat.com/struggling-sabres-change-lineup-again-by-inserting-young-forwardse/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-6-preview-open-thread-sabres-vs-panthers/",
       "team": "sabres",
       "title": "Game #6 Preview & Open Thread: Sabres vs Panthers",
@@ -1114,17 +1114,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-09T02:40:23.000Z",
       "link": "https://www.diebytheblade.com/sabres-come-up-empty-as-stars-shut-down-buffalo/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266831-the-joe-b-football-podcast/",
-      "team": "bills",
-      "title": "The Joe B. Football Podcast",
-      "summary": "Joe Buscaglia, the Athletic's Buffalo journo / beat writer has launched a twice to three times weekly podcast which runs for about an hour.\n\n\n\n\t \n\n\n\n\tWhilst he will occasionally bring in a guest, it's mainly a solo effort, which makes it different to most other podcasts. I think he does a really good job. He is both articulate and informed, and he keeps the podcast flowing. Well worth a listen.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-08T11:56:14.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266831-the-joe-b-football-podcast/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266815-lamar-jackson-likely-out-this-coming-week-potentially-longer/",
