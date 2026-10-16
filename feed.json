@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:24:41.076Z",
+  "generatedAt": "2026-10-16T21:34:31.538Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 2,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -170,6 +170,50 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266968-overtime-strategy-kick-or-receive/",
+      "team": "bills",
+      "title": "Overtime Strategy: Kick or Receive?",
+      "summary": "The Rams won the toss and elected to kick to the Bills, which seems to be the prevailing wisdom, with the thinking that after the receiving team's possession, the kicking team gets the ball back, knowing what they need to either win or tie the game.  Most teams who win the OT coin toss seem to be electing to kick.  I disagree with this strategy, especially in the regular season, where the OT period is limited to 10 minutes.\n\n\n\n\t \n\n\n\n\tFirst, the receiving team can chew up the clock, maybe as much as seven or eight minutes.  If they score a TD, then the kicking team might have as little as 2:30 left by the time they get the ball, which limits the type of drive they can mount, especially if they've already used one of their two OT timeouts.  More importantly, if the receiving team doesn't score, then punts the ball to the kicking team, they know that if they get a stop, they will get the ball next with a chance to win the game with a FG.  So in essence, they have a good chance to get two possessions, while the kicking team is probably only going to get one, unless both teams go three-and-out quickly.  I think the opportunity to get an \"extra\" possession outweighs the advantage the kicking team gets from knowing what they need. \n\n\n\n\t \n\n\n\n\tAnd here's another point.  With the new kickoff rule, the receiving team is likely to get the ball at their own 35-yardline or better.  If they advance it even to their own 40, they can pin the kicking team deep in their own territory with a punt, significantly reducing the kicking team's chance of scoring.  That is exactly what happened to the Bills in the playoff game against Denver.  Even though their defense got a stop on Denver's first possession, the Bills started their only OT possession inside their own 10-yard line. To me, if we have a choice in OT, we should always elect to receive. \n\n\n\n\t \n\n\n\n\tThoughts?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T21:14:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266968-overtime-strategy-kick-or-receive/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/143045/bills-mafia-takes-over-las-vegas-your-guide-to-parties-legends-and-tailgates",
+      "team": "bills",
+      "title": "Bills Mafia takes over Las Vegas: Your guide to parties, legends and tailgates",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T21:04:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/143045/bills-mafia-takes-over-las-vegas-your-guide-to-parties-legends-and-tailgates"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-rasmus-dahlin-josh-norris-and-jiri-kulich-all-progressing-from-injuries-and-illness/",
+      "team": "sabres",
+      "title": "Sabres’ Rasmus Dahlin, Josh Norris and Jiri Kulich all progressing from injuries and illness",
+      "summary": "An upper-body injury will force Buffalo Sabres captain Rasmus Dahlin to miss his third straight game Saturday, coach Lindy Ruff told reporters Friday in Montreal.\n“Progressing,” Ruff said of the defenseman’s status to reporters at the Bell Centre. “He’s feeling better today than yesterday.”\nAfter shooting the puck in Monday afternoon’s 5-3 win over the Florida Panthers, Dahlin reached for his lower back and left the game.\n\nThe Sabres received more good news Friday on ... Read the full article \nThe post Sabres’ Rasmus Dahlin, Josh Norris and Jiri Kulich all progressing from injuries and illness first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T21:00:50.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-rasmus-dahlin-josh-norris-and-jiri-kulich-all-progressing-from-injuries-and-illness/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46698/usmnt-weekend-viewing-guide-a-hard-start",
+      "team": "usmnt",
+      "title": "USMNT weekend viewing guide: A hard start",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T19:52:50.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/46698/usmnt-weekend-viewing-guide-a-hard-start"
+    },
+    {
       "id": "espn-bills::50147670",
       "team": "bills",
       "title": "NFL Week 6 betting: Odds, lines and totals for every game",
@@ -201,17 +245,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T16:28:10.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-news/46701/us-soccer-launches-arthur-m-blank-crest-cup-for-some-womens-soccer-teams"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/they-dont-trust-mckenna-what-to-make-of-hillers-benching-decision/",
-      "team": "sabres",
-      "title": "What to make of Hiller’s decision to bench Gavin McKenna",
-      "summary": "NHL senior writer James Mirtle joins JD Bunkis to try and make sense of Jim Hiller’s decision to bench rookie Gavin McKenna for all of the 3rd period and OT in the loss to Buffalo, and why he wanted to see him own that decision in a different way.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T15:11:44.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/they-dont-trust-mckenna-what-to-make-of-hillers-benching-decision/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143033/exploring-las-vegas-raiders-tendencies-ahead-of-week-6s-game-against-buffalo-bills",
@@ -456,17 +489,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/266958-tnf-seahawks-vs-broncos-no-bills-talk/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142957/denver-broncos-vs-seattle-seahawks-tnf-week-6-fan-discussion",
-      "team": "bills",
-      "title": "Denver Broncos vs. Seattle Seahawks, ‘TNF’ Week 6 fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T00:16:41.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142957/denver-broncos-vs-seattle-seahawks-tnf-week-6-fan-discussion"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-8-preview-open-thread-sabres-at-maple-leafs/",
       "team": "sabres",
       "title": "Game #8 Preview & Open Thread: Sabres at Maple Leafs",
@@ -544,6 +566,17 @@
       "link": "https://www.cbssports.com/soccer/news/el-salvador-coach-strips-perks-publicly-before-facing-uswnt/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266951-bills-in-irvine/",
+      "team": "bills",
+      "title": "Bills in Irvine",
+      "summary": "Does anyone know if the Bills will have any fan events in Irvine this week, i can't find anything online?  It's killing me that they are practicing so close (2 miles from my house) and there is no way i can go see them. I tried to drive by yesterday but I was early, there was security out the wazoo and a bunch of UCI student workers sitting around waiting for the busses to arrive.  I understand practices should be closed but i was really hoping to see my team up close.  Maybe I'll see if i can get a day job as a deck hand.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-15T15:41:59.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266951-bills-in-irvine/"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/social-video-twitter/46690/usa-soccercast-episode-201-breaking-down-the-international-windows",
       "team": "usmnt",
       "title": "USA Soccercast, Episode 201: Breaking down the international windows",
@@ -564,17 +597,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-15T13:57:52.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266949-week-6-bills-v-the-raiduhs-predict-the-score/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266947-what-are-you-most-surprised-about-5-games-in/",
-      "team": "bills",
-      "title": "What are you most surprised about 5 games in",
-      "summary": "Bills.\n\n\n\n\t \n\n\n\n\t1. Defense would be this bad. I knew there would be growing pains, but I didn't think they would struggle this badly.\n\n\n\n\t2. Keon is starting to show signs of progress and playing well\n\n\n\n\t3. Bass has been a pleasant surprise this year. The kick the other night was big time pressure. He misses and the Bills lose.\n\n\n\n\t \n\n\n\n\tLeague.\n\n\n\n\t1. There are no great teams. Sorry Rams but I guess you aren't the automatic Super Bowl champs like the \"experts\" predicted.\n\n\n\n\t2. Chargers - Never thought they would be 0-5. Herbert has looked terrible this year.\n\n\n\n\t3. Vikings - Never thought they would be 5-0 especially with no offense.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T12:36:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266947-what-are-you-most-surprised-about-5-games-in/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-trade-speedy-olen-zellweger-making-fast-impact-with-sabres/",
@@ -619,17 +641,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T21:17:51.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266942-micah-hyde-on-the-rams-game-he-was-at-the-game-in-person/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266941-shakir-clocked-fastest-speed-of-2026-season/",
-      "team": "bills",
-      "title": "Shakir clocked fastest speed of 2026 season",
-      "summary": "21.89 mph on the OT catch and run up the sideline...\n\n\n\n\t \n\n\n\n\tNot bad for all the people claiming our WRs are slow.\n\n\n\n\t \n\n\n\n\thttps://sports.yahoo.com/articles/watch-khalil-shakir-clock-fastest-132345464.html",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T20:48:58.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266941-shakir-clocked-fastest-speed-of-2026-season/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/zach-bryan-concert-tour-announcement-highmark-stadium-2027",
@@ -1061,17 +1072,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/46471/usmnt-midweek-viewing-guide-chaaampiooons-again"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-sabres-struggle-early-ryan-mcleod-or-josh-norris-could-be-scratched/",
-      "team": "sabres",
-      "title": "As Sabres struggle early, Ryan McLeod or Josh Norris could be scratched",
-      "summary": "BUFFALO – Scratching young players, as coach Lindy Ruff did Saturday, is often the first option to ignite a struggling team. As rookie Konsta Helenius and Jiri Kulich watched, the Sabres fell meekly to the Utah Mammoth.\nNow, Ruff’s lineup decisions – he has 14 forwards at his disposal – for this afternoon’s game against the Florida Panthers could be a heck of a lot more interesting.\nThe Sabres, fresh off a 109-point season, have ... Read the full article \nThe post As Sabres struggle early, Ryan McLeod or Josh Norris could be scratched first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-12T05:48:27.000Z",
-      "link": "https://www.buffalohockeybeat.com/as-sabres-struggle-early-ryan-mcleod-or-josh-norris-could-be-scratched/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46596/lessons-learned-uswnt-lose-2-0-to-spain",
       "team": "usmnt",
       "title": "Lessons Learned: USWNT lose 2-0 to Spain",
@@ -1105,28 +1105,6 @@
       "link": "https://www.diebytheblade.com/game-5-preview-open-thread-utah-mammoth-at-buffalo-sabres/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46593/usa-vs-spain-2026-friendly-time-tv-schedule-streaming-and-lineups",
-      "team": "usmnt",
-      "title": "USA vs. Spain, 2026 Friendly: Time, TV schedule, streaming and lineups",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T13:56:39.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/46593/usa-vs-spain-2026-friendly-time-tv-schedule-streaming-and-lineups"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266853-realistic-and-unrealistic-trade-targets-thread/",
-      "team": "bills",
-      "title": "Realistic and unrealistic trade targets thread!",
-      "summary": "There has been a lot of discussion about how we can improve the team this season for our eventual playoff push. But I think the players we maybe considered targeting preseason (like Crosby) are either off the table or not really what we need to chase.\n\n\n\n\t \n\n\n\n\tso lets go on record! Who do the Bills go after? Pick someone realistic (based on trade compensation, we aren’t getting CeeDee Lamb for a 4th), and someone more unrealistic, but still attainable. \n\t \n\n\n\n\tWe can revisit the thread trade deadline and see who gets moved, and for what. \n\t \n\n\n\n\tI’ll go first. \n\t \n\n\n\n\tRealistic: BTJ for a 4th\n\n\n\n\t \n\n\n\n\tUnrealistic but possible: Terry McLaurin for a 5th",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T07:40:04.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266853-realistic-and-unrealistic-trade-targets-thread/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-come-up-empty-as-stars-shut-down-buffalo/",
       "team": "sabres",
       "title": "Sabres come up empty as Stars shut down Buffalo",
@@ -1138,17 +1116,6 @@
       "link": "https://www.diebytheblade.com/sabres-come-up-empty-as-stars-shut-down-buffalo/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/meet-santiago-castaneda-colombian-american-bundesliga-usmnt/",
-      "team": "usmnt",
-      "title": "Meet Santiago Castaneda, the Colombian-American shining in Bundesliga who could be next USMNT gem",
-      "summary": "The Tampa native has represented the U.S. at the youth level but is also eligible to represent Colombia",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-08T18:42:37.000Z",
-      "link": "https://www.cbssports.com/soccer/news/meet-santiago-castaneda-colombian-american-bundesliga-usmnt/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266831-the-joe-b-football-podcast/",
       "team": "bills",
       "title": "The Joe B. Football Podcast",
@@ -1158,6 +1125,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-08T11:56:14.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266831-the-joe-b-football-podcast/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266815-lamar-jackson-likely-out-this-coming-week-potentially-longer/",
+      "team": "bills",
+      "title": "Lamar Jackson likely out this coming week, potentially longer",
+      "summary": "Bills play Ravens 11/1\n\n\n\n\t \n\n\n\n\tIf I had to guess based on some of the reports, he misses 1-2 games.  \n\t \n\n\n\n\tSomething to watch though.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-06T16:13:16.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266815-lamar-jackson-likely-out-this-coming-week-potentially-longer/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266479-compensatory-pick-update/",
