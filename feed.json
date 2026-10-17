@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:12:37.728Z",
+  "generatedAt": "2026-10-17T15:40:36.774Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -170,6 +170,50 @@
   ],
   "stories": [
     {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/canadiens-reinbacher-kapanen-to-make-season-debuts-against-sabres/",
+      "team": "sabres",
+      "title": "Canadiens’ Reinbacher, Kapanen to make season debuts against Sabres",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T15:24:49.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/canadiens-reinbacher-kapanen-to-make-season-debuts-against-sabres/"
+    },
+    {
+      "id": "espn-sabres::50190257",
+      "team": "sabres",
+      "title": "NHL Power Rankings: Each team's biggest shock of 2026-27",
+      "summary": "The Hurricanes are back on top of our 1-32 poll. Plus, we identify the big surprises -- both good and bad.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T14:13:52Z",
+      "link": "https://www.espn.com/nhl/story/_/id/50190257/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142994/bills-news-previewing-the-raiders",
+      "team": "bills",
+      "title": "Bills news: Previewing the Raiders",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T13:52:32.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/142994/bills-news-previewing-the-raiders"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143108/buffalo-bills-trending-up-trending-down-brock-bowers-is-coming-for-bills-back-seven",
+      "team": "bills",
+      "title": "Buffalo Bills trending up, trending down: Brock Bowers is coming for Bills back seven",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T13:51:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143108/buffalo-bills-trending-up-trending-down-brock-bowers-is-coming-for-bills-back-seven"
+    },
+    {
       "id": "espn-sabres::50197524",
       "team": "sabres",
       "title": "NHL Tonight: Previews, storylines, betting info for all 14 games",
@@ -177,8 +221,30 @@
       "source": "ESPN · ESPN Staff",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-10-17T11:12:17Z",
+      "publishedAt": "2026-10-17T12:30:59Z",
       "link": "https://www.espn.com/nhl/story/_/id/50197524/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/142987/bills-game-day-food-buffalo-hardtack-for-week-6-at-las-vegas-raiders",
+      "team": "bills",
+      "title": "Bills game-day food: Buffalo Hardtack for Week 6 at Las Vegas Raiders",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T04:43:39.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/142987/bills-game-day-food-buffalo-hardtack-for-week-6-at-las-vegas-raiders"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-odds/142939/bills-vs-raiders-predictions-week-6-picks",
+      "team": "bills",
+      "title": "NFL predictions: 3 bold takes for Bills-Raiders Week 6 game",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T04:43:14.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-odds/142939/bills-vs-raiders-predictions-week-6-picks"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266970-allen-vs-jackson-as-purely-running-qbs/",
@@ -190,6 +256,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-17T04:30:59.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266970-allen-vs-jackson-as-purely-running-qbs/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/143063/bills-vs-raiders-injury-designations-five-questionable-for-buffalo",
+      "team": "bills",
+      "title": "Bills vs. Raiders injury designations: Five questionable for Buffalo",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T01:57:44.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/143063/bills-vs-raiders-injury-designations-five-questionable-for-buffalo"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-recall-sabres-dennis-gilbert-scores-rare-goal-displays-tenacity/",
@@ -223,6 +300,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T21:14:53.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266968-overtime-strategy-kick-or-receive/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/143045/bills-mafia-takes-over-las-vegas-your-guide-to-parties-legends-and-tailgates",
+      "team": "bills",
+      "title": "Bills Mafia takes over Las Vegas: Your guide to parties, legends and tailgates",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T21:04:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/143045/bills-mafia-takes-over-las-vegas-your-guide-to-parties-legends-and-tailgates"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-rasmus-dahlin-josh-norris-and-jiri-kulich-all-progressing-from-injuries-and-illness/",
@@ -269,6 +357,17 @@
       "link": "https://www.starsandstripesfc.com/uswnt-news/46701/us-soccer-launches-arthur-m-blank-crest-cup-for-some-womens-soccer-teams"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143033/exploring-las-vegas-raiders-tendencies-ahead-of-week-6s-game-against-buffalo-bills",
+      "team": "bills",
+      "title": "Exploring Las Vegas Raiders tendencies ahead of Week 6’s game against Buffalo Bills",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T14:50:17.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143033/exploring-las-vegas-raiders-tendencies-ahead-of-week-6s-game-against-buffalo-bills"
+    },
+    {
       "id": "espn-bills::47809892",
       "team": "bills",
       "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
@@ -291,15 +390,26 @@
       "link": "https://www.espn.com/video/clip/_/id/50196191/why-bills-a-troubling-spot-vs-raiders"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-at-las-vegas-raiders-where-to-watch-stream-and-listen-week-6",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143018/5-buffalo-bills-to-watch-at-las-vegas-raiders",
       "team": "bills",
-      "title": "Buffalo Bills at Las Vegas Raiders | Where to watch, stream and listen | Week 6",
-      "summary": "TV Channel, Streaming and Radio for Bills at Raiders",
-      "source": "Bills.com",
-      "sourceType": "team",
+      "title": "5 Buffalo Bills to watch at Las Vegas Raiders",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-16T14:05:15.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143018/5-buffalo-bills-to-watch-at-las-vegas-raiders"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142971/james-cook-going-to-need-the-bye-week-after-facing-las-vegas-raiders-buffalo-bills",
+      "team": "bills",
+      "title": "James Cook is going to need the bye week after facing Las Vegas Raiders",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-16T14:00:09.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-at-las-vegas-raiders-where-to-watch-stream-and-listen-week-6"
+      "publishedAt": "2026-10-16T14:02:41.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142971/james-cook-going-to-need-the-bye-week-after-facing-las-vegas-raiders-buffalo-bills"
     },
     {
       "id": "espn-bills::50188997",
@@ -322,28 +432,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T10:38:23Z",
       "link": "https://www.espn.com/nfl/story/_/id/50181965/2026-nfl-season-ranking-eight-nfl-divisions-best-worst"
-    },
-    {
-      "id": "espn-sabres::50190257",
-      "team": "sabres",
-      "title": "NHL Power Rankings: Each team's biggest shock of 2026-27",
-      "summary": "The Hurricanes are back on top of our 1-32 poll. Plus, we identify the big surprises -- both good and bad.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T10:09:31Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50190257/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266963-throwback-thursday-1967-buffalo-bills/",
-      "team": "bills",
-      "title": "Throwback Thursday 1967 Buffalo Bills",
-      "summary": "DC Joe Collier replaces Lou Saban at HC as the age creeps in on 4 straight playoff seasons, which included back to back League Championships. Also gone is Cookie, Bass, Gogolak and the Mad Bomber Daryl Lamonica in a trade for fast WR Art Power. Former nemesis Keith Lincoln joins the team from San Diego to lead us in rushing. Unusual great copy for a game played almost 7 decades ago.\n\n\n\n\tEnjoy!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T08:18:50.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266963-throwback-thursday-1967-buffalo-bills/"
     },
     {
       "id": "espn-sabres::50194783",
@@ -377,17 +465,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T05:03:55.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-notes-owen-power-skating-big-minutes-becoming-elite-defenseman/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266962-would-you-be-in-favor-of-each-team-getting-2-penalty-challenges-per-game/",
-      "team": "bills",
-      "title": "Would you be in favor of each team getting 2 \"Penalty Challenges\" per game??",
-      "summary": "These two challenges could be used to overturn a penalty that was called, or ask for a penalty that was missed to be called.\n\n\n\n\t \n\n\n\n\tHow many games do we see that come down to a bad penalty call or a missed penalty call?? This would be a way for the Officials to be held accountable in-game and for games to not be decided on bad calls.\n\n\n\n\t \n\n\n\n\tI know Officiating is hard, but I bet that deep down these Officials don't want to be the reason a team loses a game, so you would think Officials would be open to making sure key calls are the correct ones.\n\n\n\n\t \n\n\n\n\tWhy hasn't this ever been talked about or even tried in Preseason games to see if it is a viable solution??",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T04:06:10.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266962-would-you-be-in-favor-of-each-team-getting-2-penalty-challenges-per-game/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/we-re-here-for-a-business-trip-the-bills-practice-on-the-west-coast-ahead-of-week-6",
@@ -434,28 +511,6 @@
       "link": "https://www.diebytheblade.com/sabres-crunch-maple-leafs-stunning-comeback-quinn-power-overtime-winner/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/142975/bills-injury-report-dj-moore-dnp-spencer-brown-listed-as-full-thursday",
-      "team": "bills",
-      "title": "Bills injury report: DJ Moore DNP, Spencer Brown listed as Full Thursday",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T01:06:01.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/142975/bills-injury-report-dj-moore-dnp-spencer-brown-listed-as-full-thursday"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142813/bills-week-6-rooting-interests-who-can-help-buffalo-climb-the-afc",
-      "team": "bills",
-      "title": "Bills Week 6 rooting interests: Who can help Buffalo climb the AFC?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T00:45:55.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142813/bills-week-6-rooting-interests-who-can-help-buffalo-climb-the-afc"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266960-the-rockpile-review-a-different-perspective/",
       "team": "bills",
       "title": "THE ROCKPILE REVIEW - A Different Perspective",
@@ -476,17 +531,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T00:23:48.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266958-tnf-seahawks-vs-broncos-no-bills-talk/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/142957/denver-broncos-vs-seattle-seahawks-tnf-week-6-fan-discussion",
-      "team": "bills",
-      "title": "Denver Broncos vs. Seattle Seahawks, ‘TNF’ Week 6 fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T00:16:41.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/142957/denver-broncos-vs-seattle-seahawks-tnf-week-6-fan-discussion"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-8-preview-open-thread-sabres-at-maple-leafs/",
@@ -566,17 +610,6 @@
       "link": "https://www.starsandstripesfc.com/social-video-twitter/46690/usa-soccercast-episode-201-breaking-down-the-international-windows"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142933/what-could-josh-allen-be-working-on-mechanically-with-his-throwing-motion",
-      "team": "bills",
-      "title": "What could Josh Allen be working on mechanically with his throwing motion?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T14:02:01.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142933/what-could-josh-allen-be-working-on-mechanically-with-his-throwing-motion"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266949-week-6-bills-v-the-raiduhs-predict-the-score/",
       "team": "bills",
       "title": "Week 6, Bills v. THE RAIDUHS, PREDICT THE SCORE!",
@@ -597,17 +630,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-15T12:36:42.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266947-what-are-you-most-surprised-about-5-games-in/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142920/josh-allen-buffalo-bills-master-of-picking-his-poison",
-      "team": "bills",
-      "title": "Josh Allen is a master of picking his poison",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T10:26:14.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142920/josh-allen-buffalo-bills-master-of-picking-his-poison"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/following-trade-speedy-olen-zellweger-making-fast-impact-with-sabres/",
@@ -632,28 +654,6 @@
       "link": "https://www.starsandstripesfc.com/athletes-in-focus/46609/ssfc-spotlight-julian-eyestone-grinding-in-league-two"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/142923/bills-injury-report-spencer-brown-joshua-palmer-limited-wednesday",
-      "team": "bills",
-      "title": "Bills injury report: Spencer Brown, Joshua Palmer limited Wednesday",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-15T02:23:01.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/142923/bills-injury-report-spencer-brown-joshua-palmer-limited-wednesday"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142907/buffalo-bills-hc-joe-brady-endorses-current-play-of-teams-starting-lbs",
-      "team": "bills",
-      "title": "Buffalo Bills HC Joe Brady endorses current play of team’s starting LBs",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T23:36:18.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/142907/buffalo-bills-hc-joe-brady-endorses-current-play-of-teams-starting-lbs"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/these-advanced-stats-defined-the-bills-week-5-victory-over-the-la-rams",
       "team": "bills",
       "title": "These advanced stats defined the Bills' Week 5 victory over the L.A. Rams",
@@ -665,28 +665,6 @@
       "link": "https://www.buffalobills.com/news/these-advanced-stats-defined-the-bills-week-5-victory-over-the-la-rams"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142893/are-the-4-1-buffalo-bills-headed-in-the-right-direction-after-week-5-win",
-      "team": "bills",
-      "title": "Are the 4-1 Buffalo Bills headed in the right direction after Week 5 win?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T21:47:23.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142893/are-the-4-1-buffalo-bills-headed-in-the-right-direction-after-week-5-win"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142873/what-buffalo-bills-snap-counts-reveal-about-overtime-escape-against-rams",
-      "team": "bills",
-      "title": "What Buffalo Bills snap counts reveal about overtime escape against Rams",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T21:07:10.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142873/what-buffalo-bills-snap-counts-reveal-about-overtime-escape-against-rams"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/zach-bryan-concert-tour-announcement-highmark-stadium-2027",
       "team": "bills",
       "title": "Global Music Star Zach Bryan Announces 2027 Young Manhood and Other Donatable Organs Tour",
@@ -696,17 +674,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T20:14:15.000Z",
       "link": "https://www.buffalobills.com/news/zach-bryan-concert-tour-announcement-highmark-stadium-2027"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/142871/why-nfl-teams-with-late-leads-should-be-more-aggressive-on-defense",
-      "team": "bills",
-      "title": "Why NFL teams with late leads should be more aggressive on defense",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T19:03:21.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/142871/why-nfl-teams-with-late-leads-should-be-more-aggressive-on-defense"
     },
     {
       "id": "bandits-official::https://bandits.com/jay-thorimbert-signs-1-day-contract-to-retire-with-bandits/",
@@ -786,6 +753,17 @@
       "link": "https://bandits.com/bandits-sign-andrews-booth-scanlan/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266936-stat-seen-shocking/",
+      "team": "bills",
+      "title": "Stat seen - shocking",
+      "summary": "Since our 44-42 loss to the Rams in LA on 12/8/24, The Bills have allowed over 30 points 8 times in the regular season.  We've won all 8 of those games.\n\n\n\n\t \n\n\n\n\t12/15/24    @ Lions            48-42 win\n\t9/7/25        Ravens            41-40 win\n\t11/16/25     Buccaneers        44-32 win\n\t12/7/25        Bengals            39-34 win\n\t12/14/25    @ patriots*        35-31 win\n\t9/13/26        @ Texans        36-31 win\n\t9/17/26        Lions            41-31 win\n\t10/12/26    @ Rams            37-34 OT win\n\n\n\n\t \n\n\n\n\tSadly, this trend hasn't held true in playoffs.  Yet.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-14T17:49:42.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266936-stat-seen-shocking/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-12/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 10/12",
@@ -817,6 +795,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T16:09:15.000Z",
       "link": "https://www.buffalobills.com/news/top-bills-game-storylines-vs-raiders-week-6"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266931-brady-issues-a-public-warning-to-james-cook/",
+      "team": "bills",
+      "title": "Brady issues a public warning to James Cook",
+      "summary": "The Bills were able to escape Monday night's game at SoFi Stadium with a thrilling overtime win over the Rams, but it wasn't all good news for Joe Brady's running back.\n\n\n\n\tSince the start of the 2025 season, Bills running back James Cook has fumbled 11 times, including two fumbles in Monday night's game (one of which was recovered by Los Angeles in overtime). And sure, the Bills were fortunate to hold onto the win, but Brady made it clear on Tuesday that something needs to change with Cook's ball security.\n\n\n\n\t \n\n\n\n\tHe told reporters in a video call that Cook could face consequences if the fumbling issues continued.\n\n\n\n\t \n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tIs Brady getting tough now ???\n\n\n\n\t \n\n\n\n\thttps://sports.yahoo.com/articles/bills-coach-joe-brady-issued-230655767.html",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-14T16:05:47.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266931-brady-issues-a-public-warning-to-james-cook/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/greg-rousseau-wins-afc-special-teams-player-of-the-week-for-blocked-ot-field-goal",
