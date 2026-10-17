@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:27:52.729Z",
+  "generatedAt": "2026-10-17T22:35:33.320Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -170,6 +170,17 @@
   ],
   "stories": [
     {
+      "id": "espn-sabres::50204885",
+      "team": "sabres",
+      "title": "Carolina Hurricanes vs. Winnipeg Jets: Game Highlights",
+      "summary": "Carolina Hurricanes vs. Winnipeg Jets: Game Highlights",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T22:29:17Z",
+      "link": "https://www.espn.com/video/clip/_/id/50204885/game-highlights"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266977-you%E2%80%99re-crazy-if-you-don%E2%80%99t-like-buffalo/",
       "team": "bills",
       "title": "You’re crazy if you don’t like Buffalo",
@@ -201,28 +212,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-17T17:49:08.000Z",
       "link": "https://www.diebytheblade.com/game-9-preview-open-thread-buffalo-sabres-at-montreal-canadiens/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/canadiens-reinbacher-talks-confidence-level-ahead-of-season-debut/",
-      "team": "sabres",
-      "title": "Canadiens’ Reinbacher talks confidence level ahead of season debut",
-      "summary": "Montreal Canadiens defenseman David Reinbacher meets with the media ahead of his 2026-27 regular season debut against the Buffalo Sabres and discusses the strengths to his game and the confidence level that he is bringing to the ice.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-17T17:22:37.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/canadiens-reinbacher-talks-confidence-level-ahead-of-season-debut/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/leafs-head-coach-hiller-addresses-benching-of-mckenna-vs-sabres/",
-      "team": "sabres",
-      "title": "Leafs head coach Hiller addresses benching of McKenna vs. Sabres",
-      "summary": "Toronto Maple Leafs head coach Jim Hiller meets with the media and discusses his interaction with rookie Gavin McKenna after taking him off the ice in the second period against the Buffalo Sabres, and what he likes about the rookie.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-17T17:10:00.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/leafs-head-coach-hiller-addresses-benching-of-mckenna-vs-sabres/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266973-run-or-pass-our-wr-motion-is-a-tell/",
@@ -577,6 +566,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/266960-the-rockpile-review-a-different-perspective/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266958-tnf-seahawks-vs-broncos-no-bills-talk/",
+      "team": "bills",
+      "title": "TNF - Seahawks vs Broncos (No Bills Talk)",
+      "summary": "Seattle needs to adopt these uniforms full time.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-16T00:23:48.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266958-tnf-seahawks-vs-broncos-no-bills-talk/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-8-preview-open-thread-sabres-at-maple-leafs/",
       "team": "sabres",
       "title": "Game #8 Preview & Open Thread: Sabres at Maple Leafs",
@@ -797,17 +797,6 @@
       "link": "https://bandits.com/bandits-sign-andrews-booth-scanlan/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266936-stat-seen-shocking/",
-      "team": "bills",
-      "title": "Stat seen - shocking",
-      "summary": "Since our 44-42 loss to the Rams in LA on 12/8/24, The Bills have allowed over 30 points 8 times in the regular season.  We've won all 8 of those games.\n\n\n\n\t \n\n\n\n\t12/15/24    @ Lions            48-42 win\n\t9/7/25        Ravens            41-40 win\n\t11/16/25     Buccaneers        44-32 win\n\t12/7/25        Bengals            39-34 win\n\t12/14/25    @ patriots*        35-31 win\n\t9/13/26        @ Texans        36-31 win\n\t9/17/26        Lions            41-31 win\n\t10/12/26    @ Rams            37-34 OT win\n\n\n\n\t \n\n\n\n\tSadly, this trend hasn't held true in playoffs.  Yet.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T17:49:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266936-stat-seen-shocking/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-12/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 10/12",
@@ -927,17 +916,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T02:03:19Z",
       "link": "https://www.espn.com/video/clip/_/id/50178586/game-highlights"
-    },
-    {
-      "id": "espn-sabres::50178412",
-      "team": "sabres",
-      "title": "Svechnikov scores 2 goals to lead the Hurricanes to a 4-2 win over the Capitals",
-      "summary": "— Andrei Svechnikov scored two goals, including the winner with 6:04 left in the third period, to lead the Carolina Hurricanes to a 4-2 win over the Washington Capitals on Tuesday night.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T01:38:42Z",
-      "link": "http://www.espn.com/nhl/recap?gameId=401892491"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/what-they-re-saying-the-nfl-world-reacts-to-buffalo-s-instant-classic-overtime-victory-over-the-l-a-rams",
@@ -1160,15 +1138,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/266853-realistic-and-unrealistic-trade-targets-thread/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/",
       "team": "bills",
-      "title": "If you weren't on board with the Brady promotion, do you feel better today?",
-      "summary": "I was really hoping we got Grant Udinski.  I fell for the \"prodigy\" label he was giving.  I was impressed with the way he conducts himself in the public, he does seem very knowledgeable.  \n\n\n\n\t \n\n\n\n\tThe Brady hire was deflating.  \n\n\n\n\t \n\n\n\n\tI know the regular season hasn't started yet but I'm feeling more comfortable with him.",
+      "title": "Sean McDermott: The stalking your ex thread",
+      "summary": "A futile attempt to keep all the McDermott stuff in one place",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-25T02:38:25.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/"
+      "publishedAt": "2026-08-07T21:23:50.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/"
     }
   ]
 }
