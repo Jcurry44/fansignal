@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T22:35:33.320Z",
+  "generatedAt": "2026-10-18T00:23:43.962Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "final",
-      "headline": "Final · W 5-4",
-      "detail": "at TOR"
+      "state": "live",
+      "headline": "1 - 2",
+      "detail": "at MTL · P2"
     },
     {
       "team": "bandits",
@@ -169,6 +169,28 @@
     }
   ],
   "stories": [
+    {
+      "id": "sportsnet-nhl::sportsnet.ca/hockey/nhl/games/499cce67-5ad3-4484-bef4-2bec69d8d166/",
+      "team": "sabres",
+      "title": "Saturday Night Hockey on Sportsnet: Sabres vs. Canadiens",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T22:51:31.000Z",
+      "link": "sportsnet.ca/hockey/nhl/games/499cce67-5ad3-4484-bef4-2bec69d8d166/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143091/5-things-bills-mafia-should-know-about-the-raiders-before-week-6-game",
+      "team": "bills",
+      "title": "5 things Bills Mafia should know about the Raiders before Week 6 game",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-17T22:47:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143091/5-things-bills-mafia-should-know-about-the-raiders-before-week-6-game"
+    },
     {
       "id": "espn-sabres::50204885",
       "team": "sabres",
@@ -192,15 +214,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/266977-you%E2%80%99re-crazy-if-you-don%E2%80%99t-like-buffalo/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266976-fans-of-buffalo-tailgate-1018/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266976-fans-of-buffalo-lv-tailgate-1018/",
       "team": "bills",
-      "title": "Fans of Buffalo Tailgate 10/18",
+      "title": "Fans of Buffalo LV Tailgate 10/18",
       "summary": "Who here will be in attendance?  Fired up to get in on my first tailgate session of the season.  Lot opens at 8:30.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-10-17T19:20:44.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266976-fans-of-buffalo-tailgate-1018/"
+      "link": "https://www.twobillsdrive.com/community/topic/266976-fans-of-buffalo-lv-tailgate-1018/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-9-preview-open-thread-buffalo-sabres-at-montreal-canadiens/",
@@ -399,17 +421,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T16:28:10.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-news/46701/us-soccer-launches-arthur-m-blank-crest-cup-for-some-womens-soccer-teams"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143033/exploring-las-vegas-raiders-tendencies-ahead-of-week-6s-game-against-buffalo-bills",
-      "team": "bills",
-      "title": "Exploring Las Vegas Raiders tendencies ahead of Week 6’s game against Buffalo Bills",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T14:50:17.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143033/exploring-las-vegas-raiders-tendencies-ahead-of-week-6s-game-against-buffalo-bills"
     },
     {
       "id": "espn-bills::47809892",
