@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T19:18:21.864Z",
+  "generatedAt": "2026-10-18T21:42:17.959Z",
   "sources": [
     {
       "id": "bills-official",
@@ -146,8 +146,8 @@
     {
       "team": "bills",
       "state": "upcoming",
-      "headline": "Sun 4:25 PM",
-      "detail": "at LV"
+      "headline": "Sun 1:00 PM",
+      "detail": "vs BAL"
     },
     {
       "team": "sabres",
@@ -170,15 +170,15 @@
   ],
   "stories": [
     {
-      "id": "bills-official::https://www.buffalobills.com/news/dj-moore-ed-oliver-among-buffalo-bills-inactives-at-raiders",
+      "id": "bills-official::https://www.buffalobills.com/news/bills-issue-injury-update-on-olb-bradley-chubb",
       "team": "bills",
-      "title": "DJ Moore, Ed Oliver among Buffalo Bills inactives at Raiders",
-      "summary": "The Buffalo Bills are listing five players as inactive for today's game against the Las Vegas Raiders.",
+      "title": "Bills issue injury update on OLB Bradley Chubb",
+      "summary": "Chubb has a rib injury and was hurt during the first half of the game",
       "source": "Bills.com",
       "sourceType": "team",
       "sourceCount": 1,
-      "publishedAt": "2026-10-18T18:54:20.000Z",
-      "link": "https://www.buffalobills.com/news/dj-moore-ed-oliver-among-buffalo-bills-inactives-at-raiders"
+      "publishedAt": "2026-10-18T21:14:20.000Z",
+      "link": "https://www.buffalobills.com/news/bills-issue-injury-update-on-olb-bradley-chubb"
     },
     {
       "id": "espn-bills::50209856",
@@ -188,8 +188,63 @@
       "source": "ESPN · NFL Nation",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-10-18T18:21:03Z",
+      "publishedAt": "2026-10-18T21:11:44Z",
       "link": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+    },
+    {
+      "id": "espn-bills::40994229",
+      "team": "bills",
+      "title": "What are the longest field goals in NFL history?",
+      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T20:33:41Z",
+      "link": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
+    },
+    {
+      "id": "espn-bills::50193542",
+      "team": "bills",
+      "title": "Eagles WR DeVonta Smith leads NFL Week 6's best arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · Cameron Wolfe",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T19:32:13Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/tage-thompson-taking-his-place-among-sabres-all-time-greats/",
+      "team": "sabres",
+      "title": "Tage Thompson taking his place among Sabres’ all-time greats",
+      "summary": "Early in his tenure in Buffalo, the idea of Tage Thompson someday taking his place among some of the Sabres’ all-time greats seemed ludicrous.\nIn 104 games over his first three years, he scored just 15 goals.\nBut Thompson matured rapidly after former Sabres coach Don Granato switched him from wing to center five years ago.\n\nToday, he ranks among the NHL’s elite scorers.\nIn 393 games since the beginning of the 2021-22 season, Thompson ... Read the full article \nThe post Tage Thompson taking his place among Sabres’ all-time greats first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T19:29:55.000Z",
+      "link": "https://www.buffalohockeybeat.com/tage-thompson-taking-his-place-among-sabres-all-time-greats/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/143173/buffalo-bills-at-las-vegas-raiders-week-6-fan-discussion",
+      "team": "bills",
+      "title": "Buffalo Bills at Las Vegas Raiders, Week 6 fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-18T19:15:17.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/143173/buffalo-bills-at-las-vegas-raiders-week-6-fan-discussion"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/dj-moore-ed-oliver-among-buffalo-bills-inactives-at-raiders",
+      "team": "bills",
+      "title": "DJ Moore, Ed Oliver among Buffalo Bills inactives at Raiders",
+      "summary": "The Buffalo Bills are listing five players as inactive for today's game against the Las Vegas Raiders.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T18:54:20.000Z",
+      "link": "https://www.buffalobills.com/news/dj-moore-ed-oliver-among-buffalo-bills-inactives-at-raiders"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143091/5-things-bills-mafia-should-know-about-the-raiders-before-week-6-game",
@@ -225,17 +280,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-game-information/143134/bills-at-raiders-nfl-week-6-how-to-watch-game-time-streaming-more"
     },
     {
-      "id": "espn-bills::50193542",
-      "team": "bills",
-      "title": "Eagles WR DeVonta Smith leads NFL Week 6's best arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T16:08:01Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266986-gameday-101826-week-6-bills-at-raiders-425pm-1st-half-game-thread/",
       "team": "bills",
       "title": "GAMEDAY 10/18/26 WEEK 6 Bills at Raiders 4:25pm 1st Half game THREAD",
@@ -256,17 +300,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-18T15:43:00.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266985-in-support-of-leonhard-your-thoughts/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-at-las-vegas-raiders-where-to-watch-stream-and-listen-week-6",
-      "team": "bills",
-      "title": "Buffalo Bills at Las Vegas Raiders | Where to watch, stream and listen | Week 6",
-      "summary": "TV Channel, Streaming and Radio for Bills at Raiders",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T14:00:00.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-at-las-vegas-raiders-where-to-watch-stream-and-listen-week-6"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143152/starkly-split-opinion-on-buffalo-bills-entering-week-6s-game-at-raiders",
@@ -522,28 +555,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-rasmus-dahlin-josh-norris-and-jiri-kulich-all-progressing-from-injuries-and-illness/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/142987/bills-game-day-food-buffalo-hardtack-for-week-6-at-las-vegas-raiders",
-      "team": "bills",
-      "title": "Bills game-day food: Buffalo Hardtack for Week 6 at Las Vegas Raiders",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-17T04:43:39.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/142987/bills-game-day-food-buffalo-hardtack-for-week-6-at-las-vegas-raiders"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-odds/142939/bills-vs-raiders-predictions-week-6-picks",
-      "team": "bills",
-      "title": "NFL predictions: 3 bold takes for Bills-Raiders Week 6 game",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-17T04:43:14.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-odds/142939/bills-vs-raiders-predictions-week-6-picks"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266970-allen-vs-jackson-as-purely-running-qbs/",
       "team": "bills",
       "title": "Allen vs. Jackson as purely running QBs",
@@ -619,17 +630,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T14:22:01Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "id": "espn-bills::50196191",
-      "team": "bills",
-      "title": "Why the Bills could be in a 'troubling spot' vs. the Raiders",
-      "summary": "Why the Bills could be in a 'troubling spot' vs. the Raiders",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T14:16:49Z",
-      "link": "https://www.espn.com/video/clip/_/id/50196191/why-bills-a-troubling-spot-vs-raiders"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/jack-quinn-scores-fights-and-looks-like-star-in-sabres-wild-ot-win-buffalo-loses-jiri-kulich-josh-norris/",
@@ -984,17 +984,6 @@
       "link": "https://www.starsandstripesfc.com/uswnt-news/46654/uswnt-rides-second-half-surge-to-draw-spain"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/what-they-re-saying-the-nfl-world-reacts-to-buffalo-s-instant-classic-overtime-victory-over-the-l-a-rams",
-      "team": "bills",
-      "title": "What They're Saying | The NFL world reacts to Buffalo's instant classic overtime victory over the L.A. Rams",
-      "summary": "With the whole nation tuned in on primetime, the back-and-forth slugfest drew tons of media attention.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T22:59:00.000Z",
-      "link": "https://www.buffalobills.com/news/what-they-re-saying-the-nfl-world-reacts-to-buffalo-s-instant-classic-overtime-victory-over-the-l-a-rams"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46641/uswnt-vs-spain-2026-friendly-time-tv-schedule-streaming-and-lineups",
       "team": "usmnt",
       "title": "USWNT vs. Spain, 2026 Friendly: Time, TV schedule, streaming and lineups",
@@ -1070,17 +1059,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T05:35:25.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-trade-ryan-johnson-receive-two-defensemen-from-penguins/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-rasmus-dahlin-day-to-day-with-upper-body-injury-will-likely-miss-game-against-canadiens/",
-      "team": "sabres",
-      "title": "Sabres’ Rasmus Dahlin day to day with upper-body injury, will likely miss game against Canadiens",
-      "summary": "BUFFALO – Sabres captain Rasmus Dahlin suffered an upper-body injury early in the second period of Monday afternoon’s 5-3 win over the Florida Panthers and will likely miss tonight’s road game against the Montreal Canadiens, coach Lindy Ruff said.\nRuff said Dahlin is day to day and wouldn’t accompany the Sabres when they left to begin their three-game road trip. He could join the team later in the trip.\n“They treat him better here,” Ruff ... Read the full article \nThe post Sabres’ Rasmus Dahlin day to day with upper-body injury, will likely miss game against Canadiens first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T05:04:07.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-rasmus-dahlin-day-to-day-with-upper-body-injury-will-likely-miss-game-against-canadiens/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266883-im-out-on-terell-bernard-dorian-williams-and-cjgj/",
