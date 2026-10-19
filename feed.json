@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:42:09.410Z",
+  "generatedAt": "2026-10-19T01:47:51.150Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -170,26 +170,180 @@
   ],
   "stories": [
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143185/buffalo-bills-stock-up-stock-down-in-win-at-las-vegas-raiders",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266999-bills-games-ou/",
       "team": "bills",
-      "title": "Buffalo Bills stock up, stock down in win at Las Vegas Raiders",
+      "title": "Bills games o/u?",
+      "summary": "I feel like I’ve lost money by not hammering the over for the last 6 weeks\n\n\n\n\tthe defense is abysmal and the offense continues to score\n\n\n\n\tdoes anyone have the data on whether they’ve exceeded the over every game?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T01:40:34.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266999-bills-games-ou/"
+    },
+    {
+      "id": "espn-bills::50214763",
+      "team": "bills",
+      "title": "Josh Allen ties Jim Kelly's Bills TD pass record as Buffalo holds off Raiders 33-30",
+      "summary": "— Jim Kelly set the standard for every Bills quarterback, but even the Hall of Famer likely wouldn't have made the type of play Josh Allen pulled off Sunday.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-19T01:35:42Z",
+      "link": "http://www.espn.com/nfl/recap?gameId=401873005"
+    },
+    {
+      "id": "espn-bills::50181469",
+      "team": "bills",
+      "title": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T01:34:13Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026"
+    },
+    {
+      "id": "espn-bills::50213664",
+      "team": "bills",
+      "title": "DB Gardner-Johnson expects fine after spitting incident in Bills' win",
+      "summary": "With his team leading 13-10 at the time, Buffalo Bills safety C.J. Gardner-Johnson was ejected from Sunday's 33-30 victory over Las Vegas following an altercation during the final minute of the second quarter, when he spit toward the Raiders' direction.",
+      "source": "ESPN · Nick Suss",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T01:29:31Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50213664/bills-cb-gardner-johnson-tossed-apparent-spit-incident"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266998-one-the-flip-td-to-keon/",
+      "team": "bills",
+      "title": "One the flip TD to Keon...",
+      "summary": "There is no way he saw him coming clean from the other side of the field in the midst of that twisting Texas 2-step.\n\n\n\n\tI think he's pushing that ball at Skyler Bell.\n\n\n\n\tIf you run into him, start buying shots until he admits it.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T01:11:14.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266998-one-the-flip-td-to-keon/"
+    },
+    {
+      "id": "espn-bills::50209856",
+      "team": "bills",
+      "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T00:56:05Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143222/bills-at-raiders-week-6-instant-game-analysis-buffalo-grinds-out-key-win",
+      "team": "bills",
+      "title": "Bills at Raiders Week 6 instant game analysis: Buffalo grinds out key win",
       "summary": "",
       "source": "Buffalo Rumblings",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-18T23:39:17.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143185/buffalo-bills-stock-up-stock-down-in-win-at-las-vegas-raiders"
+      "publishedAt": "2026-10-19T00:55:12.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143222/bills-at-raiders-week-6-instant-game-analysis-buffalo-grinds-out-key-win"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266991-jim-schwartz-is-available/",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143221/josh-allen-buffalo-bills-now-5-1-finding-ways-to-win-close-games",
       "team": "bills",
-      "title": "Jim Schwartz is available",
+      "title": "Josh Allen, 5-1 Buffalo Bills continue finding ways to win close games",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T00:47:06.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143221/josh-allen-buffalo-bills-now-5-1-finding-ways-to-win-close-games"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266996-3-up-3-down-rayduhs/",
+      "team": "bills",
+      "title": "3 up 3 down Rayduhs",
+      "summary": "UP\n\n\n\n\t \n\n\n\n\tKeon - clutch catches bad drop but I like the improvement\n\n\n\n\t \n\n\n\n\tBass - Money we needed him for every last point\n\n\n\n\t \n\n\n\n\tCJ Gardner Johnson - for doing the team a big favor and getting himself booted.... Hamlin is a better option at this point\n\n\n\n\t \n\n\n\n\tDown\n\n\n\n\t \n\n\n\n\tLeonlimp or Leonflaccid which ever you prefer no explanation needed this defense is a consistent embarrassment.  The look on 17s face tells the story they are completely incompetent \n\n\n\n\t \n\n\n\n\tBeane - he drafted, signed and orchestrated this defensive mess the problem was Beane all along\n\n\n\n\t \n\n\n\n\tSky Bell - again disinterested doesn't get open and takes penalties. He is a liability to this team\n\n\n\n\t \n\n\n\n\tHM - the invisible Chubb... another waste of a big contract for little production \n\n\n\n\t \n\n\n\n\tHOF - Palmer I am not even mentioning him anymore he is enshrined in the down HOF just sayin",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T00:20:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266996-3-up-3-down-rayduhs/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-33-raiders-30-final-score-recap-highlights",
+      "team": "bills",
+      "title": "Bills 33, Raiders 30  | Final Score, recap + highlights",
+      "summary": "Buffalo finishes West Coast trip with another narrow victory",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T00:05:26.000Z",
+      "link": "https://www.buffalobills.com/news/bills-33-raiders-30-final-score-recap-highlights"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266995-cj-gardner-johnson-could-the-ejection-spell-the-end-for-him-in-buffalo/",
+      "team": "bills",
+      "title": "CJ Gardner-Johnson - Could the ejection spell the end for him in Buffalo?",
+      "summary": "A lot of fans have been asking for changes in the Secondary. Many mentioning Safety.\n\n\n\n\t \n\n\n\n\tBefore today, I had a hard time envisioning Cole Bishop being given up on so quickly or CJ Gardner-Johnson after just 5 games with the team. And although he's had a lot of bad, he did come up big with an Interception to put us in position for victory.\n\n\n\n\t \n\n\n\n\tHowever, the last game he looked as bad as he's looked for us. And today, he looked even worse. Then he was ejected for spitting on Brock Bowers.\n\n\n\n\t \n\n\n\n\tNow I'm considering - could the spit and ejection be the last straw for this team?\n\n\n\n\t \n\n\n\n\tIt wouldn't shock me if, us looking for ways to improve this defense, saw him getting ejected today as the last straw - and a good excuse to look for an upgrade.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T00:05:04.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266995-cj-gardner-johnson-could-the-ejection-spell-the-end-for-him-in-buffalo/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266994-4-2-5/",
+      "team": "bills",
+      "title": "4-2-5",
+      "summary": "Switch to it over the bye.  It's what we have the personnel for.  Get Kilgore out there.  Let the front four pressure the QB.\n\n\n\n\t \n\n\n\n\tQuit trying to force this defense on a team without the players to run it.\n\n\n\n\t \n\n\n\n\tThis team can win the Super Bowl with decent-good defense.  This defense is awful.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T23:58:59.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266994-4-2-5/"
+    },
+    {
+      "id": "espn-bills::50193542",
+      "team": "bills",
+      "title": "Packers LB Zaire Franklin leads NFL Week 6's best arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · Cameron Wolfe",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T23:58:17Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals"
+    },
+    {
+      "id": "espn-bills::50214776",
+      "team": "bills",
+      "title": "Buffalo Bills vs. Las Vegas Raiders: Game Highlights",
+      "summary": "Buffalo Bills vs. Las Vegas Raiders: Game Highlights",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-18T23:56:50Z",
+      "link": "https://www.espn.com/video/clip/_/id/50214776/game-highlights"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266992-two-critical-leadership-moments-for-coach-brady/",
+      "team": "bills",
+      "title": "Two Critical Leadership Moments for Coach Brady",
+      "summary": "It may sound like hyperbole, but if we want to know what kind of leader Joe Brady is or wants to become, he has two absolutely critical leadership moments in the next 48 hours.\n\n\n\n\t \n\n\n\n\t#1. Leonard-fire, add a mentor, or stick with Leonard as DC?\n\n\n\n\t \n\n\n\n\tBrady needs to make this decision with Beane and now. With a bye week and now 6 weeks of data, Brady's decision will speak for the rest of this season and maybe all of next year and how he approaches leadership when his right-hand man is struggling.\n\n\n\n\t \n\n\n\n\t#2. What message about leadership, discipline, and accountability will Brady send to his team and to ownership regarding CJ Gardner-Johnson?\n\n\n\n\t \n\n\n\n\tThis is a paramount decision. It will let us know how Brady values in his players and optics of a team's culture.\n\n\n\n\t \n\n\n\n\tWill he support a league suspension, suspend or bench Johnson, look the other way but have a meeting? Will this speed up the pursuit of secondary help because Johnson may be more liability than asset to this D?\n\n\n\n\t \n\n\n\n\tWhat Brady does with these two decisions are as critical as anything else he does this season as the head coach of our Bills!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T23:48:25.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266992-two-critical-leadership-moments-for-coach-brady/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266991-jim-schwartz-is-available-meaning-hes-under-contract-to-the-browns/",
+      "team": "bills",
+      "title": "Jim Schwartz is available (meaning he's under contract to the Browns)",
       "summary": "I just want to put it out there in case ownership checks the board.\n\n\n\n\t \n\n\n\n\tThe guy is the best DC I've ever seen.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-10-18T23:37:40.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266991-jim-schwartz-is-available/"
+      "link": "https://www.twobillsdrive.com/community/topic/266991-jim-schwartz-is-available-meaning-hes-under-contract-to-the-browns/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266990-week-6-bills-v-the-raiduhs-game-balls/",
@@ -236,50 +390,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/143156/bills-injuries-2026-in-game-updates-vs-raiders"
     },
     {
-      "id": "espn-bills::50213664",
-      "team": "bills",
-      "title": "Bills CB Gardner-Johnson ejected after apparent spitting incident",
-      "summary": "With his team leading 13-10 at the time, Buffalo Bills safety C.J. Gardner-Johnson was ejected from Sunday's game against Las Vegas following an altercation in the final minute of the first half, when he appeared to spit in the Raiders' direction.",
-      "source": "ESPN · Nick Suss",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T22:29:59Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50213664/bills-cb-gardner-johnson-tossed-apparent-spit-incident"
-    },
-    {
-      "id": "espn-bills::50209856",
-      "team": "bills",
-      "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T21:11:44Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns"
-    },
-    {
-      "id": "espn-bills::40994229",
-      "team": "bills",
-      "title": "What are the longest field goals in NFL history?",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T20:33:41Z",
-      "link": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history"
-    },
-    {
-      "id": "espn-bills::50193542",
-      "team": "bills",
-      "title": "Eagles WR DeVonta Smith leads NFL Week 6's best arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · Cameron Wolfe",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T19:32:13Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/tage-thompson-taking-his-place-among-sabres-all-time-greats/",
       "team": "sabres",
       "title": "Tage Thompson taking his place among Sabres’ all-time greats",
@@ -313,17 +423,6 @@
       "link": "https://www.buffalobills.com/news/dj-moore-ed-oliver-among-buffalo-bills-inactives-at-raiders"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143091/5-things-bills-mafia-should-know-about-the-raiders-before-week-6-game",
-      "team": "bills",
-      "title": "5 things Bills Mafia should know about the Raiders before Week 6 game",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T18:11:00.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143091/5-things-bills-mafia-should-know-about-the-raiders-before-week-6-game"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/143141/nfl-week-6-early-games-open-thread",
       "team": "bills",
       "title": "NFL Week 6 early games fan discussion",
@@ -333,17 +432,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-18T17:20:26.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/143141/nfl-week-6-early-games-open-thread"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-game-information/143134/bills-at-raiders-nfl-week-6-how-to-watch-game-time-streaming-more",
-      "team": "bills",
-      "title": "Bills at Raiders NFL Week 6: How to watch, game time, streaming, more",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T17:02:24.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-game-information/143134/bills-at-raiders-nfl-week-6-how-to-watch-game-time-streaming-more"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266985-in-support-of-leonhard-your-thoughts/",
@@ -401,28 +489,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/143144/buffalo-bills-fines-from-rams-game-james-cook-bradley-chubb-cj-gardner-johnson"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/142995/bills-news-what-to-know-ahead-of-week-6-at-las-vegas-raiders",
-      "team": "bills",
-      "title": "Bills news: What to know ahead of Week 6 at Las Vegas Raiders",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T12:29:56.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/142995/bills-news-what-to-know-ahead-of-week-6-at-las-vegas-raiders"
-    },
-    {
-      "id": "espn-bills::50119009",
-      "team": "bills",
-      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "source": "ESPN · ESPN staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T11:16:20Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
-    },
-    {
       "id": "espn-sabres::50190257",
       "team": "sabres",
       "title": "NHL Power Rankings: Each team's biggest shock of 2026-27",
@@ -456,28 +522,6 @@
       "link": "http://www.espn.com/nhl/preview?gameId=401892534"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266982-gameday-101826-week-6-bills-at-raiders-425pm-gameday-thread/",
-      "team": "bills",
-      "title": "GAMEDAY 10/18/26 WEEK 6 Bills at Raiders 4:25pm GAMEDAY THREAD",
-      "summary": "From the Land of Glitz to Sin City in 6 days. No, this isn’t a rich boy’s Bachelor Party, it’s just the end of the 1st third of the regular season and going round trip Coast to Coasts in consecutive weeks made no sense. This is the national 4:25 game! Win or lose, they’ll sleep in their own beds tonight -so there’s that! But James Cook and Josh need to cradle that ball in their sleep! 🏈  😴 \n\n\n\n\tJosh doing Josh things, Sicko!\n\n\n\n\t\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tEvidently we have a ‘sit it out through the Bye’ plan with DJ Moore, who hasn’t practiced all week and Glass Oliver will return to his familiar seat on the bench 🤨. Joshua Palmer will try to go while Spencer Brown is feeling much better.\n\n\n\n\t \n\n\n\n\tAshton Gentry (WR) & Brock Bowers (TE) team up with Kirk Cousins to give 1st year HC Clint Kubiak viable targets and Mad Max Crosby is still a game wrecker at DE. However, their OL, RBs and Secondary have been pummeled as of late. They’ve shown to be susceptible to talented TE’s and we have a plethora of them, but we haven’t deployed that tactic lately 🤦‍♂️.. Get them involved, Josh!\n\n\n\n\t \n\n\n\n\tCan we talk here? We’re 4-1, relatively healthy and leading our Division. But 4 other AFC teams match our win total and 5 other teams are just a game behind including NE* -who has a tiebreaker over us. Yes, SuperJosh is on a real MVP heater once again, but truth be told, we’re an Ike Lassiter end zone pick and a blocked FG away from being 2-3. Aside from brilliant play by Grooot & 6’7”, 300 lbs freak Deone Walker giving our ‘New Look’ Defense some serious SMACK, we’re an old look nightmare!\n\n\n\n\t \n\n\n\n\tCover 1 covers the game\n\n\n\n\t\n\t\t\n\t\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tA Leslie Frazier Defense?\n\n\n\n\t\n\t\t\n\t\n\n\n\n\t \n\n\n\n\tFor 5 weeks now, our Secondary has been running around looking like a lost Chinese fire drill, hitting each other more than our opponents! Leonard has said as much, but we’re in our typical Cap purgatory and the players he needs simply aren’t available now. So HE’s going to have to make the changes in his script to accommodate the actual skills he has available to him! Our Bye week begins later tonight so philosophy changes have to be implemented now and getting our WRs back from injury will be a great asset as well! To date, Brady has been hesitant to feature Kincaid, Hawes and barely Knox. I hope he realizes this today! But that’s the near future. Today, we’re facing a wounded lion is his den whose ‘pride’ will be on display! If we ‘Crap out’ against them it will leave us with fools gold and could having us facing the gallows! \n\n\n\n\tUnfortunately for Vegas, they’re poor vs the run and we’re fantastic running the ball! Their OL has been problematic so rushing Cousins -who has issues with pressure, is a top priority for us. If we don’t roll snake eyes and the roulette wheel isn’t Russian, there’s a good chance we gitoutta Dodge with the gold!\n\n\n\n\t \n\n\n\n\tWe Got THIS!\n\n\n\n\tGO BILLS!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T05:30:19.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266982-gameday-101826-week-6-bills-at-raiders-425pm-gameday-thread/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/nhl-roundup-tuch-has-two-goals-assist-in-capitals-win-over-devils/",
-      "team": "sabres",
-      "title": "NHL Roundup: Tuch has two goals, assist in Capitals’ win over Devils",
-      "summary": "",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T04:44:46.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/nhl-roundup-tuch-has-two-goals-assist-in-capitals-win-over-devils/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabers-come-back-again-but-fall-to-canadiens-in-overtime/",
       "team": "sabres",
       "title": "Sabres come back again, but fall to Canadiens in overtime",
@@ -509,28 +553,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-17T22:29:17Z",
       "link": "https://www.espn.com/video/clip/_/id/50204885/game-highlights"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266977-you%E2%80%99re-crazy-if-you-don%E2%80%99t-like-buffalo/",
-      "team": "bills",
-      "title": "You’re crazy if you don’t like Buffalo",
-      "summary": "People are great, food is great, and the Bills/Sabres are awesome.\n\n\n\n\t \n\n\n\n\tI grew up just a hop, skip and a jump away from Buffalo (on the canuck side) All my life, grew up knowing the best mf’ers are right there across the border\n\n\n\n\t \n\n\n\n\tThere is literally no place you’d rather be than that city 🔥 because of how the people treat you\n\n\n\n\t \n\n\n\n\tI saw the kid wearing the Amherst water tower Halloween costume and it warmed the cockles of my heart for all the times I drive down that interstate.\n\n\n\n\t \n\n\n\n\tThe reason why I think they do it this year is because everybody is behind them.\n\n\n\n\t \n\n\n\n\tBrou on first things first, ocho on his pod…..they all want what we all want, a budding superstar to become mainstream",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-17T19:54:49.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266977-you%E2%80%99re-crazy-if-you-don%E2%80%99t-like-buffalo/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266976-fans-of-buffalo-lv-tailgate-1018/",
-      "team": "bills",
-      "title": "Fans of Buffalo LV Tailgate 10/18",
-      "summary": "Who here will be in attendance?  Fired up to get in on my first tailgate session of the season.  Lot opens at 8:30.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-17T19:20:44.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266976-fans-of-buffalo-lv-tailgate-1018/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-9-preview-open-thread-buffalo-sabres-at-montreal-canadiens/",
@@ -588,17 +610,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-raiders-week-6"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266968-overtime-strategy-kick-or-receive/",
-      "team": "bills",
-      "title": "Overtime Strategy: Kick or Receive?",
-      "summary": "The Rams won the toss and elected to kick to the Bills, which seems to be the prevailing wisdom, with the thinking that after the receiving team's possession, the kicking team gets the ball back, knowing what they need to either win or tie the game.  Most teams who win the OT coin toss seem to be electing to kick.  I disagree with this strategy, especially in the regular season, where the OT period is limited to 10 minutes.\n\n\n\n\t \n\n\n\n\tFirst, the receiving team can chew up the clock, maybe as much as seven or eight minutes.  If they score a TD, then the kicking team might have as little as 2:30 left by the time they get the ball, which limits the type of drive they can mount, especially if they've already used one of their two OT timeouts.  More importantly, if the receiving team doesn't score, then punts the ball to the kicking team, they know that if they get a stop, they will get the ball next with a chance to win the game with a FG.  So in essence, they have a good chance to get two possessions, while the kicking team is probably only going to get one, unless both teams go three-and-out quickly.  I think the opportunity to get an \"extra\" possession outweighs the advantage the kicking team gets from knowing what they need. \n\n\n\n\t \n\n\n\n\tAnd here's another point.  With the new kickoff rule, the receiving team is likely to get the ball at their own 35-yardline or better.  If they advance it even to their own 40, they can pin the kicking team deep in their own territory with a punt, significantly reducing the kicking team's chance of scoring.  That is exactly what happened to the Bills in the playoff game against Denver.  Even though their defense got a stop on Denver's first possession, the Bills started their only OT possession inside their own 10-yard line. To me, if we have a choice in OT, we should always elect to receive. \n\n\n\n\t \n\n\n\n\tThoughts?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T21:14:53.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266968-overtime-strategy-kick-or-receive/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46698/usmnt-weekend-viewing-guide-a-hard-start",
       "team": "usmnt",
       "title": "USMNT weekend viewing guide: A hard start",
@@ -608,17 +619,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-16T19:52:50.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/46698/usmnt-weekend-viewing-guide-a-hard-start"
-    },
-    {
-      "id": "espn-bills::50147670",
-      "team": "bills",
-      "title": "NFL Week 6 betting: Odds, lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-16T17:30:10Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46701/us-soccer-launches-arthur-m-blank-crest-cup-for-some-womens-soccer-teams",
@@ -874,17 +874,6 @@
       "link": "https://bandits.com/bandits-sign-andrews-booth-scanlan/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266936-stat-seen-shocking/",
-      "team": "bills",
-      "title": "Stat seen - shocking",
-      "summary": "Since our 44-42 loss to the Rams in LA on 12/8/24, The Bills have allowed over 30 points 8 times in the regular season.  We've won all 8 of those games.\n\n\n\n\t \n\n\n\n\t12/15/24    @ Lions            48-42 win\n\t9/7/25        Ravens            41-40 win\n\t11/16/25     Buccaneers        44-32 win\n\t12/7/25        Bengals            39-34 win\n\t12/14/25    @ patriots*        35-31 win\n\t9/13/26        @ Texans        36-31 win\n\t9/17/26        Lions            41-31 win\n\t10/12/26    @ Rams            37-34 OT win\n\n\n\n\t \n\n\n\n\tSadly, this trend hasn't held true in playoffs.  Yet.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T17:49:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266936-stat-seen-shocking/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-12/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 10/12",
@@ -916,17 +905,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-14T16:09:15.000Z",
       "link": "https://www.buffalobills.com/news/top-bills-game-storylines-vs-raiders-week-6"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/greg-rousseau-wins-afc-special-teams-player-of-the-week-for-blocked-ot-field-goal",
-      "team": "bills",
-      "title": "Greg Rousseau wins AFC Special Teams Player of the Week for blocked OT field goal",
-      "summary": "Rousseau's play marked the first blocked field goal in overtime since Pittsburgh's T.J. Watt in 2018.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T15:59:05.000Z",
-      "link": "https://www.buffalobills.com/news/greg-rousseau-wins-afc-special-teams-player-of-the-week-for-blocked-ot-field-goal"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266930-what-are-the-tbd-thoughts-on-keon-coleman/",
@@ -1039,17 +1017,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-trade-ryan-johnson-receive-two-defensemen-from-penguins/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266883-im-out-on-terell-bernard-dorian-williams-and-cjgj-added-dee-alford/",
-      "team": "bills",
-      "title": "I'm out on Terell Bernard, Dorian Williams, and CJGJ- Added Dee Alford",
-      "summary": "I've seen enough of these 3 football players. All 3 of them are awful and need to be replaced on this defense ASAP. Last year Cole Bishop looked like a Safety on the rise with old man Jordan Poyer next to him being a declining but steady football player. I think a lot of Bishop's regression is he has Johnson next to him. Johnson has made one play this year and has been awful on every other play this year. \n\n\n\n\t \n\n\n\n\tDorian Williams will have one good game and then he is absolutely atrocious for 2-3 other games. Bernard has more moments than Williams but he's injury prone, small, and not very athletic. Get Shaq Thompson and KEO ready to play cause I'm tired of watching them. \n\n\n\n\t \n\n\n\n\tI can live with Igbinosun and Hairston making mistakes because they are young players getting first time significant playing time and they will learn and hopefully get better as the season and years go by. \n\n\n\n\t \n\n\n\n\tWhile we're at it, I want Ed Oliver off this roster next year. Good player when he's on the field but he's never available. At this point he's flat out stealing money from the Bills organization.\n\n\n\n\t \n\n\n\n\tAs most of you know I'm a pretty level headed poster, I try to dig down below the surface to see what this organization is trying to achieve but I had to rant about this. Replacing those 3 players would go a long long way to making this defense better. \n\n\n\n\t \n\n\n\n\tGood Win, Go Bills.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T04:06:13.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266883-im-out-on-terell-bernard-dorian-williams-and-cjgj-added-dee-alford/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46628/uswnt-vs-spain-2026-friendly-what-to-watch-for",
       "team": "usmnt",
       "title": "USWNT vs. Spain, 2026 Friendly: What to watch for",
@@ -1116,15 +1083,37 @@
       "link": "https://www.diebytheblade.com/sabres-continue-to-have-a-mammoth-headache/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266853-realistic-and-unrealistic-trade-targets-thread/",
       "team": "bills",
-      "title": "Sean McDermott: The stalking your ex thread",
-      "summary": "A futile attempt to keep all the McDermott stuff in one place",
+      "title": "Realistic and unrealistic trade targets thread!",
+      "summary": "There has been a lot of discussion about how we can improve the team this season for our eventual playoff push. But I think the players we maybe considered targeting preseason (like Crosby) are either off the table or not really what we need to chase.\n\n\n\n\t \n\n\n\n\tso lets go on record! Who do the Bills go after? Pick someone realistic (based on trade compensation, we aren’t getting CeeDee Lamb for a 4th), and someone more unrealistic, but still attainable. \n\t \n\n\n\n\tWe can revisit the thread trade deadline and see who gets moved, and for what. \n\t \n\n\n\n\tI’ll go first. \n\t \n\n\n\n\tRealistic: BTJ for a 4th\n\n\n\n\t \n\n\n\n\tUnrealistic but possible: Terry McLaurin for a 5th",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-07T21:23:50.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/"
+      "publishedAt": "2026-10-10T07:40:04.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266853-realistic-and-unrealistic-trade-targets-thread/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266833-is-deone-walker-the-best-dt-in-the-nfl/",
+      "team": "bills",
+      "title": "Is Deone Walker the best DT in the NFL?",
+      "summary": "No hot take here, I'm genuinely asking. Through 4 games he has a case.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-08T18:54:58.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266833-is-deone-walker-the-best-dt-in-the-nfl/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/",
+      "team": "bills",
+      "title": "If you weren't on board with the Brady promotion, do you feel better today?",
+      "summary": "I was really hoping we got Grant Udinski.  I fell for the \"prodigy\" label he was giving.  I was impressed with the way he conducts himself in the public, he does seem very knowledgeable.  \n\n\n\n\t \n\n\n\n\tThe Brady hire was deflating.  \n\n\n\n\t \n\n\n\n\tI know the regular season hasn't started yet but I'm feeling more comfortable with him.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T02:38:25.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/"
     }
   ]
 }
