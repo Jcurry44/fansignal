@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:48:25.236Z",
+  "generatedAt": "2026-10-24T18:39:05.527Z",
   "sources": [
     {
       "id": "bills-official",
@@ -61,8 +61,8 @@
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "fetch failed"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "sportsnet-nhl",
@@ -170,6 +170,17 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267073-the-centurion-talks-about-his-buffalo-bills/",
+      "team": "bills",
+      "title": "The Centurion talks about his Buffalo Bills",
+      "summary": "Marvelous Marv Levy discusses 5 key players who played for him",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T17:28:44.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267073-the-centurion-talks-about-his-buffalo-bills/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267072-tremaine-edmunds%E2%80%A6out-for-the-year/",
       "team": "bills",
       "title": "Tremaine Edmunds…out for the year!",
@@ -179,6 +190,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-24T15:45:04.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267072-tremaine-edmunds%E2%80%A6out-for-the-year/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-scores-results/143584/buffalo-bills-snap-counts-vs-raiders-what-week-6-playing-time-reveals",
+      "team": "bills",
+      "title": "Buffalo Bills snap counts vs. Raiders: What Week 6 playing time reveals",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T14:47:03.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-scores-results/143584/buffalo-bills-snap-counts-vs-raiders-what-week-6-playing-time-reveals"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267070-former-bill-christian-wade-rugby-try-record/",
@@ -199,7 +221,7 @@
       "source": "Buffalo Rumblings",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-24T12:38:26.000Z",
+      "publishedAt": "2026-10-24T13:58:38.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143583/introducing-dip-a-new-nfl-defensive-metric-that-accounts-for-quarterback-competition"
     },
     {
@@ -223,6 +245,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-24T12:33:05Z",
       "link": "https://www.espn.com/nhl/story/_/id/50251984/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/connor-hellebuyck-is-in-new-jersey-but-sabres-goalie-ukko-pekka-luukkonen-knows-he-can-still-be-traded/",
+      "team": "sabres",
+      "title": "Connor Hellebuyck is in New Jersey, but Sabres goalie Ukko-Pekka Luukkonen knows he can still be traded",
+      "summary": "BUFFALO – Ukko-Pekka Luukkonen knows all about the trade rumors involving his name. Not that the Sabres goalie goes out of his way to read them. But these days, he knows you can’t escape the outside noise.\nIf he stays off social media, a friend will inevitably inform him.\n“I think anybody who says that they don’t see it or they don’t read it, they’re lying,” said Luukkonen, whose name has been bandied about for ... Read the full article \nThe post Connor Hellebuyck is in New Jersey, but Sabres goalie Ukko-Pekka Luukkonen knows he can still be traded first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T05:05:48.000Z",
+      "link": "https://www.buffalohockeybeat.com/connor-hellebuyck-is-in-new-jersey-but-sabres-goalie-ukko-pekka-luukkonen-knows-he-can-still-be-traded/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267068-wild-thought-should-we-bring-in-jim-schwartz/",
@@ -333,6 +366,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-23T17:32:21Z",
       "link": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jiri-kulich-injured-in-practice-status-for-road-trip-uncertain/",
+      "team": "sabres",
+      "title": "Sabres’ Jiri Kulich injured in practice, status for road trip uncertain",
+      "summary": "BUFFALO – Sabres center Jiri Kulich was seeing the doctor this afternoon after a puck hit him in the face during a power-play drill early in today’s practice, coach Lindy Ruff said.\n“It didn’t look good, but I don’t have an update,” Ruff said following the session in KeyBank Center.\nKulich, 22, left a pool of blood in the slot after staying down for several moments and being helped off the ice.\n\nIf Kulich can’t ... Read the full article \nThe post Sabres’ Jiri Kulich injured in practice, status for road trip uncertain first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-23T17:10:52.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-jiri-kulich-injured-in-practice-status-for-road-trip-uncertain/"
     },
     {
       "id": "espn-bills::50258709",
@@ -555,17 +599,6 @@
       "link": "https://www.starsandstripesfc.com/uswnt-news/46716/ssfc-spotlight-evelyn-shores-partakes-in-first-senior-camp"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143514/nfl-upholds-decision-on-c-j-gardner-johnsons-suspension-appeal",
-      "team": "bills",
-      "title": "NFL has made its decision on C.J. Gardner-Johnson’s suspension appeal",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-22T15:36:28.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143514/nfl-upholds-decision-on-c-j-gardner-johnsons-suspension-appeal"
-    },
-    {
       "id": "espn-sabres::50240758",
       "team": "sabres",
       "title": "NHL Tonight: Previews, stats and betting intel for Thursday's dozen games",
@@ -588,15 +621,26 @@
       "link": "https://www.twobillsdrive.com/community/topic/267046-great-joe-marino-segment-with-bruce-nolan-why-the-bills%E2%80%99-d-is-so-bad/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267043-%E2%80%9Cjust-one-before-i-die%E2%80%9D-new-five-episode-tubi-original-docuseries-on-the-bills-mafia/",
-      "team": "bills",
-      "title": "“Just One Before I Die” - new five episode Tubi Original docuseries on the Bills Mafia",
-      "summary": "For those who don’t know, Tubi is a free streaming service.\n\n\n\n\t \n\n\n\n\tEnjoy. Go Bills!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-fall-to-flyers-in-jason-zuckers-return-owen-power-loses-cool-after-phantom-high-stick/",
+      "team": "sabres",
+      "title": "Sabres fall to Flyers in Jason Zucker’s return; Owen Power loses cool after phantom high-stick",
+      "summary": "BUFFALO – Forget that the Philadelphia Flyers entered the night on a two-game win streak and advanced to the second round of the Stanley Cup Playoffs last season.\nHaving started the season a stunning 0-6-3 before finally notching a win in their 10th try, they’ve endured a brutal three-week stretch.\nPrior to Wednesday’s 3-1 win over the Sabres in KeyBank Center, the Flyers were 0-4-1 on the road.\nAt home before a capacity crowd of ... Read the full article \nThe post Sabres fall to Flyers in Jason Zucker’s return; Owen Power loses cool after phantom high-stick first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-22T07:04:34.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267043-%E2%80%9Cjust-one-before-i-die%E2%80%9D-new-five-episode-tubi-original-docuseries-on-the-bills-mafia/"
+      "publishedAt": "2026-10-22T05:02:12.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-fall-to-flyers-in-jason-zuckers-return-owen-power-loses-cool-after-phantom-high-stick/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-notes-josh-norris-scoring-after-slow-start-showcasing-grit/",
+      "team": "sabres",
+      "title": "Sabres notes: Josh Norris scoring after slow start, showcasing grit",
+      "summary": "BUFFALO – Following a freak collision with Maple Leafs defenseman Oliver Ekman-Larsson in overtime last Thursday, Sabres center Josh Norris said he did not want to leave the game.\nBut Norris, 27, had no choice. So as his teammates finished off their come-from-behind 5-4 victory in Toronto, he was in concussion protocol.\n“It was just a small thing,” Norris told the Times Herald prior to Wednesday’s 3-1 loss to the Philadelphia Flyers in KeyBank Center. ... Read the full article \nThe post Sabres notes: Josh Norris scoring after slow start, showcasing grit first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T05:01:58.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-notes-josh-norris-scoring-after-slow-start-showcasing-grit/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-rue-missed-chances-in-3-1-loss-to-flyers/",
@@ -608,6 +652,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-22T03:09:44.000Z",
       "link": "https://www.diebytheblade.com/sabres-rue-missed-chances-in-3-1-loss-to-flyers/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/goalie-ukko-pekka-luukkonen-finding-groove-for-sabres/",
+      "team": "sabres",
+      "title": "Goalie Ukko-Pekka Luukkonen finding groove for Sabres",
+      "summary": "BUFFALO – After splitting time with Colten Ellis earlier this month, Sabres goalie Ukko-Pekka Luukkonen is expected to start his fourth consecutive game tonight against the Philadelphia Flyers.\nWhile Luukkonen hasn’t recaptured the stellar form he showcased most of last season, he has been coach Lindy Ruff’s best option, often making big saves.\nSince replacing a struggling Ellis on Oct. 12, the Finn has compiled a 2-0-2 record with a 3.25 goals-against average and an ... Read the full article \nThe post Goalie Ukko-Pekka Luukkonen finding groove for Sabres first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T16:22:17.000Z",
+      "link": "https://www.buffalohockeybeat.com/goalie-ukko-pekka-luukkonen-finding-groove-for-sabres/"
     },
     {
       "id": "bandits-official::https://bandits.com/bandits-unveil-new-home-and-away-uniforms-for-2026-27-season/",
@@ -764,6 +819,39 @@
       "link": "http://www.espn.com/nhl/preview?gameId=401892561"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/despite-having-zero-goals-zach-benson-off-to-strong-start-displaying-chemistry-with-jack-quinn-noah-ostlund/",
+      "team": "sabres",
+      "title": "Despite having zero goals, Zach Benson off to strong start, displaying chemistry with Jack Quinn, Noah Ostlund",
+      "summary": "BUFFALO – Zero goals? Don’t sweat it, kid. Keep doing what you’re doing.\nThat’s a not a direct quote, but some words that seem to convey Sabres coach Lindy Ruff’s feelings about Zach Benson’s interesting start this season.\nThrough nine games, Benson, 21, has been one of Ruff’s best players, generating offense, causing chaos around the net and agitating opponents.\nThe diminutive winger has a spot on the Sabres’ hottest line alongside center Noah Ostlund ... Read the full article \nThe post Despite having zero goals, Zach Benson off to strong start, displaying chemistry with Jack Quinn, Noah Ostlund first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T05:18:52.000Z",
+      "link": "https://www.buffalohockeybeat.com/despite-having-zero-goals-zach-benson-off-to-strong-start-displaying-chemistry-with-jack-quinn-noah-ostlund/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/injury-updates-on-sabres-sam-carrick-alex-lyon-and-conor-timmins/",
+      "team": "sabres",
+      "title": "Injury updates on Sabres’ Sam Carrick, Alex Lyon and Conor Timmins",
+      "summary": "BUFFALO – Add one more name to the Sabres’ injury list.\nForward Sam Carrick missed Tuesday’s practice with a mid-body injury and is day to day, coach Lindy Ruff said following the session in LECOM Harborcenter.\nHe said Carrick’s injury might be related to the left arm injury he suffered in a fight late last season.\n\nRuff said Carrick and forward Justin Danforth, who’s day to day with an upper-body injury, were being examined by ... Read the full article \nThe post Injury updates on Sabres’ Sam Carrick, Alex Lyon and Conor Timmins first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T05:04:53.000Z",
+      "link": "https://www.buffalohockeybeat.com/injury-updates-on-sabres-sam-carrick-alex-lyon-and-conor-timmins/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267038-question-about-going-to-the-green-bay-game/",
+      "team": "bills",
+      "title": "Question About Going to the Green Bay Game",
+      "summary": "I bought tickets to the GB game on 12/13. Going with my grown son, cousin, and cousin's wife (they got married this past Sunday). I just now looked at hotels in the area, they are very expensive. Also looked at Airbnbs with three beds, also expensive. My son was suggesting an all you can eat tour bus from a Bills Backers Bar in Milwaukee, he lived in Milwaukee until last month when he moved to Dallas. Sounds like fun, but Idk about a long bus drive when I'm drinking. \n\n\n\n\t \n\n\n\n\tIs anyone here familiar enough with the area to make suggestions? Maybe I stay outside of GB but still much closer than Milwaukee?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T00:07:17.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267038-question-about-going-to-the-green-bay-game/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/the-advanced-stats-behind-the-bills-week-6-win-in-las-vegas",
       "team": "bills",
       "title": "The advanced stats behind the Bills' Week 6 win in Las Vegas",
@@ -808,6 +896,17 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46790/usmnt-to-face-jamaica-in-december-camp-match"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/despite-rasmus-dahlin-injury-and-some-early-struggles-sabres-off-to-solid-start-in-playoff-spot/",
+      "team": "sabres",
+      "title": "Despite Rasmus Dahlin injury and some early struggles, Sabres off to solid start, in playoff spot",
+      "summary": "BUFFALO – Through nine games this season, the Sabres sport an underwhelming but intriguing 4-3-2 record.\nThe team that ended last season on a torrid 39-9-5 run has stumbled out of the gate a bit, often falling behind multiple goals before roaring back.\nIncredibly, the Sabres have held a lead just 60:32 this season, barely the equivalent of one game. Only two teams – the hapless Calgary Flames (39:21) and Los Angeles Kings (32:59) – ... Read the full article \nThe post Despite Rasmus Dahlin injury and some early struggles, Sabres off to solid start, in playoff spot first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-20T05:13:01.000Z",
+      "link": "https://www.buffalohockeybeat.com/despite-rasmus-dahlin-injury-and-some-early-struggles-sabres-off-to-solid-start-in-playoff-spot/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-cb-tre-davious-white-to-practice-squad-release-cb-a-j-woods",
       "team": "bills",
       "title": "Bills sign CB Tre'Davious White to practice squad, release CB A.J. Woods",
@@ -841,6 +940,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/267021-big-two-weeks-ahead-for-brandon-beane/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-jason-zucker-ready-to-return-from-injuries-justin-danforth-misses-practice/",
+      "team": "sabres",
+      "title": "Sabres captain Rasmus Dahlin, Jason Zucker ready to return from injuries; Justin Danforth misses practice",
+      "summary": "BUFFALO – Sabres captain Rasmus Dahlin, who has missed the last three games with an upper-body injury, returned to practice this morning and expects to play Wednesday against the Philadelphia Flyers.\n“I think I’ll be ready,” Dahlin said this afternoon in KeyBank Center.\nThe Sabres did well without Dahlin, their top defenseman, compiling a 1-0-2 record during their road trip.\n\nDahlin hasn’t played since shooting the puck and reaching for his lower back as he ... Read the full article \nThe post Sabres captain Rasmus Dahlin, Jason Zucker ready to return from injuries; Justin Danforth misses practice first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T17:20:01.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-captain-rasmus-dahlin-jason-zucker-ready-to-return-from-injuries-justin-danforth-misses-practice/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-19/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 10/19",
@@ -850,6 +960,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-19T17:10:46.000Z",
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-19/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267019-let%E2%80%99s-do-an-apples-to-apples-comparison-of-leonhard-vs-other-brand-new-dc%E2%80%99s/",
+      "team": "bills",
+      "title": "Let’s do an apples-to-apples comparison of Leonhard vs other brand new DC’s",
+      "summary": "There are 14 new defensive coordinators in the NFL this year, and 7 of them switched schemes (4-3 to 3-4 or vice versa). So the \"new scheme\" challenges aren’t unique to us. Half the new DCs in the league are dealing with the exact same thing.\n\n\n\n\t \n\n\n\n\tLeonhard ranks dead last among all 14. Every single other new DC has a better defense right now, including all 6 of the others who switched schemes as well. Nine of the 14 have actually improved their team's ranking from last year, some by 14 to 17 spots. And no defense has fallen off a cliff like we have (we've dropped 24 spots). The next worst drop is 14. We are 10 spots worse than the next worst collapse in the league.\n\n\n\n\t \n\n\n\n\tA recurring theme on the forum right now is that the players need more time, perhaps even a full year, to adjust to the new scheme. These other teams didn’t need that adjustment period. Something more is going on here.\n\n\n\n\t \n\n\n\n\tWhat I have seen\n\n\n\n\t \n\n\n\n\t- We have repeatedly found ourselves in second/third and short situations with our defensive backs lined up 10 yards off the line of scrimmage. That cushion lets the receiver walk forward 3 yards, turn around, and catch the ball for a first down. That's coaching.\n\n\n\n\t \n\n\n\n\t- On numerous occasions we have seen whole sections of our zone left wide open. That isn't talent either. I mean… it’s not like all of our players are too slow to get there and are trailing behind. That would be talent. It's that nobody even knows they're supposed to be there. That's coaching too. \n\n\n\n\t \n\n\n\n\t- How many times are we going to have 10 defensive players on the field versus the offense? Do the coaches not know how to count?\n\n\n\n\t \n\n\n\n\t- The stats will show that we ran more man coverage but what it doesn’t show is *when* we ran it. Times when I truly believe we should have (third and long press man, to give our d-line more time to get home), Leonhard instead dropped into a zone and we gave up a large play. \n\n\n\n\t \n\n\n\n\t- Even our QB pressure rate is worse. It was good for two weeks and then fell off a cliff. We are now 30th in the NFL in pressure %. \n\n\n\n\t \n\n\n\n\t- I frankly don’t care that our run defense is better. This is not 1982. Why should it matter that our run defense is stout when we are giving up 7 more points per game, and 93.7 more total yards per game, and 128.9 more passing yards, and our defense is generating fewer turnovers? Why should we care that we're stuffing the run when the very next play is a 25-yard pass? \n\n\n\n\t \n\n\n\n\tI really don’t know what the answer is, because they’re clearly not going to fire him after only six games. But I also don’t really see any evidence that this is going to get drastically better.\n\n\n\n\t \n\n\n\n\tThe only option I can realistically think of is to bring in Poyer. he is gone as a player, but I think he did a world of good for Bishop last year and he can probably continue reaping benefits for our defensive backs in general.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-19T17:00:10.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267019-let%E2%80%99s-do-an-apples-to-apples-comparison-of-leonhard-vs-other-brand-new-dc%E2%80%99s/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46726/usmnt-weekend-roundup-heating-up-in-france",
@@ -929,15 +1050,15 @@
       "link": "https://www.buffalobills.com/news/bills-issue-injury-update-on-te-dalton-kincaid"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266985-in-support-of-leonhard-your-thoughts/",
-      "team": "bills",
-      "title": "In Support of Leonhard; Your Thoughts?",
-      "summary": "I personally believe in Coach Leonhard and his coaching staff's ability to solve the secondary problem. I saw this posted a couple of days ago but I can't remember where. These are his exact words, giving credit to his handle. What do you defense-minded posters think of it?\n\n\n\n\t \n\n\n\n\tBills defense observation by @yourwrong6861:\n\n\n\n\tThe \"basics\" of coverage are not the issue. The issue is getting enough repetition as a secondary unit for pattern matching and match zone coverages, which is the staple of Leonhard's D.\n\n\n\n\tIf I were Buffalo, I would go trade for Rasul Douglas...tomorrow. He is well experienced with the concepts Leonhard runs...and would be THE perfect mentor for IGB (and Benford for that matter) in these concepts. I think Max will rarely see the field the rest of the season, unless it's dime.\n\n\n\n\tAnother thing the local media got wrong, was throwing their hands in the air, wondering \"why\" Buffalo would move up to draft IGB. IGB was one of the best CB prospects that fit Leonhard's coverage concepts. He wasn't drafted to play situational \"press man\". He was drafted to eventually be a starter. He's light years better than Hairston in Leonhard's coverage concepts.\n\n\n\n\tYet another thing everyone got wrong? The thought that Leonhard's scheme was based on \"press man\". His bread and butter is man coverage through these zone concepts in the form of match zone...not press.\n\n\n\n\tIt's ridiculous we have gone 5 games and no local media talks about this. It's created this false narrative that the secondary sucks...the LBers suck.\n\n\n\n\tHistorically, it takes 8-10 games for a coverage unit to have Leonhard's concepts become second nature.  And the local media has a fanbase falsely screaming for every player's head on the defense, excluding the DL.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/tage-thompson-taking-his-place-among-sabres-all-time-greats/",
+      "team": "sabres",
+      "title": "Tage Thompson taking his place among Sabres’ all-time greats",
+      "summary": "Early in his tenure in Buffalo, the idea of Tage Thompson someday taking his place among some of the Sabres’ all-time greats seemed ludicrous.\nIn 104 games over his first three years, he scored just 15 goals.\nBut Thompson matured rapidly after former Sabres coach Don Granato switched him from wing to center five years ago.\n\nToday, he ranks among the NHL’s elite scorers.\nIn 393 games since the beginning of the 2021-22 season, Thompson ... Read the full article \nThe post Tage Thompson taking his place among Sabres’ all-time greats first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-18T15:43:00.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266985-in-support-of-leonhard-your-thoughts/"
+      "publishedAt": "2026-10-18T19:29:55.000Z",
+      "link": "https://www.buffalohockeybeat.com/tage-thompson-taking-his-place-among-sabres-all-time-greats/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabers-come-back-again-but-fall-to-canadiens-in-overtime/",
@@ -1026,17 +1147,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T19:30:51.000Z",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266881-we-won-the-question-is-how-with-this-d/",
-      "team": "bills",
-      "title": "We Won. The Question is How with this D?",
-      "summary": "Why is it the Bills Defense can't make a stop? I'd even settle for the Rams getting a field goal. Ironically, the oy stop we made was their FG Kicker misding a FG.\n\n\n\n\t \n\n\n\n\tWhen it matters, 4th quarter, up by 7,  3rd and 5 near our end zone, the last minute of a game, or a close game, the Bills can't get a stop! It's not even close. Not one meaningful stop the last half of the game. Not one!\n\n\n\n\t \n\n\n\n\tThe fact that the Bills were in this game is a miracle. The offense finally got going after a horrible first half, and we still put up 37 on the road with our non-existent receiving core and penalty-prone OL and WR's.\n\n\n\n\t \n\n\n\n\tYet, our weak-ass, Swiss cheese, crappy scheme, out-of-place, bad angle, poor tackling, and undersized Charmin D allowed play after play and score after score. The Rams marched down 3 straight times without any resemblance of fight by this D. Then, we couldn't stop them in OT when Cook almost fumbled away the game!\n\n\n\n\t \n\n\n\n\tPlease...make a stop on D !\n\n\n\n\t \n\n\n\n\tAnd, stop with the penalties too!\n\n\n\n\t \n\n\n\n\tI know I am throwing a temper tantrum in a win, but there are literally red flag warnings all over this D, our scheme,  and the inability for this team to execute consistently.\n\n\n\n\t \n\n\n\n\tPlease at the trade deadline...follow this advice, Bills Front Office.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-13T03:53:09.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266881-we-won-the-question-is-how-with-this-d/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266810-the-way-too-early-playoff-seedings/",
