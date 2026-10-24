@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:12:41.373Z",
+  "generatedAt": "2026-10-24T23:20:03.608Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "final",
-      "headline": "Final · L 1-3",
-      "detail": "vs PHI"
+      "state": "live",
+      "headline": "1 - 0",
+      "detail": "at WSH · P1"
     },
     {
       "team": "bandits",
@@ -169,6 +169,17 @@
     }
   ],
   "stories": [
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/hughes-says-boos-in-vancouver-wouldnt-change-how-he-feels-about-the-city/",
+      "team": "sabres",
+      "title": "Hughes says boos in Vancouver wouldn’t change how he feels about the city",
+      "summary": "On the eve of Quinn Hughes’ first return to Vancouver since he was traded to the Minnesota Wild last season, he talks about how thankful he is to have played there. (Video courtesy: WILD )",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T22:00:52.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/hughes-says-boos-in-vancouver-wouldnt-change-how-he-feels-about-the-city/"
+    },
     {
       "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/quinn-hughes-on-wild-contract-talks-my-two-feet-are-planted-in-minnesota/",
       "team": "sabres",
@@ -1127,17 +1138,6 @@
       "link": "https://www.cbssports.com/soccer/news/el-salvador-coach-strips-perks-publicly-before-facing-uswnt/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266942-micah-hyde-on-the-rams-game-he-was-at-the-game-in-person/",
-      "team": "bills",
-      "title": "Micah Hyde on the Rams Game - He was at the Game in Person",
-      "summary": "Apparently he hold back some info that he knew. Simply being on the stands, he mentioned something he saw was a pattern like Puka in stack position, Stafford would simply count how many Bills defender on that side to throw to him for what essentially a run play. \n\n\n\n\t \n\n\n\n\tI'd imagine defensive coaches would see that as well. If Jim Leonhard does not. He needs to go upper stairs to call plays. But my point is what about our safeties on the field. A former safety can see it from the stands, the active safeties should see it on the field and make adjustments. Is that something Leonhard coaches but players don't recognize? It is not that new of a concept.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-14T21:17:51.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266942-micah-hyde-on-the-rams-game-he-was-at-the-game-in-person/"
-    },
-    {
       "id": "cbs-nhl::https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/",
       "team": "sabres",
       "title": "Today's top games to watch, best bets, odds: Guardians vs. Rays, Sabres vs. Canadiens and more",
@@ -1180,6 +1180,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-13T20:35:50.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266422-kincaid-is-allen%E2%80%99s-true-1/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266370-drake-meha-career-killing-performance-tonight/",
+      "team": "bills",
+      "title": "Drake \"Meh\"....A career-killing performance tonight??",
+      "summary": "This guy played horrible in the Playoffs and Super Bowl last year, and tonight's performance was even worse. He was making mistakes that a High School QB wouldn't make, let alone a 3rd year Pro that has played in a Super Bowl, culminating in one of the worst decisions a QB could make on the final play.\n\n\n\n\t \n\n\n\n\tThe Pats are going to be in a tough spot when it comes time to extend this guy's contract......and I'm here for it.\n\n\n\n\t \n\n\n\n\tThe only thing that comes close in enjoyment to watching the Bills win is watching the Pats crash and burn!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-09-10T06:22:19.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266370-drake-meha-career-killing-performance-tonight/"
     }
   ]
 }
