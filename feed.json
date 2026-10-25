@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:20:03.608Z",
+  "generatedAt": "2026-10-25T01:27:25.961Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -152,8 +152,8 @@
     {
       "team": "sabres",
       "state": "live",
-      "headline": "1 - 0",
-      "detail": "at WSH · P1"
+      "headline": "3 - 3",
+      "detail": "at WSH · P3"
     },
     {
       "team": "bandits",
@@ -170,26 +170,15 @@
   ],
   "stories": [
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/hughes-says-boos-in-vancouver-wouldnt-change-how-he-feels-about-the-city/",
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/capitals-tuch-gets-friendly-bounce-for-goal-against-former-team/",
       "team": "sabres",
-      "title": "Hughes says boos in Vancouver wouldn’t change how he feels about the city",
-      "summary": "On the eve of Quinn Hughes’ first return to Vancouver since he was traded to the Minnesota Wild last season, he talks about how thankful he is to have played there. (Video courtesy: WILD )",
+      "title": "Capitals’ Tuch gets friendly bounce for goal against former team",
+      "summary": "Watch as Washington Capitals forward Alex Tuch scores in his first game against the Buffalo Sabres, where he played the previous five seasons.",
       "source": "Sportsnet",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-10-24T22:00:52.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/hughes-says-boos-in-vancouver-wouldnt-change-how-he-feels-about-the-city/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/quinn-hughes-on-wild-contract-talks-my-two-feet-are-planted-in-minnesota/",
-      "team": "sabres",
-      "title": "Quinn Hughes on Wild contract talks: ‘My two feet are planted in Minnesota’",
-      "summary": "Quinn Hughes is enjoying his time with the Minnesota Wild, but the star defenceman stopped short of offering a definitive answer about his long-term future with the team.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-24T20:49:33.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/quinn-hughes-on-wild-contract-talks-my-two-feet-are-planted-in-minnesota/"
+      "publishedAt": "2026-10-25T00:17:46.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/capitals-tuch-gets-friendly-bounce-for-goal-against-former-team/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-11-preview-open-thread-sabres-at-capitals/",
@@ -588,6 +577,17 @@
       "link": "https://www.diebytheblade.com/glaring-issues-highlight-buffalos-disappointing-start/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267054-dalton-kincaid-is-the-guest-picker-on-college-gameday-at-utah-on-saturday/",
+      "team": "bills",
+      "title": "Dalton Kincaid is the guest picker on College Gameday at Utah on Saturday",
+      "summary": "Looking forward to this!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T19:20:27.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267054-dalton-kincaid-is-the-guest-picker-on-college-gameday-at-utah-on-saturday/"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46822/usmnt-to-face-haiti-in-concacaf-nations-league-quarterfinals",
       "team": "usmnt",
       "title": "Haiti moves home leg of Concacaf Nations League match against USMNT to Miami",
@@ -894,17 +894,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-20T16:09:37.000Z",
       "link": "https://www.diebytheblade.com/halloween-2027-nhl-mock-draft-buffalo-sabres-santala-nystrom-yakushevsky-pichette/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267030-bye-week-self-scouting/",
-      "team": "bills",
-      "title": "Bye Week self Scouting",
-      "summary": "Brady said they will focus on themselves (self-scouting) during the bye week, which is typical for NFL teams. Does anyone know the actual schedule? The CBA says mandatary 4 consecutive days off and usually teams grant Thursday - Sunday for that to players.\n\n\n\n\t \n\n\n\n\tThey may do some light practice on Wednesday and we all know the defense need it. Leonhard can use that time to go over the mistakes or he can try something new, including some scheme changes or new personnel grouping.\n\n\n\n\t \n\n\n\n\tA lot of us are focusing on getting different players who are better fit to the defensive scheme in the secondary. I'd think, based on what they have shown, it is not just one player or two there. It might be better to alter the scheme some to fit the talent better, if possible.\n\n\n\n\t \n\n\n\n\tThere is teaching, and there is creativity based on what you have. The defense had 437 snaps thru 6 games, averaging nearly 73 a game. That's lot. But it also means Leonhard and staff should have a pretty good idea about the players they have. Every coach wants better players. Leonhard sounds like he prides himself being able to maximize what he has --- \"find a solution\" in his words. For someone who has obvious inspiration being a HC in NFL, time to show us what you have.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-20T15:11:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267030-bye-week-self-scouting/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46790/usmnt-to-face-jamaica-in-december-camp-match",
