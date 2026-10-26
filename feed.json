@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:53:04.273Z",
+  "generatedAt": "2026-10-26T21:28:55.102Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 4,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -169,6 +169,50 @@
     }
   ],
   "stories": [
+    {
+      "id": "espn-bills::47809892",
+      "team": "bills",
+      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T18:49:18Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/",
+      "team": "bills",
+      "title": "Trade Deadline Move (s)",
+      "summary": "What will Beane do here... will he make a trade pick up a FA or leave it be... would love to hear whom you think might be in the mix....  My guess is a DB and maybe someone like Rasul Douglas... not that I think that changes a lot but he is familiar with him and Beane likes that.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T18:30:44.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267088-dez-bryant-arrested-for-road-rage/",
+      "team": "bills",
+      "title": "Dez Bryant arrested for road rage",
+      "summary": "https://nypost.com/2026/10/26/sports/ex-cowboys-star-dez-bryant-handcuffed-held-at-gunpoint-by-cops-in-new-video/",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T17:58:57.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267088-dez-bryant-arrested-for-road-rage/"
+    },
+    {
+      "id": "espn-bills::50250750",
+      "team": "bills",
+      "title": "NFL Week 8 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T17:39:24Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+    },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267087-a-silver-lining-on-defense-bills-ahead-of-an-offensive-trend/",
       "team": "bills",
@@ -313,39 +357,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267085-josh-allen-at-top-5-qb-peak-of-all-time-watch-nick-wright-get-roasted/"
     },
     {
-      "id": "espn-bills::50250750",
-      "team": "bills",
-      "title": "NFL Week 8 betting odds: Lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T14:35:24Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143652/buffalo-bills-post-bye-reset",
-      "team": "bills",
-      "title": "Buffalo Bills post-bye week reset",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T13:21:23.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143652/buffalo-bills-post-bye-reset"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143583/introducing-dip-a-new-nfl-defensive-metric-that-accounts-for-quarterback-competition",
-      "team": "bills",
-      "title": "Introducing DIP: A new NFL defensive metric that accounts for quarterback competition",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T12:56:02.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143583/introducing-dip-a-new-nfl-defensive-metric-that-accounts-for-quarterback-competition"
-    },
-    {
       "id": "espn-bills::49794361",
       "team": "bills",
       "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
@@ -368,17 +379,6 @@
       "link": "http://www.espn.com/nhl/preview?gameId=401892586"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/unfazed-hughes-burns-former-team-as-wild-hand-canucks-another-loss/",
-      "team": "sabres",
-      "title": "Unfazed Hughes burns former team as Wild hand Canucks another loss",
-      "summary": "Favour was few and far between for Quinn Hughes in his return to Vancouver. \nBut on the scoreboard, it was Hughes who got the last laugh against his former team.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T06:55:12.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/unfazed-hughes-burns-former-team-as-wild-hand-canucks-another-loss/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267084-nick-emmanwori-looks-awesome/",
       "team": "bills",
       "title": "Nick Emmanwori looks awesome",
@@ -388,39 +388,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-26T06:32:20.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267084-nick-emmanwori-looks-awesome/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/got-some-cheers-that-was-cool-hughes-on-passion-from-fans-in-return/",
-      "team": "sabres",
-      "title": "‘Got some cheers, that was cool’: Hughes on passion from fans in return",
-      "summary": "Watch as Quinn Hughes speaks with the media following his first game as a visitor in Vancouver. The former Canuck talks about the passionate fans and how he appreciated getting a few cheers,",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T05:21:10.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/got-some-cheers-that-was-cool-hughes-on-passion-from-fans-in-return/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-highlights-wild-4-canucks-2/",
-      "team": "sabres",
-      "title": "NHL Highlights: Wild 4, Canucks 2",
-      "summary": "Quinn Hughes had a goal and an assist in his return to Vancouver, while Kirill Kaprizov added two points, as the Minnesota Wild beat the Vancouver Canucks 4-2.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T04:58:02.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/nhl-highlights-wild-4-canucks-2/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/hughes-scores-in-return-to-vancouver-as-canucks-lose-to-wild/",
-      "team": "sabres",
-      "title": "Hughes scores in return to Vancouver as Canucks lose to Wild",
-      "summary": "Quinn Hughes notched the 500th point of his NHL career in his return to Vancouver, and his Minnesota Wild doubled up the Canucks 4-2 on Sunday.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T04:50:22.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/hughes-scores-in-return-to-vancouver-as-canucks-lose-to-wild/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46712/usmnt-midweek-viewing-guide-on-we-go",
@@ -566,15 +533,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/143617/nfl-week-7-sunday-afternoon-fan-discussion"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267075-week-7-around-the-nfl-no-bills-stuff-in-this-thread-please/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267076-drama-in-chiefs-land/",
       "team": "bills",
-      "title": "Week 7 - Around  the  NFL  (no Bills stuff in this thread please)",
-      "summary": "It's the bye week. So as the players rest and we the fans allow our blood pressure to return to normal levels, we can put our feet up and spend the day laughing and pointing at fans of other teams who are having to go through the stress of an NFL Sunday.\n\n\n\n\t \n\n\n\n\tNot too many games catch my interest today.\n\n\n\n\t \n\n\n\n\tThe big early game is Bengals/Ravens. Another Ravens loss would be nice here.\n\n\n\n\t \n\n\n\n\tI could see the Titans tripping up the Cleveland Sex Pests as they've been quite lucky so far this season.\n\n\n\n\t \n\n\n\n\tBiggest game of the day is Chiefs/Seahawks. If KC has their way with that Seattle defense then they're the defacto AFC favorites (if they weren't already)\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tOh and the early game in France doesn't really grab me much but I'll check in here and there to see what's happening. Another loss for the Steelers here would be nice but I don't really see them as a threat anyway so I certainly won't be getting too animated",
+      "title": "Drama in Chiefs land",
+      "summary": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-andy-reid-and-patrick-mahomes-told-josh-simmons-to-leave-a-team-meeting\n\t \n\n\n\n\tfor those who don’t know, Simmons was their first round pick last year and has yet to play this year, after having an up and down rookie year.\n\n\n\n\t \n\n\n\n\tit’s like if Kaiir Elam was getting lippy with the coach. Couldn’t happen to a better team.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-25T12:49:43.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267075-week-7-around-the-nfl-no-bills-stuff-in-this-thread-please/"
+      "publishedAt": "2026-10-25T14:04:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267076-drama-in-chiefs-land/"
     },
     {
       "id": "espn-bills::50239053",
@@ -630,6 +597,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-24T19:39:09.000Z",
       "link": "https://www.diebytheblade.com/game-11-preview-open-thread-sabres-at-capitals/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143583/introducing-dip-a-new-nfl-defensive-metric-that-accounts-for-quarterback-competition",
+      "team": "bills",
+      "title": "Introducing DIP: A new NFL defensive metric that accounts for quarterback competition",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T19:26:56.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143583/introducing-dip-a-new-nfl-defensive-metric-that-accounts-for-quarterback-competition"
     },
     {
       "id": "espn-bills::50240486",
@@ -720,15 +698,15 @@
       "link": "https://www.buffalohockeybeat.com/connor-hellebuyck-is-in-new-jersey-but-sabres-goalie-ukko-pekka-luukkonen-knows-he-can-still-be-traded/"
     },
     {
-      "id": "espn-bills::50179373",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143567/nfl-has-made-its-decision-on-sam-franklin-jr-s-suspension-appeal",
       "team": "bills",
-      "title": "NFL Week 7 betting odds: Lines and totals for every game",
-      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
+      "title": "NFL has made its decision on Sam Franklin Jr.’s suspension appeal",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-23T18:45:06Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
+      "publishedAt": "2026-10-23T19:58:58.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143567/nfl-has-made-its-decision-on-sam-franklin-jr-s-suspension-appeal"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267062-the-nfl-will-be-heading-back-to-tokyo/",
@@ -773,6 +751,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-23T16:10:09.000Z",
       "link": "https://www.starsandstripesfc.com/latest-news/46859/naomi-girma-doubtful-for-uswnt-world-cup-qualifying"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267061-statistically-weird-day-light-savings-ravens-sunday-november-1/",
+      "team": "bills",
+      "title": "Statistically Weird Day Light Savings (Ravens) Sunday November 1",
+      "summary": "I am predicting one of the most frustrating and head scratching Sunday afternoons that always seem to happen once or twice a season \n\n\n\n\t \n\n\n\n\ta stupid loss where we go “wtf have you guys been doing the last 2 weeks!!”  \n\t \n\n\n\n\tcomplete maddening sequences where it just looks like they are flat and zero battery \n\n\n\n\t \n\n\n\n\t…..and that’s not going to be good against a team like Henry and Lamar Jackson.\n\n\n\n\t \n\n\n\n\twhen the schedules came out - I was hoping our bye week fell just one more week out - or we played Monday night \n\n\n\n\t \n\n\n\n\tit’s not I feel they will be unprepared - I guarantee it’s going to feel that way though\n\n\n\n\t \n\n\n\n\thow am I so sure?\n\n\n\n\t \n\n\n\n\tIt’s Fall back Sunday \n\n\n\n\t \n\n\n\n\tI know I know - rollllll the eyes go ahead - but I dread this Sunday in the Josh Allen era.  The last eight seasons they are 4-4 on just this one Sunday alone.  3-3 with 1 pm starts.  And the wins they almost always seem out of sync!  The annoying wtf are we doing game!\n\n\n\n\t\n\t \n\n\n\n\tI swear every year when we turn the clocks back, the Bills come out looking like they forgot how to play football.\n\n\n\n\t \n\n\n\n\tSo I looked at every 1 PM game on the Sunday the clocks fall back from 2018–2025 under McDermott.\n\n\n\n\t \n\n\n\n\tThe results:\n\n\n\n\t2018: Bears — L 41–9\n\n\n\n\t2019: Washington — W 24–9\n\n\n\n\t2020: Patriots — W 24–21\n\n\n\n\t2021: Jaguars — L 9–6\n\n\n\n\t2022: Jets — L 20–17\n\n\n\n\t2024: Dolphins — W 30–27\n\n\n\n\tThe ugly numbers:\n\n\n\n\t3–3 record (50% win percentage)\n\n\n\n\t18.3 points per game\n\n\n\n\tJust 8.3 points per first half\n\n\n\n\t3 of 6 games scoring 17 points or fewer\n\n\n\n\t \n\n\n\n\tOnly 2 of 6 games scoring more than 24 points\n\n\n\n\t \n\n\n\n\tThe 2021 offense couldn’t score a single touchdown against Jacksonville\n\n\n\n\t \n\n\n\n\tIn 2022, we scored just 3 points in the second half against the Jets\n\n\n\n\t \n\n\n\n\tIn 2024, we needed a 61-yard Tyler Bass miracle to beat Miami\n\n\n\n\tThe 2023 Bengals game was Sunday night, and the 2025 Chiefs game kicked off at 4:25, so neither is included.\n\n\n\n\t \n\n\n\n\tObviously, the 2018 team wasn’t good and Josh Allen was injured. But even taking that game out, we’re only 3–2 in these early games, averaging 20.2 points.\n\n\n\n\t \n\n\n\n\tI know this is a small sample, and I’m not claiming the time change causes it. But for a team that’s been one of the AFC’s best for years, these performances are pretty bizarre.\n\n\n\n\t\n\tVegas odds ?  Buffalo -2.5\n\n\n\n\t \n\n\n\n\tsheesh idk - points 51.5\n\n\n\n\t \n\n\n\n\twe will see after Sundays games but - gotta bad feeling Lamar and Henry are going to be frustrating - more so than normal \n\n\n\n\t \n\n\n\n\tUpdated \n\n\n\n\twell this hasn’t gone over as planned an I guess I’m rightfully flamed for coming in hot\n\n\n\n\t \n\n\n\n\tthis was intended for statistical anamoly that I noticed with this franchise over the last near past years \n\n\n\n\t \n\n\n\n\tmy apologies for the anger and outrage it caused - was NOT the intent 😂",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-23T12:25:05.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267061-statistically-weird-day-light-savings-ravens-sunday-november-1/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46583/usmnt-midweek-roundup-unlikely-heroes",
@@ -1050,17 +1039,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-19/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267019-let%E2%80%99s-do-an-apples-to-apples-comparison-of-leonhard-vs-other-brand-new-dc%E2%80%99s/",
-      "team": "bills",
-      "title": "Let’s do an apples-to-apples comparison of Leonhard vs other brand new DC’s",
-      "summary": "There are 14 new defensive coordinators in the NFL this year, and 7 of them switched schemes (4-3 to 3-4 or vice versa). So the \"new scheme\" challenges aren’t unique to us. Half the new DCs in the league are dealing with the exact same thing.\n\n\n\n\t \n\n\n\n\tLeonhard ranks dead last among all 14. Every single other new DC has a better defense right now, including all 6 of the others who switched schemes as well. Nine of the 14 have actually improved their team's ranking from last year, some by 14 to 17 spots. And no defense has fallen off a cliff like we have (we've dropped 24 spots). The next worst drop is 14. We are 10 spots worse than the next worst collapse in the league.\n\n\n\n\t \n\n\n\n\tA recurring theme on the forum right now is that the players need more time, perhaps even a full year, to adjust to the new scheme. These other teams didn’t need that adjustment period. Something more is going on here.\n\n\n\n\t \n\n\n\n\tWhat I have seen\n\n\n\n\t \n\n\n\n\t- We have repeatedly found ourselves in second/third and short situations with our defensive backs lined up 10 yards off the line of scrimmage. That cushion lets the receiver walk forward 3 yards, turn around, and catch the ball for a first down. That's coaching.\n\n\n\n\t \n\n\n\n\t- On numerous occasions we have seen whole sections of our zone left wide open. That isn't talent either. I mean… it’s not like all of our players are too slow to get there and are trailing behind. That would be talent. It's that nobody even knows they're supposed to be there. That's coaching too. \n\n\n\n\t \n\n\n\n\t- How many times are we going to have 10 defensive players on the field versus the offense? Do the coaches not know how to count?\n\n\n\n\t \n\n\n\n\t- The stats will show that we ran more man coverage but what it doesn’t show is *when* we ran it. Times when I truly believe we should have (third and long press man, to give our d-line more time to get home), Leonhard instead dropped into a zone and we gave up a large play. \n\n\n\n\t \n\n\n\n\t- Even our QB pressure rate is worse. It was good for two weeks and then fell off a cliff. We are now 30th in the NFL in pressure %. \n\n\n\n\t \n\n\n\n\t- I frankly don’t care that our run defense is better. This is not 1982. Why should it matter that our run defense is stout when we are giving up 7 more points per game, and 93.7 more total yards per game, and 128.9 more passing yards, and our defense is generating fewer turnovers? Why should we care that we're stuffing the run when the very next play is a 25-yard pass? \n\n\n\n\t \n\n\n\n\tI really don’t know what the answer is, because they’re clearly not going to fire him after only six games. But I also don’t really see any evidence that this is going to get drastically better.\n\n\n\n\t \n\n\n\n\tThe only option I can realistically think of is to bring in Poyer. he is gone as a player, but I think he did a world of good for Bishop last year and he can probably continue reaping benefits for our defensive backs in general.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-19T17:00:10.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267019-let%E2%80%99s-do-an-apples-to-apples-comparison-of-leonhard-vs-other-brand-new-dc%E2%80%99s/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46726/usmnt-weekend-roundup-heating-up-in-france",
       "team": "usmnt",
       "title": "USMNT weekend roundup: Heating up in France",
@@ -1171,17 +1149,6 @@
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266815-lamar-jackson-likely-out-this-coming-week-potentially-longer/",
-      "team": "bills",
-      "title": "Lamar Jackson likely out this coming week, potentially longer",
-      "summary": "Bills play Ravens 11/1\n\n\n\n\t \n\n\n\n\tIf I had to guess based on some of the reports, he misses 1-2 games.  \n\t \n\n\n\n\tSomething to watch though.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-06T16:13:16.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266815-lamar-jackson-likely-out-this-coming-week-potentially-longer/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266688-are-the-raiders-legit/",
       "team": "bills",
       "title": "Are the Raiders legit?",
@@ -1191,17 +1158,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-28T20:16:18.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266688-are-the-raiders-legit/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266679-jj-mccarthy-traded-to-giants/",
-      "team": "bills",
-      "title": "JJ McCarthy traded to Giants",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-28T16:12:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266679-jj-mccarthy-traded-to-giants/"
     }
   ]
 }
