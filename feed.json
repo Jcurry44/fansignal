@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:26:28.271Z",
+  "generatedAt": "2026-10-26T10:24:50.975Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 4,
+      "itemCount": 6,
       "error": null
     },
     {
@@ -170,6 +170,61 @@
   ],
   "stories": [
     {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/unfazed-hughes-burns-former-team-as-wild-hand-canucks-another-loss/",
+      "team": "sabres",
+      "title": "Unfazed Hughes burns former team as Wild hand Canucks another loss",
+      "summary": "Favour was few and far between for Quinn Hughes in his return to Vancouver. \nBut on the scoreboard, it was Hughes who got the last laugh against his former team.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T06:55:12.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/unfazed-hughes-burns-former-team-as-wild-hand-canucks-another-loss/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267084-nick-emmanwori-looks-awesome/",
+      "team": "bills",
+      "title": "Nick Emmanwori looks awesome",
+      "summary": "Prior to the 2025 draft, I saw several mock drafts with Nick Emmanwori as the Bills pick.\n\n\n\n\t \n\n\n\n\tI just watched the Seattle/KC game and he had some impressive plays.  On one he was on the pass rush and ran down a scrambling Mahomes from behind.  On another, he ran step for step with Worthy on a deep pass.  The guy is also huge for a safety.\n\n\n\n\t \n\n\n\n\tHindsight is 20/20 and all that jazz, but he would look a lot better on the Bills than Hairston right now.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T06:32:20.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267084-nick-emmanwori-looks-awesome/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/got-some-cheers-that-was-cool-hughes-on-passion-from-fans-in-return/",
+      "team": "sabres",
+      "title": "‘Got some cheers, that was cool’: Hughes on passion from fans in return",
+      "summary": "Watch as Quinn Hughes speaks with the media following his first game as a visitor in Vancouver. The former Canuck talks about the passionate fans and how he appreciated getting a few cheers,",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T05:21:10.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/got-some-cheers-that-was-cool-hughes-on-passion-from-fans-in-return/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-highlights-wild-4-canucks-2/",
+      "team": "sabres",
+      "title": "NHL Highlights: Wild 4, Canucks 2",
+      "summary": "Quinn Hughes had a goal and an assist in his return to Vancouver, while Kirill Kaprizov added two points, as the Minnesota Wild beat the Vancouver Canucks 4-2.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T04:58:02.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/nhl-highlights-wild-4-canucks-2/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/hughes-scores-in-return-to-vancouver-as-canucks-lose-to-wild/",
+      "team": "sabres",
+      "title": "Hughes scores in return to Vancouver as Canucks lose to Wild",
+      "summary": "Quinn Hughes notched the 500th point of his NHL career in his return to Vancouver, and his Minnesota Wild doubled up the Canucks 4-2 on Sunday.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T04:50:22.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/hughes-scores-in-return-to-vancouver-as-canucks-lose-to-wild/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267083-bills-had-a-pretty-good-weekend-without-even-playing-a-game/",
       "team": "bills",
       "title": "Bills had a pretty good weekend without even playing a game!!",
@@ -214,17 +269,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267081-the-colemanworthy-trade-worked-out/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/143644/afc-playoff-picture-buffalo-bills-afc-east-patriots-standings",
-      "team": "bills",
-      "title": "AFC Playoff Picture: Buffalo Bills are tied for first in the conference",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T03:01:48.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/143644/afc-playoff-picture-buffalo-bills-afc-east-patriots-standings"
-    },
-    {
       "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/hughes-receives-ovation-from-canucks-fans-after-video-tribute/",
       "team": "sabres",
       "title": "Hughes receives mixed reaction from Canucks fans after video tribute",
@@ -234,39 +278,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-26T02:46:50.000Z",
       "link": "https://www.sportsnet.ca/nhl/video/hughes-receives-ovation-from-canucks-fans-after-video-tribute/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/wilds-quinn-hughes-hears-boos-in-return-to-vancouver/",
-      "team": "sabres",
-      "title": "Wild’s Quinn Hughes hears boos in return to Vancouver",
-      "summary": "",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T02:43:20.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/wilds-quinn-hughes-hears-boos-in-return-to-vancouver/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/fans-welcome-hughes-to-vancouver-with-chants-cheers-after-he-is-hit/",
-      "team": "sabres",
-      "title": "Fans welcome Hughes to Vancouver with chants, cheers after he is hit",
-      "summary": "Watch as Minnesota Wild’s Quinn Hughes is met with chants and then cheers from the Vancouver Canucks faithful after he is hit hard into the boards in his first game back after being traded last season.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T02:32:47.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/fans-welcome-hughes-to-vancouver-with-chants-cheers-after-he-is-hit/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/143636/kansas-city-chiefs-at-seattle-seahawks-week-7-snf-fan-discussion",
-      "team": "bills",
-      "title": "Kansas City Chiefs at Seattle Seahawks, Week 7 ‘SNF’ fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T00:29:34.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/143636/kansas-city-chiefs-at-seattle-seahawks-week-7-snf-fan-discussion"
     },
     {
       "id": "espn-bills::50252261",
@@ -577,15 +588,15 @@
       "link": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267062-the-nfl-will-be-heading-back-to-tokyo/",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143559/dion-dawkins-dramatic-offseason-weight-loss-buffalo-bills-offenseive-lineman",
       "team": "bills",
-      "title": "The NFL will be heading back to Tokyo",
-      "summary": "The NFL will play an international game in Tokyo in 2027 or 2028. The Bills are going to play an international game in 2027. Could it be in Tokyo?? Goodell on Tokyo",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "title": "Dion Dawkins’ dramatic offseason weight loss ‘a gift and a curse’",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-23T17:58:40.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267062-the-nfl-will-be-heading-back-to-tokyo/"
+      "publishedAt": "2026-10-23T17:42:18.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143559/dion-dawkins-dramatic-offseason-weight-loss-buffalo-bills-offenseive-lineman"
     },
     {
       "id": "espn-bills::50229521",
@@ -641,6 +652,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-23T16:10:09.000Z",
       "link": "https://www.starsandstripesfc.com/latest-news/46859/naomi-girma-doubtful-for-uswnt-world-cup-qualifying"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143495/bills-news-the-good-the-bad-and-the-ugly-at-the-bye-week",
+      "team": "bills",
+      "title": "Bills news: The good, the bad, and the ugly at the bye week",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-23T12:09:55.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143495/bills-news-the-good-the-bad-and-the-ugly-at-the-bye-week"
     },
     {
       "id": "espn-sabres::50256009",
