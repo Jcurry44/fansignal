@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:19:27.878Z",
+  "generatedAt": "2026-10-29T08:47:02.071Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -170,6 +170,17 @@
   ],
   "stories": [
     {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/nhl-roundup-tuch-scores-twice-as-capitals-beat-flyers/",
+      "team": "sabres",
+      "title": "NHL roundup: Tuch scores twice as Capitals beat Flyers",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T05:13:40.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/nhl-roundup-tuch-scores-twice-as-capitals-beat-flyers/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/tre-davious-white-s-homecoming-tyrell-shavers-return-and-spencer-brown-s-status",
       "team": "bills",
       "title": "Tre'Davious White's homecoming, Tyrell Shavers' return and Spencer Brown's status",
@@ -236,6 +247,28 @@
       "link": "https://www.twobillsdrive.com/community/topic/267111-in-honor-of-a-former-bill-and-raven-and-chief-12-years-since-this-gem/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/143838/bills-injury-report-spencer-brown-sits-tyrell-shavers-returns",
+      "team": "bills",
+      "title": "Bills injury report: Spencer Brown sits, Tyrell Shavers returns",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T21:58:36.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/143838/bills-injury-report-spencer-brown-sits-tyrell-shavers-returns"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143830/nfl-trade-deadline-buffalo-bills-trade-candidate-cam-bynum",
+      "team": "bills",
+      "title": "NFL trade deadline: Buffalo Bills trade candidate – Cam Bynum",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T21:57:20.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143830/nfl-trade-deadline-buffalo-bills-trade-candidate-cam-bynum"
+    },
+    {
       "id": "espn-bills::50311224",
       "team": "bills",
       "title": "Bills' Sam Franklin Jr. ready to play this week after suspension reduced to fine",
@@ -258,6 +291,17 @@
       "link": "https://www.buffalohockeybeat.com/torrid-start-for-rochester-amerks-could-help-williamsvilles-trevor-kuntar-earn-another-recall-to-sabres/"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143725/are-buffalo-bills-fans-expectations-out-of-sync-with-5-1-record",
+      "team": "bills",
+      "title": "Are Buffalo Bills fans’ expectations out of sync with 5-1 record?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T21:17:05.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143725/are-buffalo-bills-fans-expectations-out-of-sync-with-5-1-record"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-open-21-day-practice-window-for-tyrell-shavers-while-dj-moore-ed-oliver-spotted-at-wednesday-practice",
       "team": "bills",
       "title": "Bills open 21-day practice window for Tyrell Shavers while DJ  Moore, Ed Oliver spotted at Wednesday practice",
@@ -267,6 +311,50 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-28T19:11:38.000Z",
       "link": "https://www.buffalobills.com/news/bills-open-21-day-practice-window-for-tyrell-shavers-while-dj-moore-ed-oliver-spotted-at-wednesday-practice"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143809/buffalo-bills-open-practice-window-for-wide-receiver-on-pup",
+      "team": "bills",
+      "title": "Buffalo Bills open practice window for wide receiver on PUP",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T19:01:07.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143809/buffalo-bills-open-practice-window-for-wide-receiver-on-pup"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/143816/joe-brady-announces-dj-moore-ed-oliver-will-return-to-practice-for-buffalo-bills",
+      "team": "bills",
+      "title": "Joe Brady announces DJ Moore, Ed Oliver will return to practice for Buffalo Bills",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T18:45:12.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/143816/joe-brady-announces-dj-moore-ed-oliver-will-return-to-practice-for-buffalo-bills"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/143799/buffalo-bills-trade-deadline-expectations-should-be-dampened-by-salary-cap-space",
+      "team": "bills",
+      "title": "Buffalo Bills trade deadline expectations should be dampened by salary cap space",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T18:22:37.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-salary-cap-contracts/143799/buffalo-bills-trade-deadline-expectations-should-be-dampened-by-salary-cap-space"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-power-rankings/143776/bills-return-from-bye-as-ravens-collapse-where-do-both-teams-stand-in-nfl-power-rankings",
+      "team": "bills",
+      "title": "Bills return from bye as Ravens collapse: Where do both teams stand in NFL power rankings?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T18:14:27.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-power-rankings/143776/bills-return-from-bye-as-ravens-collapse-where-do-both-teams-stand-in-nfl-power-rankings"
     },
     {
       "id": "espn-bills::50250750",
@@ -300,17 +388,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-28T16:21:27.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267108-bills-schedule-change-wedk-12-dolphins-from-fox-to-cbs/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267107-name-only-title-dawson-knox/",
-      "team": "bills",
-      "title": "[Name Only Title] Dawson Knox",
-      "summary": "After signing a hefty contract, he is by far having his worst year as a pro. I really thought the 3 headed TE trio of Kincaid/Knox/Hawes would be a serious weapon going forward especially with Moore being out. It has been anything, but that so far. Kincaid had a strong start, but he’s slowed down considerably. I’m guessing he’s dealing w/ some nagging injury.\n\t \n\n\n\n\tI love me some Knox and he has had some massive catches and TD celebrations over the years, but I was not a fan of shelling out that much money in the offseason for a backup TE. Especially with the emergence of Jackson Hawes last year. 20 million is too much if you’re just paying a guy to block. Maybe Allen nudged management to retain him, who knows? Knox has been here for 9 years and the Bills tend to take care of longer tenured players.  He will be 30 in November so age also could be playing a part in his decline. \n\t \n\n\n\n\tKnox is on pace for his worst statistical season with less than 100 total receiving yards total and 1/3 of the season already in the books. I really hope they can get him more involved because he is an above average TE when healthy. Especially in the playoffs when guys are all beat up.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-28T16:20:13.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267107-name-only-title-dawson-knox/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/what-does-a-week-inside-the-bills-quarterback-room-with-josh-allen-look-like",
@@ -566,17 +643,6 @@
       "link": "https://www.diebytheblade.com/game-12-preview-open-thread-sabres-at-sharks/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143736/buffalo-bills-make-defensive-roster-moves-before-week-8-vs-baltimore-ravens",
-      "team": "bills",
-      "title": "Buffalo Bills make defensive roster moves before Week 8 vs. Baltimore Ravens",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-27T21:33:21.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143736/buffalo-bills-make-defensive-roster-moves-before-week-8-vs-baltimore-ravens"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-sign-cb-a-j-woods-and-olb-andre-jones-jr-to-the-practice-squad",
       "team": "bills",
       "title": "Bills sign CB A.J. Woods and OLB Andre Jones Jr. to the practice squad",
@@ -586,17 +652,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-27T19:59:04.000Z",
       "link": "https://www.buffalobills.com/news/bills-sign-cb-a-j-woods-and-olb-andre-jones-jr-to-the-practice-squad"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143730/lamar-jackson-reportedly-will-return-from-injury-vs-buffalo-bills-in-week-8",
-      "team": "bills",
-      "title": "Lamar Jackson reportedly will return from injury vs. Buffalo Bills in Week 8",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-27T19:34:06.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143730/lamar-jackson-reportedly-will-return-from-injury-vs-buffalo-bills-in-week-8"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267102-garrett-wilson-is-it-time-to-make-a-push/",
@@ -610,15 +665,26 @@
       "link": "https://www.twobillsdrive.com/community/topic/267102-garrett-wilson-is-it-time-to-make-a-push/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143718/nfl-trade-deadline-buffalo-bills-trade-candidate-antoine-winfield-jr",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267101-james-cook-tied-for-1st-in-explosive-run-rate-with/",
       "team": "bills",
-      "title": "NFL trade deadline: Buffalo Bills trade candidate – Antoine Winfield Jr.",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
+      "title": "James Cook tied for 1st in Explosive Run Rate with...",
+      "summary": "Josh Allen...this is insane.\n\n\n\n\t \n\n\n\n\t\n\n\n\n\tExplosive runs are 10+ yard runs.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-27T18:11:50.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143718/nfl-trade-deadline-buffalo-bills-trade-candidate-antoine-winfield-jr"
+      "publishedAt": "2026-10-27T19:00:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267101-james-cook-tied-for-1st-in-explosive-run-rate-with/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267098-tyrell-shavers-close-to-return/",
+      "team": "bills",
+      "title": "Tyrell Shavers close to return",
+      "summary": "Yes this tweet is Shavers not Diggs but if Shavers is coming back at some point then we have a glut of WRs and not enough active gameday spots. Maybe this is why their is some credence to Josh Palmer being moved for a bag of chips",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-27T17:56:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267098-tyrell-shavers-close-to-return/"
     },
     {
       "id": "espn-sabres::50287875",
@@ -665,28 +731,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/50288293/nfl-power-rankings-week-8-teams-best-offseason-additions"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143577/bills-news-buffalo-hopes-bye-week-resolved-issues",
-      "team": "bills",
-      "title": "Bills news: Buffalo hopes bye week resolved issues",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-27T14:16:53.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143577/bills-news-buffalo-hopes-bye-week-resolved-issues"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143712/ravens-to-be-without-star-rookie-guard-vs-bills-on-sunday-vega-ioane",
-      "team": "bills",
-      "title": "Ravens to be without star rookie guard vs. Bills on Sunday",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-27T14:16:12.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143712/ravens-to-be-without-star-rookie-guard-vs-bills-on-sunday-vega-ioane"
-    },
-    {
       "id": "espn-bills::50288152",
       "team": "bills",
       "title": "Is Bills' Josh Allen the best goal-line rusher ever?",
@@ -696,17 +740,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-27T13:22:40Z",
       "link": "https://www.espn.com/nfl/story/_/id/50288152/bills-josh-allen-greatest-td-rusher"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143694/is-this-worst-buffalo-bills-defense-josh-allen-has-ever-played-with",
-      "team": "bills",
-      "title": "Is this the worst defense Josh Allen has ever played with?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-27T11:26:15.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143694/is-this-worst-buffalo-bills-defense-josh-allen-has-ever-played-with"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/yes-goalie-ukko-pekka-luukkonen-can-be-a-lot-better-but-dont-blame-all-of-the-sabres-problems-on-him/",
@@ -731,15 +764,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/267092-jay-z-selects-himself-for-the-superbowl-halftime-show/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143670/bills-pass-offense-about-to-undergo-a-specific-two-week-test",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267090-bills%E2%80%99-defense-is-bad-maybe-it%E2%80%99s-not-that-bad/",
       "team": "bills",
-      "title": "Bills pass offense about to undergo a specific two-week test",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
+      "title": "Bills’ Defense Is Bad - Maybe It’s Not THAT Bad.",
+      "summary": "Seven games in, you’re probably still looking at some statistical anomalies with respect to offensive stats around the league.  Be that as it may, so far the Bills have faced the #1, #2, #7, #13 and #16 offenses ranked by YPG.  So, five games against teams with offenses in the top half of the league, including the two best statistical offenses.  Not surprisingly, the best defensive game was against the weakest offense (Chargers).  We absolutely need some incremental improvement on defense and it would be great to add some talent before the trade deadline, but I expect our ranking to improve significantly when we start playing teams with weaker offenses.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-26T23:36:31.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143670/bills-pass-offense-about-to-undergo-a-specific-two-week-test"
+      "publishedAt": "2026-10-26T21:59:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267090-bills%E2%80%99-defense-is-bad-maybe-it%E2%80%99s-not-that-bad/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/",
@@ -1116,17 +1149,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-19/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267013-trades-to-make-this-week/",
-      "team": "bills",
-      "title": "Trades to make this week",
-      "summary": "How feasible, from a contract standpoint, do you guys think it is for Beane to pull some trades to help the defense? I am thinking we might be able to get Zack Baun (who played for Leonhard at Wisconsin and someone like Budda Baker to help shore things up. We could cut CGJ and bench Bernard.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-19T13:32:52.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267013-trades-to-make-this-week/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266989-joe-brady-has-the-highest-career-winning-percentage-of-any-active-nfl-head-coach/",
       "team": "bills",
       "title": "Joe Brady has the highest career winning percentage of any active NFL Head Coach",
@@ -1147,17 +1169,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T19:30:51.000Z",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265799-nfl-sunday-ticket-2026/",
-      "team": "bills",
-      "title": "NFL Sunday Ticket 2026",
-      "summary": "Just curious if anyone here is renewing their Sunday Ticket from last year. Last year because I was a new customer, I only paid around $200 for the package. This year since I would be a returning customer, it's going to cost me $480 which I really have no intention of paying. My question here is to the people that are renewing that don't have Youtube TV, have you reached out to YouTube and tried to haggle with them like with Directv to see if you could get it at a cheaper rate? And if so, is YouTube biting? I currently do not have YouTube TV so unlike when I had Directv and could just simply threaten to cancel to get a discount. I can't do that with Youtube TV. I bought the subscription separately and it looks like if I decided to get YouTube TV with it, I could actually renew Sunday Ticket for $240 but that's on top of paying $54 a month for the YouTube TV subscription. Has anyone been able to get a discount on a renewal with just the Sunday Ticket subscription? And if so, what did you do to make it happen?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-13T15:55:22.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265799-nfl-sunday-ticket-2026/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265527-myles-garrett-traded-to-rams/",
