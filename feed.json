@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:02:40.326Z",
+  "generatedAt": "2026-10-30T22:59:00.280Z",
   "sources": [
     {
       "id": "bills-official",
@@ -54,15 +54,15 @@
       "id": "die-by-the-blade",
       "label": "Die By The Blade",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "HTTP 403"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "HTTP 403"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "sportsnet-nhl",
@@ -170,6 +170,83 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267134-give-me-two-moveswithin-reason-you-would-make-to-improve-the-defense/",
+      "team": "bills",
+      "title": "Give me two moves(within reason) you would make to improve the Defense.",
+      "summary": "I know I'm not the only one who thinks it's time for the Bills to go \"All-In\" to make this Defense good enough to help the Offense compete for a Super Bowl Title.\n\n\n\n\t \n\n\n\n\tIf you had the chance, name two moves you would make....they don't have to be \"All-in\" moves......to improve this Defense....\n\n\n\n\t \n\n\n\n\tHere's mine:\n\n\n\n\t \n\n\n\n\t1. Trade CB Max Hairston to the Titans for CB Alonte Taylor and a 5th RD pick.....\n\n\n\n\t \n\n\n\n\tThe Titans would have to eat a lot of Salary to make this trade, so sending them back a CB on a rookie deal that the Bills seem to have given up on should sweeten the deal. Taylor has fallen out of favor in Tennessee because they were forcing him to play outside....if he comes to Buffalo, he would be an immediate upgrade at his natural position of Slot Corner. Start Benford and IGB outside, Taylor in the Slot, with Alford and Tre White as the backups.\n\n\n\n\t \n\n\n\n\t2. Trade a 4th RD pick to Arizona for S Budda Baker or hopefully a 3rd RD pick and WR Josh Palmer(Salary Dump) for S Budda Baker\n\n\n\n\t \n\n\n\n\tBudda Baker would be a true stable Veteran presence on the back end. Not only would he bring better Safety play than CJGJ, he would also help get the most out of Cole Bishop by being a Coach on the Field for him.\n\n\n\n\t \n\n\n\n\tThoughts??\n\n\n\n\t \n\n\n\n\tWhat 2 moves would you make??",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T22:22:37.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267134-give-me-two-moveswithin-reason-you-would-make-to-improve-the-defense/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143908/jalon-kilgore-not-damar-hamlin-should-start-alongside-cole-bishop-for-buffalo-bills",
+      "team": "bills",
+      "title": "Jalon Kilgore, not Damar Hamlin, should start alongside Cole Bishop for Buffalo Bills",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T19:57:16.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143908/jalon-kilgore-not-damar-hamlin-should-start-alongside-cole-bishop-for-buffalo-bills"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/143943/bills-injury-report-ed-oliver-returns-dee-alford-sits",
+      "team": "bills",
+      "title": "Bills injury report: Ed Oliver returns, Dee Alford sits",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T19:56:20.000Z",
+      "link": "https://www.buffalorumblings.com/143943/bills-injury-report-ed-oliver-returns-dee-alford-sits"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/143981/5-buffalo-bills-to-watch-vs-the-baltimore-ravens",
+      "team": "bills",
+      "title": "5 Buffalo Bills to watch vs. the Baltimore Ravens",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-10-30T19:54:00.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143981/5-buffalo-bills-to-watch-vs-the-baltimore-ravens"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/144001/bills-injury-report-week-8-verdict-on-lamar-jackson-questionable-status-for-key-buffalo-pass-game-weapons",
+      "team": "bills",
+      "title": "Bills injury report: Week 8 verdict on Lamar Jackson, questionable status for key Buffalo pass-game weapons",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T19:51:04.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/144001/bills-injury-report-week-8-verdict-on-lamar-jackson-questionable-status-for-key-buffalo-pass-game-weapons"
+    },
+    {
+      "id": "espn-bills::50329615",
+      "team": "bills",
+      "title": "Bills making contingencies if hurt starters aren't available",
+      "summary": "The Bills have listed starters DJ Moore (shoulder), right tackle Spencer Brown (back) and nickel Dee Alford (ankle) as questionable vs. the Ravens.",
+      "source": "ESPN · Nick Suss",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T19:30:57Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50329615/bills-making-contingencies-hurt-starters-available"
+    },
+    {
+      "id": "espn-bills::50250750",
+      "team": "bills",
+      "title": "NFL Week 8 betting odds: Lines and totals for every game",
+      "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T18:48:32Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals"
+    },
+    {
       "id": "espn-bills::47809892",
       "team": "bills",
       "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
@@ -179,17 +256,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-30T18:20:36Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "id": "espn-bills::50322138",
-      "team": "bills",
-      "title": "Josh Allen looks to renew rivalry with Lamar Jackson as Bills host Ravens",
-      "summary": "— Josh Allen can appreciate how heated discussions can get over bar stools, on talk radio and social media over whether he or Lamar Jackson are the better quarterback.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T18:10:46Z",
-      "link": "http://www.espn.com/nfl/preview?gameId=401873026"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-ravens-week-8",
@@ -234,17 +300,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-30T16:02:43.000Z",
       "link": "https://www.buffalobills.com/news/we-know-the-type-of-talent-they-have-the-bills-look-ahead-to-their-matchup-against-the-baltimore-ravens"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-baltimore-ravens-where-to-watch-stream-and-listen-week-8",
-      "team": "bills",
-      "title": "Buffalo Bills vs. Baltimore Ravens | Where to watch, stream and listen | Week 8",
-      "summary": "TV Channel, Streaming and Radio for Bills vs. Ravens",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T16:00:31.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-vs-baltimore-ravens-where-to-watch-stream-and-listen-week-8"
     },
     {
       "id": "bandits-official::https://bandits.com/bandits-sign-grenon-to-1-year-contract/",
@@ -434,6 +489,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/50322131/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-halloween"
     },
     {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-ride-thompson-hat-trick-to-beat-ducks-in-see-saw-game/",
+      "team": "sabres",
+      "title": "Sabres ride Thompson hat trick to beat Ducks in see-saw game",
+      "summary": "Buffalo came from behind yet again, but have Ellis to thank for win\n\n\n\nBoxscore\n\n\n\nScore: Buffalo Sabres 7-6 Anaheim DucksShots: BUF 30-35 ANA\n\n\n\nBuffalo Sabres Goals: Kozak 1 (Carrick, Samuelsson), Östlund 4 PPG (Benson, Thompson), Thompson 6 (Benson, Krebs), Thompson 7 (Krebs), Thompson 8 (Dahlin, Krebs), Quinn 7 PPG (Thompson, Dahlin), Benson 2 (Zellweger) Anaheim Ducks Goals: Granlund 3 PPG (LaCombe, Carlsson), Gauthier 3 PPG (Senecke, Carlsson), McQueen 1 (Colangelo, Jensen), Gauthier 4 PPG (LaCombe, Carlsson), Luneau 2 (Caulfield), Sennecke 8 (Unassisted). \n\n\n\nQuick Thoughts\n\n\n\nO Defense, Defense, Wherefore Art Thou?\n\n\n\nThe Sabres penalty kill had gone two whole games without conceding a goal, but that streak came to a shuddering halt very early on in this game. Olen Zellweger was overexcited to see his former team and took a holding penalty just 35 seconds in. Then Zach Benson joined him in the penalty box for a tripping call and then the Ducks took advantage scoring on both the 5-on-3 then the ensuing 5-on-4 to go up by two less than three minutes into the game. \n\n\n\nThat start would have rocked most goalies but fresh off his shutout in San Jose, Colten Ellis stayed on top of things even as his teammates remained in a stupor. He made close to half a dozen big saves including stopping a breakaway and a couple of odd-man rushes. How they were not down by four or five only Ellis knows and he’s not telling. \n\n\n\n\nEllis save on Carlsson #LetsGoBuffalo #FlyTogether pic.twitter.com/SkvinmbDSb&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nIt’s not like the Sabres were overwhelmed by the hosts nor was Ville Husso giving up Yaroslav Askarov vibes, but they finally got back into the game thanks to the energetic fourth line paired up with captain Rasmus Dahlin and Mattias Samuelsson. Tyson Kozak’s shot from the blue line beat Husso shielded by Beck Malenstyn and it was 2-1 at the midpoint of the period. \n\n\n\n\nTyson Kozak, 2-1 #LetsGoBuffalo #FlyTogether pic.twitter.com/yStbeWhAxC&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nIf you thought this would wake the Sabres up defensively, unfortunately it didn’t. Rookie Roger McQueen deflected a shot just past Ellis, it hit the backboards and before any of the Buffalo players could react McQueen had slammed the rebound past Ellis on the stick side, and the Ducks two-goal deficit was restored.\n\n\n\nNow, what are the Sabres really, really familiar with this season? If you said being behind by two then you win yourself a piece of your kids’ Halloween candy, go get one right now. If you picked anything with no chocolate in it we are not talking anymore. \n\n\n\nWho didn’t get that memo? Apparently Joel Quenneville and his Ducky-boys because a minute after they scored their third Tyson Hinds tripped Josh Doan and to the power play the League’s most ineffective man-advantage unit went. The Sabres most consistent forward this season so far showed up big with Noah Östlund in the right place at the right time after Benson’s shot from the slot was blocked to make it 3-2, Buffalo’s first road power play goal of the season. \n\n\n\n\nOstlund, 3-2 PPG #LetsGoBuffalo #FlyTogether pic.twitter.com/rukEGLLq1N&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nTage Thompson often threatens to take over games and he decided Anaheim were to be his shooting ducks tonight. Tommy Dangles took a feed from Benson at the blue line and drove towards the net, skirted a retreating Luneau and lifted the puck over Husso’s puck to make it 3-3 with over five minutes still left in the first stanza. \n\n\n\n\nTage with a beauty, 3-3 #LetsGoBuffalo #FlyTogether pic.twitter.com/VImG4x6HSQ&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nThe remaining few minutes were relatively uneventful as the two teams went into the break level, Ducks led 12-9 in shots with a 13-8 edge in scoring chances. \n\n\n\nSabres Doubly Redoubled\n\n\n\nBuffalo have been one of the worst teams in the league in the second periods of games, but they came out from the locker room likely having been reminded of that by Lindy Ruff. \n\n\n\nBack and forth the two teams continued trading chances like they had in the first period, but once again the Sabres had Ellis to thank for his concentration as he made two big saves sprawled out in the paint. The Sabres then amped the ante as they poured on the shots with Anaheim powerless to keep them out of their zone. \n\n\n\n\nEllis saves on Greer and Gauthier #LetsGoBuffalo #FlyTogether pic.twitter.com/IgEZWS6cFp&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nOn a two-on-one Jason Zucker found Ryan McLeod but he fluffed his chance, then Zucker was tripped into the boards and went down heavily with Buffalo going back to the power play, but were unable to take advantage. \n\n\n\n\nZucker got taken out by a sliding McLeod.  Down on the ice as it cut to a commercial break #LetsGoBuffalo #FlyTogether pic.twitter.com/cv168YPgwi&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nAnaheim had a few rare moments of second period control before Thompson decided to reprise his dominant self from the first period. Peyton Krebs won an offensive zone faceoff with the puck going straight back to the top of the circle where Tage waited on one knee and his wrister over the stick side beat Husso to give the Sabres their first lead of the night at the 18:36 elapsed mark. \n\n\n\n\nTage Thompson right off a draw, 4-3 #LetsGoBuffalo #FlyTogether pic.twitter.com/AKdZSlUmFP&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nStunned, the Ducks lost the ensuing faceoff in the center circle to Krebs, who found Rasmus Dahlin on the left, and his cross-ice pass went to a streaking Thompson who cut in from the right. Having humbled Luneau on his first goal, he proceeded to embarrass Hinds with his blinding speed, and then tucked the puck neatly through Husso’s five-hole barely fifteen seconds after his second goal to earn his tenth hattrick. That put the Sabres up by two and was his tenth tripletta for Buffalo, bringing him level with Danny Gare and Alexander Mogilny. Rick Martin remains well ahead with 21 and Gilbert Perreault in second with 18. \n\n\n\n\nTage Thompson HAT TRICK, 5-3 #LetsGoBuffalo #FlyTogether pic.twitter.com/RoCWxwoGof&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nWinged by Tage, the Ducks were relieved to go into the locker room without giving up more goals. The Sabres dominated the shot count 15-5, and 14-5 in scoring chances. \n\n\n\nBuffalo kissed thee ere Buffalo killed thee\n\n\n\nThe third period has been the Sabres’ best period by far with a +10 differential as they looked to become the first team in the league to reach four wins from multi-goal comebacks, while the Ducks have been awful in the last stanza with a -7 scoring record. \n\n\n\nEarly in the third the Sabres had two good scoring chances stopped by Husso before Dahlin was taken down, Sennecke with a lazy trip in the neutral zone for another Buffalo power play. Sabres got the bounces in San Jose, and that semeed to have carried to Anaheim, with Ostlund’s centering pass seeking Benson going off LaCombe’s skate and flying in past Husso, and just like that the Sabres had a second road power play goal after entering the game tonight with none so far, 6-3 the score. \n\n\n\n\nJack Quinn has a pass go off Lacombe and in, 6-3 PPG #LetsGoBuffalo #FlyTogether pic.twitter.com/mjI5bcMIrY&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\n“Benson can’t finish”, “Benson’s shot sucks”, “Benson this” and “Benson that”.  About five minutes after the Sabres had taken the three-goal lead, they made it six straight goals scored with Benson racing onto a banked pass off the boards by Zellweger on his homecoming to slot home over Husso’s blocker, 7-3.\n\n\n\n\nZach Benson breakaway goal, 7-3 #LetsGoBuffalo #FlyTogether pic.twitter.com/Maui2t9ymU&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nDennis Gilbert took an unnecessary interference penalty 6:49 in and the Sabres PK started strong with a Beck Malenstyn shooting chance on the kill, going 1-on-3. Ducks went straight back up the ice with Gauthier beating Ellis coming across to make it 7-4 with over half the period still to play. \n\n\n\nIf the Sabres were ruffled they didn’t show it as they managed the clock without giving the Ducks too much life even as the crowd tried to pump their boys. Coach Q then pulled the goalie with 6:15 left and a three-goal deficit to make up for and the Ducks selling out to try to draw level. \n\n\n\nPower and Quinn both had long range shots go wide of the empty net for icing while Ellis continued to keep Anaheim at bay. Two and a half minutes into the 6-on-5 Kozak had a chance to score the empty-netter but his stick got tied up at the critical moment. \n\n\n\nFive minutes into the empty net situation and the Sabres had been happy to keep the Ducks at bay rather than trying to score another, but then with just over a minute left in the game, Luneau got a lucky bounce off a skate to make it 7-5 and the Ducks were attempting to mount a comeback. \n\n\n\nThe Sabres then made a hash of clearing their zone with Anaheim buzzing and with thirty seconds left in the game Ellis’ clearance in front of him fell straight to Sennecke who gratefully made it 7-6, oh boy. \n\n\n\n\nCOLTEN ELLIS WITH NO GLOVE SAVES THE SABRES ASSES FROM ONE OF THE WORST FALL APARTS EVER pic.twitter.com/3cfBaHRHII&mdash; Crossing Swords ⚔️ (@CrossSwordsPod) October 30, 2026\n\n\n\n\nEllis then had to sell out to make a crazy couple of kick saves as his catching glove went flying and the Sabres got an icing call to their benefit to end the game 7-6 with the Sabres having blown a four-goal lead in their favorite period, the third. The Ducks ended the period 16-6 on shots and 15-5 on scoring chances.  \n\n\n\nAt The Horn\n\n\n\nThis was an opposite game in many respects with the Sabres playing great in the second period but then mailing it in in the third where they have been so good. Colten Ellis was incredible at times in this game, both keeping the Ducks out in the first when they led two-nothing, and then at the end when they poured it on 6-on-5.  \n\n\n\nRiver hockey was at its finest tonight and the Sabres might get away with playing this style with Ellis in goal and possibly even Alex Lyon, but they certainly cannot give up this high a volume of shots with Ukko-Pekka Luukkonen between the pipes. Ruff will not be pleased with how this one ended, but a win is a win and the Sabres now have two regulation wins out of two on this West Coast swing so far. \n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-10-29: pic.twitter.com/NZj7gEOkOI&mdash; HockeyStatCards (@hockeystatcards) October 30, 2026",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-30T04:57:30.000Z",
+      "link": "https://www.diebytheblade.com/sabres-ride-thompson-hat-trick-to-beat-ducks-in-see-saw-game/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267126-big-reason-why-that-1-seed-counts-so-much-this-year/",
       "team": "bills",
       "title": "Big reason why that 1 seed counts so much this year",
@@ -533,37 +599,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/267122-so-this-is-what-winning-feels-like/"
     },
     {
-      "id": "espn-bills::50322590",
-      "team": "bills",
-      "title": "Ed Oliver fully participates in Thursday's practice",
-      "summary": "Nick Suss on Ed Oliver's full participation in Thursday's practice and potential return vs. the Ravens.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T22:32:46Z",
-      "link": "https://www.espn.com/video/clip/_/id/50322590/ed-oliver-fully-participates-thursday-practice"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/143943/bills-injury-report-ed-oliver-returns-dee-alford-sits",
-      "team": "bills",
-      "title": "Bills injury report: Ed Oliver returns, Dee Alford sits",
-      "summary": "",
-      "source": "Buffalo Rumblings",
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-13-preview-open-thread-sabres-at-ducks/",
+      "team": "sabres",
+      "title": "Game #13 Preview & Open Thread: Sabres at Ducks",
+      "summary": "Buffalo looks to stay hot out west\n\n\n\nBuffalo Sabres (5-4-3) at Anaheim Ducks (5-6-1)\n\n\n\nPuck Drop: 10 p.m. ET | Honda Center, Anaheim, Calif.\n\n\n\nTV: ESPN+, Disney+, HuluNOTE: This is an ESPN+ exclusive national game and will not be broadcast on MSG-B.\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nAnaheim Ducks\n\n\n\nRecord: 5-6-1 | 11 PTS\n\n\n\nLast Game: 6-5 OT loss vs Vancouver\n\n\n\nDivision Ranking: 5th\n\n\n\nPP: 9th, 23.7% [Sabres: 32nd, 9.8%]\n\n\n\nPK: 19th, 77.6% [Sabres: 25th, 71.4%]\n\n\n\nSeason Series: Sabres 1-0-1 vs. Ducks in 2025-26 season\n\n\n\nWhat to Watch\n\n\n\n1. Can the new third line stay hot?\n\n\n\nThe Sabres have been desperately searching for better offensive balance among their forward lines, and it resulted in a shakeup that broke up the reliable Benson-Ostlund-Quinn trio for Tuesday’s win over San Jose.\n\n\n\nWith new combos galore, the line of Jason Zucker, Josh Norris and Ryan McLeod was by far the most dominant versus the Sharks — likely to the surprise of many Sabres fans.\n\n\n\nThe Zucker-Norris-McLeod line out-chanced the Sharks 13-4 and finished with an 83.3 xGF% at five-on-five. If Buffalo can get that consistent level of production from their middle six every night, it would go a long way.\n\n\n\n2. Zellweger revenge game\n\n\n\nOlen Zellweger will face his former team for the first time on Thursday, and with the form he’s in, the 23-year-old might have the Ducks second guessing their decision to trade him.\n\n\n\nZellweger leads Sabres defensemen this season in xGF% at 57.7% and tallied the eventual game-winning goal against San Jose, his third of the season to go with two assists. His pairing alongside Owen Power has been one of the strongest not just on the Sabres, but in the NHL.\n\n\n\nThere isn’t a more fitting opponent than the Ducks for Zellweger to continue his strong start to the season against.\n\n\n\n3. Lame Ducks\n\n\n\nIt’s been a tough go as of late for Anaheim.\n\n\n\nThe Ducks have lost six of their last seven games, and allowed at least four goals in five of those losses. Arguably the worst of those was their last game against lowly Vancouver, in which Anaheim blew a 5-2 third period lead to lose in overtime, 6-5.\n\n\n\nIn that same seven-game span, they have a 41.8 xGF% at five-on-five play, while the team’s goaltenders, Lukas Dostal and Ville Husso, have combined for a .862 save percentage.\n\n\n\nIf the Sabres can play a five-on-five game similar to what they did against San Jose, they should be in great position to make it two wins in two on their California trip.\n\n\n\n4. Ellis in net again\n\n\n\nLindy Ruff is riding the hot hand in net, as Colten Ellis is set to get his second start in a row on Thursday.\n\n\n\nEllis was stellar in Tuesday’s win over San Jose, stopping all 23 shots he faced to go with 2.73 goals saved above expected, according to HockeyStats.com. It was an even more impressive game considering it was his first action in 15 days.\n\n\n\nWith the Sabres’ goaltending situation facing plenty of question marks at the moment, this start feels like a fantastic opportunity for Ellis to secure some more looks in the near future, and potentially, a longer-term starting role.\n\n\n\nInjury Notes\n\n\n\nThe Sabres suffered a tough blow when it was announced Thursday that forward Konsta Helenius suffered an upper-body injury against San Jose and returned to Buffalo for further evaluation. Buffalo will also be without forward Jiri Kulich, who remains in concussion protocol. Sam Carrick will slot into the lineup as he returns from a middle-body injury.\n\n\n\nAnaheim placed defenseman Pavel Mintyukov on injured reserve last week with a lower-body injury, and he will not play against Buffalo. The Ducks continue to be without forwards Troy Terry (hip) and Ryan Poehling (knee), as well.\n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nPeyton Krebs – Tage Thompson – Zach BensonJosh Doan – Noah Ostlund – Jack QuinnRyan McLeod – Josh Norris – Jason ZuckerTyson Kozak – Sam Carrick – Beck Malenstyn\n\n\n\nDefense\n\n\n\nRasmus Dahlin – Mattias SamuelssonOwen Power – Olen ZellwegerLouis Crevier – Dennis Gilbert\n\n\n\nGoaltenders\n\n\n\nColten Ellis (confirmed starter), Ukko-Pekka Luukkonen\n\n\n\nAnaheim Ducks\n\n\n\nForwards\n\n\n\nCutter Gauthier – Leo Carlsson – Judd CaulfieldJeff Malott – Mikael Granlund – Beckett SenneckeNikita Nesterenko – Roger McQueen – Alex KillornAJ Greer – Tim Washe – Sam Colangelo\n\n\n\nDefense\n\n\n\nJackson Lacombe – Noah WarrenTyson Hinds – Tristan LuneauTravis Mitchell – Drew Helleson\n\n\n\nGoaltenders\n\n\n\nLukas Dostal (projected starter, Ducks did not hold morning skate), Ville Husso",
+      "source": "Die By The Blade",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-29T21:29:31.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/143943/bills-injury-report-ed-oliver-returns-dee-alford-sits"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/143888/just-one-before-i-die-the-stories-the-fans-and-the-making-of-a-bills-mafia-docuseries",
-      "team": "bills",
-      "title": "Just One Before I Die: The Stories, the Fans and the Making of a Bills Mafia Docuseries",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T21:26:07.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/143888/just-one-before-i-die-the-stories-the-fans-and-the-making-of-a-bills-mafia-docuseries"
+      "publishedAt": "2026-10-29T22:22:42.000Z",
+      "link": "https://www.diebytheblade.com/game-13-preview-open-thread-sabres-at-ducks/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143920/ravens-star-rookie-guard-might-play-vs-buffalo-bills-after-all",
@@ -588,17 +632,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/143915/nfl-trade-deadline-buffalo-bills-trade-candidate-zack-baun"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/143703/bills-news-the-latest-news-out-of-one-bills-drive",
-      "team": "bills",
-      "title": "Bills news: The latest news out of One Bills Drive",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T15:42:11.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/143703/bills-news-the-latest-news-out-of-one-bills-drive"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267118-our-d-last-year-in-the-jags-playoff-game/",
       "team": "bills",
       "title": "Our D last year in the Jags playoff game",
@@ -608,28 +641,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-29T15:29:01.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267118-our-d-last-year-in-the-jags-playoff-game/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/143786/buffalo-bills-rooting-interests-week-8-the-afcs-top-seed-is-in-play",
-      "team": "bills",
-      "title": "Buffalo Bills rooting interests Week 8: The AFC’s top seed is in play",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T15:09:19.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/143786/buffalo-bills-rooting-interests-week-8-the-afcs-top-seed-is-in-play"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267116-simmons-to-bears/",
-      "team": "bills",
-      "title": "Simmons to Bears",
-      "summary": "Titans get 2 first & a 4 is what is being reported",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-29T14:32:33.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267116-simmons-to-bears/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/noah-kahan-concert-world-tour-announcement-buffalo-highmark-stadium-june-2027",
@@ -663,6 +674,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-29T10:04:10Z",
       "link": "https://www.espn.com/nhl/story/_/id/50309369/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/torrid-start-for-rochester-amerks-could-help-williamsvilles-trevor-kuntar-earn-another-recall-to-sabres/",
+      "team": "sabres",
+      "title": "Torrid start for Rochester Amerks could help Williamsville’s Trevor Kuntar earn another recall to Sabres",
+      "summary": "ROCHESTER – For one night, Trevor Kuntar struggled. Forget that the ultra-competitive Americans winger recorded a couple of points. He lost battles and looked off his game.\nNormally, the Williamsville native is the guy dragging his teammates into the fray alongside him.\nSo following last Wednesday’s 5-3 home loss to the Utica Comets, coach Mike Leone told Kuntar he needed to raise his standard.\n\n“We have a great relationship, and I really challenged him,” Leone ... Read the full article \nThe post Torrid start for Rochester Amerks could help Williamsville’s Trevor Kuntar earn another recall to Sabres first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T05:54:29.000Z",
+      "link": "https://www.buffalohockeybeat.com/torrid-start-for-rochester-amerks-could-help-williamsvilles-trevor-kuntar-earn-another-recall-to-sabres/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/injury-will-force-sabres-rookie-konsta-helenius-to-miss-rest-of-road-trip/",
+      "team": "sabres",
+      "title": "Injury will force Sabres rookie Konsta Helenius to miss rest of road trip",
+      "summary": "Rookie forward Konsta Helenius will return to Buffalo to be evaluated for an upper-body injury and will miss the rest of the Sabres’ road trip, coach Lindy Ruff told reporters prior to tonight’s game against the Anaheim Ducks.\nHelenius, 20, was injured when he absorbed an open-ice hit from Jacob Trouba in the second period of Tuesday’s 2-0 win over the San Jose Sharks.\nForward Sam Carrick, who has missed four games with a mid-body ... Read the full article \nThe post Injury will force Sabres rookie Konsta Helenius to miss rest of road trip first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T05:06:48.000Z",
+      "link": "https://www.buffalohockeybeat.com/injury-will-force-sabres-rookie-konsta-helenius-to-miss-rest-of-road-trip/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/athletes-in-focus/46867/ssfc-spotlight-zane-okoro-seeking-consistency-in-league-two",
@@ -720,17 +753,6 @@
       "link": "https://www.starsandstripesfc.com/social-video-twitter/46893/usa-soccercast-episode-202-welcome-to-miami-byenveni-nan-miami"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267106-chiefs-sign-justin-tucker/",
-      "team": "bills",
-      "title": "Chiefs sign Justin Tucker",
-      "summary": "https://nypost.com/2026/10/28/sports/justin-tucker-signs-with-chiefs-after-sexual-misconduct-accusations/",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-28T15:07:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267106-chiefs-sign-justin-tucker/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/latest-news/46889/christian-pulisic-reportedly-signing-new-contract-with-ac-milan",
       "team": "usmnt",
       "title": "Christian Pulisic reportedly signing new contract with AC Milan",
@@ -764,6 +786,17 @@
       "link": "https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-8-vs-ravens"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267103-the-jets-future-is-potentially-scary/",
+      "team": "bills",
+      "title": "The Jets Future is Potentially Scary",
+      "summary": "I was going to put this in the Colts thread or the Garrett Wilson thread but figured it warranted it’s own discussion. \n\t \n\n\n\n\thttps://www.instagram.com/reel/DfAxmxmNALy/?psln=YngyNTE3OHdzdTc2\n\n\n\n\t \n\n\n\n\tThe Colts tearing it down leaves the Jets in a crazy position. There’s a world where the Jets have 2 of the top 3 picks. They likely have 2 in the top 5. They almost certainly have 2 of the top 10. They then have the Dallas pick which looks like it’s going to be in the middle of round 1.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T11:25:10.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267103-the-jets-future-is-potentially-scary/"
+    },
+    {
       "id": "espn-sabres::50305756",
       "team": "sabres",
       "title": "Blue Jackets visit the Hurricanes after Johnson's 2-goal performance",
@@ -775,6 +808,17 @@
       "link": "http://www.espn.com/nhl/preview?gameId=401892603"
     },
     {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/colten-chaos-dazzles-as-sabres-blank-sharks-2-0/",
+      "team": "sabres",
+      "title": "Colten Chaos Dazzles as Sabres blank Sharks, 2-0",
+      "summary": "Score: Buffalo Sabres 2, San Jose Sharks 0\n\n\n\nShots: Buffalo 40 – 23 San Jose \n\n\n\nBuffalo Sabres Goals: Zellweger (3) (Helenius, Power); Benson (1) (Thompson, Power)\n\n\n\nSan Jose Sharks Goals: N/A\n\n\n\nSummary\n\n\n\nIn spite of a lofty shot total and a bevy of scoring chances, the Buffalo Sabres blanked the San Jose Sharks by a score of 2-0 on Tuesday night. Colten Ellis was the story of the game, stopping 24 shots for his second career shutout and the team’s first of the season. Olen Zellweger gave the Sabres the 1-0 lead early in the second, and Zach Benson gave them the insurance marker with an empty netter in the final minute of the game.\n\n\n\nHigh Octane First\n\n\n\nThe game got off to a sloppy, low pace start as the game saw a few stoppages early on, including Louis Crevier flipping the puck over the glass to give the Sharks a power play just 1:30 into the period. The Sharks, however, would give that penalty right back as Josh Norris found himself on a breakaway, drawing a slashing penalty to go back to 4-4 hockey. \n\n\n\n\nJOSH NORRIS?!?!?!?! pic.twitter.com/0s5mxJeYSG&mdash; Crossing Swords ⚔️ (@CrossSwordsPod) October 28, 2026\n\n\n\n\nMacklin Celebrini made his presence felt early, generating high quality chances that the Sharks were unable to convert, including picking Rasmus Dahlin’s pocket a couple times. Celebrini got the best of the Sabres’ captain a couple times early, though nothing found its way past Colten Ellis. \n\n\n\n\nRasmus????? pic.twitter.com/lqiPrYrMqL&mdash; Crossing Swords ⚔️ (@CrossSwordsPod) October 28, 2026\n\n\n\n\nThen the Sabres got cooking a bit, thanks to the line of Norris, Ryan McLeod, and Jason Zucker. That group got several nice opportunities on Yaraslov Askarov, including Zucker trying to bank it in off the Sharks’ goalie. The defensemen for the Sabres got involved as well, as Dahlin and Mattias Samuelsson found themselves on a 2-1, with Dahlin feeding a pass to Samuelsson that was shot just wide.\n\n\n\nThose two continued to create chances, as Dahlin dangled around old friend Michael Kesselring, bringing the puck to the wall and finding Samuelsson in the slot, generating yet another quality chance that Askarov had to stop. \n\n\n\n\nDahlin used the booty to throw a reverse check on Gaudette #LetsGoBuffalo #SJSharks pic.twitter.com/TcCd2Bj5XY&mdash; Buffalo Hockey Moments (@SabresPlays) October 28, 2026\n\n\n\n\nThe Sabres continued to dictate pace, getting many good looks but were unable to finish, which is a growing trend for the team this season. The Sharks would get another look on the power play, however, as Crevier found himself in the box again, this time on a questionable call fighting for position by the net. The Sharks were able to get several good looks on the man advantage, highlighted by Ellis having to make a huge blocker save on a shot wide open in the slot to keep the game scoreless in the waning minutes of the first period. \n\n\n\nThe revamped lines for the Sabres were all firing in the first, as with a few minutes left, Konsta Helenius and Tage Thompson combined for an excellent chance, as Dahlin and Helenius played pitch and catch at the blue line, leading to Helenius taking the puck behind the net finding a wide open Thompson between the circles. Askarov made the save and dove for the rebound, but every Sabres line generated something strong in the first period. The lines have been one of the biggest stories 11 games into the season, as they have changed in effectively every game so far this season, but this first period probably featured the best hockey the forward group has collectively played all season. \n\n\n\n\nEllis save on Gaudette #LetsGoBuffalo #SJSharks pic.twitter.com/avTLfrMN9t&mdash; Buffalo Hockey Moments (@SabresPlays) October 28, 2026\n\n\n\n\nThe Sharks wouldn’t stay quiet for long though, as we got a classic “Colten Chaos” sequence with the Sabres goaltender making several high leverage saves as the Celebrini line got to work again in the Sabres zone. The Sabres withstood another late flurry, with Celebrini getting another golden opportunity that Ellis was able to stop, this time from the left circle.\n\n\n\n\nÖstlund stops this one from going in pic.twitter.com/1ReGQVSRpX&mdash; Crossing Swords ⚔️ (@CrossSwordsPod) October 28, 2026\n\n\n\n\nThe period ended 0-0, but not for lack of trying. The Sabres outshot the Sharks 16-12, and 28 combined shots is the most in an NHL period this season to result in no goals. The Sabres held an xG edge of 1.39-1.26 after the first period. \n\n\n\nSecond Period Chaos\n\n\n\nThe Sabres translated that high energy first period into early success in the second. Just 50 seconds into the period, Helenius found Olen Zellweger on an odd man rush, and Zellweger ripped a shot through Askarov to give the Sabres a 1-0 lead. It was Zellweger’s third goal of the season, and a nice impression for Helenius getting to play between Thompson and Zach Benson. Owen Power picked up the second assist, as he started the breakout from the defensive zone. \n\n\n\n\nOlen Zellweger, 1-0 #LetsGoBuffalo #SJSharks pic.twitter.com/AGPuKBa6CD&mdash; Buffalo Hockey Moments (@SabresPlays) October 28, 2026\n\n\n\n\nIf not for Askarov, however, the Sabres would have found themselves a couple goals up. The Sharks were struggling to generate much of anything for the first half of the second period, while the Sabres remained all over. McLeod found Zucker for a shot in the slot that Askarov kept out, while the rebound bounced out to Crevier, who was robbed by a scrambling Askarov to keep it 1-0 with 13 minutes left in the second. \n\n\n\nThe Sharks did finally generate a sequence of glorious chances, once again kept out on a Colten Chaos sequence. A shot made its way past Ellis off the stick of Michael Misa, but it hit old friend Michael Kesselring in the shin and deflected wide, leading to a full on scramble drill where Ellis was able to find the puck and cover it. \n\n\n\n\nChaos around the Sabres net! #LetsGoBuffalo #SJSharks pic.twitter.com/Fb8Th9RPrh&mdash; Buffalo Hockey Moments (@SabresPlays) October 28, 2026\n\n\n\n\nEllis made another tremendous save mere moments later, robbing a cross ice pass from Celebrini to Colin Graf with the left pad to keep it 1-0. Helenius also blocked a shot off the rebound, once again providing Ellis some help to maintain the lead. \n\n\n\n\nEllis save on Graf 👀#LetsGoBuffalo #SJSharks pic.twitter.com/maaYG4ptVZ&mdash; Buffalo Hockey Moments (@SabresPlays) October 28, 2026\n\n\n\n\nWith eight minutes left, the Sabres found themselves with their first real power play opportunity on the night as Dahlin took a high stick. Zach Benson still remains one of the most snake bitten players in the league, as on that power play, he had a redirection off a Dahlin shot stopped, then had a glorious chance right in front of the net that did not find its way in. The Sabres, though unable to convert, did put up a pretty good showing on the man advantage, though we are wearing thin on power play moral victories.\n\n\n\nThe Sabres continued to dominate possession and shot attempts for effectively the rest of the period, but the Sharks did find themselves with a late power play, as Benson went to the box for holding with 21 seconds remaining in the second period. The Sharks held possession for that full 21 seconds, but thanks to a huge shot block by Josh Norris, were unable to get anything on Ellis. The Sabres actually were able to hold a lead heading into the third period, by that same score of 1-0. They held an edge in shots on goal 30-17, and held the xG edge, 2.41-2.09. \n\n\n\n\nWHAT A WAY TO LAY OUT THE BODIES TO KEEP IT SCORELESS THROUGH TWO pic.twitter.com/LM4blerioM&mdash; Crossing Swords ⚔️ (@CrossSwordsPod) October 28, 2026\n\n\n\n\nStout Third Period\n\n\n\nThe Sharks did start the third period with a pretty lengthy power play opportunity after the penalty late in the second period, though the Sabres penalty kill was once again stout, not allowing the Sharks to get too much with the man advantage. \n\n\n\nWith 17:11 remaining in the game, the Sabres would get another power play opportunity of their own, as Thompson came soaring up the wing, too quickly for Adam Gaudette to handle cleanly, being forced to hold him to prevent a greater chance. While the firs extended power play for the Sabres featured several chances, the second one was more of the same old Sabres, being largely ineffective and unable to set up. \n\n\n\n\nThe beautiful game (and ugly Sabres power play) pic.twitter.com/TwCwVOeMjZ&mdash; Crossing Swords ⚔️ (@CrossSwordsPod) October 28, 2026\n\n\n\n\nImmediately after the man advantage expired for the Sabres, the Sharks once again found themselves with a flurry of glroius scoring chances but once again Ellis was somehow able to keep them all out of the net, even losing his stick on this sequence. \n\n\n\nThe Sharks made repeated pushes to try and break through, but the Sabres defense held pretty firm, not allowing much in the way of Ellis in the middle part of the period, and what did get to Ellis was knocked down. The line of Zucker-Norris-McLeod combined for their best chance of the third period, requiring an excellent pad save by Askarov to make a save on Zucker on a cross-ice feed from Norris. \n\n\n\nEllis was tested again with four minutes left, as a shot from Kesselring took a bad bounce off the glass and popped right back out in front to Kiefer Sherwood, who was all alone in front of Ellis, but he whiffed on the shot and stuck it right into Ellis, holding the score at 1-0 still in the dying minutes. \n\n\n\n\nEllis save on Sherwood #LetsGoBuffalo #SJSharks pic.twitter.com/GjrpNOrdZL&mdash; Buffalo Hockey Moments (@SabresPlays) October 28, 2026\n\n\n\n\nAskarov was then tasked with keeping the deficit at one, and he once again delivered, denying Noah Ostlund on a cross ice one timer with just 2:30 left in the game. \n\n\n\nThe Sabres fended off an empty net push from the Sharks, keeping everything outside, until Tage Thompson flipped a puck out to center ice where Zach Benson went to work. He took Ivar Stenburg to the wall, turned him around, outmuscled him to the puck and got it to open in front, and with a heroic lunge, poked it into the empty net for his first goal of the season, securing a win for the Sabres. This was the team’s 40th shot of the contest. \n\n\n\n\nStenberg wasn't prepared for Zach Benson. 2-0 ENG #LetsGoBuffalo #SJSharks pic.twitter.com/QFYsOAGGF4&mdash; Buffalo Hockey Moments (@SabresPlays) October 28, 2026\n\n\n\n\nEllis secured the Sabres’ first shutout of the season, stopping all 24 Sharks shots, including some highlight reel saves. This was the second career shutout for Ellis. \n\n\n\nWrap Up\n\n\n\nThe Sabres had an interesting reversal of a trend that has plagued them all season, as three of the four forward lines were quite impactful, while the Doan-Ostlund-Quinn line was the one that wasn’t quite holding up their end of the bargain. It is probably not a coincidence that line struggled without Benson, and Thompson and Helenius were really good with Benson.\n\n\n\nThere will defintely be a question of what to do in net for the Sabres, as you have to imagine Ellis gets the next start. He was tremendous for the Sabres on Tuesday night (Wednesday morning?), giving the team by far the best performance they’ve had in net this season. \n\n\n\nMuch has been made of Ryan McLeod’s struggles to start the season, and while he did not record a point in this game, his performance took a huge leap playing next to Jason Zucker, who have made an excellent duo for their entire tenure in blue and gold. Those two, along with Norris, were the Sabres three leaders in xG% in the victory against the Sharks. \n\n\n\nIn only their third opportunity of the season to hold a lead in the third period, the Sabres did an excellent job. The Sharks had just seven shots in the third period, and mustered 0.7 xG in the period despite trailing the entire time. The team simply kept their foot on the gas and were rewarded for their efforts. \n\n\n\nWhat’s Next\n\n\n\nThe Sabres remain on the west coast, as they will take on the Anaheim Ducks on Thursday night at 10 p.m. \n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-10-27: pic.twitter.com/DTzLZIJ7IL&mdash; HockeyStatCards (@hockeystatcards) October 28, 2026",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T05:49:04.000Z",
+      "link": "https://www.diebytheblade.com/colten-chaos-dazzles-as-sabres-blank-sharks-2-0/"
+    },
+    {
       "id": "espn-sabres::50303894",
       "team": "sabres",
       "title": "Boston Bruins vs. Carolina Hurricanes: Game Highlights",
@@ -784,6 +828,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-28T03:29:30Z",
       "link": "https://www.espn.com/video/clip/_/id/50303894/game-highlights"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-12-preview-open-thread-sabres-at-sharks/",
+      "team": "sabres",
+      "title": "Game #12 Preview & Open Thread: Sabres at Sharks",
+      "summary": "Buffalo begins its California swing, looking to turn overtime points into wins\n\n\n\nBuffalo Sabres (4-4-3) at San Jose Sharks (6-5-1)\n\n\n\nPuck Drop: 10:30 p.m. ET | SAP Center, San Jose, CATV: ESPN | Streaming: ESPN+Radio: WGR 550 / Buffalo Sabres App\n\n\n\nThe Buffalo Sabres have become very good at getting games to overtime. Now they need to start winning more of them. Buffalo begins the California portion of its four-game road trip tonight against the San Jose Sharks. Four of Buffalo’s last five games have gone to overtime, and four of the Sabers’ five road games this season have gone beyond regulation. They enter tonight 4-4-3 overall and 1-1-3 on the road. The Sabres have shown they can respond. Now they have to show they can control a game before they put themselves in a position where a comeback is necessary.\n\n\n\nKnow Your Opponent\n\n\n\nSan Jose Sharks\n\n\n\nRecord: 6-5-1 | 13 PTSLast Game: 6-4 loss at BostonDivision Ranking: 4th, PacificPower Play: 26.8%Penalty Kill: 80.5%Season Series: First meeting\n\n\n\nSan Jose has quietly become one of the more interesting young teams in the Western Conference. The Sharks return home after a 3-2-1 road trip. Their final game was a 6-4 loss in Boston, where San Jose carried a 3-2 lead into the third period before the Bruins scored four times. That result also showed the two different sides of the Sharks. They can score. They can also give up a lot. San Jose has scored around three goals per game, but it has already allowed 43 goals through 12 games. The Sharks have surrendered 139 high-danger scoring chances and have blown two-goal leads four different times this season. Plenty of talent here, though, and almost all of the conversation starts with one player.\n\n\n\nMacklin Celebrini.\n\n\n\nThe 20-year-old captain enters tonight with five goals and 15 points, averaging 22:42 of ice time per game. That workload is among the highest in the NHL for any forward. This isn’t the rebuilding Sharks team Buffalo was accustomed to seeing a few years ago. They are young, fast, and dangerous.\n\n\n\nWhat to Watch\n\n\n\n1. Can Buffalo Play Its Third Period Game for 60 Minutes?\n\n\n\nJosh Doan probably summed up Buffalo’s season better than anyone after Saturday’s loss. The Sabres have repeatedly found another level when games reach the third period. The problem is what happens before then. Buffalo has spent too much of the season chasing games or trying to repair damage from bad stretches. Saturday was slightly different: the Sabres actually built a 2-0 lead, only to watch Washington score three times in the second period. Buffalo then turned up the pressure in the third and eventually forced overtime. The ability to come back is encouraging. Constantly needing to do it isn’t. San Jose is exactly the kind of opponent Buffalo should attack early. The Sharks surrender chances and have struggled to protect leads. If the Sabres can establish their forecheck, force turnovers, and get traffic around the net, there should be opportunities. But giving Celebrini and the Sharks confidence early is asking for trouble. Buffalo needs to make its best hockey the standard, not the emergency response.\n\n\n\n2. Dealing With Macklin Celebrini\n\n\n\nNo. 71 may be the most important assignment tonight. Celebrini leads San Jose in goals and points and has quickly become the engine of the Sharks’ offense. He is also dangerous in just about every way possible. Celebrini can carry the puck through the neutral zone. He can create off the rush. He can distribute. He can finish. And San Jose isn’t afraid to leave him on the ice. He enters tonight with 15 points in 12 games, and NHL.com notes he could become the first Sharks player since 2013-14 to start a season with points in each of his first five home games. The matchup puts even more responsibility on Buffalo’s top defensive pair of Rasmus Dahlin and Mattias Samuelsson. But this can’t just be about those two. Buffalo’s forwards need to make Celebrini defend. Don’t turn pucks over through the middle. Don’t allow San Jose to attack with numbers. And definitely don’t give one of the NHL’s more dangerous young stars repeated power-play opportunities. Make him spend some time playing without the puck.\n\n\n\n3. The Special Teams Gap Is Getting Hard to Ignore\n\n\n\nThis might be the biggest statistical mismatch tonight. San Jose’s power play has converted on roughly 27 percent of its opportunities. Buffalo’s power play is sitting at just over 10 percent. That is a substantial difference. The Sabres have enough offensive talent for the power play to be better than this. Tage Thompson, Jack Quinn, Zach Benson, Noah Östlund and Rasmus Dahlin give Buffalo a unit with shooting ability, puck movement and creativity. At some point, the results have to catch up. The problem isn’t limited to the power play, either. Buffalo’s penalty kill has also struggled early in the season, while San Jose has already shown that its special teams can change games. The Sharks scored twice on the power play and once shorthanded in Saturday’s loss to Boston. San Jose also leads the NHL with four shorthanded goals. That should get Buffalo’s attention. This is not the night for careless offensive-zone penalties or lazy passes at the blue line. A relatively even 5-on-5 game could quickly tilt toward San Jose if Buffalo keeps losing the special-teams battle.\n\n\n\n4. Jack Quinn Is Starting to Look Dangerous\n\n\n\nWhile parts of Buffalo’s offense have struggled to find consistency, Jack Quinn is heating up. Quinn enters tonight on a four-game point streak, with three goals and four assists in that stretch. And he likes playing San Jose. Quinn has nine points in eight career games against the Sharks, including his first NHL hat trick and a four-point performance against San Jose last March. Lindy Ruff has Quinn skating with Noah Östlund and Josh Doan tonight. That line could be important. Östlund provides the playmaking. Doan brings a direct, hard-working presence. Quinn adds a shooter who can turn one clean opportunity into a goal. With Buffalo searching for more consistent offense, Quinn becoming a legitimate scoring threat every night would go a long way.\n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nZach Benson – Tage Thompson – Konsta HeleniusJosh Doan – Noah Östlund – Jack QuinnRyan McLeod – Josh Norris – Jason ZuckerPeyton Krebs – Tyson Kozak – Beck Malenstyn\n\n\n\nDefense\n\n\n\nRasmus Dahlin – Mattias SamuelssonOlen Zellweger – Owen PowerZach Metsa – Louis Crevier\n\n\n\nGoaltenders\n\n\n\nColten Ellis (confirmed starter)Ukko-Pekka Luukkonen\n\n\n\nScratched: Dennis Gilbert\n\n\n\nInjured: Jiri Kulich, Justin Danforth, Sam Carrick, Matt Grzelcyk, Alex Lyon, Conor Timmins.\n\n\n\nSan Jose Sharks\n\n\n\nForwards\n\n\n\nIvar Stenberg – Macklin Celebrini – Collin GrafMason Marchment – Michael Misa – Will SmithKiefer Sherwood – Ty Dellandrea – Tyler ToffoliBarclay Goodrow – Zack Ostapchuk – Adam Gaudette\n\n\n\nDefense\n\n\n\nDarnell Nurse – Jacob TroubaSam Dickinson – Michael KesselringDmitry Orlov – Luca Cagnoni\n\n\n\nGoaltenders\n\n\n\nYaroslav Askarov (confirmed starter)Alex Nedeljkovic\n\n\n\nScratched: Nolan Allan\n\n\n\nInjured: Alexander Wennberg, Igor Chernyshov\n\n\n\nLuca Cagnoni is expected to return to San Jose’s lineup after sitting out the previous three games.\n\n\n\nOne More Thing: Overtime, Anyone?\n\n\n\nMaybe don’t make early plans for the end of this one. Buffalo has gone beyond regulation in four of its last five games. Four of its five road games have gone to overtime. San Jose isn’t much different. Five of the Sharks’ six victories have come in overtime or a shootout, and they are 5-1 in games that have gone beyond regulation. So if this game is tied late in the third period, nobody should be particularly surprised. Buffalo would probably prefer not to find out. A West Coast start time could end in the early hours on the East Coast.\n\n\n\nFinal Thoughts\n\n\n\nThis is a sneaky important game for the Sabres. Not because Game 12 is a must-win, but because Buffalo needs to turn stretches of good hockey into actual wins. A 4-4-3 record isn’t disastrous. Eleven points through 11 games keeps Buffalo within striking distance. But constantly digging out of holes, struggling on special teams, and settling for overtime points isn’t a formula the Sabres want to rely on for six months. Every team in the Atlantic Division is at a 0.500 record or better, and the Sabres do not want to fall behind.\n\n\n\nSan Jose presents an interesting test. The Sharks have more talent than in years. Celebrini can take over a game. Their power play is dangerous. Their young forwards can skate. They also give up chances, have struggled to hold leads, and are coming off a game in which they surrendered four third-period goals. Buffalo has won seven of its last eight meetings with San Jose, outscoring the Sharks 35-18, and has won four straight games at SAP Center. There is an opportunity here. Get the Thompson line going. Let Quinn continue his hot streak. Stay out of the box. Make Celebrini work for everything. And maybe, for once, don’t wait until the third period to play your best hockey.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-27T22:53:31.000Z",
+      "link": "https://www.diebytheblade.com/game-12-preview-open-thread-sabres-at-sharks/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267102-garrett-wilson-is-it-time-to-make-a-push/",
@@ -808,6 +863,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/267095-fire-sale-in-indy-nelson-traded-update-buckner-gone-update-downs-wants-out/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/yes-goalie-ukko-pekka-luukkonen-can-be-a-lot-better-but-dont-blame-all-of-the-sabres-problems-on-him/",
+      "team": "sabres",
+      "title": "Yes, goalie Ukko-Pekka Luukkonen can be a lot better, but don’t blame all of the Sabres’ problems on him",
+      "summary": "Goalie Ukko-Pekka Luukkonen will likely earn a breather this week and take a backseat to Colten Ellis for one of the Buffalo Sabres’ three games in California.\nCoach Lindy Ruff hinted at it last week, saying once Luukkonen, who has started five straight games and played in the last six contests, reaches a certain threshold, someone else must take his turn.\nThe Finn, 27, has morphed into the Sabres’ workhorse, playing nine of their first ... Read the full article \nThe post Yes, goalie Ukko-Pekka Luukkonen can be a lot better, but don’t blame all of the Sabres’ problems on him first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-27T05:55:32.000Z",
+      "link": "https://www.buffalohockeybeat.com/yes-goalie-ukko-pekka-luukkonen-can-be-a-lot-better-but-dont-blame-all-of-the-sabres-problems-on-him/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/",
       "team": "bills",
       "title": "Trade Deadline Move (s)",
@@ -817,6 +883,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-26T18:30:44.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-26/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Open Thread, Wk of 10/26",
+      "summary": "The Buffalo Sabres still only have two regulation wins this season and 11 games into the season, are exactly at the same point total (11 points) they were last season at this same juncture. This week they are out West playing two #SabresAfterDark games before a Saturday afternoon Halloween matinee.\n\n\n\nTue, Oct 27th, 10:30pm EST – Buffalo Sabres (4-4-3) at San Jose Sharks (6-5-1)Thu, Oct 29th, 10pm EST – Buffalo Sabres at Anaheim Ducks (5-6-0)Sat, Oct 31st, 4pm EST – Buffalo Sabres at LA Kings (2-5-2)\n\n\n\n\n\n\n\nThe Amerks switched it around last week, losing one then winning the next.\n\n\n\nWed, Oct 28th, 7:05pm EST – Rochester Americans vs Hershey BearsFri, Oct 30th, 7:05pm EST – Rochester Americans vs Lehigh Valley Phantoms",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T15:58:47.000Z",
+      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-10-26/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46712/usmnt-midweek-viewing-guide-on-we-go",
@@ -839,6 +916,50 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-25T22:50:31.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267079-game-week-thread-ravens-at-bills/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/capitals-tuch-in-the-sleepwalking-sabres-beat-buffalo-4-3-in-ot/",
+      "team": "sabres",
+      "title": "Capitals Tuch In the Sleepwalking Sabres, Beat Buffalo 4-3 in OT",
+      "summary": "Former Sabre and Dylan Strome Doom the Blue and Gold\n\n\n\nScore: Buffalo Sabres 3-4 Washington CapitalsShots: BUF 21-34 WASH\n\n\n\nBuffalo Sabres Goals: Quinn 6th (Zellweger, Benson) Doan 2nd (McLeod) Östlund 3rd (Power, Dahlin)Washington Capitals Goals: Tuch 6th (Kyrou) Strome 2nd (Kyrou, Chychrun) Strome 3rd (Sourdif, Fehérváry) Tuch 7th (Strome, Chychrun)\n\n\n\nPlus 1: Making them Count\n\n\n\nBuffalo had some good chances early but struggled to get pucks on net. Jack Quinn showed them the way. After some sustained pressure and a nice dish from Olen Zellweger, Quinn drove to the net and fired a shot from close range, beating goaltender Charlie Lindgren. It was the Sabres’ first shot on goal, and Quinn continues to pile up the points. Zach Benson picked up his seventh assist of the season on the play as well. It was a big opening goal on the road for the boys in Blue and Gold.\n\n\n\nSabres starter Ukko-Pekka Luukkonen made a few nice stops after the goal as Washington began turning up the pressure. Buffalo eventually cleared the zone and worked the puck down ice, where a brutal turnover by the Capitals’ defense handed the Sabres a 2-0 lead. Jakob Chychrun’s drop pass to nobody was intercepted, as Ryan McLeod stole it along the boards. He quickly spun and passed the puck to Josh Doan who wasted no time firing it on net. Lindgren got a piece of it but the puck deflected by him and into the net. It was a gift-wrapped tally that the struggling Doan was more than happy to accept, giving him just his second goal of the season.\n\n\n\nThen, the inevitable happened. Under pressure deep in their own zone, Sabres defenseman Dennis Gilbert (in for Zach Metsa) had his pass blocked, leaving the puck bouncing around in a dangerous area. Former Sabre Alex Tuch eventually came up with it and swept the puck toward the net, where Tage Thompson perfectly tipped it past Ukko-Pekka Luukkonen to cut Buffalo’s lead in half. If you were a betting man, you just cashed in on that one happening.\n\n\n\nThe Capitals generated a few more shots to close out the period and held an 8-5 advantage in shots on goal after 20 minutes. Buffalo’s speed was on full display for much of the opening frame, but it didn’t translate into many shots. At least the Sabres made the most of their limited opportunities, taking a 2-1 lead into the first intermission.\n\n\n\n\n\n\n\nMinus 1: Second Period Sleepwalking\n\n\n\nMattias Samuelsson took the game’s first penalty, getting called for slashing Washington’s Tom Wilson. Buffalo’s beleaguered penalty kill did a solid job keeping the Capitals at bay with some strong defensive coverage. However, the Sabres couldn’t finish the job. Just after the penalty expired, Jakob Chychrun kept a clearing attempt in at the blue line and fired the puck toward the net. Dylan Strome had slipped behind the defense and swept home the rebound past Ukko-Pekka Luukkonen before the goaltender could fully extend his pad.\n\n\n\nJust like that, the game was tied, and the momentum had swung firmly in favor of the home team.\n\n\n\nIt took some time, but Buffalo finally started generating chances again, using its speed and skill to put pressure on Washington. Jack Quinn had the best opportunity, only to be denied by Lindgren. Luukkonen came up with several strong saves of his own as the game began to open up, with play becoming much more evenly contested.\n\n\n\nWashington’s physicality began to take hold late in the period, seemingly wearing down the Sabres a bit. Olen Zellweger then inadvertently sent the puck over the glass while attempting to clear the zone, handing the Capitals yet another power play. Once again, Buffalo would have to rely on its struggling penalty kill to keep Washington off the scoreboard. Spolier alert: They did. But once again the Caps would capitalize soon after, with Strome cashing in for his second of the game. Buffalo’s defensive coverage wasn’t tight enough, and a quick shot off a pass from the corner somehow eluded Buffalo’s goalie. Luukkonen appeared to be in good position, but the puck still managed to slip through. \n\n\n\nA clutch save WAS made just before the period ended, as Lingren came up large for Washington. The Caps scored three straight goals, and once again, the Sabres have yet to hold a lead after two periods in a single game this season. Buffalo simply stopped skating with the same urgency and intensity they showed in the first period, allowing the Capitals to take control of the game.\n\n\n\nMinus 2: Tuch and Roll Over in OT\n\n\n\nBuffalo started the third period with some good pressure, and came close twice with two shots off the crossbar. The Sabres continued adding to their already enormous total of pucks hitting iron this season.\n\n\n\nLindy Ruff’s team would keep up the pressure as the Sabres second line would come to the rescue again, along with a little luck. Noah Östlund was credited with a ping-pong goal off a Captial player’s leg that casually slid right into the net. That trio was buzzing again but it was the defense who picked up the apples on the play, with Power and Dahlin collecting the assists.\n\n\n\nBuffalo would then get two consecutive power plays looking to take the lead but failed to capitalize on either, even with Alex Tuch in the penalty box for the second one. The ineptitude of the man advantage continues to kill this team, as two glorious opportunities go to waste again.\n\n\n\nThings got feisty as Dennis Gilbert cleared out a few Capitals players from around the crease after Luukkonen made a strong save amid a scramble in front of the net. No penalties were called, but the face-washing was plentiful as tempers began to flare.\n\n\n\nKonsta Helenius would take a careless high sticking call with six minutes to go and Buffalo would be tested one last time.They pulled it off, and didn’t allow a goal soon after either. Both teams played it back and forth until the horn went and the Sabres scratched and clawed the game to overtime, a familiar regularity for this team lately.\n\n\n\nIf you’ve read this far, you already know things went exactly as scripted by the hockey gods—and that aforementioned betting man. After some decent early Buffalo pressure, Alex Tuch was fed the puck from Strome behind the net right in the slot and scored his second of the game and the OT winner. It looked like Luukkonen may have been screened on the play but to quote the legendary Bob Uecker, “To hell with it!” I shut it off and didn’t see the replay.\n\n\n\nThis is all part of the plan, you see. The Universe will stop at nothing to make us suffer. Meanwhile, Buffalo picks up a point (woopity-doo!) and remains stuck at two regulation wins while going nowhere fast.\n\n\n\nFinal Thoughts:\n\n\n\nThe Sabres let this game slip away achingly and Dylan Strome was dominant. Up by two goals and giving up three straight before eeking out the OT and falling in dramatic but expected fashion. Did Tuch shoot WIDE this game? I didn’t see it if he did.\n\n\n\nTage Thompson (and the whole top line) along with Rasmus Dahlin were non factors for most of this game. Not what you want to see from your top players. Zach Benson, Noah Östlund and Jack Quinn once again carried the load.\n\n\n\nThe start of Buffalo’s California road trip begins on Tuesday night, October 27th at the San Jose Sharks. The game starts at 10:30 pm Buffalo time. Sabres After Dark will be worth the watch with San Jose’s young star Macklin Celebrini showcasing his skills.\n\n\n\nPhoto Credit: Washington Capitals Facebook",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-25T02:26:04.000Z",
+      "link": "https://www.diebytheblade.com/capitals-tuch-in-the-sleepwalking-sabres-beat-buffalo-4-3-in-ot/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-11-preview-open-thread-sabres-at-capitals/",
+      "team": "sabres",
+      "title": "Game #11 Preview & Open Thread: Sabres at Capitals",
+      "summary": "Buffalo begins 4-game road trip in Washington\n\n\n\nBuffalo Sabres (4-4-2) at Washington Capitals (5-4-0)\n\n\n\nPuck Drop: 7 p.m. ET | Capital One Arena, Washington, D.C.\n\n\n\nTV: MSG-B, Monumental Sports Network, DAZN, ESPN+, Fubo\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nWashington Capitals\n\n\n\nRecord: 5-4-0 | 10 points\n\n\n\nLast Game: 5-2 loss vs. Los Angeles\n\n\n\nDivision Ranking: 5th\n\n\n\nPP: 21st (20.0%)  [Sabres: 30th, (11.1%)]\n\n\n\nPK: 17th (80.0%) [Sabres: 29th (66.7%)]\n\n\n\nSeason Series: Sabres 1-2-0 vs. Capitals in 2025-26 season\n\n\n\nWhat to watch\n\n\n\nA familiar face\n\n\n\nFor the first time since his departure from the Sabres this offseason, Alex Tuch will face his former team.\n\n\n\nTuch, who signed an 8-year, $10.5 million AAV contract with Washington in a sign-and-trade, has had a solid start to the season, scoring five goals, including one shorthanded, to go with two assists. He is second on Washington in points, one behind Ryan Leonard.\n\n\n\nBy all accounts, Tuch was a well-respected figure in Buffalo’s locker room, and it’s hard to imagine there will be too much animosity toward the 30-year-old from his former teammates — though there will surely be some chirps. That said, the best way to show Tuch the grass isn’t always greener would be with a win.\n\n\n\nSabres riding with Luukkonen\n\n\n\nAt long last, our international nightmare is over: the Connor Hellebuyck trade saga is no more, and we can finally give the Heritage Classic its proper respect.\n\n\n\nJokes aside, the Jets traded the three-time Vezina Trophy winner to New Jersey on Friday for four players and two draft picks, ending months of rumors and the hopes of many Sabres fans, as Buffalo had long been reported to be interested in Hellebuyck. Instead, the Sabres will continue to roll with Ukko-Pekka Luukkonen and Colten Ellis, who have combined for -5.2 goals saved above expected this season per Hockeystats.com, while Alex Lyon remains on injured reserve.\n\n\n\nLuukkonen, who was in the center of trade conversations surrounding Hellebuyck, told reporters Friday, “I think it’s good for everybody that some of that noise quiets down.” The 27-year-old will surely hope that the noise surrounding his poor start to the season will be silenced next.\n\n\n\nGood power play spot?\n\n\n\nThe Sabres power play has been far from powerful this season, but the matchup against the Capitals could present some opportunities to shift the narrative. \n\n\n\nWashington’s penalty kill has allowed 8.7 expected goals against per 60 this season, good for 27th in the NHL according to Hockeystats.com, while the Sabres’ last five opponents all rank in the top half of the league in that category.\n\n\n\nWith Buffalo coming off a power play goal against Philadelphia, as well as another man advantage that yielded a handful of chances but no goal, it could be a good spot to continue building some momentum in a part of the Sabres’ game that could really use it.\n\n\n\nInjury Notes\n\n\n\nThe Sabres will be down forward Jiri Kulich in the nation’s capital after the 22-year-old took a puck to the face during Friday’s practice. Coach Lindy Ruff said Kulich was still being evaluated on the severity of the injury.\n\n\n\nAs for Washington, starting goalie Logan Thompson will miss Saturday’s game with a lower-body injury, while forwards Pierre-Luc Dubois and Justin Sourdif are poised to return to the lineup.\n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nJason Zucker – Tage Thompson – Konsta Helenius\n\n\n\nZach Benson – Noah Östlund – Jack Quinn\n\n\n\nRyan McLeod – Josh Norris – Josh Doan\n\n\n\nTyson Kozak – Peyton Krebs – Beck Malenstyn\n\n\n\nDefense\n\n\n\nRasmus Dahlin – Mattias Samuelsson\n\n\n\nOwen Power – Olen Zellweger\n\n\n\nLouis Crevier – Zach Metsa\n\n\n\nGoalies\n\n\n\nUkko-Pekka Luukkonen (Projected Starter), Colten Ellis\n\n\n\nWashington Capitals\n\n\n\nForwards\n\n\n\nAlex Ovechkin – Ilya Protas – Anthony Beauvillier\n\n\n\nAlex Tuch – Dylan Strome – Jordan Kyrou\n\n\n\nAlexei Protas – Pierre-Luc Dubois – Tom Wilson\n\n\n\nBoone Jenner – Justin Sourdif – Ryan Leonard\n\n\n\nDefenseman\n\n\n\nJakob Chychrun – Matt Roy\n\n\n\nMartin Fehervary – Timothy Liljegren \n\n\n\nCole Hutson – Dylan McIlrath\n\n\n\nGoalies\n\n\n\nCharlie Lindgren (projected starter), Mitch Gibson",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T19:39:09.000Z",
+      "link": "https://www.diebytheblade.com/game-11-preview-open-thread-sabres-at-capitals/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/connor-hellebuyck-is-in-new-jersey-but-sabres-goalie-ukko-pekka-luukkonen-knows-he-can-still-be-traded/",
+      "team": "sabres",
+      "title": "Connor Hellebuyck is in New Jersey, but Sabres goalie Ukko-Pekka Luukkonen knows he can still be traded",
+      "summary": "BUFFALO – Ukko-Pekka Luukkonen knows all about the trade rumors involving his name. Not that the Sabres goalie goes out of his way to read them. But these days, he knows you can’t escape the outside noise.\nIf he stays off social media, a friend will inevitably inform him.\n“I think anybody who says that they don’t see it or they don’t read it, they’re lying,” said Luukkonen, whose name has been bandied about for ... Read the full article \nThe post Connor Hellebuyck is in New Jersey, but Sabres goalie Ukko-Pekka Luukkonen knows he can still be traded first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-24T05:05:48.000Z",
+      "link": "https://www.buffalohockeybeat.com/connor-hellebuyck-is-in-new-jersey-but-sabres-goalie-ukko-pekka-luukkonen-knows-he-can-still-be-traded/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jiri-kulich-injured-in-practice-status-for-road-trip-uncertain/",
+      "team": "sabres",
+      "title": "Sabres’ Jiri Kulich injured in practice, status for road trip uncertain",
+      "summary": "BUFFALO – Sabres center Jiri Kulich was seeing the doctor this afternoon after a puck hit him in the face during a power-play drill early in today’s practice, coach Lindy Ruff said.\n“It didn’t look good, but I don’t have an update,” Ruff said following the session in KeyBank Center.\nKulich, 22, left a pool of blood in the slot after staying down for several moments and being helped off the ice.\n\nIf Kulich can’t ... Read the full article \nThe post Sabres’ Jiri Kulich injured in practice, status for road trip uncertain first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-23T17:10:52.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-jiri-kulich-injured-in-practice-status-for-road-trip-uncertain/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt/46827/usmnt-weekend-viewing-guide-fall-colors",
@@ -874,15 +995,15 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/46583/usmnt-midweek-roundup-unlikely-heroes"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267059-bye-week-where-are-they-now-former-bills/",
-      "team": "bills",
-      "title": "Bye week Where are they now former Bills?",
-      "summary": "Jonas Jennings - just heard his name mentioned in an interview today\n\n\n\n\t \n\n\n\n\tPlayed at Univeristy of Georgia from 1997 - 2000\n\n\n\n\tDrafted by Bills in 3rd round of 2001 draft.\n\n\n\n\tFor the last decade has been the Director of Player Development for the Georgia Bulldogs\n\n\n\n\t \n\n\n\n\tInteresting facts:\n\n\n\n\tPlayed in 75 games over eight seasons and started all 75 games. \n\n\n\n\tHe never played all games in any season playing in only 7 games in his final two seasons.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "die-by-the-blade::https://www.diebytheblade.com/glaring-issues-highlight-buffalos-disappointing-start/",
+      "team": "sabres",
+      "title": "Glaring Issues Highlight Buffalo’s Disappointing Start",
+      "summary": "Sabres Struggling in Several Areas and it is Costing Them\n\n\n\nThe Buffalo Sabres are off to an underwhelming 4-4-2 start to the season, and the fans are growing increasingly restless. Recurring structural flaws continue to plague this team, and after ten games, Buffalo has held a lead heading into the third period exactly ZERO times. While that speaks to the Sabres’ ability to battle back and claw their way into games, it’s hardly a sustainable way to operate over an 84-game season.\n\n\n\nThe problems are piling up, and what might have been dismissed as isolated issues early in the season has snowballed into one very lost and listless hockey team. Inconsistency, costly mistakes, and an inability to put together a complete 60-minute effort have fans wondering whether this team actually turned a corner last season — or if Buffalo simply rode the lightning of an incredible hot streak all the way back to the playoffs. Right now, the same old problems are rearing their ugly heads, joined by a few new ones that this team seems increasingly incapable of solving.\n\n\n\nKey Issues Behind the Slow Start:\n\n\n\n\nInconsistent Goaltending and Defense: The Sabres rank near the bottom of the league in goals-against average, sitting 26th in the NHL, and have been hampered by inconsistent performances in net. Their numbers are even uglier at five-on-five, where they rank dead last at 32nd in the league. Ukko-Pekka Luukkonen has taken much of the heat, but pinning the blame solely on the goaltender is an easy way to ignore the bigger problem. Buffalo’s defense deserves its share of the criticism. Opponents are routinely left wide open in front of the net, the crease goes uncleared, and monumental breakdowns and costly turnovers continue to put Luukkonen in tough situations. No goaltender can consistently bail out a defense that makes life this difficult. Still, we’d all like to see an extra save or two from him each game. Neither is playing particularly well and that is a combo nobody wants.\n\n\n\nStruggling Special Teams: The power play and penalty kill have been a continuous source of frustration for both fans and the media. Buffalo’s man advantage has been downright abysmal at times, showing little urgency and spending far too much time chasing the puck back into its own zone. When the Sabres finally manage to set up, they seem more interested in passing the puck around in search of the perfect shot than actually taking one. Inevitably, the opportunity goes up in smoke with a costly turnover, and the whole frustrating cycle starts all over again. The penalty kill has recently overtaken the power play as Buffalo’s biggest special-teams sore spot. The Sabres have surrendered a power-play goal in every game but one so far this season, and they currently sit 30th in the league with a miserable 66.7% success rate. Is there a word out there worse than abysmal? Whatever it is, it probably isn’t fit to print here.\n\n\n\nPlaying From Behind: Buffalo has repeatedly found itself chasing games early, and the constant need for comebacks is beginning to take its toll. Wednesday’s 3-1 loss to the Philadelphia Flyers showed that the Sabres don’t always have enough left in the tank to pull off another escape act. Before that game, Buffalo had trailed for a staggering 250:57, the fourth-highest total in the NHL. By comparison, the Sabres have held a lead for just 60:32 all season — barely the equivalent of one full game. Between the uneven goaltending, defensive breakdowns, and a laundry list of players failing to produce offensively, Buffalo is making life far harder than it needs to be. Considering how often this team has been forced to claw its way back from the brink of defeat, it’s a miracle the Sabres have managed to scrape together as many points as they have. That act is going to wear thin though. This team needs to put together a more consistent, 60-minute effort — something we have yet to see this season.\n\n\n\nOffseason Regression Concerns: Buffalo had a difficult summer with roster turnover, and the early results have amplified worries about replicating last year’s success. Regression was expected from the national media right on down to our own fanbase. Nobody expected a repeat performance with the loss of Alex Tuch and Bowen Byram. A 4-4-2 record isn’t the end of the world, but at times, it sure feels that way. For much of the season, just about everything that could go wrong has gone wrong for Buffalo. Zach Benson and Peyton Krebs remain without a goal, while Ryan McLeod, Josh Doan, Konsta Helenius, and Jiri Kulich have managed just one goal apiece. Josh Norris has struggled as well, with only two goals and three points to his name. The defensive play and goaltending have been suspect, and the forwards haven’t exactly been helping matters with their backchecking. The Sabres continue to fall behind early and often, while the special teams have been downright awful. When performances are this consistently poor, questions about the coaching staff will arise too. It’s a perfect storm of dreadfulness, and Buffalo needs to right the ship before this disappointing start spirals further out of control.\n\n\n\n\n\n\n\n\nThose are the main points of concern right now, but the list doesn’t end there. I haven’t even touched on Buffalo’s dreadful faceoff percentages and how those losses impact the rest of its game, from puck possession to controlling the pace of play. The Sabres also continue to lack physicality, and perhaps even more concerning, experience. After getting a little older last season, Buffalo has once again become the youngest team in the league. Youth brings plenty of talent and potential, but it also comes with growing pains. Right now, the Sabres are learning some hard lessons, and fans are left wondering how long it will take for this team to put all the pieces together. Or at least some of them.\n\n\n\nPhoto Credit: Buffalo Sabres",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-10-23T01:48:27.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267059-bye-week-where-are-they-now-former-bills/"
+      "publishedAt": "2026-10-22T19:52:10.000Z",
+      "link": "https://www.diebytheblade.com/glaring-issues-highlight-buffalos-disappointing-start/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46822/usmnt-to-face-haiti-in-concacaf-nations-league-quarterfinals",
@@ -907,6 +1028,83 @@
       "link": "https://www.twobillsdrive.com/community/topic/267043-%E2%80%9Cjust-one-before-i-die%E2%80%9D-new-five-episode-tubi-original-docuseries-on-the-bills-mafia/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-fall-to-flyers-in-jason-zuckers-return-owen-power-loses-cool-after-phantom-high-stick/",
+      "team": "sabres",
+      "title": "Sabres fall to Flyers in Jason Zucker’s return; Owen Power loses cool after phantom high-stick",
+      "summary": "BUFFALO – Forget that the Philadelphia Flyers entered the night on a two-game win streak and advanced to the second round of the Stanley Cup Playoffs last season.\nHaving started the season a stunning 0-6-3 before finally notching a win in their 10th try, they’ve endured a brutal three-week stretch.\nPrior to Wednesday’s 3-1 win over the Sabres in KeyBank Center, the Flyers were 0-4-1 on the road.\nAt home before a capacity crowd of ... Read the full article \nThe post Sabres fall to Flyers in Jason Zucker’s return; Owen Power loses cool after phantom high-stick first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T05:02:12.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-fall-to-flyers-in-jason-zuckers-return-owen-power-loses-cool-after-phantom-high-stick/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-notes-josh-norris-scoring-after-slow-start-showcasing-grit/",
+      "team": "sabres",
+      "title": "Sabres notes: Josh Norris scoring after slow start, showcasing grit",
+      "summary": "BUFFALO – Following a freak collision with Maple Leafs defenseman Oliver Ekman-Larsson in overtime last Thursday, Sabres center Josh Norris said he did not want to leave the game.\nBut Norris, 27, had no choice. So as his teammates finished off their come-from-behind 5-4 victory in Toronto, he was in concussion protocol.\n“It was just a small thing,” Norris told the Times Herald prior to Wednesday’s 3-1 loss to the Philadelphia Flyers in KeyBank Center. ... Read the full article \nThe post Sabres notes: Josh Norris scoring after slow start, showcasing grit first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T05:01:58.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-notes-josh-norris-scoring-after-slow-start-showcasing-grit/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-rue-missed-chances-in-3-1-loss-to-flyers/",
+      "team": "sabres",
+      "title": "Sabres rue missed chances in 3-1 loss to Flyers",
+      "summary": "Cole Knuble’s 2 goals lead Philadelphia over Buffalo\n\n\n\nBox score\n\n\n\nScore: Philadelphia Flyers 3, Buffalo Sabres 1Shots: Buffalo 28, Philadelphia 26\n\n\n\nBuffalo Sabres Goals: Jason Zucker 1 PPG (Quinn, Ostlund)Philadelphia Flyers Goals: Cole Knuble 1 (Bonk, Barkey), Trevor Zegras 3 PPG (Michkov, Drysdale), Knuble 2 (Bonk)\n\n\n\nQuick Thoughts\n\n\n\nFirst Period – High-flying start to crash landing finish\n\n\n\nThe Sabres certainly looked like a team that came in with three days rest for much of the first period, but despite a number of golden chances and two power play opportunities, found themselves trailing by a pair of goals heading into the intermission.\n\n\n\nBuffalo started the game with its two big returnees in Jason Zucker, who was making his season debut, and Rasmus Dahlin on the ice, and shortly after went to the power play due to a trip on Zach Benson. \n\n\n\nA Noah Ostlund between the legs attempt and passed up one-timer by Dahlin headlined what was a rare, chance-filled power play, but Flyers goalie Dan Vladar stonewalled the Sabres — a theme that continued throughout the period.\n\n\n\nNot long after at 5-on-5, Mattias Samuelsson and Tage Thompson both had great looks from the slot, but the former’s shot was blocked and the latter was stifled by Vladar.\n\n\n\nPhiladelphia opened the scoring with just over five minutes remaining in the period, when a point shot by Oliver Bonk hit traffic in front and fell perfectly for Cole Knuble, who backhanded the puck over the outstretched pads of Ukko-Pekka Luukkonen. It was the first goal of Knuble’s NHL career, and scored with his dad Mike, a 16-year NHL veteran, in attendance.\n\n\n\n\nCole Knuble, 1-0 #LetsGoBuffalo #LetsGoFlyers pic.twitter.com/NDhGLQCQw9&mdash; Buffalo Hockey Moments (@SabresPlays) October 22, 2026\n\n\n\n\nThe Sabres had a chance to even the score with another power play, but 40 seconds in, an Ostlund slashing penalty negated the man advantage. This gave Philadelphia a shortened power play of their own, and it wasn’t long before Buffalo’s penalty kill allowed yet another goal, as Trevor Zegras batted a rebound out of the air and into a wide open net to make it 2-0 with 43 seconds left in the period.\n\n\n\nTo make a bad final five minutes worse, a lackadaisical exchange between Owen Power and Jack Quinn sent Philadelphia’s Tyson Foerster in on a partial breakaway, and he was only stopped when an outstretched Quinn tripped him, giving the Flyers a near full power play to begin the second.\n\n\n\nDespite tallying 10 high danger chances to the Flyers’ four, the Sabres found themselves in a familiar spot, down 2-0 heading to the intermission.\n\n\n\nSecond Period – Puck don’t lie\n\n\n\nBenson got the second period off to a loud start, as he rung a shot off the post less than a minute in on a shorthanded chance. It wound up being the best opportunity for either team on the Flyers power play, as the Sabres successfully killed it off.\n\n\n\nOnce again, Buffalo controlled play at 5-on-5 for much of the period, and as a result had a number of great looks. Shortly after Philadelphia’s power play ended, Josh Doan ripped a shot from the high slot that required a flashy glove save from Vladar. Then it was the Sabres’ strongest line of Benson-Ostlund-Quinn who pinned the Flyers in their own zone, resulting in Quinn maneuvering his way to the slot and hitting Buffalo’s second post of the period.\n\n\n\nA couple strong saves from Luukkonen kept the Sabres’ deficit at 2-0, before Zucker took a slashing penalty that sent Philadelphia back to the power play with just over five minutes to play. The Flyers would then get a 5-on-3 for just over a minute on an egregious call, as Zegras indirectly high sticked his teammate, Matvei Michkov, only for Power to be assessed the minor penalty. \n\n\n\nDespite the frustrating circumstances, the Sabres put together arguably their best penalty kill sequence of the young season, as Buffalo kept the Flyers off the board during both the 5-on-3 and ensuing power play thanks in-part to three shot blocks from Louis Crevier and some good saves from Luukkonen.\n\n\n\nIn what might best be described as a “puck don’t lie” sequence, the Sabres got a power play of their own less than a minute later when Benson drew his second penalty of the game, a high stick against Travis Sanheim. With 35 seconds left in the period, Quinn won a battle and found space along the wall to fire a puck at the net, which was deflected in on the doorstep by Zucker to finally beat Vladar and make it 2-1 heading to the third.\n\n\n\n\nJason Zucker, 2-1 PPG #LetsGoBuffalo #LetsGoFlyers pic.twitter.com/zjSW2t3DIK&mdash; Buffalo Hockey Moments (@SabresPlays) October 22, 2026\n\n\n\n\nThird Period – Ran out of gas \n\n\n\nJust when it seemed as if the Sabres had all the momentum, it was Knuble again who silenced KeyBank Center.\n\n\n\nA failed clearing attempt resulted in the puck getting lost in the skates of Crevier. Bonk managed to gain control and find a streaking Knuble, who rounded Luukkonen and banked the puck back in off the retreating Sabres goalie. Luukkonen came out aggressively to challenge Knuble, which left him exposed at the post to add another questionable goal against to his shaky start of the season.\n\n\n\n\nKnuble banks the puck off UPL from below the goal line and in. His 2nd of the game. 3-1 #LetsGoBuffalo #LetsGoFlyers pic.twitter.com/WeRSoCssTH&mdash; Buffalo Hockey Moments (@SabresPlays) October 22, 2026\n\n\n\n\nThe Flyers’ third goal seemed to take the wind out of the Sabres’ sails, as they mustered just one shot on goal through the first 12 minutes of the period after controlling the game at 5-on-5 for a majority of the game prior. One of Buffalo’s only chances of the third period came from Benson with a wrist shot from the near faceoff dot, but he remained snakebitten in the offensive zone as Vladar came up with the save.\n\n\n\nAfter Ryan McLeod was laid out on a clean hit by Hunter McDonald with about five minutes to play, Samuelsson stepped up and fought the Rochester native, earning himself an instigator penalty that gave the Flyers a power play and all but ended the game. \n\n\n\nBuffalo had one final opportunity with the goalie pulled, as Quinn took a one-timer with a gaping net in front of him, but Vladar had one more moment of magic in him as he pushed over to rob the 25-year-old and keep the score 3-1.\n\n\n\nQuick Thoughts\n\n\n\nThe Sabres had numerous opportunities to take an early lead against a bad Flyers team, but failed to take them, resulting in yet another comeback attempt in hopes of securing a point. You can certainly say they got “goalie’d”, as Vladar was excellent and finished with 2.6 goals saved above expected, according to Hockeystats.com, but that does not excuse the lackluster third period.\n\n\n\nBuffalo has still yet to put together a complete, dominant peformance so far this season, and tonight showed that thrilling third period comebacks are not a sustainable way to win. Additionally, they’ll need a lot more their stars, Dahlin and Thompson, going forward, as both were quiet throughout the game.\n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-10-21: pic.twitter.com/oLbi6bTYhj&mdash; HockeyStatCards (@hockeystatcards) October 22, 2026\n\n\n\n\nNext Up\n\n\n\nThe Sabres begin a four-game road trip in Washington, with puck drop for 7 p.m. Saturday, before heading west to face the three California teams.\n\n\n\nPhoto Credit: Buffalo Sabres",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-22T03:09:44.000Z",
+      "link": "https://www.diebytheblade.com/sabres-rue-missed-chances-in-3-1-loss-to-flyers/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/goalie-ukko-pekka-luukkonen-finding-groove-for-sabres/",
+      "team": "sabres",
+      "title": "Goalie Ukko-Pekka Luukkonen finding groove for Sabres",
+      "summary": "BUFFALO – After splitting time with Colten Ellis earlier this month, Sabres goalie Ukko-Pekka Luukkonen is expected to start his fourth consecutive game tonight against the Philadelphia Flyers.\nWhile Luukkonen hasn’t recaptured the stellar form he showcased most of last season, he has been coach Lindy Ruff’s best option, often making big saves.\nSince replacing a struggling Ellis on Oct. 12, the Finn has compiled a 2-0-2 record with a 3.25 goals-against average and an ... Read the full article \nThe post Goalie Ukko-Pekka Luukkonen finding groove for Sabres first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T16:22:17.000Z",
+      "link": "https://www.buffalohockeybeat.com/goalie-ukko-pekka-luukkonen-finding-groove-for-sabres/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-10-preview-open-thread-buffalo-sabres-vs-philadelphia-flyers/",
+      "team": "sabres",
+      "title": "Game #10 Preview & Open Thread: Buffalo Sabres vs Philadelphia Flyers",
+      "summary": "Cavalry returns as Sabres host struggling Flyers\n\n\n\nBuffalo Sabres (4-3-2) vs. Philadelphia Flyers (2-6-3)\n\n\n\nPuck Drop: 7:30 p.m. ET | KeyBank Center, Buffalo, N.Y.\n\n\n\nTV: TNT, TruTB, HBOMax\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nPhiladelphia Flyers\n\n\n\nRecord: 2-6-3 | 7 points\n\n\n\nLast Game: 3-1 victory vs. Colorado\n\n\n\nDivision Ranking: 8th\n\n\n\nPP: 27th, 4-31 (12.9%)  [Sabres: 32nd, 3-33 (9.09%)]\n\n\n\nPK: 8th, 33-39 (84.6%) [Sabres: 30th, 20-31 (64.52%)]\n\n\n\nSeason Series: Sabres 2-1-0 vs. Flyers in 2025-26 season\n\n\n\nWhat to watch\n\n\n\nTriumphant Returns\n\n\n\nFollowing last Saturday night’s overtime loss to the Montreal Canadiens, Buffalo Sabres head coach Lindy Ruff spoke with the media and gave encouraging updates on two players the Sabres have missed dearly.\n\n\n\nCaptain Rasmus Dahlin has not seen action since last Monday’s win against the Florida Panthers, where he left early in the second period with a lower body injury. Dahlin missed the ensuing three games for the Sabres, a stretch where they were able to go 1-0-2 without him in the lineup. While that record might not seem great, it is significantly better than how the team normally performs when Dahlin is out of the lineup, in that they actually were able to win one game. \n\n\n\nThanks to this stretch of play where they were able to put up points in the standings, a stretch also headlined by fellow defensemen Owen Power, Mattias Samuelsson and Olen Zellweger stepping up in the captain’s stead, Dahlin was not forced to rush back to the lineup, giving him nearly 10 days to try and heal. While he is not guaranteed to be back in the lineup tonight, he spoke with the media after practice Monday and said it was his goal to be. The Sabres, especially given their defensive depth, should have it in their best interest to make sure Dahlin is healthy and at lower risk of reinjury, so if they have to hold him out another game or two, it shouldn’t be the end of the world.\n\n\n\nThere is one other player seemingly returning to the lineup though, as Ruff also said that tonight would be the target for winger Jason Zucker, who has not yet played a game this season due to offseason hernia surgery. \n\n\n\nThe Sabres have missed Zucker quite a bit. He led the team in power play goals last season with 10 in just 62 games. He contributed 45 points in those 62 games as well, which is a nearly 60 point pace over a full season. \n\n\n\nWhile it is reasonable to temper expectations for a soon-to-be 35-year-old coming off hernia surgery, the Sabres have missed Zucker more than it may seem. The struggles of every forward line, other than the Quinn-Ostlund-Benson line, have been well documented, as no other group has garnered any consistent cohesion. This is partly due to a lot of guys who are normally center having to be moved to the wing. \n\n\n\nAdding an established, veteran winger to the mix could be exactly the piece the Sabres are missing in the short term, and Zucker provides even more than that. As the oldest player on the team, he provides a veteran leadership that can’t be matched by anyone else on the roster, and also provides a strong spark with his on-ice energy.\n\n\n\nFond Farewells? \n\n\n\nI would be remiss to sit here and ignore the Connor Hellebuyck-sized elephant (Helle-phant for short) in the room. All the buzz across the hockey world right now remains on the Winnipeg Jets goalie, and depending on what fake Twitter accounts you follow, he’s already been traded. With his suspension set to end this Friday, Jets GM Kevin Cheveldayoff could actually be forced to act on this situation that has been looming over his team, the Sabres, a handful of other teams, and the league as a whole since draft night in June.\n\n\n\nWith the potential impending threat of Hellebuyck reporting to camp, trade talks are fully back open and the Sabres are right in the thick of it, even viewed as the potential favorite depending on what part of twitter you’re reading. \n\n\n\nWith that in mind, could Wednesday be the last game Ukko-Pekka Luukkonen plays in net for the Sabres? Could it be Ryan McLeod’s final game in blue and gold? What about Jiri Kulich? There are many rumors out there so be careful what you read, and of course the Sabres are not even guaranteed to land Hellebuyck, but there is a real, potentially very real scenario, that at least two of the aforementioned players, if not all three, are not on the Sabres after tonight’s game. We’ll just have to wait and see.\n\n\n\nThe Philadelphia Grounders\n\n\n\nWe’re this far in and the Sabres opponent has barely been mentioned so far. If you haven’t been keeping up, the Flyers are off to just about the worst start to a season a team can have. While they are currently riding a two game winning streak, with victories over the Ottawa Senators and Colorado Avalanche, those represent their first two wins of the season, coming in games 10 and 11. \n\n\n\nHead coach Rick Tocchet is under serious heat for how the season has started, and not just for how the team is playing. One of the most notorious headlines to start this season has been how Tocchet and the Flyers have treated young forwards Matvei Michkov and Porter Martone. \n\n\n\nDespite leading the team in goals and points, with six and seven respectively, Michkov is playing just under 15 minutes per game, while Martone is getting even less, at 13:15 per game. This puts them at seventh and 10th on the team so far among forwards, and for a team that is struggling as heavily as they are, you’d think they’d be incentivized to give the young, promising players a bit more run, but Tocchet has taken the opposite approach. \n\n\n\nOne bright spot for the Flyers, however, has been in net, particularly with Joseph Woll. Woll, who came over from the Toronto Maple Leafs in the offseason, has been stellar for the Flyers, putting up a .916 save% in five games played to start the year.\n\n\n\nInjury Updates\n\n\n\nWhile the Sabres are likely getting two players returning to the lineup, they are also evaluating a couple guys for injuries. With the forward depth they currently have, it is not a dire straits situation, but both Justin Danforth and Sam Carrick are being evaluated for injuries. Both of these injuries are listed as upper-body and both are considered day to day. Carrick’s injury is potentially related to the injury he suffered at the end of last season. \n\n\n\nConnor Timmins, still out with a lower-body injury, is not yet ready to return to full practice and Alex Lyon is “improving” according to Lindy Ruff, but has not rejoined the team on the ice. Lyon suffered a setback in his recovery last week. \n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nTage Thompson-Jiri Kulich-Josh Doan\n\n\n\nZach Benson-Noah Östlund-Jack Quinn\n\n\n\nJason Zucker-Josh Norris-Konsta Helenius\n\n\n\nPeyton Krebs-Ryan McLeod-Beck Malenstyn\n\n\n\nDefense\n\n\n\nRasmus Dahlin-Mattias Samuelsson\n\n\n\nOwen Power-Olen Zellweger\n\n\n\nLouis Crevier-Zach Metsa\n\n\n\nGoalies\n\n\n\nUkko-Pekka Luukkonen (Projected Starter)\n\n\n\nColten Ellis\n\n\n\nPhiladelphia Flyers\n\n\n\nForwards\n\n\n\nTrevor Zegras-Christian Dvorak-Noel Acciari\n\n\n\nPorter Martone-Noah Cates-Matvei Michkov\n\n\n\nJacob Gaucher-Sean Couturier-Michael Bunting\n\n\n\nAlex Bump-Denver Barkey-Cole Knuble\n\n\n\nDefenseman\n\n\n\nTravis Sanheim-Oliver Bonk\n\n\n\nNick Seeler-Jamie Drysdale\n\n\n\nSimon Benoit-David Jiricek\n\n\n\nGoalies\n\n\n\nJoseph Woll (Projected Starter)\n\n\n\nDan Vladar",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T15:06:53.000Z",
+      "link": "https://www.diebytheblade.com/game-10-preview-open-thread-buffalo-sabres-vs-philadelphia-flyers/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/despite-having-zero-goals-zach-benson-off-to-strong-start-displaying-chemistry-with-jack-quinn-noah-ostlund/",
+      "team": "sabres",
+      "title": "Despite having zero goals, Zach Benson off to strong start, displaying chemistry with Jack Quinn, Noah Ostlund",
+      "summary": "BUFFALO – Zero goals? Don’t sweat it, kid. Keep doing what you’re doing.\nThat’s a not a direct quote, but some words that seem to convey Sabres coach Lindy Ruff’s feelings about Zach Benson’s interesting start this season.\nThrough nine games, Benson, 21, has been one of Ruff’s best players, generating offense, causing chaos around the net and agitating opponents.\nThe diminutive winger has a spot on the Sabres’ hottest line alongside center Noah Ostlund ... Read the full article \nThe post Despite having zero goals, Zach Benson off to strong start, displaying chemistry with Jack Quinn, Noah Ostlund first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T05:18:52.000Z",
+      "link": "https://www.buffalohockeybeat.com/despite-having-zero-goals-zach-benson-off-to-strong-start-displaying-chemistry-with-jack-quinn-noah-ostlund/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/injury-updates-on-sabres-sam-carrick-alex-lyon-and-conor-timmins/",
+      "team": "sabres",
+      "title": "Injury updates on Sabres’ Sam Carrick, Alex Lyon and Conor Timmins",
+      "summary": "BUFFALO – Add one more name to the Sabres’ injury list.\nForward Sam Carrick missed Tuesday’s practice with a mid-body injury and is day to day, coach Lindy Ruff said following the session in LECOM Harborcenter.\nHe said Carrick’s injury might be related to the left arm injury he suffered in a fight late last season.\n\nRuff said Carrick and forward Justin Danforth, who’s day to day with an upper-body injury, were being examined by ... Read the full article \nThe post Injury updates on Sabres’ Sam Carrick, Alex Lyon and Conor Timmins first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-21T05:04:53.000Z",
+      "link": "https://www.buffalohockeybeat.com/injury-updates-on-sabres-sam-carrick-alex-lyon-and-conor-timmins/"
+    },
+    {
       "id": "cbs-nhl::https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/",
       "team": "sabres",
       "title": "Today's top games to watch, best bets, odds: Guardians vs. Rays, Sabres vs. Canadiens and more",
@@ -916,6 +1114,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T19:30:51.000Z",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/",
+      "team": "bills",
+      "title": "The nostalgia thread",
+      "summary": "I’ve started following some accounts that post significant games and memorable Bills plays from the past. They always strike a chord with me and I want to share but don’t know where, so I’m starting this thread. \n\t \n\n\n\n\tok so I cannot believe this game was 5 years ago already. I remember clear as day bc I was off that Monday for Columbus Day and listened to sports radio all day in my glory! Also I remember Spencer brown talking about growing up in the Midwest and sitting in the garage watching and waiting out a storm and I could totally relate having lived in the Midwest now for 30 years.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-10T22:21:40.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266047-update-goo-goo-dolls-to-perform-at-halftime-on-thanksgiving-game-vs-the-chiefs/",
