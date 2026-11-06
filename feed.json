@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T00:17:43.434Z",
+  "generatedAt": "2026-11-06T07:11:48.177Z",
   "sources": [
     {
       "id": "bills-official",
@@ -61,8 +61,8 @@
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "fetch failed"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "sportsnet-nhl",
@@ -170,6 +170,138 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267230-bills%E2%80%99-worst-trade/",
+      "team": "bills",
+      "title": "Bills’ Worst Trade",
+      "summary": "Fansided has an article titled “Every NFL Teams’ Worst Trade”.  I guessed that they wouldn’t dip into ancient history and name the Daryl Lamonica trade as worst ever. They didn’t. Marshawn Lynch for a fourth.  Yeah, bad trade but it wasn’t trading away a franchise QB for a washed receiver.  Am I missing something worse than that?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T04:42:54.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267230-bills%E2%80%99-worst-trade/"
+    },
+    {
+      "id": "espn-bills::50396012",
+      "team": "bills",
+      "title": "Bills have the NFL's most points. Vikings are the hardest to score on. Which side gives on Monday?",
+      "summary": "— The Buffalo Bills are back to playing their usual catch-us-if-you-can game this season under first-year coach Joe Brady, ",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T03:37:41Z",
+      "link": "http://www.espn.com/nfl/preview?gameId=401873051"
+    },
+    {
+      "id": "espn-sabres::50395606",
+      "team": "sabres",
+      "title": "Carolina Hurricanes vs. New York Islanders: Game Highlights",
+      "summary": "Carolina Hurricanes vs. New York Islanders: Game Highlights",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T03:01:24Z",
+      "link": "https://www.espn.com/video/clip/_/id/50395606/game-highlights"
+    },
+    {
+      "id": "espn-sabres::50395523",
+      "team": "sabres",
+      "title": "Carrier's goal snaps 3rd-period tie as Hurricanes beat Islanders 5-3",
+      "summary": "— William Carrier scored the go-ahead goal in the third period and the Carolina Hurricanes beat the New York Islanders 5-3 on Thursday night.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T02:53:38Z",
+      "link": "http://www.espn.com/nhl/recap?gameId=401892652"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/there-aren-t-any-weaknesses-how-the-bills-offense-is-preparing-to-face-the-blitz-heavy-minnesota-vikings",
+      "team": "bills",
+      "title": "'There aren't any weaknesses' | How the Bills offense is preparing to face the blitz-heavy Minnesota Vikings",
+      "summary": "Buffalo's thoughts on taking on the NFL's best defense",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T02:03:32.000Z",
+      "link": "https://www.buffalobills.com/news/there-aren-t-any-weaknesses-how-the-bills-offense-is-preparing-to-face-the-blitz-heavy-minnesota-vikings"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/144612/buffalo-bills-injury-report-dee-alford-spencer-brown-return",
+      "team": "bills",
+      "title": "Buffalo Bills Injury Report: Dee Alford, Spencer Brown Return",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T01:48:53.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/144612/buffalo-bills-injury-report-dee-alford-spencer-brown-return"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/144615/baltimore-ravens-vs-jacksonville-jaguars-tnf-week-9-fan-discussion",
+      "team": "bills",
+      "title": "Baltimore Ravens vs. Jacksonville Jaguars, ‘TNF’ Week 9 fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T01:18:09.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/144615/baltimore-ravens-vs-jacksonville-jaguars-tnf-week-9-fan-discussion"
+    },
+    {
+      "id": "espn-bills::50374069",
+      "team": "bills",
+      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T00:53:52Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
+    },
+    {
+      "id": "espn-bills::50390732",
+      "team": "bills",
+      "title": "Vikings to start QB Carson Wentz against Bills with Kyler Murray ruled out",
+      "summary": "Vikings quarterback Carson Wentz will start Monday night's game against the Buffalo Bills with Kyler Murray ruled out with a hamstring injury.",
+      "source": "ESPN · Kevin Seifert",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T00:39:12Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50390732/vikings-start-qb-wentz-bills-murray-injured"
+    },
+    {
+      "id": "espn-bills::50393510",
+      "team": "bills",
+      "title": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin",
+      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T00:38:13Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
+    },
+    {
+      "id": "espn-bills::50393792",
+      "team": "bills",
+      "title": "Bills prepare for Vikings' blitz-heavy defense",
+      "summary": "Nick Suss previews the Bills' matchup against the Vikings on Monday Night Football.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T00:16:28Z",
+      "link": "https://www.espn.com/video/clip/_/id/50393792/bills-prepare-vikings-blitz-heavy-defense"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-jake-richard-excelling-in-first-weeks-with-rochester-amerks/",
+      "team": "sabres",
+      "title": "Sabres prospect Jake Richard excelling in first weeks with Rochester Amerks",
+      "summary": "ROCHESTER – The first goal of Buffalo Sabres prospect Jake Richard’s pro career created some confusion.\nAt first, Richard figured the goal would be credited to the shooter, Americans defenseman Gavin McCarthy, his close friend and a fellow rookie. But teammates told Richard the goal belonged to him.\nWhen he watched a replay, Richard, 22, realized the puck hit him as he battled one of the Toronto Marlies for positioning in front of the net.... Read the full article \nThe post Sabres prospect Jake Richard excelling in first weeks with Rochester Amerks first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-05T23:25:20.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-prospect-jake-richard-excelling-in-first-weeks-with-rochester-amerks/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-gold-cup-concacaf-revamped-group-stage-format/",
       "team": "usmnt",
       "title": "USMNT's Gold Cup path to look different as Concacaf unveils revamped group-stage format",
@@ -214,17 +346,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267225-tomlin-said-he-is-not-coming-back-to-coaching/"
     },
     {
-      "id": "espn-bills::50374069",
-      "team": "bills",
-      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T20:42:29Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
-    },
-    {
       "id": "espn-bills::50358691",
       "team": "bills",
       "title": "NFL Week 9 betting odds: Lines and totals for every game",
@@ -234,28 +355,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-05T20:22:09Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
-    },
-    {
-      "id": "espn-bills::50390732",
-      "team": "bills",
-      "title": "Vikings to start QB Carson Wentz against Bills with Kyler Murray ruled out",
-      "summary": "Vikings quarterback Carson Wentz will start Monday night's game against the Buffalo Bills with Kyler Murray ruled out with a hamstring injury.",
-      "source": "ESPN · Kevin Seifert",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T20:18:53Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50390732/vikings-start-qb-wentz-bills-murray-injured"
-    },
-    {
-      "id": "espn-bills::50369047",
-      "team": "bills",
-      "title": "What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season",
-      "summary": "There are 10 new head coaches in the NFL this season, which ties the most ever. How are things going for each of them after eight weeks?",
-      "source": "ESPN · Turron Davenport, Jamison Hensley, Marcel Louis-Jacques, Ryan McFadden, Daniel Oyefusi, Brooke Pryor, Jordan Raanan, Marc Raimondi, Nick Suss, Josh Weinfuss",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T20:08:45Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50369047/2026-nfl-season-10-new-coaches-midseason-good-bad"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/144600/vikings-have-made-their-quarterback-decision-for-monday-night-football-vs-buffalo-bills",
@@ -300,17 +399,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-05T18:32:37.000Z",
       "link": "https://www.buffalobills.com/news/spencer-brown-named-bills-nominee-for-nfl-salute-to-service-award-2026"
-    },
-    {
-      "id": "espn-bills::50360077",
-      "team": "bills",
-      "title": "What 18 contenders should do at the NFL trade deadline: Who could get aggressive?",
-      "summary": "Should the Giants keep adding? Could the Bills go all-in? Would the Steelers stay conservative? Here's how 18 teams at or above .500 should approach the deadline.",
-      "source": "ESPN · Bill Barnwell",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T18:32:13Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50360077/2026-nfl-trade-deadline-contenders-activity-add-subtract"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/144593/report-carson-wentz-trending-toward-starting-for-vikings-vs-buffalo-bills",
@@ -423,6 +511,39 @@
       "link": "https://www.espn.com/nhl/story/_/id/50379033/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-implode-late-waste-strong-effort-from-colten-ellis-in-loss-to-senators/",
+      "team": "sabres",
+      "title": "Sabres implode late, waste strong effort from Colten Ellis in loss to Senators",
+      "summary": "BUFFALO – Well, at least the Sabres didn’t chase Wednesday’s contest until late. But make no mistake, like so many of their home games this season, they could’ve easily fallen behind early to the Ottawa Senators.\nThe Senators generated a point-blank scoring opportunity 11 seconds into the game. Barely 90 seconds in, goalie Colten Ellis bailed the Sabres out again, using his right pad to stymie Michael Amadio’s backdoor chance from the bottom of the ... Read the full article \nThe post Sabres implode late, waste strong effort from Colten Ellis in loss to Senators first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-05T05:53:02.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-implode-late-waste-strong-effort-from-colten-ellis-in-loss-to-senators/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-sam-carrick-took-scenic-route-to-400-nhl-games-still-feeling-injury-suffered-in-fight/",
+      "team": "sabres",
+      "title": "Sabres’ Sam Carrick took ‘scenic route’ to 400 NHL games, still feeling injury suffered in fight",
+      "summary": "BUFFALO – Sabres forward Sam Carrick joked that he took the scenic route to reaching the 400-game milestone in the NHL.\nCarrick, 34, began his pro career 14 years ago in Boise, Idaho, playing 50 games for the ECHL’s Steelheads before graduating to the AHL, where he spent most of the next eight seasons.\nWhile he occasionally earned recalls to the big leagues – he amassed 47 appearances in his first nine seasons – he ... Read the full article \nThe post Sabres’ Sam Carrick took ‘scenic route’ to 400 NHL games, still feeling injury suffered in fight first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-05T05:18:39.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-sam-carrick-took-scenic-route-to-400-nhl-games-still-feeling-injury-suffered-in-fight/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/athletes-in-focus/46922/ssfc-spotlight-trinity-byars-finding-the-back-of-the-net",
+      "team": "usmnt",
+      "title": "SSFC Spotlight: Trinity Byars finding the back of the net",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-05T04:30:25.000Z",
+      "link": "https://www.starsandstripesfc.com/athletes-in-focus/46922/ssfc-spotlight-trinity-byars-finding-the-back-of-the-net"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-squander-late-lead-in-2-1-home-loss-to-senators/",
       "team": "sabres",
       "title": "Sabres squander late lead in 2-1 home loss to Senators",
@@ -443,17 +564,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-05T03:53:38.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267218-week-9-bills-v-viqueens-predict-the-score/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144543/buffalo-bills-should-be-considering-intrinsic-value-of-acquiring-a-player-with-on-an-expiring-contract",
-      "team": "bills",
-      "title": "The Buffalo Bills should be considering value of trading for player on expiring contract",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T00:25:49.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144543/buffalo-bills-should-be-considering-intrinsic-value-of-acquiring-a-player-with-on-an-expiring-contract"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267217-jordan-hancock-returning-to-practice/",
@@ -500,39 +610,6 @@
       "link": "https://www.buffalobills.com/news/the-advanced-stats-behind-the-bills-dominant-week-8-win-over-the-baltimore-ravens"
     },
     {
-      "id": "espn-bills::50370030",
-      "team": "bills",
-      "title": "2026 NFL trade deadline: Players to watch, buzz and goals for all 32 teams",
-      "summary": "We outlined deadline plans for all 32 teams, including who could be dealt before 4 p.m. ET on Tuesday. Here's what you need to know.",
-      "source": "ESPN · NFL Nation, Jeremy Fowler, Dan Graziano, Aaron Schatz and Seth Walder",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-04T20:00:47Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50370030/trade-deadline-team-preview-goals-buzz-players-deals-2026"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144539/how-did-buffalo-bills-swing-tackle-tylan-grable-play-vs-ravens-in-place-of-spencer-brown",
-      "team": "bills",
-      "title": "How did Tylan Grable play vs. Ravens in place of Spencer Brown?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-04T19:14:31.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144539/how-did-buffalo-bills-swing-tackle-tylan-grable-play-vs-ravens-in-place-of-spencer-brown"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267213-jordan-poyer-cjgj-is-gone-because-he-wasnt-a-communicator/",
-      "team": "bills",
-      "title": "Jordan Poyer: CJGJ is gone because he wasn't a communicator...",
-      "summary": "...I'm paraphrasing of course but JoPo essentially said that while CJGJ is \"a player\" it's clear that the communication was not there on the back end, which makes it impossible for the defense to succeed. I'm reading a bit between the lines but the implication is that (a) he was going off script too much, which led Bishop to try and do too much; and (b) he may have not really known what was going on (i.e., unprepared), which if true is absolutely a reason to kick him to the curb. Add in the over-the-line actions (spitting, personal fouls, calling out opponents) and this was an easy call to make over the bye, particularly when you saw how well the back end communicated with Hamlin on the field.\n\n\n\n\t \n\n\n\n\tThe way JoPo talks about the defense it's hard not be optimistic. He correctly states that they don't have to be top 10, they \"just have to be mid\" to support this offense.\n\n\n\n\t \n\n\n\n\tBoth Poyer and Hyde have opined that Leonhard going upstairs is probably a good thing.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-04T18:20:27.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267213-jordan-poyer-cjgj-is-gone-because-he-wasnt-a-communicator/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-mixes-veterans-youth-on-usmnt-roster-for-nations-league-matches/",
       "team": "usmnt",
       "title": "Mauricio Pochettino mixes veterans, youth on USMNT roster for Nations League matches",
@@ -542,6 +619,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-04T17:55:58.000Z",
       "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-mixes-veterans-youth-on-usmnt-roster-for-nations-league-matches/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/colten-ellis-expected-to-start-as-sabres-begin-goalie-rotation-jiri-kulich-conor-timmins-available-to-play/",
+      "team": "sabres",
+      "title": "Colten Ellis expected to start as Sabres begin goalie rotation; Jiri Kulich, Conor Timmins available to play",
+      "summary": "BUFFALO – In the opening month of the season, Sabres coach Lindy Ruff utilized the hot hand in net. Ukko-Pekka Luukkonen started five straight games. Colten Ellis twice earned two consecutive nods.\nBut with tonight’s contest against the Ottawa Senators kicking off a stretch of six games in 11 days, Ruff said he plans to start rotating his goalies.\nEllis, who earned two road wins last week, is expected to play tonight.\n\nOn Oct. 27, ... Read the full article \nThe post Colten Ellis expected to start as Sabres begin goalie rotation; Jiri Kulich, Conor Timmins available to play first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-04T17:14:30.000Z",
+      "link": "https://www.buffalohockeybeat.com/colten-ellis-expected-to-start-as-sabres-begin-goalie-rotation-jiri-kulich-conor-timmins-available-to-play/"
     },
     {
       "id": "bandits-official::https://bandits.com/gurts-fast-break-a-perfect-start/",
@@ -676,6 +764,17 @@
       "link": "http://www.espn.com/nhl/preview?gameId=401892652"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-position-change-sabres-star-tage-thompson-heats-up-eyes-50-goal-mark-you-can-see-hes-dominant/",
+      "team": "sabres",
+      "title": "After position change, Sabres star Tage Thompson heats up, eyes 50-goal mark: ‘You can see he’s dominant’",
+      "summary": "BUFFALO – It can be argued no NHL player has performed more dynamically over the past week than Tage Thompson, who scored five goals and eight points and buoyed the Sabres’ three-game win streak.\nDuring that short stretch, Thompson has produced more than Connor McDavid, the superstar on pace for just the fifth 200-point season in NHL history and the first by a player not named Wayne Gretzky.\nOf course, Thompson, 29, almost certainly ... Read the full article \nThe post After position change, Sabres star Tage Thompson heats up, eyes 50-goal mark: ‘You can see he’s dominant’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-04T05:25:41.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-position-change-sabres-star-tage-thompson-heats-up-eyes-50-goal-mark-you-can-see-hes-dominant/"
+    },
+    {
       "id": "espn-sabres::50375722",
       "team": "sabres",
       "title": "Carolina Hurricanes vs. Nashville Predators: Game Highlights",
@@ -720,6 +819,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-history/144366/buffalo-bills-record-book-week-9-josh-allen-james-cook-greg-rousseau-chase-history"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267207-bills-release-cjgj/",
+      "team": "bills",
+      "title": "Bills release CJGJ",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T21:16:38.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267207-bills-release-cjgj/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/nfl-tmrw-sports-unveil-premier-flag-a-new-professional-flag-football-league-launching-summer-2027",
       "team": "bills",
       "title": "NFL, TMRW Sports unveil Premier Flag, a new professional flag football league launching summer 2027",
@@ -731,26 +841,15 @@
       "link": "https://www.buffalobills.com/news/nfl-tmrw-sports-unveil-premier-flag-a-new-professional-flag-football-league-launching-summer-2027"
     },
     {
-      "id": "espn-sabres::50359836",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/injury-updates-on-sabres-zach-benson-jiri-kulich-and-conor-timmins/",
       "team": "sabres",
-      "title": "NHL Tonight: Oilers-Devils highlights Tuesday's 11-game schedule",
-      "summary": "Find game previews, betting intel, broadcast information, stats and highlights here.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
+      "title": "Injury updates on Sabres’ Zach Benson, Jiri Kulich and Conor Timmins",
+      "summary": "BUFFALO – Winger Zach Benson practiced this morning and will be available to play when the Sabres begin their four-game home stand Wednesday against the Ottawa Senators, coach Lindy Ruff said.\n“Went well for Benson,” Ruff said following the session in KeyBank Center.\nBenson, who suffered an undisclosed injury in Saturday afternoon’s 3-2 road win against the Los Angeles Kings, missed Monday’s practice. He skated on his own before today’s session.\n\nIn other news, Ruff ... Read the full article \nThe post Injury updates on Sabres’ Zach Benson, Jiri Kulich and Conor Timmins first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-03T18:02:14Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50359836/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267205-replacing-long-term-nfl-headcoaches-2026-addition/",
-      "team": "bills",
-      "title": "Replacing Long Term NFL Headcoaches 2026 Addition",
-      "summary": "Last season saw threelong tenured NFL head coaches replaced.  Mike Tomlin, Sean McDermott and John Harbaugh.   There replacement coaches this season are a combined 15-7.  And four of the losses are from the Raven's who have not had their franchise QB available for them. \n\t\n\tNone of Mike McCarthy , Joe Brady, or Jesse Minter may prove to be the coaches to lead their teams to championships.  But the lesson of this season is the risk is not really that great on the head coach changes, when they have gone stale.  Many TBD poster were concerned for the last couple of years that changing McDermott meant a return to the \"drought era\".  It seems clearly that is unlikely at this point.  I am more optimisitic about the Bills then the steelers or raven's chances.  But I don't think having retained any of Tomlin, McDermott or Harbaugh have reduced their changes this season.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-03T17:48:04.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267205-replacing-long-term-nfl-headcoaches-2026-addition/"
+      "publishedAt": "2026-11-03T18:12:59.000Z",
+      "link": "https://www.buffalohockeybeat.com/injury-updates-on-sabres-zach-benson-jiri-kulich-and-conor-timmins/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/46983/emma-hayes-names-almost-everyone-to-uswnt-preliminary-roster",
@@ -762,6 +861,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-03T16:41:09.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-news/46983/emma-hayes-names-almost-everyone-to-uswnt-preliminary-roster"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/injury-news-on-sabres-alex-lyon-zach-benson-jiri-kulich-and-conor-timmins/",
+      "team": "sabres",
+      "title": "Injury news on Sabres’ Alex Lyon, Zach Benson, Jiri Kulich and Conor Timmins",
+      "summary": "BUFFALO – Hey, considering the adversity they battled, the Sabres enjoyed a pretty solid opening month.\nWas it up the lofty standard they set last season? Hardly. But a team that kept falling behind multiple goals seemingly each night and had 11 players miss time with injuries finished October with a 7-4-3 record and has points in eight of its last nine games.\nLast week, the Sabres finally found a groove, closing their four-game road ... Read the full article \nThe post Injury news on Sabres’ Alex Lyon, Zach Benson, Jiri Kulich and Conor Timmins first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T05:32:41.000Z",
+      "link": "https://www.buffalohockeybeat.com/injury-news-on-sabres-alex-lyon-zach-benson-jiri-kulich-and-conor-timmins/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267194-a-few-thoughts-about-the-ravens-game-in-no-particular-order/",
@@ -797,15 +907,15 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/46472/usmnt-weekend-roundup-puli-scores-pepi-back"
     },
     {
-      "id": "espn-sabres::50354672",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-unveil-hometown-remix-jersey-that-honors-buffalo/",
       "team": "sabres",
-      "title": "Who's No. 1? Our definitive ranking of the NHL's new Hometown Remix jerseys",
-      "summary": "Here is our ranking of the 32 NHL Hometown Remix jerseys for the 2026-27 season.",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
+      "title": "Sabres unveil ‘Hometown Remix’ jersey that honors Buffalo",
+      "summary": "The design elements in the Sabres’ blue “Hometown Remix” jersey the NHL unveiled today honor Buffalo’s history as “The City of Light.”\nIn addition to the classic “Goathead” crest, the jersey features the ‘B’ shoulder logo used on past uniforms with an electrified sabre going through it.\nDebossed lightning bolts and stars with metallic gold stripes accentuate the sleeves. The custom numbers are also inspired by the Buffalo’s electric history.\n\nIn a post on X, ... Read the full article \nThe post Sabres unveil ‘Hometown Remix’ jersey that honors Buffalo first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-02T16:08:14Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50354672/nhl-2026-27-hometown-remix-jerseys-rankings"
+      "publishedAt": "2026-11-02T15:57:58.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-unveil-hometown-remix-jersey-that-honors-buffalo/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46872/usmnt-midweek-viewing-guide-malik-vs-weah-pepi-back",
@@ -817,6 +927,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-02T13:24:13.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/46872/usmnt-midweek-viewing-guide-malik-vs-weah-pepi-back"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267180-the-bills-beat-the-ravens-because-of-you-superstitionkarma-reasons/",
+      "team": "bills",
+      "title": "The Bills beat the Ravens because of you... (superstition/karma reasons)",
+      "summary": "How did your actions yesterday help the Bills win?  Something you ate?  Did you change your shirt at halftime?  Kick that annoying friend/relative out of the house? See your first 1pm game in the new stadium?  I’ll start…\n\n\n\n\t \n\n\n\n\tKept up with my same routine as last game, and watched the game yesterday, plus had a beer, but kept up with the not wearing anything Bills related. You're welcome.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-02T13:21:27.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267180-the-bills-beat-the-ravens-because-of-you-superstitionkarma-reasons/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-11-2/",
@@ -852,26 +973,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/267175-game-week-thread-bills-at-vikings-mnf/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267173-tecory-couchlooked-pretty-good-out-there-in-the-slot-corner-position/",
-      "team": "bills",
-      "title": "Te'Cory Couch.....looked pretty good out there in the slot corner position....",
-      "summary": "Thought he flashed on a few plays....he got a few mentions from the announcing crew as well.\n\n\n\n\t \n\n\n\n\tLiked when the announcer mentioned that he asked Benford if Couch was going to be ready to play and Benford said that Couch was \"more than ready\" and they were excited for him to get his opportunity.\n\n\n\n\t \n\n\n\n\tWhat does everyone think?? His play today might just warrant a chance to take the position from Alford....",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-assign-defenseman-to-rochester/",
+      "team": "sabres",
+      "title": "Sabres assign defenseman to Rochester",
+      "summary": "The Buffalo Sabres today sent defenseman Dennis Gilbert back to the Rochester Americans.\nThe Buffalo native played five games during his recall, compiling one goal, two points and six penalty minutes.\nHe played four contests with the Amerks earlier this season, registering zero points and six penalty minutes.\n\nAssigning Gilbert, 30, to the AHL could mean one or both of the Sabres’ injured defensemen – Matt Grzelcyk and Conor Timmins – are ready to play.... Read the full article \nThe post Sabres assign defenseman to Rochester first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-02T04:47:46.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267173-tecory-couchlooked-pretty-good-out-there-in-the-slot-corner-position/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/we-ve-created-our-identity-the-bills-defense-reflects-on-its-dominant-showing-against-the-ravens",
-      "team": "bills",
-      "title": "'We've created our identity' | The Bills defense reflects on its dominant showing against the Ravens",
-      "summary": "Buffalo's defensive breakout broken down by the players and coaches who made it happen",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T03:02:13.000Z",
-      "link": "https://www.buffalobills.com/news/we-ve-created-our-identity-the-bills-defense-reflects-on-its-dominant-showing-against-the-ravens"
+      "publishedAt": "2026-11-01T15:57:11.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-assign-defenseman-to-rochester/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-3-2-kings-recap-scare-up-a-california-sweep-behind-thompson-luukkonen/",
@@ -951,6 +1061,17 @@
       "link": "https://www.diebytheblade.com/game-13-preview-open-thread-sabres-at-ducks/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/torrid-start-for-rochester-amerks-could-help-williamsvilles-trevor-kuntar-earn-another-recall-to-sabres/",
+      "team": "sabres",
+      "title": "Torrid start for Rochester Amerks could help Williamsville’s Trevor Kuntar earn another recall to Sabres",
+      "summary": "ROCHESTER – For one night, Trevor Kuntar struggled. Forget that the ultra-competitive Americans winger recorded a couple of points. He lost battles and looked off his game.\nNormally, the Williamsville native is the guy dragging his teammates into the fray alongside him.\nSo following last Wednesday’s 5-3 home loss to the Utica Comets, coach Mike Leone told Kuntar he needed to raise his standard.\n\n“We have a great relationship, and I really challenged him,” Leone ... Read the full article \nThe post Torrid start for Rochester Amerks could help Williamsville’s Trevor Kuntar earn another recall to Sabres first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-29T05:54:29.000Z",
+      "link": "https://www.buffalohockeybeat.com/torrid-start-for-rochester-amerks-could-help-williamsvilles-trevor-kuntar-earn-another-recall-to-sabres/"
+    },
+    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/athletes-in-focus/46867/ssfc-spotlight-zane-okoro-seeking-consistency-in-league-two",
       "team": "usmnt",
       "title": "SSFC Spotlight: Zane Okoro seeking consistency in League Two",
@@ -1015,17 +1136,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-26T18:30:44.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46712/usmnt-midweek-viewing-guide-on-we-go",
-      "team": "usmnt",
-      "title": "USMNT midweek viewing guide: On we go",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T04:08:12.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/46712/usmnt-midweek-viewing-guide-on-we-go"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/",
