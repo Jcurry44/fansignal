@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:19:49.343Z",
+  "generatedAt": "2026-11-07T22:12:46.819Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -170,6 +170,94 @@
   ],
   "stories": [
     {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-highlights-capitals-4-panthers-3-2/",
+      "team": "sabres",
+      "title": "NHL Highlights: Capitals 4, Panthers 3",
+      "summary": "Alex Tuch scored his 11th goal of the season, while Pierre-Luc Dubois notched a goal and an assist, as the Washington Capitals picked up a 4-3 win over the Florida Panthers.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T20:26:13.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/nhl-highlights-capitals-4-panthers-3-2/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267245-chiefs-tickets-for-sale/",
+      "team": "bills",
+      "title": "Chiefs Tickets for Sale",
+      "summary": "I hate to put this here and @Simon feel free to close this down if it violates rules. I don’t want to turn this into a marketplace.\n\t \n\n\n\n\tI have 2 club seats for sale to the Chiefs game on Thanksgiving. The catch is, you’ll be sitting next to my brother and I. We just listed them but would rather someone from here, and without the fees and less than they’re listed for. $2500 for the pair. PM me if interested.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T19:54:04.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267245-chiefs-tickets-for-sale/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-vikings-week-9",
+      "team": "bills",
+      "title": "Buffalo Bills injury report vs. Vikings | Week 9",
+      "summary": "Designations for WR Joshua Palmer, LT Dion Dawkins, LG Alec Anderson, DB Jordan Hancock, DL Greg Gaines and WR Tyrell Shavers",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T19:10:23.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-vikings-week-9"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/zach-hyman-devon-levi-return-to-oilers-lineup-vs-canucks/",
+      "team": "sabres",
+      "title": "Zach Hyman, Devon Levi return to Oilers lineup vs. Canucks",
+      "summary": "Forward Zach Hyman and goaltender Devon Levi are set to draw in for the showdown against the Vancouver Canucks, the team announced ahead of the Saturday Night Hockey matchup (Sportsnet and Sportsnet+, 10 p.m. ET / 9 p.m. ABT)",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T19:03:22.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/zach-hyman-devon-levi-return-to-oilers-lineup-vs-canucks/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/144572/bills-news-the-latest-on-potential-deadline-deals",
+      "team": "bills",
+      "title": "Bills news: The latest on potential deadline deals",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T18:02:51.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/144572/bills-news-the-latest-on-potential-deadline-deals"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144717/buffalo-bills-fan-confidence-makes-huge-rebound-ahead-of-week-9",
+      "team": "bills",
+      "title": "Buffalo Bills fan confidence makes huge rebound ahead of Week 9",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T17:43:44.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144717/buffalo-bills-fan-confidence-makes-huge-rebound-ahead-of-week-9"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-rumors/144704/report-buffalo-bills-are-looking-to-trade-for-defensive-back",
+      "team": "bills",
+      "title": "Report: Buffalo Bills are looking to trade for defensive back",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T13:44:54.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-rumors/144704/report-buffalo-bills-are-looking-to-trade-for-defensive-back"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144641/5-buffalo-bills-to-watch-at-the-minnesota-vikings",
+      "team": "bills",
+      "title": "5 Buffalo Bills to watch at the Minnesota Vikings",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T13:20:55.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144641/5-buffalo-bills-to-watch-at-the-minnesota-vikings"
+    },
+    {
       "id": "espn-bills::50389499",
       "team": "bills",
       "title": "2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others",
@@ -203,17 +291,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/50390728/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267243-two-potential-5000-yard-rushers-on-mnf/",
-      "team": "bills",
-      "title": "Two potential 5000 Yard Rushers on MNF",
-      "summary": "https://sports.yahoo.com/articles/josh-allen-james-cook-both-084539831.html\n\n\n\n\t \n\n\n\n\tJosh Allen is 9 yards short of 5000 career rushing yards and James Cook needs just 34 yards to reach the same milestone. \n\n\n\n\t \n\n\n\n\tThat would be really amazing to see both of them join this club. For QBs,  Allen will be the 5th QB to rush for 5000 yards.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T10:48:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267243-two-potential-5000-yard-rushers-on-mnf/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267242-taylor-rapp-cut-by-broncos/",
       "team": "bills",
       "title": "Taylor Rapp  cut by Broncos",
@@ -225,17 +302,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267242-taylor-rapp-cut-by-broncos/"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-highlights-wild-4-sharks-1/",
-      "team": "sabres",
-      "title": "NHL Highlights: Wild 4, Sharks 1",
-      "summary": "Kirill Kaprizov scored and added three assists, while Quinn Hughes also found the back of the net, as the Minnesota Wild defeated the San Jose Sharks 4-1.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T04:20:38.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/nhl-highlights-wild-4-sharks-1/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-josh-norris-breaks-out-of-slump-scores-two-goals-in-much-needed-home-win-over-blue-jackets/",
       "team": "sabres",
       "title": "Sabres’ Josh Norris breaks out of slump, scores two goals in much-needed home win over Blue Jackets",
@@ -243,7 +309,7 @@
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-07T04:12:37.000Z",
+      "publishedAt": "2026-11-07T05:12:37.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-josh-norris-breaks-out-of-slump-scores-two-goals-in-much-needed-home-win-over-blue-jackets/"
     },
     {
@@ -401,17 +467,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267236-beane-tells-ap-he-is-%E2%80%9Cas-aggressive-as-ever%E2%80%9D-this-trade-deadline/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267235-dolphins-hire-dan-campbell-zac-taylor-and-ben-johnson/",
-      "team": "bills",
-      "title": "Dolphins hire Dan Campbell, Zac Taylor, and Ben Johnson",
-      "summary": "But then fired them pretty quickly, lol",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T18:16:14.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267235-dolphins-hire-dan-campbell-zac-taylor-and-ben-johnson/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144674/nfl-trade-deadline-buffalo-bills-trade-candidate-nick-cross",
       "team": "bills",
       "title": "NFL trade deadline: Buffalo Bills trade candidate – Nick Cross",
@@ -465,28 +520,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-06T13:28:42Z",
       "link": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144599/inside-the-blitzing-arsenal-of-vikings-defensive-coordinator-brian-flores",
-      "team": "bills",
-      "title": "Inside the blitzing arsenal of Vikings defensive coordinator Brian Flores",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T13:08:21.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144599/inside-the-blitzing-arsenal-of-vikings-defensive-coordinator-brian-flores"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-rumors/144658/report-buffalo-bills-gm-brandon-beane-hints-at-how-hes-approaching-nfl-trade-deadline",
-      "team": "bills",
-      "title": "Report: Buffalo Bills GM Brandon Beane hints at how he’s approaching NFL trade deadline",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T11:36:20.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-rumors/144658/report-buffalo-bills-gm-brandon-beane-hints-at-how-hes-approaching-nfl-trade-deadline"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144625/does-carson-wentz-make-the-minnesota-vikings-a-bigger-threat-to-buffalo-bills",
@@ -588,28 +621,6 @@
       "link": "https://www.buffalobills.com/news/there-aren-t-any-weaknesses-how-the-bills-offense-is-preparing-to-face-the-blitz-heavy-minnesota-vikings"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/144612/buffalo-bills-injury-report-dee-alford-spencer-brown-return",
-      "team": "bills",
-      "title": "Buffalo Bills Injury Report: Dee Alford, Spencer Brown Return",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T01:48:53.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/144612/buffalo-bills-injury-report-dee-alford-spencer-brown-return"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/144615/baltimore-ravens-vs-jacksonville-jaguars-tnf-week-9-fan-discussion",
-      "team": "bills",
-      "title": "Baltimore Ravens vs. Jacksonville Jaguars, ‘TNF’ Week 9 fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T01:18:09.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/144615/baltimore-ravens-vs-jacksonville-jaguars-tnf-week-9-fan-discussion"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-gold-cup-concacaf-revamped-group-stage-format/",
       "team": "usmnt",
       "title": "USMNT's Gold Cup path to look different as Concacaf unveils revamped group-stage format",
@@ -621,15 +632,15 @@
       "link": "https://www.cbssports.com/soccer/news/usmnts-gold-cup-concacaf-revamped-group-stage-format/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/144600/vikings-have-made-their-quarterback-decision-for-monday-night-football-vs-buffalo-bills",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267227-chiefs-wr-rashee-rice-files-for-bankruptcy/",
       "team": "bills",
-      "title": "Vikings have made their quarterback decision for Monday Night Football vs. Buffalo Bills",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
+      "title": "Chiefs WR Rashee Rice files for bankruptcy",
+      "summary": "Only $6M in career earnings, so take-home of around $3M. Probably spent most of it already.\n\n\n\n\t \n\n\n\n\tAnd has over $3M in pending settlements from lawsuits from his driving incident(s).\n\n\n\n\t \n\n\n\n\tThis is what they call the Find Out portion. Guess he's lucky he's in the final year of his rookie contract and has a payday coming?\n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\thttps://www.espn.com/nfl/story/_/id/50391911/chiefs-rashee-rice-files-bankruptcy-cites-345m-debt\n\n\n\n\t \n\n\n\n\t\"Kansas City Chiefs wide receiver Rashee Rice filed for bankruptcy in federal court Wednesday, claiming he has more than $3.45 million in debts, according to federal court records.\n\n\n\n\t \n\n\n\n\tRice, who filed in the Northern District of Texas bankruptcy court, claimed more than $2.1 million of his debts are tied to varying plaintiffs suing him in civil litigations that have either been settled or are awaiting trial.\n\n\n\n\t \n\n\n\n\tRice, 26, has been sued by multiple individuals for his role in a high-speed multicar crash in Dallas in 2024 and an ex-girlfriend alleging he repeatedly assaulted her from 2023 to 2025.\n\n\n\n\t \n\n\n\n\tIn the filing, Rice claimed to have $677,054 in personal assets, including $421,825 in \"deferred compensation.\" The filing claims Rice has $13,640 in his checking accounts. He claims to rent a residence and that he does not own any property...\"",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-05T18:40:32.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/144600/vikings-have-made-their-quarterback-decision-for-monday-night-football-vs-buffalo-bills"
+      "publishedAt": "2026-11-05T22:02:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267227-chiefs-wr-rashee-rice-files-for-bankruptcy/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267224-wentz-to-start-vs-bills/",
@@ -654,17 +665,6 @@
       "link": "https://www.buffalobills.com/news/spencer-brown-named-bills-nominee-for-nfl-salute-to-service-award-2026"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267223-bills-sign-ncb-kader-kohou-to-practice-squad/",
-      "team": "bills",
-      "title": "Bills sign NCB Kader Kohou to practice squad",
-      "summary": "I saw this in the game week thread, but it felt like it deserved its own discussion.\n\t\n\tFeels like a good flier to take on a talented player who is hopefully fully healed from recent injuries.\n\t\n\t\n\thttps://www.buffalobills.com/news/bills-sign-cb-kader-kohou-to-the-practice-squad\n\t\n\t\n\t \n\n\n\n\t\n\tThe Buffalo Bills signed 27-year-old cornerback Kader Kohou to the practice squad on Thursday.\n\n\n\n\t\n\tKohou began the 2026 season on the Kansas City Chiefs practice squad, and was recently released by the team one day after their Week 8 loss to the Denver Broncos.\n\n\n\n\t\n\tBeginning his career with the Miami Dolphins in 2022, Kohou put together 47 games of NFL experience. He started 38 of those contests, tallying three interceptions, 28 passes defended and 180 tackles.\n\n\n\n\t\n\tEntering the 2025 season, Kohou was in the final year of his contract with the Dolphins. A torn ACL in training camp sidelined him for the duration of the season. The 5-foot-10, 197-pound corner hasn't seen game action since the end of 2024.\n\n\n\n\t\n\tKohou joins the Bills practice squad in place of CB Te'Cory Couch, who was called up to the active roster prior to the Week 8 victory over the Baltimore Ravens.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 2,
-      "publishedAt": "2026-11-05T16:59:53.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267223-bills-sign-ncb-kader-kohou-to-practice-squad/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267220-lamar-jackson-no-longer-elite/",
       "team": "bills",
       "title": "Lamar Jackson no longer elite?",
@@ -674,6 +674,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-05T15:04:14.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267220-lamar-jackson-no-longer-elite/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-cb-kader-kohou-to-the-practice-squad",
+      "team": "bills",
+      "title": "Bills sign CB Kader Kohou to the practice squad",
+      "summary": "Former Kansas City Chiefs and Miami Dolphins corner joins the practice squad",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-05T14:59:48.000Z",
+      "link": "https://www.buffalobills.com/news/bills-sign-cb-kader-kohou-to-the-practice-squad"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cristiano-ronaldo-retires-portugal-national-team/",
@@ -940,17 +951,6 @@
       "link": "https://www.buffalohockeybeat.com/after-position-change-sabres-star-tage-thompson-heats-up-eyes-50-goal-mark-you-can-see-hes-dominant/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-release-safety-cj-gardner-johnson",
-      "team": "bills",
-      "title": "Buffalo Bills release safety C.J. Gardner-Johnson",
-      "summary": "In six games with Buffalo, Gardner-Johnson made six starts, 26 tackles and one interception.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-03T21:39:21.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-release-safety-cj-gardner-johnson"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/injury-updates-on-sabres-zach-benson-jiri-kulich-and-conor-timmins/",
       "team": "sabres",
       "title": "Injury updates on Sabres’ Zach Benson, Jiri Kulich and Conor Timmins",
@@ -1180,6 +1180,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-27T16:35:51.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267095-fire-sale-in-indy-nelson-traded-update-buckner-gone-update-downs-wants-out/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/",
+      "team": "bills",
+      "title": "Trade Deadline Move (s)",
+      "summary": "What will Beane do here... will he make a trade pick up a FA or leave it be... would love to hear whom you think might be in the mix....  My guess is a DB and maybe someone like Rasul Douglas... not that I think that changes a lot but he is familiar with him and Beane likes that.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-26T18:30:44.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/",
