@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T20:54:30.950Z",
+  "generatedAt": "2026-11-07T00:42:11.525Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 3,
+      "itemCount": 4,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "final",
-      "headline": "Final · L 1-2",
-      "detail": "vs OTT"
+      "state": "live",
+      "headline": "1 - 1",
+      "detail": "vs CBJ · P1"
     },
     {
       "team": "bandits",
@@ -169,6 +169,72 @@
     }
   ],
   "stories": [
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/hockey/nhl/games/7d8d3744-def2-420b-80c4-c3327026d14d",
+      "team": "sabres",
+      "title": "NHL on Sportsnet: Sabres vs. Blue Jackets",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T23:53:39.000Z",
+      "link": "https://www.sportsnet.ca/hockey/nhl/games/7d8d3744-def2-420b-80c4-c3327026d14d"
+    },
+    {
+      "id": "espn-bills::50402679",
+      "team": "bills",
+      "title": "How the Bills are planning with illnesses on the OL",
+      "summary": "Nicholas Suss reports on the state of the Bills' offensive line going into Monday Night Football.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T23:29:55Z",
+      "link": "https://www.espn.com/video/clip/_/id/50402679/how-bills-planning-illnesses-ol"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267241-the-curious-case-of-brandon-aiyuk/",
+      "team": "bills",
+      "title": "The Curious Case of Brandon Aiyuk",
+      "summary": "The bizarrest story in the NFL gets bizarrer.\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t\n\tthis is actually wild that he’s just showing up after going AWOL.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T23:25:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267241-the-curious-case-of-brandon-aiyuk/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-lt-dion-dawkins-trying-to-push-through-rib-injury-for-week-9-against-vikings",
+      "team": "bills",
+      "title": "Bills LT Dion Dawkins trying to \"push through\" rib injury for Week 9 against Vikings",
+      "summary": "Dion Dawkins fought through a rib injury against the Ravens, but now his status is in doubt for Monday night’s contest against the Vikings.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T23:05:03.000Z",
+      "link": "https://www.buffalobills.com/news/bills-lt-dion-dawkins-trying-to-push-through-rib-injury-for-week-9-against-vikings"
+    },
+    {
+      "id": "espn-sabres::50390728",
+      "team": "sabres",
+      "title": "NHL Power Rankings: Updated poll, plus fantasy hockey surprises for all 32 teams",
+      "summary": "Another week with the Canes at No. 1, but a big shakeup in the Top 5.",
+      "source": "ESPN · Sean Allen and Victoria Matiash",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T21:46:19Z",
+      "link": "https://www.espn.com/nhl/story/_/id/50390728/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/steve-cherundolo-names-first-u-s-u-23-roster-on-road-to-2028-los-angeles-olympic-games/",
+      "team": "usmnt",
+      "title": "Steve Cherundolo names first U.S. U-23 roster on road to 2028 Los Angeles Olympic Games",
+      "summary": "Matches against Scotland and Ukraine feature six players with senior USMNT call-ups, led by 2024 Olympian Benjamin Cremaschi and eight European-based prospects",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-06T20:43:45.000Z",
+      "link": "https://www.cbssports.com/soccer/news/steve-cherundolo-names-first-u-s-u-23-roster-on-road-to-2028-los-angeles-olympic-games/"
+    },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267239-trade-deadline-targetsafety-nick-crosswash/",
       "team": "bills",
@@ -217,7 +283,7 @@
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-to-make-ryan-mcleod-healthy-scratch-change-defense/",
       "team": "sabres",
       "title": "Sabres to make Ryan McLeod healthy scratch, change defense",
-      "summary": "BUFFALO – With the Sabres clinging to a 1-0 in Wednesday’s third period, forward Ryan McLeod lost a defensive-zone faceoff and allowed his man, center Shane Pinto, to get free in front of goalie Colten Ellis.\nPinto quickly swept in a rebound, the first of two late goals the Ottawa Senators scored in their 2-1 victory.\nMcLeod has struggled all season, mustering just one goal and three points while compiling a team-worst minus-7 ... Read the full article \nThe post Sabres to make Ryan McLeod healthy scratch, change defense first appeared on Buffalo Hockey Beat.",
+      "summary": "BUFFALO – With the Sabres clinging to a 1-0 lead in Wednesday’s third period, forward Ryan McLeod lost a defensive-zone faceoff and allowed his man, center Shane Pinto, to get free in front of goalie Colten Ellis.\nPinto quickly swept in a rebound, the first of two late goals the Ottawa Senators scored in their 2-1 victory.\nMcLeod has struggled all season, mustering just one goal and three points while compiling a team-worst ... Read the full article \nThe post Sabres to make Ryan McLeod healthy scratch, change defense first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
@@ -322,17 +388,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-06T15:44:45Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
-    },
-    {
-      "id": "espn-sabres::50390728",
-      "team": "sabres",
-      "title": "NHL Power Rankings: Updated poll, plus fantasy hockey surprises for all 32 teams",
-      "summary": "Another week with the Canes at No. 1, but a big shakeup in the Top 5.",
-      "source": "ESPN · Sean Allen and Victoria Matiash",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T14:29:39Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50390728/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/144643/bills-mafia-takes-over-minneapolis-your-guide-to-food-football-and-fun-before-monday-night-football",
@@ -522,17 +577,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
     },
     {
-      "id": "espn-bills::50393792",
-      "team": "bills",
-      "title": "Bills prepare for Vikings' blitz-heavy defense",
-      "summary": "Nick Suss previews the Bills' matchup against the Vikings on Monday Night Football.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T00:16:28Z",
-      "link": "https://www.espn.com/video/clip/_/id/50393792/bills-prepare-vikings-blitz-heavy-defense"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnts-gold-cup-concacaf-revamped-group-stage-format/",
       "team": "usmnt",
       "title": "USMNT's Gold Cup path to look different as Concacaf unveils revamped group-stage format",
@@ -553,17 +597,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-05T22:02:03.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267227-chiefs-wr-rashee-rice-files-for-bankruptcy/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267225-tomlin-said-he-is-not-coming-back-to-coaching/",
-      "team": "bills",
-      "title": "Tomlin said he is not coming back to coaching.",
-      "summary": "I guess he is going the Bill Cowher route. I am sure he is getting paid millions by NBC to watch and talk football on the SNF show. Doesn't have to deal with the stress that comes with coaching. He can spend more time with his family and pursue other interests outside of football. I can't say I blame him.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T20:46:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267225-tomlin-said-he-is-not-coming-back-to-coaching/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/144600/vikings-have-made-their-quarterback-decision-for-monday-night-football-vs-buffalo-bills",
@@ -610,26 +643,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/144593/report-carson-wentz-trending-toward-starting-for-vikings-vs-buffalo-bills"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267223-bills-sign-ncb-kader-kohou-to-practice-squad/",
+      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-cb-kader-kohou-to-the-practice-squad",
       "team": "bills",
-      "title": "Bills sign NCB Kader Kohou to practice squad",
-      "summary": "I saw this in the game week thread, but it felt like it deserved its own discussion.\n\t\n\tFeels like a good flier to take on a talented player who is hopefully fully healed from recent injuries.\n\t\n\t\n\thttps://www.buffalobills.com/news/bills-sign-cb-kader-kohou-to-the-practice-squad\n\t\n\t\n\t \n\n\n\n\t\n\tThe Buffalo Bills signed 27-year-old cornerback Kader Kohou to the practice squad on Thursday.\n\n\n\n\t\n\tKohou began the 2026 season on the Kansas City Chiefs practice squad, and was recently released by the team one day after their Week 8 loss to the Denver Broncos.\n\n\n\n\t\n\tBeginning his career with the Miami Dolphins in 2022, Kohou put together 47 games of NFL experience. He started 38 of those contests, tallying three interceptions, 28 passes defended and 180 tackles.\n\n\n\n\t\n\tEntering the 2025 season, Kohou was in the final year of his contract with the Dolphins. A torn ACL in training camp sidelined him for the duration of the season. The 5-foot-10, 197-pound corner hasn't seen game action since the end of 2024.\n\n\n\n\t\n\tKohou joins the Bills practice squad in place of CB Te'Cory Couch, who was called up to the active roster prior to the Week 8 victory over the Baltimore Ravens.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 2,
-      "publishedAt": "2026-11-05T16:59:53.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267223-bills-sign-ncb-kader-kohou-to-practice-squad/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267220-lamar-jackson-no-longer-elite/",
-      "team": "bills",
-      "title": "Lamar Jackson no longer elite?",
-      "summary": "Had this discussion with a few different people. It just feels Jackson is on the downward side of his career. I think when he is available he is a top 10 QB but the injuries are starting to stack up and his style of play I don’t see him lasting a full 17 games in a season. (He’s not built like Big Ben and Josh Allen where he can take a beating and keep going) so what is everyone’s thoughts here? IMO he is top 10 when healthy but no longer in the top 4 like he always was.. he just isn’t reliable enough to be there.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "title": "Bills sign CB Kader Kohou to the practice squad",
+      "summary": "Former Kansas City Chiefs and Miami Dolphins corner joins the practice squad",
+      "source": "Bills.com",
+      "sourceType": "team",
       "sourceCount": 1,
-      "publishedAt": "2026-11-05T15:04:14.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267220-lamar-jackson-no-longer-elite/"
+      "publishedAt": "2026-11-05T14:59:48.000Z",
+      "link": "https://www.buffalobills.com/news/bills-sign-cb-kader-kohou-to-the-practice-squad"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cristiano-ronaldo-retires-portugal-national-team/",
@@ -740,6 +762,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-04T19:44:45.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267215-ravens-trade-for-brissett/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267213-jordan-poyer-cjgj-is-gone-because-he-wasnt-a-communicator/",
+      "team": "bills",
+      "title": "Jordan Poyer: CJGJ is gone because he wasn't a communicator...",
+      "summary": "...I'm paraphrasing of course but JoPo essentially said that while CJGJ is \"a player\" it's clear that the communication was not there on the back end, which makes it impossible for the defense to succeed. I'm reading a bit between the lines but the implication is that (a) he was going off script too much, which led Bishop to try and do too much; and (b) he may have not really known what was going on (i.e., unprepared), which if true is absolutely a reason to kick him to the curb. Add in the over-the-line actions (spitting, personal fouls, calling out opponents) and this was an easy call to make over the bye, particularly when you saw how well the back end communicated with Hamlin on the field.\n\n\n\n\t \n\n\n\n\tThe way JoPo talks about the defense it's hard not be optimistic. He correctly states that they don't have to be top 10, they \"just have to be mid\" to support this offense.\n\n\n\n\t \n\n\n\n\tBoth Poyer and Hyde have opined that Leonhard going upstairs is probably a good thing.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-04T18:20:27.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267213-jordan-poyer-cjgj-is-gone-because-he-wasnt-a-communicator/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-mixes-veterans-youth-on-usmnt-roster-for-nations-league-matches/",
@@ -918,17 +951,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-release-safety-cj-gardner-johnson"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/nfl-tmrw-sports-unveil-premier-flag-a-new-professional-flag-football-league-launching-summer-2027",
-      "team": "bills",
-      "title": "NFL, TMRW Sports unveil Premier Flag, a new professional flag football league launching summer 2027",
-      "summary": "Premier Flag will bring the world’s best players together in a fast-paced, elite competition created for a new generation of global fans",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-03T20:21:27.000Z",
-      "link": "https://www.buffalobills.com/news/nfl-tmrw-sports-unveil-premier-flag-a-new-professional-flag-football-league-launching-summer-2027"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/injury-updates-on-sabres-zach-benson-jiri-kulich-and-conor-timmins/",
       "team": "sabres",
       "title": "Injury updates on Sabres’ Zach Benson, Jiri Kulich and Conor Timmins",
@@ -1026,17 +1048,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-02T05:53:36.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267175-game-week-thread-bills-at-vikings-mnf/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267165-hows-the-d-look-after-the-bye/",
-      "team": "bills",
-      "title": "How's the D look after the bye?",
-      "summary": "One meaningful snap: our very first defensive snap where Bills up-to-date MVP Rousseau broke Lamar's right thumb, and that's pretty much all she wrote for the game.\n\n\n\n\t \n\n\n\n\tTaking Flowers away is impressive. No wide open guys from my TV screen. No long rumbling from Henry. Still saw a few late communications. But against a QB of pre-season ilk. it means nothing in terms of answering all the questions we have before the bye.\n\n\n\n\t \n\n\n\n\tbtw, did I see Leonhard calling plays from the booth (behind a glass window) today?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-01T22:06:20.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267165-hows-the-d-look-after-the-bye/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-assign-defenseman-to-rochester/",
@@ -1160,6 +1171,17 @@
       "link": "https://www.diebytheblade.com/colten-chaos-dazzles-as-sabres-blank-sharks-2-0/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267095-fire-sale-in-indy-nelson-traded-update-buckner-gone-update-downs-wants-out/",
+      "team": "bills",
+      "title": "FIRE SALE IN INDY. Nelson traded (update: Buckner gone) update: Downs wants out",
+      "summary": "step right up and take your pick Beane!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-27T16:35:51.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267095-fire-sale-in-indy-nelson-traded-update-buckner-gone-update-downs-wants-out/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/",
       "team": "bills",
       "title": "Trade Deadline Move (s)",
@@ -1180,6 +1202,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T19:30:51.000Z",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266898-spencer-brown-back-injury-update-grable-review/",
+      "team": "bills",
+      "title": "Spencer Brown back injury (Update: Grable review)",
+      "summary": "Spencer Brown back injury is concerning but staying hopeful that it isn’t long term. \n\n\n\n\t\n\n\n\n\t\n\n\n\n\tGrable had multiple penalties I believe in his place and Aaron Donald tried to fight him. But he’s fast.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-13T12:21:58.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266898-spencer-brown-back-injury-update-grable-review/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266243-bills-replacing-grass-at-highmark-starting-monday/",
