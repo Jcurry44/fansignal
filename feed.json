@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T19:25:09.523Z",
+  "generatedAt": "2026-11-08T23:01:28.129Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 3,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "final",
-      "headline": "Final · W 5-2",
-      "detail": "vs CBJ"
+      "state": "live",
+      "headline": "1 - 4",
+      "detail": "vs VGK · P3"
     },
     {
       "team": "bandits",
@@ -170,6 +170,17 @@
   ],
   "stories": [
     {
+      "id": "espn-bills::50380155",
+      "team": "bills",
+      "title": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
+      "summary": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
+      "source": "ESPN · Nick Suss",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T22:38:11Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo"
+    },
+    {
       "id": "espn-bills::50409762",
       "team": "bills",
       "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
@@ -177,8 +188,74 @@
       "source": "ESPN · NFL Nation",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-08T18:47:57Z",
+      "publishedAt": "2026-11-08T22:28:22Z",
       "link": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/eichel-doubles-golden-knights-lead-in-return-to-buffalo/",
+      "team": "sabres",
+      "title": "Eichel doubles Golden Knights’ lead in return to Buffalo",
+      "summary": "Watch as Jack Eichel finds the back of the net against his former team in Buffalo, giving the Vegas Golden Knights a two-goal lead in the second period.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T22:20:34.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/eichel-doubles-golden-knights-lead-in-return-to-buffalo/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/golden-knights-marner-steals-puck-scores-shorthanded-breakaway-goal/",
+      "team": "sabres",
+      "title": "Golden Knights’ Marner steals puck, scores shorthanded breakaway goal",
+      "summary": "Watch as Golden Knights forward Mitch Marner steals the puck at the blue line and goes for a skate, scoring a beautiful shorthanded goal on a breakaway to open the scoring vs. Buffalo.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T22:07:49.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/golden-knights-marner-steals-puck-scores-shorthanded-breakaway-goal/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267249-beer-sabres-needs-to-be-the-vessel-of-choice-at-both-venues/",
+      "team": "bills",
+      "title": "Beer Sabres needs to be the vessel of choice at both venues",
+      "summary": "The horn is dumb\n\n\n\n\t \n\n\n\n\tBills beer sabre.\n\n\n\n\t \n\n\n\n\tSabres beer sabre.\n\n\n\n\t \n\n\n\n\t86 beer horn.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T21:51:33.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267249-beer-sabres-needs-to-be-the-vessel-of-choice-at-both-venues/"
+    },
+    {
+      "id": "espn-bills::50393510",
+      "team": "bills",
+      "title": "NFL Week 9 arrivals: Efton Chism III welcomes back Mack Hollins with 'Mack and Chiz' tee",
+      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T20:44:52Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/hockey/nhl/games/aa7525b2-1bd9-452c-a2eb-313cbc43f182",
+      "team": "sabres",
+      "title": "NHL on Sportsnet: Golden Knights vs. Sabres",
+      "summary": "The Buffalo Sabres host the Vegas Golden Knights on Sunday afternoon. Catch the action at 3:30 p.m. ET / 12:30 p.m. PT on Sportsnet and Sportsnet+ or follow along with our live tracker.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T20:25:01.000Z",
+      "link": "https://www.sportsnet.ca/hockey/nhl/games/aa7525b2-1bd9-452c-a2eb-313cbc43f182"
+    },
+    {
+      "id": "espn-bills::50374069",
+      "team": "bills",
+      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T20:07:44Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-preview-vs-the-golden-knights/",
@@ -192,15 +269,26 @@
       "link": "https://www.diebytheblade.com/game-preview-vs-the-golden-knights/"
     },
     {
-      "id": "espn-bills::50393510",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144744/the-buffalo-bills-who-must-keep-rolling-in-monday-night-football-showdown-with-vikings",
       "team": "bills",
-      "title": "NFL Week 9 arrivals: Lions show support for Jack Campbell",
-      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
+      "title": "The Buffalo Bills who must keep rolling in Monday Night Football showdown with Vikings",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-08T16:55:10Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
+      "publishedAt": "2026-11-08T17:18:23.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144744/the-buffalo-bills-who-must-keep-rolling-in-monday-night-football-showdown-with-vikings"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/144737/nfl-week-9-sunday-games-fan-discussion",
+      "team": "bills",
+      "title": "NFL Week 9 Sunday games fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T16:10:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/144737/nfl-week-9-sunday-games-fan-discussion"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-and-nfl-foundation-lisc-grassroots-field-grant-program-support-development-of-new-community-football-field-in-buffalo",
@@ -223,6 +311,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-08T13:44:39.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267248-week-9-around-the-nfl-no-bills-stuff-in-this-thread-please/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/144497/bills-news-previewing-the-vikings",
+      "team": "bills",
+      "title": "Bills news: Previewing the Vikings",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T12:08:32.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/144497/bills-news-previewing-the-vikings"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/144739/buffalo-bills-injury-report-can-dion-dawkins-go-from-dnp-all-week-to-starting",
+      "team": "bills",
+      "title": "Buffalo Bills injury report: Can Dion Dawkins go from DNP all week to starting?",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T12:07:36.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/144739/buffalo-bills-injury-report-can-dion-dawkins-go-from-dnp-all-week-to-starting"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/in-tough-times-sabres-jiri-kulich-leans-on-teammates-injured-matt-grzelcyk-in-holding-pattern/",
@@ -267,17 +377,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-08T02:19:15.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/144731/ravens-lb-roquan-smith-fined-for-missed-penalties-vs-bills-josh-allen-dj-moore"
-    },
-    {
-      "id": "espn-bills::50374069",
-      "team": "bills",
-      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T02:18:40Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267246-packers-savion-williams-dashing-courtship/",
@@ -423,17 +522,6 @@
       "link": "https://www.diebytheblade.com/sabres-slice-and-dice-the-jackets/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/144681/buffalo-bills-injury-report-dion-dawkins-alec-anderson-still-out",
-      "team": "bills",
-      "title": "Buffalo Bills injury report: Dion Dawkins, Alec Anderson still out",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T00:50:14.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/144681/buffalo-bills-injury-report-dion-dawkins-alec-anderson-still-out"
-    },
-    {
       "id": "espn-bills::50402679",
       "team": "bills",
       "title": "How the Bills are planning with illnesses on the OL",
@@ -533,17 +621,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-to-make-ryan-mcleod-healthy-scratch-change-defense/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/144551/buffalo-bills-vs-minnesota-vikings-time-capsule",
-      "team": "bills",
-      "title": "Buffalo Bills vs. Minnesota Vikings: Time capsule",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T18:54:39.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/144551/buffalo-bills-vs-minnesota-vikings-time-capsule"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47008/usmnt-weekend-viewing-guide-decisions",
       "team": "usmnt",
       "title": "USMNT weekend viewing guide: Decisions",
@@ -566,17 +643,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267236-beane-tells-ap-he-is-%E2%80%9Cas-aggressive-as-ever%E2%80%9D-this-trade-deadline/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144674/nfl-trade-deadline-buffalo-bills-trade-candidate-nick-cross",
-      "team": "bills",
-      "title": "NFL trade deadline: Buffalo Bills trade candidate – Nick Cross",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T18:11:36.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144674/nfl-trade-deadline-buffalo-bills-trade-candidate-nick-cross"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-at-minnesota-vikings-where-to-watch-stream-and-listen-mnf-week-9",
       "team": "bills",
       "title": "Buffalo Bills at Minnesota Vikings | Where to watch, stream and listen | MNF Week 9",
@@ -586,28 +652,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-06T16:49:29.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-at-minnesota-vikings-where-to-watch-stream-and-listen-mnf-week-9"
-    },
-    {
-      "id": "espn-bills::50358691",
-      "team": "bills",
-      "title": "NFL Week 9 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T15:44:45Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144625/does-carson-wentz-make-the-minnesota-vikings-a-bigger-threat-to-buffalo-bills",
-      "team": "bills",
-      "title": "Does Carson Wentz make the Minnesota Vikings a bigger threat to Buffalo Bills?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T11:15:28.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144625/does-carson-wentz-make-the-minnesota-vikings-a-bigger-threat-to-buffalo-bills"
     },
     {
       "id": "espn-sabres::50397834",
@@ -1039,28 +1083,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-11-2/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267179-roquan-smith-twisted-joshs-helmet-to-an-unnatural-angle-on-tush-push/",
-      "team": "bills",
-      "title": "Roquan Smith twisted Josh's helmet to an unnatural angle on tush push",
-      "summary": "No facemask call. Josh got up and seemed immediately incensed about the play and had a bleeding 1 1/2\" vertical scratch next to his nose. Announcers didn't say anything about anything.\n\t \n\n\n\n\tFrom All-22's FB post:\n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\tRavens Roquan Smith is getting blasted by NFL fans for a dangerous facemask grab on Bills QB Josh Allen, appearing to violently twist Allen's helmet sideways as he attempted to score a touchdown during Sunday's game.\n\t\t\n\n\t\t\n\t\t\tThe frightening play occurred near the goal line, where Smith grabbed Allen's facemask amid a pileup of defenders, leaving his helmet turned at an alarming angle.\n\t\t\n\n\t\t\n\t\t\tFans immediately condemned the play, with some calling Smith one of the dirtiest players in the NFL and demanding that he be suspended for the incident.\n\t\t\n\n\t\t\n\t\t\tSmith was already facing criticism after a controversial tackle against Bengals TE Erick All Jr. last week that resulted in a torn ACL, although the NFL did not fine him for that play.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T10:42:16.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267179-roquan-smith-twisted-joshs-helmet-to-an-unnatural-angle-on-tush-push/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267177-dj-moore-injury-watch-leg/",
-      "team": "bills",
-      "title": "DJ Moore Injury Watch (Leg)",
-      "summary": "To my surprise, I did not see a thread on DJ’s\n\n\n\n\tlatest LEG injury (not as concerned about the shoulder as it seems to be more of a pain management deal at this point) but…\n\n\n\n\t \n\n\n\n\tI was at the PACKED (as usual) bills backers bar in Portland Oregon. Took a nice stroll through downtown Portland knowing the game was “over” at 29-10, then I come back and all I hear is “DJ Moore is hurt”. \n\t \n\n\n\n\tso I ask “shoulder again?”\n\n\n\n\t \n\n\n\n\t”Nope. Leg. Possibly hyper extended”\n\n\n\n\t \n\n\n\n\tok, so what’s the early prognosis here. Anyone? \n\t \n\n\n\n\tCook SEEMS to be ok - in part because he’s a freak of nature like Allen - but how about DJ?\n\n\n\n\t \n\n\n\n\tAt this point, I would even welcome\n\n\n\n\tspeculation. This is going to be the injury that I am watching obsessively all week, I can already tell. Especially because we JUST got him\n\n\n\n\tback after 3 weeks, and now he is hurt again.\n\n\n\n\t \n\n\n\n\ta guy that hasn’t missed a game since 2020. Smh. Should not have been out there. And of course, it happens at the end of another great outing for him.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T08:14:37.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267177-dj-moore-injury-watch-leg/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267175-game-week-thread-bills-at-vikings-mnf/",
       "team": "bills",
       "title": "Game week thread - Bills at Vikings MNF",
@@ -1160,6 +1182,17 @@
       "link": "https://www.starsandstripesfc.com/social-video-twitter/46893/usa-soccercast-episode-202-welcome-to-miami-byenveni-nan-miami"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267103-the-jets-future-is-potentially-scary/",
+      "team": "bills",
+      "title": "The Jets Future is Potentially Scary",
+      "summary": "I was going to put this in the Colts thread or the Garrett Wilson thread but figured it warranted it’s own discussion. \n\t \n\n\n\n\thttps://www.instagram.com/reel/DfAxmxmNALy/?psln=YngyNTE3OHdzdTc2\n\n\n\n\t \n\n\n\n\tThe Colts tearing it down leaves the Jets in a crazy position. There’s a world where the Jets have 2 of the top 3 picks. They likely have 2 in the top 5. They almost certainly have 2 of the top 10. They then have the Dallas pick which looks like it’s going to be in the middle of round 1.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-28T11:25:10.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267103-the-jets-future-is-potentially-scary/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/",
       "team": "bills",
       "title": "Trade Deadline Move (s)",
@@ -1193,15 +1226,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266243-bills-replacing-grass-at-highmark-starting-monday/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266370-drake-meha-career-killing-performance-tonight/",
       "team": "bills",
-      "title": "Bills replacing grass at Highmark starting Monday",
-      "summary": "https://buffalonews.com/sports/professional/nfl/bills/article_f6e546cc-244a-4562-81bf-f2a0db8231a7.html?lctg=baf30705bec101afd50a&tn_email_eh1=7e9aa99fd45095aa209bba35efe688f31334c174d407e8f34b74b5cc9df50d24  \n\n\n\n\t \n\n\n\n\tHmmm...  Little skeptical how grass that had over a year to take root is better than stuff replaced two weeks before first game??  Article says that process is fine.  We shall see. \n\n\n\n\t \n\n\n\n\tRecall Sept 1969 Mets won eastern division on like a Tuesday and Jets played that following Sunday at Shea.  Fans had torn up the stadium field bad (not that the field was ever very good to start with)  Verlon Biggs threw a piece of turf half way across the field that came loose.",
+      "title": "Drake \"Meh\"....A career-killing performance tonight??",
+      "summary": "This guy played horrible in the Playoffs and Super Bowl last year, and tonight's performance was even worse. He was making mistakes that a High School QB wouldn't make, let alone a 3rd year Pro that has played in a Super Bowl, culminating in one of the worst decisions a QB could make on the final play.\n\n\n\n\t \n\n\n\n\tThe Pats are going to be in a tough spot when it comes time to extend this guy's contract......and I'm here for it.\n\n\n\n\t \n\n\n\n\tThe only thing that comes close in enjoyment to watching the Bills win is watching the Pats crash and burn!!",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-08-29T18:24:22.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266243-bills-replacing-grass-at-highmark-starting-monday/"
+      "publishedAt": "2026-09-10T06:22:19.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266370-drake-meha-career-killing-performance-tonight/"
     }
   ]
 }
