@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:12:46.819Z",
+  "generatedAt": "2026-11-08T01:28:39.147Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -170,15 +170,37 @@
   ],
   "stories": [
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-highlights-capitals-4-panthers-3-2/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267246-packers-savion-williams-dashing-courtship/",
+      "team": "bills",
+      "title": "Packers Savion Williams Dashing Courtship",
+      "summary": "https://www.dailymail.com/sport/nfl/article-16274429/savion-williams-packers-doordash-date.html?ito=native_share_article-bottom\n\n\n\n\t \n\n\n\n\tSounds like a down to earth guy",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T00:41:41.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267246-packers-savion-williams-dashing-courtship/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/in-tough-times-sabres-jiri-kulich-leans-on-teammates-injured-matt-grzelcyk-in-holding-pattern/",
       "team": "sabres",
-      "title": "NHL Highlights: Capitals 4, Panthers 3",
-      "summary": "Alex Tuch scored his 11th goal of the season, while Pierre-Luc Dubois notched a goal and an assist, as the Washington Capitals picked up a 4-3 win over the Florida Panthers.",
-      "source": "Sportsnet",
+      "title": "In tough times, Sabres’ Jiri Kulich leans on teammates; Injured Matt Grzelcyk in ‘holding pattern’",
+      "summary": "BUFFALO – After a puck hit Sabres forward Jiri Kulich in the face during a practice late last month, forcing him to miss five games with a concussion, he joked he wondered if he had wronged someone.\n“I was telling myself, ‘What I did (do) to someone with my luck?’” Kulich told the Times Herald prior to Friday’s 5-2 win over the Columbus Blue Jackets in KeyBank Center, his first game since going down Oct. ... Read the full article \nThe post In tough times, Sabres’ Jiri Kulich leans on teammates; Injured Matt Grzelcyk in ‘holding pattern’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-07T22:17:06.000Z",
+      "link": "https://www.buffalohockeybeat.com/in-tough-times-sabres-jiri-kulich-leans-on-teammates-injured-matt-grzelcyk-in-holding-pattern/"
+    },
+    {
+      "id": "espn-bills::50374069",
+      "team": "bills",
+      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "source": "ESPN · Anthony Gharib",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-07T20:26:13.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/nhl-highlights-capitals-4-panthers-3-2/"
+      "publishedAt": "2026-11-07T21:45:52Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267245-chiefs-tickets-for-sale/",
@@ -201,17 +223,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-07T19:10:23.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-vikings-week-9"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/zach-hyman-devon-levi-return-to-oilers-lineup-vs-canucks/",
-      "team": "sabres",
-      "title": "Zach Hyman, Devon Levi return to Oilers lineup vs. Canucks",
-      "summary": "Forward Zach Hyman and goaltender Devon Levi are set to draw in for the showdown against the Vancouver Canucks, the team announced ahead of the Saturday Night Hockey matchup (Sportsnet and Sportsnet+, 10 p.m. ET / 9 p.m. ABT)",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T19:03:22.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/zach-hyman-devon-levi-return-to-oilers-lineup-vs-canucks/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/144572/bills-news-the-latest-on-potential-deadline-deals",
@@ -575,17 +586,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-06T04:42:54.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267230-bills%E2%80%99-worst-trade/"
-    },
-    {
-      "id": "espn-bills::50396012",
-      "team": "bills",
-      "title": "Bills have the NFL's most points. Vikings are the hardest to score on. Which side gives on Monday?",
-      "summary": "— The Buffalo Bills are back to playing their usual catch-us-if-you-can game this season under first-year coach Joe Brady, ",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T03:37:41Z",
-      "link": "http://www.espn.com/nfl/preview?gameId=401873051"
     },
     {
       "id": "espn-sabres::50395606",
@@ -995,17 +995,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/46472/usmnt-weekend-roundup-puli-scores-pepi-back"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-unveil-hometown-remix-jersey-that-honors-buffalo/",
-      "team": "sabres",
-      "title": "Sabres unveil ‘Hometown Remix’ jersey that honors Buffalo",
-      "summary": "The design elements in the Sabres’ blue “Hometown Remix” jersey the NHL unveiled today honor Buffalo’s history as “The City of Light.”\nIn addition to the classic “Goathead” crest, the jersey features the ‘B’ shoulder logo used on past uniforms with an electrified sabre going through it.\nDebossed lightning bolts and stars with metallic gold stripes accentuate the sleeves. The custom numbers are also inspired by the Buffalo’s electric history.\n\nIn a post on X, ... Read the full article \nThe post Sabres unveil ‘Hometown Remix’ jersey that honors Buffalo first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-02T15:57:58.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-unveil-hometown-remix-jersey-that-honors-buffalo/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46872/usmnt-midweek-viewing-guide-malik-vs-weah-pepi-back",
       "team": "usmnt",
       "title": "USMNT midweek viewing guide: Malik vs Weah; Pepi back",
@@ -1059,17 +1048,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-02T05:53:36.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267175-game-week-thread-bills-at-vikings-mnf/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267165-hows-the-d-look-after-the-bye/",
-      "team": "bills",
-      "title": "How's the D look after the bye?",
-      "summary": "One meaningful snap: our very first defensive snap where Bills up-to-date MVP Rousseau broke Lamar's right thumb, and that's pretty much all she wrote for the game.\n\n\n\n\t \n\n\n\n\tTaking Flowers away is impressive. No wide open guys from my TV screen. No long rumbling from Henry. Still saw a few late communications. But against a QB of pre-season ilk. it means nothing in terms of answering all the questions we have before the bye.\n\n\n\n\t \n\n\n\n\tbtw, did I see Leonhard calling plays from the booth (behind a glass window) today?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-01T22:06:20.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267165-hows-the-d-look-after-the-bye/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-3-2-kings-recap-scare-up-a-california-sweep-behind-thompson-luukkonen/",
