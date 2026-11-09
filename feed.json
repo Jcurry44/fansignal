@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T23:01:28.129Z",
+  "generatedAt": "2026-11-09T02:40:33.455Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 3,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "live",
-      "headline": "1 - 4",
-      "detail": "vs VGK · P3"
+      "state": "final",
+      "headline": "Final · L 1-4",
+      "detail": "vs VGK"
     },
     {
       "team": "bandits",
@@ -170,6 +170,105 @@
   ],
   "stories": [
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/144774/afc-playoff-picture-buffalo-bills-will-lose-one-seed-with-loss-on-monday",
+      "team": "bills",
+      "title": "AFC Playoff Picture: Bills will lose one seed with loss on Monday",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T02:37:07.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/144774/afc-playoff-picture-buffalo-bills-will-lose-one-seed-with-loss-on-monday"
+    },
+    {
+      "id": "espn-bills::49545945",
+      "team": "bills",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "source": "ESPN · Sarah Barshop",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T02:11:35Z",
+      "link": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-power-play-costs-them-in-loss-to-golden-knights-took-the-wind-right-out-of-our-sails/",
+      "team": "sabres",
+      "title": "Sabres’ power play costs them in loss to Golden Knights: ‘Took the wind right out of our sails’",
+      "summary": "BUFFALO – Just over halfway through Sunday afternoon’s 4-1 loss, winger Tage Thompson gave the puck away again inside the Vegas Golden Knights blue line again as the Sabres enjoyed a power play, this time to Mitch Marner.\nWith the game tied at 0 earlier in the period, Sabres goalie Colten Ellis stymied two shots on William Karlsson’s short-handed breakaway attempt after Thompson committed a similar gaffe on the man advantage.\n“That should have been ... Read the full article \nThe post Sabres’ power play costs them in loss to Golden Knights: ‘Took the wind right out of our sails’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T01:18:18.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-power-play-costs-them-in-loss-to-golden-knights-took-the-wind-right-out-of-our-sails/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/144737/nfl-week-9-sunday-games-fan-discussion",
+      "team": "bills",
+      "title": "Chicago Bears vs. Tamp Bay Buccaneers, ‘SNF’ Week 9 fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T00:57:44.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/144737/nfl-week-9-sunday-games-fan-discussion"
+    },
+    {
+      "id": "espn-bills::50409762",
+      "team": "bills",
+      "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Check here for Sunday's top moments, TDs and analysis.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T00:55:43Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026"
+    },
+    {
+      "id": "espn-bills::50393510",
+      "team": "bills",
+      "title": "NFL Week 9 arrivals: Caleb Williams rocks Supreme mascot zip-up before 'SNF'",
+      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T00:31:42Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267253-do-the-patriots-make-the-playoffs/",
+      "team": "bills",
+      "title": "Do the Patriots make the playoffs?",
+      "summary": "Current record: 5-4\n\n\n\n\t \n\n\n\n\tMost difficult remaining games\n\n\n\n\t \n\n\n\n\t@ Lions\n\n\n\n\tvs Bills\n\n\n\n\tvs Vikings\n\n\n\n\t@ Chiefs\n\n\n\n\tvs Broncos\n\n\n\n\t \n\n\n\n\tIt is not unreasonable to think the Pariots lose 4 of these games. However, it’s also not unreasonable to believe an AFC team gets in at 9-8. The other challengers for that last playoff spot are the Browns (5-4), Raiders (4-5), and Ravens (4-5).",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T00:30:56.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267253-do-the-patriots-make-the-playoffs/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267251-bills-improvements/",
+      "team": "bills",
+      "title": "Bills Improvements",
+      "summary": "All the talk during the off season has been about Bills players over coming injuries, weight loss or gain, special training and maturing as an NFL player.  \n\t\n\tWhich Bills players do you feel have actually improved their on-field performance over last season?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-09T00:00:24.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267251-bills-improvements/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-vanquished-by-knights-lose-4-1-at-home/",
+      "team": "sabres",
+      "title": "Sabres Vanquished by Knights, Lose 4-1 at Home",
+      "summary": "Score: Buffalo Sabres 1, Vegas Golden Knights 4\n\n\n\nShots: Buffalo 28, Vegas 26\n\n\n\nSabres Goals: Malenstyn (Kozak);\n\n\n\nKnights Goals: Marner (Unassisted); Eichel (Barbashev); Hertl (Marner); Hertl (2) (Barbashev, Theodore)\n\n\n\nSummary\n\n\n\nThe Buffalo Sabres (8-6-3) fell 4-1 to the Vegas Golden Knights (12-5-2) at KeyBank Center on Sunday afternoon. Jack Eichel continued to terrorize the Sabres, scoring his seventh goal in eight games against his old team, while Tomas Hertl netted two to lead the Knights to victory. Despite the score, the Sabres came out ahead on the expected goals charts, but were unable to finish, especially in a particularly strong first period.\n\n\n\nFirst Period: A Scoreless Frenzy\n\n\n\nThe first few chances of the period went the way of the home squad, as the Krebs-Thompson-Benson line worked a low cycle, getting the puck in front of the net , though Vegas was able to defend any really dangerous scoring chances. That line would go back to work just moments later, as Benson just missed a cross-ice redirection from Krebs that would have given the Sabres an early lead. Josh Doan then had a shot from the slot, but a defender’s stick kept the puck away from Vegas goalie Adin Hill. Despite these chances, the Sabres did not register a shot in the first five minutes of the game. \n\n\n\nMoments before the halfway mark of the period, the Sabres once again found some glorious chances, as Josh Norris hit Jiri Kulich with a slick feed to set up a 2-on-1 rush. Kulich opted to fire the puck, beating Hill but not the goalpost to keep the game scoreless. Just after that, the top line got back to work, shooting a puck just wide. Any further pressure was quelled, however, as Olen Zellweger took an offensive zone high sticking penalty to give the Knights a power play.\n\n\n\nBased on the first minute, it was actually hard to tell which team had the man advantage however. Beck Malenstyn killed the first 20 seconds with a one man power kill in the Vegas zone, then Noah Östlund found himself with a breakaway, picking the pocket of Jack Eichel, that Hill was able to keep out of the net. On the couple occasions Vegas did enter the Sabres zone, they didn’t really take up any real estate there, managing no shots in the two minute man advantage. \n\n\n\nHill had to make another save once each team returned to five aside, having to dive over to make a robbery with the glove, and it would continue to be a busy period for him. Malenstyn brought his a-game in the first period, being an absolute menace on the forecheck, almost leading to Sam Carrick burying his first of the season, but the Sabres couldn’t cleanly find the puck on a scramble out in front. \n\n\n\nEllis did not face much of a test in the first period, but he did have to make one big save in the last few minutes, coming cross-crease to square up a Knights shot. Maybe off that chance though, Vegas found their most life of the period at the end, drawing another penalty, with Connor Timmins taking a high sticking penalty, though this call was incredibly dubious at best. \n\n\n\nThe Sabres had yet another impressive penalty kill, and then an absolute flurry of chances at the end of the period, as Timmins brought the puck across the blue line after getting out the box to help initiative a sequence where Benson, Thompson, and Krebs all had fabulous opportunities but just could not get a puck by Adin Hill. Though the score of the period was non-existent, it was not for lack of effort. The Sabres held the edge in shots 15-6, despite having to kill two penalties, and the xG edge fell in the Sabres’ favor, 1.57 to 0.44. \n\n\n\nSecond Period: Role Reversal\n\n\n\nThough Vegas had an early push in the second period, with Eichel getting denied by Ellis on a one-timer, the Sabres kept up the pressure. Jack Quinn found himself with a glorious look taking the puck to the slot, but Hill was just able to get the blocker on it to keep the game scoreless. This pressure would give the Sabres their first chance of the game on the power play. \n\n\n\nThe best chance of the power play once again went for the team who was a man down, as William Karlsson found himself with a clean breakaway off an errant pass from Tage Thompson. Ellis was able to make the first save, and despite not really knowing where the rebound was, got the pad over to stop the second one. It was a classic Ellis save, in that it looked awkward but it got the job done. \n\n\n\n\nEllis save on Karlsson SH breakaway #LetsGoBuffalo #VegasBorn pic.twitter.com/5QjlRcUuiJ&mdash; Buffalo Hockey Moments (@SabresPlays) November 8, 2026\n\n\n\n\nWhile unsuccessful at recording the game’s first tally on their first power play, the Sabres got another opportunity just seconds after the first one expired, though this one had the same result as the first one, without needing Ellis to bail them out this time, though. \n\n\n\nMattias Samuelsson had one of the better defensive highlights on the game, as the Knights came in on a rush, getting the puck to the slot, but they skated right into Sammy’s office, as he was able to swiftly knock the puck away. It’s Samuelsson’s bread and butter play and part of what makes him so invaluable to the team. \n\n\n\nThe Sabres really fell out of rhythm in the back half of the second period, as they struggled to even escape their own zone. They weren’t allowing any opportunities that were too dangerous, and the ones they did get were turned away by Ellis, but the gap in shot differential closed quickly. \n\n\n\nThe Sabres would get their third chance on the power play of the period, as Thompson was hooked carrying the puck up the ice with just over eight minutes to go in the period, and a team would indeed score on this one, though as was the trend, it was the team down a man. A Thompson pass at the blue line was deflected by Mitch Marner, who found himself all alone on Ellis, beating him on a backhand-forehand move, tapping the puck into an empty net to give the Knights a 1-0 lead with 7:42 to go in the period. \n\n\n\n\nMitchell Marner, 1-0 SHG #LetsGoBuffalo #VegasBorn pic.twitter.com/CCdhAru6DV&mdash; Buffalo Hockey Moments (@SabresPlays) November 8, 2026\n\n\n\n\nAs the power play expired, the Vegas offense didn’t. Power got outworked in the corner by Ivan Barbashev, who found Buffalo fan favorite Eichel all alone in front, easily able to bury it past Ellis for a 2-0 lead, just 1:30 after Marner made it 1-0. \n\n\n\n\nJack Eichel gives the fans a little extra after scoring, 2-0 #LetsGoBuffalo #VegasBorn pic.twitter.com/7wgLssVRiA&mdash; Buffalo Hockey Moments (@SabresPlays) November 8, 2026\n\n\n\n\nThe second period wound down with minimal fanfare, but the Knights completely flipped the script on the Sabres from the first period. Vegas outshot the Sabres 11-3 in the period, despite the Sabres being the team with three power plays, with the Sabres stills holding the xG edge, 2.45 to 2.1. \n\n\n\nThird Period:\n\n\n\nTo start the third, the first period Sabres made an appearance, with Connor Timmins getting the best look for his first goal as a Sabre, having a wide open net from a very sharp angle that he couldn’t bury, hitting the side of the post. \n\n\n\nFInally though, the Sabres got rewarded for their pressure. The fourth line went to work, as a mad scrum broke out in front of the net. There were seven total players around Hill in the crease, the puck squeaked loose and Tyson Kozak was there to slide it past Hill, though it apparently hit Malenstyn on the way in, to cut the lead to 2-1 with 15 minutes left in the game.\n\n\n\n\n\n\n\n\nNot sure who will get credited with this goal, but Buffalo pulls within one after crease chaos, 2-1#LetsGoBuffalo #VegasBorn pic.twitter.com/Z3bpvdaO15&mdash; Buffalo Hockey Moments (@SabresPlays) November 8, 2026\n\n\n\n\nRight after cutting the lead in half, Ellis was tested to keep it there, and was up to the task, stopping Marner in front. The Sabres then kept the puck in the zone for a full shift, headlined by Dahlin and Power, but at the end of the shift, with Power gassed, Tomas Hertl danced around him, beating Ellis over the top shoulder to give the Knights’ their two goal lead right back, just 1:15 after the Sabres scored.\n\n\n\n\nBrutal from the Sabres.  Hertl, 3-1 #LetsGoBuffalo #VegasBorn pic.twitter.com/jSmqebsrs9&mdash; Buffalo Hockey Moments (@SabresPlays) November 8, 2026\n\n\n\n\nThe fourth line had another chance to cut the lead back to one, but Carrick got robbed in the slot by Hill to keep the two goal lead with 13 minutes left. \n\n\n\nUnfortunately for the Sabres, Hertl was not done scoring yet. At exactly 10 minutes left to go in the period, Hertl found himself alone in front of Ellis, once again making no mistake, this time beating him clean on a wrister over the shoulder, extending the Vegas lead to 4-1. \n\n\n\n\nHertl's second goal of the game, 4-1#LetsGoBuffalo #VegasBorn pic.twitter.com/J1tV5vOgJ2&mdash; Buffalo Hockey Moments (@SabresPlays) November 8, 2026\n\n\n\n\nThe fourth goal took all the life out of the Sabres for, who went from attacking most of the game to incredibly passive after falling behind by three. There was a sequence of nice looks with around five minutes left, as Dahlin, Quinn, and Östlund all had some nice chances that either deflected wide or were stopped by Hill. Moments later, Ellis robbed Eichel of his second of the game on a cross-ice feed. Ellis then robbed William Karlsson in front of the net with just over three minutes to go. The Sabres were forced to kill off one last penalty at the end, and did so successfully, keeping the final score at 4-1. \n\n\n\nConclusion\n\n\n\nDespite a slight edge in shots, 28-26, and xG, 3.54-3.46, the Sabres could not find a way to get a puck past Adin Hill, and Vegas was able to coast home in the back half of the third period. Ellis finished a slight negative in goals saved above expected, and while he was pretty strong overall with a lot of nice saves, he couldn’t give the Sabres the big save to keep them in the game. \n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-11-08: pic.twitter.com/4R3lXyRWrU&mdash; HockeyStatCards (@hockeystatcards) November 8, 2026\n\n\n\n\nOther Notes\n\n\n\nThe Power Play continues to be a bugaboo for the Sabres. Even though it looked like it was turning a corner after the Kings game to end the road trip, they have not scored a goal since then, though their opportunities have looked a bit better. In this game it was actively detrimental for them. Something has to be done to get actual results and not just moral victories. Perhaps a few more pages should be added to the dossier.\n\n\n\nWe’ll see if Ryan McLeod and Louis Crevier draw back into the lineup, there is potential for a couple spots in the lineup to shake free after the loss. Zach Metsa was the lone defenseman to play under 15 minutes in the game, with Connor Timmins in his second game back from injury logging a good amount of ice time and realistically playing well through those two games. Despite always seeming to stay in the lineup, he never logs a ton of minutes and Crevier had enough expectations heading into the season that the Sabres will want to get him going.\n\n\n\nFor McLeod to come back in, there are a few options. Considering that the fourth line mustered the only goal and have been playing respectably, that may not be the card that Ruff decides to play to get McLeod back in. Rather he may look to McLeod’s inverse jersey number, as Jason Zucker has looked quite slow coming off sports hernia surgery. At age 34, we can’t be sure if Zucker is actually done or if he’s struggling to acclimate after a notoriously finnicky surgery. Either way, McLeod could slot back in on the wing for him, or potentially even for Jiri Kulich, who took an ill-advised shot that led to the second goal for Vegas, and logged just over 10 minutes of ice time in the game. \n\n\n\nIf there is one positive in the game for the Sabres, it was the penalty kill, who had a perfect evening and often times made the Vegas power play, which is typically dangerous, look ineffective in the game. The struggles of the Sabres PK have been heavily documented to start the season but it appears they may be turning the corner. \n\n\n\nWhat’s Next?\n\n\n\nThe Sabres next take the ice at home on Wednesday night, where they will host the Tampa Bay Lightning for the first time this season. Following that, they will hit the road for a six game trip, the first game of which happens the following night, where they will travel to Chicago to face the Blackhawks.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T23:56:18.000Z",
+      "link": "https://www.diebytheblade.com/sabres-vanquished-by-knights-lose-4-1-at-home/"
+    },
+    {
       "id": "espn-bills::50380155",
       "team": "bills",
       "title": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
@@ -181,39 +280,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo"
     },
     {
-      "id": "espn-bills::50409762",
-      "team": "bills",
-      "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Check here for Sunday's top moments, TDs and analysis.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T22:28:22Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/eichel-doubles-golden-knights-lead-in-return-to-buffalo/",
-      "team": "sabres",
-      "title": "Eichel doubles Golden Knights’ lead in return to Buffalo",
-      "summary": "Watch as Jack Eichel finds the back of the net against his former team in Buffalo, giving the Vegas Golden Knights a two-goal lead in the second period.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T22:20:34.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/eichel-doubles-golden-knights-lead-in-return-to-buffalo/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/golden-knights-marner-steals-puck-scores-shorthanded-breakaway-goal/",
-      "team": "sabres",
-      "title": "Golden Knights’ Marner steals puck, scores shorthanded breakaway goal",
-      "summary": "Watch as Golden Knights forward Mitch Marner steals the puck at the blue line and goes for a skate, scoring a beautiful shorthanded goal on a breakaway to open the scoring vs. Buffalo.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T22:07:49.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/golden-knights-marner-steals-puck-scores-shorthanded-breakaway-goal/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267249-beer-sabres-needs-to-be-the-vessel-of-choice-at-both-venues/",
       "team": "bills",
       "title": "Beer Sabres needs to be the vessel of choice at both venues",
@@ -223,28 +289,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-08T21:51:33.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267249-beer-sabres-needs-to-be-the-vessel-of-choice-at-both-venues/"
-    },
-    {
-      "id": "espn-bills::50393510",
-      "team": "bills",
-      "title": "NFL Week 9 arrivals: Efton Chism III welcomes back Mack Hollins with 'Mack and Chiz' tee",
-      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T20:44:52Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/hockey/nhl/games/aa7525b2-1bd9-452c-a2eb-313cbc43f182",
-      "team": "sabres",
-      "title": "NHL on Sportsnet: Golden Knights vs. Sabres",
-      "summary": "The Buffalo Sabres host the Vegas Golden Knights on Sunday afternoon. Catch the action at 3:30 p.m. ET / 12:30 p.m. PT on Sportsnet and Sportsnet+ or follow along with our live tracker.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T20:25:01.000Z",
-      "link": "https://www.sportsnet.ca/hockey/nhl/games/aa7525b2-1bd9-452c-a2eb-313cbc43f182"
     },
     {
       "id": "espn-bills::50374069",
@@ -278,17 +322,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-08T17:18:23.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144744/the-buffalo-bills-who-must-keep-rolling-in-monday-night-football-showdown-with-vikings"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/144737/nfl-week-9-sunday-games-fan-discussion",
-      "team": "bills",
-      "title": "NFL Week 9 Sunday games fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T16:10:13.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/144737/nfl-week-9-sunday-games-fan-discussion"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-and-nfl-foundation-lisc-grassroots-field-grant-program-support-development-of-new-community-football-field-in-buffalo",
@@ -379,17 +412,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/144731/ravens-lb-roquan-smith-fined-for-missed-penalties-vs-bills-josh-allen-dj-moore"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267246-packers-savion-williams-dashing-courtship/",
-      "team": "bills",
-      "title": "Packers Savion Williams Dashing Courtship",
-      "summary": "https://www.dailymail.com/sport/nfl/article-16274429/savion-williams-packers-doordash-date.html?ito=native_share_article-bottom\n\n\n\n\t \n\n\n\n\tSounds like a down to earth guy",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T00:41:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267246-packers-savion-williams-dashing-courtship/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-vikings-week-9",
       "team": "bills",
       "title": "Buffalo Bills injury report vs. Vikings | Week 9",
@@ -421,17 +443,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-07T17:43:44.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144717/buffalo-bills-fan-confidence-makes-huge-rebound-ahead-of-week-9"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-rumors/144704/report-buffalo-bills-are-looking-to-trade-for-defensive-back",
-      "team": "bills",
-      "title": "Report: Buffalo Bills are looking to trade for defensive back",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T13:44:54.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-rumors/144704/report-buffalo-bills-are-looking-to-trade-for-defensive-back"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144641/5-buffalo-bills-to-watch-at-the-minnesota-vikings",
@@ -478,28 +489,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/50390728/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267243-two-potential-5000-yard-rushers-on-mnf/",
-      "team": "bills",
-      "title": "Two potential 5000 Yard Rushers on MNF",
-      "summary": "https://sports.yahoo.com/articles/josh-allen-james-cook-both-084539831.html\n\n\n\n\t \n\n\n\n\tJosh Allen is 9 yards short of 5000 career rushing yards and James Cook needs just 34 yards to reach the same milestone. \n\n\n\n\t \n\n\n\n\tThat would be really amazing to see both of them join this club. For QBs,  Allen will be the 5th QB to rush for 5000 yards.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T10:48:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267243-two-potential-5000-yard-rushers-on-mnf/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267242-taylor-rapp-cut-by-broncos/",
-      "team": "bills",
-      "title": "Taylor Rapp  cut by Broncos",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T10:21:32.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267242-taylor-rapp-cut-by-broncos/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-josh-norris-breaks-out-of-slump-scores-two-goals-in-much-needed-home-win-over-blue-jackets/",
       "team": "sabres",
       "title": "Sabres’ Josh Norris breaks out of slump, scores two goals in much-needed home win over Blue Jackets",
@@ -520,17 +509,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-07T03:19:17.000Z",
       "link": "https://www.diebytheblade.com/sabres-slice-and-dice-the-jackets/"
-    },
-    {
-      "id": "espn-bills::50402679",
-      "team": "bills",
-      "title": "How the Bills are planning with illnesses on the OL",
-      "summary": "Nicholas Suss reports on the state of the Bills' offensive line going into Monday Night Football.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T23:29:55Z",
-      "link": "https://www.espn.com/video/clip/_/id/50402679/how-bills-planning-illnesses-ol"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267241-the-curious-case-of-brandon-aiyuk/",
@@ -665,17 +643,6 @@
       "link": "http://www.espn.com/nhl/preview?gameId=401892668"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267231-igb-starting-to-separate-and-making-a-name-for-himself/",
-      "team": "bills",
-      "title": "IGB starting to separate and making a name for himself.",
-      "summary": "IGB has earned the trust of his coaches and is now the starting CB2 on this Bills defense.  Besides that he is also leading all the other rookie CBs across the league.  \n\t\n\thttps://www.si.com/nfl/bills/onsi/rookies-key-metric-shows-bills-davison-igbinosun-separating-himself\n\n\n\n\t \n\n\n\n\tWe have 3 of the 4 in the backfield better than average players.  Can we fix the 4th spot with an incoming safety",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T08:28:20.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267231-igb-starting-to-separate-and-making-a-name-for-himself/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-jake-richard-excelling-in-first-weeks-with-rochester-amerks/",
       "team": "sabres",
       "title": "Sabres prospect Jake Richard excelling in first weeks with Rochester Amerks",
@@ -742,6 +709,17 @@
       "link": "https://www.buffalobills.com/news/spencer-brown-named-bills-nominee-for-nfl-salute-to-service-award-2026"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267223-bills-sign-ncb-kader-kohou-to-practice-squad/",
+      "team": "bills",
+      "title": "Bills sign NCB Kader Kohou to practice squad",
+      "summary": "I saw this in the game week thread, but it felt like it deserved its own discussion.\n\t\n\tFeels like a good flier to take on a talented player who is hopefully fully healed from recent injuries.\n\t\n\t\n\thttps://www.buffalobills.com/news/bills-sign-cb-kader-kohou-to-the-practice-squad\n\t\n\t\n\t \n\n\n\n\t\n\tThe Buffalo Bills signed 27-year-old cornerback Kader Kohou to the practice squad on Thursday.\n\n\n\n\t\n\tKohou began the 2026 season on the Kansas City Chiefs practice squad, and was recently released by the team one day after their Week 8 loss to the Denver Broncos.\n\n\n\n\t\n\tBeginning his career with the Miami Dolphins in 2022, Kohou put together 47 games of NFL experience. He started 38 of those contests, tallying three interceptions, 28 passes defended and 180 tackles.\n\n\n\n\t\n\tEntering the 2025 season, Kohou was in the final year of his contract with the Dolphins. A torn ACL in training camp sidelined him for the duration of the season. The 5-foot-10, 197-pound corner hasn't seen game action since the end of 2024.\n\n\n\n\t\n\tKohou joins the Bills practice squad in place of CB Te'Cory Couch, who was called up to the active roster prior to the Week 8 victory over the Baltimore Ravens.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 2,
+      "publishedAt": "2026-11-05T16:59:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267223-bills-sign-ncb-kader-kohou-to-practice-squad/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267220-lamar-jackson-no-longer-elite/",
       "team": "bills",
       "title": "Lamar Jackson no longer elite?",
@@ -751,17 +729,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-05T15:04:14.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267220-lamar-jackson-no-longer-elite/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/bills-sign-cb-kader-kohou-to-the-practice-squad",
-      "team": "bills",
-      "title": "Bills sign CB Kader Kohou to the practice squad",
-      "summary": "Former Kansas City Chiefs and Miami Dolphins corner joins the practice squad",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T14:59:48.000Z",
-      "link": "https://www.buffalobills.com/news/bills-sign-cb-kader-kohou-to-the-practice-squad"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cristiano-ronaldo-retires-portugal-national-team/",
@@ -819,17 +786,6 @@
       "link": "https://www.diebytheblade.com/sabres-squander-late-lead-in-2-1-home-loss-to-senators/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267218-week-9-bills-v-viqueens-predict-the-score/",
-      "team": "bills",
-      "title": "Week 9, Bills v. Viqueens, PREDICT THE SCORE!",
-      "summary": "The Bills go back to the scene of the original crime, US Bank Stadium in Minneapolis.  This was Josh Allen's coming out party.  He had his first hurdle of a defender on Anthony Barr.  He had the immortal rollout and lunge for the pylon, where he actually achieved lift.  When I saw this play, I just jumped off the couch and said, \"THAT'S MY QUARTERBACK!\"\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tI think this one will be a blowout.  The Viqueens D won't know what hit it.  Josh will do Josh things and the Viqueens D will be powerless to stop it.  The Bills D will exact revenge for the Hail Murray, and make Kyler's life miserable all day.  Bills win big:\n\n\n\n\t \n\n\n\n\tBeews - 41\n\n\n\n\tViqueens - 16\n\n\n\n\t \n\n\n\n\tPrevious winners:\n\n\n\n\t \n\n\n\n\tWeek 1 - @colin\n\n\n\n\tWeek 2 - @Freddie's Dead, @HappyDays, @Big Turk\n\n\n\n\tWeek 3 - @Robert Paulson\n\n\n\n\tWeek 4 - @RiotAct\n\n\n\n\tWeek 5 - @Sojourner\n\n\n\n\tWeek 6 - @Reks Ryan, @SydneyBillsFan\n\n\n\n\tWeek 7 - BYE\n\n\n\n\tWeek 8 - @Ridgewaycynic2013, @Ray Stonada",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T03:53:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267218-week-9-bills-v-viqueens-predict-the-score/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/top-storylines-for-bills-vs-vikings-week-9",
       "team": "bills",
       "title": "Top Storylines for Bills vs. Vikings | Week 9",
@@ -861,6 +817,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-04T20:30:41.000Z",
       "link": "https://www.buffalobills.com/news/the-advanced-stats-behind-the-bills-dominant-week-8-win-over-the-baltimore-ravens"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267213-jordan-poyer-cjgj-is-gone-because-he-wasnt-a-communicator/",
+      "team": "bills",
+      "title": "Jordan Poyer: CJGJ is gone because he wasn't a communicator...",
+      "summary": "...I'm paraphrasing of course but JoPo essentially said that while CJGJ is \"a player\" it's clear that the communication was not there on the back end, which makes it impossible for the defense to succeed. I'm reading a bit between the lines but the implication is that (a) he was going off script too much, which led Bishop to try and do too much; and (b) he may have not really known what was going on (i.e., unprepared), which if true is absolutely a reason to kick him to the curb. Add in the over-the-line actions (spitting, personal fouls, calling out opponents) and this was an easy call to make over the bye, particularly when you saw how well the back end communicated with Hamlin on the field.\n\n\n\n\t \n\n\n\n\tThe way JoPo talks about the defense it's hard not be optimistic. He correctly states that they don't have to be top 10, they \"just have to be mid\" to support this offense.\n\n\n\n\t \n\n\n\n\tBoth Poyer and Hyde have opined that Leonhard going upstairs is probably a good thing.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-04T18:20:27.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267213-jordan-poyer-cjgj-is-gone-because-he-wasnt-a-communicator/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-mixes-veterans-youth-on-usmnt-roster-for-nations-league-matches/",
@@ -1028,17 +995,6 @@
       "link": "https://www.starsandstripesfc.com/uswnt-news/46983/emma-hayes-names-almost-everyone-to-uswnt-preliminary-roster"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/injury-news-on-sabres-alex-lyon-zach-benson-jiri-kulich-and-conor-timmins/",
-      "team": "sabres",
-      "title": "Injury news on Sabres’ Alex Lyon, Zach Benson, Jiri Kulich and Conor Timmins",
-      "summary": "BUFFALO – Hey, considering the adversity they battled, the Sabres enjoyed a pretty solid opening month.\nWas it up the lofty standard they set last season? Hardly. But a team that kept falling behind multiple goals seemingly each night and had 11 players miss time with injuries finished October with a 7-4-3 record and has points in eight of its last nine games.\nLast week, the Sabres finally found a groove, closing their four-game road ... Read the full article \nThe post Injury news on Sabres’ Alex Lyon, Zach Benson, Jiri Kulich and Conor Timmins first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-03T05:32:41.000Z",
-      "link": "https://www.buffalohockeybeat.com/injury-news-on-sabres-alex-lyon-zach-benson-jiri-kulich-and-conor-timmins/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267194-a-few-thoughts-about-the-ravens-game-in-no-particular-order/",
       "team": "bills",
       "title": "A Few Thoughts about the Ravens Game, in no particular order",
@@ -1149,17 +1105,6 @@
       "link": "https://www.starsandstripesfc.com/social-video-twitter/46904/silence-of-the-goals-the-us-soccer-horror-movie"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-ride-thompson-hat-trick-to-beat-ducks-in-see-saw-game/",
-      "team": "sabres",
-      "title": "Sabres ride Thompson hat trick to beat Ducks in see-saw game",
-      "summary": "Buffalo came from behind yet again, but have Ellis to thank for win\n\n\n\nBoxscore\n\n\n\nScore: Buffalo Sabres 7-6 Anaheim DucksShots: BUF 30-35 ANA\n\n\n\nBuffalo Sabres Goals: Kozak 1 (Carrick, Samuelsson), Östlund 4 PPG (Benson, Thompson), Thompson 6 (Benson, Krebs), Thompson 7 (Krebs), Thompson 8 (Dahlin, Krebs), Quinn 7 PPG (Thompson, Dahlin), Benson 2 (Zellweger) Anaheim Ducks Goals: Granlund 3 PPG (LaCombe, Carlsson), Gauthier 3 PPG (Senecke, Carlsson), McQueen 1 (Colangelo, Jensen), Gauthier 4 PPG (LaCombe, Carlsson), Luneau 2 (Caulfield), Sennecke 8 (Unassisted). \n\n\n\nQuick Thoughts\n\n\n\nO Defense, Defense, Wherefore Art Thou?\n\n\n\nThe Sabres penalty kill had gone two whole games without conceding a goal, but that streak came to a shuddering halt very early on in this game. Olen Zellweger was overexcited to see his former team and took a holding penalty just 35 seconds in. Then Zach Benson joined him in the penalty box for a tripping call and then the Ducks took advantage scoring on both the 5-on-3 then the ensuing 5-on-4 to go up by two less than three minutes into the game. \n\n\n\nThat start would have rocked most goalies but fresh off his shutout in San Jose, Colten Ellis stayed on top of things even as his teammates remained in a stupor. He made close to half a dozen big saves including stopping a breakaway and a couple of odd-man rushes. How they were not down by four or five only Ellis knows and he’s not telling. \n\n\n\n\nEllis save on Carlsson #LetsGoBuffalo #FlyTogether pic.twitter.com/SkvinmbDSb&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nIt’s not like the Sabres were overwhelmed by the hosts nor was Ville Husso giving up Yaroslav Askarov vibes, but they finally got back into the game thanks to the energetic fourth line paired up with captain Rasmus Dahlin and Mattias Samuelsson. Tyson Kozak’s shot from the blue line beat Husso shielded by Beck Malenstyn and it was 2-1 at the midpoint of the period. \n\n\n\n\nTyson Kozak, 2-1 #LetsGoBuffalo #FlyTogether pic.twitter.com/yStbeWhAxC&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nIf you thought this would wake the Sabres up defensively, unfortunately it didn’t. Rookie Roger McQueen deflected a shot just past Ellis, it hit the backboards and before any of the Buffalo players could react McQueen had slammed the rebound past Ellis on the stick side, and the Ducks two-goal deficit was restored.\n\n\n\nNow, what are the Sabres really, really familiar with this season? If you said being behind by two then you win yourself a piece of your kids’ Halloween candy, go get one right now. If you picked anything with no chocolate in it we are not talking anymore. \n\n\n\nWho didn’t get that memo? Apparently Joel Quenneville and his Ducky-boys because a minute after they scored their third Tyson Hinds tripped Josh Doan and to the power play the League’s most ineffective man-advantage unit went. The Sabres most consistent forward this season so far showed up big with Noah Östlund in the right place at the right time after Benson’s shot from the slot was blocked to make it 3-2, Buffalo’s first road power play goal of the season. \n\n\n\n\nOstlund, 3-2 PPG #LetsGoBuffalo #FlyTogether pic.twitter.com/rukEGLLq1N&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nTage Thompson often threatens to take over games and he decided Anaheim were to be his shooting ducks tonight. Tommy Dangles took a feed from Benson at the blue line and drove towards the net, skirted a retreating Luneau and lifted the puck over Husso’s puck to make it 3-3 with over five minutes still left in the first stanza. \n\n\n\n\nTage with a beauty, 3-3 #LetsGoBuffalo #FlyTogether pic.twitter.com/VImG4x6HSQ&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nThe remaining few minutes were relatively uneventful as the two teams went into the break level, Ducks led 12-9 in shots with a 13-8 edge in scoring chances. \n\n\n\nSabres Doubly Redoubled\n\n\n\nBuffalo have been one of the worst teams in the league in the second periods of games, but they came out from the locker room likely having been reminded of that by Lindy Ruff. \n\n\n\nBack and forth the two teams continued trading chances like they had in the first period, but once again the Sabres had Ellis to thank for his concentration as he made two big saves sprawled out in the paint. The Sabres then amped the ante as they poured on the shots with Anaheim powerless to keep them out of their zone. \n\n\n\n\nEllis saves on Greer and Gauthier #LetsGoBuffalo #FlyTogether pic.twitter.com/IgEZWS6cFp&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nOn a two-on-one Jason Zucker found Ryan McLeod but he fluffed his chance, then Zucker was tripped into the boards and went down heavily with Buffalo going back to the power play, but were unable to take advantage. \n\n\n\n\nZucker got taken out by a sliding McLeod.  Down on the ice as it cut to a commercial break #LetsGoBuffalo #FlyTogether pic.twitter.com/cv168YPgwi&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nAnaheim had a few rare moments of second period control before Thompson decided to reprise his dominant self from the first period. Peyton Krebs won an offensive zone faceoff with the puck going straight back to the top of the circle where Tage waited on one knee and his wrister over the stick side beat Husso to give the Sabres their first lead of the night at the 18:36 elapsed mark. \n\n\n\n\nTage Thompson right off a draw, 4-3 #LetsGoBuffalo #FlyTogether pic.twitter.com/AKdZSlUmFP&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nStunned, the Ducks lost the ensuing faceoff in the center circle to Krebs, who found Rasmus Dahlin on the left, and his cross-ice pass went to a streaking Thompson who cut in from the right. Having humbled Luneau on his first goal, he proceeded to embarrass Hinds with his blinding speed, and then tucked the puck neatly through Husso’s five-hole barely fifteen seconds after his second goal to earn his tenth hattrick. That put the Sabres up by two and was his tenth tripletta for Buffalo, bringing him level with Danny Gare and Alexander Mogilny. Rick Martin remains well ahead with 21 and Gilbert Perreault in second with 18. \n\n\n\n\nTage Thompson HAT TRICK, 5-3 #LetsGoBuffalo #FlyTogether pic.twitter.com/RoCWxwoGof&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nWinged by Tage, the Ducks were relieved to go into the locker room without giving up more goals. The Sabres dominated the shot count 15-5, and 14-5 in scoring chances. \n\n\n\nBuffalo kissed thee ere Buffalo killed thee\n\n\n\nThe third period has been the Sabres’ best period by far with a +10 differential as they looked to become the first team in the league to reach four wins from multi-goal comebacks, while the Ducks have been awful in the last stanza with a -7 scoring record. \n\n\n\nEarly in the third the Sabres had two good scoring chances stopped by Husso before Dahlin was taken down, Sennecke with a lazy trip in the neutral zone for another Buffalo power play. Sabres got the bounces in San Jose, and that semeed to have carried to Anaheim, with Ostlund’s centering pass seeking Benson going off LaCombe’s skate and flying in past Husso, and just like that the Sabres had a second road power play goal after entering the game tonight with none so far, 6-3 the score. \n\n\n\n\nJack Quinn has a pass go off Lacombe and in, 6-3 PPG #LetsGoBuffalo #FlyTogether pic.twitter.com/mjI5bcMIrY&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\n“Benson can’t finish”, “Benson’s shot sucks”, “Benson this” and “Benson that”.  About five minutes after the Sabres had taken the three-goal lead, they made it six straight goals scored with Benson racing onto a banked pass off the boards by Zellweger on his homecoming to slot home over Husso’s blocker, 7-3.\n\n\n\n\nZach Benson breakaway goal, 7-3 #LetsGoBuffalo #FlyTogether pic.twitter.com/Maui2t9ymU&mdash; Buffalo Hockey Moments (@SabresPlays) October 30, 2026\n\n\n\n\nDennis Gilbert took an unnecessary interference penalty 6:49 in and the Sabres PK started strong with a Beck Malenstyn shooting chance on the kill, going 1-on-3. Ducks went straight back up the ice with Gauthier beating Ellis coming across to make it 7-4 with over half the period still to play. \n\n\n\nIf the Sabres were ruffled they didn’t show it as they managed the clock without giving the Ducks too much life even as the crowd tried to pump their boys. Coach Q then pulled the goalie with 6:15 left and a three-goal deficit to make up for and the Ducks selling out to try to draw level. \n\n\n\nPower and Quinn both had long range shots go wide of the empty net for icing while Ellis continued to keep Anaheim at bay. Two and a half minutes into the 6-on-5 Kozak had a chance to score the empty-netter but his stick got tied up at the critical moment. \n\n\n\nFive minutes into the empty net situation and the Sabres had been happy to keep the Ducks at bay rather than trying to score another, but then with just over a minute left in the game, Luneau got a lucky bounce off a skate to make it 7-5 and the Ducks were attempting to mount a comeback. \n\n\n\nThe Sabres then made a hash of clearing their zone with Anaheim buzzing and with thirty seconds left in the game Ellis’ clearance in front of him fell straight to Sennecke who gratefully made it 7-6, oh boy. \n\n\n\n\nCOLTEN ELLIS WITH NO GLOVE SAVES THE SABRES ASSES FROM ONE OF THE WORST FALL APARTS EVER pic.twitter.com/3cfBaHRHII&mdash; Crossing Swords ⚔️ (@CrossSwordsPod) October 30, 2026\n\n\n\n\nEllis then had to sell out to make a crazy couple of kick saves as his catching glove went flying and the Sabres got an icing call to their benefit to end the game 7-6 with the Sabres having blown a four-goal lead in their favorite period, the third. The Ducks ended the period 16-6 on shots and 15-5 on scoring chances.  \n\n\n\nAt The Horn\n\n\n\nThis was an opposite game in many respects with the Sabres playing great in the second period but then mailing it in in the third where they have been so good. Colten Ellis was incredible at times in this game, both keeping the Ducks out in the first when they led two-nothing, and then at the end when they poured it on 6-on-5.  \n\n\n\nRiver hockey was at its finest tonight and the Sabres might get away with playing this style with Ellis in goal and possibly even Alex Lyon, but they certainly cannot give up this high a volume of shots with Ukko-Pekka Luukkonen between the pipes. Ruff will not be pleased with how this one ended, but a win is a win and the Sabres now have two regulation wins out of two on this West Coast swing so far. \n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-10-29: pic.twitter.com/NZj7gEOkOI&mdash; HockeyStatCards (@hockeystatcards) October 30, 2026",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T04:57:30.000Z",
-      "link": "https://www.diebytheblade.com/sabres-ride-thompson-hat-trick-to-beat-ducks-in-see-saw-game/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/athletes-in-focus/46867/ssfc-spotlight-zane-okoro-seeking-consistency-in-league-two",
       "team": "usmnt",
       "title": "SSFC Spotlight: Zane Okoro seeking consistency in League Two",
@@ -1193,15 +1138,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/267103-the-jets-future-is-potentially-scary/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266968-overtime-strategy-kick-or-receive/",
       "team": "bills",
-      "title": "Trade Deadline Move (s)",
-      "summary": "What will Beane do here... will he make a trade pick up a FA or leave it be... would love to hear whom you think might be in the mix....  My guess is a DB and maybe someone like Rasul Douglas... not that I think that changes a lot but he is familiar with him and Beane likes that.",
+      "title": "Overtime Strategy: Kick or Receive?",
+      "summary": "The Rams won the toss and elected to kick to the Bills, which seems to be the prevailing wisdom, with the thinking that after the receiving team's possession, the kicking team gets the ball back, knowing what they need to either win or tie the game.  Most teams who win the OT coin toss seem to be electing to kick.  I disagree with this strategy, especially in the regular season, where the OT period is limited to 10 minutes.\n\n\n\n\t \n\n\n\n\tFirst, the receiving team can chew up the clock, maybe as much as seven or eight minutes.  If they score a TD, then the kicking team might have as little as 2:30 left by the time they get the ball, which limits the type of drive they can mount, especially if they've already used one of their two OT timeouts.  More importantly, if the receiving team doesn't score, then punts the ball to the kicking team, they know that if they get a stop, they will get the ball next with a chance to win the game with a FG.  So in essence, they have a good chance to get two possessions, while the kicking team is probably only going to get one, unless both teams go three-and-out quickly.  I think the opportunity to get an \"extra\" possession outweighs the advantage the kicking team gets from knowing what they need. \n\n\n\n\t \n\n\n\n\tAnd here's another point.  With the new kickoff rule, the receiving team is likely to get the ball at their own 35-yardline or better.  If they advance it even to their own 40, they can pin the kicking team deep in their own territory with a punt, significantly reducing the kicking team's chance of scoring.  That is exactly what happened to the Bills in the playoff game against Denver.  Even though their defense got a stop on Denver's first possession, the Bills started their only OT possession inside their own 10-yard line. To me, if we have a choice in OT, we should always elect to receive. \n\n\n\n\t \n\n\n\n\tThoughts?",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-26T18:30:44.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/"
+      "publishedAt": "2026-10-16T21:14:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266968-overtime-strategy-kick-or-receive/"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/",
@@ -1215,17 +1160,6 @@
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/",
-      "team": "bills",
-      "title": "The nostalgia thread",
-      "summary": "I’ve started following some accounts that post significant games and memorable Bills plays from the past. They always strike a chord with me and I want to share but don’t know where, so I’m starting this thread. \n\t \n\n\n\n\tok so I cannot believe this game was 5 years ago already. I remember clear as day bc I was off that Monday for Columbus Day and listened to sports radio all day in my glory! Also I remember Spencer brown talking about growing up in the Midwest and sitting in the garage watching and waiting out a storm and I could totally relate having lived in the Midwest now for 30 years.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-10T22:21:40.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266370-drake-meha-career-killing-performance-tonight/",
       "team": "bills",
       "title": "Drake \"Meh\"....A career-killing performance tonight??",
@@ -1235,6 +1169,28 @@
       "sourceCount": 1,
       "publishedAt": "2026-09-10T06:22:19.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266370-drake-meha-career-killing-performance-tonight/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/",
+      "team": "bills",
+      "title": "If you weren't on board with the Brady promotion, do you feel better today?",
+      "summary": "I was really hoping we got Grant Udinski.  I fell for the \"prodigy\" label he was giving.  I was impressed with the way he conducts himself in the public, he does seem very knowledgeable.  \n\n\n\n\t \n\n\n\n\tThe Brady hire was deflating.  \n\n\n\n\t \n\n\n\n\tI know the regular season hasn't started yet but I'm feeling more comfortable with him.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-25T02:38:25.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266195-if-you-werent-on-board-with-the-brady-promotion-do-you-feel-better-today/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266192-pats-trade-kayshon-boutte-to-texans/",
+      "team": "bills",
+      "title": "Pats trade Kayshon Boutte to Texans",
+      "summary": "This is actually kind of annoying. Boutte is a legit WR and a better player than Jayden Higgins at this point in their careers. So this is a net improvement for the Texans WR room and makes our week 1 matchup a bit more challenging. At least we'll get them early before he has a chance to develop chemistry with Stroud.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-24T18:53:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266192-pats-trade-kayshon-boutte-to-texans/"
     }
   ]
 }
