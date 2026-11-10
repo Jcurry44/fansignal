@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T11:35:12.545Z",
+  "generatedAt": "2026-11-10T18:51:18.560Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 1,
       "error": null
     },
     {
@@ -170,15 +170,235 @@
   ],
   "stories": [
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267278-bring-jj-home-with-us/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267285-looking-ahead-to-1122-dolphins-game-zach-sieler-out-for-the-season/",
       "team": "bills",
-      "title": "Bring JJ home with us.",
-      "summary": "JJ hates it in Minny. He’s languishing.\n\n\n\n\t \n\n\n\n\tWe could’ve taken him in 2020 but we went for Diggs.\n\n\n\n\t \n\n\n\n\tKidnap him and send the Vikes a first and second. \n\t \n\n\n\n\tBring him home. Complete the circle.",
+      "title": "looking ahead to 11/22 (Dolphins game) - Zach Sieler out for the season",
+      "summary": "He's the best player on the team. Last time we saw him, he had a sack on Allen on a 3rd and seven play late in the first half in a 30-13 Miami victory.\n\n\n\n\t \n\n\n\n\thttps://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dolphins-dt-zach-sieler-to-have-season-ending-biceps-surgery",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-10T10:40:56.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267278-bring-jj-home-with-us/"
+      "publishedAt": "2026-11-10T18:48:25.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267285-looking-ahead-to-1122-dolphins-game-zach-sieler-out-for-the-season/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/canadiens-hutson-on-similarities-with-quinn-hughes-hes-another-level/",
+      "team": "sabres",
+      "title": "Canadiens’ Hutson on similarities with Quinn Hughes: ‘He’s another level’",
+      "summary": "Montreal Canadiens defenceman Lane Hutson speaks on comparisons between himself and Quinn Hughes ahead of Tuesday’s matchup vs. the Minnesota Wild.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T18:03:10.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/canadiens-hutson-on-similarities-with-quinn-hughes-hes-another-level/"
+    },
+    {
+      "id": "espn-bills::50443983",
+      "team": "bills",
+      "title": "Bills' Spencer Brown breaks down the new philosophy under coach Joe Brady",
+      "summary": "Bills' Spencer Brown breaks down the new philosophy under coach Joe Brady",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T17:49:06Z",
+      "link": "https://www.espn.com/video/clip/_/id/50443983/bills-spencer-brown-breaks-new-philosophy-coach-joe-brady"
+    },
+    {
+      "id": "espn-bills::50414742",
+      "team": "bills",
+      "title": "NFL Week 10 betting odds: Lines and totals for every game",
+      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
+      "source": "ESPN · ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T17:28:23Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144983/quantitative-proof-of-buffalo-bills-defense-making-strides",
+      "team": "bills",
+      "title": "The quantitative proof of Buffalo Bills defense making strides",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T17:23:34.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144983/quantitative-proof-of-buffalo-bills-defense-making-strides"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47035/mauricio-pochettino-reportedly-on-manchester-uniteds-managerial-search-list",
+      "team": "usmnt",
+      "title": "Mauricio Pochettino reportedly on Manchester United’s managerial search list",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T17:05:28.000Z",
+      "link": "https://www.starsandstripesfc.com/usmnt-news/47035/mauricio-pochettino-reportedly-on-manchester-uniteds-managerial-search-list"
+    },
+    {
+      "id": "espn-bills::50443081",
+      "team": "bills",
+      "title": "Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite",
+      "summary": "Bengals QB Joe Burrow has overtaken Bills star Josh Allen as the betting favorite for NFL MVP honors, a development that could prove costly for sportsbooks.",
+      "source": "ESPN · Doug Greenberg",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T17:03:43Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/144977/buffalo-bills-make-history-in-23-6-win-over-minnesota-vikings",
+      "team": "bills",
+      "title": "Buffalo Bills make history in 23-6 win over Minnesota Vikings",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T16:50:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/144977/buffalo-bills-make-history-in-23-6-win-over-minnesota-vikings"
+    },
+    {
+      "id": "espn-bills::50442976",
+      "team": "bills",
+      "title": "How the Bills ground down the Vikings",
+      "summary": "Nicholas Suss recaps a grind-out win for the Bills against the Vikings.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T16:48:11Z",
+      "link": "https://www.espn.com/video/clip/_/id/50442976/how-bills-ground-vikings"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-at-vikings-mnf-week-9",
+      "team": "bills",
+      "title": "Top 3 things we learned from Bills at Vikings | MNF Week 9",
+      "summary": "The Bills improved to 7-1 by overcoming an early defensive battle before pulling away for a 23-6 road victory over the Vikings.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T16:27:39.000Z",
+      "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-at-vikings-mnf-week-9"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/144968/nfl-trade-deadline-day-open-thread",
+      "team": "bills",
+      "title": "NFL trade deadline: Buffalo Bills discussion and live chat",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T16:16:22.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/144968/nfl-trade-deadline-day-open-thread"
+    },
+    {
+      "id": "espn-bills::50435694",
+      "team": "bills",
+      "title": "NFL Power Rankings: Stacking all 32 teams for Week 10, plus important games left",
+      "summary": "How does every NFL team stack up as we hit midseason? We made our 1-32 list and picked key games in the second half of the season.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T15:35:36Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50435694/nfl-power-rankings-week-10-most-important-games-remaining"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267284-do-guys-not-go-out-for-monday-night-football-anymore/",
+      "team": "bills",
+      "title": "Do guys not go out for Monday Night Football anymore?",
+      "summary": "Saw this thread and discourse on X this morning and thought it was an interesting topic to break up all of the trade deadline chatter\n\n\n\n\t \n\n\n\n\tIm in the bracket where I've simply aged out of it but I had a solid run in my 20s and even a little bit into my 30s going out with the boys for MNF was tradition. I just watched the game at home last night but text with my friends throughout the game. But apparently even for the younger kids going out to a bar to watch MNF isn't a big thing anymore \n\n\n\n\t \n\n\n\n\tHas society really changed that much?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T15:30:07.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267284-do-guys-not-go-out-for-monday-night-football-anymore/"
+    },
+    {
+      "id": "espn-sabres::50432982",
+      "team": "sabres",
+      "title": "NHL Awards Watch: Believe it or not, McDavid not the unanimous MVP pick right now",
+      "summary": "Our panel of PHWA voters identify their finalists for all the awards, with some tight races in a few spots.",
+      "source": "ESPN · Greg Wyshynski",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T15:24:22Z",
+      "link": "https://www.espn.com/nhl/story/_/id/50432982/2026-27-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144955/takeaways-from-bills-win-over-vikings",
+      "team": "bills",
+      "title": "Takeaways from Bills win over Vikings",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T13:57:44.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144955/takeaways-from-bills-win-over-vikings"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267282-3-up-3-down-purple-team-edition/",
+      "team": "bills",
+      "title": "3 up 3 down - Purple Team edition",
+      "summary": "Ok that one was really hard to watch, no flow until into the 3rd Quarter... I honestly dont think I have seen a worse QB performance since Peterman in SD or Manuel against Jacksonville.. Wentz was terrible... kudos to our defense for again standing up and pretty much keeping us there until the Offense figured it out.  Here we go.\n\n\n\n\t \n\n\n\n\tUP\n\n\n\n\t \n\n\n\n\tCook - this was not a sexy performance, but that guy used himself as a battering ram to wear down the defense he gonna need a hot tub.\n\n\n\n\tLeonhard - he had those guys in the right place at the right time a whole lot, the feeling of dread everytime the defense came on the field was gone for this game. \n\n\n\n\tBernard- I am the first to call him out, I will put him in here. Not cause I think he had the perfect game but he had a major positive impact on it. Although he really needed to hold on to that last one.. he will have nightmares for a few days about dropping that LOL. \n\n\n\n\t \n\n\n\n\tHM IGB this guy could be the real deal, Bass again was spot on (does anyone notice his kicks knuckle ball and move all over the place scares the hell out of me. Rousseau, I mean he could be on the big list but seems to make it there a lot.  Benford held JJ in check.\n\n\n\n\t \n\n\n\n\tDown\n\n\n\n\t \n\n\n\n\tLeft side of the O Line - Abused.\n\n\n\n\tBrady - I am hanging this on him for lack of a better target, these pre snap penalties have got to stop. 3rd worst in the league at almost 9 penalties a game.  I also did not like the 1st half offensive play calling. \n\n\n\n\tKeon - was not really noticeable, felt like he could have made a better effort at the first pass he was targeted with he just kind of ole'd it. He did make a crucial catch over the middle. I would have liked to see him as a bigger force. But if I am honest, I am stretching here...",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T13:15:25.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267282-3-up-3-down-purple-team-edition/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267281-bills-defense-appreciation-thread/",
+      "team": "bills",
+      "title": "Bills Defense Appreciation Thread",
+      "summary": "Right off the bat, I will concede we haven't faced a murders row of QBs. Cousins, Fagnano and Wentz are not the standard of QB play in the NFL.\n\n\n\n\t \n\n\n\n\tBut the defense has done its job. Benford and shut down Bowers, Zay Flowers and Justin Jefferson in that time. Absolutely dominate. Since Ed Oliver returned to the lineup, the pass rush is back. \n\n\n\n\t \n\n\n\n\tI've mentioned this elsewhere but it warrants repeating.  Over the last 3 weeks the Buffalo Bills have the #1 defense in the NFL at limiting yardage. Their season average is still 330 yards per game allowed (good for 16th in the NFL) but the last 3 weeks they have given up and average of 233 yards a game. #1 overall in that time frame. \n\n\n\n\t \n\n\n\n\tAnd before we get too ahead of ourselves with \"Well, the QBs we faced....\"\n\n\n\n\t \n\n\n\n\tThat's hogwash. The defense has been in position. They are getting their assignments down. And they are playing outstanding football bas a unit. The next two weeks they face Geno Smith and Malik Willis. Two excellent opportunities to gain even more confidence. \n\n\n\n\t \n\n\n\n\tWhat's even more impressive to me, is they have done it over the last two and a half games without CJGJ. And when he got ejected, the defense looked sharper and hasn't slowed down. That was the definition of addition by subtraction.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T13:09:24.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267281-bills-defense-appreciation-thread/"
+    },
+    {
+      "id": "espn-bills::40699880",
+      "team": "bills",
+      "title": "Fantasy buzz: James Cook III helps Bills overcome tough Vikings defense",
+      "summary": "Buffalo's offense struggled on Monday night, but James Cook III was able to do enough to defeat Vikings.",
+      "source": "ESPN · ESPN Fantasy",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T12:56:53Z",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/olen-zellweger-fitting-right-in/",
+      "team": "sabres",
+      "title": "Olen Zellweger Fitting Right In",
+      "summary": "So, Who Is the Wonderful Wizard of Oz?\n\n\n\nOlen Zellweger has been more than adequate since joining the Sabres. The hope was that he could at least partially fill the skates of the departed Bowen Byram, and for the most part, he’s done just that.\n\n\n\nBut who exactly is this young defenseman we’re still getting to know a little better with each passing game? Let us find out together.\n\n\n\n\nPosition: Defenseman\n\n\n\nShoots: Left\n\n\n\nHeight: 5’10”\n\n\n\nWeight: Approximately 192 lbs\n\n\n\nBorn: September 10, 2003 Calgary, Alberta\n\n\n\nTeam: Buffalo Sabres\n\n\n\nDrafted: 2021, 2nd round, 34th overall by Anaheim\n\n\n\nAcquired: For Anton Wahlberg and a second-round draft pick\n\n\n\nAge: 23\n\n\n\n\nBack in June of this year, Buffalo acquired Zellweger from Anaheim in exchange for forward prospect Anton Wahlberg and a second-round pick in the 2026 NHL Draft, which the Ducks used to select Jayden Kurtz. The Sabres were looking to add a young defenseman with good skating ability, puck-moving skills, and offensive upside. Zellweger checked all those boxes and appeared to be a good fit for what Buffalo needed.\n\n\n\nHe is also under an affordable contract, signed by Buffalo through the 2028-29 season, carrying an annual salary cap hit of $3.1 million. He will be a restricted free agent then.\n\n\n\nOlen is one of the more intriguing defensemen to join the Buffalo Sabres in recent years. He’s is a bit undersized but is an exceptionally mobile, offensively gifted defender whose skating and puck-moving abilities make him an exciting addition to Buffalo’s blue line. And have I mentioned his speed yet? He’s one of the faster defensemen in the NHL and has the ability to join the rush, carry the puck through the neutral zone and create offensive opportunities.\n\n\n\nI used the term “Bo Byram-lite” when we acquired him this past summer and he really does share many of the same qualities. He’s not a stay-at-home defenseman. His game is built around mobility, puck possession and generating offense.\n\n\n\nHis greatest contributions will likely come from his ability to move the puck and help drive play, but that doesn’t mean he can’t hold his own defensively. We’ve seen him clear the crease this season, so he’s certainly not afraid to get physical in front of his own net. He just doesn’t have the size to do it consistently. Olen relies more on his skating ability and quickness to close gaps and get on attacking players before they have time to make a play. He has also added some bulk over the past few seasons, currently weighing in at 192 pounds compared to just 180 pounds three seasons ago.\n\n\n\n\n\n\n\nZellweger has shown offensive ability at virtually every level. He was a highly productive junior defenseman with the WHL’s Everett Silvertips and Kamloops Blazers. Some of his past accomplishments include:\n\n\n\nTwo-time WHL Defenseman of the Year (2022 and 2023).\n\n\n\n2023 CHL Defenseman of the Year.\n\n\n\nTwo-time World Junior Championship gold medalist with Canada (2022 and 2023).\n\n\n\nRecorded 37 points in 44 AHL games during his first professional season.\n\n\n\nNow 23 years old, Zellweger played parts of three seasons with the Ducks before Buffalo acquired him. He compiled 16 goals and 35 assists for 51 points in 164 games. That’s pretty respectable production for a young defenseman just finding his footing in the NHL. The Sabres believe there’s considerably more offense to unlock, however. Olen has the potential to develop into a productive, middle-pairing offensive defenseman capable of consistently putting up 30–40 points per season, perhaps even more as his game continues to mature.\n\n\n\nZellweger has gotten off to a very encouraging start in Buffalo, and the early returns suggest the Sabres may have found exactly what they were looking for when they acquired him. He’s been receiving mostly positive reviews while averaging nearly 20 minutes of ice time per game and stepping into an elevated role on Buffalo’s blue line, playing primarily alongside Owen Power.\n\n\n\nOffensively, he’s been productive as well. Zellweger has recorded 3 goals and 3 assists for 6 points in 16 games, putting him on a scoring pace that exceeds his production from last season in Anaheim. That includes an impressive two-goal performance against Montreal and a game-winning goal against San Jose.\n\n\n\nPerhaps just as encouraging is the confidence the coaching staff has shown in him. He’s been trusted with meaningful minutes and an opportunity to contribute alongside Buffalo’s former number one overall pick. For a 23-year-old defenseman still developing his game, that’s a pretty significant vote of confidence.\n\n\n\nThe early returns have been promising. Zellweger possesses the offensive instincts, skating ability and puck-moving skills to become a valuable contributor on Buffalo’s blue line. If he continues to develop defensively and becomes more comfortable in his new surroundings, the Sabres could have themselves a dependable, productive second-pairing defenseman for the long term.\n\n\n\nThe biggest question is whether Zellweger can round out his game and become a reliable two-way NHL defenseman without sacrificing the offensive instincts that make him such an intriguing addition. If he can put it all together, Buffalo may have found a very nice piece for its defensive core.\n\n\n\n\n\n\n\n\n\nPhoto credits Sabres.com & NHL.com",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T12:44:22.000Z",
+      "link": "https://www.diebytheblade.com/olen-zellweger-fitting-right-in/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267279-it-has-been-33-years%E2%80%A6/",
+      "team": "bills",
+      "title": "It has been 33 years…",
+      "summary": "…since your Buffalo Bills started a season 7-1. That year they returned to the Super Bowl for the 4th consecutive time.\n\n\n\n\t \n\n\n\n\tLet’s look at the remaining nine games:\n\n\n\n\t \n\n\n\n\t\n\t\tFour games against the Jets and Fish; while nothing comes easy in the NFL, I’m going to put these in the win column.\n\t\n\t\n\t\tRoad games at NE***, GB, and DEN — that’s a gauntlet. I’m predicting two wins because the Pats*** are flawed and the Broncos haven’t impressed.\n\t\n\t\n\t\tHome games vs. KC and CHI — just to be generous I’ll have them split these, but in reality they should be favored in both.\n\t\n\n\n\n\t \n\n\n\n\tThat’s a 14-3 record. Will it be good enough for the #1 seed? We’d need Jacksonville to lose at least one more and get the win vs. Denver to have that tiebreaker (if they don’t lose another game).\n\n\n\n\t \n\n\n\n\tBut what the hell do I know? Perhaps we’re about to see a historic run and it won’t even matter during W18.\n\n\n\n\t \n\n\n\n\tLet’s Go, Buffalo!!! 19-and-1, babyyyyyyy!!!!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T12:24:06.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267279-it-has-been-33-years%E2%80%A6/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144887/buffalo-bills-stock-report-horns-up-horns-down-in-gritty-win-vs-minnesota-vikings",
+      "team": "bills",
+      "title": "Buffalo Bills stock report: Horns Up, Horns down in gritty win vs. Minnesota Vikings",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T12:22:04.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144887/buffalo-bills-stock-report-horns-up-horns-down-in-gritty-win-vs-minnesota-vikings"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267277-game-week-thread-bills-at-jets/",
@@ -225,15 +445,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-odds/144608/bills-vs-jets-odds-week-10-opening-lines-point-spread-total"
     },
     {
-      "id": "espn-bills::50439529",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/144940/bills-punter-tommy-doman-handled-kickoffs-on-monday-and-trucked-the-vikings-returner",
       "team": "bills",
-      "title": "Josh Allen and the Bills move to 7-1 with a 23-6 win over the sputtering Vikings",
-      "summary": "— The Buffalo Bills knew they weren't bound for many style points or likely to reach their league-leading scoring average against Minnesota's relentlessly...",
-      "source": "ESPN",
-      "sourceType": "league",
+      "title": "Bills punter Tommy Doman handled kickoffs on Monday and trucked the Vikings returner",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-10T06:12:35Z",
-      "link": "http://www.espn.com/nfl/recap?gameId=401873051"
+      "publishedAt": "2026-11-10T05:53:12.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/144940/bills-punter-tommy-doman-handled-kickoffs-on-monday-and-trucked-the-vikings-returner"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144922/bills-at-vikings-week-9-instant-analysis-buffalo-batters-minnesota",
@@ -247,6 +467,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144922/bills-at-vikings-week-9-instant-analysis-buffalo-batters-minnesota"
     },
     {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/144876/james-cook-all-time-bills-rushing-list-josh-allen",
+      "team": "bills",
+      "title": "James Cook passes Josh Allen for fourth in Bills rushing history",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-10T05:24:20.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/144876/james-cook-all-time-bills-rushing-list-josh-allen"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144920/buffalo-bills-james-cook-powers-through-minnesota-vikings",
       "team": "bills",
       "title": "James Cook powers through against Vikings for important Bills win",
@@ -258,17 +489,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144920/buffalo-bills-james-cook-powers-through-minnesota-vikings"
     },
     {
-      "id": "espn-bills::50435734",
-      "team": "bills",
-      "title": "Josh Allen leads Bills to win over tough Vikings defense",
-      "summary": "The Vikings kept Allen in check for much of the game, but he helped the Bills earn a low-scoring victory.",
-      "source": "ESPN · Kevin Seifert and Nick Suss",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T05:09:21Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-23-vikings-6-final-score-recap-highlights",
       "team": "bills",
       "title": "Bills 23, Vikings 6 | Final Score, recap + highlights",
@@ -278,105 +498,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-10T05:01:19.000Z",
       "link": "https://www.buffalobills.com/news/bills-23-vikings-6-final-score-recap-highlights"
-    },
-    {
-      "id": "espn-bills::50439406",
-      "team": "bills",
-      "title": "Josh Allen, Bills outlast Vikings 23-6 on MNF",
-      "summary": "Josh Allen, Bills outlast Vikings 23-6 on MNF",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T05:01:02Z",
-      "link": "https://www.espn.com/video/clip/_/id/50439406/josh-allen-bills-outlast-vikings-23-6-mnf"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267274-should-the-bills-give-james-cook-a-reduced-workload-in-the-next-two-games/",
-      "team": "bills",
-      "title": "Should the Bills give James Cook a reduced workload in the next two games???",
-      "summary": "Cook is a beast....but 30 carries tonight is a lot for a guy his size, IMO.\n\n\n\n\t \n\n\n\n\tWith the Jets and Dolphins coming up, the Bills have a golden opportunity to reduce Cook's workload over these next two games and give Ray Davis some run so Cook can be ready to dominate vs the Chiefs, Pats, and Packers.\n\n\n\n\t \n\n\n\n\tMaybe only 20-30 total carries over the next two games might be a good idea....\n\n\n\n\t \n\n\n\n\tWhat do you think??",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T04:58:18.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267274-should-the-bills-give-james-cook-a-reduced-workload-in-the-next-two-games/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/144887/buffalo-bills-stock-report-horns-up-horns-down-in-gritty-win-vs-minnesota-vikings",
-      "team": "bills",
-      "title": "Buffalo Bills stock report: Horns Up, Horns down in gritty win vs. Minnesota Vikings",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T04:36:00.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/144887/buffalo-bills-stock-report-horns-up-horns-down-in-gritty-win-vs-minnesota-vikings"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267270-week-9-bills-v-viqueens-game-balls/",
-      "team": "bills",
-      "title": "Week 9, Bills v. Viqueens, GAME BALLS!",
-      "summary": "Josh Allen and James Cook get their automatic game balls.  Until the last drive which ended in a TD by Cook, they were both in jeopardy.\n\t\n\tKhalil \"Tupac\" Shakir - Johnny-on-the-Spot all day today.\n\n\n\n\tKeleki Latu - Found a way to get open in the EZ for the biggest catch of the game, and threw one helluva block on Cook's TD!\n\t \n\n\n\n\tGreg \"Groot\" Rousseau - Once again, he got in on Wentz's hand, which bothered Wentz the rest of the game.  Constant pressures, sacks, he was a man against boys.\n\n\n\n\tDorian Williams/Terrel Bernard - The two back-to-back INT's killed the Viqueens momentum in the 3rd QTR.  The 4th down stop at the end by Bernard was just icing on the cake.\n\n\n\n\tBills DB's - Held JJ in check all day.  He was only a factor on the drive before the half resulting in a FG.  The rest of the game, he was *****in' ERASED!\n\n\n\n\t \n\n\n\n\tTyler Bass\"-o-Matic\" - Once again, calmly hit all fou....er.....three of his FG's.\n\n\n\n\t \n\n\n\n\tWHO YA GOT?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T04:29:56.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267270-week-9-bills-v-viqueens-game-balls/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/144903/afc-playoff-picture-buffalo-bills-stick-in-first-place-after-monday-night-win",
-      "team": "bills",
-      "title": "AFC Playoff Picture: Buffalo Bills stick in first place after Monday night win",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T04:17:48.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/144903/afc-playoff-picture-buffalo-bills-stick-in-first-place-after-monday-night-win"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/144826/bills-injuries-2026-in-game-updates-vs-vikings",
-      "team": "bills",
-      "title": "Bills injuries 2026: In-game updates vs. Vikings",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T03:51:02.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/144826/bills-injuries-2026-in-game-updates-vs-vikings"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/144874/josh-allen-becomes-fifth-nfl-quarterback-with-5000-rushing-yards",
-      "team": "bills",
-      "title": "Josh Allen becomes fifth NFL quarterback with 5,000 rushing yards",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T03:33:39.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/144874/josh-allen-becomes-fifth-nfl-quarterback-with-5000-rushing-yards"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/144868/josh-allen-peyton-manning-nfl-touchdown-record",
-      "team": "bills",
-      "title": "Josh Allen ties Peyton Manning for NFL touchdown record",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T03:18:04.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/144868/josh-allen-peyton-manning-nfl-touchdown-record"
-    },
-    {
-      "id": "espn-bills::50393510",
-      "team": "bills",
-      "title": "NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF'",
-      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T01:12:56Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-at-minnesota-vikings-where-to-watch-stream-and-listen-mnf-week-9",
@@ -467,17 +588,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnts-neil-pierre-turned-loan-into-breakout-season-philadelphia-union/"
     },
     {
-      "id": "espn-bills::50119009",
-      "team": "bills",
-      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
-      "source": "ESPN · ESPN staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-09T17:14:01Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/46919/usmnt-midweek-viewing-guide-quiet-time",
       "team": "usmnt",
       "title": "USMNT midweek viewing guide: Quiet time",
@@ -487,17 +597,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-09T16:56:20.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/46919/usmnt-midweek-viewing-guide-quiet-time"
-    },
-    {
-      "id": "espn-bills::50380155",
-      "team": "bills",
-      "title": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
-      "summary": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
-      "source": "ESPN · Nick Suss",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-09T16:55:50Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-11-9/",
@@ -599,6 +698,17 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-and-nfl-foundation-lisc-grassroots-field-grant-program-support-development-of-new-community-football-field-in-buffalo"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267248-week-9-around-the-nfl-no-bills-stuff-in-this-thread-please/",
+      "team": "bills",
+      "title": "Week 9 - Around  the NFL  (no Bills stuff in this thread please)",
+      "summary": "Bengals start soon in Spain, hopefully the Falcons upset them\n\n\n\n\t \n\n\n\n\tCan Jets pull off a miracle against KC? They have the talent to do it but their idiot coach will find a way to lose even if they keep it close.\n\n\n\n\t \n\n\n\n\tVery much looking forward to Pats/Packers. Praying the cheese heads can beat the d**kheads. A Pats loss and Bills win would give us a nice lead",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-08T13:44:39.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267248-week-9-around-the-nfl-no-bills-stuff-in-this-thread-please/"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/in-tough-times-sabres-jiri-kulich-leans-on-teammates-injured-matt-grzelcyk-in-holding-pattern/",
       "team": "sabres",
       "title": "In tough times, Sabres’ Jiri Kulich leans on teammates; Injured Matt Grzelcyk in ‘holding pattern’",
@@ -663,17 +773,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-07T10:56:07Z",
       "link": "https://www.espn.com/nhl/story/_/id/50390728/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267243-two-potential-5000-yard-rushers-on-mnf/",
-      "team": "bills",
-      "title": "Two potential 5000 Yard Rushers on MNF",
-      "summary": "https://sports.yahoo.com/articles/josh-allen-james-cook-both-084539831.html\n\n\n\n\t \n\n\n\n\tJosh Allen is 9 yards short of 5000 career rushing yards and James Cook needs just 34 yards to reach the same milestone. \n\n\n\n\t \n\n\n\n\tThat would be really amazing to see both of them join this club. For QBs,  Allen will be the 5th QB to rush for 5000 yards.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-07T10:48:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267243-two-potential-5000-yard-rushers-on-mnf/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-josh-norris-breaks-out-of-slump-scores-two-goals-in-much-needed-home-win-over-blue-jackets/",
@@ -775,17 +874,6 @@
       "link": "http://www.espn.com/nhl/preview?gameId=401892668"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267231-igb-starting-to-separate-and-making-a-name-for-himself/",
-      "team": "bills",
-      "title": "IGB starting to separate and making a name for himself.",
-      "summary": "IGB has earned the trust of his coaches and is now the starting CB2 on this Bills defense.  Besides that he is also leading all the other rookie CBs across the league.  \n\t\n\thttps://www.si.com/nfl/bills/onsi/rookies-key-metric-shows-bills-davison-igbinosun-separating-himself\n\n\n\n\t \n\n\n\n\tWe have 3 of the 4 in the backfield better than average players.  Can we fix the 4th spot with an incoming safety",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T08:28:20.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267231-igb-starting-to-separate-and-making-a-name-for-himself/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-jake-richard-excelling-in-first-weeks-with-rochester-amerks/",
       "team": "sabres",
       "title": "Sabres prospect Jake Richard excelling in first weeks with Rochester Amerks",
@@ -795,17 +883,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-06T05:25:20.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-prospect-jake-richard-excelling-in-first-weeks-with-rochester-amerks/"
-    },
-    {
-      "id": "espn-sabres::50395606",
-      "team": "sabres",
-      "title": "Carolina Hurricanes vs. New York Islanders: Game Highlights",
-      "summary": "Carolina Hurricanes vs. New York Islanders: Game Highlights",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T03:01:24Z",
-      "link": "https://www.espn.com/video/clip/_/id/50395606/game-highlights"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/there-aren-t-any-weaknesses-how-the-bills-offense-is-preparing-to-face-the-blitz-heavy-minnesota-vikings",
@@ -839,17 +916,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-05T18:36:37.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267224-wentz-to-start-vs-bills/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/spencer-brown-named-bills-nominee-for-nfl-salute-to-service-award-2026",
-      "team": "bills",
-      "title": "Spencer Brown named Bills' nominee for NFL Salute to Service Award 2026: \"I just want to put them first\"",
-      "summary": "Fans can show their support for Spencer Brown by voting at NFL.com/SaluteFanVote from now through Nov. 30, 2026.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T18:32:37.000Z",
-      "link": "https://www.buffalobills.com/news/spencer-brown-named-bills-nominee-for-nfl-salute-to-service-award-2026"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cristiano-ronaldo-retires-portugal-national-team/",
@@ -905,17 +971,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-05T03:58:10.000Z",
       "link": "https://www.diebytheblade.com/sabres-squander-late-lead-in-2-1-home-loss-to-senators/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267218-week-9-bills-v-viqueens-predict-the-score/",
-      "team": "bills",
-      "title": "Week 9, Bills v. Viqueens, PREDICT THE SCORE!",
-      "summary": "The Bills go back to the scene of the original crime, US Bank Stadium in Minneapolis.  This was Josh Allen's coming out party.  He had his first hurdle of a defender on Anthony Barr.  He had the immortal rollout and lunge for the pylon, where he actually achieved lift.  When I saw this play, I just jumped off the couch and said, \"THAT'S MY QUARTERBACK!\"\n\n\n\n\t \n\n\n\n\t\n\n\n\n\t \n\n\n\n\tI think this one will be a blowout.  The Viqueens D won't know what hit it.  Josh will do Josh things and the Viqueens D will be powerless to stop it.  The Bills D will exact revenge for the Hail Murray, and make Kyler's life miserable all day.  Bills win big:\n\n\n\n\t \n\n\n\n\tBeews - 41\n\n\n\n\tViqueens - 16\n\n\n\n\t \n\n\n\n\tPrevious winners:\n\n\n\n\t \n\n\n\n\tWeek 1 - @colin\n\n\n\n\tWeek 2 - @Freddie's Dead, @HappyDays, @Big Turk\n\n\n\n\tWeek 3 - @Robert Paulson\n\n\n\n\tWeek 4 - @RiotAct\n\n\n\n\tWeek 5 - @Sojourner\n\n\n\n\tWeek 6 - @Reks Ryan, @SydneyBillsFan\n\n\n\n\tWeek 7 - BYE\n\n\n\n\tWeek 8 - @Ridgewaycynic2013, @Ray Stonada",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T03:53:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267218-week-9-bills-v-viqueens-predict-the-score/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-15-preview-open-thread-buffalo-sabres-vs-ottawa-senators/",
@@ -1105,17 +1160,6 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-11-2/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267165-hows-the-d-look-after-the-bye/",
-      "team": "bills",
-      "title": "How's the D look after the bye?",
-      "summary": "One meaningful snap: our very first defensive snap where Bills up-to-date MVP Rousseau broke Lamar's right thumb, and that's pretty much all she wrote for the game.\n\n\n\n\t \n\n\n\n\tTaking Flowers away is impressive. No wide open guys from my TV screen. No long rumbling from Henry. Still saw a few late communications. But against a QB of pre-season ilk. it means nothing in terms of answering all the questions we have before the bye.\n\n\n\n\t \n\n\n\n\tbtw, did I see Leonhard calling plays from the booth (behind a glass window) today?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-01T22:06:20.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267165-hows-the-d-look-after-the-bye/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-3-2-kings-recap-scare-up-a-california-sweep-behind-thompson-luukkonen/",
       "team": "sabres",
       "title": "Sabres scare up a California sweep behind Thompson, Luukkonen",
@@ -1125,17 +1169,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-01T00:09:36.000Z",
       "link": "https://www.diebytheblade.com/sabres-3-2-kings-recap-scare-up-a-california-sweep-behind-thompson-luukkonen/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/game-14-preview-open-thread-buffalo-sabres-at-los-angeles-kings/",
-      "team": "sabres",
-      "title": "Game #14 Preview & Open Thread: Buffalo Sabres at Los Angeles Kings",
-      "summary": "It’s Halloween Havoc as Sabres Shoot for Three Wins in a Row in L.A.\n\n\n\nBuffalo Sabres (6-4-3) vs Los Angeles (4-6-2)\n\n\n\nPuck Drop: 4:00 pm ET | Crypto.com Arena\n\n\n\nTV: MSG-B, DAZN, ESPN+ (Hulu), NHL Center Ice\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nLos Angeles Kings\n\n\n\nRecord: 4-6-2 | 10 PTS\n\n\n\nLast Game: Beat the Sens 6-5 in OT\n\n\n\nDivision Ranking: 7th\n\n\n\nPP: 17.5% 22nd (Sabres 13.6% 28th)\n\n\n\nPK: 64.9% 32nd  (Sabres 67.4% 28th)\n\n\n\nSeason Series: The Sabres were 2-0 last season against L.A. with a pair of 4-1 victories\n\n\n\nWhat to Watch\n\n\n\n1. Riding the Road Trip to Victory\n\n\n\nBuffalo comes into today’s game against Los Angeles looking to sweep California. The Sabres shut down the Sharks 2-0 earlier in the week and survived the Ducks by a 7-6 margin on Thursday late night TV. Now they look to usurp the Kings and complete the trifecta on Halloween.\n\n\n\nTage Thompson and his line of Peyton Krebs and Zach Benson exploded against Anaheim on Thursday night. TNT collected three goals and five points, while Benny chipped in with a goal and two assists. Krebs rounded things out with three helpers of his own. This combo really clicked together, and I can’t imagine head coach Lindy Ruff won’t roll with that trio once again.\n\n\n\nThe Sabres have collected five of a possible six points on this road trip so far (including Washington) and have picked up points in four of their last five games overall. A win today would run the table on the Golden State and set Buffalo up nicely for a return to KeyBank Center next week. The Sabres will open a four-game homestand starting with the Ottawa Senators on Wednesday, November 4th.\n\n\n\n\n\n\n\n2. Kings Improving After Being Put in Check Early\n\n\n\nLos Angeles has scratched and clawed their way to three wins in their last five games after a miserable start to the season. Much like the Sabres in Anaheim, the Kings nearly suffered a complete meltdown on home ice against the Senators. After building a commanding 5-1 third-period lead, Los Angeles watched Ottawa storm back to tie the game. Fortunately for the Kings, Quinton Byfield came to the rescue, scoring the overtime winner just 1:23 into the extra frame to salvage the victory.\n\n\n\nThe 35-year-old Artemi Panarin has been pacing the Kings offensively so far this season, recording 8 goals and 13 points through 12 games. He’s showing no signs of slowing down, playing some of his best hockey despite his age. Meanwhile, 23-year-old Brandt Clarke is leading the way on the blue line. Clarke is a dynamic offensive defenseman, a premier puck-mover and power-play quarterback. Buffalo would be wise to keep these two players on their radar.\n\n\n\nThe Sabres (Atlantic) and Kings (Pacific) both sit in seventh place, despite Buffalo holding a fairly better early season record with 15 points compared to Los Angeles with 10. What a difference a division makes.\n\n\n\n\n\n\n\n3. Whose Hot, Whose Not\n\n\n\nTage Thompson certainly qualifies as hot after his five-point outburst in Anaheim. Zach Benson has scored goals in back-to-back games while continuing to pile up the assists. And we can’t forget Jack “O’ Lantern” Quinn, who has recorded 10 points (5 goals, 5 assists) in his last 10 games for Buffalo.\n\n\n\nThe Sabres’ fourth line deserves some recognition here as well. Beck Malenstyn and Tyson Kozak, in particular, have been outstanding, bringing tight checking, physical play, shot blocking, and even chipping in offensively. According to Natural Stat Trick, with Malenstyn and Kozak together at 5-on-5 during the California trip, Buffalo holds an 8-2 advantage in high-danger scoring chances. That doesn’t even include Kozak’s goal on Thursday.\n\n\n\nSam Carrick returned after a four-game injury absence to join the duo, with spot duty from Krebs while mostly playing alongside Thompson.\n\n\n\nWho is NOT hot is the Sabres’ penalty killers. After a brief reprieve over the last two games, the Ducks went absolutely ham on Buffalo with the man advantage. Anaheim finished 3-for-4 with the extra skater and made it look relatively easy. They also added two more goals with the goalie pulled in 6-on-5 situations.\n\n\n\nThe Blue and Gold have no answers for this right now, so my recommendation is simple: stay the hell out of the penalty box! Being down a man has become a real horror show for the Sabres.\n\n\n\nNews and Notes\n\n\n\nUkko-Pekka Luukkonen manned the starter’s net during Friday’s practice, suggesting he’ll get the nod against the Kings. It will be his first appearance since stealing a point for Buffalo against Washington.\n\n\n\nForward Noah Östlund, who scored a power-play goal in Anaheim, missed practice for maintenance reasons but is expected to play against Los Angeles.\n\n\n\nBrandt Clarke was recently listed as day-to-day and his status is uncertain.\n\n\n\nEnjoy the game, everyone, and have a fun and safe Halloween! Remember, if you’re handing out raisins, toothbrushes, or pennies to the kids, you deserve whatever fate awaits you! 🎃\n\n\n\nPhoto Credit: NHL.com\n\n\n\n\n\n\n\nProjected Lineups\n\n\n\nBuffalo Spooky Sabres\n\n\n\nForwards\n\n\n\nZach “Blood and Bones” Benson – Peyton “Killer Klown” Krebs – Tage “Tower of Terror” Thompson\n\n\n\nJosh “Evil Dead” Doan – Noah “Nosferatu” Östlund – Jack “O’ Lantern” Quinn\n\n\n\nJason “Takes Manhattan” Zucker – Ryan “Macabre” McLeod – Josh “Nightmare” Norris\n\n\n\nTyson “Tombstone” Kozak – Sam “Candyman” Carrick – Beck “Murder Capital of the World” Malenstyn\n\n\n\nDefense\n\n\n\nMattias “Chain Saw” Samuelsson – Rasmus “Dawn of the Dead” Dahlin\n\n\n\nOwen “Poltergeist” Power – Olen “Zombieland” Zellweger\n\n\n\nDennis “Grim Reaper” Gilbert – Louis “Cadaver” Crevier\n\n\n\nGoaltenders\n\n\n\nUkko-Pekka “Your Eyes Out” Luukkonen (likely to start) Colten “Eerie” Ellis\n\n\n\nLos Angeles Kings\n\n\n\nForwards\n\n\n\nArtemi Panarin – Alex Laferriere – Adrian Kempe\n\n\n\nTrevor Moore – Quinton Byfield – Corey Perry\n\n\n\nAndre Lee – Scott Laughton – Joel Armia\n\n\n\nErik Haula – Samuel Helenius – Taylor Ward\n\n\n\nDefense\n\n\n\nErik Gustafsson – Brandt Clarke?\n\n\n\nJoel Edmundson – Drew Doughty\n\n\n\nMichael Anderson – Brian Dumoulin\n\n\n\nGoaltenders\n\n\n\nDarcy Kuemper (likely to start)  Anton Forsberg",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-31T15:51:02.000Z",
-      "link": "https://www.diebytheblade.com/game-14-preview-open-thread-buffalo-sabres-at-los-angeles-kings/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/46908/usmnt-weekend-viewing-guide-time-to-make-an-impression",
@@ -1149,26 +1182,15 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/46908/usmnt-weekend-viewing-guide-time-to-make-an-impression"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/social-video-twitter/46904/silence-of-the-goals-the-us-soccer-horror-movie",
-      "team": "usmnt",
-      "title": "Silence of the Goals: The US Soccer horror movie",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-30T15:47:49.000Z",
-      "link": "https://www.starsandstripesfc.com/social-video-twitter/46904/silence-of-the-goals-the-us-soccer-horror-movie"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267095-fire-sale-in-indy-nelson-traded-update-buckner-gone-update-downs-wants-out/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267130-what-do-you-think-the-bills-record-will-be-the-rest-of-the-year/",
       "team": "bills",
-      "title": "FIRE SALE IN INDY. Nelson traded (update: Buckner gone) update: Downs wants out",
-      "summary": "step right up and take your pick Beane!",
+      "title": "What do you think the Bills record will be the rest of the year?",
+      "summary": "This stemmed from a conversation in another thread. We sit at 5-1. Here are the remaining opponents:\n\n\n\n\t \n\n\n\n\tHome: Ravens, Jets, Dolphins, Chiefs, Bears\n\n\n\n\t \n\n\n\n\tAway: Vikings, Jets, Dolphins, Pats, Broncos, Packers\n\n\n\n\t \n\n\n\n\tShoot your shot.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-27T16:35:51.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267095-fire-sale-in-indy-nelson-traded-update-buckner-gone-update-downs-wants-out/"
+      "publishedAt": "2026-10-30T15:26:03.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267130-what-do-you-think-the-bills-record-will-be-the-rest-of-the-year/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/",
@@ -1182,17 +1204,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266989-joe-brady-has-the-highest-career-winning-percentage-of-any-active-nfl-head-coach/",
-      "team": "bills",
-      "title": "Joe Brady has the highest career winning percentage of any active NFL Head Coach",
-      "summary": "Kudos, Coach Brady. 87.5 percent. Keep it going.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-18T23:35:36.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266989-joe-brady-has-the-highest-career-winning-percentage-of-any-active-nfl-head-coach/"
-    },
-    {
       "id": "cbs-nhl::https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/",
       "team": "sabres",
       "title": "Today's top games to watch, best bets, odds: Guardians vs. Rays, Sabres vs. Canadiens and more",
@@ -1202,6 +1213,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T19:30:51.000Z",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/264884-knox-signs-new-3-year-contract/",
+      "team": "bills",
+      "title": "Knox signs new 3 year contract",
+      "summary": "Excellent \n\n\n\n\t \n\n\n\n\t \n\n\n\n\tExtremely underrated talent who can do everything. Entering his prime \n\n\n\n\t \n\n\n\n\tThis will also lower the cap significantly this year",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-03-10T15:33:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/264884-knox-signs-new-3-year-contract/"
     }
   ]
 }
