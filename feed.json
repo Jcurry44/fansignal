@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:16:23.006Z",
+  "generatedAt": "2026-11-13T11:25:03.588Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "live",
-      "headline": "2 - 2",
-      "detail": "at CHI · P3"
+      "state": "final",
+      "headline": "Final · L 2-3",
+      "detail": "at CHI"
     },
     {
       "team": "bandits",
@@ -175,6 +175,94 @@
     }
   ],
   "stories": [
+    {
+      "id": "espn-bills::50453355",
+      "team": "bills",
+      "title": "NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Patriots vs. Lions in Germany? Kirk Cousins' return to Minnesota? There are 13 more games in Week 10, and we have picks, predictions and more for all of them.",
+      "source": "ESPN · NFL Nation, Pamela Maldonado, Eric Moody and Aaron Schatz",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T11:23:37Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50453355/week-10-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
+      "id": "espn-sabres::50469915",
+      "team": "sabres",
+      "title": "Hurricanes aim to keep win streak going, host the Kraken",
+      "summary": "Seattle Kraken (9-7-1, in the Pacific Division) vs. Carolina Hurricanes (15-3-2, in the Metropolitan Division)",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T09:11:34Z",
+      "link": "http://www.espn.com/nhl/preview?gameId=401891809"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-cant-close-it-out-fall-to-blackhawks-3-2-in-overtime/",
+      "team": "sabres",
+      "title": "Sabres Can’t Close It Out, Fall to Blackhawks 3–2 in Overtime",
+      "summary": "Boxscore\n\n\n\nScore: Buffalo Sabres 2–3 Chicago Blackhawks (OT)Shots: BUF 23–25 CHIBuffalo Sabres Goals: Power (Norris, Quinn); Thompson PPG (Quinn, Dahlin)Chicago Blackhawks Goals: Nazar PPG (Bedard, Kantserov); Nazar (Rinzel, Moore); Donato (Frondell, Rinzel).\n\n\n\nQuick Thoughts\n\n\n\nA Good Start on the Road\n\n\n\nAfter giving up eight to Tampa Bay the night before, the Sabres needed a good first period in Chicago. They got one. Owen Power opened the scoring nine minutes in with a slap shot from the circle. Frank Nazar tied it from in close on the power play, but Tage Thompson answered with a wrister from the circle on Buffalo’s own man advantage. Jack Quinn assisted on both Sabres goals, and Buffalo took a 2–1 lead into the intermission.\n\n\n\nWhere Was the Third Goal?\n\n\n\nBuffalo outshot Chicago 10–6 in the second, but Spencer Knight kept it a one-goal game. That was the period where the Sabres had their best chance to put some distance between themselves and the Blackhawks. Instead, they went into the third still asking two first-period goals to hold up.\n\n\n\nChicago made them pay at 8:22 of the third. Nazar got his stick on the puck in the slot and redirected it past Alex Lyon for his second of the night. Buffalo had a power play less than two minutes later and couldn’t regain the lead. The Sabres finished 1-for-4 on the man advantage. They got one when they needed it in the first and could’ve used another right there.\n\n\n\nDonato Gets the Last Word\n\n\n\nRyan Donato scored from the high slot 3:12 into overtime to give Chicago the win. Lyon finished with 22 saves, and Knight stopped 21, including every Buffalo shot after Thompson’s goal. Chicago snapped a six-game skid. Buffalo’s losing streak is now three.\n\n\n\nAt The Horn\n\n\n\nA point on the second night of a back-to-back is useful. It still feels like Buffalo left one in Chicago. The Sabres got a goal from Power, a power-play goal from Thompson, and two assists from Quinn. They had the lead after 40 minutes. What they didn’t get was another goal over the final 47 minutes. There are too many passengers in each game lately. This team’s strength was depth last year, but it hasn’t shown up yet. The Sabres were in a worse position at this time last year before they went on a run, but that’s what makes it more frustrating, knowing that this team is better. A lot of players had career years last year, and while that can’t happen every year, only Power, Benson, Quinn, and Ostlund have improved; Tage and Samuelsson are what they should be, but the rest have regressed. Being in the toughest division makes it worse when they lose games they had the lead in.\n\n\n\nNext up is Dallas on Saturday at 8 p.m. ET, the second stop on the six-game road trip. If Buffalo takes another lead into the third, I’d like to see them spend more of it looking for the next goal.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T08:04:39.000Z",
+      "link": "https://www.diebytheblade.com/sabres-cant-close-it-out-fall-to-blackhawks-3-2-in-overtime/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267327-bills-stats-is-brady-sacrificing-an-edge-by-receiving-first/",
+      "team": "bills",
+      "title": "Bills stats - Is Brady sacrificing an edge by receiving first?",
+      "summary": "I thought this may deserve it to own thread, since it’s talked about on TBD. Credit to @Chaos for putting it into the game thread.\n\n\n\n\t \n\n\n\n\tI do prefer to defer, but it looks like Brady really does know what he’s doing here.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T06:43:08.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267327-bills-stats-is-brady-sacrificing-an-edge-by-receiving-first/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/blackhawks-beat-sabres-in-overtime-to-end-six-game-losing-streak/",
+      "team": "sabres",
+      "title": "Blackhawks beat Sabres in overtime to end six-game losing streak",
+      "summary": "Ryan Donato scored on a wrist shot from between the circles at 3:12 of overtime and the Chicago Blackhawks beat the Buffalo Sabres 3-2 on Thursday night to end a six-game losing streak.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T05:40:17.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/blackhawks-beat-sabres-in-overtime-to-end-six-game-losing-streak/"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-highlights-blackhawks-3-sabres-2-ot/",
+      "team": "sabres",
+      "title": "NHL Highlights: Blackhawks 3, Sabres 2 (OT)",
+      "summary": "Frank Nazar scored a pair of goals and Ryan Donato buried the overtime winner to lead the Chicago Blackhawks past the Buffalo Sabres 3-2.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T04:13:52.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/nhl-highlights-blackhawks-3-sabres-2-ot/"
+    },
+    {
+      "id": "espn-bills::50448015",
+      "team": "bills",
+      "title": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
+      "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T03:27:26Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267326-eagles-waive-wr-hollywood-brown/",
+      "team": "bills",
+      "title": "Eagles Waive WR Hollywood Brown",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T03:22:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267326-eagles-waive-wr-hollywood-brown/"
+    },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267325-washington-ny-giants-game-thread-no-bills-stuff-in-here-please/",
       "team": "bills",
@@ -207,17 +295,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-13T00:54:58Z",
       "link": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals"
-    },
-    {
-      "id": "espn-bills::50448015",
-      "team": "bills",
-      "title": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-      "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-13T00:39:05Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/a-lot-of-talent-what-the-bills-are-saying-about-the-jets-leading-up-to-week-10-afc-east-matchup",
@@ -350,28 +427,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-12T18:03:21.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267323-happy-55th-birthday-to-mrs-sds/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267322-bruce-arians-wants-to-return-to-coaching-at-74/",
-      "team": "bills",
-      "title": "Bruce Arians wants to return to Coaching at 74",
-      "summary": "Will be interesting to see in the offseason if someone grabs him up, or if a lesson from the Pete Carroll and the Raiders disaster gives teams pause. \n\n\n\n\t \n\n\n\n\tThere are only so many quality coaches out there. Indy makes sense. Maybe he goes there and helps them right the ship before doing what he did in Tampa and handing the team to a hand picked successor.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T17:54:30.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267322-bruce-arians-wants-to-return-to-coaching-at-74/"
-    },
-    {
-      "id": "espn-bills::40699880",
-      "team": "bills",
-      "title": "Fantasy buzz: 12 players to target for the homestretch of the season",
-      "summary": "The NFL trade deadline might be over, but fantasy managers should still consider trading for these players.",
-      "source": "ESPN · ESPN Fantasy",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T17:39:56Z",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/145142/amani-hooker-should-boost-ailing-buffalo-bills-defense",
@@ -671,6 +726,17 @@
       "link": "https://www.starsandstripesfc.com/usmnt/47014/usa-vs-haiti-2026-27-concacaf-nations-league-scouting-haiti"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267313-if-you-thought-donte-whitner-was-weird-before%E2%80%A6/",
+      "team": "bills",
+      "title": "If you thought Donte Whitner was weird before…",
+      "summary": "Donte Whitner was an in studio analyst on Good Morning Football today.  They did a segment about “one thing you do that others may find strange, that you’re not apologetic for”\n\n\n\n\t \n\n\n\n\tHe said he doesn’t use condiments or salad dressing.  There is no catchup, mustard, mayonnaise or salad dressing in his house (must live alone).   He doesn’t like the mushy texture.  The others asked how he eats a salad and he said that he just pours some water on it and maybe some pepper or garlic flakes. \n\t \n\n\n\n\tHe said “if I invite you over for a BBQ, you better bring your own”\n\n\n\n\t \n\n\n\n\tWeird dude.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-11T23:52:22.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267313-if-you-thought-donte-whitner-was-weird-before%E2%80%A6/"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/the-opportunity-here-is-tremendous-amani-hooker-reacts-to-his-first-day-with-the-bills",
       "team": "bills",
       "title": "'The opportunity here is tremendous' | Amani Hooker reacts to his first day with the Bills",
@@ -880,17 +946,6 @@
       "link": "https://www.buffalobills.com/news/a-difference-maker-bills-gm-brandon-beane-details-how-amani-hooker-trade-went-down-and-how-he-ll-fit"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267295-bills-restructured-dion-dawkins/",
-      "team": "bills",
-      "title": "Bills Restructured Dion Dawkins",
-      "summary": "Not feeling great about that. I like Dion and they probably now have to figure out an extension for him.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T22:02:30.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267295-bills-restructured-dion-dawkins/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-land-impact-safety-amani-hooker-in-trade-with-titans",
       "team": "bills",
       "title": "Bills land impact safety Amani Hooker in trade with Titans",
@@ -1078,17 +1133,6 @@
       "link": "https://www.buffalohockeybeat.com/in-tough-times-sabres-jiri-kulich-leans-on-teammates-injured-matt-grzelcyk-in-holding-pattern/"
     },
     {
-      "id": "espn-sabres::50416452",
-      "team": "sabres",
-      "title": "Martinook, Svechnikov score twice as Hurricanes top Blackhawks 9-2",
-      "summary": "— Jordan Martinook scored two of Carolina’s four first-period goals in the Hurricanes’ 9-2 win over the Chicago Blackhawks on Saturday night.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-08T03:45:35Z",
-      "link": "http://www.espn.com/nhl/recap?gameId=401892668"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-josh-norris-breaks-out-of-slump-scores-two-goals-in-much-needed-home-win-over-blue-jackets/",
       "team": "sabres",
       "title": "Sabres’ Josh Norris breaks out of slump, scores two goals in much-needed home win over Blue Jackets",
@@ -1188,17 +1232,6 @@
       "link": "https://www.starsandstripesfc.com/athletes-in-focus/46922/ssfc-spotlight-trinity-byars-finding-the-back-of-the-net"
     },
     {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-squander-late-lead-in-2-1-home-loss-to-senators/",
-      "team": "sabres",
-      "title": "Sabres squander late lead in 2-1 home loss to Senators",
-      "summary": "New jerseys, same problems for Buffalo \n\n\n\nBox score\n\n\n\nScore: Ottawa Senators 2, Buffalo Sabres 1Shots: Ottawa 30, Buffalo 25\n\n\n\nBuffalo Sabres Goals: Peyton Krebs 1 (Thompson, Benson)Ottawa Senators Goals: Shane Pinto 6 (Tomasino, Chabot), Michael Amadio 5 (Stutzle, Zetterlund) \n\n\n\nQuick Thoughts\n\n\n\nFirst Period – Sluggish start\n\n\n\nColten Ellis got the game off to an electrifying start, flashing the pad to absolutely rob Ottawa’s Michael Amadio on a one-timer less than two minutes in.\n\n\n\nIt took Buffalo a while to get their legs moving, which is somewhat understandable considering their return from the west coast and three days between games. Ottawa had the majority of the early chances during the first 10 minutes of the period, but thanks to Ellis, the game remained 0-0.\n\n\n\nThe first extended Sabres spell in the offensive zone came after the second TV timeout, when the Quinn-Ostlund-Doan line won a couple puck battles and mustered two shots on net, including a deflected shot on the doorstep by Ostlund that required a good save by Senators goalie Samuel Ersson. Shortly after, Tage Thompson had a great look in the slot, but again, Ersson made the stop.\n\n\n\nWith just over three minutes to play in the period, a turnover by Jason Zucker in the offensive zone sprung Ottawa on a 3-on-1, but Nick Cousins’ shot missed the net. Mattias Samuelsson then made a strong defensive play to break up a partial 2-on-1 a minute later.\n\n\n\nThe Sabres needed Ellis to be sharp early and often in the first period while they found their footing in the game, and fortunately, he was, which kept the game scoreless after one.\n\n\n\nSecond Period – Krebs opens the scoring\n\n\n\nJason Zucker had a good opportunity about two minutes into the period, as he took a cross-ice pass in stride and ripped a wrist shot from the right face-off circle, but Ersson managed to keep the puck out while Josh Norris was just beaten to the rebound.\n\n\n\nOttawa went to the game’s first power play with 13:56 to play in the second, when Rasmus Dahlin took a holding penalty to prevent a Tim Stutzle breakaway. In a battle of poor special teams, it was Buffalo’s lowly penalty kill that prevailed to kill off the minor, holding Ottawa without a quality scoring chance.\n\n\n\nBuffalo conceded another 2-on-1 rush with seven minutes remaining in the period, but the pass across to an open Senator missed the mark.\n\n\n\nFinally, the deadlock was broken by Peyton Krebs’ first goal of the season.\n\n\n\nZach Benson managed to control a loose puck among a crowd in front of the net, and neatly backhanded a pass to the high slot for Tage Thompson, who ripped a shot that was deflected by Krebs past Ersson to give the Sabres a 1-0 lead with six minutes exactly remaining in the period. \n\n\n\nOttawa had a great chance to respond with a power play shortly after Krebs’ opener, but it was Ellis to the rescue once again. The 26-year-old pushed across to stop a one-time effort from Drake Batherson, before emulating Dominik Hasek with a sprawling blocker save to keep out a Tim Stutzle rebound. \n\n\n\nBuffalo managed to kill off the rest of the Senators’ man advantage, and take a 1-0 lead into the third period.\n\n\n\nThird Period – Blown opportunity\n\n\n\nThe Sabres had an early power play opportunity to extend their lead, with their best chance coming when Tage Thompson faked everyone out with a pass to Jack Quinn for a one-timer, but the winger fanned on the shot with an open net in front of him.\n\n\n\nJosh Doan drew another Ottawa penalty a few minutes later, winning a race to prevent an icing before being boarded by Jordan Spence. However, Buffalo again failed to take advantage, and it wasn’t long before they were burned for it.\n\n\n\nA tired Sabres forward group iced the puck, and the Senators won the ensuing faceoff cleanly to set up Philip Tomasino with a clean look in the slot. Ellis made the initial save, but overcommitted on the push across. It left an open net and rebound for Shane Pinto, who wasn’t tied up by Ryan McLeod, to bury. Buffalo was doing a good job slowing the game down prior to that sequence, but all of a sudden were in a 1-1 game with 8:27 remaining in the third.\n\n\n\nThe Senators’ goal shifted the momentum, and Ottawa turned things around completely with just over three minutes to play.\n\n\n\nThe Senators won the puck while the Benson-Ostlund-Doan line was forechecking, and managed to chip it past Dahlin who was caught pinching, igniting an odd-man rush the other way. Ostlund did a good job getting back to defend, but couldn’t take away the cross-ice pass from Stutzle to Amadio, who avenged his missed chance in the first period by beating a sprawling Ellis to put Ottawa up 2-1 late.\n\n\n\nBuffalo pulled the goalie with just about a minute and a half to go, but couldn’t tie the game despite having a couple decent looks, dropping a tough one against a division opponent on home ice.\n\n\n\nQuick Thoughts\n\n\n\nSimply put: the Sabres cannot afford to lose a divisional game like that in regulation with how competitive the Atlantic is.\n\n\n\nEllis was sharp and gave Buffalo a golden opportunity to take two points from Ottawa, but failed to do so thanks to a couple defensive lapses late in the third period. At minimum, the Sabres should be getting a point in this game, but instead leave empty-handed.\n\n\n\nThe Sabres were horrendous in the faceoff circle, and other than the Benson-Ostlund-Doan line, failed to produce much of anything at 5-on-5 — albeit against a sound defensive team. \n\n\n\nThe other storyline here is yet another lackluster performance on home ice, a trend that dates back to last year’s postseason and seems to be continuing early this campaign. It’s only game 15, and there’s plenty of season left, but Buffalo will need to sort out its home form to stay afloat in the Atlantic.\n\n\n\nBut, at the least the Hometown Remix jerseys looked cool.\n\n\n\nNext Up\n\n\n\nThe Sabres continue their four-game homestand on Friday against Columbus, with puck drop set for 7 p.m.",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T03:58:10.000Z",
-      "link": "https://www.diebytheblade.com/sabres-squander-late-lead-in-2-1-home-loss-to-senators/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-mixes-veterans-youth-on-usmnt-roster-for-nations-league-matches/",
       "team": "usmnt",
       "title": "Mauricio Pochettino mixes veterans, youth on USMNT roster for Nations League matches",
@@ -1241,17 +1274,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-02T18:03:15.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/46472/usmnt-weekend-roundup-puli-scores-pepi-back"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/",
-      "team": "bills",
-      "title": "Trade Deadline Move (s)",
-      "summary": "What will Beane do here... will he make a trade pick up a FA or leave it be... would love to hear whom you think might be in the mix....  My guess is a DB and maybe someone like Rasul Douglas... not that I think that changes a lot but he is familiar with him and Beane likes that.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-10-26T18:30:44.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267089-trade-deadline-move-s/"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/",
