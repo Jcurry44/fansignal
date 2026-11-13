@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:53:01.381Z",
+  "generatedAt": "2026-11-13T03:16:23.006Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "final",
-      "headline": "Final · L 3-8",
-      "detail": "vs TBL"
+      "state": "live",
+      "headline": "2 - 2",
+      "detail": "at CHI · P3"
     },
     {
       "team": "bandits",
@@ -176,6 +176,72 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267325-washington-ny-giants-game-thread-no-bills-stuff-in-here-please/",
+      "team": "bills",
+      "title": "Washington @ NY Giants game thread (no Bills stuff in here please)",
+      "summary": "In case anybody wants to hang out and make some #5 jokes...",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T01:17:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267325-washington-ny-giants-game-thread-no-bills-stuff-in-here-please/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267324-week-10-bills-v-nj-jest-predict-the-score/",
+      "team": "bills",
+      "title": "Week 10, Bills v. NJ Jest, PREDICT THE SCORE!",
+      "summary": "The Bills make the roady to the Meadowlands to take on the NJ Jest at MetLife.  Will the Bills have one of those games where they inexplicably come down to their competition?  Will Geno look like the next coming of prime Russell Wilson?\n\n\n\n\t \n\n\n\n\tNo and no.  This one will be a beat down.  I just don't see the Jest making this a competitive game.  Bills up by 14 at the half and they pour it on in the second half.  \n\n\n\n\t \n\n\n\n\tBeews - 37\n\n\n\n\tNJ Jest - 13\n\n\n\n\t \n\n\n\n\tPrevious winners:\n\n\n\n\t \n\n\n\n\tWeek 1 - @colin\n\n\n\n\tWeek 2 - @Freddie's Dead, @HappyDays, @Big Turk\n\n\n\n\tWeek 3 - @Robert Paulson\n\n\n\n\tWeek 4 - @RiotAct\n\n\n\n\tWeek 5 - @Sojourner\n\n\n\n\tWeek 6 - @Reks Ryan, @SydneyBillsFan\n\n\n\n\tWeek 7 - BYE\n\n\n\n\tWeek 8 - @Ridgewaycynic2013, @Ray Stonada\n\n\n\n\tWeek 9 - @BontitaBills",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T01:13:32.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267324-week-10-bills-v-nj-jest-predict-the-score/"
+    },
+    {
+      "id": "espn-bills::50465223",
+      "team": "bills",
+      "title": "Cam Skattebo dons custom 'Iron Man' mask for TNF, leads NFL Week 10 arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T00:54:58Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals"
+    },
+    {
+      "id": "espn-bills::50448015",
+      "team": "bills",
+      "title": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
+      "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T00:39:05Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/a-lot-of-talent-what-the-bills-are-saying-about-the-jets-leading-up-to-week-10-afc-east-matchup",
+      "team": "bills",
+      "title": "'A lot of talent' | What the Bills are saying about the Jets leading up to Week 10 AFC East matchup",
+      "summary": "Buffalo's coaches and players highlight the keys to the upcoming AFC East matchup",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T00:39:04.000Z",
+      "link": "https://www.buffalobills.com/news/a-lot-of-talent-what-the-bills-are-saying-about-the-jets-leading-up-to-week-10-afc-east-matchup"
+    },
+    {
+      "id": "espn-bills::50465272",
+      "team": "bills",
+      "title": "How Geno Smith is connected to the Bills coaching staff",
+      "summary": "Nick Suss discusses Geno Smith's connection to Bills head coach Joe Brady and defensive coordinator Jim Leonhard.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-12T22:57:22Z",
+      "link": "https://www.espn.com/video/clip/_/id/50465272/how-geno-smith-connected-bills-coaching-staff"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/145185/bills-vs-jets-injury-report-spencer-brown-misses-practice",
       "team": "bills",
       "title": "Bills vs. Jets injury report: Spencer Brown misses practice",
@@ -187,15 +253,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/145185/bills-vs-jets-injury-report-spencer-brown-misses-practice"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/what-is-best-option-for-wild-gm-guerin-in-dealing-with-hughes/",
-      "team": "sabres",
-      "title": "What is best option for Wild GM Guerin in dealing with Hughes?",
-      "summary": "Frankly Hockey’s John Buccigross and Frank Seravalli dive into what the Minnesota Wild and general manager Bill Guerin should do with star defenceman Quinn Hughes, and what may be the best decision for the future direction of the franchise.",
-      "source": "Sportsnet",
-      "sourceType": "league",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/145138/new-york-giants-vs-washington-commanders-week-10-tnf-fan-discussion",
+      "team": "bills",
+      "title": "New York Giants vs. Washington Commanders Week 10 ‘TNF’ fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-12T21:21:45.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/what-is-best-option-for-wild-gm-guerin-in-dealing-with-hughes/"
+      "publishedAt": "2026-11-12T21:08:50.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/145138/new-york-giants-vs-washington-commanders-week-10-tnf-fan-discussion"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-reax-mauricio-pochettinos-exit-manchester-united/",
@@ -251,17 +317,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-12T19:36:35.000Z",
       "link": "https://www.diebytheblade.com/game-19-preview-open-thread-buffalo-sabres-at-chicago-blackhawks/"
-    },
-    {
-      "id": "espn-bills::50448015",
-      "team": "bills",
-      "title": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-      "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T19:34:41Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms"
     },
     {
       "id": "espn-bills::50414742",
@@ -506,28 +561,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267319-keon%E2%80%99s-first-down-celebration/"
     },
     {
-      "id": "espn-bills::50448976",
-      "team": "bills",
-      "title": "2026 NFL midseason report: Questions, stats for all 32 teams entering second half",
-      "summary": "The 2026 NFL season has hit the midway point. Here's what to watch in the second half, key QB stats and fantasy nuggets for all 32 teams.",
-      "source": "ESPN · NFL Nation reporters and Eric Moody",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T12:48:02Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50448976/2026-nfl-midseason-report-questions-stats-fantasy"
-    },
-    {
-      "id": "espn-bills::50043542",
-      "team": "bills",
-      "title": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
-      "summary": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
-      "source": "ESPN · Ben Solak and Seth Walder",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T12:20:15Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/145075/buffalo-bills-quarterback-josh-allen-has-history-with-jets-coaches",
       "team": "bills",
       "title": "Buffalo Bills quarterback Josh Allen has history with Jets coaches",
@@ -638,17 +671,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt/47014/usa-vs-haiti-2026-27-concacaf-nations-league-scouting-haiti"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267313-if-you-thought-donte-whitner-was-weird-before%E2%80%A6/",
-      "team": "bills",
-      "title": "If you thought Donte Whitner was weird before…",
-      "summary": "Donte Whitner was an in studio analyst on Good Morning Football today.  They did a segment about “one thing you do that others may find strange, that you’re not apologetic for”\n\n\n\n\t \n\n\n\n\tHe said he doesn’t use condiments or salad dressing.  There is no catchup, mustard, mayonnaise or salad dressing in his house (must live alone).   He doesn’t like the mushy texture.  The others asked how he eats a salad and he said that he just pours some water on it and maybe some pepper or garlic flakes. \n\t \n\n\n\n\tHe said “if I invite you over for a BBQ, you better bring your own”\n\n\n\n\t \n\n\n\n\tWeird dude.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T23:52:22.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267313-if-you-thought-donte-whitner-was-weird-before%E2%80%A6/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/the-opportunity-here-is-tremendous-amani-hooker-reacts-to-his-first-day-with-the-bills",
       "team": "bills",
       "title": "'The opportunity here is tremendous' | Amani Hooker reacts to his first day with the Bills",
@@ -737,17 +759,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267310-just-when-i-though-i-figured-out-pff-grades/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/145067/bills-at-vikings-was-pretty-boring-with-penalties-anyway",
-      "team": "bills",
-      "title": "Bills at Vikings was pretty boring (with penalties anyway)",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T19:44:37.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/145067/bills-at-vikings-was-pretty-boring-with-penalties-anyway"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/top-storylines-for-bills-vs-jets-week-10",
       "team": "bills",
       "title": "Top Storylines for Bills vs. Jets | Week 10",
@@ -812,17 +823,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-11T15:00:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-recognize-these-wny-high-school-football-coaches-week-10-2026"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267304-did-james-cook-poop-himself-on-mnf/",
-      "team": "bills",
-      "title": "Did James Cook Poop himself on MNF?",
-      "summary": "James Cook responds to ‘wild’ pooping accusations from ‘MNF’ win.\n\n\n\n\t \n\n\n\n\tOh crap!\n\n\n\n\t \n\n\n\n\thttps://nypost.com/2026/11/10/sports/bills-james-cook-responds-to-wild-pooping-accusations-from-mnf-win/?utm_campaign=nypost&sr_share=facebook&utm_medium=social&utm_source=facebook&fbclid=Iwb21leAVhV5xjbGNrBWFV8WV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEff9hZmHXrPFARC7avMzQaYVFBusbjmiBYl6s1tx_gJhXYEZHoNljOSDXYzno_aem_X8xmOOUS7-y1qY3GBq2ePw",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T14:17:09.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267304-did-james-cook-poop-himself-on-mnf/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettinos-manchester-united-usmnt/",
@@ -933,17 +933,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-10T17:05:28.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/47035/mauricio-pochettino-reportedly-on-manchester-uniteds-managerial-search-list"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-at-vikings-mnf-week-9",
-      "team": "bills",
-      "title": "Top 3 things we learned from Bills at Vikings | MNF Week 9",
-      "summary": "The Bills improved to 7-1 by overcoming an early defensive battle before pulling away for a 23-6 road victory over the Vikings.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-10T16:27:39.000Z",
-      "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-at-vikings-mnf-week-9"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267284-do-guys-not-go-out-for-monday-night-football-anymore/",
@@ -1177,17 +1166,6 @@
       "link": "https://www.cbssports.com/soccer/news/usmnts-gold-cup-concacaf-revamped-group-stage-format/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267227-chiefs-wr-rashee-rice-files-for-bankruptcy/",
-      "team": "bills",
-      "title": "Chiefs WR Rashee Rice files for bankruptcy",
-      "summary": "Only $6M in career earnings, so take-home of around $3M. Probably spent most of it already.\n\n\n\n\t \n\n\n\n\tAnd has over $3M in pending settlements from lawsuits from his driving incident(s).\n\n\n\n\t \n\n\n\n\tThis is what they call the Find Out portion. Guess he's lucky he's in the final year of his rookie contract and has a payday coming?\n\n\n\n\t \n\n\n\n\t \n\n\n\n\t \n\n\n\n\thttps://www.espn.com/nfl/story/_/id/50391911/chiefs-rashee-rice-files-bankruptcy-cites-345m-debt\n\n\n\n\t \n\n\n\n\t\"Kansas City Chiefs wide receiver Rashee Rice filed for bankruptcy in federal court Wednesday, claiming he has more than $3.45 million in debts, according to federal court records.\n\n\n\n\t \n\n\n\n\tRice, who filed in the Northern District of Texas bankruptcy court, claimed more than $2.1 million of his debts are tied to varying plaintiffs suing him in civil litigations that have either been settled or are awaiting trial.\n\n\n\n\t \n\n\n\n\tRice, 26, has been sued by multiple individuals for his role in a high-speed multicar crash in Dallas in 2024 and an ex-girlfriend alleging he repeatedly assaulted her from 2023 to 2025.\n\n\n\n\t \n\n\n\n\tIn the filing, Rice claimed to have $677,054 in personal assets, including $421,825 in \"deferred compensation.\" The filing claims Rice has $13,640 in his checking accounts. He claims to rent a residence and that he does not own any property...\"",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-05T22:02:03.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267227-chiefs-wr-rashee-rice-files-for-bankruptcy/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/cristiano-ronaldo-retires-portugal-national-team/",
       "team": "usmnt",
       "title": "Cristiano Ronaldo retires from the Portugal national team following rift with manager",
@@ -1285,6 +1263,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T19:30:51.000Z",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/",
+      "team": "bills",
+      "title": "The nostalgia thread",
+      "summary": "I’ve started following some accounts that post significant games and memorable Bills plays from the past. They always strike a chord with me and I want to share but don’t know where, so I’m starting this thread. \n\t \n\n\n\n\tok so I cannot believe this game was 5 years ago already. I remember clear as day bc I was off that Monday for Columbus Day and listened to sports radio all day in my glory! Also I remember Spencer brown talking about growing up in the Midwest and sitting in the garage watching and waiting out a storm and I could totally relate having lived in the Midwest now for 30 years.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-10T22:21:40.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266350-shoot-your-shot-cuz-its-the-last-one/",
