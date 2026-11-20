@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T00:37:26.180Z",
+  "generatedAt": "2026-11-20T07:47:19.389Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "live",
-      "headline": "3 - 1",
-      "detail": "at WSH · P1"
+      "state": "final",
+      "headline": "Final · W 6-3",
+      "detail": "at WSH"
     },
     {
       "team": "bandits",
@@ -176,15 +176,37 @@
   ],
   "stories": [
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/wilson-and-carrick-drop-the-gloves-off-opening-faceoff/",
+      "id": "espn-sabres::50538104",
       "team": "sabres",
-      "title": "Wilson and Carrick drop the gloves off opening faceoff",
-      "summary": "Watch as Washington Capitals forward Tom Wilson and Buffalo Sabres forward Sam Carrick drop the gloves immediately after the puck was dropped to begin the game.",
-      "source": "Sportsnet",
+      "title": "Montreal Canadiens vs. Carolina Hurricanes: Game Highlights",
+      "summary": "Montreal Canadiens vs. Carolina Hurricanes: Game Highlights",
+      "source": "ESPN",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-20T00:30:40.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/wilson-and-carrick-drop-the-gloves-off-opening-faceoff/"
+      "publishedAt": "2026-11-20T04:58:37Z",
+      "link": "https://www.espn.com/video/clip/_/id/50538104/game-highlights"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/early-lead-is-enough-for-the-sabres-to-snap-the-losing-streak/",
+      "team": "sabres",
+      "title": "Early Lead Is Enough For The Sabres To Snap The Losing Streak",
+      "summary": "Boxscore\n\n\n\nScore: Buffalo Sabres 6–3 Washington CapitalsShots: BUF 18–36 WSH\n\n\n\nBuffalo Sabres Goals: Quinn (Östlund, Dahlin); Dahlin PPG (unassisted); Malenstyn (Carrick, Kozak); Benson (Krebs, Power); Thompson PPG (Quinn, Doan); Quinn ENG (Power).\n\n\n\nWashington Capitals Goals: Tuch (unassisted); Leonard PPG (Tuch, I. Protas); Jenner (Ovechkin, A. Protas).\n\n\n\nQuick Thoughts\n\n\n\nFinally, Some Breathing Room\n\n\n\nThis recap was a lot more fun to write than the last few, for sure. The Sabres needed a win, and for once they gave themselves enough offense early to withstand a rough stretch late. Sam Carrick and Tom Wilson dropped the gloves one second into the game. Buffalo followed with four first-period goals, starting with Jack Quinn at 5:25. Rasmus Dahlin doubled the lead, and Beck Malenstyn scored just 25 seconds later to make it 3–0. Washington pulled Logan Thompson after he allowed three goals on five shots. That was the kind of start Buffalo had been missing during its five-game slide. Creating chances only helps if somebody finishes them. Thursday, the Sabres made their early opportunities count.\n\n\n\nAn Answer for Tuch\n\n\n\nOf course Alex Tuch scored against his former team. His unassisted goal brought Washington within two just 43 seconds after Malenstyn’s tally. The chemistry between Tuch and Thompson is still there, with basically passing it right to Tuch for the giveaway before Tuch sniped it. But Zach Benson answered at 15:55, finishing at the doorstep to restore Buffalo’s three-goal cushion before the intermission. Benson’s goal mattered beyond making it 4–1. Buffalo had already watched promising leads disappear during this stretch. Answering Washington before the break kept the Capitals from carrying a little more hope into the second.\n\n\n\nNine Seconds Made a Difference\n\n\n\nTage Thompson scored on the power play with nine seconds remaining in the second period, sending Buffalo into the third ahead 5–1. Quinn and Josh Doan collected the assists. It was Buffalo’s second power-play goal of the night, with the unit finishing 2-for-3. That fifth goal ended up being valuable insurance. A four-goal lead should be comfortable with 20 minutes left. For these Sabres, there was still some work to do.\n\n\n\nStill Had to Make It Interesting\n\n\n\nRyan Leonard scored on the power play at 8:52 of the third. Boone Jenner followed 52 seconds later, and suddenly Washington was within two with more than half the period remaining. Buffalo eventually settled the result when Quinn hit the empty net with 43 seconds left. The finish offered a reminder that Buffalo’s problems haven’t disappeared. Washington doubled the Sabres in shots, and Ukko-Pekka Luukkonen had to stop 33 of 36 to protect the win. Six goals look great on the scoreboard, but Buffalo still asked plenty of its goalie.\n\n\n\nAt The Horn\n\n\n\nQuinn finished with two goals and an assist, Dahlin contributed a goal and an assist, and Owen Power added two helpers. Buffalo got scoring from five different players and finally ended its five-game losing streak. There is plenty to clean up, especially when protecting a lead. But the Sabres needed two points, and they earned them without having to recover from another early deficit or take their chances in overtime. UPL was good enough and made some big saves, even though he would probably want those three goals back. This resembled last year’s team, and now they need to build a streak as they head to Florida for Saturday’s game against the Panthers. One win gets the road trip moving. Building on it would make this feel like the start of something.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T04:31:00.000Z",
+      "link": "https://www.diebytheblade.com/early-lead-is-enough-for-the-sabres-to-snap-the-losing-streak/"
+    },
+    {
+      "id": "espn-sabres::50536950",
+      "team": "sabres",
+      "title": "Hutson strikes twice late, including for the OT winner, as Canadiens beat Hurricanes 2-1",
+      "summary": "— Lane Hutson scored twice in the final 5-plus minutes, including the finish on a perfect give-and-go feed from Nick Suzuki in the first minute of overtime, to help the Montreal Canadiens rally past the Carolina Hurricanes 2-1 on Thursday night.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T03:01:34Z",
+      "link": "http://www.espn.com/nhl/recap?gameId=401892747"
     },
     {
       "id": "espn-bills::50514892",
@@ -194,8 +216,30 @@
       "source": "ESPN · Anthony Gharib",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-20T00:24:33Z",
+      "publishedAt": "2026-11-20T01:40:33Z",
       "link": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
+    },
+    {
+      "id": "espn-bills::50535179",
+      "team": "bills",
+      "title": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T01:01:16Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/145816/buffalo-bills-to-retire-andre-reeds-no-83-next-season",
+      "team": "bills",
+      "title": "Buffalo Bills to retire Andre Reed’s No. 83 during 2027 NFL season",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-11-20T00:32:34.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/145816/buffalo-bills-to-retire-andre-reeds-no-83-next-season"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267434-bills-to-retire-andre-reeds-number/",
@@ -209,26 +253,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/267434-bills-to-retire-andre-reeds-number/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-to-retire-hall-of-fame-wr-andre-reed-s-no-83-during-2027-season",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/145788/houston-texans-vs-indianapolis-colts-tnf-week-11-fan-discussion",
       "team": "bills",
-      "title": "Buffalo Bills to retire Hall of Fame WR Andre Reed's No. 83 during 2027 season",
-      "summary": "Buffalo honors a legend as the first jersey retired at the newly-built Highmark Stadium",
-      "source": "Bills.com",
-      "sourceType": "team",
+      "title": "Houston Texans vs. Indianapolis Colts ‘TNF’ Week 11 fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-19T23:59:41.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-to-retire-hall-of-fame-wr-andre-reed-s-no-83-during-2027-season"
-    },
-    {
-      "id": "espn-bills::50535179",
-      "team": "bills",
-      "title": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T23:55:21Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+      "publishedAt": "2026-11-20T00:12:40.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/145788/houston-texans-vs-indianapolis-colts-tnf-week-11-fan-discussion"
     },
     {
       "id": "espn-bills::50535321",
@@ -251,17 +284,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-19T23:03:51.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267433-week-11-around-the-league-thread-no-bills-discussion-in-here-please/"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/puckpedia-founder-breaks-down-maple-leafs-salary-cap-situation/",
-      "team": "sabres",
-      "title": "PuckPedia founder breaks down Maple Leafs’ salary cap situation",
-      "summary": "Hart Levine, founder of PuckPedia, joins Kyper and Bourne and takes a deep dive into the Maple Leafs’ salary cap situation and how the salary cap is handled by organizations around the league.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T22:57:18.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/puckpedia-founder-breaks-down-maple-leafs-salary-cap-situation/"
     },
     {
       "id": "espn-bills::50534558",
@@ -495,6 +517,17 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/145574/study-on-the-impact-of-josh-allens-interceptions-buffalo-bills"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267419-nfl-considering-major-change-to-playoff-seeding/",
+      "team": "bills",
+      "title": "NFL considering major change to playoff seeding",
+      "summary": "https://www.msn.com/en-us/sports/football/report-nfl-considering-major-change-to-playoff-seeding/ar-AA2hICQt?ocid=entnewsntp&pc=U531&cvid=6afed7bf2d82447a996f618dddaf085a&ei=31\n\n\n\n\t \n\n\n\n\tBasically, teams that win their division with a below .500 record shouldn't get a home game. This year the NFCS and possibly the NFCE division winners could be below .500",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-19T11:11:41.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267419-nfl-considering-major-change-to-playoff-seeding/"
+    },
+    {
       "id": "espn-sabres::50529486",
       "team": "sabres",
       "title": "Hurricanes host the Canadiens on 4-game win streak",
@@ -539,6 +572,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/267415-week-11-fish-v-bills-predict-the-score/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267414-tyreek-hill-hollywood-brown/",
+      "team": "bills",
+      "title": "Tyreek Hill / \"Hollywood\" Brown",
+      "summary": "I am of the opinion we need one more ingredient.  Just a straight up speed merchant that can blow it open.  Listening to WGR550 this morning, they said to the effect that Josh Allen has said in the past that he would love to play with HB.   Heck, even TH as a WR 4, just on the field running \"go routes\" and \"post routes\" ... if he still has it in him.  That could be horrifying",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-19T00:02:59.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267414-tyreek-hill-hollywood-brown/"
+    },
+    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/145637/buffalo-bills-week-11-rooting-interests",
       "team": "bills",
       "title": "Buffalo Bills Week 11 rooting interests",
@@ -559,17 +603,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-18T23:08:28.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/145716/buffalo-bills-1st-injury-report-of-week-11-brings-bad-news-to-secondary"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267413-the-ufl-draft-is-tonight-and-thursday/",
-      "team": "bills",
-      "title": "The UFL Draft is tonight and Thursday",
-      "summary": "You can watch it on NFL Network at 8pm.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T22:56:21.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267413-the-ufl-draft-is-tonight-and-thursday/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/one-game-at-a-time-the-bills-look-to-continue-extend-five-game-winning-streak-in-week-11",
@@ -737,28 +770,6 @@
       "link": "https://bandits.com/jay-thorimbert-signs-1-day-contract-to-retire-with-bandits/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/145668/buffalo-bills-week-10-snap-counts-defensive-rotation-and-injuries-stand-out-in-win-over-jets",
-      "team": "bills",
-      "title": "Buffalo Bills Week 10 snap counts: Defensive rotation and injuries stand out in win over Jets",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T19:09:33.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/145668/buffalo-bills-week-10-snap-counts-defensive-rotation-and-injuries-stand-out-in-win-over-jets"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/145701/buffalo-bills-activating-tyrell-shavers-of-ir-per-joe-brady",
-      "team": "bills",
-      "title": "Buffalo Bills activating Tyrell Shavers of IR, per Joe Brady",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T18:11:26.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/145701/buffalo-bills-activating-tyrell-shavers-of-ir-per-joe-brady"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/rochester-s-bella-pastrana-nominated-as-finalist-nfl-latino-youth-honors",
       "team": "bills",
       "title": "Rochester's Bella Pastrana nominated as finalist NFL Latino Youth Honors",
@@ -913,6 +924,17 @@
       "link": "https://www.diebytheblade.com/game-21-preview-open-thread-sabres-at-flyers/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267404-i-think-the-defense-might-break-a-franchise-record-this-weekend/",
+      "team": "bills",
+      "title": "I think the Defense might break a franchise record this weekend",
+      "summary": "The defense has gone 33 consecutive drives without giving up a touchdown. It is the longest current streak in the NFL and the longest streak in franchise history since 1999 (where I believe it was 39 or 40 drives).\n\n\n\n\t \n\n\n\n\tI have not been able to find any evidence of a longer streak in franchise history (other than 99). Anyone else know?\n\n\n\n\t \n\n\n\n\tIf so, we may break that record against the Miami Dolphins.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T21:56:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267404-i-think-the-defense-might-break-a-franchise-record-this-weekend/"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-rookie-in-rochester-sabres-prospect-gavin-mccarthy-hitting-fighting-and-making-name-for-himself/",
       "team": "sabres",
       "title": "As rookie in Rochester, Sabres prospect Gavin McCarthy hitting, fighting and making name for himself",
@@ -1034,17 +1056,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267373-game-week-thread-dolphins-at-bills/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267370-imagine-an-nfl-roster-of-mature-adults-acting-like-mature-adults/",
-      "team": "bills",
-      "title": "Imagine an NFL Roster of Mature Adults acting like Mature Adults",
-      "summary": "Bear Bryant:  “When you get in the endzone, act like you’ve been there before.”\n\t\n\tThe day started watching Aidan Hutchinson injuring himself doing the now mandatory defender court jester performance. And the last afternoon games featured George Pickens with a killer taunting penalty during a comeback attempt. \n\t\n\tIt is not about being the \"no fun league\".  I don't care if the league enforces decorum.  I just feel like there is no creativity or novelty in the clownish behavior of most of the players, in the most trivial of circumstances.  Its become a complete bore. \n\t\n\tI suspect that if one of the top teams actually took the tack of \"acting like they had made a tackle, or a run, or reception before\" and just went about their business and got set for the next play, they would actually be able to emotionally dominate the childish players.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-16T02:25:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267370-imagine-an-nfl-roster-of-mature-adults-acting-like-mature-adults/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/stars-align-in-dallas-as-sabres-are-shutout-again-2-0/",
       "team": "sabres",
       "title": "Stars Align in Dallas as Sabres are Shutout Again, 2-0",
@@ -1087,28 +1098,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-14T21:28:35Z",
       "link": "http://www.espn.com/nhl/recap?gameId=401891809"
-    },
-    {
-      "id": "espn-sabres::50482681",
-      "team": "sabres",
-      "title": "Seattle Kraken vs. Carolina Hurricanes: Game Highlights",
-      "summary": "Seattle Kraken vs. Carolina Hurricanes: Game Highlights",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-14T20:51:48Z",
-      "link": "https://www.espn.com/video/clip/_/id/50482681/game-highlights"
-    },
-    {
-      "id": "espn-sabres::50479826",
-      "team": "sabres",
-      "title": "Jordan Staal returns as Hurricanes win second game in Finland",
-      "summary": "Hurricanes captain Jordan Staal returned to play in a 5-1 win over the Kraken as Carolina completed a sweep of two games in Helsinki, Finland.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-14T20:47:15Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50479826/hurricanes-activate-jordan-staal-injured-reserve"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-leaning-heavily-on-healthy-tyson-kozak-some-of-his-best-hockey/",
@@ -1241,17 +1230,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-13T06:43:08.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267327-what-the-numbers-say-is-brady-sacrificing-an-edge-by-receiving-first/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/game-19-preview-open-thread-buffalo-sabres-at-chicago-blackhawks/",
-      "team": "sabres",
-      "title": "Game #19 Preview & Open Thread: Buffalo Sabres at Chicago Blackhawks",
-      "summary": "It’s the Second Night of Back to Back Games for Buffalo\n\n\n\nBuffalo Sabres (8-7-3) vs Chicago Blackhawks (4-13-1)\n\n\n\nPuck Drop: 8:00 pm ET | United Center\n\n\n\nTV: MSG-B, DAZN, ESPN+ (Hulu), NHL Center Ice\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nChicago Blackhawks\n\n\n\nRecord: 4-13-1 | 9 PTS\n\n\n\nLast Game: Lost a heartbreaker 9-2 to Carolina\n\n\n\nDivision Ranking: 8th in Central\n\n\n\nPP: 9.8% 32nd (Sabres 15.3% 29th)\n\n\n\nPK: 78.6% 12th (Sabres 69.8% 26th)\n\n\n\nSeason Series: Buffalo rallied to beat the Blackhawks 4-3 earlier in the season.\n\n\n\nWhat to Watch\n\n\n\n1. Horrendous Homestand is Thankfully Over\n\n\n\nBuffalo came home last week to begin a four-game homestand following a successful four-game road trip, where they collected seven of a possible eight points. Unfortunately, instead of building on that momentum, the Sabres laid a 1-3 egg in four straight starts at KeyBank Center. Six valuable points slipped away, with four of them going to division rivals. Lindy Ruff’s team just can’t seem to get it done in their own barn right now, dating back to last season’s playoff run. Buffalo is 4-6-0 at home this year after a 2-5 record in the 2026 postseason. Total it up and the Sabres only have six wins in their last 17 contests at Keybank. That’s a troubling trend, for sure.\n\n\n\nThe same familiar issues continue to haunt this team. The defense is giving up far too many quality scoring opportunities, the goaltending isn’t coming up with the big saves when needed, and the offense is struggling to put the puck in the net. Meanwhile, the special teams have been downright awful. In other words, just about every part of this team has something to answer for. Perhaps another road trip is exactly what the Sabres need to regroup and get themselves back on track. Three recent regulation losses, all at home, have put a dent in their standings position and allowed the gaps between them and division rivals to widen.\n\n\n\nTonight’s opponent, Chicago, comes in as the second-worst team in the league. But honestly, that almost doesn’t matter given the way Buffalo has been playing. The Sabres need a complete, top-to-bottom effort and, more importantly, a winning result. Last night’s deflating performance against Tampa Bay was unacceptable, especially after Buffalo fought its way back into the game to make it a one-goal contest at 4-3. That comeback ultimately went for nothing, as the team got blown the hell out after that, falling 8-3.\n\n\n\nAfter that humbling performance on national television, every player in that locker room needs to take a long look in the mirror. This team has dug itself into a hole, and it’s time to start climbing out.\n\n\n\n2. No on Bo Again\n\n\n\nFormer Sabre Bo Byram remains sidelined and will miss both matchups against his former team this season. Byram last appeared for the Blackhawks on October 13 and was initially listed as day-to-day before being placed on injured reserve retroactive to October 15. He remains day-to-day, and the saga surrounding his injury and availability in Chicago continues.\n\n\n\nReports have varied regarding whether Byram has received baseline medical clearance, but both his camp and the coaching staff have indicated that he has yet to regain full physical comfort level. He has been limited to non-contact participation in practice.\n\n\n\nSo far, the blockbuster trade that brought the former Sabres defenseman to Chicago hasn’t exactly worked out as planned. Between the mysterious nature of his “comfort level” injury and his underwhelming play when healthy enough to get into the lineup, Byram has struggled to make an impact. He has managed just one assist in six games with Chicago while posting a troubling minus-7 rating.\n\n\n\n\n\n\n\n3. Need to be Better\n\n\n\nThe Sabres need to start stringing together some wins, and they need to do it now. The teams ahead of them in the Atlantic Division are doing Buffalo no favors. Boston, Montreal, Tampa Bay, Ottawa and Florida have all been winning regularly or at least picking up valuable loser points. Buffalo can’t afford to keep falling behind.\n\n\n\nThe Sabres are playing the second half of a back-to-back, but they are the far superior team on paper. No excuses here. If Buffalo wants to keep pace in the division, this is a game they absolutely need to win.\n\n\n\nMeanwhile, the Blackhawks come into this one well-rested, having been off since Saturday’s embarrassing 9-2 drubbing at the hands of the Carolina Hurricanes. They’ve had five days to stew over that performance, and you can bet they’ll be looking to make a statement early. Expect Chicago to come out pressing and looking to put Buffalo on its heels right from the opening puck drop.\n\n\n\nNews and Notes:\n\n\n\nThe Sabres did not hold a morning skate today, meaning we’ll have to wait until warmups for any lineup changes.\n\n\n\nAlex Lyon is expected to make his season debut at some point during Buffalo’s upcoming six-game road trip. Lyon has yet to appear in a game this season, but appears to be nearing a return. Head coach Lindy Ruff offered an encouraging update, saying, “He’s on target to join us, for sure, soon here.” His return would give the Sabres another option in goal and provide some much-needed support to the goaltending rotation as the team hits the road.\n\n\n\nSabre-killer Patrick Kane is out for Chicago. Kane was placed on injured reserve with an upper-body injury on November 9th and remains out for tonight’s matchup.\n\n\n\nBuffalo has won seven consecutive games against the Blackhawks, so let’s hope the Sabres can keep that streak alive tonight.\n\n\n\nPhoto Credit: Sabres.com\n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nPeyton Krebs – Josh Norris – Tage Thompson\n\n\n\nZach Benson – Noah Östlund – Jack Quinn\n\n\n\nJason Zucker – Ryan McLeod – Josh Doan\n\n\n\nTyson Kozak – Sam Carrick – Beck Malenstyn\n\n\n\nDefense\n\n\n\nMattias Samuelsson – Rasmus Dahlin\n\n\n\nOlen Zellweger – Owen Power\n\n\n\nZach Metsa – Conor Timmins\n\n\n\nGoaltenders\n\n\n\nColten Ellis, (likely to start) Ukko-Pekka Luukkonen \n\n\n\nChicago Blackhawks\n\n\n\nForwards\n\n\n\nRoman Kantserov – Connor Bedard – Tyler Bertuzzi\n\n\n\nAndrew Mangiapane – Anton Frondell – Teuvo Teravainen\n\n\n\nOliver Moore – Frank Nazar – Ryan Donato\n\n\n\nCole Smith – Ryan Greene – Jordan Greenway\n\n\n\nDefense\n\n\n\nAlex Vlasic – Ian Cole\n\n\n\nEthan Del Mastro – Artyom Levshunov\n\n\n\nWyatt Kaiser – Sam Rinzel\n\n\n\nGoaltenders\n\n\n\nSpencer Knight, (likely to start) Drew Commesso",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T19:36:35.000Z",
-      "link": "https://www.diebytheblade.com/game-19-preview-open-thread-buffalo-sabres-at-chicago-blackhawks/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-available-managers/",
@@ -1395,17 +1373,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T19:30:51.000Z",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/265896-qb-pavia-where-does-he-land/",
-      "team": "bills",
-      "title": "QB Pavia -where does he land?",
-      "summary": "Released by Ravens. To me he is Johnny Manziel 2.0. Does that mean he goes to the Browns?😂",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-07-23T21:46:33.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/265896-qb-pavia-where-does-he-land/"
     }
   ]
 }
