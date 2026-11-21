@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:39:50.533Z",
+  "generatedAt": "2026-11-21T23:56:18.377Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 17,
+      "itemCount": 16,
       "error": null
     },
     {
@@ -151,9 +151,9 @@
     },
     {
       "team": "sabres",
-      "state": "final",
-      "headline": "Final · W 6-3",
-      "detail": "at WSH"
+      "state": "live",
+      "headline": "1 - 1",
+      "detail": "at FLA · P1"
     },
     {
       "team": "bandits",
@@ -176,26 +176,59 @@
   ],
   "stories": [
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/hurricanes-walker-beats-levi-from-near-centre-ice-off-neutral-zone-draw/",
-      "team": "sabres",
-      "title": "Hurricanes’ Walker beats Levi from near centre ice off neutral-zone draw",
-      "summary": "Watch as Hurricanes defenceman Sean Walker fires the puck on Devon Levi off the neutral zone face-off from just in front of the centre ice line, beating the Oilers netminder.",
-      "source": "Sportsnet",
-      "sourceType": "league",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267455-sunday-plate/",
+      "team": "bills",
+      "title": "Sunday plate",
+      "summary": "What you got?\n\n\n\n\t \n\n\n\n\tBeef on weck, Cubano sliders, wings?\n\n\n\n\t \n\n\n\n\tI think Miami is one of those games you go all out, regardless how good they may be\n\n\n\n\t \n\n\n\n\tPersonally i’m doing up a Buffalo chicken tender recipe from Inta this weekend amongst other things\n\n\n\n\t \n\n\n\n\tWhat you doin?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-21T19:32:56.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/hurricanes-walker-beats-levi-from-near-centre-ice-off-neutral-zone-draw/"
+      "publishedAt": "2026-11-21T23:54:17.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267455-sunday-plate/"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/wilds-quinn-hughes-out-against-canucks/",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/145922/buffalo-bills-elevate-tredavious-white-shaq-thompson-from-practice-squad",
+      "team": "bills",
+      "title": "Buffalo Bills elevate Tre’Davious White, Shaq Thompson from practice squad",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-21T21:53:10.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/145922/buffalo-bills-elevate-tredavious-white-shaq-thompson-from-practice-squad"
+    },
+    {
+      "id": "espn-sabres::50554158",
       "team": "sabres",
-      "title": "Wild’s Quinn Hughes out against Canucks",
-      "summary": "Quinn Hughes won’t take the ice against his former team.",
-      "source": "Sportsnet",
+      "title": "Hurricanes surge past Oilers for 7-4 victory",
+      "summary": "— Andrei Svechnikov scored two goals and Sebastian Aho had a goal and two assists to lead the Carolina Hurricanes to a 7-4 win over the Edmonton Oilers on Saturday.",
+      "source": "ESPN",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-21T18:44:02.000Z",
-      "link": "https://www.sportsnet.ca/nhl/article/wilds-quinn-hughes-out-against-canucks/"
+      "publishedAt": "2026-11-21T21:40:32Z",
+      "link": "http://www.espn.com/nhl/recap?gameId=401892754"
+    },
+    {
+      "id": "espn-sabres::50553680",
+      "team": "sabres",
+      "title": "Edmonton Oilers vs. Carolina Hurricanes: Game Highlights",
+      "summary": "Edmonton Oilers vs. Carolina Hurricanes: Game Highlights",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-21T21:06:14Z",
+      "link": "https://www.espn.com/video/clip/_/id/50553680/game-highlights"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-roster-moves-nov-21",
+      "team": "bills",
+      "title": "Bills Roster Moves Nov. 21",
+      "summary": "",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-21T20:59:09.000Z",
+      "link": "https://www.buffalobills.com/news/bills-roster-moves-nov-21"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/145912/buffalo-bills-vs-miami-dolphins-injury-news-ed-oliver-questionable-for-week-11",
@@ -418,17 +451,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267441-colts-cut-daniel-jones-anthony-richardson-to-start-going-forward/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267440-a-fan-dies-at-the-cowboys-49ers-game/",
-      "team": "bills",
-      "title": "A fan dies at the Cowboys-49ers game",
-      "summary": "https://nypost.com/2026/11/20/sports/man-dies-brawl-49ers-cowboys-game-att-stadium/",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T17:55:53.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267440-a-fan-dies-at-the-cowboys-49ers-game/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47171/usa-vs-haiti-2026-nations-league-second-leg-man-of-the-match",
       "team": "usmnt",
       "title": "USA vs. Haiti, 2026 Nations League (second leg): Man of the Match",
@@ -616,17 +638,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267437-pass-defense-woes/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/145797/miaimi-dolphins-on-hidden-talents-even-they-have-one-interceptions",
-      "team": "bills",
-      "title": "On hidden talents, even the Miami Dolphins have one",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T11:37:27.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/145797/miaimi-dolphins-on-hidden-talents-even-they-have-one-interceptions"
-    },
-    {
       "id": "espn-sabres::50538104",
       "team": "sabres",
       "title": "Montreal Canadiens vs. Carolina Hurricanes: Game Highlights",
@@ -757,39 +768,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-19T17:02:19.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267425-should-the-bills-train-at-altitude-for-the-denver-game/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267424-ravens-%E2%80%9Csend-home%E2%80%9D-marlon-humphrey-deactivated-for-sunday/",
-      "team": "bills",
-      "title": "Ravens “send home” Marlon Humphrey; deactivated for Sunday",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T16:52:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267424-ravens-%E2%80%9Csend-home%E2%80%9D-marlon-humphrey-deactivated-for-sunday/"
-    },
-    {
-      "id": "espn-sabres::50523931",
-      "team": "sabres",
-      "title": "Wysh List: Ovechkin, the Sharks and the NHL's other biggest disappointments of 2026-27",
-      "summary": "This NHL season has been filled with memorable moments and outstanding achievements. These do not make that list.",
-      "source": "ESPN · Greg Wyshynski",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T16:17:19Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50523931/nhl-2026-27-wysh-list-disappointments-players-stats-teams-ovechkin-sharks"
-    },
-    {
-      "id": "espn-sabres::50522550",
-      "team": "sabres",
-      "title": "NHL Tonight: Guide to all 12 games on another packed Thursday",
-      "summary": "Find game previews, betting intel, broadcast information, stats and highlights here.",
-      "source": "ESPN · ESPN staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T14:23:48Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50522550/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267422-the-madden-movie-is-amazing/",
@@ -935,17 +913,6 @@
       "link": "https://www.buffalobills.com/news/top-storylines-for-bills-vs-dolphins-week-11"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-recognize-these-wny-high-school-football-coaches-week-11-2026",
-      "team": "bills",
-      "title": "Buffalo Bills recognize these WNY high school football coaches | Week 11 2026",
-      "summary": "As part of the program, each winning coach’s program will receive $1,000 from the Buffalo Bills and Visa.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T15:00:06.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-recognize-these-wny-high-school-football-coaches-week-11-2026"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47147/usa-vs-haiti-2026-nations-league-quarterfinals-second-leg-community-player-ratings",
       "team": "usmnt",
       "title": "USA vs. Haiti, 2026 Nations League Quarterfinals (second leg): Community player ratings",
@@ -1054,6 +1021,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-16T17:36:33.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/47117/concacaf-nations-league-usmnt-vs-haiti-second-leg-preview"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267387-miami-week-haikus-why-the-heck-am-i-the-one-starting-this/",
+      "team": "bills",
+      "title": "Miami Week - Haikus (why the heck am I the one starting this?)",
+      "summary": "Honestly, do we think so less of our southern U.S. opponent that we don't even care anymore?\n\n\n\n\t \n\n\n\n\tDo we pity them?\n\n\n\n\t \n\n\n\n\tAre we just thinking ahead?!\n\n\n\n\t \n\n\n\n\tNO!  I say vehemently, emphatically and robustly, NO!\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tPhins week is now here!\n\n\n\n\tDoes anyone really care?\n\n\n\n\tMe...I always will.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-16T17:05:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267387-miami-week-haikus-why-the-heck-am-i-the-one-starting-this/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47110/usmnt-vs-haiti-2026-concacaf-nations-league-quarterfinals-time-tv-schedule-streaming-and-match-thread",
@@ -1287,17 +1265,6 @@
       "link": "https://www.buffalohockeybeat.com/would-a-trip-to-rochester-help-sabres-jiri-kulich-find-some-confidence/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettinos-manchester-united-usmnt/",
-      "team": "usmnt",
-      "title": "Mauricio Pochettino's links to Manchester United a natural consequence of USMNT's big swing to hire him",
-      "summary": "Pochettino is reportedly a contender for the United job, which is expected to free up shortly with the departure of Michael Carrick",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T13:14:28.000Z",
-      "link": "https://www.cbssports.com/soccer/news/mauricio-pochettinos-manchester-united-usmnt/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-lightning-visit-rasmus-dahlin-and-sabres-looking-for-consistency/",
       "team": "sabres",
       "title": "As Lightning visit, Rasmus Dahlin and Sabres looking for consistency",
@@ -1364,15 +1331,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266810-the-way-too-early-playoff-seedings-edit-starting-to-get-clearer/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad-now-released-on-1121/",
       "team": "bills",
-      "title": "The way too early Playoff seedings (edit: starting to get clearer)",
-      "summary": "The way to early playoff picture.\n\n\n\n\t \n\n\n\n\tAfter week 4\n\n\n\n\t \n\n\n\n\tAFC\n\n\n\n\t1 - Chiefs n/c\n\n\n\n\t2 - Jaguars +1\n\n\n\n\t3 - Bills -1\n\n\n\n\t4 - Browns +4\n\n\n\n\t5 - Ravens +1\n\n\n\n\t6 - Raiders -1\n\n\n\n\t7 - Patriots +4\n\n\n\n\t8 - Broncos -1\n\n\n\n\t9 - Steelers -5\n\n\n\n\t10 - Colts +2\n\n\n\n\t11 - Bengals -2\n\n\n\n\t12 - Jets -2\n\n\n\n\t13 - Dolphins +1\n\n\n\n\t14 - Chargers +1\n\n\n\n\t15 - Titans -2\n\n\n\n\t16 - Texans n/c\n\n\n\n\t \n\n\n\n\tNFC\n\n\n\n\t1 - Vikings n/c\n\n\n\n\t2 - 49ers n/c\n\n\n\n\t3 - Giants +5\n\n\n\n\t4 - Panthers n/c\n\n\n\n\t5 - Bears +1\n\n\n\n\t6 - Seahawks +1\n\n\n\n\t7 - Rams +2\n\n\n\n\t8 - Falcons +5\n\n\n\n\t9 - Lions -4\n\n\n\n\t10 - Packers +4\n\n\n\n\t11 - Eagles -8\n\n\n\n\t12 - Cowboys -2\n\n\n\n\t13 - Commanders -2\n\n\n\n\t14 - Saints -2\n\n\n\n\t15 - Cardinals n/c\n\n\n\n\t16 - Buccaneers n/c",
+      "title": "49ers Sign Brandin Cooks to Practice Squad (now released on 11/21)",
+      "summary": "Was kinda surprised to see this as I figured if Cooks wanted to sign on with a Practice Squad, he'd have been signed to someone's by now - likely ours.\n\n\n\n\t \n\n\n\n\tBut I'm guessing in the wording of \"initially to get up to speed for games\" implies it's just a temporary thing and they'll be bringing him up soon.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-06T11:42:39.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266810-the-way-too-early-playoff-seedings-edit-starting-to-get-clearer/"
+      "publishedAt": "2026-09-22T22:09:15.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad-now-released-on-1121/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266377-aj-brown-expected-to-miss-four-weeks-update-pg-4-hurt-again-expected-to-miss-multiple-weeks/",
