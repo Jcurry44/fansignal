@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:13:21.573Z",
+  "generatedAt": "2026-11-22T14:41:29.810Z",
   "sources": [
     {
       "id": "bills-official",
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 16,
+      "itemCount": 15,
       "error": null
     },
     {
@@ -175,6 +175,50 @@
     }
   ],
   "stories": [
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-miami-dolphins-where-to-watch-stream-and-listen-week-11",
+      "team": "bills",
+      "title": "Buffalo Bills vs. Miami Dolphins | Where to watch, stream and listen | Week 11",
+      "summary": "TV Channel, Streaming and Radio for Bills vs. Dolphins",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T13:00:00.000Z",
+      "link": "https://www.buffalobills.com/news/buffalo-bills-vs-miami-dolphins-where-to-watch-stream-and-listen-week-11"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/145928/buffalo-bills-and-the-current-state-of-strength-of-schedule",
+      "team": "bills",
+      "title": "Buffalo Bills and the current state of strength of schedule",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T12:30:32.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/145928/buffalo-bills-and-the-current-state-of-strength-of-schedule"
+    },
+    {
+      "id": "espn-sabres::50550503",
+      "team": "sabres",
+      "title": "NHL Tonight: Guide to Sunday's five-pack of games",
+      "summary": "Find game previews, betting intel, broadcast information, stats and highlights here.",
+      "source": "ESPN · ESPN staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T12:26:55Z",
+      "link": "https://www.espn.com/nhl/story/_/id/50550503/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267457-gameday-112226-game-10-bills-vs-dolphins-1%E2%80%99st-half-game-thread/",
+      "team": "bills",
+      "title": "GAMEDAY 11/22/26 Game 10 Bills vs. Dolphins 1’st Half GAME THREAD",
+      "summary": "Go Bills!!!!!\n\n\n\n\t \n\n\n\n\tIt’s time to squish the fish.\n\n\n\n\t \n\n\n\n\tPost your 1st half game thoughts here\n\n\n\n\t \n\n\n\n\tThread set to automatically open at 12:59 PM. It will be locked during the half.\n\n\n\n\t \n\n\n\n\tEnjoy!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T11:57:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267457-gameday-112226-game-10-bills-vs-dolphins-1%E2%80%99st-half-game-thread/"
+    },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sloppy-third-period-costs-sabres-in-4-3-loss-to-panthers/",
       "team": "sabres",
@@ -627,17 +671,6 @@
       "link": "https://bandits.com/bandits-unveil-new-home-and-away-uniforms-for-2026-27-season/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-miami-dolphins-where-to-watch-stream-and-listen-week-11",
-      "team": "bills",
-      "title": "Buffalo Bills vs. Miami Dolphins | Where to watch, stream and listen | Week 11",
-      "summary": "TV Channel, Streaming and Radio for Bills vs. Dolphins",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T14:00:00.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-vs-miami-dolphins-where-to-watch-stream-and-listen-week-11"
-    },
-    {
       "id": "espn-sabres::50532384",
       "team": "sabres",
       "title": "NHL Power Rankings: Updated poll, plus fantasy hockey add/drops for all 32 teams",
@@ -671,17 +704,6 @@
       "link": "https://www.diebytheblade.com/early-lead-is-enough-for-the-sabres-to-snap-the-losing-streak/"
     },
     {
-      "id": "espn-sabres::50536950",
-      "team": "sabres",
-      "title": "Hutson strikes twice late, including for the OT winner, as Canadiens beat Hurricanes 2-1",
-      "summary": "— Lane Hutson scored twice in the final 5-plus minutes, including the finish on a perfect give-and-go feed from Nick Suzuki in the first minute of overtime, to help the Montreal Canadiens rally past the Carolina Hurricanes 2-1 on Thursday night.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T03:01:34Z",
-      "link": "http://www.espn.com/nhl/recap?gameId=401892747"
-    },
-    {
       "id": "espn-bills::50535179",
       "team": "bills",
       "title": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
@@ -691,6 +713,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-20T01:01:16Z",
       "link": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267434-bills-to-retire-andre-reeds-number/",
+      "team": "bills",
+      "title": "Bills to retire Andre Reeds number",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T00:18:43.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267434-bills-to-retire-andre-reeds-number/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-to-retire-hall-of-fame-wr-andre-reed-s-no-83-during-2027-season",
@@ -713,17 +746,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-19T23:39:21Z",
       "link": "https://www.espn.com/video/clip/_/id/50535321/will-bills-activate-tredavious-white-week"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267430-puka-officially-out-for-season-suspended-3-games-discipline-in-future-could-lead-to-banishment/",
-      "team": "bills",
-      "title": "Puka officially (out for season) suspended 3 games; discipline in future could lead to banishment",
-      "summary": "Fair to ask if he’s actually injured? \n\t \n\n\n\n\tWOW",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T20:27:05.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267430-puka-officially-out-for-season-suspended-3-games-discipline-in-future-could-lead-to-banishment/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/u-s-soccer-emma-hayes-usmnt-hiring-committee/",
@@ -757,39 +779,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-19T17:45:35.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267427-anyone-else-following-the-joe-buck-troy-aikman-divorce/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267426-marcel-dareus-has-legal-problems/",
-      "team": "bills",
-      "title": "Marcel Dareus has legal problems",
-      "summary": "https://www.yahoo.com/articles/ex-nfl-star-marcell-dareus-222425382.html\n\n\n\n\t \n\n\n\n\tFormer Bill Marcell Dareus has problems with local police. Sad story the guy had talent.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T17:16:00.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267426-marcel-dareus-has-legal-problems/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267425-should-the-bills-train-at-altitude-for-the-denver-game/",
-      "team": "bills",
-      "title": "Should the Bills  \"train at altitude\" for the Denver game?",
-      "summary": "there is some pater in the Vikes Press about whether they should be acclimating to the altitude prior to playing the Bronco's.  Not fun to be out of town at Christmas time for the Bills, but thinking heads should consider this thought.  imho.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T17:02:19.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267425-should-the-bills-train-at-altitude-for-the-denver-game/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267424-ravens-%E2%80%9Csend-home%E2%80%9D-marlon-humphrey-deactivated-for-sunday/",
-      "team": "bills",
-      "title": "Ravens “send home” Marlon Humphrey; deactivated for Sunday",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T16:52:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267424-ravens-%E2%80%9Csend-home%E2%80%9D-marlon-humphrey-deactivated-for-sunday/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267422-the-madden-movie-is-amazing/",
@@ -834,17 +823,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-19T02:48:38.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267415-week-11-fish-v-bills-predict-the-score/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/145719/familiar-faces-different-sidelines-for-bills-vs-dolphins",
-      "team": "bills",
-      "title": "Familiar faces, different sidelines for Bills vs. Dolphins",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T23:48:04.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/145719/familiar-faces-different-sidelines-for-bills-vs-dolphins"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/one-game-at-a-time-the-bills-look-to-continue-extend-five-game-winning-streak-in-week-11",
@@ -1265,17 +1243,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-fall-apart-after-comeback-lose-big-to-lightning-beating-ourselves/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-coaching-candidates-could-pep-guardiola-potentially-replace-mauricio-pochettino/",
-      "team": "usmnt",
-      "title": "USMNT coaching candidates: Could Pep Guardiola potentially replace Mauricio Pochettino?",
-      "summary": "With a potential vacancy, U.S. Soccer must decide between another massive international splash and or perhaps somebody with MLS ties",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T20:15:22.000Z",
-      "link": "https://www.cbssports.com/soccer/news/usmnt-coaching-candidates-could-pep-guardiola-potentially-replace-mauricio-pochettino/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/would-a-trip-to-rochester-help-sabres-jiri-kulich-find-some-confidence/",
       "team": "sabres",
       "title": "Would a trip to Rochester help Sabres’ Jiri Kulich find some confidence?",
@@ -1340,6 +1307,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-13T19:30:51.000Z",
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/",
+      "team": "bills",
+      "title": "The nostalgia thread",
+      "summary": "I’ve started following some accounts that post significant games and memorable Bills plays from the past. They always strike a chord with me and I want to share but don’t know where, so I’m starting this thread. \n\t \n\n\n\n\tok so I cannot believe this game was 5 years ago already. I remember clear as day bc I was off that Monday for Columbus Day and listened to sports radio all day in my glory! Also I remember Spencer brown talking about growing up in the Midwest and sitting in the garage watching and waiting out a storm and I could totally relate having lived in the Midwest now for 30 years.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-10T22:21:40.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad-now-released-on-1121/",
