@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:41:29.810Z",
+  "generatedAt": "2026-11-22T20:50:15.084Z",
   "sources": [
     {
       "id": "bills-official",
@@ -146,8 +146,8 @@
     {
       "team": "bills",
       "state": "upcoming",
-      "headline": "Sun 1:00 PM",
-      "detail": "vs MIA"
+      "headline": "Thu 8:20 PM",
+      "detail": "vs KC"
     },
     {
       "team": "sabres",
@@ -176,15 +176,147 @@
   ],
   "stories": [
     {
-      "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-miami-dolphins-where-to-watch-stream-and-listen-week-11",
+      "id": "espn-bills::50562956",
       "team": "bills",
-      "title": "Buffalo Bills vs. Miami Dolphins | Where to watch, stream and listen | Week 11",
-      "summary": "TV Channel, Streaming and Radio for Bills vs. Dolphins",
-      "source": "Bills.com",
-      "sourceType": "team",
+      "title": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Check here for all of the top moments, TDs and analysis from games at the Cowboys, Chiefs, Eagles, Panthers and more.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-22T13:00:00.000Z",
-      "link": "https://www.buffalobills.com/news/buffalo-bills-vs-miami-dolphins-where-to-watch-stream-and-listen-week-11"
+      "publishedAt": "2026-11-22T20:37:48Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026"
+    },
+    {
+      "id": "espn-sabres::50564523",
+      "team": "sabres",
+      "title": "Bussi makes 25 saves and Hurricanes down Rangers 5-2",
+      "summary": "— Jackson Blake put Carolina ahead to stay midway through the second period and Brandon Bussi made 25 saves and the Carolina Hurricanes defeated the New York Rangers 5-2 on Sunday.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T20:36:33Z",
+      "link": "http://www.espn.com/nhl/recap?gameId=401892768"
+    },
+    {
+      "id": "espn-sabres::50564495",
+      "team": "sabres",
+      "title": "Carolina Hurricanes vs. New York Rangers: Game Highlights",
+      "summary": "Carolina Hurricanes vs. New York Rangers: Game Highlights",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T20:32:47Z",
+      "link": "https://www.espn.com/video/clip/_/id/50564495/game-highlights"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/145992/buffalo-bills-defense-does-not-allow-touchdowns",
+      "team": "bills",
+      "title": "Buffalo Bills defense breaks team record for drives without a touchdown allowed",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T20:17:43.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/145992/buffalo-bills-defense-does-not-allow-touchdowns"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/145940/bills-injuries-2026-in-game-updates-vs-dolphins",
+      "team": "bills",
+      "title": "Bills injuries 2026: In-game updates vs. Dolphins",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T19:26:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/145940/bills-injuries-2026-in-game-updates-vs-dolphins"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/145942/josh-allen-top-50-passers-nfl-history-passing-kurt-warner-rushing-touchdowns",
+      "team": "bills",
+      "title": "Josh Allen makes NFL history with combination of passing and rushing",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T19:11:30.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/145942/josh-allen-top-50-passers-nfl-history-passing-kurt-warner-rushing-touchdowns"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-collapse-liverpool/",
+      "team": "usmnt",
+      "title": "Welcome to Manchester United: Mauricio Pochettino faces grim reality after collapse against Liverpool",
+      "summary": "A humiliating 4-0 defeat at Liverpool quickly exposed Manchester United's glaring defensive flaws and showed the new manager the massive scale of the rebuild ahead at Old Trafford",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T18:59:57.000Z",
+      "link": "https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-collapse-liverpool/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/145943/buffalo-bills-vs-miami-dolphins-nfl-week-11-fan-discussion",
+      "team": "bills",
+      "title": "Buffalo Bills vs. Miami Dolphins, NFL Week 11 fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 2,
+      "publishedAt": "2026-11-22T17:52:33.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/145943/buffalo-bills-vs-miami-dolphins-nfl-week-11-fan-discussion"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-game-information/145805/bills-vs-dolphins-nfl-week-11-how-to-watch-game-time-streaming-more",
+      "team": "bills",
+      "title": "Bills vs. Dolphins NFL Week 11: How to watch, game time, streaming, more",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T17:36:48.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-game-information/145805/bills-vs-dolphins-nfl-week-11-how-to-watch-game-time-streaming-more"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-24-preview-open-thread-buffalo-sabres-at-tampa-bay-lightning/",
+      "team": "sabres",
+      "title": "Game #24 Preview & Open Thread: Buffalo Sabres at Tampa Bay Lightning",
+      "summary": "Thunderbolts and Lightning, Very Very Frightning\n\n\n\nBuffalo Sabres (9-10-4) at Tampa Bay Lightning (15-5-2)\n\n\n\nPuck Drop: 5 p.m. ET | Benchmark International Arena, Tampa, Florida\n\n\n\nTV: MSG-B, DAZN, NHL Network, NHL Center Ice\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nTampa Bay Lightning\n\n\n\nRecord: 15-5-2 | 32 Pts\n\n\n\nLast Game: 3-1 victory over the Oilers\n\n\n\nDivision Ranking: 2nd \n\n\n\nPP: 19th, 21.1% (Sabres: 30th, 16.0%)\n\n\n\nPK: 23rd, 73.7% (Sabres: 26th, 72.2%)\n\n\n\nSeason Series: The Sabres are 0-1-0 vs Tampa this season.\n\n\n\n*Please note the early 5pm ET start of the game*\n\n\n\n1. Avoid Another Tampa Bay Beatdown\n\n\n\nIt was just eleven days ago when the Lightning hammered the Sabres in their own building by an 8-3 score. Both Ukko-Pekka Luukkonen and Colten Ellis were lit up, and the team took an embarrassing beating on the scoreboard. The emotional toll was just as damaging, leaving Buffalo with plenty to think about after such a humbling performance.\n\n\n\nSince then, Tampa Bay is firing on all cylinders, currently sitting in second place in the Atlantic Division. Ottawa moved a point ahead of the Bolts last night, but has also played two more games. Head coach Jon Cooper’s team continues to play great hockey, as usual. The Lightning have also enjoyed two days off since putting the brakes on Connor McDavid and the Oilers with a convincing 3-1 victory.\n\n\n\nMeanwhile, Buffalo enters this matchup on the second night of a back-to-back, while Tampa Bay is well-rested. No favors from the NHL here. The Sabres played a solid two periods on the road last night before unraveling against the Panthers. They’ll need a much better 60-minute effort if they hope to keep pace with this Lightning team.\n\n\n\nThe interesting thing is that the Sabres actually had Tampa Bay’s number last year. Buffalo finished the 2025-26 regular-season series with a 3-0-1 record against the Lightning, winning three of the four meetings. (while inching out the division title) That makes this season’s opening 8-3 drubbing at the hands of the Bolts all the more frustrating. What happened to the team that seemed to have Tampa figured out just a year ago?\n\n\n\n\n\n\n\n\n\n2. Lightning Strike Early and Often\n\n\n\nTampa is averaging nearly four goals per game, a clear indication of just how dangerous this offensive group remains. Through their first 20 games, the Lightning had scored 54 five-on-five goals, third-most in the NHL. They were also 11th in the league in fewest five-on-five goals allowed. Their established stars continue to lead the offensive charge, with Nikita Kucherov (31 points), Jake Guentzel (27 points) and Brandon Hagel (24 points) setting the pace.\n\n\n\nTampa Bay is already playing like a legitimate contender. Jon Cooper has an experienced, balanced group that knows what it takes to win. The Lightning have done a good job limiting dangerous scoring opportunities around their own net, although their overall defensive numbers still leave some room for improvement. Andrei Vasilevskiy remains a stalwart between the pipes, posting a 2.59 GAA through 17 games.\n\n\n\n\n\n\n\nPhoto Credit: Sabres.com\n\n\n\n3. Injury Status\n\n\n\nThe Lightning are a little banged up, with two quality players currently on IR. Brandon Hagel missed Tampa Bay’s previous game and is expected to sit out today’s contest as he continues to recover from a lower-body injury. His absence will be significant, as Hagel has already contributed 13 goals this season.\n\n\n\nConor Geekie is also sidelined after being placed on IR with an undisclosed injury and is expected to miss at least a week.\n\n\n\nOld friend Zemgus Girgensons is listed as day-to-day with an upper-body injury, making his availability for today’s game uncertain.\n\n\n\nAside from the longer-term injuries to Justin Danforth and Matt Grzelcyk, Buffalo is relatively healthy right now. Konsta Helenius remains week-to-week, but he has recently resumed skating, which is an encouraging sign.\n\n\n\nRyan McLeod and Louis Crevier were healthy scratches on Saturday. We could see one or both return to the lineup today if head coach Lindy Ruff wants to get some fresh legs on the ice against Tampa Bay. No lineup changes have been announced as of this writing, and the final decisions won’t be officially confirmed until pregame warmups.\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nZach Benson – Jiri Kulich – Tage Thompson\n\n\n\nPeyton Krebs – Noah Östlund – Jack Quinn\n\n\n\nJason Zucker/Ryan McLeod– Josh Norris – Josh Doan\n\n\n\nBeck Malenstyn – Tyson Kozak – Sam Carrick\n\n\n\nDefense\n\n\n\nMattias Samuelsson – Rasmus Dahlin\n\n\n\nOwen Power – Conor Timmins/Louis Crevier\n\n\n\nOlen Zellweger – Zach Metsa\n\n\n\nGoaltenders\n\n\n\nUkko-Pekka Luukkonen, (projected starter) Colten Ellis, Alex Lyon\n\n\n\nTampa Bay Lightning\n\n\n\nForwards\n\n\n\nJake Guentzel – Brayden Point – Nikita Kucherov\n\n\n\nYanni Gourde– Sam O’Reilly – Gage Goncalves\n\n\n\nIlya Mikheyev– Anthony Cirelli – Pontus Holmberg\n\n\n\nJeffrey Viel – Jansen Harkins – Scott Sabourin\n\n\n\nDefense\n\n\n\nCharle-Edouard D’Astous – John Carlson\n\n\n\nVictor Hedman – J.J. Moser\n\n\n\nRyan McDonagh – Erik Cernak\n\n\n\nGoaltenders\n\n\n\nAndrei Vasilevskiy (projected starter), Dennis Hildeby",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T17:19:53.000Z",
+      "link": "https://www.diebytheblade.com/game-24-preview-open-thread-buffalo-sabres-at-tampa-bay-lightning/"
+    },
+    {
+      "id": "espn-bills::50535179",
+      "team": "bills",
+      "title": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T17:13:29Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267461-rip-tom-jackson-75-denver-broncosespn/",
+      "team": "bills",
+      "title": "RIP Tom Jackson, 75, Denver Broncos/ESPN",
+      "summary": "Like most here I'm sure, I grew up watching him on ESPN. Very sad. RIP.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T15:21:06.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267461-rip-tom-jackson-75-denver-broncosespn/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/145649/bills-news-what-to-know-ahead-of-week-11-vs-miami-dolphins",
+      "team": "bills",
+      "title": "Bills news: What to know ahead of Week 11 vs. Miami Dolphins",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T14:29:08.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/145649/bills-news-what-to-know-ahead-of-week-11-vs-miami-dolphins"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/145928/buffalo-bills-and-the-current-state-of-strength-of-schedule",
@@ -209,15 +341,15 @@
       "link": "https://www.espn.com/nhl/story/_/id/50550503/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267457-gameday-112226-game-10-bills-vs-dolphins-1%E2%80%99st-half-game-thread/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267458-gameday-112226-game-10-bills-vs-dolphins-2%E2%80%99nd-half-game-thread/",
       "team": "bills",
-      "title": "GAMEDAY 11/22/26 Game 10 Bills vs. Dolphins 1’st Half GAME THREAD",
-      "summary": "Go Bills!!!!!\n\n\n\n\t \n\n\n\n\tIt’s time to squish the fish.\n\n\n\n\t \n\n\n\n\tPost your 1st half game thoughts here\n\n\n\n\t \n\n\n\n\tThread set to automatically open at 12:59 PM. It will be locked during the half.\n\n\n\n\t \n\n\n\n\tEnjoy!",
+      "title": "GAMEDAY 11/22/26 Game 10 Bills vs. Dolphins 2’nd  Half GAME THREAD",
+      "summary": "Go Bills!!!\n\n\n\n\t \n\n\n\n\tBills 20 Dolphins 6\n\n\n\n\t \n\n\n\n\tThe Fins will receive the kickoff.\n\n\n\n\t \n\n\n\n\tPost your 2’nd half thoughts here \n\n\n\n\t \n\n\n\n\tThread opened at halftime and closed at the end of the game.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-22T11:57:09.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267457-gameday-112226-game-10-bills-vs-dolphins-1%E2%80%99st-half-game-thread/"
+      "publishedAt": "2026-11-22T12:00:14.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267458-gameday-112226-game-10-bills-vs-dolphins-2%E2%80%99nd-half-game-thread/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sloppy-third-period-costs-sabres-in-4-3-loss-to-panthers/",
@@ -286,17 +418,6 @@
       "link": "https://www.buffalobills.com/news/bills-roster-moves-nov-21"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/145912/buffalo-bills-vs-miami-dolphins-injury-news-ed-oliver-questionable-for-week-11",
-      "team": "bills",
-      "title": "Buffalo Bills vs. Miami Dolphins injury news: Ed Oliver questionable for Week 11",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-21T18:34:38.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/145912/buffalo-bills-vs-miami-dolphins-injury-news-ed-oliver-questionable-for-week-11"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-23-preview-open-thread-sabres-at-panthers/",
       "team": "sabres",
       "title": "Game #23 Preview & Open Thread: Sabres at Panthers",
@@ -317,39 +438,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-21T17:53:49.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267452-we-play-the-chiefs-just-4-days-after-miami-how-will-that-effect-this-sundays-miami-game/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/145359/buffalo-bills-game-day-food-frita-cubana-meatballs",
-      "team": "bills",
-      "title": "Buffalo Bills game-day food: Frita-Cubana Meatballs",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-21T17:16:27.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/145359/buffalo-bills-game-day-food-frita-cubana-meatballs"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/145779/5-miami-dolphins-to-watch-at-the-buffalo-bills",
-      "team": "bills",
-      "title": "5 Miami Dolphins to watch at the Buffalo Bills",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-21T14:04:05.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/145779/5-miami-dolphins-to-watch-at-the-buffalo-bills"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/145648/bills-news-previewing-the-dolphins",
-      "team": "bills",
-      "title": "Bills news: Previewing the Dolphins",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-21T14:01:57.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/145648/bills-news-previewing-the-dolphins"
     },
     {
       "id": "espn-sabres::50542625",
@@ -407,17 +495,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/50543381/bills-te-dalton-kincaid-doubtful-play-vs-dolphins"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/145873/two-starters-out-but-who-else-will-suit-up-sunday",
-      "team": "bills",
-      "title": "Two starters out, but who else will suit up Sunday?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T20:23:04.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/145873/two-starters-out-but-who-else-will-suit-up-sunday"
-    },
-    {
       "id": "espn-bills::50501650",
       "team": "bills",
       "title": "NFL Week 11 betting odds: Lines and totals for every game",
@@ -427,28 +504,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-20T20:13:57Z",
       "link": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-odds/145760/bills-vs-dolphins-predictions-week-11-picks",
-      "team": "bills",
-      "title": "NFL predictions: Josh Allen, Bills’ run game dominate Dolphins in Week 11",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T20:07:39.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-odds/145760/bills-vs-dolphins-predictions-week-11-picks"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/145859/report-a-j-brown-may-not-be-on-field-vs-buffalo-bills-again",
-      "team": "bills",
-      "title": "Report: A.J. Brown may not be on the field vs. Buffalo Bills again",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T19:36:30.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/145859/report-a-j-brown-may-not-be-on-field-vs-buffalo-bills-again"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47175/usmnt-weekend-viewing-guide-fall-stretch",
@@ -671,28 +726,6 @@
       "link": "https://bandits.com/bandits-unveil-new-home-and-away-uniforms-for-2026-27-season/"
     },
     {
-      "id": "espn-sabres::50532384",
-      "team": "sabres",
-      "title": "NHL Power Rankings: Updated poll, plus fantasy hockey add/drops for all 32 teams",
-      "summary": "The Hurricanes remain atop the list, while the Senators made a big leap.",
-      "source": "ESPN · Sean Allen and Victoria Matiash",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T12:08:58Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50532384/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey"
-    },
-    {
-      "id": "espn-sabres::50538104",
-      "team": "sabres",
-      "title": "Montreal Canadiens vs. Carolina Hurricanes: Game Highlights",
-      "summary": "Montreal Canadiens vs. Carolina Hurricanes: Game Highlights",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T04:58:37Z",
-      "link": "https://www.espn.com/video/clip/_/id/50538104/game-highlights"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/early-lead-is-enough-for-the-sabres-to-snap-the-losing-streak/",
       "team": "sabres",
       "title": "Early Lead Is Enough For The Sabres To Snap The Losing Streak",
@@ -702,17 +735,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-20T04:31:00.000Z",
       "link": "https://www.diebytheblade.com/early-lead-is-enough-for-the-sabres-to-snap-the-losing-streak/"
-    },
-    {
-      "id": "espn-bills::50535179",
-      "team": "bills",
-      "title": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T01:01:16Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267434-bills-to-retire-andre-reeds-number/",
@@ -737,15 +759,15 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-to-retire-hall-of-fame-wr-andre-reed-s-no-83-during-2027-season"
     },
     {
-      "id": "espn-bills::50535321",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267433-week-11-around-the-league-thread-no-bills-discussion-in-here-please/",
       "team": "bills",
-      "title": "Will the Bills activate Tre'Davious White this week?",
-      "summary": "Nick Suss discusses the Bills potentially adding Tre'Davious White to the 53-man roster.",
-      "source": "ESPN",
-      "sourceType": "league",
+      "title": "Week 11 - Around the League Thread (No Bills discussion in here please)",
+      "summary": "Starts today with Texans (3-6) at Indianapolis Colts (3-7). For all the preseason chatter, Texans have been a disappointment  this season. \n\n\n\n\tNot sure what to expect from this game tonight. \n\n\n\n\t \n\n\n\n\tOther games of note (rooting interests):\n\n\n\n\tChiefs @ Cardinals\n\n\n\n\tEagles @ Steelers\n\n\n\n\tBroncos @ Raiders\n\n\n\n\tGiants @ Jaguars\n\n\n\n\tCommanders @ Bengals\n\n\n\n\t \n\n\n\n\tThese may be interesting to watch:\n\n\n\n\tBears @ Saints\n\n\n\n\tRams @ Packers\n\n\n\n\tGame of the week pick (imo): 49ers @ Vikings",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-19T23:39:21Z",
-      "link": "https://www.espn.com/video/clip/_/id/50535321/will-bills-activate-tredavious-white-week"
+      "publishedAt": "2026-11-19T23:03:51.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267433-week-11-around-the-league-thread-no-bills-discussion-in-here-please/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/u-s-soccer-emma-hayes-usmnt-hiring-committee/",
@@ -781,6 +803,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/267427-anyone-else-following-the-joe-buck-troy-aikman-divorce/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267424-ravens-%E2%80%9Csend-home%E2%80%9D-marlon-humphrey-deactivated-for-sunday/",
+      "team": "bills",
+      "title": "Ravens “send home” Marlon Humphrey; deactivated for Sunday",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-19T16:52:07.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267424-ravens-%E2%80%9Csend-home%E2%80%9D-marlon-humphrey-deactivated-for-sunday/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267422-the-madden-movie-is-amazing/",
       "team": "bills",
       "title": "The Madden movie is amazing",
@@ -790,28 +823,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-19T13:46:37.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267422-the-madden-movie-is-amazing/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267419-nfl-considering-major-change-to-playoff-seeding/",
-      "team": "bills",
-      "title": "NFL considering major change to playoff seeding",
-      "summary": "https://www.msn.com/en-us/sports/football/report-nfl-considering-major-change-to-playoff-seeding/ar-AA2hICQt?ocid=entnewsntp&pc=U531&cvid=6afed7bf2d82447a996f618dddaf085a&ei=31\n\n\n\n\t \n\n\n\n\tBasically, teams that win their division with a below .500 record shouldn't get a home game. This year the NFCS and possibly the NFCE division winners could be below .500",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T11:11:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267419-nfl-considering-major-change-to-playoff-seeding/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267417-for-you-old-timers-how-would-you-compare-james-cook-and-thurman-thomas/",
-      "team": "bills",
-      "title": "for you OLD TIMERS, how would you compare James Cook and Thurman Thomas ?",
-      "summary": "I know Thurman has got the longevity factor way in his favor, but I wonder how they would compare on their skill level, their respective speed, and their elusive skills.  Are there any other Bill's RB's  would you consider had comparable skills?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T04:13:51.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267417-for-you-old-timers-how-would-you-compare-james-cook-and-thurman-thomas/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267415-week-11-fish-v-bills-predict-the-score/",
@@ -911,17 +922,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-18T15:43:10.000Z",
       "link": "https://www.starsandstripesfc.com/usmnt-news/47092/i-thought-we-had-something-mauricio"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/top-storylines-for-bills-vs-dolphins-week-11",
-      "team": "bills",
-      "title": "Top Storylines for Bills vs. Dolphins | Week 11",
-      "summary": "Bills insider Chris Brown breaks down the biggest things to look for against Miami on Sunday",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T15:30:00.000Z",
-      "link": "https://www.buffalobills.com/news/top-storylines-for-bills-vs-dolphins-week-11"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47147/usa-vs-haiti-2026-nations-league-quarterfinals-second-leg-community-player-ratings",
@@ -1034,17 +1034,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/47117/concacaf-nations-league-usmnt-vs-haiti-second-leg-preview"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267387-miami-week-haikus-why-the-heck-am-i-the-one-starting-this/",
-      "team": "bills",
-      "title": "Miami Week - Haikus (why the heck am I the one starting this?)",
-      "summary": "Honestly, do we think so less of our southern U.S. opponent that we don't even care anymore?\n\n\n\n\t \n\n\n\n\tDo we pity them?\n\n\n\n\t \n\n\n\n\tAre we just thinking ahead?!\n\n\n\n\t \n\n\n\n\tNO!  I say vehemently, emphatically and robustly, NO!\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tPhins week is now here!\n\n\n\n\tDoes anyone really care?\n\n\n\n\tMe...I always will.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-16T17:05:01.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267387-miami-week-haikus-why-the-heck-am-i-the-one-starting-this/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47110/usmnt-vs-haiti-2026-concacaf-nations-league-quarterfinals-time-tv-schedule-streaming-and-match-thread",
       "team": "usmnt",
       "title": "USMNT vs. Haiti, 2026 Concacaf Nations League Quarterfinals: Time, TV schedule, streaming and match thread",
@@ -1078,6 +1067,17 @@
       "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-11-16/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267376-allen-passing-game-and-offensive-play-calling/",
+      "team": "bills",
+      "title": "Allen, Passing Game, and Offensive Play Calling",
+      "summary": "The team is stacking wins and Allen and Cook have combined for 20 rushing TD's or more than 2 per game!\n\n\n\n\t \n\n\n\n\tI love that we have a top running game for the playoffs.\n\n\n\n\t \n\n\n\n\tNaturally, when your team has continuity on the OL and an elite running game, the passing game is affected/impacted.\n\n\n\n\t \n\n\n\n\tI am completely fine with the running game making us more balanced.\n\n\n\n\t\n\tFor those who know more about offensive schemes and philosophies, is our offensive play calling much different in the passing game than the past 3-4 years?\n\n\n\n\t \n\n\n\n\tIs Allen regressing or past his peak as a passer?\n\n\n\n\t \n\n\n\n\tDoes the passing game just look and feel different because we have 3-4 guys who will get you 40-50 yards rather than 1 guy who may get a 100 yards?\n\n\n\n\t \n\n\n\n\tI am curious if the passing game has been changing to allow the running game to take more time off the clock and help a younger and transitioning defense.\n\n\n\n\t \n\n\n\n\tThe answers to these questions are all probably \"yes\" to some degree.\n\n\n\n\t \n\n\n\n\tWondering about the passing game and play calling going forward.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-16T12:45:20.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267376-allen-passing-game-and-offensive-play-calling/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267373-game-week-thread-dolphins-at-bills/",
       "team": "bills",
       "title": "Game week thread - Dolphins at Bills",
@@ -1089,6 +1089,17 @@
       "link": "https://www.twobillsdrive.com/community/topic/267373-game-week-thread-dolphins-at-bills/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267368-james-cook-milestones/",
+      "team": "bills",
+      "title": "James Cook milestones",
+      "summary": "Now at 971 yards for the season, just 29 yards away from a fourth consecutive 1,000 yard season - only two other backs could have equal active streaks. The longest active streak of consecutive 1,000 yard seasons stands at 4 - Derrick Henry - who would need 311 more yards this year to make that 5. Cook's 971 yards is good for second in the league right now in terms of rushing leaders, with Jahmyr Gibbs the first man to his 1,000 in Germany earlier today.\n\n\n\n\t \n\n\n\n\tHe is also is just 1 rushing touchdown away from a third consecutive double digit season - one of realistically a maximum of five backs who will be able say that by the end of this season. The longest active streak is again King Henry with 10 consecutive seasons of double digit rushing touchdowns.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-16T01:03:12.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267368-james-cook-milestones/"
+    },
+    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/stars-align-in-dallas-as-sabres-are-shutout-again-2-0/",
       "team": "sabres",
       "title": "Stars Align in Dallas as Sabres are Shutout Again, 2-0",
@@ -1098,17 +1109,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-15T04:30:11.000Z",
       "link": "https://www.diebytheblade.com/stars-align-in-dallas-as-sabres-are-shutout-again-2-0/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/game-20-preview-open-thread-buffalo-sabres-at-dallas-stars/",
-      "team": "sabres",
-      "title": "Game #20 Preview & Open Thread: Buffalo Sabres at Dallas Stars",
-      "summary": "Sabres look to right ship against Stars\n\n\n\nBuffalo Sabres (8-7-4) vs. Dallas Stars (10-6-2)\n\n\n\nPuck Drop: 8 p.m. ET | American Airlines Center, Dallas TX\n\n\n\nTV: MSG-B\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nDallas Stars\n\n\n\nRecord: 10-6-2 | 22 Pts\n\n\n\nLast Game: 8-3 loss vs. Winnipeg\n\n\n\nDivision Ranking: 4th\n\n\n\nPP: 8th, 26.2% [Sabres: 29th, 15.9%]\n\n\n\nPK: 3rd, 88.5% [Sabres: 28th, 69.7%]\n\n\n\nSeason Series: Sabres 0-1-0 vs Dallas this season\n\n\n\nInverted Mirror\n\n\n\nAs they get ready to play their 20th game of the season tonight in Dallas, the Sabres are still waiting for too many of the players on their roster to show up for the season. While they have treaded water to this point, it is already starting to hit crunch time, as they find themselves on game two of a six game road trip, having lost three games in a row, all in different kinds of ways that could at best be described as “not ideal.”\n\n\n\nOn Sunday against the Knights, they played well enough to win some nights but couldn’t finish their chances, while watching an opportunistic Vegas team seemingly bury every chance. Finishing, which used to be the hallmark of the team over the past couple seasons, has been one of their biggest issues all the way up to the season’s near quartermark.\n\n\n\nOn Wednesday, a comeback effort fell short, as what was a 4-3 deficit with effectively the entire third period left to play ended up an 8-3 defeat at the hands of the Tampa Bay Lightning. Last year we saw the team really own the Lightning, going 3-0-1 against them on the season, headlined by the 8-7 victory late in the season that saw them come back from multiple goals down multiple times during the game. It looked like we were going to get a repeat performance on Wednesday night. \n\n\n\nInstead the defensive play and the goaltending fully and utterly collapsed, as they allowed a fifth goal in short succession after cutting the lead to one, causing Lindy Ruff to remove Ukko-Pekka Luukkonen in favor of Colten Ellis. While the goalie getting pulled should usually give a team a spark, instead Ellis came in and threw oil on the fire, allowing three more goals, also highlighting the difference the Sabres have gotten in net this season compared to last. \n\n\n\nAnd then Thursday night, the Sabres had a pretty lifeless performance against one of the worst teams in the NHL, a class of teams that the Sabres made a habit of beating up last season. While it could be easy to excuse an overtime loss to a team like the Blackhawks as a one-off fluke, in this instance of where the team finds itself and how they have played to this point, it becomes quite inexcusable. This should have been a classic get-right game and instead it ends in more disappointment, as they failed to generate offense against one of the easiest teams to generate offense against. \n\n\n\nAnd now this team finds themselves in Dallas to play the Stars. Last year when they went to Dallas, it was maybe their most impressive win of the season, dominating one of the top teams in the NHL as the capstone of their season-defining 10 game winning streak. The Sabres are almost in desperate need of a mirror of last year’s performance, or the alarm bells already going off will only get louder.\n\n\n\nElevation\n\n\n\nPart of the reason for the negative results compared to last season has been just how many players have yet to really show up for this season so far, and that starts with the Captain. While he hasn’t necessarily been bad for the first 19 games of the season, everyone knows that Rasmus Dahlin has significantly more to give to the Sabres this season. He does have 11 points in the 16 games he’s played, a respectable number for most NHL defenseman, Dahlin’s ceiling is well beyond most NHL defensemen. \n\n\n\nGiven his play and how he’s looked, it feels fair to question if the back injury he suffered in the middle of October is lingering a little bit, though Dahlin has built up a reputation of being a slow starter. Last season he didn’t take off until December, though with everything he had going on to start last year, it was much more understandable. But now, with as many players struggling as the Sabres have, they need their captain and they need him now. If Dahlin doesn’t hit his stride soon, we’ll be talking about what potential lottery picks the team will be able to get, a conversation no one would have wanted to have before the season started.\n\n\n\nOutside of Dahlin, the struggles of most of the forwards have been talked about ad nauseum. Ryan McLeod, Josh Norris, and Josh Doan have made up the big three of underperformers, but Jason Zucker’s name can be thrown into the mix now, though he could still be afforded a little bit of grace coming off hernia surgery, it’s fair to wonder if his career’s twilight was accelerated by said surgery. \n\n\n\nA broader issue, however, has also been in line combinations done by Lindy Ruff and the coaching staff. There has been little to no consistency in who is even in the lineup, and who is playing with who when they are in the lineup. Even in each individual game, lines end up jumbling so much that it becomes hard to keep track of who is playing with who. It’s understandable to want to find something that works, especially when the team is entering a bit of desperation mode, but it creates a bit of a chicken and egg situation. Perhaps the lines aren’t working because sometimes they only have one period to try and click. \n\n\n\nRuff has been a known tinkerer for a lot of his coaching career, often jumbling things up after a loss, but this feels too hands on. The team is struggling to find consistency of any kind, and that could be stemming from the top. \n\n\n\nProjected Lineup\n\n\n\nSabres\n\n\n\nForwards\n\n\n\nBenson-Krebs-Thompson \n\n\n\nKulich-Norris-Doan \n\n\n\nZucker-Ostlund-Quinn \n\n\n\nKozak-McLeod-Malenstyn \n\n\n\nDefense\n\n\n\nDahlin-Samuelsson \n\n\n\nPower-Timmins \n\n\n\nZellweger-Metsa\n\n\n\nGoalie\n\n\n\nAlex Lyon\n\n\n\nStars\n\n\n\nForwards\n\n\n\nRobertson-Hintz-Hyry\n\n\n\nBenn-Johnston-Rantanen\n\n\n\nSteel-Hryckowian-Seguin\n\n\n\nKiviranta-Faksa-Perron\n\n\n\nDefense\n\n\n\nHarley-Lundkvist\n\n\n\nLindell-Myers\n\n\n\nTaylor-Burroughs\n\n\n\nGoalie\n\n\n\nOettinger",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-15T00:31:21.000Z",
-      "link": "https://www.diebytheblade.com/game-20-preview-open-thread-buffalo-sabres-at-dallas-stars/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-leaning-heavily-on-healthy-tyson-kozak-some-of-his-best-hockey/",
@@ -1197,28 +1197,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-13T12:43:14.000Z",
       "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-intensity-manchester-united/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267326-eagles-waive-wr-hollywood-brown/",
-      "team": "bills",
-      "title": "Eagles Waive WR Hollywood Brown",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-13T03:22:01.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267326-eagles-waive-wr-hollywood-brown/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-available-managers/",
-      "team": "usmnt",
-      "title": "With Manchester United set to hire Mauricio Pochettino, what other managers are available?",
-      "summary": "Once another big club makes a move for a new manager, who might be available?",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-12T15:48:47.000Z",
-      "link": "https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-available-managers/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/passion-has-helped-alex-lyon-improve-with-age-sabres-goalie-expected-to-start-first-game-soon/",
@@ -1318,28 +1296,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-10-10T22:21:40.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad-now-released-on-1121/",
-      "team": "bills",
-      "title": "49ers Sign Brandin Cooks to Practice Squad (now released on 11/21)",
-      "summary": "Was kinda surprised to see this as I figured if Cooks wanted to sign on with a Practice Squad, he'd have been signed to someone's by now - likely ours.\n\n\n\n\t \n\n\n\n\tBut I'm guessing in the wording of \"initially to get up to speed for games\" implies it's just a temporary thing and they'll be bringing him up soon.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-22T22:09:15.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad-now-released-on-1121/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266377-aj-brown-expected-to-miss-four-weeks-update-pg-4-hurt-again-expected-to-miss-multiple-weeks/",
-      "team": "bills",
-      "title": "AJ Brown - expected to miss four weeks (UPDATE pg 4 - hurt again, expected to miss multiple weeks)",
-      "summary": "Update: was placed on IR. Will miss the first game against us in Buffalo.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-09-11T00:53:25.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266377-aj-brown-expected-to-miss-four-weeks-update-pg-4-hurt-again-expected-to-miss-multiple-weeks/"
     }
   ]
 }
