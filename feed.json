@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T20:50:15.084Z",
+  "generatedAt": "2026-11-23T01:27:29.227Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 4,
       "error": null
     },
     {
@@ -152,8 +152,8 @@
     {
       "team": "sabres",
       "state": "final",
-      "headline": "Final · L 3-4",
-      "detail": "at FLA"
+      "headline": "Final · W 6-2",
+      "detail": "at TBL"
     },
     {
       "team": "bandits",
@@ -176,15 +176,246 @@
   ],
   "stories": [
     {
-      "id": "espn-bills::50562956",
+      "id": "espn-bills::50567903",
       "team": "bills",
-      "title": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
-      "summary": "Check here for all of the top moments, TDs and analysis from games at the Cowboys, Chiefs, Eagles, Panthers and more.",
+      "title": "Bills' Grand Theft Auto VI-themed jab at Dolphins tops NFL Week 11 trolls",
+      "summary": "NFL teams remained petty in Week 11, led by a petty post from the Buffalo Bills.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T01:21:29Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50567903/nfl-week-11-trolls"
+    },
+    {
+      "id": "espn-bills::50563342",
+      "team": "bills",
+      "title": "NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
       "source": "ESPN · NFL Nation",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-22T20:37:48Z",
+      "publishedAt": "2026-11-23T01:21:25Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267467-is-bradley-chubb-on-the-team/",
+      "team": "bills",
+      "title": "Is Bradley Chubb on the team?",
+      "summary": "I completely forget this guy is even on the team.  He's not making any impact this season.  I feel I saw pretty much every other lineman make a play today, but Chubb was a complete non-factor again.  \n\n\n\n\t \n\n\n\n\tI know everyone has their least favorite contract signings over the last couple of years, but this one is mine.  Palmer and Samuel at least made a couple of plays/touchdowns, Von was awesome before his injury, but I legit can't think of a play Chubb has made this year.  I thought he was supposed to be pretty good against the run, but I don't remember him making many plays in the run game\n\n\n\n\t \n\n\n\n\tIf I'm off please tell me, but has he made an impact on any game (or even play) yet this season?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T01:14:16.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267467-is-bradley-chubb-on-the-team/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/146017/nfl-week-11-late-afternoon-fan-discussion",
+      "team": "bills",
+      "title": "San Francisco 49ers vs. Minnesota Vikings in Mexico City, NFL Week 11 fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T01:09:10.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/146017/nfl-week-11-late-afternoon-fan-discussion"
+    },
+    {
+      "id": "espn-bills::50563318",
+      "team": "bills",
+      "title": "Judging overreactions to NFL Week 11: Joe Brady's Bills impact, Eagles' chances",
+      "summary": "Is Brady the coach that can vault the Bills over the top? Is an NFC East three-peat still in play in Philly? We overreact to Week 11 NFL action.",
+      "source": "ESPN · Dan Graziano",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T01:08:32Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50563318/week-11-overreactions-2026-graziano-bills-eagles-nfc-east"
+    },
+    {
+      "id": "espn-bills::50562956",
+      "team": "bills",
+      "title": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
+      "summary": "Check here for all of the top moments, TDs and analysis from games at the Broncos, Jets, Cowboys, Eagles and more.",
+      "source": "ESPN · NFL Nation",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T01:07:44Z",
       "link": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/145997/afc-playoff-picture-buffalo-bills-postseason-standings-chiefs",
+      "team": "bills",
+      "title": "AFC Playoff Picture: Bills stick in first and will face Chiefs for first place on Thanksgiving",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T01:04:03.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/145997/afc-playoff-picture-buffalo-bills-postseason-standings-chiefs"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/article/tage-thompson-scores-twice-as-sabres-top-lightning/",
+      "team": "sabres",
+      "title": "Tage Thompson scores twice as Sabres top Lightning",
+      "summary": "",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T01:02:27.000Z",
+      "link": "https://www.sportsnet.ca/nhl/article/tage-thompson-scores-twice-as-sabres-top-lightning/"
+    },
+    {
+      "id": "espn-bills::50535179",
+      "team": "bills",
+      "title": "NFL Week 11 arrivals: George Kittle rocks luchador mask ahead of SNF in Mexico",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T01:00:32Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-highlights-sabres-6-lightning-2-2/",
+      "team": "sabres",
+      "title": "NHL Highlights: Sabres 6, Lightning 2",
+      "summary": "Tage Thompson scored twice, while Noah Ostlund added a goal and an assist to lead the Sabres’ offensive attack against the Lightning in a 6-2 win.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T00:53:47.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/nhl-highlights-sabres-6-lightning-2-2/"
+    },
+    {
+      "id": "espn-bills::50567421",
+      "team": "bills",
+      "title": "Is the Bills defense historically good?",
+      "summary": "Nick Suss reports on how the Bills defense compares to the 2008 Ravens after their recent hot streak.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 2,
+      "publishedAt": "2026-11-23T00:36:02Z",
+      "link": "https://www.espn.com/video/clip/_/id/50567421/is-bills-defense-historically-good"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146010/buffalo-bills-improve-to-9-1-with-26-9-over-miami-dolphins",
+      "team": "bills",
+      "title": "Buffalo Bills improve to NFL-best 9-1 with 26-9 over Miami Dolphins",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T00:12:43.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146010/buffalo-bills-improve-to-9-1-with-26-9-over-miami-dolphins"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146012/bills-vs-dolphins-week-11-postgame-analysis-buffalos-win-never-in-doubt",
+      "team": "bills",
+      "title": "Bills vs. Dolphins Week 11 postgame analysis: Buffalo’s win never in doubt",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T00:12:14.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146012/bills-vs-dolphins-week-11-postgame-analysis-buffalos-win-never-in-doubt"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/145971/buffalo-bills-stock-report-in-hard-fought-win-miami-dolphins",
+      "team": "bills",
+      "title": "Buffalo Bills stock report in hard-fought win Miami Dolphins",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T00:10:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/145971/buffalo-bills-stock-report-in-hard-fought-win-miami-dolphins"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/145992/buffalo-bills-defense-does-not-allow-touchdowns",
+      "team": "bills",
+      "title": "Buffalo Bills defense breaks team record for drives without a touchdown allowed",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T00:09:57.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/145992/buffalo-bills-defense-does-not-allow-touchdowns"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/sabres-thompson-fires-a-rocket-past-lightning-with-slick-finish/",
+      "team": "sabres",
+      "title": "Sabres’ Thompson fires a rocket past Lightning with slick finish",
+      "summary": "Tage Thompson fires a wicked shot past the Lightning goaltender Dennis Hildeby to extend the Sabres’ lead in the second period.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T00:09:31.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/sabres-thompson-fires-a-rocket-past-lightning-with-slick-finish/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-dolphins-x6397",
+      "team": "bills",
+      "title": "Top 3 things we learned from Bills vs. Dolphins | Week 11",
+      "summary": "Playing from in front, Shakir & Moore's big day and Tommy Doman on his fake punt pass",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T23:52:32.000Z",
+      "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-dolphins-x6397"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267466-we-are-done-with-the-mid-season-preseason-games-lets-see-some-big-boy-football/",
+      "team": "bills",
+      "title": "We are done with the mid-season preseason  games. Let's see some big boy football",
+      "summary": "Sorry I just can't get up for these games. It's not college football where you want to see your 2nd/3rd/4th string guys beating up some lower weight class teams and \"evaluate\" the depth of your team. Frankly the whole game has the preseason feel to it. The Bills worked on their down field passing games. The other team worked to see what their 2nd string QB is capable of. Heck we even tried a gadget ST play and wanted to see what the onside kick is like mid-game.\n\n\n\n\t \n\n\n\n\tThey are not playing sharp. And do not show any new stuff either, even specific for the Dolphins. When it is needed, more of Cook's run and Allen's improvised plays. The defense got quite a bit of help from the opposing offense.\n\n\n\n\t \n\n\n\n\tIn any event, let's see where the Bills measure up Thanksgiving night. If I were Spagnuolo looking at Bills films, I'd want to crowd the LOS to stop the run and cage rush to make Allen play QB from the pocket.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T22:08:34.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267466-we-are-done-with-the-mid-season-preseason-games-lets-see-some-big-boy-football/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-26-dolphins-9-final-score-recap-highlights",
+      "team": "bills",
+      "title": "Bills 26, Dolphins 9 | Final Score, recap + highlights",
+      "summary": "James Cook III and Josh Allen are the first pair of teammates in NFL history with at least 10 rushing touchdowns in three consecutive seasons",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T21:26:15.000Z",
+      "link": "https://www.buffalobills.com/news/bills-26-dolphins-9-final-score-recap-highlights"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267464-whats-the-story-with-skyler-bell/",
+      "team": "bills",
+      "title": "What's the story with Skyler Bell ?",
+      "summary": "A 4th round draft pick with 4.40 speed, 101 catches in his Senior year at the U of Connecticut and he never sees the field.  Poor practice habits?  Can't learn the offense?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T21:17:37.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267464-whats-the-story-with-skyler-bell/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267463-we-are-a-spoiled-fanbase-and-it-shows/",
+      "team": "bills",
+      "title": "We are a spoiled fanbase and it shows",
+      "summary": "The number of people complaining about Allen’s play is disturbing. You're spoiled.\n\n\n\n\t \n\n\n\n\tThe Bills offense put up 406 yards today and scored 26 points. It would have been 29 if Bass didn't shank a kick.\n\n\n\n\t \n\n\n\n\tAllen threw for 304 yards on 60% passing, and his receivers didn't help him. In the first half, Allen hit Shakir right in the stomach on a ball that would have given us 1st and goal at the 5. Dropped. Coleman dropped another one that would have been first down. It was a tougher catch, but still catchable. In the second half, another ball went right through Moore's hands around the 5.\n\n\n\n\t \n\n\n\n\tSome say Allen struggled from the beginning: I disagree. If Shakir catches just his ball (give Coleman a pass since his was a tough one), Allen would have had 106 yards in the first quarter alone. That's a 424-yard pace for the game. \n\n\n\n\t \n\n\n\n\tHis one truly head-scratcher of a throw, the INT across the middle, came right after he took a forearm shiver to the head. It should have been a penalty.\n\n\n\n\t \n\n\n\n\tFor context, the Bengals, with the best WR room in the league and the hot-shot offense, put up 307 yards against this same Dolphins defense. We had over 400. Burrow threw for 190. Allen threw for 304. Burrow had 5.9 yards per attempt against this Dolphins D. Allen had 7.3 …\n\n\n\n\t \n\n\n\n\tAllen is a QB who rides the highs more than most. If the offense gets into a rhythm, he's going to go off in historic fashion. But if the offense struggles around him, he can slump too. It's those failures around him that really derail him.\n\n\n\n\t \n\n\n\n\tThat's why I've rallied for years to get him more receiving help. Adding Moore was not enough. \n\n\n\n\t \n\n\n\n\tRelax. Allen is fine. But I maintain that he still needs better weapons.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T21:15:42.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267463-we-are-a-spoiled-fanbase-and-it-shows/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267462-week-11-fish-v-bills-game-balls/",
+      "team": "bills",
+      "title": "Week 11, Fish v. Bills, GAME BALLS!",
+      "summary": "Up until the last drive, Josh Allen's game ball was revoked, but he gets his game ball, barely.  James Cook gets his automatic game ball, but just imagine what Cook would have done if Brady used him the entire 2nd half, instead of just the 4th QTR.\n\n\n\n\t \n\n\n\n\tDJ Moore - The Bills best player today.  The TD was icing on the cake, but around that, he made catch after catch after catch.\n\n\n\n\tKhalil \"Tupac\" Shakir - Other than the drop at the 3 yard line, he caught everything else thrown his way.\n\n\n\n\tTy Johnson - An absolute FD machine, I had him at 5 FDs, at least.  He was a beast today catching the ball out the backfield.\n\n\n\n\t \n\n\n\n\tGreg \"Groot\" Rousseau - Monster game, two sacks, lots of pressures.  Next week, I'm elevating him to automatic game ball status.\n\n\n\n\tBills secondary - Kept the Fish WRs bottled up all day long, and kept them out the EZ.\n\n\n\n\t \n\n\n\n\tTyler Bass\"-o-Matic\" - 4 of 5 on FGs, led the team in scoring with 14 points.\n\n\n\n\tGreg Dortch - Very impressive yet again on his KO returns, good decision making on his PRs.  \n\n\n\n\t \n\n\n\n\tWHO YA GOT?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T21:05:30.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267462-week-11-fish-v-bills-game-balls/"
     },
     {
       "id": "espn-sabres::50564523",
@@ -207,17 +438,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-22T20:32:47Z",
       "link": "https://www.espn.com/video/clip/_/id/50564495/game-highlights"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/145992/buffalo-bills-defense-does-not-allow-touchdowns",
-      "team": "bills",
-      "title": "Buffalo Bills defense breaks team record for drives without a touchdown allowed",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T20:17:43.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-history/145992/buffalo-bills-defense-does-not-allow-touchdowns"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/145940/bills-injuries-2026-in-game-updates-vs-dolphins",
@@ -264,17 +484,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/145943/buffalo-bills-vs-miami-dolphins-nfl-week-11-fan-discussion"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-game-information/145805/bills-vs-dolphins-nfl-week-11-how-to-watch-game-time-streaming-more",
-      "team": "bills",
-      "title": "Bills vs. Dolphins NFL Week 11: How to watch, game time, streaming, more",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T17:36:48.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-game-information/145805/bills-vs-dolphins-nfl-week-11-how-to-watch-game-time-streaming-more"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/game-24-preview-open-thread-buffalo-sabres-at-tampa-bay-lightning/",
       "team": "sabres",
       "title": "Game #24 Preview & Open Thread: Buffalo Sabres at Tampa Bay Lightning",
@@ -284,17 +493,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-22T17:19:53.000Z",
       "link": "https://www.diebytheblade.com/game-24-preview-open-thread-buffalo-sabres-at-tampa-bay-lightning/"
-    },
-    {
-      "id": "espn-bills::50535179",
-      "team": "bills",
-      "title": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T17:13:29Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267461-rip-tom-jackson-75-denver-broncosespn/",
@@ -308,28 +506,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267461-rip-tom-jackson-75-denver-broncosespn/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/145649/bills-news-what-to-know-ahead-of-week-11-vs-miami-dolphins",
-      "team": "bills",
-      "title": "Bills news: What to know ahead of Week 11 vs. Miami Dolphins",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T14:29:08.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/145649/bills-news-what-to-know-ahead-of-week-11-vs-miami-dolphins"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/145928/buffalo-bills-and-the-current-state-of-strength-of-schedule",
-      "team": "bills",
-      "title": "Buffalo Bills and the current state of strength of schedule",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T12:30:32.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/145928/buffalo-bills-and-the-current-state-of-strength-of-schedule"
-    },
-    {
       "id": "espn-sabres::50550503",
       "team": "sabres",
       "title": "NHL Tonight: Guide to Sunday's five-pack of games",
@@ -341,15 +517,15 @@
       "link": "https://www.espn.com/nhl/story/_/id/50550503/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267458-gameday-112226-game-10-bills-vs-dolphins-2%E2%80%99nd-half-game-thread/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267459-gameday-112226-game-10-bills-vs-dolphins-post-game-thread/",
       "team": "bills",
-      "title": "GAMEDAY 11/22/26 Game 10 Bills vs. Dolphins 2’nd  Half GAME THREAD",
-      "summary": "Go Bills!!!\n\n\n\n\t \n\n\n\n\tBills 20 Dolphins 6\n\n\n\n\t \n\n\n\n\tThe Fins will receive the kickoff.\n\n\n\n\t \n\n\n\n\tPost your 2’nd half thoughts here \n\n\n\n\t \n\n\n\n\tThread opened at halftime and closed at the end of the game.",
+      "title": "GAMEDAY 11/22/26 Game 10 Bills vs. Dolphins post GAME THREAD",
+      "summary": "Go Bills!!!\n\n\n\n\t \n\n\n\n\tBills 26 Dolphins 9\n\n\n\n\t \n\n\n\n\tBills start the season 9-1!!\n\n\n\n\t \n\n\n\n\tPost game thread opens at game end.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-22T12:00:14.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267458-gameday-112226-game-10-bills-vs-dolphins-2%E2%80%99nd-half-game-thread/"
+      "publishedAt": "2026-11-22T12:02:49.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267459-gameday-112226-game-10-bills-vs-dolphins-post-game-thread/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sloppy-third-period-costs-sabres-in-4-3-loss-to-panthers/",
@@ -361,28 +537,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-22T02:14:57.000Z",
       "link": "https://www.diebytheblade.com/sloppy-third-period-costs-sabres-in-4-3-loss-to-panthers/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267455-sunday-plate/",
-      "team": "bills",
-      "title": "Sunday plate",
-      "summary": "What you got?\n\n\n\n\t \n\n\n\n\tBeef on weck, Cubano sliders, wings?\n\n\n\n\t \n\n\n\n\tI think Miami is one of those games you go all out, regardless how good they may be\n\n\n\n\t \n\n\n\n\tPersonally i’m doing up a Buffalo chicken tender recipe from Inta this weekend amongst other things\n\n\n\n\t \n\n\n\n\tWhat you doin?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-21T23:54:17.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267455-sunday-plate/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/145922/buffalo-bills-elevate-tredavious-white-shaq-thompson-from-practice-squad",
-      "team": "bills",
-      "title": "Buffalo Bills elevate Tre’Davious White, Shaq Thompson from practice squad",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-21T21:53:10.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/145922/buffalo-bills-elevate-tredavious-white-shaq-thompson-from-practice-squad"
     },
     {
       "id": "espn-sabres::50554158",
@@ -429,17 +583,6 @@
       "link": "https://www.diebytheblade.com/game-23-preview-open-thread-sabres-at-panthers/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267452-we-play-the-chiefs-just-4-days-after-miami-how-will-that-effect-this-sundays-miami-game/",
-      "team": "bills",
-      "title": "We Play The Chiefs Just 4 Days After Miami. How Will That Effect This Sunday's Miami Game?",
-      "summary": "The Bills coaches have to be thinking about that! They don't want our top players banged up for the big Chiefs game on Thanksgiving. \n\n\n\n\tBut we really want to beat Miami too because it's an AFC East division game.\n\n\n\n\t \n\n\n\n\tWhat do you suppose they will do? I think the Miami game will look different, but I'm not sure how!\n\n\n\n\tI'd sit my stars as much as possible, just give them a few plays. Then bring them in more at the end if I had to. But that's not really a plan!\n\n\n\n\t \n\n\n\n\tAnybody have any specific ideas?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-21T17:53:49.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267452-we-play-the-chiefs-just-4-days-after-miami-how-will-that-effect-this-sundays-miami-game/"
-    },
-    {
       "id": "espn-sabres::50542625",
       "team": "sabres",
       "title": "NHL Tonight: What to watch in all 14 games on Saturday",
@@ -473,39 +616,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-ahls-youngest-player-settled-in-rochester-and-developing-with-amerks/"
     },
     {
-      "id": "espn-bills::50514892",
-      "team": "bills",
-      "title": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
-      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T22:49:33Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms"
-    },
-    {
-      "id": "espn-bills::50543381",
-      "team": "bills",
-      "title": "Bills TE Dalton Kincaid doubtful to play vs. Dolphins",
-      "summary": "Bills starting tight end Dalton Kincaid, their leading receiver, is listed as doubtful for Sunday's game against the Dolphins due to thumb and ankle injuries.",
-      "source": "ESPN · Nick Suss",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T21:49:40Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50543381/bills-te-dalton-kincaid-doubtful-play-vs-dolphins"
-    },
-    {
-      "id": "espn-bills::50501650",
-      "team": "bills",
-      "title": "NFL Week 11 betting odds: Lines and totals for every game",
-      "summary": "Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T20:13:57Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47175/usmnt-weekend-viewing-guide-fall-stretch",
       "team": "usmnt",
       "title": "USMNT weekend viewing guide: Fall Stretch",
@@ -528,17 +638,6 @@
       "link": "https://www.cbssports.com/soccer/news/five-european-teams-to-watch-as-mauricio-pochettino-begins-manchester-united-era/"
     },
     {
-      "id": "espn-bills::50522208",
-      "team": "bills",
-      "title": "NFL Week 11 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "summary": "Joe Burrow vs. Jayden Daniels? Fernando Mendoza vs. Bo Nix? There are 12 more games in Week 11, and we have picks, predictions and more for all of them.",
-      "source": "ESPN · NFL Nation, Pamela Maldonado, Eric Moody and Seth Walder",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T18:48:27Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-dolphins-week-11",
       "team": "bills",
       "title": "Buffalo Bills injury report vs. Dolphins | Week 11",
@@ -548,17 +647,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-20T18:36:48.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-dolphins-week-11"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267442-nfl-considering-change-to-internation-games-travel/",
-      "team": "bills",
-      "title": "NFL considering change to Internation games travel",
-      "summary": "Making teams arrive a certain number of days before, instead of the current policy of letting the team decide when to get there...\n\n\n\n\t \n\n\n\n\tNFL exploring possibility of implementing new travel rules for international games\n\n\n\n\t \n\n\n\n\t\n\t\tQuote\n\t\n\n\t\n\t\t\n\t\t\tWith the NFL's uptick in international games over the last few years, there's no rule requiring a team to arrive in a foreign city by a certain date before a game, but that could change. That could change soon. The NFL is currently exploring a new travel policy that would require each team to spend a minimum number of nights in an international city. In an interview this week with The Athletic, NFL executive VP of club business Peter O'Reilly confirmed that a change could be coming.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T18:22:29.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267442-nfl-considering-change-to-internation-games-travel/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267441-colts-cut-daniel-jones-anthony-richardson-to-start-going-forward/",
@@ -737,17 +825,6 @@
       "link": "https://www.diebytheblade.com/early-lead-is-enough-for-the-sabres-to-snap-the-losing-streak/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267434-bills-to-retire-andre-reeds-number/",
-      "team": "bills",
-      "title": "Bills to retire Andre Reeds number",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-20T00:18:43.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267434-bills-to-retire-andre-reeds-number/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-to-retire-hall-of-fame-wr-andre-reed-s-no-83-during-2027-season",
       "team": "bills",
       "title": "Buffalo Bills to retire Hall of Fame WR Andre Reed's No. 83 during 2027 season",
@@ -792,48 +869,15 @@
       "link": "https://www.diebytheblade.com/game-22-preview-open-thread-buffalo-sabres-at-washington-capitals/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267427-anyone-else-following-the-joe-buck-troy-aikman-divorce/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267412-greg-rousseau-playing-at-an-elite-level-see-second-chart-inside/",
       "team": "bills",
-      "title": "Anyone else following the Joe Buck - Troy Aikman divorce?",
-      "summary": "It’s pretty great, if you’re into that sort of thing. Troy just keeps slinging.\n\n\n\n\t\n\tNew today…",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T17:45:35.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267427-anyone-else-following-the-joe-buck-troy-aikman-divorce/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267424-ravens-%E2%80%9Csend-home%E2%80%9D-marlon-humphrey-deactivated-for-sunday/",
-      "team": "bills",
-      "title": "Ravens “send home” Marlon Humphrey; deactivated for Sunday",
+      "title": "Greg Rousseau playing at an elite level (see second chart inside)",
       "summary": "",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-19T16:52:07.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267424-ravens-%E2%80%9Csend-home%E2%80%9D-marlon-humphrey-deactivated-for-sunday/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267422-the-madden-movie-is-amazing/",
-      "team": "bills",
-      "title": "The Madden movie is amazing",
-      "summary": "I randomly threw on Amazon Prime last night and saw it trending and I only saw half of it but I must say the acting is tremendous, it's witty , hysterical at times, while giving you historical context. \n\n\n\n\tit's a must watch for any football fan , must watch!!,\n\n\n\n\tI can't wait to get home to watch the rest\n\n\n\n\tGo Bills",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T13:46:37.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267422-the-madden-movie-is-amazing/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267415-week-11-fish-v-bills-predict-the-score/",
-      "team": "bills",
-      "title": "Week 11, Fish v. Bills, PREDICT THE SCORE!",
-      "summary": "The Fish make the roady to Highmark to take on the Bills.  I remember when I hated Miami with a passion, but that's since been surpassed by the Cheats, with Miami a close second.  Will the Bills continue to play with their food in the first half?  Will Miami put up a fight?\n\n\n\n\t \n\n\n\n\tNo and no.  I predict that the Bills will be on the gas from the git.  This game is over by halftime and Kyle Allen plays the 4th QTR.  The Bills win in a laugher:\n\n\n\n\t \n\n\n\n\tFish - 12\n\n\n\n\tBeews - 41\n\n\n\n\t \n\n\n\n\tPrevious winners:\n\n\n\n\t \n\n\n\n\tWeek 1 - @colin\n\n\n\n\tWeek 2 - @Freddie's Dead, @HappyDays, @Big Turk\n\n\n\n\tWeek 3 - @Robert Paulson\n\n\n\n\tWeek 4 - @RiotAct\n\n\n\n\tWeek 5 - @Sojourner\n\n\n\n\tWeek 6 - @Reks Ryan, @SydneyBillsFan\n\n\n\n\tWeek 7 - BYE\n\n\n\n\tWeek 8 - @Ridgewaycynic2013, @Ray Stonada\n\n\n\n\tWeek 9 - @BontitaBills\n\n\n\n\tWeek 10 - @agilen, @BigdaddyinOrlando, @eball",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T02:48:38.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267415-week-11-fish-v-bills-predict-the-score/"
+      "publishedAt": "2026-11-18T22:32:05.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267412-greg-rousseau-playing-at-an-elite-level-see-second-chart-inside/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/one-game-at-a-time-the-bills-look-to-continue-extend-five-game-winning-streak-in-week-11",
@@ -867,28 +911,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-18T20:56:55.000Z",
       "link": "https://www.cbssports.com/soccer/news/uswnt-roster-ashley-sanchez-sam-coffey-naomi-girma-concacaf-w-championship/"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/the-bills-host-local-2026-thanksgiving-events-to-give-back-to-the-community",
-      "team": "bills",
-      "title": "The Bills host local 2026 Thanksgiving events to give back to the community",
-      "summary": "Rookies and veterans all head out into Western New York to help families in need",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T20:07:46.000Z",
-      "link": "https://www.buffalobills.com/news/the-bills-host-local-2026-thanksgiving-events-to-give-back-to-the-community"
-    },
-    {
-      "id": "bills-official::https://www.buffalobills.com/news/rochester-s-bella-pastrana-nominated-as-finalist-nfl-latino-youth-honors",
-      "team": "bills",
-      "title": "Rochester's Bella Pastrana nominated as finalist NFL Latino Youth Honors",
-      "summary": "In addition to the eight finalists receiving a grant award that can be used for college, they will also participate in a variety of special events taking place in Los Angeles during Super Bowl LXI Week.",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T17:59:06.000Z",
-      "link": "https://www.buffalobills.com/news/rochester-s-bella-pastrana-nominated-as-finalist-nfl-latino-youth-honors"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/footy-fix-mauricio-pochettinos-goodbye-nwsl-championship-nears-and-uwcl-returns/",
@@ -1012,6 +1034,17 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/47128/usa-vs-haiti-2026-nations-league-man-of-the-match"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267396-espn-playoff-machine/",
+      "team": "bills",
+      "title": "ESPN Playoff Machine",
+      "summary": "Usually starts week 11. It's one of my favorite times of the season. It should hopefully be up this week. Looking forward to it",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T04:38:42.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267396-espn-playoff-machine/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettinos-pivoting-future-manchester-united-move/",
       "team": "usmnt",
       "title": "Mauricio Pochettino's final go with USMNT is all about pivoting to the future before Manchester United move",
@@ -1045,17 +1078,6 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/47110/usmnt-vs-haiti-2026-concacaf-nations-league-quarterfinals-time-tv-schedule-streaming-and-match-thread"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267380-drake-maye-out-for-a-significant-time/",
-      "team": "bills",
-      "title": "Drake Maye out for a significant time",
-      "summary": "You aren’t coming back from an ankle fracture in 8 weeks.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-16T14:07:36.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267380-drake-maye-out-for-a-significant-time/"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-11-16/",
       "team": "sabres",
       "title": "Buffalo Sabres Open Thread, Wk of 11/16",
@@ -1078,26 +1100,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/267376-allen-passing-game-and-offensive-play-calling/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267373-game-week-thread-dolphins-at-bills/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267370-imagine-an-nfl-roster-of-mature-adults-acting-like-mature-adults/",
       "team": "bills",
-      "title": "Game week thread - Dolphins at Bills",
-      "summary": "Yup, it’s time to SQUISH THE FISH!\n\n\n\n\t \n\n\n\n\tWin this game and…\n\n\n\n\t-JA will be 15-3 vs the Dolphins\n\n\n\n\t-We’ll be one win away from tying the all time series with the Dolphins @dollars 2 donuts\n\n\n\n\t-We’ll be four games up on the Pats\n\n\n\n\t-We’ll continue to be the current #1 seed\n\n\n\n\t \n\n\n\n\tGo Bills!",
+      "title": "Imagine an NFL Roster of Mature Adults acting like Mature Adults",
+      "summary": "Bear Bryant:  “When you get in the endzone, act like you’ve been there before.”\n\t\n\tThe day started watching Aidan Hutchinson injuring himself doing the now mandatory defender court jester performance. And the last afternoon games featured George Pickens with a killer taunting penalty during a comeback attempt. \n\t\n\tIt is not about being the \"no fun league\".  I don't care if the league enforces decorum.  I just feel like there is no creativity or novelty in the clownish behavior of most of the players, in the most trivial of circumstances.  Its become a complete bore. \n\t\n\tI suspect that if one of the top teams actually took the tack of \"acting like they had made a tackle, or a run, or reception before\" and just went about their business and got set for the next play, they would actually be able to emotionally dominate the childish players.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-16T06:44:53.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267373-game-week-thread-dolphins-at-bills/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267368-james-cook-milestones/",
-      "team": "bills",
-      "title": "James Cook milestones",
-      "summary": "Now at 971 yards for the season, just 29 yards away from a fourth consecutive 1,000 yard season - only two other backs could have equal active streaks. The longest active streak of consecutive 1,000 yard seasons stands at 4 - Derrick Henry - who would need 311 more yards this year to make that 5. Cook's 971 yards is good for second in the league right now in terms of rushing leaders, with Jahmyr Gibbs the first man to his 1,000 in Germany earlier today.\n\n\n\n\t \n\n\n\n\tHe is also is just 1 rushing touchdown away from a third consecutive double digit season - one of realistically a maximum of five backs who will be able say that by the end of this season. The longest active streak is again King Henry with 10 consecutive seasons of double digit rushing touchdowns.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-16T01:03:12.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267368-james-cook-milestones/"
+      "publishedAt": "2026-11-16T02:25:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267370-imagine-an-nfl-roster-of-mature-adults-acting-like-mature-adults/"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/stars-align-in-dallas-as-sabres-are-shutout-again-2-0/",
@@ -1199,6 +1210,17 @@
       "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-intensity-manchester-united/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267326-eagles-waive-wr-hollywood-brown/",
+      "team": "bills",
+      "title": "Eagles Waive WR Hollywood Brown",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-13T03:22:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267326-eagles-waive-wr-hollywood-brown/"
+    },
+    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/passion-has-helped-alex-lyon-improve-with-age-sabres-goalie-expected-to-start-first-game-soon/",
       "team": "sabres",
       "title": "Passion has helped Alex Lyon improve with age; Sabres goalie expected to start first game soon",
@@ -1276,6 +1298,28 @@
       "link": "https://www.buffalohockeybeat.com/flashback-15-years-ago-rick-jeanneret-and-dale-hawerchuk-were-inducted-into-the-sabres-hall-of-fame/"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267202-next-three-games-quite-possibly-the-key-to-our-entire-postseason-dreams/",
+      "team": "bills",
+      "title": "Next three games quite possibly the key to our entire postseason dreams.",
+      "summary": "To me the most absurd and sad stat of the Josh Allen era Bills teams is them being the only team out of four teams to win a playoff game in six consecutive seasons and not win a Super Bowl. Of course, the stat is even worse than that though as we all know. Those other three teams didn't just win a Super Bowl but they were dynasties that won 3 super bowls. And the Bills haven't just not won a Super Bowl, they haven't even been to a Super Bowl.\n\n\n\n\t \n\n\n\n\tThe next failure would be the Bills inability to secure the 1 seed. They have had the talent to do so for six straight seasons now dating back to 2020. And this isn't just a \"Chiefs problem\" as during that six-year span, the Chiefs have only secured the 1 seed in three of those seasons. Titans, Ravens and Broncos were the other three teams to come away with the one seed in the years the Chiefs floundered. \n\n\n\n\t \n\n\n\n\tA win Monday against the Vikings would put the Bills in a spot they have never been in the Josh Allen era. A 7-1 conference leading record after 8 games played. To my knowledge the Josh Allen led Bills have never a) had sole possession of 1st place in the conference at that point or later in the season and b) have also never tallied 7 wins in their first 8 games played. I feel like over the last seven seasons the Bills have been 6-2 too many times to count. In fact, they were even 6-2 in 2019 before Josh Allen broke out. But they have never achieved that 7-1 record.\n\n\n\n\t \n\n\n\n\tWin on Monday night and then beat the Jets and Dolphins to get to 9-1. No excuses. Just execute and do it. The current era Bills so far have never been able to hold such a record or complete such a task. They've always found a way to stumble. Specifically, the McDermott led Bills seemed to always find a way to lose two consecutive games in either October or November. Well, October has come and gone and by the skin of his teeth, Brady was able to avoid losing two consecutive in the month of October. \n\n\n\n\t \n\n\n\n\tIf the Bills can enter the Thanksgiving game against the Chiefs at 9-1, they will have on paper 5 tough games left. If they can go 3-2 in those games, I think they almost assuredly lock up the 1 seed. Only going 2-3 opens things up as both Cincy and Jacksonville have pretty easy schedules the rest of the way. Jacksonville in particular would have to drop a game or two they \"should win on paper\". \n\n\n\n\t \n\n\n\n\tOne thing seems for certain though, if the Bills don't take care of business in these next three games, I and really none of us should take them seriously for the 1 seed. I don't know if it's simply bad luck or misfortune as the Bills have certainly had multiple 3 loss seasons now and failed to obtain the one seed, but bottom line is sometimes you simply have to have a ridiculous 1 or 2 loss season to get the one seed. And if that is the case they certainly can't afford to drop either of the next three games with the upcoming slate of games that starts on Thanksgiving.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-03T16:38:43.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267202-next-three-games-quite-possibly-the-key-to-our-entire-postseason-dreams/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266989-joe-brady-has-the-highest-career-winning-percentage-of-any-active-nfl-head-coach/",
+      "team": "bills",
+      "title": "Joe Brady has the highest career winning percentage of any active NFL Head Coach",
+      "summary": "Kudos, Coach Brady. now 90 percent. Keep it going.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-10-18T23:35:36.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266989-joe-brady-has-the-highest-career-winning-percentage-of-any-active-nfl-head-coach/"
+    },
+    {
       "id": "cbs-nhl::https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/",
       "team": "sabres",
       "title": "Today's top games to watch, best bets, odds: Guardians vs. Rays, Sabres vs. Canadiens and more",
@@ -1287,15 +1331,15 @@
       "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-guardians-vs-rays-sabres-vs-canadiens-and-more/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266728-how-is-maxwell-hairston-doing/",
       "team": "bills",
-      "title": "The nostalgia thread",
-      "summary": "I’ve started following some accounts that post significant games and memorable Bills plays from the past. They always strike a chord with me and I want to share but don’t know where, so I’m starting this thread. \n\t \n\n\n\n\tok so I cannot believe this game was 5 years ago already. I remember clear as day bc I was off that Monday for Columbus Day and listened to sports radio all day in my glory! Also I remember Spencer brown talking about growing up in the Midwest and sitting in the garage watching and waiting out a storm and I could totally relate having lived in the Midwest now for 30 years.",
+      "title": "How is Maxwell Hairston doing?",
+      "summary": "Allowing the 2nd lowest completion % in the NFL.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-10T22:21:40.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266859-the-nostalgia-thread/"
+      "publishedAt": "2026-10-02T16:13:17.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266728-how-is-maxwell-hairston-doing/"
     }
   ]
 }
