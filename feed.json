@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:41:51.289Z",
+  "generatedAt": "2026-11-26T11:31:04.822Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 2,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 8,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -176,48 +176,103 @@
   ],
   "stories": [
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting",
-      "team": "usmnt",
-      "title": "New coach, same chaos: Man United remain their own worst enemy",
-      "summary": "Man United showed signs of progress under Mauricio Pochettino, but familiar mistakes cost them a UCL win.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267515-gameday-112626-week-12-bills-vs-chiefs-8pm-thanksgiving-1st-half-thread/",
+      "team": "bills",
+      "title": "GAMEDAY 11/26/26 Week 12 Bills vs. Chiefs 8pm Thanksgiving 1st half THREAD",
+      "summary": "Go Bills!!!\n\n\n\n\t \n\n\n\n\tPost your 1st half thoughts here\n\n\n\n\t \n\n\n\n\tThread set to automatically open at 8:19 for the kickoff. The thread will be unpinned and locked during the half.\n\n\n\n\t \n\n\n\n\tEnjoy your turkey!!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-26T02:04:22.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting"
+      "publishedAt": "2026-11-26T11:08:12.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267515-gameday-112626-week-12-bills-vs-chiefs-8pm-thanksgiving-1st-half-thread/"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
-      "team": "usmnt",
-      "title": "Transfer rumors, news: Man United, Barcelona eye USMNT's Albert",
-      "summary": "Both Manchester United and Barcelona are reportedly looking at signing Borussia Dortmund's Mathis Albert. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
+      "id": "espn-bills::50511931",
+      "team": "bills",
+      "title": "Why the Chiefs and Bills can give thanks to 2017 trade that landed Mahomes in KC",
+      "summary": "Kansas City traded up for Patrick Mahomes, while Buffalo got a franchise left tackle and several Pro Bowlers.",
+      "source": "ESPN · Nick Suss",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-26T01:56:20.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes"
+      "publishedAt": "2026-11-26T11:00:03Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50511931/bills-chiefs-2017-trade-no-10-pat-mahomes"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united",
-      "team": "usmnt",
-      "title": "Which USMNT players could follow Pochettino to Manchester United?",
-      "summary": "Man United are a mess, but could Mauricio Pochettino turn to any of his former USMNT players to help pull the Red Devils out of the relegation zone?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267514-happy-thanksgiving-tbders-and-your-families/",
+      "team": "bills",
+      "title": "HAPPY THANKSGIVING TBDers and your families",
+      "summary": "Guys:\n\n\n\n\t \n\n\n\n\tI didn’t see anyone yet this morning so decided why not start a thread for well wishes for the Thanksgiving Holiday.  Between the plethora of football starting last night through tomorrow, our matchup of the year tonight, and time with all of your families.\n\n\n\n\t \n\n\n\n\tWe are hosting early with the all the kids in our Brady Bunch family as we have my three, two of their GF/BF, my two stepsons, one’s GF and my wife.  She tries to embrace this holiday as she grew up in China, but knows it’s important to our family.  It should be a great day, and if anyone is doing something fun, please share.\n\n\n\n\t \n\n\n\n\tHave fun guys!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-26T01:56:20.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united"
+      "publishedAt": "2026-11-26T10:51:32.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267514-happy-thanksgiving-tbders-and-your-families/"
     },
     {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/cozens-tomasino-strike-41-seconds-apart-to-put-senators-in-front/",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jack-quinn-on-tear-developing-into-star-rasmus-dahlin-scores-early-in-win-over-rangers/",
       "team": "sabres",
-      "title": "Cozens, Tomasino strike 41 seconds apart to put Senators in front",
-      "summary": "Watch as Dylan Cozens deflects home the equalizer early in the second period, only for Philip Tomasino to follow with a tally of his own just 41 seconds later to hand the Ottawa Senators a 2-1 lead over the Florida Panthers.",
-      "source": "Sportsnet",
+      "title": "Sabres’ Jack Quinn on tear, developing into star; Rasmus Dahlin scores early in win over Rangers",
+      "summary": "BUFFALO – Jack Quinn’s maturation from a raw youngster struggling to meet his high expectations into a top-flight goal scorer for the Sabres took five seasons.\nAt times, it felt like Quinn, who extended his goal streak to a career-high four games in Wednesday’s 5-1 win over the New York Rangers, might never develop into the player the Sabres envisioned when they drafted him eighth overall in 2020.\nThe slick winger battled injuries and ineffectiveness. ... Read the full article \nThe post Sabres’ Jack Quinn on tear, developing into star; Rasmus Dahlin scores early in win over Rangers first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T04:56:51.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-jack-quinn-on-tear-developing-into-star-rasmus-dahlin-scores-early-in-win-over-rangers/"
+    },
+    {
+      "id": "espn-bills::50577887",
+      "team": "bills",
+      "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
+      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
+      "source": "ESPN · Anthony Gharib",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-26T01:23:45.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/cozens-tomasino-strike-41-seconds-apart-to-put-senators-in-front/"
+      "publishedAt": "2026-11-26T03:44:06Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267512-kc%E2%80%99s-kenneth-walker-out-versus-the-bills/",
+      "team": "bills",
+      "title": "KC’s Kenneth Walker OUT versus the Bills !",
+      "summary": "KANSAS CITY, Mo. -- Chiefs running back Kenneth Walker III will not play in Thursday night's showdown against the Buffalo Bills, the team announced Wednesday.\n\n\n\n\tWalker will miss his third consecutive game with a grade-two groin strain. Since the Chiefs are playing on a short week, the team is holding Walker out against the Bills to give him more time to rest. After playing the Bills, the Chiefs will face the Los Angeles Rams on the road next Thursday night. Walker was a limited participant in Tuesday's practice, the Chiefs' lone on-field work this week.\n\n\n\n\t \n\n\n\n\tStarting in Walker's place will be rookie running back Emmett Johnson, who has been impressive in his past four games. During that stretch, Johnson produced 491 all-purpose yards and five total touchdowns, including back-to-back 100-plus yard rushing efforts in wins over Atlanta and Arizona the last two weeks in Walker's absence.\n\n\n\n\t\"It's been great having an opportunity to watch Emmett do his thing because that's what he's supposed to do,\" offensive coordinator Eric Bieniemy said Monday. \"The next man should always have that mentality because we're coaching the starter to be the starter, but we're also coaching that next man to be prepared to be the man. I think Emmett has done a great job, but we also understand the value that Kenneth brings.\"",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T03:24:05.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267512-kc%E2%80%99s-kenneth-walker-out-versus-the-bills/"
+    },
+    {
+      "id": "espn-sabres::50600707",
+      "team": "sabres",
+      "title": "Eric Robinson and Jaccob Slavin score in 3rd period to help Hurricanes rally past Lightning 3-1",
+      "summary": "— Eric Robinson and Jaccob Slavin scored third-period goals 1:37 apart, Brandon Bussi stopped 32 shots and the Carolina Hurricanes rallied to beat the Tampa Bay Lightning 3-1 on Wednesday night.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T02:56:33Z",
+      "link": "http://www.espn.com/nhl/recap?gameId=401892783"
+    },
+    {
+      "id": "espn-sabres::50600705",
+      "team": "sabres",
+      "title": "Carolina Hurricanes vs. Tampa Bay Lightning: Game Highlights",
+      "summary": "Carolina Hurricanes vs. Tampa Bay Lightning: Game Highlights",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T02:56:32Z",
+      "link": "https://www.espn.com/video/clip/_/id/50600705/game-highlights"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-5-1-rangers-recap-homecoming-thanksgiving-night-of-five/",
+      "team": "sabres",
+      "title": "Sabres make it a night of fives against the Rangers",
+      "summary": "Buffalo bring the salt and pepper on homecoming night \n\n\n\nBoxscore\n\n\n\nScore: Buffalo Sabres 5-1 New York RangersShots: BUF 30-30 NYR\n\n\n\nBuffalo Sabres Goals: Rasmus Dahlin 5 (Kulich, Thompson), Josh Norris 5 (Doan, Zucker), Benson 5 (Dahlin), Quinn 14 (Krebs, Ostlund), Kulich 5 (Thompson, Benson)New York Rangers Goals: Gavrikov 2 (Fox, Raddysh)\n\n\n\nThanksgiving Eve has long been a Buffalo tradition when a lot of folks who have since moved away from the Western New York area come back home for the holiday and reacquaint themselves with friends and family. Among the younger crowd, it’s also very well-known as being the biggest drinking night of the year. In recent years the NHL have taken advantage of this influx by ensuring the Sabres have at least one home game around the Turkey Day holiday, and this year the city gets the full turkey sandwich with home games on Wednesday and Friday and the Buffalo Bills taking on their Thanos the Kansas City Chiefs on Thanksgiving Day. There are going to be some very hungover people on Saturday!     \n\n\n\nQuick Thoughts\n\n\n\nFirst Period – Melted Gobbler Sandwich\n\n\n\nThe homecoming crowd was already pumped up by the awesome salt and pepper shaker giveaway. Will this pair turn the campaign around like the famous butter dish did last season?!\n\n\n\n\nAn up-close look at the Salt & Pepper shakers! 🔎Get yours at tonight's game  → https://t.co/bCPfhQRoB4#LetsGoBuffalo📷 | @TopsMarkets pic.twitter.com/x8TPWl7zKy&mdash; Buffalo Sabres (@BuffaloSabres) November 25, 2026\n\n\n\n\nThe long lines for the incredible offerings from the KeyBank Center executive chef Michael Buonopane were deserved too as we saw during the first period break with Brian Duff, Marty Biron, Meghan Chayka and commentators Dan Dunleavy and Rob Ray gorging themselves on the holiday treats. \n\n\n\n\nStart your Thanksgiving feast early with our special concessions at tonight's game! 🍽️Learn more → https://t.co/UYPpBsWy3i#LetsGoBuffalo | @TopsMarkets pic.twitter.com/34Vq7yVKcv&mdash; Buffalo Sabres (@BuffaloSabres) November 25, 2026\n\n\n\n\nCaptain Rasmus Dahlin opened the game like he was in a hurry to end proceedings and get back home, feeding off the energy in the building and putting the Sabres up by one after just seventeen seconds with a great jump up into the offensive zone. \n\n\n\n\nRas got 🆙#LetsGoBuffalo pic.twitter.com/2ucGdaeiRa&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nThe Rangers are not abysmal this season and showed why as they refused to fold despite finding themselves behind early on with a partisan home crowd. They actually had the edge on scoring chances without actually challenging goalie Ukko-Pekka Luukkonen too much. \n\n\n\nSecond Period – Fried Stuffing\n\n\n\nBreakfast is my favorite meal, and the post-Thanksgiving breakfast is always an opportunity to put together something incredible – turkey, stuffing and anything else in a waffle iron with batter poured over it, finished with maple syrup, gravy and cranberry jelly is always an occasion in our household. The fried stuffing sticks looked a lot like that. And like most deep-fried goodness that tastes great and fills you up but then leaves you feeling guilty, so did this period.    \n\n\n\nThe Sabres had a distinct advantage with their speed and that manifested itself with more odd-man rushes than the Sabres have had in recent games. Two and a half minutes into the period Josh Doan found a streaking Josh Norris behind the last man at the back post and the much-maligned center got his first point in five games with a goal. \n\n\n\n\nThe feed and the finish. 🤌 pic.twitter.com/dWn9pTvmPJ&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nThe loud crowd got even more raucous after that, and then just over thirty seconds later, the lead was 3-0. A poor giveaway by goalie Joonas Korpisalo saw Benson regain possession in the trapezoid, and a sustained spell of possession ended up with a Dahlin shot getting tipped in by Benny. \n\n\n\n\nBig time Benny‼️#LetsGoBuffalo pic.twitter.com/yTpEJRk9cS&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nThe vibes had been festive at KBC but they quickly turned jubilant at that point. Upie needed to be at his best though to keep things like they were as Buffalo seemed to ease off the gas pedal towards the end of the period. But as things always go, an unfortunate deflection off McLeod’s stick gave Gavrikov a goal from the blue line with less than a minute left to play in the period. \n\n\n\nSabres led in shots 26-21 but behind on scoring chances 14-12 after two. \n\n\n\nThird Period – Pecan Pie Shake\n\n\n\nBenson took an ill-advised penalty early in the third, tripping JT Miller less than a minute into the period. The PK was good though and kept things as they were, not allowing any shots during the power play with UPL also making some big saves in that spell. \n\n\n\nAt the halfway mark the Sabres pounced on the Rags cheating down the ice seeking the equalizer, with Krebs breaking away down the middle. He found Jack Quinn streaking down the right on an odd-man rush and the on-fire winger wired a shot past Korpisalo’s blocker to make it 4-1 and quash any thoughts of a comeback. \n\n\n\n\nJack Quinn can't be stopped. 😤#LetsGoBuffalo pic.twitter.com/gwP3YyhV9F&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nThe party was well and truly on at that point with the wave doing the rounds around KBC and all was well once again within the Sabrehood. \n\n\n\nJiri Kulich decided to show that he was well and truly back, and that Sabres top line showed tonight they can take on any team in the league with Benson and Thompson driving the puck forward. \n\n\n\n\nKuli's cleaning up. 🧹#LetsGoBuffalo pic.twitter.com/k9EP4qwdxq&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nAt The Horn\n\n\n\nThe Sabres made it four straight games where they have played well and been the better side, and for a poor third period in Sunrise, FL they would be sitting on a four-game winning streak tonight. It was a night of fives aside from that with four different players getting their fifth goal of the season as Buffalo scored five in the win. \n\n\n\nLuukkonen has the most wins of the Sabres’ three-headed goalie monster and was at his best tonight. He was dialed in and didn’t let anything faze him, including a couple of big saves on a late third period power play, and fully deserved the ‘Ryan Miller shutout’ he got. \n\n\n\nKrebs had a great game, showed lots of fight, was physical throughout, loved his hit on Zibanejad and got the cherry on top with his twelfth assist of the season too. \n\n\n\nWhere would Buffalo be without our resident carny Zach Benson? While other players have been in and out of the roster and hot and cold on the ice, the diminutive Tasmanian Devil has just continued to be a dervish on the ice with and without the puck. Many try to put him down for having a ‘weak’ shot but he’s got 23 points in 25 games and is third in scoring on the team, so guess who’s having the last laugh?\n\n\n\nBuffalo have traditionally struggled against the Pittsburgh Penguins, but will welcome the Eastern Conference’s bottom team on Friday, where hopefully we’re all coming off a big Bills win and a good Thanksgiving dinner. \n\n\n\nHeader image courtesy of Buffalo Sabres",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T02:52:43.000Z",
+      "link": "https://www.diebytheblade.com/sabres-5-1-rangers-recap-homecoming-thanksgiving-night-of-five/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/146362/los-angeles-rams-vs-green-bay-packers-thanksgiving-eve-fan-discussion",
@@ -242,39 +297,6 @@
       "link": "https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal",
-      "team": "usmnt",
-      "title": "Pochettino: Man United were 'punished a lot' by officials in Sporting draw",
-      "summary": "Mauricio Pochettino said Manchester United were \"punished\" by the officials in the 2-2 draw with Sporting CP as he was denied a first win as head coach.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T01:00:51.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50474392/concacaf-w-championship-uswnt-world-cup-qualification",
-      "team": "usmnt",
-      "title": "Concacaf W Championship: How USWNT can qualify for World Cup, matchups, format",
-      "summary": "The United States can seal its place at the 2027 Women's World Cup at the Concacaf W Championship. Here's everything you need to know.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T00:40:56.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50474392/concacaf-w-championship-uswnt-world-cup-qualification"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/sabres-dahlin-wastes-no-time-scores-17-seconds-in-vs-rangers/",
-      "team": "sabres",
-      "title": "Sabres’ Dahlin wastes no time, scores 17 seconds in vs. Rangers",
-      "summary": "Watch as Buffalo Sabres defenceman Rasmus Dahlin goes top shelf on Jonas Korpisalo to open the scoring just 17 seconds into the game against the New York Rangers.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T00:24:08.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/sabres-dahlin-wastes-no-time-scores-17-seconds-in-vs-rangers/"
-    },
-    {
       "id": "espn-bills::50588078",
       "team": "bills",
       "title": "NFL Week 12 arrivals: Aaron Donald leads arrivals ahead of Rams-Packers",
@@ -284,28 +306,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-25T23:58:11Z",
       "link": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals"
-    },
-    {
-      "id": "espn-bills::50577887",
-      "team": "bills",
-      "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
-      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T23:37:34Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267509-aaron-rodgers-released/",
-      "team": "bills",
-      "title": "Aaron Rodgers Released",
-      "summary": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching\n\n\n\n\t \n\n\n\n\tIt's like watching Day's of Our Lives",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T23:13:49.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267509-aaron-rodgers-released/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/social-video-twitter/47242/usa-soccercast-episode-204-coaching-candidates-and-copa-america",
@@ -352,17 +352,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146274/why-tackling-will-be-of-utmost-importance-for-buffalo-bills-vs-chiefs-on-thanksgiving"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267507-why-did-allen-seek-out-rodriguez-post-game/",
-      "team": "bills",
-      "title": "Why did Allen seek out Rodriguez post game?",
-      "summary": "Anyone have more details about this story?  \n\t \n\n\n\n\tadmittedly I really wanted the bills to draft Rodriguez, so I am more interested in this than normal.\n\n\n\n\t \n\n\n\n\tJust curious if Allen was asked about it in a press conference.\n\n\n\n\t \n\n\n\n\thttps://www.facebook.com/story.php?story_fbid=1781886737275872&id=100063636873495",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T21:34:40.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267507-why-did-allen-seek-out-rodriguez-post-game/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/it-s-always-a-challenge-how-the-bills-are-preparing-for-a-high-powered-kansas-city-chiefs-offense",
       "team": "bills",
       "title": "'It's always a challenge' | How the Bills are preparing for a high-powered Kansas City Chiefs offense",
@@ -405,17 +394,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-25T20:06:30Z",
       "link": "https://www.espn.com/nfl/story/_/id/50596159/bills-kincaid-benford-5-starters-listed-questionable"
-    },
-    {
-      "id": "espn-bills::50594342",
-      "team": "bills",
-      "title": "Why Stephen A. is taking Josh Allen over Patrick Mahomes ... right now",
-      "summary": "Why Stephen A. is taking Josh Allen over Patrick Mahomes ... right now",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T19:58:01Z",
-      "link": "https://www.espn.com/video/clip/_/id/50594342/why-stephen-taking-josh-allen-patrick-mahomes-right-now"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/146344/bills-have-options-chiefs-have-absences-ahead-of-thanksgiving-showdown",
@@ -506,15 +484,15 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-news/146326/buffalo-bills-wont-face-chiefs-star-running-back-kenneth-walker-on-thanksgiving"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267501-last-psl-payment-is-here/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267501-yay-everyone%E2%80%99s-last-psl-payment-is-dec-1st/",
       "team": "bills",
-      "title": "Last PSL payment is here!",
+      "title": "Yay! Everyone’s last PSL payment is Dec 1st!",
       "summary": "It feels great that this is the last PSL payment.\n\n\n\n\tAnd now that it's over, I'm really happy that we pulled the trigger and kept our seats.\n\n\n\n\tLots of new adventures to come starting with QB 17. \n\n\n\n\tGo Bills!",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-11-25T17:04:30.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267501-last-psl-payment-is-here/"
+      "link": "https://www.twobillsdrive.com/community/topic/267501-yay-everyone%E2%80%99s-last-psl-payment-is-dec-1st/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267500-what-happened-to-home-field-advantage-in-the-nfl/",
@@ -594,17 +572,6 @@
       "link": "https://www.espn.com/nhl/story/_/id/50587368/nhl-2026-27-playoffs-standings-all-32-thanksgiving-panic-index-rankings-tiers"
     },
     {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50542113/bj-callaghan-nashville-usmnt-coach",
-      "team": "usmnt",
-      "title": "How B.J. Callaghan's long, winding coaching journey led to Nashville success",
-      "summary": "Callaghan was a fairly unassuming hire when he took over Nashville. Now he's a Supporters' Shield-winning coach being linked with the USMNT job.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T13:22:06.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50542113/bj-callaghan-nashville-usmnt-coach"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-12-vs-chiefs-nfl-thanksgiving-2026",
       "team": "bills",
       "title": "What Bills fans can expect at Highmark Stadium for Week 12 vs. Chiefs | NFL Thanksgiving 2026",
@@ -614,17 +581,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-25T13:00:24.000Z",
       "link": "https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-12-vs-chiefs-nfl-thanksgiving-2026"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50581456/manchester-united-premier-league-pochettino-ratcliffe",
-      "team": "usmnt",
-      "title": "Man United crisis explained: How did it start? Who is to blame? Is Pochettino the answer?",
-      "summary": "Struggling Manchester United find themselves in a familiar place and fans are getting tired of the cycle repeating itself. But can Mauricio Pochettino find the answer, or do the issues run deeper?",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T09:14:07.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50581456/manchester-united-premier-league-pochettino-ratcliffe"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-early-struggles-sabres-jiri-kulich-becoming-force-at-center-on-line-with-zach-benson-and-tage-thompson/",
@@ -669,6 +625,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-25T02:40:37.000Z",
       "link": "https://www.buffalobills.com/news/all-eyes-are-on-us-the-bills-share-their-excitement-ahead-of-thanksgiving-matchup-with-the-chiefs"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267496-allen%E2%80%99s-deep-throw-struggles/",
+      "team": "bills",
+      "title": "Allen’s deep throw struggles",
+      "summary": "Hat tip to @Alphadawg7. Joe Marino has the goods, starting at the 3:55 mark:",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T01:26:56.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267496-allen%E2%80%99s-deep-throw-struggles/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-coverage/47193/usa-vs-el-salvador-2026-concacaf-w-championship-scouting-el-salvador",
@@ -792,17 +759,6 @@
       "link": "https://www.starsandstripesfc.com/uswnt-news/47218/2031-womens-world-cup-to-feature-dynamic-ticket-pricing"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267492-colts-stole-our-3rd-string-qb/",
-      "team": "bills",
-      "title": "Colts stole our 3rd string QB",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T20:09:43.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267492-colts-stole-our-3rd-string-qb/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/social-video-twitter/47210/usa-to-host-2028-copa-america",
       "team": "usmnt",
       "title": "USA to host 2028 Copa América",
@@ -812,17 +768,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-24T20:03:32.000Z",
       "link": "https://www.starsandstripesfc.com/social-video-twitter/47210/usa-to-host-2028-copa-america"
-    },
-    {
-      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50583713/us-host-copa-america-2028-usmnt",
-      "team": "usmnt",
-      "title": "Another U.S.-held Copa América is great for USMNT but not South America",
-      "summary": "For the third time in 12 years, the Copa América will be held in the U.S. That's exciting for the USMNT but it robs South America of the game it loves.",
-      "source": "ESPN Soccer",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T18:05:13.000Z",
-      "link": "https://www.espn.com/soccer/story/_/id/50583713/us-host-copa-america-2028-usmnt"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/top-storylines-for-bills-vs-chiefs-week-12-thanksgiving",
@@ -935,17 +880,6 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-to-retire-hall-of-fame-wr-andre-reed-s-no-83-during-2027-season"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267478-do-fans-really-%E2%80%9Ccare%E2%80%9D-who-wins-mvp/",
-      "team": "bills",
-      "title": "Do fans really “care” who wins MVP?",
-      "summary": "I’m getting real sick of all of the “MVP race” talk, and the hate and rage-baiting on social medial (primarily X). Why do people get so revved up about this? I was happy Josh got one in ‘24 (for his resume) but this is a topic I spend almost no time thinking about.\n\n\n\n\t \n\n\n\n\tI realize I can just stay off social media and the talking head shows, but I’m curious as to how much fans really care about this stuff?\n\n\n\n\t \n\n\n\n\tI don’t think Josh gives a damn what his stats are as long as there is a W after the game.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-23T15:23:49.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267478-do-fans-really-%E2%80%9Ccare%E2%80%9D-who-wins-mvp/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/47106/usmnt-midweek-viewing-guide-dest-and-pepi-at-the-bernabeu",
       "team": "usmnt",
       "title": "USMNT midweek viewing guide: Dest and Pepi at the Bernabéu",
@@ -1045,17 +979,6 @@
       "link": "http://www.espn.com/nhl/recap?gameId=401892768"
     },
     {
-      "id": "espn-sabres::50564495",
-      "team": "sabres",
-      "title": "Carolina Hurricanes vs. New York Rangers: Game Highlights",
-      "summary": "Carolina Hurricanes vs. New York Rangers: Game Highlights",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T20:32:47Z",
-      "link": "https://www.espn.com/video/clip/_/id/50564495/game-highlights"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-collapse-liverpool/",
       "team": "usmnt",
       "title": "Welcome to Manchester United: Mauricio Pochettino faces grim reality after collapse against Liverpool",
@@ -1076,17 +999,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-22T17:19:53.000Z",
       "link": "https://www.diebytheblade.com/game-24-preview-open-thread-buffalo-sabres-at-tampa-bay-lightning/"
-    },
-    {
-      "id": "espn-sabres::50550503",
-      "team": "sabres",
-      "title": "NHL Tonight: Guide to Sunday's five-pack of games",
-      "summary": "Find game previews, betting intel, broadcast information, stats and highlights here.",
-      "source": "ESPN · ESPN staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T12:26:55Z",
-      "link": "https://www.espn.com/nhl/story/_/id/50550503/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
     },
     {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sloppy-third-period-costs-sabres-in-4-3-loss-to-panthers/",
@@ -1210,17 +1122,6 @@
       "link": "https://www.diebytheblade.com/game-22-preview-open-thread-buffalo-sabres-at-washington-capitals/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267421-billsgiving-looking-like-a-snow-game-update-rain-%F0%9F%98%92/",
-      "team": "bills",
-      "title": "Billsgiving looking like a snow game (update: rain 😒)",
-      "summary": "Weather in OP for Bills-Chiefs is 70% chance of snow day and night, 1-3 inches accumulation and 32 degrees at game time \n\n\n\n\t \n\n\n\n\tNew Highmark will look beautiful but thankful for the heated field \n\n\n\n\t \n\n\n\n\tOTOH Bills-Fish is going to be 65! Just a casual 30 degree swing in 4 days.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T13:01:42.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267421-billsgiving-looking-like-a-snow-game-update-rain-%F0%9F%98%92/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/uswnt-roster-ashley-sanchez-sam-coffey-naomi-girma-concacaf-w-championship/",
       "team": "usmnt",
       "title": "USWNT roster for Concacaf W Championship: Ashley Sanchez back, Sam Coffey returns, and Naomi Girma misses out",
@@ -1252,17 +1153,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-18T16:59:18.000Z",
       "link": "https://www.diebytheblade.com/jedi-council-14/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-losing-streak-hits-5-games-after-4-3-loss-at-philadelphia/",
-      "team": "sabres",
-      "title": "Sabres losing streak hits 5 games after 4-3 loss at Philadelphia",
-      "summary": "Buffalo blows two leads as November woes continue\n\n\n\nBox score\n\n\n\nScore: Philadelphia Flyers 4, Buffalo Sabres 3 Shots: Philadelphia 33, Buffalo 19\n\n\n\nBuffalo Sabres Goals: Mattias Samuelsson 3 (Dahlin, Doan), Tage Thompson 13 (Benson, Kozak), Jiri Kulich 2 (Thompson)Philadelphia Flyers Goals: Jamie Drysdale 2 (Michkov, Cates), Owen Tippett (Drysdale, Knuble), Travis Sanheim 4 (Dvorak, Barkey), Christian Dvorak 4 (Seeler, Michkov)\n\n\n\nQuick Thoughts\n\n\n\nFirst Period – Foot on the gas\n\n\n\nThe Sabres got off to about as fast of a start as you could want, as Mattias Samuelsson roofed a puck from a tough angle past Flyers goalie Joseph Woll to put Buffalo up 1-0 just 47 seconds into the game. The goal happened thanks to a great battle and keep in from Peyton Krebs.\n\n\n\n\nMattias Samuelsson asks \"You like that?\" to someone after scoring a goal with a nice shot, 1-0  #LetsGoBuffalo #LetsGoFlyers pic.twitter.com/V1qRtloYe8&mdash; Buffalo Hockey Moments (@SabresPlays) November 18, 2026\n\n\n\n\nTage Thompson had two great looks on the ensuing shift, forcing a save from Woll on a 2-on-1, and shortly after backhanded the puck just wide with a gaping net.\n\n\n\nA few minutes later, Jack Quinn used great speed to fly past Oliver Bonk and get in clean on Woll, but couldn’t quite lift the puck over the netminder’s outstretched pad.\n\n\n\nJosh Doan took a high-sticking penalty with 11 minutes remaining in the period, but Buffalo successfully killed it off without allowing any dangerous chances.\n\n\n\nSabres goalie Alex Lyon made his best save of the period to deny Sean Couturier, who had a point blank look in the low slot but only found the glove of Lyon with just over five minutes remaining. \n\n\n\nWoll made a great save to keep the Flyers deficit at 1-0, denying Quinn’s backhand effort from the slot with a blocker save. Off the rebound, with Woll sprawled in the crease, Rasmus Dahlin ripped a shot from the point that rung off the crossbar.\n\n\n\nBuffalo went to the power play for the final 53 seconds of the period, but probably would have been better off without it, as the Sabres failed to get any consistent zone time. With a second remaining, Noah Cates had a great shorthanded look from the slot after receiving a pass from the corner, but Quinn’s back check broke up the chance.\n\n\n\nDespite the poor end to the first, Buffalo played a strong period overall, out-chancing the Flyers 8-3.\n\n\n\nSecond Period – Hit the brakes\n\n\n\nBuffalo’s power play that continued into the second period ended without mustering a shot on goal, and was a sign of things to come.\n\n\n\nShortly after the Flyers’ penalty expired, they began controlling play. Owen Power had a great block to deny a scoring opportunity, and Lyon followed that up with a strong save to deny Travis Konecny.\n\n\n\nThe Flyers eventually tied the game with 13:21 remaining in the period, as Jamie Drysdale powered a one-timer from the near face-off circle past Lyon.\n\n\n\nThe Sabres’ first shot on goal of the second came on a Dahlin shot from the point, just under nine minutes into the period.\n\n\n\nFrom seemingly nothing, Buffalo managed to retake the lead. Zach Benson did a great job stealing a puck below the goal line, and he rounded the net to find an open Thompson, who beat Woll with a one-time blast for his team-leading 13th goal of the season, giving the Sabres a 2-1 lead.\n\n\n\n\nBenson –> Thompson, 2-1 #LetsGoBuffalo #LetsGoFlyers pic.twitter.com/RA4qIn2vRV&mdash; Buffalo Hockey Moments (@SabresPlays) November 18, 2026\n\n\n\n\nThree and a half minutes later, Philadelphia’s pressure culminated in the tying goal, as Drysdale backhanded a puck toward the net from the point that somehow avoided the sticks of three Sabres, and found Owen Tippett alone on the doorstep for a redirect past Lyon to make it 2-2.\n\n\n\nWith just about two minutes remaining, Buffalo finally got its cycle going in the offensive zone for its best shift of the period. It culminated in a Noah Ostlund slapshot from the point, which deflected to Conor Timmins, who probably would’ve scored if he wasn’t hooked by Tyson Foerster. \n\n\n\nThe Sabres’ power play was short-lived, as Thompson took a high-sticking penalty with 32 seconds remaining in the period to negate the man-advantage.\n\n\n\nAfter coming out of the gates strong, the Sabres looked much like they have throughout their four-game losing streak in the second period.\n\n\n\nThird Period – Wheels fall off\n\n\n\nIn the blink of an eye, the Sabres were trailing for the first time in the game.\n\n\n\nWhile play was still at 4-on-4, Travis Sanheim snuck down from the point, received a cross-ice pass and ripped a shot cross body on Lyon to make it 3-2 Flyers, just 29 seconds into the period.\n\n\n\nLyon kept Buffalo in the game with a big save a couple minutes later, pushing across to deny Tippett on a 2-on-1, and that stop proved big. A minute later, Thompson picked up a loose puck in the high slot and used some silky handles to maneuver around two Flyers, before setting up Kulich for a one-time blast that beat Woll on the glove side, making it 3-3.\n\n\n\nThe tie was short-lived, however, as Christian Dvorak streaked down the near wing and let loose a shot that found the far corner, giving Philadelphia the lead back, 4-3, less than a minute after Kulich’s tally. It appeared Lyon’s positioning was a bit too low toward the goal line when squaring up to Dvorak, but it was still a pinpoint shot from the veteran forward.\n\n\n\n\nPhiladelphia goal!Scored by Christian Dvorak with 14:37 left in the 3rd. Assisted by Nick Seeler and Matvei Michkov.PHI: 4 | BUF: 3#BUFvsPHI #LetsGoFlyers #LetsGoBuffalo pic.twitter.com/4VTwhn1Kyj&mdash; NHL Goals (@nhl_goal_bot) November 18, 2026\n\n\n\n\nJust like against Dallas, Buffalo took a killer of a late penalty, as Krebs went to the box for a hook with eight mintues remaining. The Sabres did manage to kill the penalty and keep themselves in the game, despite a couple quality chances for Philadelphia.\n\n\n\nWith about five minutes to play, Ostlund made a great play at the blue line to gain a partial breakaway, but instead of shooting, opted for a drop pass to Zach Metsa, whose shooting lane was taken away and then couldn’t find a pass to the back post. It was a questionable decision, and wound up being Buffalo’s best look at the goal the rest of the game, as their 6-on-5 mustered nothing and gave Philadelphia a 4-3 win.\n\n\n\nQuick Thoughts\n\n\n\nWe’re now a quarter of the way through the season, and the Sabres are quickly slipping back to mediocrity.\n\n\n\nThey have now lost five consecutive games, have been outshot all three games of this road trip, and sit seven points out of a playoff spot. A number of players who were counted on to be contributors this season have been pedestrian at best throughout the skid, and frankly, the whole campaign. \n\n\n\nIt was yet another negative goals saved above expected performance for a Buffalo goaltender, the Sabres offense mustered just 2.24 expected goals on the night, according to HockeyStats.com, and were outshot 27-11 over the final two periods after a strong first frame. Buffalo is now 0-2-0 against the lowly Flyers this season.\n\n\n\nI do have good news or bad news, depending on how optimistic or pessimistic you are: there’s still three quarters of the season left.\n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-11-17: pic.twitter.com/XzWvqCjYr6&mdash; HockeyStatCards (@hockeystatcards) November 18, 2026\n\n\n\n\nNext up\n\n\n\nThe Sabres continue their road trip in Washington, where they’ll face the Capitals at 7 p.m. Thursday.",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T04:00:08.000Z",
-      "link": "https://www.diebytheblade.com/sabres-losing-streak-hits-5-games-after-4-3-loss-at-philadelphia/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/usmnt-haiti-christian-pulisic-mauricio-pochettino/",
@@ -1340,17 +1230,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-12T05:52:43.000Z",
       "link": "https://www.buffalohockeybeat.com/sabres-fall-apart-after-comeback-lose-big-to-lightning-beating-ourselves/"
-    },
-    {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/would-a-trip-to-rochester-help-sabres-jiri-kulich-find-some-confidence/",
-      "team": "sabres",
-      "title": "Would a trip to Rochester help Sabres’ Jiri Kulich find some confidence?",
-      "summary": "BUFFALO – On one hand, Jiri Kulich scored 15 goals and spent the end of his rookie season centering the Sabres’ No. 1 line. On the other hand, he just missed nearly a full season recovering from a blood clot and has struggled to find his game this year.\nCould a short trip to the AHL benefit Kulich, perhaps infuse him with some much-needed confidence?\nThe Czech, 22, is expected to be healthy scratch for ... Read the full article \nThe post Would a trip to Rochester help Sabres’ Jiri Kulich find some confidence? first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-11T17:30:21.000Z",
-      "link": "https://www.buffalohockeybeat.com/would-a-trip-to-rochester-help-sabres-jiri-kulich-find-some-confidence/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad-now-released-on-1121/",
