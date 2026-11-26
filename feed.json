@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:49:03.623Z",
+  "generatedAt": "2026-11-26T02:41:51.289Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 0,
+      "itemCount": 2,
       "error": null
     },
     {
@@ -110,14 +110,14 @@
       "id": "espn-soccer-usmnt",
       "label": "ESPN Soccer",
       "team": "usmnt",
-      "itemCount": 0,
+      "itemCount": 8,
       "error": null
     },
     {
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 10,
+      "itemCount": 8,
       "error": null
     },
     {
@@ -152,8 +152,8 @@
     {
       "team": "sabres",
       "state": "final",
-      "headline": "Final · W 6-2",
-      "detail": "at TBL"
+      "headline": "Final · W 5-1",
+      "detail": "vs NYR"
     },
     {
       "team": "bandits",
@@ -175,6 +175,259 @@
     }
   ],
   "stories": [
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting",
+      "team": "usmnt",
+      "title": "New coach, same chaos: Man United remain their own worst enemy",
+      "summary": "Man United showed signs of progress under Mauricio Pochettino, but familiar mistakes cost them a UCL win.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T02:04:22.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
+      "team": "usmnt",
+      "title": "Transfer rumors, news: Man United, Barcelona eye USMNT's Albert",
+      "summary": "Both Manchester United and Barcelona are reportedly looking at signing Borussia Dortmund's Mathis Albert. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T01:56:20.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united",
+      "team": "usmnt",
+      "title": "Which USMNT players could follow Pochettino to Manchester United?",
+      "summary": "Man United are a mess, but could Mauricio Pochettino turn to any of his former USMNT players to help pull the Red Devils out of the relegation zone?",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T01:56:20.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/cozens-tomasino-strike-41-seconds-apart-to-put-senators-in-front/",
+      "team": "sabres",
+      "title": "Cozens, Tomasino strike 41 seconds apart to put Senators in front",
+      "summary": "Watch as Dylan Cozens deflects home the equalizer early in the second period, only for Philip Tomasino to follow with a tally of his own just 41 seconds later to hand the Ottawa Senators a 2-1 lead over the Florida Panthers.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T01:23:45.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/cozens-tomasino-strike-41-seconds-apart-to-put-senators-in-front/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/146362/los-angeles-rams-vs-green-bay-packers-thanksgiving-eve-fan-discussion",
+      "team": "bills",
+      "title": "Los Angeles Rams vs. Green Bay Packers, Thanksgiving Eve fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T01:06:18.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/146362/los-angeles-rams-vs-green-bay-packers-thanksgiving-eve-fan-discussion"
+    },
+    {
+      "id": "espn-bills::50415106",
+      "team": "bills",
+      "title": "Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
+      "summary": "Odds, analysis and picks to help you bet Bears-Lions, Eagles-Cowboys and Chiefs-Bills on Thanksgiving.",
+      "source": "ESPN · Eric Moody",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T01:02:11Z",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal",
+      "team": "usmnt",
+      "title": "Pochettino: Man United were 'punished a lot' by officials in Sporting draw",
+      "summary": "Mauricio Pochettino said Manchester United were \"punished\" by the officials in the 2-2 draw with Sporting CP as he was denied a first win as head coach.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T01:00:51.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal"
+    },
+    {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50474392/concacaf-w-championship-uswnt-world-cup-qualification",
+      "team": "usmnt",
+      "title": "Concacaf W Championship: How USWNT can qualify for World Cup, matchups, format",
+      "summary": "The United States can seal its place at the 2027 Women's World Cup at the Concacaf W Championship. Here's everything you need to know.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T00:40:56.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50474392/concacaf-w-championship-uswnt-world-cup-qualification"
+    },
+    {
+      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/sabres-dahlin-wastes-no-time-scores-17-seconds-in-vs-rangers/",
+      "team": "sabres",
+      "title": "Sabres’ Dahlin wastes no time, scores 17 seconds in vs. Rangers",
+      "summary": "Watch as Buffalo Sabres defenceman Rasmus Dahlin goes top shelf on Jonas Korpisalo to open the scoring just 17 seconds into the game against the New York Rangers.",
+      "source": "Sportsnet",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T00:24:08.000Z",
+      "link": "https://www.sportsnet.ca/nhl/video/sabres-dahlin-wastes-no-time-scores-17-seconds-in-vs-rangers/"
+    },
+    {
+      "id": "espn-bills::50588078",
+      "team": "bills",
+      "title": "NFL Week 12 arrivals: Aaron Donald leads arrivals ahead of Rams-Packers",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "source": "ESPN · ESPN Staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T23:58:11Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals"
+    },
+    {
+      "id": "espn-bills::50577887",
+      "team": "bills",
+      "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
+      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
+      "source": "ESPN · Anthony Gharib",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T23:37:34Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267509-aaron-rodgers-released/",
+      "team": "bills",
+      "title": "Aaron Rodgers Released",
+      "summary": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching\n\n\n\n\t \n\n\n\n\tIt's like watching Day's of Our Lives",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T23:13:49.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267509-aaron-rodgers-released/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/social-video-twitter/47242/usa-soccercast-episode-204-coaching-candidates-and-copa-america",
+      "team": "usmnt",
+      "title": "USA Soccercast, Episode 204: Coaching candidates and Copa América",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T23:09:40.000Z",
+      "link": "https://www.starsandstripesfc.com/social-video-twitter/47242/usa-soccercast-episode-204-coaching-candidates-and-copa-america"
+    },
+    {
+      "id": "espn-bills::50598435",
+      "team": "bills",
+      "title": "Allen and Mahomes renew their thrilling rivalry as the Bills host the Chiefs on Thanksgiving night",
+      "summary": "— Sorry, Steve Spagnuolo. Josh Allen has no plans of going anywhere, any time soon.",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T23:03:41Z",
+      "link": "http://www.espn.com/nfl/preview?gameId=401873082"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/how-buffalo-became-home-for-a-generation-of-bills-players-and-their-families",
+      "team": "bills",
+      "title": "How Buffalo became home for a generation of Bills players and their families",
+      "summary": "Read about why Buffalo's family-atmosphere created the perfect place for Bills players and their families to settle down.",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T22:00:00.000Z",
+      "link": "https://www.buffalobills.com/news/how-buffalo-became-home-for-a-generation-of-bills-players-and-their-families"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146274/why-tackling-will-be-of-utmost-importance-for-buffalo-bills-vs-chiefs-on-thanksgiving",
+      "team": "bills",
+      "title": "Why tackling will be of utmost importance for Buffalo Bills vs. Chiefs on Thanksgiving",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T21:49:48.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146274/why-tackling-will-be-of-utmost-importance-for-buffalo-bills-vs-chiefs-on-thanksgiving"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267507-why-did-allen-seek-out-rodriguez-post-game/",
+      "team": "bills",
+      "title": "Why did Allen seek out Rodriguez post game?",
+      "summary": "Anyone have more details about this story?  \n\t \n\n\n\n\tadmittedly I really wanted the bills to draft Rodriguez, so I am more interested in this than normal.\n\n\n\n\t \n\n\n\n\tJust curious if Allen was asked about it in a press conference.\n\n\n\n\t \n\n\n\n\thttps://www.facebook.com/story.php?story_fbid=1781886737275872&id=100063636873495",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T21:34:40.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267507-why-did-allen-seek-out-rodriguez-post-game/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/it-s-always-a-challenge-how-the-bills-are-preparing-for-a-high-powered-kansas-city-chiefs-offense",
+      "team": "bills",
+      "title": "'It's always a challenge' | How the Bills are preparing for a high-powered Kansas City Chiefs offense",
+      "summary": "Buffalo game-plans for one of the NFL's most dynamic offenses",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T21:33:22.000Z",
+      "link": "https://www.buffalobills.com/news/it-s-always-a-challenge-how-the-bills-are-preparing-for-a-high-powered-kansas-city-chiefs-offense"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-tailgating/146285/buffalo-bills-game-day-food-crispy-nuggies-and-chicken-sauce",
+      "team": "bills",
+      "title": "Buffalo Bills game-day food: Crispy nuggies and chicken sauce",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T21:11:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-tailgating/146285/buffalo-bills-game-day-food-crispy-nuggies-and-chicken-sauce"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-25-preview-open-thread-buffalo-sabres-vs-new-york-rangers/",
+      "team": "sabres",
+      "title": "Game #25 Preview & Open Thread: Buffalo Sabres vs New York Rangers",
+      "summary": "Buffalo Sabres (10-10-4) vs New York Rangers (13-9-1)\n\n\n\nPuck Drop: 7 p.m. ET | Keybank Center, Buffalo, NY \n\n\n\nTV: MSG-B, MNMT\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nNew York Rangers\n\n\n\nRecord: 13-9-1 | 27 Pts\n\n\n\nLast Game: 5-2 loss vs Carolina\n\n\n\nDivision Ranking: 3rd\n\n\n\nPP: 22nd, 21.2% [Sabres: 30th, 16.7%]\n\n\n\nPK: 1st, 90% [Sabres: 26th, 72.3%]\n\n\n\nSeason Series: Sabres 2-1-0 vs Rangers last season\n\n\n\nSabres look to start hot streak in most popular game of season\n\n\n\nWhat we’re thankful for\n\n\n\nThe Buffalo Sabres head into Wednesday night’s contest against the New York Rangers looking to finally get hot this season, coming off arguably their most impressive win on Sunday night against the Tampa Bay Lightning. The signs of life are a little more evident than they were one week ago, going 2-1 in their last three games of the road trip, beating the Washington Capitals in addition to the Lightning, and playing well in their loss to the Florida Panthers in a game where they probably should have won or at least come away with a point. A few players are elevating their game for the Sabres during this dire stretch, and while a lot of attention has been placed on the struggling group of Ryan McLeod, Jason Zucker, Josh Norris, and Josh Doan, the guys stepping up should be called out as well.\n\n\n\nFor starters, Josh Doan, in the midst of what can only be described as a dreadful season, is showing signs of finding his game again. It seems that whatever injury was bothering him at the start of the season is resolving, and he’s getting back to his harder, tenacious style of play that made him so endearing to the fanbase last season. This does have to translate into actual results sooner rather than later if the Sabres are going to turn the season around, but the early signs are there for Doan, albeit in just a couple game sample.\n\n\n\nBut a few guys are really stepping up, in particular Tage Thompson and Jack Quinn. Starting with Thompson, he is playing some of the best hockey of his career from a raw production standpoint. On the season, he has 17 goals and 28 points in 24 games this year, putting him at fifth place in the entire NHL in goals. Thompson has seven of those points in his last four games, including five goals, and while he has a track record of being a streaky player at times, as most goal scorers are, he is doing a lot of the things that have made him a dynamic offensive force in the pass. He has been stick handling through defenders like butter, making clever passes, and looking like the guy the Sabres have needed, and this probably isn’t a coincidence that he’s been doing this while playing the wing. In a season where a lot of players have been disappointing, even Thompson at some points, he certainly does not fall into the disappointing category as of late. \n\n\n\nThe other guy who has truly elevated is Jack Quinn, and while the contract situation for Quinn currently looms over the team, we’re going to ignore that here and just talk about his production. It is no secret the Sabres have struggled to score this year, but Quinn is absolutely not one of those guys. Quinn has 24 points in 24 games, including 13 goals, and the Sabres have needed every single one of them that both he and Thompson have scored. Quinn’s best attribute is his willingness and ability to get to the middle of the ice. Watching him enter the zone on a rush is an entirely different experience than every other Sabres skater, as almost anyone else takes the puck out wide. Not Quinn though, Quinn is hellbent on carrying the puck to the middle and almost always gets there, helping to generate a good scoring chance if not a goal. This skillset has always been there in Quinn, dating back to his rookie season when he scored this goal (the first goal in the highlight package) against the Minnesota Wild, which has stuck out to me as special ever since it happened. \n\n\n\nQuinn’s puck handling ability, combined with his shot, are a very lethal duo that are going to combine to make him a very rich man, whether it is in Buffalo or elsewhere. Like Thompson, there is no telling where the Sabres would be without Quinn this season. There are a couple other guys who have been starting to elevate as well. Jiri Kulich seems to be thriving between Thompson and Zach Benson, as his skillset is really coming out. The shot is lethal and his speed is real and with the Sabres in dire need of someone stepping into the role of first line center, Kulich is serving that role better than anyone else has this season. Peyton Krebs also deserves a shout for his play on the second line as of late, as his gritty style of play has been a nice compliment to Quinn and Noah Ostlund. \n\n\n\nTurkey Day Eve\n\n\n\nThe Wednesday home game has become a beloved tradition for both the Sabres and the city of Buffalo. It annually has the best attendance of any game in a season, and the Sabres have fully leaned in with the Sabres-themed Thanksgiving dinner set piece giveaway, with this year featuring salt and pepper shakers, and the years prior having gravy boats and butter dishes given away. They have played a home game before Thanksgiving in five of the last six seasons including this one.\n\n\n\nIt’s a really fun day, as a lot of the snowbirds that migrated south over the years are often back in town and end up going to this game, making it a whole family affair and keeping the vibe high in the building almost no matter what the game is. Even in the more recent dark years, this game served as a sort of beacon for people, drawing a great crowd, no matter how the team is playing in that given season.I am personally thankful that the drought is behind us, and that even while the team has not been amazing to start the season, it is nice to finally be on the other side of it. Hopefully we are all thankful for a Sabres win tonight as well. \n\n\n\nProjected Lineup\n\n\n\nBuffalo Sabres \n\n\n\nForwards\n\n\n\nBenson-Kulich-Thompson\n\n\n\nKrebs-Ostlund-Quinn\n\n\n\nZucker-Norris-Doan\n\n\n\nMalenstyn-McLeod-Carrick\n\n\n\nDefense\n\n\n\nSamuelsson*-Dahlin\n\n\n\nPower-Timmins\n\n\n\nZellweger-Crevier\n\n\n\nGoalies \n\n\n\nLuukkonen\n\n\n\nLyon\n\n\n\n*game time decision\n\n\n\nNew York Rangers\n\n\n\nForwards\n\n\n\nCuylle-Zibanajed-Lafreniere\n\n\n\nKartye-Miller-Perreault\n\n\n\nTolvanen-Laba-Chmelar\n\n\n\nGawdin-Sasson-Rempe\n\n\n\nDefense\n\n\n\nGavrikov-Fox\n\n\n\nPettersson-Durzi\n\n\n\nSchneider-Morrow\n\n\n\nGoalies \n\n\n\nKorpisalo\n\n\n\nGarand",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T20:36:17.000Z",
+      "link": "https://www.diebytheblade.com/game-25-preview-open-thread-buffalo-sabres-vs-new-york-rangers/"
+    },
+    {
+      "id": "espn-bills::50596159",
+      "team": "bills",
+      "title": "Bills TE Kincaid, CB Benford among 5 starters who are questionable vs. Chiefs",
+      "summary": "The Bills are listing five starters -- including tight end Dalton Kincaid and cornerback Christian Benford -- as questionable for Thursday night's showdown with the Chiefs.",
+      "source": "ESPN · Nick Suss",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T20:06:30Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50596159/bills-kincaid-benford-5-starters-listed-questionable"
+    },
+    {
+      "id": "espn-bills::50594342",
+      "team": "bills",
+      "title": "Why Stephen A. is taking Josh Allen over Patrick Mahomes ... right now",
+      "summary": "Why Stephen A. is taking Josh Allen over Patrick Mahomes ... right now",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T19:58:01Z",
+      "link": "https://www.espn.com/video/clip/_/id/50594342/why-stephen-taking-josh-allen-patrick-mahomes-right-now"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/146344/bills-have-options-chiefs-have-absences-ahead-of-thanksgiving-showdown",
+      "team": "bills",
+      "title": "Bills have options, Chiefs have absences ahead of Thanksgiving showdown",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T19:29:17.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/146344/bills-have-options-chiefs-have-absences-ahead-of-thanksgiving-showdown"
+    },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267505-favorite-nfl-thanksgiving-memory/",
       "team": "bills",
@@ -201,7 +454,7 @@
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-josh-doan-no-longer-cheating-for-offense-says-game-in-a-good-spot/",
       "team": "sabres",
       "title": "Sabres’ Josh Doan no longer cheating for offense, says game ‘in a good spot’",
-      "summary": "BUFFALO – Right now, Josh Doan isn’t focused on producing points. No, the Sabres winger, having cheated for offense earlier this season, understands that doesn’t work.\nSo Doan, 24, has recently tried to become tougher to play against while zeroing in on other aspects of his game.\nThe result? Well, he hasn’t started scoring much. Entering Wednesday’s game against the New York Rangers, he had compiled just four goals and seven points in 24 appearances ... Read the full article \nThe post Sabres’ Josh Doan no longer cheating for offense, says game ‘in a good spot’ first appeared on Buffalo Hockey Beat.",
+      "summary": "BUFFALO – Right now, Josh Doan isn’t focused on producing points. No, the Sabres winger, having cheated for offense earlier this season, understands that doesn’t work.\nSo Doan, 24, has recently tried to become tougher to play against while zeroing in on other aspects of his game.\nThe result? Well, he hasn’t scored much. Entering Wednesday’s game against the New York Rangers, he had compiled just four goals and seven points in 24 appearances this ... Read the full article \nThe post Sabres’ Josh Doan no longer cheating for offense, says game ‘in a good spot’ first appeared on Buffalo Hockey Beat.",
       "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
@@ -220,26 +473,37 @@
       "link": "https://www.espn.com/nhl/story/_/id/50584038/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267504-week-12-around-the-nfl/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267504-around-the-league-week-12-no-bills-stuff-in-this-thread-please/",
       "team": "bills",
-      "title": "Week 12 - Around the NFL",
+      "title": "Around the League - Week 12 (no Bills stuff in this thread please)",
       "summary": "3 really good games to start the week \n\n\n\n\tGB vs LAR 👍🏻\n\n\n\n\tCHI vs DET 👍🏻\n\n\n\n\tKC vs BUF 👍🏻\n\n\n\n\t \n\n\n\n\t…and one dog, PHI vs DAL 🤮",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-11-25T18:23:25.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267504-week-12-around-the-nfl/"
+      "link": "https://www.twobillsdrive.com/community/topic/267504-around-the-league-week-12-no-bills-stuff-in-this-thread-please/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/how-buffalo-became-home-for-a-generation-of-bills-players-and-their-families",
-      "team": "bills",
-      "title": "How Buffalo became home for a generation of Bills players and their families",
-      "summary": "Read about why Buffalo's family-atmosphere created the perfect place for Bills players and their families to settle down.",
-      "source": "Bills.com",
-      "sourceType": "team",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47230/meet-the-teams-at-the-2026-concacaf-w-championship",
+      "team": "usmnt",
+      "title": "Meet the teams at the 2026 Concacaf W Championship",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T17:13:30.000Z",
-      "link": "https://www.buffalobills.com/news/how-buffalo-became-home-for-a-generation-of-bills-players-and-their-families"
+      "publishedAt": "2026-11-25T18:12:05.000Z",
+      "link": "https://www.starsandstripesfc.com/uswnt-news/47230/meet-the-teams-at-the-2026-concacaf-w-championship"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/146326/buffalo-bills-wont-face-chiefs-star-running-back-kenneth-walker-on-thanksgiving",
+      "team": "bills",
+      "title": "Buffalo Bills won’t face Chiefs star running back Kenneth Walker on Thanksgiving",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T17:23:07.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/146326/buffalo-bills-wont-face-chiefs-star-running-back-kenneth-walker-on-thanksgiving"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267501-last-psl-payment-is-here/",
@@ -264,17 +528,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267500-what-happened-to-home-field-advantage-in-the-nfl/"
     },
     {
-      "id": "espn-bills::50594342",
-      "team": "bills",
-      "title": "Why Stephen A. is taking Josh Allen over Patrick Mahomes ... right now",
-      "summary": "Why Stephen A. is taking Josh Allen over Patrick Mahomes ... right now",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T16:20:18Z",
-      "link": "https://www.espn.com/video/clip/_/id/50594342/why-stephen-taking-josh-allen-patrick-mahomes-right-now"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267499-rip-martha-firestone-ford-longtime-owner-of-the-detroit-lions/",
       "team": "bills",
       "title": "RIP Martha Firestone Ford - Longtime Owner of the Detroit Lions",
@@ -286,15 +539,37 @@
       "link": "https://www.twobillsdrive.com/community/topic/267499-rip-martha-firestone-ford-longtime-owner-of-the-detroit-lions/"
     },
     {
-      "id": "espn-bills::50570870",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-scores-results/146289/buffalo-bills-week-11-game-balls-greg-rousseau-and-james-cook-reach-career-milestones",
       "team": "bills",
-      "title": "NFL Week 12 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
+      "title": "Buffalo Bills Week 11 game balls: Greg Rousseau and James Cook reach career milestones",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T15:11:35Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals"
+      "publishedAt": "2026-11-25T15:43:36.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-scores-results/146289/buffalo-bills-week-11-game-balls-greg-rousseau-and-james-cook-reach-career-milestones"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146281/buffalo-bills-week-11-snap-counts-buffalo-dominates-time-of-possession-rotates-heavily-on-defense",
+      "team": "bills",
+      "title": "Buffalo Bills Week 11 snap counts: Buffalo dominates time of possession, rotates heavily on defense",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T15:42:15.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146281/buffalo-bills-week-11-snap-counts-buffalo-dominates-time-of-possession-rotates-heavily-on-defense"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/146180/bills-news-previewing-the-chiefs",
+      "team": "bills",
+      "title": "Bills news: Previewing the Chiefs",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T15:40:13.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/146180/bills-news-previewing-the-chiefs"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/nhl/news/nhl-power-rankings-minnesota-wild-quinn-hughes-chicago-blackhawks/",
@@ -319,6 +594,17 @@
       "link": "https://www.espn.com/nhl/story/_/id/50587368/nhl-2026-27-playoffs-standings-all-32-thanksgiving-panic-index-rankings-tiers"
     },
     {
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50542113/bj-callaghan-nashville-usmnt-coach",
+      "team": "usmnt",
+      "title": "How B.J. Callaghan's long, winding coaching journey led to Nashville success",
+      "summary": "Callaghan was a fairly unassuming hire when he took over Nashville. Now he's a Supporters' Shield-winning coach being linked with the USMNT job.",
+      "source": "ESPN Soccer",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T13:22:06.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50542113/bj-callaghan-nashville-usmnt-coach"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-12-vs-chiefs-nfl-thanksgiving-2026",
       "team": "bills",
       "title": "What Bills fans can expect at Highmark Stadium for Week 12 vs. Chiefs | NFL Thanksgiving 2026",
@@ -330,15 +616,15 @@
       "link": "https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-12-vs-chiefs-nfl-thanksgiving-2026"
     },
     {
-      "id": "espn-bills::50582822",
-      "team": "bills",
-      "title": "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips",
-      "summary": "We have the top storylines, bold predictions, stats to know, fantasy/betting nuggets and more for four Wednesday and Thursday games in Week 12.",
-      "source": "ESPN · NFL Nation, Pamela Maldonado, Eric Moody, Seth Walder",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50581456/manchester-united-premier-league-pochettino-ratcliffe",
+      "team": "usmnt",
+      "title": "Man United crisis explained: How did it start? Who is to blame? Is Pochettino the answer?",
+      "summary": "Struggling Manchester United find themselves in a familiar place and fans are getting tired of the cycle repeating itself. But can Mauricio Pochettino find the answer, or do the issues run deeper?",
+      "source": "ESPN Soccer",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T11:20:49Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026"
+      "publishedAt": "2026-11-25T09:14:07.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50581456/manchester-united-premier-league-pochettino-ratcliffe"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-early-struggles-sabres-jiri-kulich-becoming-force-at-center-on-line-with-zach-benson-and-tage-thompson/",
@@ -352,15 +638,26 @@
       "link": "https://www.buffalohockeybeat.com/after-early-struggles-sabres-jiri-kulich-becoming-force-at-center-on-line-with-zach-benson-and-tage-thompson/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267497-aaron-rodgers-benched/",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-konsta-helenius-practices-feels-close-to-returning-from-injury/",
+      "team": "sabres",
+      "title": "Sabres’ Konsta Helenius practices, feels ‘close’ to returning from injury",
+      "summary": "BUFFALO – Konsta Helenius said he noticed one of the San Jose Sharks nearby as he carried the puck into enemy territory Oct. 27. The Sabres rookie just didn’t realize it was defenseman Jacob Trouba.\nThe 6-foot-3, 215-pound Trouba laid into the 5-foot-11, 194-pound Helenius’ right shoulder, knocking him to the ice in the second period of the Sabres’ 2-0 win.\n“It was unlucky,” Helenius said after practicing Tuesday in a red non-contact jersey, ... Read the full article \nThe post Sabres’ Konsta Helenius practices, feels ‘close’ to returning from injury first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-25T05:02:45.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-konsta-helenius-practices-feels-close-to-returning-from-injury/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267497-aaron-rodgers-benched-and-released/",
       "team": "bills",
-      "title": "Aaron Rodgers Benched",
+      "title": "Aaron Rodgers Benched and Released",
       "summary": "…might be done forever.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
       "publishedAt": "2026-11-25T04:27:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267497-aaron-rodgers-benched/"
+      "link": "https://www.twobillsdrive.com/community/topic/267497-aaron-rodgers-benched-and-released/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/all-eyes-are-on-us-the-bills-share-their-excitement-ahead-of-thanksgiving-matchup-with-the-chiefs",
@@ -374,50 +671,6 @@
       "link": "https://www.buffalobills.com/news/all-eyes-are-on-us-the-bills-share-their-excitement-ahead-of-thanksgiving-matchup-with-the-chiefs"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267496-allen%E2%80%99s-deep-throw-struggles/",
-      "team": "bills",
-      "title": "Allen’s deep throw struggles",
-      "summary": "Hat tip to @Alphadawg7. Joe Marino has the goods, starting at the 3:55 mark:",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T01:26:56.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267496-allen%E2%80%99s-deep-throw-struggles/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146228/unique-element-of-chiefs-offensive-line-will-be-vital-for-buffalo-bills-to-exploit-on-thanksgiving",
-      "team": "bills",
-      "title": "Unique element of Chiefs offensive line will be vital for Buffalo Bills to exploit on Thanksgiving",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T00:52:12.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146228/unique-element-of-chiefs-offensive-line-will-be-vital-for-buffalo-bills-to-exploit-on-thanksgiving"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/146259/bills-trending-in-the-right-direction-ahead-of-thanksgiving",
-      "team": "bills",
-      "title": "Bills trending in the right direction ahead of Thanksgiving",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T00:50:26.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/146259/bills-trending-in-the-right-direction-ahead-of-thanksgiving"
-    },
-    {
-      "id": "espn-bills::50587457",
-      "team": "bills",
-      "title": "How are Bills prepping for Chiefs?",
-      "summary": "Nick Suss explains how Joe Brady and the Bills are cramming for the Chiefs.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T00:19:25Z",
-      "link": "https://www.espn.com/video/clip/_/id/50587457/how-bills-prepping-chiefs"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-coverage/47193/usa-vs-el-salvador-2026-concacaf-w-championship-scouting-el-salvador",
       "team": "usmnt",
       "title": "USA vs. El Salvador, 2026 CONCACAF W Championship: Scouting El Salvador",
@@ -427,17 +680,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-25T00:00:10.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-coverage/47193/usa-vs-el-salvador-2026-concacaf-w-championship-scouting-el-salvador"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/146254/two-players-poached-from-buffalo-bills-practice-squad",
-      "team": "bills",
-      "title": "Two players poached from Buffalo Bills practice squad",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T21:47:41.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/146254/two-players-poached-from-buffalo-bills-practice-squad"
     },
     {
       "id": "bandits-official::https://bandits.com/gurts-fast-break-bandits-prepare-for-home-opener/",
@@ -495,17 +737,6 @@
       "link": "https://bandits.com/bandits-to-play-preseason-game-in-st-catharines-on-nov-14/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267494-broncos-suspend-jk-dobbins/",
-      "team": "bills",
-      "title": "Broncos suspend JK Dobbins",
-      "summary": "",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T21:39:13.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267494-broncos-suspend-jk-dobbins/"
-    },
-    {
       "id": "bandits-official::https://bandits.com/gurts-fast-break-new-season-approaches/",
       "team": "bandits",
       "title": "Gurts Fast Break: New Season Approaches",
@@ -561,28 +792,6 @@
       "link": "https://www.starsandstripesfc.com/uswnt-news/47218/2031-womens-world-cup-to-feature-dynamic-ticket-pricing"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146221/will-the-buffalo-bills-defeat-the-kansas-city-chiefs-on-thanksgiving",
-      "team": "bills",
-      "title": "Will the Buffalo Bills defeat the Kansas City Chiefs on Thanksgiving?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T20:43:06.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146221/will-the-buffalo-bills-defeat-the-kansas-city-chiefs-on-thanksgiving"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-game-information/146234/bills-vs-chiefs-nfl-week-12-how-to-watch-live-stream-and-listen-on-thanksgiving",
-      "team": "bills",
-      "title": "Bills vs. Chiefs NFL Week 12: How to watch, live stream, and listen on Thanksgiving",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T20:19:40.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-game-information/146234/bills-vs-chiefs-nfl-week-12-how-to-watch-live-stream-and-listen-on-thanksgiving"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267492-colts-stole-our-3rd-string-qb/",
       "team": "bills",
       "title": "Colts stole our 3rd string QB",
@@ -605,37 +814,15 @@
       "link": "https://www.starsandstripesfc.com/social-video-twitter/47210/usa-to-host-2028-copa-america"
     },
     {
-      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-konsta-helenius-practices-feels-close-to-returning-from-injury/",
-      "team": "sabres",
-      "title": "Sabres’ Konsta Helenius practices, feels ‘close’ to returning from injury",
-      "summary": "BUFFALO – Konsta Helenius said he noticed one of the San Jose Sharks nearby as he carried the puck into enemy territory Oct. 27. The Sabres rookie just didn’t realize it was defenseman Jacob Trouba.\nThe 6-foot-3, 215-pound Trouba laid into the 5-foot-11, 194-pound Helenius’ right shoulder, knocking him to the ice in the second period of the Sabres’ 2-0 win.\n“It was unlucky,” Helenius said after practicing Tuesday in a red non-contact jersey, ... Read the full article \nThe post Sabres’ Konsta Helenius practices, feels ‘close’ to returning from injury first appeared on Buffalo Hockey Beat.",
-      "source": "Buffalo Hockey Beat",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T18:48:45.000Z",
-      "link": "https://www.buffalohockeybeat.com/sabres-konsta-helenius-practices-feels-close-to-returning-from-injury/"
-    },
-    {
-      "id": "espn-bills::47809892",
-      "team": "bills",
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "source": "ESPN · Doug Greenberg",
+      "id": "espn-soccer-usmnt::https://www.espn.com/soccer/story/_/id/50583713/us-host-copa-america-2028-usmnt",
+      "team": "usmnt",
+      "title": "Another U.S.-held Copa América is great for USMNT but not South America",
+      "summary": "For the third time in 12 years, the Copa América will be held in the U.S. That's exciting for the USMNT but it robs South America of the game it loves.",
+      "source": "ESPN Soccer",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-24T17:36:17Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs"
-    },
-    {
-      "id": "espn-bills::50574413",
-      "team": "bills",
-      "title": "NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates",
-      "summary": "How does every NFL team stack up heading into Week 12? We made our 1-32 list and picked players who could get a new contract.",
-      "source": "ESPN · NFL Nation",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T16:49:36Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates"
+      "publishedAt": "2026-11-24T18:05:13.000Z",
+      "link": "https://www.espn.com/soccer/story/_/id/50583713/us-host-copa-america-2028-usmnt"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/top-storylines-for-bills-vs-chiefs-week-12-thanksgiving",
@@ -649,37 +836,15 @@
       "link": "https://www.buffalobills.com/news/top-storylines-for-bills-vs-chiefs-week-12-thanksgiving"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146208/buffalo-bills-trending-up-trending-down-the-four-bills-integral-to-thanksgiving-vs-chiefs",
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/146171/week-12-rooting-interests-a-thanksgiving-wish-list-for-bills-mafia",
       "team": "bills",
-      "title": "Buffalo Bills trending up, trending down: The four Bills integral to Thanksgiving vs. Chiefs",
+      "title": "Week 12 Rooting interests: A Thanksgiving wish list for Bills Mafia",
       "summary": "",
       "source": "Buffalo Rumblings",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-24T16:38:18.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146208/buffalo-bills-trending-up-trending-down-the-four-bills-integral-to-thanksgiving-vs-chiefs"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146197/the-striking-similarities-between-buffalo-bills-and-kansas-city-chiefs",
-      "team": "bills",
-      "title": "The striking similarities between Buffalo Bills and Kansas City Chiefs",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T14:15:24.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146197/the-striking-similarities-between-buffalo-bills-and-kansas-city-chiefs"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/146199/how-do-you-really-feel-about-the-bills-playing-on-thanksgiving-night",
-      "team": "bills",
-      "title": "How do you really feel about the Bills playing on Thanksgiving night?",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T14:07:33.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/146199/how-do-you-really-feel-about-the-bills-playing-on-thanksgiving-night"
+      "publishedAt": "2026-11-24T13:16:34.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/146171/week-12-rooting-interests-a-thanksgiving-wish-list-for-bills-mafia"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/146167/buffalo-bills-chase-records-vs-chiefs-on-thanksgiving",
@@ -691,17 +856,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-24T13:12:15.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-history/146167/buffalo-bills-chase-records-vs-chiefs-on-thanksgiving"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146162/thoughts-from-the-field-miami-dolphins-thoughts-and-looking-ahead",
-      "team": "bills",
-      "title": "Thoughts from the field; Miami Dolphins thoughts and looking ahead",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T13:06:36.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146162/thoughts-from-the-field-miami-dolphins-thoughts-and-looking-ahead"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-kansas-city-chiefs-where-to-watch-stream-and-listen-nfl-thanksgiving-2026",
@@ -748,6 +902,17 @@
       "link": "https://www.buffalobills.com/news/how-special-buffalo-is-bills-anticipate-special-home-thanksgiving-game-detail-keys-to-facing-red-hot-chiefs"
     },
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267483-week-12-chefs-v-bills-predict-the-score/",
+      "team": "bills",
+      "title": "Week 12, Chefs v. Bills, PREDICT THE SCORE!",
+      "summary": "The dreaded Chefs come into Highmark on Thanksgiving to take on the Bills.  Will this game follow the pattern of the Bills beating the Chefs in the regular season?  Or will Pat the Rat rise up and smite the Bills in a regular season game?\n\n\n\n\t \n\n\n\n\tI reserve my answers to those questions for later.  I am really worried about the Chefs this week.  They appear to have their best team in years.  The only saving grace is that the Bills seemed to be bending over backwards to save their guys for the Chefs game.  Josh had no rushes, Bernard only played 50% of the D snaps.  The D played the replacements most of the 4th QTR, Tre' White, et al.  I think the Bills used the Fish as a mini-bye week to get ready for the short prep week up to Thanksgiving.\n\n\n\n\t \n\n\n\n\tSo my answers are YES and NO!  While my head says Chefs, my heart is with the Bills all the way!  Bills win a nailbiter:\n\t \n\n\n\n\tChefs - 27\n\n\n\n\tBeews - 31\n\n\n\n\t \n\n\n\n\tGOBBLE GOBBLE!!!\n\n\n\n\t \n\n\n\n\tPrevious winners:\n\n\n\n\t \n\n\n\n\tWeek 1 - @colin\n\n\n\n\tWeek 2 - @Freddie's Dead, @HappyDays, @Big Turk\n\n\n\n\tWeek 3 - @Robert Paulson\n\n\n\n\tWeek 4 - @RiotAct\n\n\n\n\tWeek 5 - @Sojourner\n\n\n\n\tWeek 6 - @Reks Ryan, @SydneyBillsFan\n\n\n\n\tWeek 7 - BYE\n\n\n\n\tWeek 8 - @Ridgewaycynic2013, @Ray Stonada\n\n\n\n\tWeek 9 - @BontitaBills\n\n\n\n\tWeek 10 - @agilen, @BigdaddyinOrlando, @eball\n\n\n\n\tWeek 11 - @Dr.Sack",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T20:32:41.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267483-week-12-chefs-v-bills-predict-the-score/"
+    },
+    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267482-niners-release-brandon-aiyuk-signs-with-washington-as-expected/",
       "team": "bills",
       "title": "Niners Release Brandon Aiyuk (signs with Washington as expected)",
@@ -770,15 +935,15 @@
       "link": "https://www.buffalobills.com/news/buffalo-bills-to-retire-hall-of-fame-wr-andre-reed-s-no-83-during-2027-season"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267480-who-is-our-mvp-thus-far-this-season/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267478-do-fans-really-%E2%80%9Ccare%E2%80%9D-who-wins-mvp/",
       "team": "bills",
-      "title": "Who is our MVP thus far this season?",
-      "summary": "My daughter and I discussed this yesterday and we each thought a case could be made for Cook as our MVP right now.  Josh is Josh of course, but would we be at 9-1 without Cook and what’s he’s done this year?",
+      "title": "Do fans really “care” who wins MVP?",
+      "summary": "I’m getting real sick of all of the “MVP race” talk, and the hate and rage-baiting on social medial (primarily X). Why do people get so revved up about this? I was happy Josh got one in ‘24 (for his resume) but this is a topic I spend almost no time thinking about.\n\n\n\n\t \n\n\n\n\tI realize I can just stay off social media and the talking head shows, but I’m curious as to how much fans really care about this stuff?\n\n\n\n\t \n\n\n\n\tI don’t think Josh gives a damn what his stats are as long as there is a W after the game.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-23T17:14:31.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267480-who-is-our-mvp-thus-far-this-season/"
+      "publishedAt": "2026-11-23T15:23:49.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267478-do-fans-really-%E2%80%9Ccare%E2%80%9D-who-wins-mvp/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/47106/usmnt-midweek-viewing-guide-dest-and-pepi-at-the-bernabeu",
@@ -814,28 +979,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267477-2026-new-hc-recordsjust-a-reminder/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267476-the-1-seed-essentially-comes-down-to-the-chiefs-and-broncos-games/",
-      "team": "bills",
-      "title": "The #1 seed essentially comes down to the Chiefs and Broncos games",
-      "summary": "I ran 5,000 simulations of the rest of the season to see what will likely decide the AFC 1 seed for us. Short version: it comes down to two games. KC this Thursday and at Denver in Week 16.\n\t \n\n\n\n\tAs it stands today we have an approximately 48% chance for the 1 seed. Second is Denver at about 23%, and third is Cincinnati at about 14%.\n\t \n\n\n\n\tOne game at a time:\n\n\n\n\tKC: win and we're at 63%, lose and we drop to 26%. Yikes... 37-point swing.\n\n\n\n\tAt Denver: win and we're at 70%, lose and we drop to 26%. That's a 44-point swing... the biggest game left.\n\n\n\n\t \n\n\n\n\tOverall likelihood of #1 seed:\n\t \n\n\n\n\tWin both: 88%\n\n\n\n\tBeat KC, lose at DEN: 39%\n\n\n\n\tLose to KC, beat DEN: 44%\n\n\n\n\tLose both: 7%",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-23T14:15:56.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267476-the-1-seed-essentially-comes-down-to-the-chiefs-and-broncos-games/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267475-so-many-people-are-freaking-out/",
-      "team": "bills",
-      "title": "So many people are freaking out !",
-      "summary": "Yes I know Josh did not play well, the offense was blah. The stats not too good. IT WAS DONE ON PURPOSE !!! Of course they are not going to say that, it was the Miami Dolphins we all knew were going to beat them so we took it easy like a practice. People wanted to see like 51-3 type of scores. Why risk injuries? why should Josh be Superman?? It is not needed. Get a W and that is it. The Bills are hungry and getting prepared for KC. On Thanksgiving night it is going to be very different I see a shootout. Bills 48 Chiefs 46. GO BILLS !! Enjoy Turkey day. It will be a good one",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-23T11:19:46.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267475-so-many-people-are-freaking-out/"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/coming-into-our-own-the-bills-defense-delivers-another-touchdown-free-win-in-week-11-against-the-dolphins",
       "team": "bills",
       "title": "'Coming into our own' | Bills defense delivers another touchdown-free win in Week 11 against Dolphins",
@@ -869,15 +1012,15 @@
       "link": "https://www.twobillsdrive.com/community/topic/267470-game-week-thread-chiefs-at-bills-tnf/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-dolphins-x6397",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267465-bills-defense-is-now-top-10/",
       "team": "bills",
-      "title": "Top 3 things we learned from Bills vs. Dolphins | Week 11",
-      "summary": "Playing from in front, Shakir & Moore's big day and Tommy Doman on his fake punt pass",
-      "source": "Bills.com",
-      "sourceType": "team",
+      "title": "Bills Defense is now Top 10",
+      "summary": "Don't look now (because Sunday stats aren't up yet), but the Bills defense is now right around tenth in the league in both yards allowed per game and points allowed per game. \n\n\n\n\t \n\n\n\n\tNow, I know lots of people will say the Bills did it on the backs, literally, of a bunch of lousy teams with no quarterbacks, but that argument only goes so far. Every team is playing some collection of lousy teams with no quarterbacks. The fact is that so far this season, parity hasn't dominated. The league is much about the haves and the have nots, and everyone is playing some have nots. \n\n\n\n\t \n\n\n\n\tIt's more important to notice two things.  First, we always knew the defense was going to be a work in progress, because it was a new coordinator and a new scheme. I expected the defense to improve during the season, and there is no question that it has. We're not seeing DBs looking at each other wondering who's going where. Lineman line up correctly. Blitzes are now nicely disguised. \n\n\n\n\t \n\n\n\n\tSecond, the Bills have a first-class defensive lineup. Hooker and Bishop already are showing what two good safeties who communicate can do. The Bills are deep at corner, with Benford, IGB, Hairston, and White. Hancock quickly has shown that he isn't a liability on the field, and the same with Hamlin. Bills are a little thin at linebacker, but Bernard and Williams have been pretty solid, Elarms-Orr has shown he fits in, and now Shaq Thompson is getting on the field and getting some tackles. And the defensive line is playing well, with some nice plays being made by Carter and Landon Jackson behind the studs the Bills start. \n\n\n\n\t \n\n\n\n\tThis is becoming a good defense. It needs to make a few standout performances down the stretch, but it no longer requires a miracle.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-22T23:52:32.000Z",
-      "link": "https://www.buffalobills.com/news/top-3-things-we-learned-from-bills-vs-dolphins-x6397"
+      "publishedAt": "2026-11-22T21:54:16.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267465-bills-defense-is-now-top-10/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267463-we-are-a-spoiled-fanbase-and-it-shows/",
@@ -1045,17 +1188,6 @@
       "link": "https://www.diebytheblade.com/early-lead-is-enough-for-the-sabres-to-snap-the-losing-streak/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267433-week-11-around-the-league-thread-no-bills-discussion-in-here-please/",
-      "team": "bills",
-      "title": "Week 11 - Around the League Thread (No Bills discussion in here please)",
-      "summary": "Starts today with Texans (3-6) at Indianapolis Colts (3-7). For all the preseason chatter, Texans have been a disappointment  this season. \n\n\n\n\tNot sure what to expect from this game tonight. \n\n\n\n\t \n\n\n\n\tOther games of note (rooting interests):\n\n\n\n\tChiefs @ Cardinals\n\n\n\n\tEagles @ Steelers\n\n\n\n\tBroncos @ Raiders\n\n\n\n\tGiants @ Jaguars\n\n\n\n\tCommanders @ Bengals\n\n\n\n\t \n\n\n\n\tThese may be interesting to watch:\n\n\n\n\tBears @ Saints\n\n\n\n\tRams @ Packers\n\n\n\n\tGame of the week pick (imo): 49ers @ Vikings",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-19T23:03:51.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267433-week-11-around-the-league-thread-no-bills-discussion-in-here-please/"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/u-s-soccer-emma-hayes-usmnt-hiring-committee/",
       "team": "usmnt",
       "title": "Why U.S. Soccer's move to name Emma Hayes to the USMNT hiring committee makes sense",
@@ -1076,6 +1208,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-19T18:34:57.000Z",
       "link": "https://www.diebytheblade.com/game-22-preview-open-thread-buffalo-sabres-at-washington-capitals/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267421-billsgiving-looking-like-a-snow-game-update-rain-%F0%9F%98%92/",
+      "team": "bills",
+      "title": "Billsgiving looking like a snow game (update: rain 😒)",
+      "summary": "Weather in OP for Bills-Chiefs is 70% chance of snow day and night, 1-3 inches accumulation and 32 degrees at game time \n\n\n\n\t \n\n\n\n\tNew Highmark will look beautiful but thankful for the heated field \n\n\n\n\t \n\n\n\n\tOTOH Bills-Fish is going to be 65! Just a casual 30 degree swing in 4 days.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-19T13:01:42.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267421-billsgiving-looking-like-a-snow-game-update-rain-%F0%9F%98%92/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/uswnt-roster-ashley-sanchez-sam-coffey-naomi-girma-concacaf-w-championship/",
@@ -1111,28 +1254,6 @@
       "link": "https://www.diebytheblade.com/jedi-council-14/"
     },
     {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47092/i-thought-we-had-something-mauricio",
-      "team": "usmnt",
-      "title": "I thought we had something, Mauricio",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T15:43:10.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/47092/i-thought-we-had-something-mauricio"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47147/usa-vs-haiti-2026-nations-league-quarterfinals-second-leg-community-player-ratings",
-      "team": "usmnt",
-      "title": "USA vs. Haiti, 2026 Nations League Quarterfinals (second leg): Community player ratings",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-18T05:58:17.000Z",
-      "link": "https://www.starsandstripesfc.com/usmnt-news/47147/usa-vs-haiti-2026-nations-league-quarterfinals-second-leg-community-player-ratings"
-    },
-    {
       "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-losing-streak-hits-5-games-after-4-3-loss-at-philadelphia/",
       "team": "sabres",
       "title": "Sabres losing streak hits 5 games after 4-3 loss at Philadelphia",
@@ -1153,17 +1274,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-18T02:18:08.000Z",
       "link": "https://www.cbssports.com/soccer/news/usmnt-haiti-christian-pulisic-mauricio-pochettino/"
-    },
-    {
-      "id": "die-by-the-blade::https://www.diebytheblade.com/game-21-preview-open-thread-sabres-at-flyers/",
-      "team": "sabres",
-      "title": "Game #21 Preview & Open Thread: Sabres at Flyers",
-      "summary": "Buffalo look to get things back on track in Philly\n\n\n\nBuffalo Sabres (8-8-4) at Philadelphia Flyers (6-11-6)\n\n\n\nPuck Drop: 7:00 pm ET | Xfinity Mobile Arena, Philadelphia, PA\n\n\n\nTV: MSG-B, ESPN+, Fubo, Hulu + Live TV\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nPhiladelphia Flyers\n\n\n\nRecord: 6-11-6 | 18 PTS\n\n\n\nLast Game: 5-2 defeat against Edmonton Oilers\n\n\n\nDivision Ranking: Metropolitan 6th\n\n\n\nPP: 27th, 17.3% (13/75) [Sabres: 29th, 14.7% (10/68)]\n\n\n\nPK: 17th, 77.8% (56/72) [Sabres: 27th, 70.4% (50/71)]\n\n\n\nSeason Series: Sabres 0-1-0 Flyers this season\n\n\n\nWhat to Watch\n\n\n\n1. The Answer Is.. In The Room?\n\n\n\nLindy Ruff continues to roll out the line blender for every game hoping and praying to find the magic combination of lines that will jolt this team out of its slumber. Kulich has now been promoted to centering the top line with Krebs and Tage separated. Maybe McLeod can benefit from Östlund and Quinn’s presence on the third line and if dropping to the fourth line won’t fire up Zucker, what will?\n\n\n\n2. Do Something Darcy Jarmo\n\n\n\nWe are at the quarter mark of the season and the Sabres’ funk is real. Their point-per-game pace will not make the playoffs, especially with the Atlantic once again looking super competitive. The playoff ship has not sailed, but Buffalo cannot afford to fall further adrift. \n\n\n\nTo that end, Jarmo Kekäläinen came to Buffalo with a reputation for being a gunslinger when making trades. However, so far he’s been a lot more patient and low-key, which then makes us wonder, is that because he’s being cautious at the beginning of his term, or has he been told to keep his powder dry by the powers that be above him?\n\n\n\n3. Philly-Nilly Defense\n\n\n\nThe Flyers vs Sabres encounters tend to be explosive goalfests, with Buffalo going 6-4-0 in the last ten games they have played. The four goals scored in Philly’s 3-1 win earlier this season was the fewest in the last 12 games they have played going back to March ’23. The two teams average 7.33 goals combined for those last 12 games they have faced each other. \n\n\n\n\n\nBuffalo Sabres \n\n\n\nForwards \n\n\n\nZach Benson – Jiri Kulich – Tage ThompsonJosh Norris – Peyton Krebs – Josh DoanRyan McLeod – Noah Östlund – Jack QuinnBeck Malenstyn – Tyson Kozak – Jason Zucker\n\n\n\nDefense\n\n\n\nMattias Samuelsson – Rasmus DahlinOwen Power – Conor TimminsOlen Zellweger – Zach Metsa\n\n\n\nGoaltenders \n\n\n\nUkko-Pekka Luukkonen, Alex Lyon (projected starter), Colten Ellis\n\n\n\nPhiladelphia Flyers\n\n\n\nForwards \n\n\n\nTyson Foerster – Trevor Zegras – Travis KonecnyDenver Barkey – Christian Dvorak – Owen TippettPorter Martone – Noah Cates – Matvei MichkovCole Knuble – Sean Couturier – Noel Acciari\n\n\n\nDefense\n\n\n\nTravis Sanheim – Jamie DrysdaleCam York – Rasmus RistolainenNick Seeler – Oliver Bonk\n\n\n\nGoaltenders \n\n\n\nJoseph Woll (confirmed starter), Dan Vladar",
-      "source": "Die By The Blade",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-17T22:30:45.000Z",
-      "link": "https://www.diebytheblade.com/game-21-preview-open-thread-sabres-at-flyers/"
     },
     {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-rookie-in-rochester-sabres-prospect-gavin-mccarthy-hitting-fighting-and-making-name-for-himself/",
@@ -1210,28 +1320,6 @@
       "link": "https://www.buffalohockeybeat.com/sabres-leaning-heavily-on-healthy-tyson-kozak-some-of-his-best-hockey/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-legacy-concacaf-haiti/",
-      "team": "usmnt",
-      "title": "Mauricio Pochettino leaves incomplete legacy as USMNT tenure nears finish",
-      "summary": "While he raised daily standards and brought along a promising young core, failing to win a Concacaf trophy and exiting the World Cup in the round of 16 leaves an undeniable feeling of unfinished business",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-13T20:27:41.000Z",
-      "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-legacy-concacaf-haiti/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-in-two-game-farewell-haiti-manchester-united/",
-      "team": "usmnt",
-      "title": "Mauricio Pochettino leads USMNT in two-game farewell against Haiti after taking Manchester United job",
-      "summary": "A spot in the Concacaf Nations League finals is on the line as the manager kicks off an unconventional farewell tour before departing for Old Trafford",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-13T19:44:51.000Z",
-      "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-usmnt-in-two-game-farewell-haiti-manchester-united/"
-    },
-    {
       "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/passion-has-helped-alex-lyon-improve-with-age-sabres-goalie-expected-to-start-first-game-soon/",
       "team": "sabres",
       "title": "Passion has helped Alex Lyon improve with age; Sabres goalie expected to start first game soon",
@@ -1265,17 +1353,6 @@
       "link": "https://www.buffalohockeybeat.com/would-a-trip-to-rochester-help-sabres-jiri-kulich-find-some-confidence/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267231-igb-starting-to-separate-and-making-a-name-for-himself/",
-      "team": "bills",
-      "title": "IGB starting to separate and making a name for himself.",
-      "summary": "IGB has earned the trust of his coaches and is now the starting CB2 on this Bills defense.  Besides that he is also leading all the other rookie CBs across the league.  \n\t\n\thttps://www.si.com/nfl/bills/onsi/rookies-key-metric-shows-bills-davison-igbinosun-separating-himself\n\n\n\n\t \n\n\n\n\tWe have 3 of the 4 in the backfield better than average players.  Can we fix the 4th spot with an incoming safety",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-06T08:28:20.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267231-igb-starting-to-separate-and-making-a-name-for-himself/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad-now-released-on-1121/",
       "team": "bills",
       "title": "49ers Sign Brandin Cooks to Practice Squad (now released on 11/21)",
@@ -1296,6 +1373,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-08-07T21:23:50.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/255720-diggs-drama/",
+      "team": "bills",
+      "title": "Diggs' Drama",
+      "summary": "A thread for our former master of histrionics, who doesn't need a new thread every time he gets his drama queen on.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2024-08-10T03:03:26.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
     }
   ]
 }
