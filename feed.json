@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:16:59.002Z",
+  "generatedAt": "2026-11-27T12:58:27.444Z",
   "sources": [
     {
       "id": "bills-official",
@@ -54,15 +54,15 @@
       "id": "die-by-the-blade",
       "label": "Die By The Blade",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "HTTP 403"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "buffalo-hockey-beat",
       "label": "Buffalo Hockey Beat",
       "team": "sabres",
-      "itemCount": 0,
-      "error": "HTTP 403"
+      "itemCount": 10,
+      "error": null
     },
     {
       "id": "sportsnet-nhl",
@@ -176,6 +176,336 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267538-solutions-to-the-problems-poll/",
+      "team": "bills",
+      "title": "Solutions to the Problems Poll",
+      "summary": "As the Bills have stumbled and bumbled their way to being one of the leagues top offenses, and setting the team record for most quarters without allowing a TD, TBD posters have identified a multitude of problems.   Some people have at least been specific in their proposed solutions. Among those, fire Jim Leonhard, release Damar Hamlin, release Bradley Chubb, move on from Ed Oliver, etc etc.  But mostly it is just identifying problems. And declaring that identifying problems without proposing solutions is legitimate \"debate among football\" fans.  But debate requires having more than one side to an issue.  With only one side, its just complaining. \n\t\n\tThis poll is intended to capture some of the most popular solutions proposed.  If people want to enter ideas for others, I will happily expand the options.  Its a multi-choice polls, so you can vote to for all the solutions you propose are open for debate.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T12:56:28.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267538-solutions-to-the-problems-poll/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267537-heidi-game-sequence-on-peacock/",
+      "team": "bills",
+      "title": "\"heidi game\" sequence on Peacock",
+      "summary": "Was I seeing things or did Peacock cut to commercials during the drive leading up to and including Bass' first FG?   One minute I'm watching the play and then it cuts to a series of ads and then cuts back just after Bass kicks the FG.   Unbelievable.   What the h-ll was that all about?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T12:39:54.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267537-heidi-game-sequence-on-peacock/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267536-worst-rain-games-in-bills-history/",
+      "team": "bills",
+      "title": "Worst rain games in Bills history?",
+      "summary": "I wasn't at the stadium last night but from watching on TV it looks like you might be able to make an honest case for worst rain game in Buffalo Bills history. Would be curious to hear the thoughts from people that were at the game.\n\n\n\n\t \n\n\n\n\tLast year's Philly game was pretty rough. The worst rain game I ever sat through was in 2007 against the Giants because it turned into a freezing rain, anybody that was at that game will remember it and know exactly what I'm talking about",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T12:37:48.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267536-worst-rain-games-in-bills-history/"
+    },
+    {
+      "id": "espn-sabres::50595365",
+      "team": "sabres",
+      "title": "NHL Tonight: Your guide to the all-day, 15-game hockey bonanza on Black Friday",
+      "summary": "Find game previews, betting intel, broadcast information, stats and highlights here.",
+      "source": "ESPN · ESPN staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T12:19:31Z",
+      "link": "https://www.espn.com/nhl/story/_/id/50595365/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
+    },
+    {
+      "id": "espn-bills::50587851",
+      "team": "bills",
+      "title": "NFL Week 12 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "summary": "Seahawks vs. 49ers? Kirk Cousins against Atlanta? There are 12 more games in Week 12, and we have picks, predictions and more for all of them.",
+      "source": "ESPN · NFL Nation, Pamela Maldonado, Eric Moody and Seth Walder",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T11:48:57Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50587851/week-12-picks-predictions-schedule-fantasy-odds-2026"
+    },
+    {
+      "id": "espn-bills::49794361",
+      "team": "bills",
+      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "source": "ESPN · ESPN staff",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T11:00:02Z",
+      "link": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267535-how-was-the-wind-in-the-new-stadium-compared-to-the-old-stadium/",
+      "team": "bills",
+      "title": "How was the Wind in the New Stadium Compared to the Old Stadium?",
+      "summary": "Could anyone feel a difference?\n\n\n\n\t \n\n\n\n\tI know this isn’t the typical wind event but wondering architecturally how the new stadium handles wind.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T10:29:00.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267535-how-was-the-wind-in-the-new-stadium-compared-to-the-old-stadium/"
+    },
+    {
+      "id": "espn-bills::50609813",
+      "team": "bills",
+      "title": "Bills QB Josh Allen struggles vs. Chiefs in 'grossest' conditions",
+      "summary": "The Bills won their 10th game of the season Thursday vs. the Chiefs, but QB Josh Allen struggled in the weather, passing for only 81 yards.",
+      "source": "ESPN · Nick Suss",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T07:57:30Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50609813/bills-qb-josh-allen-struggles-vs-chiefs-grossest-conditions"
+    },
+    {
+      "id": "espn-bills::50609140",
+      "team": "bills",
+      "title": "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+      "summary": "— After sharing top billing, Buffalo’s Josh Allen and Kansas City’s Patrick Mahomes proved no match for the elements in the latest showdown of...",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T07:25:32Z",
+      "link": "http://www.espn.com/nfl/recap?gameId=401873082"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/146498/buffalo-bills-match-best-start-in-franchise-history-at-10-1",
+      "team": "bills",
+      "title": "Buffalo Bills match best start in franchise history at 10-1",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T07:12:00.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/146498/buffalo-bills-match-best-start-in-franchise-history-at-10-1"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/146514/buffalo-bills-qb-josh-allen-ties-russell-wilsons-wins-record",
+      "team": "bills",
+      "title": "Buffalo Bills QB Josh Allen ties Russell Wilson’s wins record",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T07:07:01.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/146514/buffalo-bills-qb-josh-allen-ties-russell-wilsons-wins-record"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146513/bills-vs-chiefs-week-12-postgame-analysis-buffalos-defense-too-much-for-kc",
+      "team": "bills",
+      "title": "Bills vs. Chiefs Week 12 postgame analysis: Buffalo’s defense too much for KC",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T07:01:52.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146513/bills-vs-chiefs-week-12-postgame-analysis-buffalos-defense-too-much-for-kc"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/changed-the-football-game-bills-special-teams-make-all-the-difference-in-thanksgiving-night-win-over-the-chiefs",
+      "team": "bills",
+      "title": "'Changed the football game' | Bills' special teams make all the difference in Thanksgiving Night win over the Chiefs",
+      "summary": "Buffalo leans on kicking and invisible yardage to win rainy, windy slugfest on Thursday",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T06:59:40.000Z",
+      "link": "https://www.buffalobills.com/news/changed-the-football-game-bills-special-teams-make-all-the-difference-in-thanksgiving-night-win-over-the-chiefs"
+    },
+    {
+      "id": "espn-bills::50609218",
+      "team": "bills",
+      "title": "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+      "summary": "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+      "source": "ESPN",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T06:19:18Z",
+      "link": "https://www.espn.com/video/clip/_/id/50609218/game-highlight"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267531-we-need-a-second-running-back-desperately/",
+      "team": "bills",
+      "title": "We need a second running back desperately",
+      "summary": "Title says it all. all those carries are gonna take a toll. \n\n\n\n\t \n\n\n\n\tAny good ones out there?\n\n\n\n\t \n\n\n\n\tI'm out on ray davis.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T06:13:01.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267531-we-need-a-second-running-back-desperately/"
+    },
+    {
+      "id": "espn-bills::50582828",
+      "team": "bills",
+      "title": "Bills edge Chiefs with last-second FG in low-scoring battle",
+      "summary": "The Bills won their seventh straight, snapping the Chiefs' win streak at three in a sloppy, low-scoring thriller.",
+      "source": "ESPN · Nick Suss and Nate Taylor",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T05:59:59Z",
+      "link": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/146526/bills-vs-chiefs-rashee-rice-catch-overturned-by-replay-draws-criticism-from-andy-reid",
+      "team": "bills",
+      "title": "Bills vs Chiefs: Rashee Rice catch overturned by replay draws criticism from Andy Reid",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T05:48:06.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/146526/bills-vs-chiefs-rashee-rice-catch-overturned-by-replay-draws-criticism-from-andy-reid"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267530-cole-bishop-has-been-playing-at-a-high-level-ever-since-the-amani-hooker-trade/",
+      "team": "bills",
+      "title": "Cole Bishop has been playing at a high level ever since the Amani Hooker trade...",
+      "summary": "The difference in his play when CJGJ was in there vs. when Hooker is in there is night and day, IMO.\n\n\n\n\t \n\n\n\n\tHe's all over the field......making plays in the backfield, making plays at the LOS, making plays in coverage.....making some big hits as well.\n\n\n\n\t \n\n\n\n\tKelce was not the same player after that brutal Kidney shot Bishop dropped on him.\n\n\n\n\t \n\n\n\n\tHooker and Bishop look like a strong Safety duo this year, and for years to come!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T05:46:34.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267530-cole-bishop-has-been-playing-at-a-high-level-ever-since-the-amani-hooker-trade/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267529-beat-these-4-teams-and-the-1-seed-is-officially-ours/",
+      "team": "bills",
+      "title": "Beat these 4 teams and the 1 seed is officially ours",
+      "summary": "Beat NE, Denver, Miami and Jets = Bills win the 1 seed.\n\n\n\n\t \n\n\n\n\tWe could forfeit the Bears and Packers games and take a two week hiatus and it wouldn’t matter at all.\n\n\n\n\t \n\n\n\n\tIt comes down to NE, Denver, Miami and Jets. That’s it.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T05:42:45.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267529-beat-these-4-teams-and-the-1-seed-is-officially-ours/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267528-bills-win-a-gamein-a-way-that-the-bills-used-to-lose-a-game/",
+      "team": "bills",
+      "title": "Bills win a game.........in a way that the Bills used to lose a game!!!!",
+      "summary": "What just happened!!!!!\n\n\n\n\t \n\n\n\n\tDuring the drought years, how many times did we watch the Bills blow a game exactly like the Chiefs blew this game tonight....the examples are too many to mention.\n\n\n\n\t \n\n\n\n\tThe Bills did everything they could to lose this game for 59 minutes, but when it mattered most:\n\n\n\n\t \n\n\n\n\t1. A punt buried the Chiefs deep in their own territory\n\n\n\n\t2. The D forced a quick 3 and out\n\n\n\n\t3. The Bills block a punt\n\n\n\n\t4. Dortch returns it just enough to get into FG range\n\n\n\n\t5. Bass buries a 57 yard walk-off FG\n\n\n\n\t \n\n\n\n\tIt feels so good to be on the winning side of one of these crazy finishes!!\n\n\n\n\t \n\n\n\n\tIt feels even better that it was against the Chiefs!!\n\n\n\n\t \n\n\n\n\tGo Bills!!!!!!!!!!!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T05:18:58.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267528-bills-win-a-gamein-a-way-that-the-bills-used-to-lose-a-game/"
+    },
+    {
+      "id": "bills-official::https://www.buffalobills.com/news/bills-13-chiefs-10-final-score-recap-highlights",
+      "team": "bills",
+      "title": "Bills 13, Chiefs 10 | Final Score, recap + highlights",
+      "summary": "James Cook III has 32 carries for 117 yards and a touchdown on the ground. Cook’s total was the most rushing yards any player has had against Kansas City this season,",
+      "source": "Bills.com",
+      "sourceType": "team",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T05:08:18.000Z",
+      "link": "https://www.buffalobills.com/news/bills-13-chiefs-10-final-score-recap-highlights"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267527-just-a-reminder-we-fans-can-be-wrong-too/",
+      "team": "bills",
+      "title": "Just a reminder, we fans can be wrong too.",
+      "summary": "The three MVPs of this game were Cook, Bass, and Leonhard.  \n\t \n\n\n\n\tI remember the thread where people were ready to let James walk in FA and thought he didn’t deserve to get paid.  Yes, many were happy with the team friendly deal, but it was a debate.  \n\t \n\n\n\n\tBass had the yips two seasons ago and missed last season.  A lot of people wanted to see us move on.  He’s absolutely balled out this year. \n\t \n\n\n\n\tNot as relevant as we all knew it would take time, but I don’t think anyone saw this level of turnaround for the Bills defense.  Yes the weather was a factor, but they really shut down the Chiefs minus the double dip and we’re absolute disrupters at the end when it mattered most. I believe we had a Fire Leonhard thread last month?\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tAlso, I’m not throwing stones.  I thought James would easily be replaceable, but did want him back on a reasonable deal. \n\t \n\n\n\n\tI thought Bass was done.  \n\t \n\n\n\n\tI was starting to wonder if Leonhard was ready for the full responsibility of being a D Coordinator. \n\t \n\n\n\n\tHappy to be wrong!!!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T05:03:39.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267527-just-a-reminder-we-fans-can-be-wrong-too/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267526-before-it-gets-buried-a-shout-out-to-the-play-that-made-this-happen/",
+      "team": "bills",
+      "title": "Before it gets buried, a Shout Out to the play that made this happen....",
+      "summary": "I'm talking about our own BUFFALO JOE with the tip on the punt!!!! Way to go, Joe!!!!!! Woo-Hoo!!!!!!\n\n\n\n\t \n\n\n\n\t \n\n\n\n\tGO BILLS!!!!!",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T05:01:45.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267526-before-it-gets-buried-a-shout-out-to-the-play-that-made-this-happen/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/146497/afc-playoff-picture-buffalo-bills-one-seed-chiefs-thanksgiving",
+      "team": "bills",
+      "title": "AFC Playoff Picture: Bills secure a big conference win in chase for one seed",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T04:41:07.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/146497/afc-playoff-picture-buffalo-bills-one-seed-chiefs-thanksgiving"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267525-whats-up-with-josh/",
+      "team": "bills",
+      "title": "What's up with Josh?",
+      "summary": "Seriously, I've never seen him look so bad in a game. And his last five games passing have been poor... is this just the Brady offense's lack of downfield pass game, or is something up with Josh?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T04:39:00.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267525-whats-up-with-josh/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267524-special-teams/",
+      "team": "bills",
+      "title": "Special teams",
+      "summary": "It's time to give Jeff Rodgers his due. His unit has been lights out this year. Dortch is the most professional punt returner we've had in I don't know how long. Bass is the best kicker in the NFL this year. For anyone that says special teams players are a waste of a roster spot, this game should be a wake up call. We won this game because Andreesen and Dortch, two players who do nothing on offense or defense, made key plays at the end.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T04:38:14.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267524-special-teams/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146471/buffalo-bills-stock-report-in-insane-13-10-victory-vs-kansas-city-chiefs",
+      "team": "bills",
+      "title": "Buffalo Bills stock report in insane 13-10 victory vs. Kansas City Chiefs",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T04:36:03.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146471/buffalo-bills-stock-report-in-insane-13-10-victory-vs-kansas-city-chiefs"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267521-bass-comeback-player-of-the-year/",
+      "team": "bills",
+      "title": "Bass: Comeback player of the Year?",
+      "summary": "Guy missed an entire season and has been nearly a sure thing every week this year. \n\t \n\n\n\n\twhether a Kicker could win that award is not something I’m sure of.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T04:29:55.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267521-bass-comeback-player-of-the-year/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/146480/buffalo-bills-olb-greg-rousseau-ties-mario-williams-team-sack-total",
+      "team": "bills",
+      "title": "Buffalo Bills OLB Greg Rousseau ties Mario Williams’ team sack total",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T03:53:11.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/146480/buffalo-bills-olb-greg-rousseau-ties-mario-williams-team-sack-total"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-history/146477/buffalo-bills-rb-james-cook-ties-30-year-old-nfl-rushing-record",
+      "team": "bills",
+      "title": "Buffalo Bills RB James Cook ties 30-year-old NFL rushing record",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T03:46:10.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-history/146477/buffalo-bills-rb-james-cook-ties-30-year-old-nfl-rushing-record"
+    },
+    {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-kansas-city-chiefs-where-to-watch-stream-and-listen-nfl-thanksgiving-2026",
       "team": "bills",
       "title": "Buffalo Bills vs. Kansas City Chiefs | Where to watch, stream and listen | NFL Thanksgiving 2026",
@@ -185,39 +515,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-27T00:30:00.000Z",
       "link": "https://www.buffalobills.com/news/buffalo-bills-vs-kansas-city-chiefs-where-to-watch-stream-and-listen-nfl-thanksgiving-2026"
-    },
-    {
-      "id": "espn-bills::50588078",
-      "team": "bills",
-      "title": "NFL Week 12 arrivals: Chris Jones leads arrivals ahead of Chiefs-Bills",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "source": "ESPN · ESPN Staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-27T00:25:19Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals"
-    },
-    {
-      "id": "espn-bills::50577887",
-      "team": "bills",
-      "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
-      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "source": "ESPN · Anthony Gharib",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-27T00:24:39Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267520-josh-allen-stat/",
-      "team": "bills",
-      "title": "Josh Allen Stat",
-      "summary": "Don’t know why I thought about this today, but there are only six stadiums in which Josh hasn’t won a game:\n\n\n\n\t \n\n\n\n\tCinci (sole AFC locale)\n\n\n\n\tArizona\n\n\n\n\tAtlanta\n\n\n\n\tGreen Bay (can rectify that this year)\n\n\n\n\tPhilly\n\n\n\n\tTampa",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-27T00:09:24.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267520-josh-allen-stat/"
     },
     {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-injuries/146451/buffalo-bills-week-12-inactives-vs-the-kansas-city-chiefs",
@@ -231,17 +528,6 @@
       "link": "https://www.buffalorumblings.com/buffalo-bills-injuries/146451/buffalo-bills-week-12-inactives-vs-the-kansas-city-chiefs"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/146445/buffalo-bills-elevate-kani-walker-from-practice-squad",
-      "team": "bills",
-      "title": "Buffalo Bills elevate Kani Walker from practice squad",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T21:42:15.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/146445/buffalo-bills-elevate-kani-walker-from-practice-squad"
-    },
-    {
       "id": "bills-official::https://www.buffalobills.com/news/bills-elevate-cb-kani-walker-for-week-12-vs-chiefs",
       "team": "bills",
       "title": "Bills elevate CB Kani Walker for Week 12 vs. Chiefs",
@@ -253,59 +539,26 @@
       "link": "https://www.buffalobills.com/news/bills-elevate-cb-kani-walker-for-week-12-vs-chiefs"
     },
     {
-      "id": "espn-bills::50582822",
-      "team": "bills",
-      "title": "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips",
-      "summary": "Eagles-Cowboys and Chiefs-Bills are still on deck. We have the top storylines, bold predictions, stats to know, fantasy/betting nuggets and more.",
-      "source": "ESPN · NFL Nation, Pamela Maldonado, Eric Moody, Seth Walder",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T18:39:03Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/146400/lions-vs-bears-cowboys-vs-eagles-thanksgiving-day-nfl-fan-discussion",
-      "team": "bills",
-      "title": "Lions vs. Bears / Cowboys vs. Eagles Thanksgiving Day NFL fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-fan-survey-trade-targets/",
+      "team": "sabres",
+      "title": "Sabres Fan Survey – Trade Targets",
+      "summary": "Hello all, and Happy Thanksgiving. I’m thankful for the sabres improving their play in the last few games. It would be nice to be thankful for Hellebuyck or even Larkin being on this team, but it was not meant to be. With the two holdouts over, it is time to focus on other players who can help this team. Put on your NHL GM hats and answer the survey below so I can write a follow-up based on the poll results.\n\n\n\n\nSurvey Link\n\n\n\n\nI probably will be roasted for some of these trade suggestions, but I’m used to it from playing armchair GM far too long. While the Sabres are improving, they still have ground to make up to make the playoffs and need roster improvements to be considered a contender.\n\n\n\nEnjoy the food today and Go Bills",
+      "source": "Die By The Blade",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-26T17:25:09.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/146400/lions-vs-bears-cowboys-vs-eagles-thanksgiving-day-nfl-fan-discussion"
+      "publishedAt": "2026-11-26T18:16:54.000Z",
+      "link": "https://www.diebytheblade.com/sabres-fan-survey-trade-targets/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146271/5-kansas-city-chiefs-to-watch-at-the-buffalo-bills",
-      "team": "bills",
-      "title": "5 Kansas City Chiefs to watch at the Buffalo Bills",
-      "summary": "",
-      "source": "Buffalo Rumblings",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-goalie-ukko-pekka-luukkonen-shakes-off-slow-start-quietly-enjoying-hot-stretch/",
+      "team": "sabres",
+      "title": "Sabres goalie Ukko-Pekka Luukkonen shakes off slow start to season, quietly enjoying hot stretch",
+      "summary": "BUFFALO – Over the last four weeks, Ukko-Pekka Luukkonen, whose early-season struggles drew the ire of a surly Sabres fan base, has quietly morphed into one of the NHL’s hottest goalies.\nYes, the Finn allowed five goals in 41 minutes of work Nov. 11 before getting yanked from the Sabres’ ugly 8-3 home loss to the Tampa Bay Lightning.\nBut that’s the lone blemish on his recent record. Since Oct. 31, he has compiled ... Read the full article \nThe post Sabres goalie Ukko-Pekka Luukkonen shakes off slow start to season, quietly enjoying hot stretch first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-26T16:45:44.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146271/5-kansas-city-chiefs-to-watch-at-the-buffalo-bills"
-    },
-    {
-      "id": "espn-bills::50570870",
-      "team": "bills",
-      "title": "NFL Week 12 betting odds: Lines and totals for every game",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
-      "source": "ESPN · ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T14:29:00Z",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/146181/bills-news-what-to-know-ahead-of-week-12-vs-kansas-city-chiefs",
-      "team": "bills",
-      "title": "Bills news: What to know ahead of Week 12 vs. Kansas City Chiefs",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T14:09:20.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-news/146181/bills-news-what-to-know-ahead-of-week-12-vs-kansas-city-chiefs"
+      "publishedAt": "2026-11-26T18:08:23.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-goalie-ukko-pekka-luukkonen-shakes-off-slow-start-quietly-enjoying-hot-stretch/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/we-ve-got-to-be-at-our-best-buffalo-s-offense-gears-up-to-take-on-the-kansas-city-chiefs-stifling-defense",
@@ -319,17 +572,6 @@
       "link": "https://www.buffalobills.com/news/we-ve-got-to-be-at-our-best-buffalo-s-offense-gears-up-to-take-on-the-kansas-city-chiefs-stifling-defense"
     },
     {
-      "id": "espn-bills::49794361",
-      "team": "bills",
-      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "source": "ESPN · ESPN staff",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T13:08:57Z",
-      "link": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/2026-concacaf-w-championship-preview-uswnt/",
       "team": "usmnt",
       "title": "2026 Concacaf W Championship: What to know, how to watch as USWNT aim to punch ticket to World Cup",
@@ -341,70 +583,37 @@
       "link": "https://www.cbssports.com/soccer/news/2026-concacaf-w-championship-preview-uswnt/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267516-gameday-112626-week-12-bills-vs-chiefs-8pm-thanksgiving-2nd-half-thread/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267517-gameday-112626-week-12-bills-vs-chiefs-8pm-thanksgiving-post-game-thread/",
       "team": "bills",
-      "title": "GAMEDAY 11/26/26 Week 12 Bills vs. Chiefs 8pm Thanksgiving 2nd half THREAD",
-      "summary": "Go Bills!!!\n\n\n\n\t \n\n\n\n\tBills 7 Chiefs 3\n\n\n\n\t \n\n\n\n\tThe Chiefs receive the kickoff.\n\n\n\n\t \n\n\n\n\tThread opened during halftime and will be loved at game end.",
+      "title": "GAMEDAY 11/26/26 Week 12 Bills vs. Chiefs 8pm Thanksgiving post game THREAD",
+      "summary": "Go Bills!!!\n\n\n\n\t \n\n\n\n\tBills 13 Chiefs 10\n\n\n\n\t \n\n\n\n\tEnjoy turkey leftovers!!!!",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-11-26T11:11:00.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267516-gameday-112626-week-12-bills-vs-chiefs-8pm-thanksgiving-2nd-half-thread/"
+      "publishedAt": "2026-11-26T11:13:23.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267517-gameday-112626-week-12-bills-vs-chiefs-8pm-thanksgiving-post-game-thread/"
     },
     {
-      "id": "espn-bills::50511931",
-      "team": "bills",
-      "title": "Why the Chiefs and Bills can give thanks to 2017 trade that landed Mahomes in KC",
-      "summary": "Kansas City traded up for Patrick Mahomes, while Buffalo got a franchise left tackle and several Pro Bowlers.",
-      "source": "ESPN · Nick Suss",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T11:00:03Z",
-      "link": "https://www.espn.com/nfl/story/_/id/50511931/bills-chiefs-2017-trade-no-10-pat-mahomes"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267514-happy-thanksgiving-tbders-and-your-families/",
-      "team": "bills",
-      "title": "HAPPY THANKSGIVING TBDers and your families",
-      "summary": "Guys:\n\n\n\n\t \n\n\n\n\tI didn’t see anyone yet this morning so decided why not start a thread for well wishes for the Thanksgiving Holiday.  Between the plethora of football starting last night through tomorrow, our matchup of the year tonight, and time with all of your families.\n\n\n\n\t \n\n\n\n\tWe are hosting early with the all the kids in our Brady Bunch family as we have my three, two of their GF/BF, my two stepsons, one’s GF and my wife.  She tries to embrace this holiday as she grew up in China, but knows it’s important to our family.  It should be a great day, and if anyone is doing something fun, please share.\n\n\n\n\t \n\n\n\n\tHave fun guys!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T10:51:32.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267514-happy-thanksgiving-tbders-and-your-families/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146345/bills-vs-chiefs-week-12-preview-5-questions-for-thanksgiving-game",
-      "team": "bills",
-      "title": "Bills vs. Chiefs, Week 12 preview: 5 questions for Thanksgiving game",
-      "summary": "",
-      "source": "Buffalo Rumblings",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-jack-quinn-on-tear-developing-into-star-rasmus-dahlin-scores-early-in-win-over-rangers/",
+      "team": "sabres",
+      "title": "Sabres’ Jack Quinn on tear, developing into star; Rasmus Dahlin scores early in win over Rangers",
+      "summary": "BUFFALO – Jack Quinn’s maturation from a raw youngster struggling to meet his high expectations into a top-flight goal scorer for the Sabres took five seasons.\nAt times, it felt like Quinn, who extended his goal streak to a career-high four games in Wednesday’s 5-1 win over the New York Rangers, might never develop into the player the Sabres envisioned when they drafted him eighth overall in 2020.\nThe slick winger battled injuries and ineffectiveness. ... Read the full article \nThe post Sabres’ Jack Quinn on tear, developing into star; Rasmus Dahlin scores early in win over Rangers first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-26T08:35:37.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146345/bills-vs-chiefs-week-12-preview-5-questions-for-thanksgiving-game"
+      "publishedAt": "2026-11-26T05:56:51.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-jack-quinn-on-tear-developing-into-star-rasmus-dahlin-scores-early-in-win-over-rangers/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146125/buffalo-bills-olb-greg-rousseau-single-handedly-wrecking-nfl-offenses",
-      "team": "bills",
-      "title": "Buffalo Bills OLB Greg Rousseau single-handedly wrecking NFL offenses",
-      "summary": "",
-      "source": "Buffalo Rumblings",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-josh-doan-no-longer-cheating-for-offense-says-game-in-a-good-spot/",
+      "team": "sabres",
+      "title": "Sabres’ Josh Doan no longer cheating for offense, says game ‘in a good spot’",
+      "summary": "BUFFALO – Right now, Josh Doan isn’t focused on producing points. No, the Sabres winger, having cheated for offense earlier this season, understands that doesn’t work.\nSo Doan, 24, has recently tried to become tougher to play against while zeroing in on other aspects of his game.\nThe result? Well, he hasn’t scored much. After recording the primary assist on center Josh Norris’ goal in Wednesday’s 5-1 win over the New York Rangers, he has ... Read the full article \nThe post Sabres’ Josh Doan no longer cheating for offense, says game ‘in a good spot’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-26T08:34:38.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146125/buffalo-bills-olb-greg-rousseau-single-handedly-wrecking-nfl-offenses"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146375/majority-of-bills-fans-predict-a-win-for-buffalo-vs-chiefs-on-thanksgiving",
-      "team": "bills",
-      "title": "Majority of Bills fans predict a win for Buffalo vs. Chiefs on Thanksgiving",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-26T08:31:19.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146375/majority-of-bills-fans-predict-a-win-for-buffalo-vs-chiefs-on-thanksgiving"
+      "publishedAt": "2026-11-26T05:39:20.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-josh-doan-no-longer-cheating-for-offense-says-game-in-a-good-spot/"
     },
     {
       "id": "espn-sabres::50600707",
@@ -427,6 +636,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-26T02:56:32Z",
       "link": "https://www.espn.com/video/clip/_/id/50600705/game-highlights"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sabres-5-1-rangers-recap-homecoming-thanksgiving-night-of-five/",
+      "team": "sabres",
+      "title": "Sabres make it a night of fives against the Rangers",
+      "summary": "Buffalo bring the salt and pepper on homecoming night \n\n\n\nBoxscore\n\n\n\nScore: Buffalo Sabres 5-1 New York RangersShots: BUF 30-30 NYR\n\n\n\nBuffalo Sabres Goals: Rasmus Dahlin 5 (Kulich, Thompson), Josh Norris 5 (Doan, Zucker), Benson 5 (Dahlin), Quinn 14 (Krebs, Ostlund), Kulich 5 (Thompson, Benson)New York Rangers Goals: Gavrikov 2 (Fox, Raddysh)\n\n\n\nThanksgiving Eve has long been a Buffalo tradition when a lot of folks who have since moved away from the Western New York area come back home for the holiday and reacquaint themselves with friends and family. Among the younger crowd, it’s also very well-known as being the biggest drinking night of the year. In recent years the NHL have taken advantage of this influx by ensuring the Sabres have at least one home game around the Turkey Day holiday, and this year the city gets the full turkey sandwich with home games on Wednesday and Friday and the Buffalo Bills taking on their Thanos the Kansas City Chiefs on Thanksgiving Day. There are going to be some very hungover people on Saturday!     \n\n\n\nQuick Thoughts\n\n\n\nFirst Period – Melted Gobbler Sandwich\n\n\n\nThe homecoming crowd was already pumped up by the awesome salt and pepper shaker giveaway. Will this pair turn the campaign around like the famous butter dish did last season?!\n\n\n\n\nAn up-close look at the Salt & Pepper shakers! 🔎Get yours at tonight's game  → https://t.co/bCPfhQRoB4#LetsGoBuffalo📷 | @TopsMarkets pic.twitter.com/x8TPWl7zKy&mdash; Buffalo Sabres (@BuffaloSabres) November 25, 2026\n\n\n\n\nThe long lines for the incredible offerings from the KeyBank Center executive chef Michael Buonopane were deserved too as we saw during the first period break with Brian Duff, Marty Biron, Meghan Chayka and commentators Dan Dunleavy and Rob Ray gorging themselves on the holiday treats. \n\n\n\n\nStart your Thanksgiving feast early with our special concessions at tonight's game! 🍽️Learn more → https://t.co/UYPpBsWy3i#LetsGoBuffalo | @TopsMarkets pic.twitter.com/34Vq7yVKcv&mdash; Buffalo Sabres (@BuffaloSabres) November 25, 2026\n\n\n\n\nCaptain Rasmus Dahlin opened the game like he was in a hurry to end proceedings and get back home, feeding off the energy in the building and putting the Sabres up by one after just seventeen seconds with a great jump up into the offensive zone. \n\n\n\n\nRas got 🆙#LetsGoBuffalo pic.twitter.com/2ucGdaeiRa&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nThe Rangers are not abysmal this season and showed why as they refused to fold despite finding themselves behind early on with a partisan home crowd. They actually had the edge on scoring chances without actually challenging goalie Ukko-Pekka Luukkonen too much. \n\n\n\nSecond Period – Fried Stuffing\n\n\n\nBreakfast is my favorite meal, and the post-Thanksgiving breakfast is always an opportunity to put together something incredible – turkey, stuffing and anything else in a waffle iron with batter poured over it, finished with maple syrup, gravy and cranberry jelly is always an occasion in our household. The fried stuffing sticks looked a lot like that. And like most deep-fried goodness that tastes great and fills you up but then leaves you feeling guilty, so did this period.    \n\n\n\nThe Sabres had a distinct advantage with their speed and that manifested itself with more odd-man rushes than the Sabres have had in recent games. Two and a half minutes into the period Josh Doan found a streaking Josh Norris behind the last man at the back post and the much-maligned center got his first point in five games with a goal. \n\n\n\n\nThe feed and the finish. 🤌 pic.twitter.com/dWn9pTvmPJ&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nThe loud crowd got even more raucous after that, and then just over thirty seconds later, the lead was 3-0. A poor giveaway by goalie Joonas Korpisalo saw Benson regain possession in the trapezoid, and a sustained spell of possession ended up with a Dahlin shot getting tipped in by Benny. \n\n\n\n\nBig time Benny‼️#LetsGoBuffalo pic.twitter.com/yTpEJRk9cS&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nThe vibes had been festive at KBC but they quickly turned jubilant at that point. Upie needed to be at his best though to keep things like they were as Buffalo seemed to ease off the gas pedal towards the end of the period. But as things always go, an unfortunate deflection off McLeod’s stick gave Gavrikov a goal from the blue line with less than a minute left to play in the period. \n\n\n\nSabres led in shots 26-21 but behind on scoring chances 14-12 after two. \n\n\n\nThird Period – Pecan Pie Shake\n\n\n\nBenson took an ill-advised penalty early in the third, tripping JT Miller less than a minute into the period. The PK was good though and kept things as they were, not allowing any shots during the power play with UPL also making some big saves in that spell. \n\n\n\nAt the halfway mark the Sabres pounced on the Rags cheating down the ice seeking the equalizer, with Krebs breaking away down the middle. He found Jack Quinn streaking down the right on an odd-man rush and the on-fire winger wired a shot past Korpisalo’s blocker to make it 4-1 and quash any thoughts of a comeback. \n\n\n\n\nJack Quinn can't be stopped. 😤#LetsGoBuffalo pic.twitter.com/gwP3YyhV9F&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nThe party was well and truly on at that point with the wave doing the rounds around KBC and all was well once again within the Sabrehood. \n\n\n\nJiri Kulich decided to show that he was well and truly back, and that Sabres top line showed tonight they can take on any team in the league with Benson and Thompson driving the puck forward. \n\n\n\n\nKuli's cleaning up. 🧹#LetsGoBuffalo pic.twitter.com/k9EP4qwdxq&mdash; Buffalo Sabres (@BuffaloSabres) November 26, 2026\n\n\n\n\nAt The Horn\n\n\n\nThe Sabres made it four straight games where they have played well and been the better side, and for a poor third period in Sunrise, FL they would be sitting on a four-game winning streak tonight. It was a night of fives aside from that with four different players getting their fifth goal of the season as Buffalo scored five in the win. \n\n\n\nLuukkonen has the most wins of the Sabres’ three-headed goalie monster and was at his best tonight. He was dialed in and didn’t let anything faze him, including a couple of big saves on a late third period power play, and fully deserved the ‘Ryan Miller shutout’ he got. \n\n\n\nKrebs had a great game, showed lots of fight, was physical throughout, loved his hit on Zibanejad and got the cherry on top with his twelfth assist of the season too. \n\n\n\nWhere would Buffalo be without our resident carny Zach Benson? While other players have been in and out of the roster and hot and cold on the ice, the diminutive Tasmanian Devil has just continued to be a dervish on the ice with and without the puck. Many try to put him down for having a ‘weak’ shot but he’s got 23 points in 25 games and is third in scoring on the team, so guess who’s having the last laugh?\n\n\n\nBuffalo have traditionally struggled against the Pittsburgh Penguins, but will welcome the Eastern Conference’s bottom team on Friday, where hopefully we’re all coming off a big Bills win and a good Thanksgiving dinner. \n\n\n\nHeader image courtesy of Buffalo Sabres",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-26T02:52:43.000Z",
+      "link": "https://www.diebytheblade.com/sabres-5-1-rangers-recap-homecoming-thanksgiving-night-of-five/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/social-video-twitter/47245/usa-soccercast-episode-205-concacaf-w-championship-begins",
@@ -473,15 +693,15 @@
       "link": "https://www.buffalobills.com/news/it-s-always-a-challenge-how-the-bills-are-preparing-for-a-high-powered-kansas-city-chiefs-offense"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267505-favorite-nfl-thanksgiving-memory/",
-      "team": "bills",
-      "title": "Favorite NFL Thanksgiving Memory?",
-      "summary": "While NFL Thanksgiving day games always make me think of John Madden and Pat Summerall, of Barry Sanders and the 90s Cowboys and rookie Randy Moss...\n\t\n\t...if I had to pick just one favorite NFL Thanksgiving memory, it's the Bills-Cowboys game. Josh's national coming out party. Beasley going off on his former team. The players eating the turkey leg after the game. Just a great, fun, memorable game.\n\t\n\tHow about you?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-25-preview-open-thread-buffalo-sabres-vs-new-york-rangers/",
+      "team": "sabres",
+      "title": "Game #25 Preview & Open Thread: Buffalo Sabres vs New York Rangers",
+      "summary": "Buffalo Sabres (10-10-4) vs New York Rangers (13-9-1)\n\n\n\nPuck Drop: 7 p.m. ET | Keybank Center, Buffalo, NY \n\n\n\nTV: MSG-B, MNMT\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nNew York Rangers\n\n\n\nRecord: 13-9-1 | 27 Pts\n\n\n\nLast Game: 5-2 loss vs Carolina\n\n\n\nDivision Ranking: 3rd\n\n\n\nPP: 22nd, 21.2% [Sabres: 30th, 16.7%]\n\n\n\nPK: 1st, 90% [Sabres: 26th, 72.3%]\n\n\n\nSeason Series: Sabres 2-1-0 vs Rangers last season\n\n\n\nSabres look to start hot streak in most popular game of season\n\n\n\nWhat we’re thankful for\n\n\n\nThe Buffalo Sabres head into Wednesday night’s contest against the New York Rangers looking to finally get hot this season, coming off arguably their most impressive win on Sunday night against the Tampa Bay Lightning. The signs of life are a little more evident than they were one week ago, going 2-1 in their last three games of the road trip, beating the Washington Capitals in addition to the Lightning, and playing well in their loss to the Florida Panthers in a game where they probably should have won or at least come away with a point. A few players are elevating their game for the Sabres during this dire stretch, and while a lot of attention has been placed on the struggling group of Ryan McLeod, Jason Zucker, Josh Norris, and Josh Doan, the guys stepping up should be called out as well.\n\n\n\nFor starters, Josh Doan, in the midst of what can only be described as a dreadful season, is showing signs of finding his game again. It seems that whatever injury was bothering him at the start of the season is resolving, and he’s getting back to his harder, tenacious style of play that made him so endearing to the fanbase last season. This does have to translate into actual results sooner rather than later if the Sabres are going to turn the season around, but the early signs are there for Doan, albeit in just a couple game sample.\n\n\n\nBut a few guys are really stepping up, in particular Tage Thompson and Jack Quinn. Starting with Thompson, he is playing some of the best hockey of his career from a raw production standpoint. On the season, he has 17 goals and 28 points in 24 games this year, putting him at fifth place in the entire NHL in goals. Thompson has seven of those points in his last four games, including five goals, and while he has a track record of being a streaky player at times, as most goal scorers are, he is doing a lot of the things that have made him a dynamic offensive force in the pass. He has been stick handling through defenders like butter, making clever passes, and looking like the guy the Sabres have needed, and this probably isn’t a coincidence that he’s been doing this while playing the wing. In a season where a lot of players have been disappointing, even Thompson at some points, he certainly does not fall into the disappointing category as of late. \n\n\n\nThe other guy who has truly elevated is Jack Quinn, and while the contract situation for Quinn currently looms over the team, we’re going to ignore that here and just talk about his production. It is no secret the Sabres have struggled to score this year, but Quinn is absolutely not one of those guys. Quinn has 24 points in 24 games, including 13 goals, and the Sabres have needed every single one of them that both he and Thompson have scored. Quinn’s best attribute is his willingness and ability to get to the middle of the ice. Watching him enter the zone on a rush is an entirely different experience than every other Sabres skater, as almost anyone else takes the puck out wide. Not Quinn though, Quinn is hellbent on carrying the puck to the middle and almost always gets there, helping to generate a good scoring chance if not a goal. This skillset has always been there in Quinn, dating back to his rookie season when he scored this goal (the first goal in the highlight package) against the Minnesota Wild, which has stuck out to me as special ever since it happened. \n\n\n\nQuinn’s puck handling ability, combined with his shot, are a very lethal duo that are going to combine to make him a very rich man, whether it is in Buffalo or elsewhere. Like Thompson, there is no telling where the Sabres would be without Quinn this season. There are a couple other guys who have been starting to elevate as well. Jiri Kulich seems to be thriving between Thompson and Zach Benson, as his skillset is really coming out. The shot is lethal and his speed is real and with the Sabres in dire need of someone stepping into the role of first line center, Kulich is serving that role better than anyone else has this season. Peyton Krebs also deserves a shout for his play on the second line as of late, as his gritty style of play has been a nice compliment to Quinn and Noah Ostlund. \n\n\n\nTurkey Day Eve\n\n\n\nThe Wednesday home game has become a beloved tradition for both the Sabres and the city of Buffalo. It annually has the best attendance of any game in a season, and the Sabres have fully leaned in with the Sabres-themed Thanksgiving dinner set piece giveaway, with this year featuring salt and pepper shakers, and the years prior having gravy boats and butter dishes given away. They have played a home game before Thanksgiving in five of the last six seasons including this one.\n\n\n\nIt’s a really fun day, as a lot of the snowbirds that migrated south over the years are often back in town and end up going to this game, making it a whole family affair and keeping the vibe high in the building almost no matter what the game is. Even in the more recent dark years, this game served as a sort of beacon for people, drawing a great crowd, no matter how the team is playing in that given season.I am personally thankful that the drought is behind us, and that even while the team has not been amazing to start the season, it is nice to finally be on the other side of it. Hopefully we are all thankful for a Sabres win tonight as well. \n\n\n\nProjected Lineup\n\n\n\nBuffalo Sabres \n\n\n\nForwards\n\n\n\nBenson-Kulich-Thompson\n\n\n\nKrebs-Ostlund-Quinn\n\n\n\nZucker-Norris-Doan\n\n\n\nMalenstyn-McLeod-Carrick\n\n\n\nDefense\n\n\n\nSamuelsson*-Dahlin\n\n\n\nPower-Timmins\n\n\n\nZellweger-Crevier\n\n\n\nGoalies \n\n\n\nLuukkonen\n\n\n\nLyon\n\n\n\n*game time decision\n\n\n\nNew York Rangers\n\n\n\nForwards\n\n\n\nCuylle-Zibanajed-Lafreniere\n\n\n\nKartye-Miller-Perreault\n\n\n\nTolvanen-Laba-Chmelar\n\n\n\nGawdin-Sasson-Rempe\n\n\n\nDefense\n\n\n\nGavrikov-Fox\n\n\n\nPettersson-Durzi\n\n\n\nSchneider-Morrow\n\n\n\nGoalies \n\n\n\nKorpisalo\n\n\n\nGarand",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T19:21:58.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267505-favorite-nfl-thanksgiving-memory/"
+      "publishedAt": "2026-11-25T20:36:17.000Z",
+      "link": "https://www.diebytheblade.com/game-25-preview-open-thread-buffalo-sabres-vs-new-york-rangers/"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-chiefs-week-12-thanksgiving",
@@ -528,28 +748,6 @@
       "link": "https://www.starsandstripesfc.com/uswnt-news/47230/meet-the-teams-at-the-2026-concacaf-w-championship"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267501-yay-everyone%E2%80%99s-last-psl-payment-is-dec-1st/",
-      "team": "bills",
-      "title": "Yay! Everyone’s last PSL payment is Dec 1st!",
-      "summary": "It feels great that this is the last PSL payment.\n\n\n\n\tAnd now that it's over, I'm really happy that we pulled the trigger and kept our seats.\n\n\n\n\tLots of new adventures to come starting with QB 17. \n\n\n\n\tGo Bills!",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T17:04:30.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267501-yay-everyone%E2%80%99s-last-psl-payment-is-dec-1st/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267500-what-happened-to-home-field-advantage-in-the-nfl/",
-      "team": "bills",
-      "title": "What happened to home field advantage in the NFL?",
-      "summary": "Currently, there are 11 teams with 1 win or less at home(7 teams with 1 win & 4 teams with 0 wins). Every one of these teams has a better road record(in some cases still very bad). \n\t \n\n\n\n\tWhat happened to the home field advantage, or is it just one of those years?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T17:01:37.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267500-what-happened-to-home-field-advantage-in-the-nfl/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47235/2026-concacaf-w-championship-previewing-uswnt-vs-el-salvador",
       "team": "usmnt",
       "title": "2026 CONCACAF W Championship – Previewing USWNT vs. El Salvador",
@@ -559,28 +757,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-25T16:14:47.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-news/47235/2026-concacaf-w-championship-previewing-uswnt-vs-el-salvador"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267499-rip-martha-firestone-ford-longtime-owner-of-the-detroit-lions/",
-      "team": "bills",
-      "title": "RIP Martha Firestone Ford - Longtime Owner of the Detroit Lions",
-      "summary": "Quite an illustrious life. RIP, Martha.\n\n\n\n\t \n\n\n\n\tMartha was special,\" NFL commissioner Roger Goodell said in a statement. \"She cared so deeply about her family, the players, their fans, and the city of Detroit. She was committed to making the Lions -- and the game of football -- better. Martha and her husband, William Clay Ford, led the franchise with dignity and integrity. We will miss her kindness and sweet sense of humor. We extend our deepest condolences to her children, the entire Ford family, and the Lions' organization.\"\n\n\n\n\t\n\t \n\n\n\n\thttps://www.nfl.com/news/lions-owner-chair-emeritus-martha-firestone-ford-dies-at-101",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T15:58:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267499-rip-martha-firestone-ford-longtime-owner-of-the-detroit-lions/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146275/5-buffalo-bills-to-watch-vs-the-kansas-city-chiefs",
-      "team": "bills",
-      "title": "5 Buffalo Bills to watch vs. the Kansas City Chiefs",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T15:44:48.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146275/5-buffalo-bills-to-watch-vs-the-kansas-city-chiefs"
     },
     {
       "id": "cbs-nhl::https://www.cbssports.com/nhl/news/nhl-power-rankings-minnesota-wild-quinn-hughes-chicago-blackhawks/",
@@ -616,37 +792,26 @@
       "link": "https://www.buffalobills.com/news/what-bills-fans-can-expect-at-highmark-stadium-for-week-12-vs-chiefs-nfl-thanksgiving-2026"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267497-aaron-rodgers-benched-and-released/",
-      "team": "bills",
-      "title": "Aaron Rodgers Benched and Released",
-      "summary": "…might be done forever.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/after-early-struggles-sabres-jiri-kulich-becoming-force-at-center-on-line-with-zach-benson-and-tage-thompson/",
+      "team": "sabres",
+      "title": "After early struggles, Sabres’ Jiri Kulich becoming force at center on line with Zach Benson and Tage Thompson",
+      "summary": "BUFFALO – Jiri Kulich needed time to re-acclimate to the NHL. In his first outings after spending nearly a year recovering from a blood clot, the Sabres center played tentatively. He started overthinking and lost his instincts.\n“I think I tried to be someone that I’m not,” Kulich said following Tuesday’s practice in KeyBank Center.\nThe Czech said he was trying to play too simple of a game. He didn’t hold onto pucks long enough. ... Read the full article \nThe post After early struggles, Sabres’ Jiri Kulich becoming force at center on line with Zach Benson and Tage Thompson first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T04:27:23.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267497-aaron-rodgers-benched-and-released/"
+      "publishedAt": "2026-11-25T05:43:21.000Z",
+      "link": "https://www.buffalohockeybeat.com/after-early-struggles-sabres-jiri-kulich-becoming-force-at-center-on-line-with-zach-benson-and-tage-thompson/"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/all-eyes-are-on-us-the-bills-share-their-excitement-ahead-of-thanksgiving-matchup-with-the-chiefs",
-      "team": "bills",
-      "title": "'All eyes are on us' | The Bills share their excitement ahead of Thanksgiving matchup with the Chiefs",
-      "summary": "Buffalo prepares to host first Thanksgiving Day game in team history",
-      "source": "Bills.com",
-      "sourceType": "team",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-konsta-helenius-practices-feels-close-to-returning-from-injury/",
+      "team": "sabres",
+      "title": "Sabres’ Konsta Helenius practices, feels ‘close’ to returning from injury",
+      "summary": "BUFFALO – Konsta Helenius said he noticed one of the San Jose Sharks nearby as he carried the puck into enemy territory Oct. 27. The Sabres rookie just didn’t realize it was defenseman Jacob Trouba.\nThe 6-foot-3, 215-pound Trouba laid into the 5-foot-11, 194-pound Helenius’ right shoulder, knocking him to the ice in the second period of the Sabres’ 2-0 win.\n“It was unlucky,” Helenius said after practicing Tuesday in a red non-contact jersey, ... Read the full article \nThe post Sabres’ Konsta Helenius practices, feels ‘close’ to returning from injury first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T02:40:37.000Z",
-      "link": "https://www.buffalobills.com/news/all-eyes-are-on-us-the-bills-share-their-excitement-ahead-of-thanksgiving-matchup-with-the-chiefs"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267496-allen%E2%80%99s-deep-throw-struggles/",
-      "team": "bills",
-      "title": "Allen’s deep throw struggles",
-      "summary": "Hat tip to @Alphadawg7. Joe Marino has the goods, starting at the 3:55 mark:",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T01:26:56.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267496-allen%E2%80%99s-deep-throw-struggles/"
+      "publishedAt": "2026-11-25T05:02:45.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-konsta-helenius-practices-feels-close-to-returning-from-injury/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-coverage/47193/usa-vs-el-salvador-2026-concacaf-w-championship-scouting-el-salvador",
@@ -781,17 +946,6 @@
       "link": "https://www.starsandstripesfc.com/social-video-twitter/47210/usa-to-host-2028-copa-america"
     },
     {
-      "id": "bills-official::https://www.buffalobills.com/news/top-storylines-for-bills-vs-chiefs-week-12-thanksgiving",
-      "team": "bills",
-      "title": "Top Storylines for Bills vs. Chiefs | Week 12 Thanksgiving",
-      "summary": "Bills insider Chris Brown highlights the key factors in the upcoming rivalry matchup",
-      "source": "Bills.com",
-      "sourceType": "team",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T16:43:20.000Z",
-      "link": "https://www.buffalobills.com/news/top-storylines-for-bills-vs-chiefs-week-12-thanksgiving"
-    },
-    {
       "id": "espn-sabres::50576360",
       "team": "sabres",
       "title": "A mystery no more? How movement tracking could shed new light on NHL goaltenders",
@@ -803,26 +957,15 @@
       "link": "https://www.espn.com/nhl/story/_/id/50576360/nhl-2026-27-goalies-mystery-movement-butterfly-tracking-technology"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267483-week-12-chefs-v-bills-predict-the-score/",
-      "team": "bills",
-      "title": "Week 12, Chefs v. Bills, PREDICT THE SCORE!",
-      "summary": "The dreaded Chefs come into Highmark on Thanksgiving to take on the Bills.  Will this game follow the pattern of the Bills beating the Chefs in the regular season?  Or will Pat the Rat rise up and smite the Bills in a regular season game?\n\n\n\n\t \n\n\n\n\tI reserve my answers to those questions for later.  I am really worried about the Chefs this week.  They appear to have their best team in years.  The only saving grace is that the Bills seemed to be bending over backwards to save their guys for the Chefs game.  Josh had no rushes, Bernard only played 50% of the D snaps.  The D played the replacements most of the 4th QTR, Tre' White, et al.  I think the Bills used the Fish as a mini-bye week to get ready for the short prep week up to Thanksgiving.\n\n\n\n\t \n\n\n\n\tSo my answers are YES and NO!  While my head says Chefs, my heart is with the Bills all the way!  Bills win a nailbiter:\n\t \n\n\n\n\tChefs - 27\n\n\n\n\tBeews - 31\n\n\n\n\t \n\n\n\n\tGOBBLE GOBBLE!!!\n\n\n\n\t \n\n\n\n\tPrevious winners:\n\n\n\n\t \n\n\n\n\tWeek 1 - @colin\n\n\n\n\tWeek 2 - @Freddie's Dead, @HappyDays, @Big Turk\n\n\n\n\tWeek 3 - @Robert Paulson\n\n\n\n\tWeek 4 - @RiotAct\n\n\n\n\tWeek 5 - @Sojourner\n\n\n\n\tWeek 6 - @Reks Ryan, @SydneyBillsFan\n\n\n\n\tWeek 7 - BYE\n\n\n\n\tWeek 8 - @Ridgewaycynic2013, @Ray Stonada\n\n\n\n\tWeek 9 - @BontitaBills\n\n\n\n\tWeek 10 - @agilen, @BigdaddyinOrlando, @eball\n\n\n\n\tWeek 11 - @Dr.Sack",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/at-end-of-long-road-trip-sabres-looked-like-special-team-from-last-season-our-best-hockey/",
+      "team": "sabres",
+      "title": "At end of long road trip, Sabres looked like special team from last season: ‘Our best hockey’",
+      "summary": "BUFFALO – The Sabres chartered home Sunday night and slept in their own beds for the first time in 12 days having salvaged their six-game road trip and possibly their season by winning two of the last three contests.\nEight weeks into the campaign, the Sabres, who enjoyed a day off Monday, stand as perhaps the NHL’s biggest disappointment.\nSunday afternoon’s 6-2 shellacking of the Tampa Bay Lightning improved their record to an underwhelming 10-10-4. ... Read the full article \nThe post At end of long road trip, Sabres looked like special team from last season: ‘Our best hockey’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-23T20:32:41.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267483-week-12-chefs-v-bills-predict-the-score/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267482-niners-release-brandon-aiyuk-signs-with-washington-as-expected/",
-      "team": "bills",
-      "title": "Niners Release Brandon Aiyuk (signs with Washington as expected)",
-      "summary": "I say it’s worth taking a flyer on! If he’s still on that nonsense, we just cut bait and move on.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-23T19:39:18.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267482-niners-release-brandon-aiyuk-signs-with-washington-as-expected/"
+      "publishedAt": "2026-11-24T05:28:38.000Z",
+      "link": "https://www.buffalohockeybeat.com/at-end-of-long-road-trip-sabres-looked-like-special-team-from-last-season-our-best-hockey/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-americans-abroad/47106/usmnt-midweek-viewing-guide-dest-and-pepi-at-the-bernabeu",
@@ -836,15 +979,26 @@
       "link": "https://www.starsandstripesfc.com/usmnt-americans-abroad/47106/usmnt-midweek-viewing-guide-dest-and-pepi-at-the-bernabeu"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267477-2026-new-hc-recordsjust-a-reminder/",
-      "team": "bills",
-      "title": "2026 New HC Records..Just a Reminder",
-      "summary": "Joe Brady    Buffalo Bills    9–1\n\tJohn Harbaugh    New York Giants    6–3–1\n\tTodd Monken    Cleveland Browns    6–4\n\tMike McCarthy    Pittsburgh Steelers    6–2 (as of Nov 5)\n\tJesse Minter    Baltimore Ravens    4–7\n\tKlint Kubiak    Las Vegas Raiders    4–7\n\tMike LaFleur    Arizona Cardinals    3–8\n\tKevin Stefanski    Atlanta Falcons    3–7\n\tJeff Hafley    Miami Dolphins    1–9\n\tRobert Saleh    Tennessee Titans    1–9",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "die-by-the-blade::https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-11-23/",
+      "team": "sabres",
+      "title": "Buffalo Sabres Open Thread, Wk of 11/23",
+      "summary": "The Buffalo Sabres continue to be an up-and-down team, but they did finish the week on a high beating the Bolts comprehensively. Thanksgiving week is lighter on the schedule with just two home games. \n\n\n\nWed 25th, 7pm EST – Buffalo Sabres (10-10-4) vs New York Rangers (13-9-1)Fri 27th, 7pm EST – Buffalo Sabres vs Pittsburgh Penguins (7-14-2)\n\n\n\n\n\n\n\nThe Amerks finally went on a tear, winning all three road games last week including a 8-1 hammering of Wilkes-Barre/Scranton. Thanksgiving weekend will see them playing three games in three nights.\n\n\n\nFri, Nov 27th, 7:05pm EST – Rochester Americans vs Syracuse CrunchSat, Nov 28th, 4:00pm EST – Rochester Americans at Toronto MarliesSun, Nov 29th, 4:00pm EST – Rochester Americans at Toronto Marlies",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-23T14:38:44.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267477-2026-new-hc-recordsjust-a-reminder/"
+      "publishedAt": "2026-11-23T15:14:19.000Z",
+      "link": "https://www.diebytheblade.com/buffalo-sabres-open-thread-wk-of-11-23/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/two-for-tage-win-no-100-for-upl-sabres-beat-lightning-6-2/",
+      "team": "sabres",
+      "title": "Two for Tage, Win No. 100 for UPL: Sabres Beat Lightning 6–2",
+      "summary": "On Saturday in Florida, Jack Quinn gave the Sabres a 2–1 lead that lasted all of 18 seconds. On Sunday in Tampa, he put Buffalo ahead 2–1 again. This time, Tage Thompson scored the next two, and Ukko-Pekka Luukkonen made 29 saves to earn his 100th NHL win.\n\n\n\nBoxscore\n\n\n\nScore: Buffalo Sabres 6–2 Tampa Bay LightningShots: BUF 28–31 TBLPower play: BUF 1-for-3; TBL 1-for-4.\n\n\n\nBuffalo Sabres goals: Kulich 4 (unassisted); Quinn 13 (Östlund, Timmins); Thompson 16 PPG (Benson, Dahlin); Thompson 17 (Benson); Östlund 5 (Krebs, Power); Benson 4 ENG (Kulich).Tampa Bay Lightning goals: Kucherov 10 PPG (Guentzel, Carlson); Goncalves 1 (Gourde, Černák).\n\n\n\nQuick Thoughts\n\n\n\nKulich reads it right\n\n\n\nJiří Kulich needed no help getting Buffalo on the board. He picked off Ryan McDonagh’s pass in the neutral zone and put a shot on Dennis Hildeby that squeezed through at 3:35. That gave Kulich goals on both nights of the Florida swing, and he looks like the player he was supposed to be before last year’s blood clot issue. His play has helped balance the lines and keeps Tage on the wing. Tampa answered on its first power play, when Nikita Kucherov drifted into the right circle and fired one in off the far post. That is what Kucherov is so good at: deception. After one, it was 1–1.\n\n\n\nTwo very different goals from Tage\n\n\n\nNoah Östlund banked a pass ahead to send Quinn away on an odd-man rush, and Quinn beat Hildeby just 1:22 into the second. It was his third straight game with a goal. Then Tampa took overlapping penalties, giving Buffalo a five-on-three and Zach Benson room to find Thompson for a one-timer at 11:05. The power play is looking better with the five-player movement, and that opens up Tage to do what he does best. Benson will be like prime Henrik Sedin with a 10-goal, 70-assist season.\n\n\n\nThompson’s second is the one worth watching again. Pontus Holmberg was right on his back, but Thompson kept the puck out of reach, curled into the slot, and beat Hildeby with a wrist shot. On the power play, Benson found him space. At even strength, Thompson made his own. I missed watching prime Mario Lemieux or Jaromir Jagr, but their highlights looked like that goal. Five minutes and 12 seconds separated the two goals, and Buffalo went to the room up 4–1.\n\n\n\nTampa’s comeback lasted a minute\n\n\n\nGage Goncalves cut the lead to 4–2 at 5:50 of the third. With more than 14 minutes left, that was plenty of time for a Lightning team that had lost only once at home all season. Exactly one minute later, Peyton Krebs set up Östlund to make it 5–2. That was Buffalo’s most important shift of the third: Tampa finally had a reason to believe, and Östlund barely gave the crowd time to enjoy it. Benson added the empty-netter with 1:07 left to finish a three-point night.\n\n\n\nAt The Horn\n\n\n\nLuukkonen got win No. 100 in the same matchup that went so badly for Buffalo eleven days earlier. Tampa scored eight that night, and Kucherov had a third-period hat trick. This time, Kucherov’s power-play goal was the only puck to get past Luukkonen in the first 40 minutes. That gave Buffalo’s three-goal second period a chance to decide the game.\n\n\n\nIf Kucherov sits out to wait for a trade, it might be because of being benched this game:\n\n\n\nThe Sabres finish the six-game trip 2–3–1 and head back to Buffalo at 10–10–4. Next up: the New York Rangers at KeyBank Center on Wednesday, November 25, at 7 p.m. ET.\n\n\n\n\nThe Sabres and Cooper benching Kucherov have him sulking on the bench 😂#LetsGoBuffalo #GoBolts pic.twitter.com/rftwIRH4CT&mdash; Buffalo Hockey Moments (@SabresPlays) November 23, 2026",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-23T02:25:17.000Z",
+      "link": "https://www.diebytheblade.com/two-for-tage-win-no-100-for-upl-sabres-beat-lightning-6-2/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267465-bills-defense-is-now-top-10/",
@@ -858,17 +1012,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267465-bills-defense-is-now-top-10/"
     },
     {
-      "id": "espn-sabres::50564523",
-      "team": "sabres",
-      "title": "Bussi makes 25 saves and Hurricanes down Rangers 5-2",
-      "summary": "— Jackson Blake put Carolina ahead to stay midway through the second period and Brandon Bussi made 25 saves and the Carolina Hurricanes defeated the New York Rangers 5-2 on Sunday.",
-      "source": "ESPN",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-22T20:36:33Z",
-      "link": "http://www.espn.com/nhl/recap?gameId=401892768"
-    },
-    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-collapse-liverpool/",
       "team": "usmnt",
       "title": "Welcome to Manchester United: Mauricio Pochettino faces grim reality after collapse against Liverpool",
@@ -878,6 +1021,61 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-22T18:59:57.000Z",
       "link": "https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-collapse-liverpool/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-24-preview-open-thread-buffalo-sabres-at-tampa-bay-lightning/",
+      "team": "sabres",
+      "title": "Game #24 Preview & Open Thread: Buffalo Sabres at Tampa Bay Lightning",
+      "summary": "Thunderbolts and Lightning, Very Very Frightning\n\n\n\nBuffalo Sabres (9-10-4) at Tampa Bay Lightning (15-5-2)\n\n\n\nPuck Drop: 5 p.m. ET | Benchmark International Arena, Tampa, Florida\n\n\n\nTV: MSG-B, DAZN, NHL Network, NHL Center Ice\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nTampa Bay Lightning\n\n\n\nRecord: 15-5-2 | 32 Pts\n\n\n\nLast Game: 3-1 victory over the Oilers\n\n\n\nDivision Ranking: 2nd \n\n\n\nPP: 19th, 21.1% (Sabres: 30th, 16.0%)\n\n\n\nPK: 23rd, 73.7% (Sabres: 26th, 72.2%)\n\n\n\nSeason Series: The Sabres are 0-1-0 vs Tampa this season.\n\n\n\n*Please note the early 5pm ET start of the game*\n\n\n\n1. Avoid Another Tampa Bay Beatdown\n\n\n\nIt was just eleven days ago when the Lightning hammered the Sabres in their own building by an 8-3 score. Both Ukko-Pekka Luukkonen and Colten Ellis were lit up, and the team took an embarrassing beating on the scoreboard. The emotional toll was just as damaging, leaving Buffalo with plenty to think about after such a humbling performance.\n\n\n\nSince then, Tampa Bay is firing on all cylinders, currently sitting in second place in the Atlantic Division. Ottawa moved a point ahead of the Bolts last night, but has also played two more games. Head coach Jon Cooper’s team continues to play great hockey, as usual. The Lightning have also enjoyed two days off since putting the brakes on Connor McDavid and the Oilers with a convincing 3-1 victory.\n\n\n\nMeanwhile, Buffalo enters this matchup on the second night of a back-to-back, while Tampa Bay is well-rested. No favors from the NHL here. The Sabres played a solid two periods on the road last night before unraveling against the Panthers. They’ll need a much better 60-minute effort if they hope to keep pace with this Lightning team.\n\n\n\nThe interesting thing is that the Sabres actually had Tampa Bay’s number last year. Buffalo finished the 2025-26 regular-season series with a 3-0-1 record against the Lightning, winning three of the four meetings. (while inching out the division title) That makes this season’s opening 8-3 drubbing at the hands of the Bolts all the more frustrating. What happened to the team that seemed to have Tampa figured out just a year ago?\n\n\n\n\n\n\n\n\n\n2. Lightning Strike Early and Often\n\n\n\nTampa is averaging nearly four goals per game, a clear indication of just how dangerous this offensive group remains. Through their first 20 games, the Lightning had scored 54 five-on-five goals, third-most in the NHL. They were also 11th in the league in fewest five-on-five goals allowed. Their established stars continue to lead the offensive charge, with Nikita Kucherov (31 points), Jake Guentzel (27 points) and Brandon Hagel (24 points) setting the pace.\n\n\n\nTampa Bay is already playing like a legitimate contender. Jon Cooper has an experienced, balanced group that knows what it takes to win. The Lightning have done a good job limiting dangerous scoring opportunities around their own net, although their overall defensive numbers still leave some room for improvement. Andrei Vasilevskiy remains a stalwart between the pipes, posting a 2.59 GAA through 17 games.\n\n\n\n\n\n\n\nPhoto Credit: Sabres.com\n\n\n\n3. Injury Status\n\n\n\nThe Lightning are a little banged up, with two quality players currently on IR. Brandon Hagel missed Tampa Bay’s previous game and is expected to sit out today’s contest as he continues to recover from a lower-body injury. His absence will be significant, as Hagel has already contributed 13 goals this season.\n\n\n\nConor Geekie is also sidelined after being placed on IR with an undisclosed injury and is expected to miss at least a week.\n\n\n\nOld friend Zemgus Girgensons is listed as day-to-day with an upper-body injury, making his availability for today’s game uncertain.\n\n\n\nAside from the longer-term injuries to Justin Danforth and Matt Grzelcyk, Buffalo is relatively healthy right now. Konsta Helenius remains week-to-week, but he has recently resumed skating, which is an encouraging sign.\n\n\n\nRyan McLeod and Louis Crevier were healthy scratches on Saturday. We could see one or both return to the lineup today if head coach Lindy Ruff wants to get some fresh legs on the ice against Tampa Bay. No lineup changes have been announced as of this writing, and the final decisions won’t be officially confirmed until pregame warmups.\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nZach Benson – Jiri Kulich – Tage Thompson\n\n\n\nPeyton Krebs – Noah Östlund – Jack Quinn\n\n\n\nJason Zucker/Ryan McLeod– Josh Norris – Josh Doan\n\n\n\nBeck Malenstyn – Tyson Kozak – Sam Carrick\n\n\n\nDefense\n\n\n\nMattias Samuelsson – Rasmus Dahlin\n\n\n\nOwen Power – Conor Timmins/Louis Crevier\n\n\n\nOlen Zellweger – Zach Metsa\n\n\n\nGoaltenders\n\n\n\nUkko-Pekka Luukkonen, (projected starter) Colten Ellis, Alex Lyon\n\n\n\nTampa Bay Lightning\n\n\n\nForwards\n\n\n\nJake Guentzel – Brayden Point – Nikita Kucherov\n\n\n\nYanni Gourde– Sam O’Reilly – Gage Goncalves\n\n\n\nIlya Mikheyev– Anthony Cirelli – Pontus Holmberg\n\n\n\nJeffrey Viel – Jansen Harkins – Scott Sabourin\n\n\n\nDefense\n\n\n\nCharle-Edouard D’Astous – John Carlson\n\n\n\nVictor Hedman – J.J. Moser\n\n\n\nRyan McDonagh – Erik Cernak\n\n\n\nGoaltenders\n\n\n\nAndrei Vasilevskiy (projected starter), Dennis Hildeby",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T17:19:53.000Z",
+      "link": "https://www.diebytheblade.com/game-24-preview-open-thread-buffalo-sabres-at-tampa-bay-lightning/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/sloppy-third-period-costs-sabres-in-4-3-loss-to-panthers/",
+      "team": "sabres",
+      "title": "Sloppy third period costs Sabres in 4-3 loss to Panthers",
+      "summary": "Sam Bennett’s hat trick leads Florida to big divisional win\n\n\n\nBox Score\n\n\n\nScore: Florida Panthers 4, Buffalo Sabres 3Shots: FLA 30-19 BUF\n\n\n\nBuffalo Sabres Goals: Jiri Kulich 3 (Benson, Thompson), Jack Quinn 12 (Zellweger, Metsa), Tage Thompson 15 (Samuelsson)Florida Panthers Goals: Sam Bennett 8 (Vilmanis, Gudas), Sam Bennett 9 (Luostarinen), Sam Bennett 10 SH (Jones, Reinhart), Sandis Vilmanis 4 (Bennett, Jones)\n\n\n\nQuick Thoughts\n\n\n\nFirst Period – Cool from Kulich\n\n\n\nThe Sabres found themselves down just three minutes into the game, as a sloppy line change let Sam Bennett enter the zone, dance around Rasmus Dahlin and beat Alex Lyon to give Florida a 1-0 lead.\n\n\n\nAfter giving up the early goal, Buffalo had the better of the chances for the rest of the period.\n\n\n\nFirst, Noah Ostlund sent in Jack Quinn on a breakaway, who went five-hole on Panthers goalie Jacob Markstrom, but the puck went out the other side and into the corner. A few minutes later, a strong forecheck by Tage Thompson set up Jiri Kulich point blank, but Markstrom made a great save.\n\n\n\nThat wasn’t the last chance Kulich would have, though. Just about halfway through the period, Thompson hit Zach Benson with a cross-ice feed, who then sent in Kulich one-on-one with Markstrom. The Czech went backhand, forehand and managed to force the puck underneath Markstrom’s pad to tie the game, 1-1. \n\n\n\n\nBeauty of a play all around. Kulich, 1-1 #LetsGoBuffalo #FlaPanthers pic.twitter.com/7b5a1N2UT1&mdash; Buffalo Hockey Moments (@SabresPlays) November 21, 2026\n\n\n\n\nTyson Kozak took a high-sticking penalty 23 seconds after the goal, but Buffalo managed to keep a hot Panthers power play at bay.\n\n\n\nKulich finished the first period with four shots on goal in what felt like his most active 20 minutes of the season, but the Sabres and Panthers remained tied 1-1 after the first.\n\n\n\nSecond Period – Back-and-forth\n\n\n\nKulich had his legs going again early in the second, as a stretch pass sent him in on a breakaway, but this time Markstrom got the better of the 22-year-old.\n\n\n\nA fantastic shift from the Kulich line pinned the Panthers in deep, and eventually led to Quinn picking up the puck. Quinn danced around the blue and let loose a shot from the high slot that went off the post and in, giving Buffalo a 2-1 lead just over five minutes into the second.\n\n\n\n\nJack Quinn nasty wristshot, 2-1 #LetsGoBuffalo #FlaPanthers pic.twitter.com/VsgNBceq1B&mdash; Buffalo Hockey Moments (@SabresPlays) November 22, 2026\n\n\n\n\nAs has been a common occurrence this season, though, the Sabres’ lead did not last long. Just 18 seconds later, Bennett rounded the net, shrugged off Noah Ostlund and beat Lyon from the slot to tie the game again. Lindy Ruff made a questionable challenge for goaltender interference, as a Panthers skater was battling with Olen Zellweger at the side of the net, but it was unsuccessful.\n\n\n\nBuffalo’s penalty kill did a good job ensuring the penalty for the failed challenge didn’t snowball into another Florida goal.\n\n\n\nThe Sabres came inches away from retaking the lead, as Owen Power threw a puck toward the net that deflected off Benson’s torso, off the crossbar and out the other side — all the while Markstrom knew nothing about it.\n\n\n\nMattias Samuelsson took a questionable holding penalty with under two minutes left in the period, but a Florida penalty 30 seconds into the kill evened things up at 4-on-4. During that spell, Gustav Forsling and Carter Verhaeghe both had great opportunities, but Lyon stood tall to keep the score 2-2 heading to the third.\n\n\n\nThird Period – Outworked\n\n\n\nBennett completed his hat trick less a minute into the third period, which ended up being a shorthanded goal as it came seconds after the 4-on-4 concluded. Sam Reinhart found a trailing Bennett in the high slot, and his shot caught a piece of Lyon’s glove, but had enough to find the back of the net, making it 3-2 Panthers. The puck may have been deflected by Power on its way through, but it’s one Lyon should have had.\n\n\n\nA failed clearing attempt led to Florida getting pinned in their own end again, but Dahlin’s one-time effort from the point was saved by Markstrom who pushed across.\n\n\n\nAfter a sluggish start to the period, the Sabres’ top goalscorer came through again to flip the script. Thompson picked up a pass at center ice and sped down the near wing before ripping a 90 mph wrist shot that beat Markstrom at the near post, tying the game 3-3 with just over 11 minutes left in the period.\n\n\n\nThe Panthers had been the better team throughout the third, and got rewarded for it with three minutes to play. Buffalo’s fourth line got caught out on a long shift, and were forced to ice the puck twice. Off the second faceoff, Bennett ripped a shot from the high slot that hit a body in front, and fell perfectly to Sandis Vilmanis, who tucked it in the open net and gave Florida the lead for good.\n\n\n\n\nSam Bennett's shot gets blocked and goes right to Vilmanis for him to slam it in, 4-3 #LetsGoBuffalo #FlaPanthers pic.twitter.com/U9EDoBsS2m&mdash; Buffalo Hockey Moments (@SabresPlays) November 22, 2026\n\n\n\n\nIt’s fair to question why the fourth line, along with Zach Metsa and Olen Zellweger, were even on the ice in that late game situation. In the end, it cost the Sabres an important, early season divisional game, as Buffalo mustered no quality chances with the net empty.\n\n\n\nAt The Horn\n\n\n\nThis game was marred by turnovers and poor clearances by both teams, and it felt like two points were there for the taking for whoever wanted it. \n\n\n\nWell, judging by that third period, the Panthers wanted it much more.\n\n\n\nThe Sabres were outshot 11-3 in the final period and looked lifeless on offense. They now trail Florida by seven points in the wild card race, and should be incredibly disappointed with that effort as a follow-up to Thursday’s win in Washington. If there’s any positive to take, the Benson-Thompson-Kulich line was fantastic and should get some more looks. On the other hand, Buffalo’s bottom six was invisible once again, and the fourth line wound up costing them late. \n\n\n\nWith such a short turnaround against a Lightning team that comes in on two days rest tomorrow, it felt like the Sabres needed a win in Sunrise tonight.\n\n\n\nSo much for that.\n\n\n\n\nNHL Game Score Impact Card for Buffalo Sabres on 2026-11-21: pic.twitter.com/NAOEIEXtYF&mdash; HockeyStatCards (@hockeystatcards) November 22, 2026\n\n\n\n\nNext Up\n\n\n\nThe Sabres return to action in less than 24 hours, as they make the short trek to Tampa Bay for another divisional game against the Lightning. Puck drop is set for 5 p.m.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-22T02:14:57.000Z",
+      "link": "https://www.diebytheblade.com/sloppy-third-period-costs-sabres-in-4-3-loss-to-panthers/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-23-preview-open-thread-sabres-at-panthers/",
+      "team": "sabres",
+      "title": "Game #23 Preview & Open Thread: Sabres at Panthers",
+      "summary": "Buffalo looks to gain ground in the Atlantic Division\n\n\n\nBuffalo Sabres (9-9-4) at Florida Panthers (12-8-3)\n\n\n\nPuck Drop: 6 p.m. ET | Amerant Bank Arena, Sunrise, FL\n\n\n\nTV: MSG-B, WSFL-TV 39Radio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nFlorida Panthers\n\n\n\nRecord: 12-8-3\n\n\n\nLast Game: 5-2 loss vs. Edmonton\n\n\n\nDivision Ranking: 5th\n\n\n\nPP: 11th, 24.2% [Sabres: 30th, 16.4%]\n\n\n\nPK: 6th, 84.3% [Sabres: 26th, 71.1%]\n\n\n\nSeason Series: Sabres 1-0-0 vs. Panthers\n\n\n\nWhat to Watch\n\n\n\n1. Can Dahlin stay hot?\n\n\n\nIt’s been a quiet start to the season for Sabres captain Rasmus Dahlin, which has been one of many contributing factors to the team’s slow start. However, the 26-year-old had his best game in weeks during Thursday’s win against the Capitals.\n\n\n\nDahlin tallied a goal, an end-to-end beauty finished on a wrap around, and an assist to help Buffalo end its 5-game losing streak. Heading into a tough, divisional back-to-back in Florida, the Sabres could use more of that out of their captain.\n\n\n\nFortunately, Dahlin has played well against the Panthers of late. He has seven points in his last six games against Florida, including a goal the last time these two teams met, a 5-3 Sabres win in October.\n\n\n\n2. Benson’s remarkable start\n\n\n\nIt’s not farfetched to say that the Sabres’ best line this season has been, simply, whatever one has Zach Benson on it.\n\n\n\nThe 21-year-old forward has continued his trajectory as one of Buffalo’s most important players following his electrifying postseason play last season. He leads Sabres skaters with an xGF% of 56%, and is tied for first on the team with 14 assists.\n\n\n\nWhile the goals haven’t quite been there yet, it’s not for a lack of chances. His 5.6 goals below expected is tops on the Sabres by a significant margin. While he does practically everything else, the one aspect of Benson’s game that has long been below average is his shooting.\n\n\n\nAfter scoring his third goal of the season Thursday against Washington, we’ll soon see if Buffalo’s chaos agent can go on a bit of a scoring run.\n\n\n\n*Stats via HockeyStats.com\n\n\n\n3. One Tkachuk, two Tkachuk\n\n\n\nWith the Panthers down two big pieces in Aleksander Barkov and Brad Marchand, it’s been the Tkachuk brothers leading the way for Florida.\n\n\n\nIn particular, it’s been Matthew doing most of the damage recently. The eldest brother is riding a 9-game point streak, and has 12 total in that span. Meanwhile, Brady has nine points in his last nine games.\n\n\n\nIf Buffalo can keep the brothers quiet, it would go a long way toward securing an important two points.\n\n\n\nInjury Notes\n\n\n\nWhile Marchand and Barkov are both very close to returning for the Panthers, according to head coach Paul Maurice, neither will play against the Sabres on Saturday. Both have been out since early October with knee injuries.\n\n\n\nSabres coach Lindy Ruff mentioned during Saturday morning’s media availability that “a couple” players were banged up following Thursday’s game against Washington, but did not specify who or their status for Saturday’s matchup. Something to keep an eye on as warmups near.\n\n\n\nProjected Lineups\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nZach Benson – Jiri Kulich – Tage ThompsonPeyton Krebs – Noah Ostlund – Jack QuinnJason Zucker – Josh Norris – Josh DoanBeck Malenstyn – Tyson Kozak – Sam Carrick\n\n\n\nDefense\n\n\n\nRasmus Dahlin – Mattias SamuelssonOwen Power – Conor TimminsOlen Zellweger – Zach Metsa\n\n\n\nGoaltenders\n\n\n\nAlex Lyon (projected starter), Colten Ellis\n\n\n\nFlorida Panthers\n\n\n\nForwards\n\n\n\nBrady Tkachuk – Anton Lundell – Matthew Tkachuk Carter Verhaeghe – Sam Reinhart – Lars Eller Eetu Luostarinen – Sam Bennett – Sandis Vilmanis Boko Imama – Cole Schwindt – Garnet Hathaway \n\n\n\nDefense\n\n\n\nGustav Forsling – Aaron Ekblad Niko Mikkola – Seth Jones Radko Gudas – Dmitry Kulikov \n\n\n\nGoaltenders\n\n\n\nJacob Markstrom (confirmed starter), Akira Schmid",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-21T18:02:10.000Z",
+      "link": "https://www.diebytheblade.com/game-23-preview-open-thread-sabres-at-panthers/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267449-state-of-the-nfl-game/",
+      "team": "bills",
+      "title": "State of the NFL game",
+      "summary": "Even with the Bills playing a lot of prime time games, I still enjoy getting NFL Sunday Ticket because I like watching other games.  This season, somewhat because of injuries to star players (Hurts, Maye, Puka, etc.) and unexpected poor play by some teams (Chargers, Houston) I’m finding there are a lot of unattractive games.\n\n\n\n\t \n\n\n\n\tLooking at this week’s games, I know it’s affected by 6 byes including 4 teams with winning records, you had Thursday’s game of Indy at Houston.  Yuck, I didn’t watch a second of it.  Other matchups: Tennessee/Dallas, New Orleans/Chicago, Arizona/KC, Jets/Chargers.  They don’t interest me at all and I play a lot of fantasy football.\n\n\n\n\t \n\n\n\n\tFortunately, Sunday night has the best matchup of the week with Minnesota and the Niners.\n\n\n\n\t \n\n\n\n\tAgain, I know the byes affect this a lot, and they’re stretched out over 9 weeks, but I’m starting to see a dilution of good NFL games from my perspective.\n\n\n\n\t \n\n\n\n\tI’ve seen a few of you say that other than Bills games, you prefer watching college football.  Normally during the college football season, I watch UB games and, living in Northern California, I watch Stanford, Cal and San Jose St, all of which are mediocre this season.   I’ve noticed that there are a lot of matchups each week between Top 25 teams.  I guess I may be missing out on watching better football.\n\n\n\n\t \n\n\n\n\tOne issue I do have with college sports was brought on by NIL money and the transfer portal.  The players are changing teams too much.  Gone  is the interest in watching teams being built and grow together as a team.  The result is you’re just watching the game for the entertainment, which is fine.\n\n\n\n\t \n\n\n\n\t I’m curious if anyone else is finding NFL Football losing its appeal.   It doesn’t help that generally the first couple weeks have some poor quality football because teams don’t play starters in the preseason.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-21T06:30:25.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267449-state-of-the-nfl-game/"
+    },
+    {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-ahls-youngest-player-settled-in-rochester-and-developing-with-amerks/",
+      "team": "sabres",
+      "title": "Sabres prospect Radim Mrtka, AHL’s youngest player, settled in Rochester and developing with Amerks",
+      "summary": "ROCHESTER – On the surface, Radim Mrtka’s first weeks as a regular in pro hockey might look underwhelming. In the Americans’ opening 16 games, the Buffalo Sabres prospect registered zero points and a team-worst minus-6 rating.\nBut forget about points or plus-minus. Mrtka, 19, is the AHL’s youngest defenseman. He’s a neophyte competing against men.\nBesides, offense ultimately won’t be the 6-foot-6, 218-pound Czech’s ticket to the big leagues.\n\n“What is his path to ... Read the full article \nThe post Sabres prospect Radim Mrtka, AHL’s youngest player, settled in Rochester and developing with Amerks first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-21T05:32:16.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-prospect-radim-mrtka-ahls-youngest-player-settled-in-rochester-and-developing-with-amerks/"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/usmnt-news/47175/usmnt-weekend-viewing-guide-fall-stretch",
@@ -913,6 +1111,17 @@
       "link": "https://www.starsandstripesfc.com/usmnt-news/47171/usa-vs-haiti-2026-nations-league-second-leg-man-of-the-match"
     },
     {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/early-lead-is-enough-for-the-sabres-to-snap-the-losing-streak/",
+      "team": "sabres",
+      "title": "Early Lead Is Enough For The Sabres To Snap The Losing Streak",
+      "summary": "Boxscore\n\n\n\nScore: Buffalo Sabres 6–3 Washington CapitalsShots: BUF 18–36 WSH\n\n\n\nBuffalo Sabres Goals: Quinn (Östlund, Dahlin); Dahlin PPG (unassisted); Malenstyn (Carrick, Kozak); Benson (Krebs, Power); Thompson PPG (Quinn, Doan); Quinn ENG (Power).\n\n\n\nWashington Capitals Goals: Tuch (unassisted); Leonard PPG (Tuch, I. Protas); Jenner (Ovechkin, A. Protas).\n\n\n\nQuick Thoughts\n\n\n\nFinally, Some Breathing Room\n\n\n\nThis recap was a lot more fun to write than the last few, for sure. The Sabres needed a win, and for once they gave themselves enough offense early to withstand a rough stretch late. Sam Carrick and Tom Wilson dropped the gloves one second into the game. Buffalo followed with four first-period goals, starting with Jack Quinn at 5:25. Rasmus Dahlin doubled the lead, and Beck Malenstyn scored just 25 seconds later to make it 3–0. Washington pulled Logan Thompson after he allowed three goals on five shots. That was the kind of start Buffalo had been missing during its five-game slide. Creating chances only helps if somebody finishes them. Thursday, the Sabres made their early opportunities count.\n\n\n\nAn Answer for Tuch\n\n\n\nOf course Alex Tuch scored against his former team. His unassisted goal brought Washington within two just 43 seconds after Malenstyn’s tally. The chemistry between Tuch and Thompson is still there, with basically passing it right to Tuch for the giveaway before Tuch sniped it. But Zach Benson answered at 15:55, finishing at the doorstep to restore Buffalo’s three-goal cushion before the intermission. Benson’s goal mattered beyond making it 4–1. Buffalo had already watched promising leads disappear during this stretch. Answering Washington before the break kept the Capitals from carrying a little more hope into the second.\n\n\n\nNine Seconds Made a Difference\n\n\n\nTage Thompson scored on the power play with nine seconds remaining in the second period, sending Buffalo into the third ahead 5–1. Quinn and Josh Doan collected the assists. It was Buffalo’s second power-play goal of the night, with the unit finishing 2-for-3. That fifth goal ended up being valuable insurance. A four-goal lead should be comfortable with 20 minutes left. For these Sabres, there was still some work to do.\n\n\n\nStill Had to Make It Interesting\n\n\n\nRyan Leonard scored on the power play at 8:52 of the third. Boone Jenner followed 52 seconds later, and suddenly Washington was within two with more than half the period remaining. Buffalo eventually settled the result when Quinn hit the empty net with 43 seconds left. The finish offered a reminder that Buffalo’s problems haven’t disappeared. Washington doubled the Sabres in shots, and Ukko-Pekka Luukkonen had to stop 33 of 36 to protect the win. Six goals look great on the scoreboard, but Buffalo still asked plenty of its goalie.\n\n\n\nAt The Horn\n\n\n\nQuinn finished with two goals and an assist, Dahlin contributed a goal and an assist, and Owen Power added two helpers. Buffalo got scoring from five different players and finally ended its five-game losing streak. There is plenty to clean up, especially when protecting a lead. But the Sabres needed two points, and they earned them without having to recover from another early deficit or take their chances in overtime. UPL was good enough and made some big saves, even though he would probably want those three goals back. This resembled last year’s team, and now they need to build a streak as they head to Florida for Saturday’s game against the Panthers. One win gets the road trip moving. Building on it would make this feel like the start of something.",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-20T04:31:00.000Z",
+      "link": "https://www.diebytheblade.com/early-lead-is-enough-for-the-sabres-to-snap-the-losing-streak/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/u-s-soccer-emma-hayes-usmnt-hiring-committee/",
       "team": "usmnt",
       "title": "Why U.S. Soccer's move to name Emma Hayes to the USMNT hiring committee makes sense",
@@ -922,6 +1131,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-19T19:49:57.000Z",
       "link": "https://www.cbssports.com/soccer/news/u-s-soccer-emma-hayes-usmnt-hiring-committee/"
+    },
+    {
+      "id": "die-by-the-blade::https://www.diebytheblade.com/game-22-preview-open-thread-buffalo-sabres-at-washington-capitals/",
+      "team": "sabres",
+      "title": "Game #22 Preview & Open Thread: Buffalo Sabres at Washington Capitals",
+      "summary": "Sabres desperate to stem bleeding against old friend\n\n\n\nBuffalo Sabres (8-9-4) at Washington Capitals (10-9-0)\n\n\n\nPuck Drop: 7 p.m. ET | Capital One Arena, Washington DC\n\n\n\nTV: MSG-B, MNMT\n\n\n\nRadio: WGR 550, Sirius XM (app)\n\n\n\nKnow Your Opponent\n\n\n\nWashington Capitals\n\n\n\nRecord: 10-9 | 20 Pts\n\n\n\nLast Game: 5-2 loss vs Tampa Bay\n\n\n\nDivision Ranking: 5th\n\n\n\nPP: 24th, 19.6% [Sabres: 30th, 14.3%]\n\n\n\nPK: 20th, 75.8% [Sabres: 26th, 71.6%]\n\n\n\nSeason Series: Sabres 0-0-1 vs Washington this season\n\n\n\nMoney for Nothing\n\n\n\nLast season for the Buffalo Sabres saw Dire Straits carry a completely different connotation from this season. Last season, it signified a rallying cry. This year, it is what they find themselves in. \n\n\n\nLosers of five consecutive games, a span in which they have only picked up one point in the standings, the Buffalo Sabres are reeling. They are not shooting the puck, not finishing when they do, and not generating enough offense. Their goaltending is also not bailing them out, and beyond that, are collectively still largely proving inconsistent at best and ineffective at worst. \n\n\n\nEven a lengthy road trip, the savior of last year’s team, has had this squad only dig themselves deeper. And as they approach the end of the trip before returning home for two games, they will square off yet again with a familiar face, in Alex Tuch. While there seems to be some dispute about just how things went down between Tuch and the Sabres before he was traded to his new home, the fact of the matter is that he is gone and on paper, they could certainly use his contributions for this season. \n\n\n\nTuch is gunning for Jacob Misiorowski’s crown this season, tallying 12 goals through 19 games on the season, which would put him second on the Sabres, but only has two assists, though distribution was never his hallmark. On a contribution basis, the 2026/27 Sabres could use this goal scoring. They have several natural distributors that could be setting up Tuch at a similar clip, and while Tuch has a track record of being a bit of an inconsistent finisher, the lack of being able to find nylon is discussed at length. The team almost certainly misses his locker room leadership as well.\n\n\n\nBut for all of that said, the discussion that has broadly happened around Tuch is moot. Whether you believe the team did not make a competitive offer or that Tuch wanted to leave regardless of the offer, the fact is that he’s a Washington Capital. Constant discourse about whether or not they should have tried harder to get him to stay, which evokes a similar feeling to say, a goalie in New Jersey or a different one in Edmonton, he’s not on the roster and dwelling on that fact doesn’t do anyone any good. It’s an easy, low-hanging talking point, but an exhausting and fruitless one. \n\n\n\nWhether or not the team misses his contributions and leadership is moot, and while it is pretty undeniable that they do, we should be able to look forward. Hopefully after the Sabres and Capitals meet tonight, the Tuch discourse can be put to bed for a bit, at least until he has his homecoming in March. \n\n\n\nDiamonds in the rough\n\n\n\nIt is pretty well established that Sabres GM Jarmo Kekalainen is big game hunting. He’s been trying to do it since he took over the role of Sabres’ General Manager, being in on Colton Parayko, Robert Thomas, Connor Hellebuyck, and most recently Dylan Larkin. And while the splashy acquisition could certainly inject some life into the team, the cautionary tale of the big move could be on the opposing bench tonight for the Sabres.\n\n\n\nThe Washington Capitals had the darling off-season, acquiring Tuch, Jordan Kyrou, and Boone Jenner to bolster the forward unit, along with Vincent Desharnais to shore up the blue line. Despite all these acquisitions, the Capitals find themselves in just about the same spot in the standings as the Sabres, albeit with two less games played with two extra wins. \n\n\n\nThus far, it has not been the torrid start the Capitals and their fans may have expected given those acquisitions, and while it can take a team with multiple big additions some time to gel, a lot of their flaws are flaws that the Sabres share. They are in the bottom third of the league in penalty kill and in just about the same territory on the power play. They do finish at a better clip than the Sabres do, and while goalie Logan Thompson is struggling a bit to start the year, you’d be hard pressed to find a Sabres fan who wouldn’t happily trade goalie situations with the Capitals. \n\n\n\nThe Capitals, along with some other teams, can serve as a bit of a cautionary tale that the big fish isn’t always the right one. Where he could look for an example instead is with last year’s Pittsburgh Penguins. Struggling for a spark, they acquired a disgruntled Columbus Blue Jackets winger in Egor Chinakhov, who was stifled on playing time and saw him absolutely catch fire, putting up 36 points in 43 games, helping to spark a run that saw the Penguins finish second in the Metro division. \n\n\n\nWhile there is an allusion to be drawn here to another Columbus winger stifled on playing time in Dmitri Voronkov, it’s more to serve as a broader point that the right move doesn’t have to be the big one. The Sabres are gasping for air when it comes to contributions from all of their wingers not named Jack Quinn or Zach Benson, and whether it’s Voronkov or someone else in a similar vein, any acquisition could help spark a turn around. Kekalainen doesn’t even need to look outside the organization for examples of this, he could instead look inward at his own acquisition of Olen Zellweger, who has been a reliable piece of the Sabres blue line. That is similar to the presence they need to see added to the forward group. \n\n\n\nBut whether it’s Voronkov, Rickard Rakell, Ivan Miroshnichenko, or someone bigger, the Sabres very clearly need help and the longer Kekalainen sits on his hands and watches, the more he will be compared to his predecessor. The fairness of that comparison is irrelevant, the inaction is what matters. \n\n\n\nProjected Lineup\n\n\n\nBuffalo Sabres\n\n\n\nForwards\n\n\n\nBenson-Kulich-Thompson\n\n\n\nKrebs-Ostlund-Quinn\n\n\n\nZucker-Norris-Doan\n\n\n\nMalenstyn-Kozak-Carrick\n\n\n\nDefense\n\n\n\nSamuelsson-Dahlin\n\n\n\nPower-Timmins\n\n\n\nZellweger-Metsa\n\n\n\nGoalie\n\n\n\nLuukkonen\n\n\n\nWashington Capitals\n\n\n\nForwards\n\n\n\nA. Protas-Dubois-Tuch\n\n\n\nLeonard-Strome-Wilson\n\n\n\nSourdif-I. Protas-Kyrou\n\n\n\nOvechkin-Jenner-Beauvillier\n\n\n\nDefense\n\n\n\nChychrun-Roy\n\n\n\nFehervary-Liljegren\n\n\n\nHutson-St. Ivany\n\n\n\nGoalie\n\n\n\nThompson",
+      "source": "Die By The Blade",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-19T18:34:57.000Z",
+      "link": "https://www.diebytheblade.com/game-22-preview-open-thread-buffalo-sabres-at-washington-capitals/"
     },
     {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/uswnt-roster-ashley-sanchez-sam-coffey-naomi-girma-concacaf-w-championship/",
@@ -957,6 +1177,17 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-haiti-christian-pulisic-mauricio-pochettino/"
     },
     {
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/as-rookie-in-rochester-sabres-prospect-gavin-mccarthy-hitting-fighting-and-making-name-for-himself/",
+      "team": "sabres",
+      "title": "As rookie in Rochester, Sabres prospect Gavin McCarthy hitting, fighting and making name for himself",
+      "summary": "ROCHESTER – Having leveled Brett Berard inside the blue line, knocking the Laval Rocket winger to the ice and sending his stick flying, Buffalo Sabres prospect Gavin McCarthy knew he must answer the bell.\nSo late in Friday’s 3-1 loss, McCarthy, a rookie defenseman for the Americans, fought Braden Hache, who stepped in after the clean hit.\nMcCarthy, 21, hadn’t dropped his gloves since Dec. 2, 2022, according to hockeyfights.com, as a member of ... Read the full article \nThe post As rookie in Rochester, Sabres prospect Gavin McCarthy hitting, fighting and making name for himself first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-17T21:54:56.000Z",
+      "link": "https://www.buffalohockeybeat.com/as-rookie-in-rochester-sabres-prospect-gavin-mccarthy-hitting-fighting-and-making-name-for-himself/"
+    },
+    {
       "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/diego-kochen-usmnt-goalkeeper-claim-starting-job/",
       "team": "usmnt",
       "title": "Diego Kochen shows poise in USMNT net as young goalkeeper stakes claim to starting job",
@@ -979,48 +1210,59 @@
       "link": "https://www.cbssports.com/soccer/news/mauricio-pochettinos-pivoting-future-manchester-united-move/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267376-allen-passing-game-and-offensive-play-calling/",
-      "team": "bills",
-      "title": "Allen, Passing Game, and Offensive Play Calling",
-      "summary": "The team is stacking wins and Allen and Cook have combined for 20 rushing TD's or more than 2 per game!\n\n\n\n\t \n\n\n\n\tI love that we have a top running game for the playoffs.\n\n\n\n\t \n\n\n\n\tNaturally, when your team has continuity on the OL and an elite running game, the passing game is affected/impacted.\n\n\n\n\t \n\n\n\n\tI am completely fine with the running game making us more balanced.\n\n\n\n\t\n\tFor those who know more about offensive schemes and philosophies, is our offensive play calling much different in the passing game than the past 3-4 years?\n\n\n\n\t \n\n\n\n\tIs Allen regressing or past his peak as a passer?\n\n\n\n\t \n\n\n\n\tDoes the passing game just look and feel different because we have 3-4 guys who will get you 40-50 yards rather than 1 guy who may get a 100 yards?\n\n\n\n\t \n\n\n\n\tI am curious if the passing game has been changing to allow the running game to take more time off the clock and help a younger and transitioning defense.\n\n\n\n\t \n\n\n\n\tThe answers to these questions are all probably \"yes\" to some degree.\n\n\n\n\t \n\n\n\n\tWondering about the passing game and play calling going forward.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/sabres-leaning-heavily-on-healthy-tyson-kozak-some-of-his-best-hockey/",
+      "team": "sabres",
+      "title": "Sabres leaning heavily on healthy Tyson Kozak: ‘Some of his best hockey’",
+      "summary": "BUFFALO – The past three weeks have been the most productive of Sabres forward Tyson Kozak’s three-year NHL career.\nFor starters, the oft-injured Kozak has played nine straight games. But beyond staying healthy, he has consistently contributed, utilizing his speed and tenacity to earn coach Lindy Ruff’s trust as a fourth-line anchor and penalty killer.\n“High-end compete, skating great,” Ruff said of Kozak’s recent play following Tuesday’s practice in KeyBank Center. “His killing has ... Read the full article \nThe post Sabres leaning heavily on healthy Tyson Kozak: ‘Some of his best hockey’ first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-16T12:45:20.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267376-allen-passing-game-and-offensive-play-calling/"
+      "publishedAt": "2026-11-14T05:21:33.000Z",
+      "link": "https://www.buffalohockeybeat.com/sabres-leaning-heavily-on-healthy-tyson-kozak-some-of-his-best-hockey/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad-now-released-on-1121/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267327-what-the-numbers-say-is-brady-sacrificing-an-edge-by-receiving-first/",
       "team": "bills",
-      "title": "49ers Sign Brandin Cooks to Practice Squad (now released on 11/21)",
-      "summary": "Was kinda surprised to see this as I figured if Cooks wanted to sign on with a Practice Squad, he'd have been signed to someone's by now - likely ours.\n\n\n\n\t \n\n\n\n\tBut I'm guessing in the wording of \"initially to get up to speed for games\" implies it's just a temporary thing and they'll be bringing him up soon.",
+      "title": "What the numbers say - Is Brady sacrificing an edge by receiving first?",
+      "summary": "I thought this may deserve it to own thread, since it’s talked about on TBD. Credit to @Chaos for putting it into the game thread.\n\n\n\n\t \n\n\n\n\tI do prefer to defer, but it looks like Brady really does know what he’s doing here.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-09-22T22:09:15.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266602-49ers-sign-brandin-cooks-to-practice-squad-now-released-on-1121/"
+      "publishedAt": "2026-11-13T06:43:08.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267327-what-the-numbers-say-is-brady-sacrificing-an-edge-by-receiving-first/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/",
-      "team": "bills",
-      "title": "Sean McDermott: The stalking your ex thread",
-      "summary": "A futile attempt to keep all the McDermott stuff in one place",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
+      "id": "buffalo-hockey-beat::https://www.buffalohockeybeat.com/passion-has-helped-alex-lyon-improve-with-age-sabres-goalie-expected-to-start-first-game-soon/",
+      "team": "sabres",
+      "title": "Passion has helped Alex Lyon improve with age; Sabres goalie expected to start first game soon",
+      "summary": "BUFFALO – In the coming days, perhaps as soon as tonight in Chicago, Sabres goalie Alex Lyon is expected to make his season debut and display the latest version of himself that he spent the offseason and the past several weeks developing.\nLyon 10.0 – he spent at least parts of 10 seasons in the NHL – has gotten rid of some bugs and promises to be better than ever.\n“I definitely think that I’m ... Read the full article \nThe post Passion has helped Alex Lyon improve with age; Sabres goalie expected to start first game soon first appeared on Buffalo Hockey Beat.",
+      "source": "Buffalo Hockey Beat",
+      "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-08-07T21:23:50.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266019-sean-mcdermott-the-stalking-your-ex-thread/"
+      "publishedAt": "2026-11-12T10:00:55.000Z",
+      "link": "https://www.buffalohockeybeat.com/passion-has-helped-alex-lyon-improve-with-age-sabres-goalie-expected-to-start-first-game-soon/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/255720-diggs-drama/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267296-afc-playoff-picture/",
       "team": "bills",
-      "title": "Diggs' Drama",
-      "summary": "A thread for our former master of histrionics, who doesn't need a new thread every time he gets his drama queen on.",
+      "title": "AFC Playoff Picture",
+      "summary": "After week 9, it’s gonna be a dogfight for the number 1 seed. For the most part, I don’t see anyone bumping out the top 6 teams. Cleveland has a legit chance to take the 7 spot. They play HOU this week and a win delivers a serious blow to the Texans saving their season. NE has a difficult stretch of games coming up.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2024-08-10T03:03:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/255720-diggs-drama/"
+      "publishedAt": "2026-11-10T23:13:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267296-afc-playoff-picture/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266243-bills-replacing-grass-at-highmark-starting-monday/",
+      "team": "bills",
+      "title": "Bills replacing grass at Highmark starting Monday",
+      "summary": "https://buffalonews.com/sports/professional/nfl/bills/article_f6e546cc-244a-4562-81bf-f2a0db8231a7.html?lctg=baf30705bec101afd50a&tn_email_eh1=7e9aa99fd45095aa209bba35efe688f31334c174d407e8f34b74b5cc9df50d24  \n\n\n\n\t \n\n\n\n\tHmmm...  Little skeptical how grass that had over a year to take root is better than stuff replaced two weeks before first game??  Article says that process is fine.  We shall see. \n\n\n\n\t \n\n\n\n\tRecall Sept 1969 Mets won eastern division on like a Tuesday and Jets played that following Sunday at Shea.  Fans had torn up the stadium field bad (not that the field was ever very good to start with)  Verlon Biggs threw a piece of turf half way across the field that came loose.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-08-29T18:24:22.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266243-bills-replacing-grass-at-highmark-starting-monday/"
     }
   ]
 }
