@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T12:47:26.570Z",
+  "generatedAt": "2026-11-28T20:47:37.526Z",
   "sources": [
     {
       "id": "bills-official",
@@ -68,7 +68,7 @@
       "id": "sportsnet-nhl",
       "label": "Sportsnet",
       "team": "sabres",
-      "itemCount": 1,
+      "itemCount": 0,
       "error": null
     },
     {
@@ -117,7 +117,7 @@
       "id": "cbs-soccer-usmnt",
       "label": "CBS Sports",
       "team": "usmnt",
-      "itemCount": 9,
+      "itemCount": 8,
       "error": null
     },
     {
@@ -176,6 +176,72 @@
   ],
   "stories": [
     {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267575-are-we-the-1986-jets/",
+      "team": "bills",
+      "title": "Are we the 1986 Jets?",
+      "summary": "The 1986 jets went 10-1 to then finish 0-5. They still made the playoffs. They finished with many injuries to starters.\n\n\n\n\t \n\n\n\n\tmany on here think this team is 1-10",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T20:34:36.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267575-are-we-the-1986-jets/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47230/meet-the-teams-at-the-2026-concacaf-w-championship",
+      "team": "usmnt",
+      "title": "Meet the teams at the 2026 Concacaf W Championship",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T18:56:35.000Z",
+      "link": "https://www.starsandstripesfc.com/uswnt-news/47230/meet-the-teams-at-the-2026-concacaf-w-championship"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267574-tua-and-falcons-part-ways/",
+      "team": "bills",
+      "title": "Tua and Falcons part ways",
+      "summary": "",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T18:35:57.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267574-tua-and-falcons-part-ways/"
+    },
+    {
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47268/lessons-learned-whats-next-after-uswnt-throttles-el-salvador",
+      "team": "usmnt",
+      "title": "Lessons Learned: What’s next after USWNT throttles El Salvador?",
+      "summary": "",
+      "source": "Stars and Stripes FC",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T18:34:06.000Z",
+      "link": "https://www.starsandstripesfc.com/uswnt-news/47268/lessons-learned-whats-next-after-uswnt-throttles-el-salvador"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267573-shout-out-to-buffalo-joe/",
+      "team": "bills",
+      "title": "Shout out to Buffalo Joe",
+      "summary": "He got hands on that punt and clearly made it so Araiza couldn't follow through, setting up the game winning punt return and FG.\n\n\n\n\t\n\n\n\n\tShocked they weren't talking about this or showing replays on the broadcast, but I guess everything happened pretty fast from there.\n\n\n\n\t \n\n\n\n\tHow about this Special Teams unit?",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T17:41:14.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267573-shout-out-to-buffalo-joe/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267570-the-irony-of-it-all-when-superman-needs-saving/",
+      "team": "bills",
+      "title": "The Irony of It All: When Superman Needs Saving",
+      "summary": "The irony is that for years, we've been asking the Bills to build a team that doesn't require Josh Allen to play Superman every Sunday. Now that the other facets of the team appear to be coming together, it's our MVP quarterback who's struggling to find his rhythm.\n\n\n\n\t \n\n\n\n\tPerhaps the silver lining is that, for once, the team is in a position to carry Josh rather than Josh having to carry the team.\n\n\n\n\t \n\n\n\n\tIf Allen returns to his MVP form while the rest of the team continues playing well, Buffalo could become an exceptionally dangerous football team. The challenge has always been getting everyone firing on all cylinders at the same time.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T16:04:53.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267570-the-irony-of-it-all-when-superman-needs-saving/"
+    },
+    {
       "id": "espn-sabres::50613086",
       "team": "sabres",
       "title": "NHL Tonight: What to watch in each of Saturday's 13 games",
@@ -183,8 +249,74 @@
       "source": "ESPN · ESPN staff",
       "sourceType": "league",
       "sourceCount": 1,
-      "publishedAt": "2026-11-28T12:01:43Z",
+      "publishedAt": "2026-11-28T15:54:48Z",
       "link": "https://www.espn.com/nhl/story/_/id/50613086/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267569-statistical-analysis-for-taking-the-ball-first/",
+      "team": "bills",
+      "title": "Statistical analysis for taking the ball first",
+      "summary": "A person in another thread asked\n\n\n\n\t \n\n\n\n\t\"Can someone explain to me their concern about taking the ball first?\n\n\n\n\tThe “double dip” is a myth. It adds no statistical advantage. Teams receiving the ball first get the same number of possessions as teams deferring. And scoring before the half, and then after the half, is no different than scoring on any two other drives\".\n\n\n\n\t \n\n\n\n\tThe argument is partially correct, but it overlooks some important strategic advantages of deferring.\n\n\n\n\t\n\tThe value of the \"double dip\" isn't necessarily about gaining an extra possession. It's about controlling the timing of possessions and potentially scoring twice without your opponent having an opportunity to respond.\n\n\n\n\t\n\tConsider the following:\n\tClock management: The team receiving the second-half kickoff can manage its final first-half possession knowing it will receive the ball again.\n\n\n\n\t\n\tGame script: Turning a seven-point lead into a 21-point lead without the opposing offense touching the football can significantly change its play-calling strategy.\n\n\n\n\t\n\tHalftime adjustments: Deferring allows your offense to begin the second half after evaluating the opposing defense and making adjustments.\n\n\n\n\t\n\tPossession count: Both teams are not guaranteed an equal number of possessions. How drives and halves end determines that.\n\n\n\n\t \n\n\n\n\tHowever, receiving first also has legitimate advantages, particularly if you have an explosive offense and want to establish an early lead.\n\n\n\n\t \n\n\n\n\tWhat the actual statistics tell us\n\n\n\n\tA November 23, 2026 analysis specifically examining Joe Brady's decision to receive the opening kickoff studied more than 6,600 NFL games dating back to 2001.\n\n\n\n\t \n\n\n\n\tMy assessment\n\n\n\n\t \n\n\n\n\tThe poster is statistically correct about the overall lack of a demonstrated winning advantage, although calling the double dip a myth goes too far.\n\n\n\n\tIt's a legitimate tactical opportunity, but not a proven superior strategy over an entire game.\n\n\n\n\t \n\n\n\n\tWith Josh Allen at quarterback, there's a perfectly reasonable argument for putting your strongest unit on the field first, dictating the offensive tempo and forcing your opponent to play from behind.\n\n\n\n\t \n\n\n\n\tThe statistical evidence simply doesn't justify criticizing Joe Brady for taking the opening kickoff. The difference in winning percentage is negligible.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T15:35:28.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267569-statistical-analysis-for-taking-the-ball-first/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267568-vague-title/",
+      "team": "bills",
+      "title": "[Vague Title]",
+      "summary": "We are 10-1 and that is phenomenal.  We have a defense rounding into form, great special teams, and a well balanced offense that will be even more frightening when Josh gets out of his mini-slump.  But my concern is Brady.  \n\t \n\n\n\n\tMy daughter put it best:  it seems like he’s got the  I’m the smartest guy in the room mentality.  Choosing not to defer is just one example.  My biggest one that shows this was when he took Cook off the field when we just needed 15 yards to kick a winning FG and instead decided throwing the ball was the way to go, when that had not worked all night.\n\n\n\n\t \n\n\n\n\tMy fear is he’ll make a look how smart I am decision in the playoffs that will cost us.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T15:14:32.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267568-vague-title/"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/146585/afc-playoff-scenarios-buffalo-bills-path-to-one-seed",
+      "team": "bills",
+      "title": "AFC playoff scenarios: Bills have a new path to one seed with Broncos loss",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T14:41:59.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/146585/afc-playoff-scenarios-buffalo-bills-path-to-one-seed"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/146561/pittsburgh-steelers-vs-denver-broncos-black-friday-nfl-fan-discussion",
+      "team": "bills",
+      "title": "Pittsburgh Steelers vs. Denver Broncos, Black Friday NFL fan discussion",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T14:30:55.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/146561/pittsburgh-steelers-vs-denver-broncos-black-friday-nfl-fan-discussion"
+    },
+    {
+      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-news/146588/bills-news-final-thoughts-on-win-over-chiefs",
+      "team": "bills",
+      "title": "Bills news: Final thoughts on win over Chiefs",
+      "summary": "",
+      "source": "Buffalo Rumblings",
+      "sourceType": "blog",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T14:27:05.000Z",
+      "link": "https://www.buffalorumblings.com/buffalo-bills-news/146588/bills-news-final-thoughts-on-win-over-chiefs"
+    },
+    {
+      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettino-discipline-manchester-united-red-cards/",
+      "team": "usmnt",
+      "title": "Mauricio Pochettino confronts discipline crisis at Manchester United as Red Devils pile up red cards",
+      "summary": "Heading into his third game in charge Pochettino is still awaiting the first match his side finishes with a full 11-player side",
+      "source": "CBS Sports",
+      "sourceType": "league",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-28T12:22:20.000Z",
+      "link": "https://www.cbssports.com/soccer/news/mauricio-pochettino-discipline-manchester-united-red-cards/"
     },
     {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267564-the-race-for-the-top-seed-in-the-afc/",
@@ -220,17 +352,6 @@
       "link": "http://www.espn.com/nhl/preview?gameId=401892816"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267562-retired-player-claims-nfl-officiating-is-rigged/",
-      "team": "bills",
-      "title": "Retired player claims NFL officiating is rigged",
-      "summary": "https://www.themirror.com/sport/american-football/breiden-fehoko-nfl-rigged-goodell-2123525",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-28T07:05:16.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267562-retired-player-claims-nfl-officiating-is-rigged/"
-    },
-    {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47259/uswnt-qualify-for-womens-world-cup-in-resounding-win-over-el-salvador",
       "team": "usmnt",
       "title": "USWNT qualify for Women’s World Cup in resounding win over El Salvador",
@@ -240,17 +361,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-28T05:25:56.000Z",
       "link": "https://www.starsandstripesfc.com/uswnt-news/47259/uswnt-qualify-for-womens-world-cup-in-resounding-win-over-el-salvador"
-    },
-    {
-      "id": "sportsnet-nhl::https://www.sportsnet.ca/nhl/video/nhl-highlights-penguins-6-sabres-3/",
-      "team": "sabres",
-      "title": "NHL Highlights: Penguins 6, Sabres 3",
-      "summary": "Evgeni Malkin and Ben Kindel each scored a goal and added an assist, as the Pittsburgh Penguins dominated  the Buffalo Sabres 6-3.",
-      "source": "Sportsnet",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-28T04:16:50.000Z",
-      "link": "https://www.sportsnet.ca/nhl/video/nhl-highlights-penguins-6-sabres-3/"
     },
     {
       "id": "espn-bills::50570870",
@@ -275,17 +385,6 @@
       "link": "https://www.buffalobills.com/news/what-they-re-saying-nfl-media-reacts-to-the-bills-walkoff-thanksgiving-night-victory-over-the-kansas-city-chiefs"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/146585/afc-playoff-scenarios-buffalo-bills-path-to-one-seed",
-      "team": "bills",
-      "title": "AFC playoff scenarios: Bills have a new path to one seed with Broncos loss",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-28T00:06:59.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/146585/afc-playoff-scenarios-buffalo-bills-path-to-one-seed"
-    },
-    {
       "id": "espn-bills::50599365",
       "team": "bills",
       "title": "NFL Week 12: Highlights of Thanksgiving weekend games",
@@ -295,17 +394,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-27T23:48:52Z",
       "link": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267561-tony-gonzalez-comment/",
-      "team": "bills",
-      "title": "Tony Gonzalez comment",
-      "summary": "In the Prime postgame show this biased ass went off complaining about the reversed catch near the end of the Bills/Chiefs game. At the end of his comments he huffed and puffed and said... \"Well, we know what will happen in the playoffs\"... I certainly took that as a shot regarding the Chiefs beating the Bills. Bad enough we have to listen to the Chiefs entitled player's (and wives) but it's disgusting to hear that type of whining, biased statement.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-27T23:47:26.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267561-tony-gonzalez-comment/"
     },
     {
       "id": "bandits-official::https://bandits.com/bandits-vs-swarm-how-to-watch-lineup-notes-and-storylines-2/",
@@ -407,17 +495,6 @@
       "link": "https://bandits.com/bandits-sign-grenon-to-1-year-contract/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267560-10-1-tied-for-best-ever-start-to-a-season%E2%80%A6/",
-      "team": "bills",
-      "title": "10-1 tied for best ever start to a season…",
-      "summary": "…last accomplished in 1991, and two times prior to that (‘88, ‘64).\n\n\n\n\t \n\n\n\n\tRegardless of the circumstances it’s time to give Brady his flowers. We may be witnessing a historic Bills season. \n\t \n\n\n\n\tIs there anyone who believes the Bills have this record with McD?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-27T22:43:30.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267560-10-1-tied-for-best-ever-start-to-a-season%E2%80%A6/"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-nfl-playoffs/146497/afc-playoff-picture-buffalo-bills-one-seed-chiefs-thanksgiving",
       "team": "bills",
       "title": "AFC Playoff Picture: Bills secure a big conference win in chase for one seed",
@@ -462,17 +539,6 @@
       "link": "https://www.twobillsdrive.com/community/topic/267555-the-rockpile-review-regular-season-dominance-over-chiefs-continues/"
     },
     {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-discussion/146561/pittsburgh-steelers-vs-denver-broncos-black-friday-nfl-fan-discussion",
-      "team": "bills",
-      "title": "Pittsburgh Steelers vs. Denver Broncos, Black Friday NFL fan discussion",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-27T19:19:21.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-discussion/146561/pittsburgh-steelers-vs-denver-broncos-black-friday-nfl-fan-discussion"
-    },
-    {
       "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146559/overturning-rashee-rice-fourth-quarter-catch-to-incomplete-was-correct-call",
       "team": "bills",
       "title": "Overturning Rashee Rice fourth-quarter catch to incomplete was correct call",
@@ -482,17 +548,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-27T19:18:49.000Z",
       "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146559/overturning-rashee-rice-fourth-quarter-catch-to-incomplete-was-correct-call"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267554-four-wins-in-18-days/",
-      "team": "bills",
-      "title": "Four wins in 18 days",
-      "summary": "This deserves its own thread.  It’s been a grind this month for these guys, and it’s frankly kind of stunning that we went through a brawl in Minnesota, a plucky Dolphins team that plays way harder than the Jets, and another slugfest last night and came out on top in all four.  Kudos to the S&T staff, and to the guys for putting in the work. It’s a great time to be a Bills fan.",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-27T19:10:21.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267554-four-wins-in-18-days/"
     },
     {
       "id": "espn-bills::50588078",
@@ -594,17 +649,6 @@
       "link": "https://www.espn.com/nfl/story/_/id/50609153/thanksgiving-games-bears-lions-eagles-cowboys-bills-chiefs"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267542-3up-3-down-chiefs/",
-      "team": "bills",
-      "title": "3up 3 Down Chiefs",
-      "summary": "Holy crap I think I aged 5 years... Big win bad weather not your typical Bills/KC game here goes\n\n\n\n\t \n\n\n\n\tUP\n\n\n\n\tT Bass - to me comeback player of the year\n\n\n\n\t \n\n\n\n\tBills D  great job as a unit I know weather but they did what they did\n\n\n\n\t \n\n\n\n\tCook again he isn't there we dont win\n\n\n\n\t \n\n\n\n\tDown\n\n\n\n\t \n\n\n\n\tJosh something is wrong I dont know what it is. He needs to get right quick\n\n\n\n\t \n\n\n\n\tHancock just looked out of place several times\n\n\n\n\t \n\n\n\n\tShakir multiple dropped passes needs to change",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-27T14:30:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267542-3up-3-down-chiefs/"
-    },
-    {
       "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267540-spags-schooled-brady-last-night-stuff-i-saw-on-all-22/",
       "team": "bills",
       "title": "Spags schooled Brady last night (stuff I saw on ALL-22)",
@@ -614,6 +658,17 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-27T14:12:55.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267540-spags-schooled-brady-last-night-stuff-i-saw-on-all-22/"
+    },
+    {
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267539-will-josh-allens-struggles-benefit-the-team-long-term/",
+      "team": "bills",
+      "title": "Will Josh Allen's Struggles Benefit the Team Long Term?",
+      "summary": "The team won last night despite Josh.  He has not been good the last month or so.  Threads ask-- what is wrong with Josh?\n\n\n\n\t \n\n\n\n\tPerhaps these struggles will ultimately inure to the long-term goals of the team-- winning it all.  The narrative for years-- correctly IMO--is that Allen needs to be Superman or the Bills lose.  The corollary is that the rest of the team does not hold its own when it matters.\n\n\n\n\t \n\n\n\n\tBut when the team wins in ugly fashion like last night, when Allen was at his worst, and the D and ST win the game, does that begin the process of making this a complete team, one that is not completely dependent on one guy?  I am confident Allen will return to form, but this lull may be invigorating to the rest of the team that they really matter too.  That the team can win even when Allen not only is not Superman, but is off.  That other guys can make key plays to win games. Maybe, just maybe, Allen's struggles will be the final piece to making this team the Buffalo Bills, and not just the Josh Allen Bills.  God, I hope so.",
+      "source": "TwoBillsDrive",
+      "sourceType": "forum",
+      "sourceCount": 1,
+      "publishedAt": "2026-11-27T13:32:24.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/267539-will-josh-allens-struggles-benefit-the-team-long-term/"
     },
     {
       "id": "espn-sabres::50595365",
@@ -724,17 +779,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-27T04:39:00.000Z",
       "link": "https://www.twobillsdrive.com/community/topic/267525-whats-up-with-josh/"
-    },
-    {
-      "id": "buffalo-rumblings::https://www.buffalorumblings.com/buffalo-bills-analysis/146471/buffalo-bills-stock-report-in-insane-13-10-victory-vs-kansas-city-chiefs",
-      "team": "bills",
-      "title": "Buffalo Bills stock report in insane 13-10 victory vs. Kansas City Chiefs",
-      "summary": "",
-      "source": "Buffalo Rumblings",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-27T04:36:03.000Z",
-      "link": "https://www.buffalorumblings.com/buffalo-bills-analysis/146471/buffalo-bills-stock-report-in-insane-13-10-victory-vs-kansas-city-chiefs"
     },
     {
       "id": "bills-official::https://www.buffalobills.com/news/buffalo-bills-vs-kansas-city-chiefs-where-to-watch-stream-and-listen-nfl-thanksgiving-2026",
@@ -869,26 +913,15 @@
       "link": "https://www.buffalobills.com/news/it-s-always-a-challenge-how-the-bills-are-preparing-for-a-high-powered-kansas-city-chiefs-offense"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/267504-around-the-league-week-12-no-bills-stuff-in-this-thread-please/",
-      "team": "bills",
-      "title": "Around the League - Week 12 (no Bills stuff in this thread please)",
-      "summary": "3 really good games to start the week \n\n\n\n\tGB vs LAR 👍🏻\n\n\n\n\tCHI vs DET 👍🏻\n\n\n\n\tKC vs BUF 👍🏻\n\n\n\n\t \n\n\n\n\t…and one dog, PHI vs DAL 🤮",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T18:23:25.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/267504-around-the-league-week-12-no-bills-stuff-in-this-thread-please/"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47230/meet-the-teams-at-the-2026-concacaf-w-championship",
+      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47236/2026-concacaf-w-championship-matchday-2-thread-and-discussion",
       "team": "usmnt",
-      "title": "Meet the teams at the 2026 Concacaf W Championship",
+      "title": "2026 CONCACAF W Championship – Matchday 2 thread and discussion",
       "summary": "",
       "source": "Stars and Stripes FC",
       "sourceType": "blog",
       "sourceCount": 1,
-      "publishedAt": "2026-11-25T18:12:05.000Z",
-      "link": "https://www.starsandstripesfc.com/uswnt-news/47230/meet-the-teams-at-the-2026-concacaf-w-championship"
+      "publishedAt": "2026-11-25T18:13:20.000Z",
+      "link": "https://www.starsandstripesfc.com/uswnt-news/47236/2026-concacaf-w-championship-matchday-2-thread-and-discussion"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47235/2026-concacaf-w-championship-previewing-uswnt-vs-el-salvador",
@@ -922,28 +955,6 @@
       "sourceCount": 1,
       "publishedAt": "2026-11-25T14:02:12Z",
       "link": "https://www.espn.com/nhl/story/_/id/50587368/nhl-2026-27-playoffs-standings-all-32-thanksgiving-panic-index-rankings-tiers"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-coverage/47193/usa-vs-el-salvador-2026-concacaf-w-championship-scouting-el-salvador",
-      "team": "usmnt",
-      "title": "USA vs. El Salvador, 2026 CONCACAF W Championship: Scouting El Salvador",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-25T00:00:10.000Z",
-      "link": "https://www.starsandstripesfc.com/uswnt-coverage/47193/usa-vs-el-salvador-2026-concacaf-w-championship-scouting-el-salvador"
-    },
-    {
-      "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47218/2031-womens-world-cup-to-feature-dynamic-ticket-pricing",
-      "team": "usmnt",
-      "title": "2031 Women’s World Cup to feature dynamic ticket pricing",
-      "summary": "",
-      "source": "Stars and Stripes FC",
-      "sourceType": "blog",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-24T20:51:42.000Z",
-      "link": "https://www.starsandstripesfc.com/uswnt-news/47218/2031-womens-world-cup-to-feature-dynamic-ticket-pricing"
     },
     {
       "id": "stars-and-stripes::https://www.starsandstripesfc.com/uswnt-news/47206/concacaf-w-championship-matchday-1-thread-and-discussion",
@@ -1023,59 +1034,26 @@
       "link": "https://www.cbssports.com/soccer/news/usmnt-haiti-christian-pulisic-mauricio-pochettino/"
     },
     {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/diego-kochen-usmnt-goalkeeper-claim-starting-job/",
-      "team": "usmnt",
-      "title": "Diego Kochen shows poise in USMNT net as young goalkeeper stakes claim to starting job",
-      "summary": "After a clean sheet against Mexico and a composed display vs. Haiti, the 20-year-old Barcelona product is showing the poise America needs in net",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-17T16:22:25.000Z",
-      "link": "https://www.cbssports.com/soccer/news/diego-kochen-usmnt-goalkeeper-claim-starting-job/"
-    },
-    {
-      "id": "cbs-soccer-usmnt::https://www.cbssports.com/soccer/news/mauricio-pochettinos-pivoting-future-manchester-united-move/",
-      "team": "usmnt",
-      "title": "Mauricio Pochettino's final go with USMNT is all about pivoting to the future before Manchester United move",
-      "summary": "Pochettino will coach his final game with the USMNT on Tuesday, the second leg of the Concacaf Nations League quarterfinals against Haiti, before joining Manchester United later in the week",
-      "source": "CBS Sports",
-      "sourceType": "league",
-      "sourceCount": 1,
-      "publishedAt": "2026-11-16T19:02:52.000Z",
-      "link": "https://www.cbssports.com/soccer/news/mauricio-pochettinos-pivoting-future-manchester-united-move/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266930-what-are-the-tbd-thoughts-on-keon-coleman/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266668-nfl-officiating-inconsistency/",
       "team": "bills",
-      "title": "What are the TBD thoughts on Keon Coleman",
-      "summary": "Well?\n\n\n\n\t \n\n\n\n\tweek 5 is in the books and our Bills are 4-1\n\n\n\n\t \n\n\n\n\twhy do I pick Keon Coleman to point out?\n\n\n\n\t \n\n\n\n\tterry Pegula and Brandon Beane saying “well we didn’t want him” after the firing of McDermott - throwing a starter under the bus and a young talent - terrible PR and Management there.\n\n\n\n\t \n\n\n\n\tso?  Where’s he at?\n\n\n\n\t \n\n\n\n\t15 receptions on 18 targets\n\n\n\n\t224 yards\n\n\n\n\t2 TDs\n\n\n\n\t \n\n\n\n\twhats funny is the last two games when no one else has showed up - Keon made TD receptions in the last minutes of regulation \n\n\n\n\t \n\n\n\n\tbeautiful one against NE (incredible game all together for him)\n\n\n\n\t \n\n\n\n\tthen this week \n\n\n\n\tdrawing a HUGE penalty \n\n\n\n\tthen a great job on his route for the TD (play design there was excellent)\n\n\n\n\t \n\n\n\n\tpost this as receipts \n\n\n\n\tpwrsonally point Coleman has 900 range yards 10 tds - continue to make some big plays down by the goal line - use his body in moments like this week.\n\n\n\n\t \n\n\n\n\tthem watch as Brandon Beane says “oh well - I mean I drafted Keon Coleman!!!!”\n\n\n\n\t\n\t \n\n\n\n\trooting for the kid\n\n\n\n\tglad he’s turning it around - at least to me he is",
+      "title": "NFL officiating inconsistency",
+      "summary": "abovevyou have 2 QB sacks. One is ruled a fumble and one is not. Both go against the Saints",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-14T12:46:02.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266930-what-are-the-tbd-thoughts-on-keon-coleman/"
+      "publishedAt": "2026-09-28T12:26:15.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/266668-nfl-officiating-inconsistency/"
     },
     {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266761-early-assessment-that-loss-cost-us-the-division/",
+      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/249137-random-talking-head-says-something-about-the-bills/",
       "team": "bills",
-      "title": "Early Assessment - That Loss Cost Us the Division",
-      "summary": "We lost what was the biggest game for us on paper this year.  There was no more important game on the schedule than this one at the start of the season.  Yes, there will hopefully be more important games to come down the stretch if we are fighting for the playoffs, but when the schedule was released this year, this home game against the Pats was THE game.  And we blew it.\n\n\n\n\t \n\n\n\n\tI hope I am wrong, but what I'm seeing is the same up-and-down team from last year.  Looking at the schedule and comparing it to the Pats schedule, I see the Pats with the much better prospects of winning the division.  In fact, they have a strong probability of being in first in the division after next week if they beat the Raiders and we lose to the Rams.  Frankly, it's hard to believe we lost this one, but Brady isn't working out for me so far.  He's simply McDermott V2.",
+      "title": "Random talking head says something about the Bills",
+      "summary": "Since we don't need a new thread every time some random media personality says something about the Bills, I'm just creating this thread to have a place to drop them.",
       "source": "TwoBillsDrive",
       "sourceType": "forum",
       "sourceCount": 1,
-      "publishedAt": "2026-10-04T22:25:33.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266761-early-assessment-that-loss-cost-us-the-division/"
-    },
-    {
-      "id": "twobillsdrive::https://www.twobillsdrive.com/community/topic/266047-update-goo-goo-dolls-to-perform-at-halftime-on-thanksgiving-game-vs-the-chiefs/",
-      "team": "bills",
-      "title": "** Update **  Goo Goo Dolls to perform at Halftime on Thanksgiving Game vs the Chiefs",
-      "summary": "Rochester, NY Buffalo Bills Backers\n\n\n\n\t1͏h͏ ·\n\n\n\n\t#BREAKING: The Buffalo Bills are reportedly finalizing a “massive and familiar” musical act to perform at halftime for their home opener at the new Highmark Stadium on Thursday, 9/17 vs. the Detroit Lions, per Due Champions.\n\n\n\n\t \n\n\n\n\tMassive and Familiar? The Goo Goo Dolls or the Killers?",
-      "source": "TwoBillsDrive",
-      "sourceType": "forum",
-      "sourceCount": 1,
-      "publishedAt": "2026-08-10T16:59:17.000Z",
-      "link": "https://www.twobillsdrive.com/community/topic/266047-update-goo-goo-dolls-to-perform-at-halftime-on-thanksgiving-game-vs-the-chiefs/"
+      "publishedAt": "2023-09-08T22:44:09.000Z",
+      "link": "https://www.twobillsdrive.com/community/topic/249137-random-talking-head-says-something-about-the-bills/"
     }
   ]
 }
